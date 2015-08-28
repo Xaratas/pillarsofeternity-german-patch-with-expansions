@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_lone_ranger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hallo. Es ist immer schön, andere Gestandene auf der Straße zu treffen. Du kannst dich vorerst entspannen - Barren sagt mir Bescheid, wenn sich Oger nähern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"He. Kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ganz ruhig. Das ist kein Oger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich mache mich bald wieder an den Abstieg, aber ich habe noch einige Vorräte, wenn du etwas brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wo geht es zu Durgans Batterie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Kennst du einen Mann namens Galvino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Galvino kennt wohl jeder. Er hat eine kleine Hütte etwas nördlich von hier. Du musst ein Stück der Straße folgen und dich dann in den Wald schlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ach, so einer bist du, ja? Folge einfach der Straße nach Norden, dann nach Westen über die Brücke. Du erkennst es dann schon."</DefaultText>
+      <FemaleText>"Ach, so eine bist du, ja? Folge einfach der Straße nach Norden, dann nach Westen über die Brücke. Du erkennst es dann schon."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Aber sicher. Sieh dich nur um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich heiße Taragaer. Ich komme manchmal nach Stalwart, um Handel zu treiben. Nichts Besonderes, nicht so wie Yduran. Nur Vorräte, Zutaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich wollte nach dem Überfall ein wenig Luft schnappen. Städte liegen mir nicht sonderlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Sei vorsichtig - vor einiger Zeit sind Lagufaeth hier aufgetaucht. Und sie haben schon einigen Karawanen übel mitgespielt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aber geh nicht zu weit nach Norden. Auf der Straße zum Pass wimmelt es von Banditen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Weißt du etwas über Banditen in dieser Gegend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sicher doch. Die meisten Karawanen müssen die einzige Straße nehmen, die zum Pass führt. Ein Stück nördlich von hier, vor der Kurve, hat eine Gruppe von Banditen ihr Lager aufgeschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"An guten Tagen nehmen sie dir nur einen Wegezoll ab, meistens aber den Kopf. Ich persönlich halte mich von ihnen fern. Und meistens kommen sie nicht den Berg hinunter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Kennst du einen Mann namens Harmke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nein, tut mir leid. Mit dem habe ich wohl noch nie Handel getrieben. Wenn er aus der Gegend stammt, kann dir in Stalwart sicher jemand helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Weißt du etwas über die Karawane, die hier kürzlich durchkam?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich habe ihre Überreste gesehen. Ein paar der Wagen findest du oben bei den Stufen, wenn du in Richtung der Batterie gehst." 
+
+Er deutet nach Nordwesten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich dachte mir, ich sehe mich mal um, falls sich etwas bergen lässt. Aber sie haben alles, was sie tragen konnten, über die Brücke geschleppt. Für mich völlig unerreichbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

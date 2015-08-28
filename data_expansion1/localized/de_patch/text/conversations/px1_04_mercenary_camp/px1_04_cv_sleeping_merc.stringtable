@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_cv_sleeping_merc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein schlafender Orlaner liegt laut schnarchend auf einer widerwärtigen Matratze einige Schritte von dir entfernt. Ein großer Schlüssel ruht auf seiner Brust, mit einem Lederband um seinen Hals gebunden. In seiner linken Hand baumelt ein leerer Humpen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Den Orlaner untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Langsam und vorsichtig zu dem Orlaner gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die schwer vernarbte Brust des Orlaners hebt und senkt sich mit lautem, ungleichmäßigem Schnarchen. Er murmelt im Schlaf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du näherst dich vorsichtig dem schlafenden Orlaner und bemühst dich dabei, nicht auf die Zweige und getrockneten Blätter auf dem Boden zu treten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du näherst dich vorsichtig dem schlafenden Orlaner.
+
+Plötzlich spürst du, wie ein Zweig unter deinen Füßen zerbricht. Ein lautes Knacken durchschneidet die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Orlaner setzt sich auf. Seine Augen flackern hinter halb geschlossenen Lidern hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Wer soll sich nähern?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Du tust es selbst.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Etwas anderes tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 0] nähert sich vorsichtig dem schlafenden Orlaner.
+
+Plötzlich tritt [Specified 0] auf einen Zweig. Ein lautes Knacken durchschneidet die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 0] nähert sich vorsichtig dem schlafenden Orlaner und bemüht sich dabei, nicht auf die Zweige und getrockneten Blätter auf dem Boden zu treten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Die kleine Hübsche ... wie viel willst du für sie? ... Oder was kriege ich hierfür?"
+
+Die Stimme des Orlaners driftet ab und er schnarcht weiter. Plötzlich zuckt er zusammen und presst die Augenlider zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nein! Nicht die Aumaua! Nein!"
+
+Der Orlaner rollt sich zu einer Kugel zusammen und wiegt sich hin und her, wacht aber nicht auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sein Blick kommt auf deiner schattigen Gestalt zu ruhen, die unter dem abnehmenden Mond kauert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Noch eine Runde mit der Aumaua, bitte."
+
+Der Orlaner leckt sich die Lippen, als würde er ein ihm unbekanntes Essen kosten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Er legt sich wieder auf die Matratze und rollt auf seine Seite. Seinen leeren Krug hält er im Arm wie ein Kind seine Puppe.
+
+Nach wenigen Herzschlägen kehrt sein Schnarchen zurück ... allerdings mit einem gleichmäßigen Rhythmus, der dich an eine schnurrende Katze erinnert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Sein Blick kommt auf dir zu ruhen, wie du da etwas verdächtig im hellsten Tageslicht kauerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er atmet tief ein und seine katzenhaften Augen öffnen sich weit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Deinen Dolch auf den Orlaner werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Deine Armbrust auf den Orlaner abfeuern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Deinen Bogen auf den Orlaner abfeuern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Deinen Speer auf den Orlaner werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Den Schlüssel nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Den Orlaner töten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vorsichtig nimmst du dem Orlaner das Lederband vom Hals, indem du es über seine großen Ohren ziehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Als du anfängst, den Schlüssel von der Brust des Orlaners zu heben, bleibt das Lederband an einem der vielen Ohrringe des Orlaners hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der Orlaner jault auf und reißt seine Augen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Den Schlüssel nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Den Orlaner töten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Vorsichtig nimmt [Specified 0] dem Orlaner das Lederband vom Hals, was nur möglich ist, indem man es über die großen Ohren des schlafenden Mannes zieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Als [Specified 0] anfängt, den Schlüssel von der Brust des Orlaners zu heben, bleibt das Lederband an einem der vielen Ohrringe des Orlaners hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du erledigst den schlafenden Söldner leise mit einem gut gezielten Todeshieb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du schlägst auf den Orlaner ein, doch durch den Hieb wacht er auf. Er schüttelt den Kopf ... verletzt, aber am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Specified 0] erledigt den schlafenden Söldner leise mit einem gut gezielten Todeshieb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 0] schlägt auf den Orlaner ein, doch durch den Hieb wacht er auf. Er schüttelt den Kopf ... verletzt, aber am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Verschlummern wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Puppenspieler wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Mit Wilder Sprint auf den Orlaner zustürmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du sprintest los und lässt einen wohlplatzierten Hieb auf den Orlaner niedersausen, bevor er schreien kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bevor der Orlaner auch nur ein Wort sprechen kann, ist er von dem sanften Leuchten der Magie umhüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Mit Große Schritte auf den Orlaner zustürmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Auf den Orlaner zustürmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Der panische Orlaner stößt einen markerschütternden Schrei aus, der durch die Schlucht widerhallt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Du stürzt auf den Orlaner zu, um ihn zum Schweigen zu bringen, bevor er dich verraten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Leider bist du zu langsam, um ihn aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Der Schlag trifft den Orlaner direkt unter dem Kinn und tötet ihn sofort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Der Schlag trifft sein Ziel, die Wunde ist jedoch nicht tödlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Der Orlaner setzt sich auf. Seine Augen flackern hinter halb geschlossenen Lidern hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sein Blick kommt auf der schattigen Gestalt von [Specified 0] zu ruhen, die unter dem abnehmenden Mond kauert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Sein Blick kommt auf [Specified 0] zu ruhen, etwas verdächtig im hellsten Tageslicht kauernd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] sprintet los und lässt einen wohlplatzierten Hieb auf den Orlaner niedersausen, bevor er schreien kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0] stürzt auf den Orlaner zu, um ihn zum Schweigen zu bringen.
+
+Leider ist [Specified 0] nicht schnell genug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Der Schlag trifft den Orlaner direkt unter dem Kinn und tötet ihn sofort.
+
+Hiravias wirft dir einen zornigen, vorwurfsvollen Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich hoffe, das hast du nicht dort gelernt, wo ich es vermute."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Mein Fürst, ich habe einen Brief für Sie. Er kam mit einer großen Summe Geldes. Sie haben auf Ihren Reisen wohl neue Freunde gefunden?"</DefaultText>
+      <FemaleText>"Meine Fürstin, ich habe einen Brief für Sie. Er kam mit einer großen Summe Geldes. Sie haben auf Ihren Reisen wohl neue Freunde gefunden?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Nun denn, kann ich etwas für Sie tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

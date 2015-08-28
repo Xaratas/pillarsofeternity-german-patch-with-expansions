@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_traveler_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Einige Gegenstände liegen neben dem Weg verteilt. Hier scheint ein Kampf stattgefunden zu haben, aber die Spuren sind halb unter einer dünnen Schneedecke begraben.
+
+Essenzfäden schweben in der kalten Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Nach der Essenz greifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ein leeres Paket liegt im Schnee. Es wurde von Messern aufgerissen. Oder von Klauen.
+
+Außerdem ist der Boden voller schlammiger Spuren von Füßen mit drei Zehen und Häuten dazwischen. Du zählst über ein Dutzend einzelne Spuren, die alle nach Norden führen.
+
+Sie sehen frisch aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ein leeres Paket liegt im Schnee. Es wurde von Messern aufgerissen. Oder von Klauen.
+
+Außerdem ist der Boden voller schlammiger Fußspuren. Es ist schwer zu sagen, wie genau sie aussehen oder zu wie vielen Kreaturen sie gehören - aber sie scheinen nach Norden zu führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Seelenfragment lässt dich in eine Erinnerung eintauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du heißt Ygadr. Du warst noch nie weiter als zwanzig Meilen von zuhause entfernt - ganz gewiss nicht in der Weißmark. Und doch steigst du seit gut einer Woche immer weiter hinauf.
+
+Die Luft ist zu dünn, deine Kleider sind zu leicht und du hast kaum noch Essen für drei Tage.
+
+Aber du hast dich nie besser gefühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Seit du deine Reise begonnen hast, bist du höchstens fünfmal ohnmächtig geworden. Davor geschah dir das an einem einzigen Tag.
+
+Die Träume sind aber das Beste. Trotz des gefrorenen, felsigen Bodens und des kreischenden Winds schläfst du jede Nacht tief und fest und erlebst Visionen von majestätischen schneebedeckten Gipfeln. Die Kälte ist nur ein süßes Ziehen in deinen Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Und während du gegen den Wind wanderst, spürst du, wie sich dieses Ziehen in dir breitmacht, genau wie die Gewissheit, dass du dich ihm näherst. Oder ihr.
+
+Deinem Seelenzwilling.
+
+Einem Fremden, dessen Seele ein Spiegel deiner eigenen ist. Eine der wenigen Personen in Eora, welche die ständige Pein einer gespaltenen Seele verstehen können - und die einzige Person, die dir helfen kann, diese Pein zu lindern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Etwas nähert sich durch den Schneenebel vor dir.
+
+Du spürst ein Pulsieren wie einen Herzschlag durch Leinen und du weißt-</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Vision bricht jäh ab. Du starrst auf Ygadrs zerstreute Besitztümer, während seine Hochstimmung aus deinen Adern schwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Vision bricht jäh ab. Du starrst auf Ygadrs zerstreute Besitztümer, während seine Hochstimmung aus deinen Adern schwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Als seine Essenz aus dir schwindet, spürst du, wie seine Bereitwilligkeit sich in Enttäuschung auflöst ... bis nichts mehr übrig ist als die Leere eines bedeutungslosen Todes.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

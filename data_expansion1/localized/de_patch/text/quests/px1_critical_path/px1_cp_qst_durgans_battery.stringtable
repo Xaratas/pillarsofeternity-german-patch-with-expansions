@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_durgans_battery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Durgans Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise nach Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Töte Darzir in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sprich mit Renengild in ihrem Haus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde einen Weg, wie man Durgans Batterie öffnen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Öffne Durgans Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sprich mit der Burgvogtin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In Caed Nua ist ein Brief eingetroffen, adressiert an den neuen Fürsten. Die Burgvogtin glaubt, er könnte eine interessante Gelegenheit darstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Bürger von Stalwart haben mich gebeten, eine verlassene Zwergenfestung namens Durgans Batterie zu öffnen und die Weiße Esse zu finden. Ihre Bürgermeisterin, Renengild, kann mir vermutlich mehr sagen. 
+
+
+Stalwart liegt in der Weißmark, die Reise wird mehrere Tage in Anspruch nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Als ich das Dorf erreicht hatte, stellte ich fest, dass es in einem erbitterten Kampf mit einer Gruppe Oger lag. Wenn ich den Oger töte, der den Angriff anführt, bricht das vielleicht die Moral der Oger und sie ziehen sich zurück. Ihr Anführer heißt Darzir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Renengild, die Bürgermeisterin von Stalwart, hat mich in ihr Haus eingeladen. Gewiss hat sie zusätzliche Informationen über Durgans Batterie und was ich tun muss, um die Festung zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Renengild hat mir gesagt, dass Durgans Batterie versiegelt ist, seit die ursprünglichen Besitzer vor über zweihundert Jahren spurlos verschwunden sind. Stalwart hat schon viele Abenteurergruppen gerufen, aber keiner ist es gelungen, in die Festung einzudringen.
+
+Meine Aufgabe ist komplizierter, als es ursprünglich schien ... aber Renengild und ihr Sohn haben mir einige Hinweise gegeben. Sie haben vorgeschlagen, dass ich mit Galvino spreche, einem Beseeler und Schmied. Und ich soll Matronin Bergeran zur Rede stellen, die Anführerin eines örtlichen Ogerclans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich bin bereit, Durgans Batterie zu betreten. Ich habe das Relieffragment, das die Expedition des Bleiernen Schlüssels gefunden hatte. Und ich habe das Festungslied, das ich in Stalwart gelernt habe:
+
+"Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.
+
+"Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.
+
+"Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Die Burgvogtin hat meine Anwesenheit auf Caed Nua erbeten. Es gibt eine dringliche Angelegenheit zu besprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mitten im Kampf sah ich plötzlich Visionen von Zwergen an meiner Seite kämpfen. Als wir die Oger schließlich besiegt hatten, waren sie plötzlich verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Matronin Beregans Clan haust in Eishöhlen in der Nähe der Stadt. Renengild glaubt, dass Beregan die vorherige Expedition getötet hat - die Gruppe des Bleiernen Schlüssels. Wenn sie etwas Nützliches gefunden haben, hat Beregan es vermutlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Galvino lebt in der Nähe von Durgans Batterie. Uldric glaubt, dass er etwas Nützliches wissen könnte ... wenn ich ihn überzeugen kann, mir zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe bei den Überresten der Expedition des Bleiernen Schlüssels eine ambossförmige Kachel gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe mit Galvino gesprochen. Er glaubt, dass in Durgans Batterie die Seelen ihrer ehemaligen Besitzer hausen. Er erklärte mir, dass ich das Festungslied von Durgans Batterie lernen muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Renengild hat mir geraten, mit den Gästen in der Gréfenrast zu sprechen. Der Wirt dort kann mir eine warme Mahlzeit und ein Bett anbieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Taena getroffen, die alte Minenaufseherin. Sie ist ein wenig senil, aber ihre Erfahrung wird wichtig sein, wenn Stalwart sich je wieder als Bergbaustadt etablieren möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Taena getroffen, die alte Minenaufseherin. Sie ist ein wenig senil, aber ihre Erfahrung wird wichtig sein, wenn Stalwart sich je wieder als Bergbaustadt etablieren möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Tür zu Durgans Batterie geöffnet. Nun kann ich darin endlich nach der Weißen Esse suchen - und nach anderen Geheimnissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich wurde in die Weißmark gerufen, um die Weiße Esse zu finden. Diese soll sich angeblich in einer verlassenen Zwergenfestung namens Durgans Batterie befinden. 
+
+Die Weiße Esse diente einst dazu, legendäre Waffen aus Durganstahl zu schmieden. Die Bewohner von Stalwart hoffen, das Geheimnis dieses Prozesses wiederzuentdecken. Außerdem hat irgendetwas in Durgans Batterie die Aufmerksamkeit des Bleiernen Schlüssels auf sich gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

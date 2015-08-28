@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px1_cm_cv_zahua_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>79</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Mann, der aus dem Fass gesprungen ist, steht vor dir und blickt dich an. Bis auf einen Lendenschurz ist er nackt - und voller Fischeingeweide.
+
+Er ist von Kopf bis Fuß mit Narben bedeckt - Riss- und Stichwunden und den dornigen Spuren von Peitschenhieben. Die meisten sind verblichen, wie alte Erinnerungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dennoch ist der körperliche Zustand des Mannes bemerkenswert. Die schlaffe Haut an seinen Flanken und Ellbogen ist das einzige Anzeichen seines fortgeschrittenen Alters.
+
+Sein Gesichtsausdruck ist seelenruhig, doch der Rest von ihm scheint auf alles gefasst zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du musst Zahua verzeihen. Ich habe dich nicht erwartet."
+
+Er blickt dir zunächst in die Augen, doch sein Blick schweift herum und erfasst unterschiedliche Stellen deines Gesichts, als wäre er von neuen Entdeckungen abgelenkt.
+
+Wenn er verunsichert sein sollte, lässt er es sich nicht anmerken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was hast du in diesem Fass getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zahua kratzt sich beunruhigt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich dachte, ich würde meine Augen ausruhen. Ich warte, dass das Malcachoa mir Klarheit bringt."
+
+Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Offenbar bin ich eingenickt. Gut, dass mein Meister nicht mehr am Leben ist, um das zu sehen."
+
+Zahua blinzelt und beugt sich vor, um dich besser ansehen zu können. Seine vergrößerten Pupillen scheinen seine fahlen Irise zu verdrängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du hast einen Meister, sagtest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich verstehe immer noch nicht, was du in diesem Fass wolltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Mann verfolgt deinen unbewussten Blick auf seine Narben. Er lächelt höflich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ein Lehrer, kein Besitzer. Zahua ist ein freier Mann. Nun ... so frei, wie wir alle eben sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich habe mich von der Eitelkeit befreit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Und dabei wurde auch der Verstand amputiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Sag mir: Wie kann man eitel sein, wenn man im Geruch toter Fische gebadet ist?"
+
+Seine Augen funkeln stolz auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Es hilft, wenn man so hübsch ist."</DefaultText>
+      <FemaleText>"Es hilft, wenn man so schön ist."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Das lässt sich kaum bestreiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe den Geruch kaum bemerkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Die Narben sind vermutlich genauso wirkungsvoll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich hatte diese Idee, als ich diesen Weg entlang kam. Ich bin mit dem Ergebnis bisher sehr zufrieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er lächelt einer Frau zu, die angewidert zu ihm blickt, als sie vorbeigeht. Durch die Ablenkung stolpert sie über einen Stein und fällt fast auf ihr Gesicht.
+
+Er klatscht in die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er lacht triumphierend. "Ja. Sehr zufrieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Beschmierst du dich immer mit Fisch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Diese Narben stammen aus dem Kampf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Er lacht. "Gott, nein! Was für eine Art, die Welt zu bereisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Üblicherweise beschmiert man sich mit der Asche der Toten.
+
+"Aber hier verbrennt man die Toten nicht, also muss ich mich mit dem abfinden, was das Land bietet."
+
+Er hält die Nase in die Luft und schnuppert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Zahua blickt an seinem Körper hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vom Kampf, ja. Ich habe sie meinen Feinden zugefügt."
+
+Er deutet auf mehrere vernarbte Stellen an seinem Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Diese gingen gegen die Furcht. Diese gegen das Vergnügen. Diese gegen den Hass. Diese hier unten gegen Gier und Zweifel. Und diese-"
+
+Er deutet auf sein Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Diese gegen die Eitelkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du hast dir diese Narben selbst zugefügt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich möchte etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich kann sie mir nicht alle zuschreiben. Aber die meisten guten stammen von mir."
+
+Er schmunzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich habe sie mir im Kampf zugefügt, um mich daran zu erinnern, was real ist und was nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Unsere schlimmsten Feinde sind Hirngespinste. Vergnügen. Furcht. Wenn wir sie als das erkennen, was sie sind, werden wir unbezwingbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du siehst nicht aus, als kämest du aus dieser Gegend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wie du wünschst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Und das hast du vollbracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich stand kurz davor. Aber immer nur für einen kurzen Augenblick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Im Augenblick der schlimmsten Schmerzen wird die Welt klar.
+
+"In diesem Augenblick bin ich jedem gewachsen."
+
+Er nickt langsam und überzeugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Er trug einen Hilferuf bei sich. Da ich erkannte, dass er in dem Kloster keine Mönche finden würde, ging ich an ihrer Statt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Stalwart hat auch mich angeheuert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Er zuckt die Schultern. "Ich würde nicht sagen, dass ich angeheuert wurde. Ich will keine Bezahlung und ich verspreche keinen Erfolg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich habe einen Pfad gewählt, und meine Belohnung ist es, ihn zu beschreiten."
+
+Er runzelt unruhig die Stirn, fast gepeinigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wenn du auch die Weiße Esse suchst - ich könnte die Hilfe eines erfahrenen Kriegers brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hmm. Die Kälte scheint den Geruch zu besiegen. Er bleibt verborgen.
+
+"Enttäuschend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Wer schwimmen will, darf nicht mit der Strömung streiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Wir beide wollen der Gefahr für Stalwart ein Ende bereiten. Ich könnte die Hilfe eines erfahrenen Kriegers brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich könnte die Hilfe eines erfahrenen Kriegers brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Malcachoa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ein kleiner, weißer Pilz. In diesen Landen nennt man ihn 'Schneekappe', wie mir scheint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Er kann das wahre Wesen vieler Dinge offenbaren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Bist du - bist du real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Jetzt, wo du es erwähnst, bin ich mir gar nicht so sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Es lässt sich nicht mit Gewissheit sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Natürlich. Ich wollte dich nicht beleidigen. Aber wenn man Malcachoa genommen hat, sollte man lieber nachfragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Lügen] "Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Lügen] "Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Hmm. Dann lassen wir die Angelegenheit vorerst ruhen. Bis das Malcachoa abklingt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Wir sind hier, zusammen, in diesem Augenblick, weil eine perfekte Macht es so wollte. Wer ist Zahua, das zu hinterfragen?"
+
+Er blickt dir direkt in die Augen. Diesmal schweifen sie nicht ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Du hast etwas an dir ... du erinnerst mich an ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Hmm. Also wohl eine Malcachoa-Vision. Ich hatte etwas Ausgefalleneres erwartet. Einen flammenden Vogel vielleicht, oder einen sprechenden Edelstein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Und diese Festung, Durgans Batterie ... ihre Bewohner sind fort. Zahua möchte wissen warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Zahua ist nicht mehr jung, aber im Kampf ist er immer noch der größte aller Tacan. Also ging er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Zahua legt den Kopf in den Nacken, den Blick auf den Himmel gerichtet. Er bleibt reglos stehen, wie verzaubert. Schließlich blinzelt er, als würde er erwachen, und blickt wieder zu dir.
+
+Er zuckt fröhlich die Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich begleite dich, so lange die Götter es wünschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Lass uns aufbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich habe unweit von hier ein Kloster besucht. Es stand leer, doch als ich es verließ, traf ich einen Boten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Deine Wunden müssen dir großes Leid verursacht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Natürlich. Ich habe Glück, so viel gelitten zu haben.
+
+"Hätte ich nicht gelitten, würde ich nicht danach streben, mich davon zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich würde von einem unbefriedigenden Ziel zum nächsten wandern - mehr Reichtum, einen besseren Stand. Meine Seele würde verkümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Aber einen Ort zu suchen, den das Leid nicht erreichen kann, das ist Lab für die Seele. Es härtet sie gegen die Elemente."
+
+Er ballt zur Illustration die Fäuste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Das Leid ist das größte Geschenk, das die Götter uns je gemacht haben. Ihre schönste, perfekte Schöpfung. Es ist die Hand, die das Rad dreht."
+
+Seine Augen glänzen, als würde er einen alten und geliebten Freund wiedersehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Zahua nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

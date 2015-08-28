@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_si_bookcase_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Bretter dieses Bücherregals quillen über mit Büchern, losen Seiten und den verschiedensten Artefakten. Auf vielen der Buchrücken sind nicht zu entziffernde Hieroglyphen gekritzelt. Einige sind unbeschriftet.
+
+Es würde Stunden dauern, dieses Chaos zu durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Bücherregal durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ganz hinten auf einem Regalbrett findest du ein dickes Buch, das mit fremdartigen Symbolen verziert ist. Auf den ersten Blick wirkt es recht unscheinbar, doch schließlich erkennst du die Symbole als Beschwörungen und das Buch als Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du blätterst durch die Seiten eines besonders großen Buchs und findest darin einige Schriftrollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du findest auf einem der obersten Regalbretter ein altes Buch. Es ist so mit Staub bedeckt, dass du es beinahe übersiehst. Als du es aber abwischst und durch die Seiten blätterst, merkst du, dass es ein frühes Exemplar von "Der iroccianische Kalender" ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Nach stundenlangem Suchen tut dir dein Rücken weh und deine Augen brennen.
+
+Du findest nichts weiteres von Wert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Eines der Bücher ist besonders schwer. Als du es herausziehst, siehst du, dass es ein Buch über Münzkunde ist. Echte Münzen sind auf die Seiten geklebt.
+
+Du reißt die Münzen heraus und nimmst sie an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du hast ein dickes Buch mit einem juwelenbesetzten Einband gefunden. Die Seiten sind unleserlich, aber du hebelst die Edelsteine aus ihren Fassungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Auf einem Regalbrett sind Federn, Drähte und verschiedene andere Teile verstreut. Du erkennst, das es Bauteile einer Falle sind. Du baust die Falle zusammen und steckst sie ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du studierst einige unbeschriftete Gläser mit Kräutern und getrockneten Pilzen. In einem davon findest du Carow Golan.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

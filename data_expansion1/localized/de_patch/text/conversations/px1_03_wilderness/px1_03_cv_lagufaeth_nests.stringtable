@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_lagufaeth_nests</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du blickst in das Becken. Das Wasser ist fast vollständig klar, du siehst aber nichts Bemerkenswertes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du wedelst den Dampf über diesem Becken beiseite. Du glaubst, du siehst darin ...
+
+Aber nein. Es ist nur eine Blase, die aus den Tiefen aufsteigt. Das Becken ist leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Als du in das dritte Becken blickst, siehst du etwas Rundes am Boden leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du spürst, wie dich jemand von hinten anstupst.
+
+Du drehst dich um. Es ist niemand zu sehen, aber du spürst es erneut.
+
+In deinem Rucksack bewegt sich etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du öffnest deinen Rucksack und hörst ein leises Gurgeln. Als du deine Sachen durchwühlst, streift etwas Glattes deine Hand.
+
+Es ist ein Baby-Lagufaeth. Er beobachtet dich mit gutmütiger Neugierde. An seinem Körper kleben noch Eierschalenstücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es hat dich als erstes Wesen gesehen. Es hält dich jetzt für seinen Papa. Dieses kleine vierarmige Fischbaby ist dein Sohn.
+
+Edér strahlt. "Ich freue mich so für dich."</DefaultText>
+      <FemaleText>"Es hat dich als erstes Wesen gesehen. Es hält dich jetzt für seine Mama. Dieses kleine vierarmige Fischbaby ist dein Sohn.
+
+Edér strahlt. "Ich freue mich so für dich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Es nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Es nicht nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du greifst hinein. Dein Fleisch kribbelt in dem warmen Wasser. Du ziehst die Kugel hinaus. Sie ist schwerer, als sie aussah, und ihre glatte, perlmuttartige Oberfläche glänzt, als du sie in der Hand drehst.
+
+Du steckst sie in deinen Rucksack.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_flagon_innkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>125</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aber du willst dich bestimmt auch stärken, nach deinem Kampf gegen die Oger. Oder willst du vielleicht ein Zimmer? Sag einfach Bescheid, dann werfe ich diesen verschlagenen kleinen Orlaner raus."
+
+Er nickt dir grob aber kameradschaftlich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du bist der Wahnsinnige, der Renengild getötet hat! Ich will hier keinen Ärger haben, verstanden? Ich führe ein anständiges Geschäft."
+
+Er macht einen Schritt vom Tresen zurück und beobachtet dich misstrauisch.</DefaultText>
+      <FemaleText>"Du bist die Wahnsinnige, die Renengild getötet hat! Ich will hier keinen Ärger haben, verstanden? Ich führe ein anständiges Geschäft."
+
+Er macht einen Schritt vom Tresen zurück und beobachtet dich misstrauisch.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Welcher Orlaner?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Aber man sagt, du hast die Oger vertrieben? Ich wusste nicht, dass ihr Fellvolk zu so etwas fähig seid."
+
+Er kratzt sich stirnrunzelnd am Bart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Noch ein Orlaner? Ich habe hier gar keinen Vetter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was kannst du mir denn zur Stärkung anbieten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Du willst dir die Hände wärmen, ja? Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du hast etwas von einem Orlaner gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich will hier keinen Ärger, ja? Ich führe ein anständiges, ruhiges Haus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du hast etwas von einem Orlaner gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Also gut. Aber wenn du ein Zimmer willst, musst du es mit diesem Orlaner teilen. Ich will hier kein Blutvergießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Dann sieh dich um. Aber halt dich von mir fern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ist vor ein paar Tagen aufgetaucht. Er steckt den Kopf gerade lang genug aus dem Hinterzimmer, um seinen Nachttopf zu leeren."
+
+Er blickt zum Gang, als würde er den Orlaner herausfordern, sich zu zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich könnte mit ihm reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Warum glaubst du, dass er Ärger macht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aha. Ich gehe dann jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Egal. Zeig mir, was du anzubieten hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Er bleibt immer allein, tut so geheimniskrämerisch ... ein ehrlicher Gestandener hat dafür keinen Grund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich wäre dir sehr dankbar. Aber bitte übertreib es nicht. Ich will hier keinen Ärger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nichts wärmt einen wie ein frischer Humpen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Owynna hat hier gerade gewischt! Wenn ihr euch prügeln wollt, geht nach draußen!"
+
+Er blickt dich finster an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tut mir leid. Ich musste mich um eine Schmugglerin kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Sie wird dich vom Boden kratzen, wenn du in dem Ton mit mir redest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Er grunzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich wollte, dass du das Kerlchen rausscheuchst, nicht in meinem Gästezimmer verteilst. Ich dachte, das hätte ich deutlich gemacht."
+
+Er runzelt verärgert die Stirn und verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Es ist etwas ausgeufert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Dann hättest du dich selbst darum kümmern sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Entspann dich. Er ist weg, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Er murmelt leise vor sich hin. "Ich will nicht noch mehr Ärger deswegen. Was willst du denn jetzt noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Du bist das Kerlchen losgeworden, ja? Hier, als kleiner Dank. Den Ärger mit ihm konnte ich hier nicht brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Also, warum bist du zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich hätte gerne eine Zimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Beste Bärenfelle auf allen Betten. Du wirst nicht enttäuscht sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du siehst einen Raum, dunkel und modrig - einen Keller. Er scheint eher zum Gasthaus zu gehören als zu einer alten Festung. Durch Haeferics Augen bewunderst du Reihen von glänzenden Flaschen, vor kurzem erst entstaubt und poliert.
+
+Als du von den Regalen zurücktrittst, blickst du zufrieden auf eine Druckplatte, die im Steinboden verborgen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Geht es dir gut? Ich bediene dich nicht, wenn du schon betrunken bist."
+
+Er blickt dich mit zusammengekniffenen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Du darfst dich gerne hier aufwärmen. Ich biete warme Küche und gemütliche Betten. Allerdings scheint dein Vetter sich in einem meiner Zimmer verbarrikadiert zu haben."
+
+Er nickt in Richtung der Gästezimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wie dem auch sei ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Und woher willst du das wissen? Ich habe dich da draußen nicht kämpfen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nächstes Mal lasse ich sie dein Haus abfackeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Du hast vielleicht Nerven. Bedankst du dich immer so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Die Augen rollen und nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Er schnaubt verächtlich. "Ich hab's nicht bös gemeint. Warum seid ihr bloß immer so empfindlich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Nachdem Beregans Clan fort ist, habe ich einiges verbessert. Das freut dich doch gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Das beruhigt mich sehr. Ich kann mir ohnehin nicht vorstellen, dass du mit solch einem faulen Taugenichts etwas gemeinsam hast."
+
+Er nickt dir wohlwollend zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Owynna! Geh nach diesem Orlaner sehen. Sorge dafür, dass er nichts stiehlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Hier taucht immer wieder irgendwelcher Abschaum auf. Schmuggler. Geflohene Sklaven. Gestandene, die dem Arm des Gesetzes ausweichen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Zu spät. Es ist getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich wollte ihm nicht wehtun! Er hat mich gezwungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tu ihm nicht weh - er soll einfach nur friedlich verschwinden. Bei deinem Ruf mache ich das lieber deutlich."
+
+Er blickt dich bedeutungsschwanger an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich wäre dir sehr dankbar. Und ich muss dich wohl nicht daran erinnern, dass du ihm nicht wehtun sollst. Du findest sicher einen ... diskreteren Weg, das Problem zu lösen."
+
+Er blickt dich bedeutungsschwanger an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich wäre dir sehr dankbar. Ach, und ich weiß, du würdest dem Kerlchen nie etwas tun, aber falls dich doch der Drang überkommt ... tu es nicht. Scheuch ihn einfach hinaus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Der führt nix Gutes im Schilde, das sage ich dir. Ich will, dass er weg ist. Aber ich will keinen Ärger deswegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Reyfald hat sich mit einer gewissen Flasche Schnaps angelegt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Der kleine Bastard hat also endlich den Mumm gehabt, sie zu stehlen, ja? Tja, geschieht ihm recht. Vielleicht stiehlt er in Zukunft kein fremdes Eigentum mehr, wo er sich jetzt so schön vollsabbert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich glaube, er hat seine Lektion gelernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Willst du ihn wirklich so zurücklassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du hast Recht. Es ist wirklich ziemlich lustig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ja, ja." Haeferic winkt abfällig ab. "Bestimmt weint er wie ein Baby. Ja, ich spiele mit Chemikalien herum, aber ich weiß, was ich tue. Man kann ihn ganz leicht heilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wenn du ihm helfen willst, brauchst du nur etwas Flussschilf und das Herz eines Eistrolls. Du findest beides am Wasser. Zum Beispiel an dem Bach im Westen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Freut mich, dass du das so siehst." Haeferic schmunzelt. "Wenn ich einen Trank braue, dann nur einen, zu dem ich das Gegenmittel kenne. Wenn er so verzweifelt ist, findet er sicher jemanden, der ihm die Zutaten dafür bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich gehe sie holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Moment, das Herz von was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vergiss es. Das kann Reyfald sich selber besorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ha! Als würde das je passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du hast mich schon verstanden: Eis. Troll. Reyfald kommt viel zu gut davon. Diese Fallen kosten mich ein Vermögen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Haeferic zuckt mit den Schultern. "Wie du meinst. Reyfald hat Glück, dass sich überhaupt jemand einen Dreck um ihn schert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Was braucht man, um Reyfald zu heilen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich habe die Zutaten, die du brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Haeferic grunzt. "Ich denke immer noch, dass der Kerl so vielleicht Anstand lernen würde. Aber wenn du ihm unbedingt helfen willst, na schön. her damit ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>" ... So. Wenn er das trinkt, ist er wieder ganz der Alte. Und sag ihm, dass er dir etwas schuldig ist. Ich hätte ihn mindestens ein Jahr lang schmoren lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bäh. Das hätte ich nicht unbedingt mitansehen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich dachte, du solltest wissen, dass Reyfald mich gebeten hat, deinen Schnaps zu stehlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ach, tatsächlich? Er dachte wohl nicht, dass du so eine ehrliche Haut bist ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ich verstecke den Schnaps an einem sicheren Ort. Danke, dass du so viel Anstand hast. Hier - für deine Ehrlichkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ach, tatsächlich? Dieser verschlagene kleine Dieb lernt es einfach nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Wie lange hält die Wirkung an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Haeferic schnaubt beleidigt. "Glaubst du, ich würde riskieren, ihn mit irgendwas zu vergiften, was ich von einem Busch gepflückt habe? Ich habe das Zeug selbst gemischt! Es lässt erst nach, wenn ich ein Gegengift herstelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Das würdest du doch nicht tun? Reyfald ist ein Intrigant. Wenn er jemanden bittet, für ihn zu stehlen ..." Er hält inne und betrachtet dich. "... dann kannst du dir vorstellen, wozu er noch fähig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Trotzdem möchte ich ihm helfen"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ich habe es schon gehört - muss toll gewesen sein, in diese Festung zu treten. Es stimmt wohl, was man über den Fürsten von Caed Nua sagt ..."</DefaultText>
+      <FemaleText>"Ich habe es schon gehört - muss toll gewesen sein, in diese Festung zu treten. Es stimmt wohl, was man über die Fürstin von Caed Nua sagt ..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Hier - die Getränke gehen auf mich. Das Geschäft dürfte bald florieren, wenn die Batterie offen ist. Die Zukunft sieht gewiss rosiger aus als gestern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Bitte sehr - den habe ich für eine besondere Gelegenheit aufgehoben, und die ist jetzt wohl da. Echter Fennlan-Schnaps. Von jenseits der Berge. Er gehört dir, mein Freund."</DefaultText>
+      <FemaleText>"Bitte sehr - den habe ich für eine besondere Gelegenheit aufgehoben, und die ist jetzt wohl da. Echter Fennlan-Schnaps. Von jenseits der Berge. Er gehört dir, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Kennst du einen Mann namens Harmke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Den Holzfäller? Gewiss. Gehe vom Dorf aus nach Westen, dann nach Norden. Wenn du am gefrorenen Fluss bist, bist du zu weit gegangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Er arbeitet meistens in einer Baumgruppe im Rotwald, aber manchmal verlässt er ihn auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich habe noch nie solch ein Blutbad gesehen. Die Hälfte der Überlebenden trinkt hier, um es zu vergessen." Der Zwerg überblickt die Menge mit nüchterner Miene - trotz des halb leeren Krugs in seiner Hand.
+
+Er schüttelt den Kopf und blickt wieder zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
+      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Hiravias blickt Haeferic zornig an.
+
+"Es ist erstaunlich, was man erreichen kann, wenn man keine jahrhundertelange Geschichte der kolonialen Inzucht hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Hiravias blickt dich mit gefletschten Zähnen an.
+
+"Sag MIR nur ein Wort und ich zerreiße diesen sabbernden Narren derart, dass er nicht mehr weiß, welches Loch welchem Zweck dient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Bei der Bedienung und diesem Wetter könnte ich mich an Stalwart gewöhnen. Du hast nicht zufällig noch mehr Aufträge in der Gegend, die den Bleiernen Schlüssel betreffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Aloth neigt sich vor und flüstert: "Bist du sicher, [Player Name]? Ich glaube, ich sah in dem Eintopf einen Fischkopf schwimmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Der alte Geizkragen bewahrt die wirklich guten Sachen im Keller auf. Heißt es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ich sehe einen Platz am Feuer, wo wir unsere Füße hochlegen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Tja. Worauf wartest du, [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen."
+
+Er zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter."</DefaultText>
+      <FemaleText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Harmke? Ach ja, der Kerl, den die Teufelin-"
+
+Die Teufelin von Caroc wirft Hiravias einen Blick zu. Er schließt seinen Mund und bedeckt ihn mit einer Hand.
+
+Er blickt Haeferic an und grinst unschuldig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Du hast also tatsächlich die Weiße Esse gefunden, ja?" Er schüttelt ungläubig den Kopf.
+
+"Ich konnte es zunächst kaum glauben, aber ich habe Renengild noch nie so überschwänglich gesehen." Er grinst schief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Das Mindeste, was ich tun kann, ist dir eine neue Runde ausgeben. Auf den Retter von Stalwart!"
+
+Er hebt seinen Humpen und ein Jubeln erschallt im Raum. Die anderen Gäste pfeifen und grölen und knallen ihre Krüge auf die Tische.
+
+Nach einigen Augenblicken wendet sich jeder wieder seinem Getränk zu ... und Haeferic dir.</DefaultText>
+      <FemaleText>"Das Mindeste, was ich tun kann, ist dir eine neue Runde ausgeben. Auf die Retterin von Stalwart!"
+
+Er hebt seinen Humpen und ein Jubeln erschallt im Raum. Die anderen Gäste pfeifen und grölen und knallen ihre Krüge auf die Tische.
+
+Nach einigen Augenblicken wendet sich jeder wieder seinem Getränk zu ... und Haeferic dir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ich möchte ein paar Helfer anheuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Gemeinsam ist man stark, was? Wonach genau suchst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

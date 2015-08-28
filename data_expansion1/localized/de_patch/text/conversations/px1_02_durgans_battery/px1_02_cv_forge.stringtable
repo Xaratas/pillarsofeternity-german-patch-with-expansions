@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_forge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ihr habt die Weiße Esse verwendet, um eure Seelen in die Batterie zu kanalisieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Sie von Durgans Batterie befreien.] "Ihr seid nun frei. Ihr dürft in das Rad zurückkehren und neue Leben suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Sie an die Kanonen binden.] "Verteidigt Abydons Esse und die Festung, die ihr um sie herum errichtet habt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Sie an die Weiße Esse binden.] "Pflegt euer Vermächtnis. Bleibt hier und bietet anderen eure Fähigkeiten an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Du spürst die brüchigen Verbindungen zwischen den Seelen und der Batterie. Als du sie trennst, schreien die Seelen auf - einige vor Erleichterung, andere vor Zorn. 
+
+Druck baut sich im Äther auf, der vor Essenz und Energie vibriert. Du bedeckst deine Ohren und beißt die Zähne zusammen, um das fürchterliche Brummen zu ertragen, das sich im Zentrum deiner Seele bildet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Seelen strömen hinauf und durch die Steine. Sie entfernen sich von der Weißen Esse wie von einem brennenden, schlagenden Herzen. Die Mauern knarzen und ächzen unter dem plötzlichen Energiestrom.
+
+Schließlich spürst du sie nur noch entfernt irgendwo über dir, um den äußeren Rand der Festung herum. Sie vibrieren vor Energie und Entschlossenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du empfindest ein Gefühl des Fallens, als die Energie von Dutzenden von Seelen auf die Weiße Esse zustürmt. Du wirst heftig geschüttelt, wie von einem Sturm, gegen den du dich stemmen musst.
+
+Schließlich beruhigt der Äther sich wieder und du spürst eine neue Macht von der Weißen Esse ausgehen. Sie strahlt eine Wärme aus, die du in deiner Seele spürst. Du weißt aber, dass du dich ihr nähern könntest, ohne die Hitze ihres Feuers zu fürchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Halt, Plünderer! Unsere Körper sind bereits Staub - musst du heiligen Boden durch weitere Gewalt entweihen?"
+
+Flammen peitschen schreiend in der Esse umher. Als sie aufsteigen, taucht ihr Glanz den Raum in ein blutrotes Licht.</DefaultText>
+      <FemaleText>"Halt, Plünderin! Unsere Körper sind bereits Staub - musst du heiligen Boden durch weitere Gewalt entweihen?"
+
+Flammen peitschen schreiend in der Esse umher. Als sie aufsteigen, taucht ihr Glanz den Raum in ein blutrotes Licht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Hat die Höhe unserer Mauern dich beleidigt? Haben wir deine Grenzen überquert? Dir schwachen Stahl verkauft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sag, warum bist du in unsere Festung eingedrungen?"
+
+Hinter dem Zorn und durch die tosenden Flammen hörst du die Stimme eines müden alten Mannes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Durgans Batterie ist seit über zweihundert Jahren verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"'Eingedrungen'? Hier gibt es nichts als Geister und Skelette."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nun ja, die Vordertür stand offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Hier liegt wohl ein Missverständnis vor. Die Festung ist verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Eure Hallen sind Schutt, eure Leute Staub. Wer soll mich aufhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Nein, das kann nicht sein. Abydon würde es nicht zulassen."
+
+Die Flammen flackern und zittern, die Steine unter deinen Füßen werden plötzlich kalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wach auf, Exandru! Darum hat Abydon uns die Weiße Esse gegeben - damit wir zu den Waffen greifen und solche Schurken vernichten können!"
+
+Hitze steigt wieder aus der Esse auf und versengt dir die Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Das ist Zoltuns Schuld! Er hat diese Außenseiter regelrecht dazu eingeladen, uns unseres feinsten Stahls zu berauben."
+
+Hitze steigt wieder aus der Esse auf und versengt dir die Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Unsinn. Wenn bewaffnete Fremde vor unserer Tür stehen, dann nur, weil sie gedroht hat, in ihre Heimat einzufallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Solch ein großartiges Geschenk, doch sie sieht es allein als Werkzeug zum Krieg. Sie beschämt unsere Großeltern, die über diesen Kontinent wanderten und-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ruhe, alle beide! Spürt ihr es denn nicht? Diese Kälte, diese ... Stille."
+
+Das Feuer knistert und knackt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Aber du. Du hast unsere Festung betreten und sie verlassen vorgefunden. In Ruinen.
+
+"Was ist mit uns geschehen?"
+
+Seine Frage strömt aus dem Mund der Weißen Esse und umschließt dich wie eine Rauchwolke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich hatte gehofft, dass du mir das sagen kannst. An was erinnerst du dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Den Geschichten zufolge habt ihr euch untereinander gestritten und euch gegenseitig ausgelöscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Die offizielle Geschichtsschreibung besagt, dass ihr euch gegenseitig ausgelöscht habt. Aber offenbar ist jemand - oder etwas - in die Batterie eingedrungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Wir haben gekämpft, ja, aber nur mit Worten. Ideen.
+
+"Und doch hat es gereicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Durch unsere Zwietracht waren wir nicht auf das vorbereitet, was dann kam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich hatte noch nie so etwas gesehen! Doppelt so groß wie der größte Oger und ohne jede Furcht. Sie waren -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Augenlos. Doch so erbittert wir auch gekämpft haben, so gut wir uns versteckt haben ... sie ließen nicht nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Es war seltsam. Sie kamen so plötzlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Wer waren sie? Oder was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Warum haben sie euch angegriffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Und weiter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Irgendwelche Maegfolc, aber größer als alle, die wir je gesehen hatten. Wir Überlebenden kamen nie in ihre Nähe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Sie waren unerbittlich. Auf unnatürliche Weise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sie haben sich nicht die Mühe gemacht, sich zu erklären. Aber ich habe mich gefragt, was für monströse Wilde an einem Ort wie diesem überleben könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Wer sagt, dass sie nicht aus dem Osten kamen? Aus dem Land, nach dem Marunn so gierte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Es war eine Strafe. Dafür, dass wir dieses Geschenk von Abydon - die Weiße Esse - durch unsere Gier und Eitelkeit vergeudet haben."
+
+Die anderen Stimmen sagen nichts, aber du spürst ihre Zweifel und ihre abweichende Meinung in der drückenden Hitze der Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Wir hätten unseren Stahl nehmen und nach Osten vorrücken sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Wir haben uns zurückgezogen, bis es keinen Ausweg mehr gab. Bis alle, die noch übrig blieben, hier waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Hier, bei der Erlösung, die Abydon uns zurückgelassen hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Was war diese Erlösung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Die Weiße Esse. Mit ihr zogen unsere Schmiede die Seelen aus unseren Körpern und bewahrten sie in den Steinen von Durgans Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ja. Mit denselben Methoden, mit denen wir so viel kalten Stahl gefertigt hatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Es war Abydons Gnade. Nun bewohnen wir das Denkmal, das unser Volk zu Ehren der Weißen Esse errichtet hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Es war eine Qual. Zu spüren, wie die eigene Seele vom eigenen Fleisch gerissen wird. Zu spüren, wie jeder Teil von einem selbst zerrissen wird ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Aber es hat uns gerettet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Uns zur Gefangenschaft verdammt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Was hat das mit Abydon zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Wie funktioniert die Weiße Esse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ihre Feuer wurde von Abydon gesegnet. Sie werden von Eoras geschmolzenem Herzschlag genährt, ihre Adern sind Adra, das bis zur Mitte der Welt reicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Was ihre leitende Kraft erklärt. Diese Adra-Adern erlaubten es uns, Essenz in den Stahl zu leiten, den wir formten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Und diese Essenz, die außergewöhnliche Hitze der Esse und die Fähigkeiten unserer Schmiede waren es, die Durganstahl so einzigartig machten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Die Weiße Esse gehört natürlich Abydon. Hier hat er seinen eigenen Körper gebaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Und ob er diesen Ort gefunden hat oder geschaffen, er ist eine wahrlich bemerkenswerte Schmiede."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Wir Pargrunen sind von Natur aus Wanderer, aber es war Abydons Ruf, der unsere Vorväter hierher führte, nachdem sie viele Generationen an der Perlenküste und in Eir Glanfath verbracht hatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das besagen die alten Geschichten. Andererseits sehe ich keinen anderen Grund, warum unsere Ahnen hier hätten bleiben sollen ... wo doch weiter östlich grünere Lande lagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ah. Und nun seid ihr hier, in Durgans Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Hätten wir länger über das Schicksal nachgedacht, das uns erwartete, hätten wir vielleicht einen schnellen Tod dieser langsamen Pein vorgezogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Blasphemie! Es gibt keine größere Ehre, als hier zu bleiben und über die Weiße Esse zu wachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Oder etwas tun. Irgendetwas. Wir zählten einst zu den besten Schmieden der Welt! Sag, sprechen die Gestandenen noch von uns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ja, in höchsten Tönen. Ihr geltet noch immer als Meisterschmiede."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Die Welt hat sich weitergedreht. Ihr seid kaum mehr als ein Tintenklecks in den Geschichtsbüchern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Wäre es jetzt noch wichtig? Vergesst diese Besessenheit mit eurem Ruf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Das ist gut zu wissen. Es ist nur ein Jammer, dass dieses Vermächtnis nichts als eine Erinnerung ist."
+
+Die Weiße Esse strahlt eine sanfte Wärme aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Als ich noch in der Schmiedelehre war, sprach mein Meister von kaum etwas anderem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Du verstehst dich auch auf die Schmiedekunst? Ein Jammer, dass wir nur Worte austauschen können."
+
+Die Weiße Esse strahlt eine sanfte Wärme aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ein Jammer, dass der Stolz und das Werk so vieler Leben so schnell verloren geht."
+
+Ein kühler Wind bläst durch die Kammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Es ist mehr als unser Ruf, es ist unser Vermächtnis. Welchen Zweck hatte unser Werk, unser Opfer, wenn es so schnell verloren geht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Hast du dich deswegen den rastlosen Seelen von Durgans Batterie gestellt? Um das Geheimnis des Durganstahls zu finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Wenn aber unsere Leben und unsere Arbeit so leicht in Vergessenheit geraten sind, was führt dich dann hierher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich wollte lernen, wie Durganstahl gemacht wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Es gibt ein Dorf namens Stalwart, das ums Überleben kämpft. Sie haben mich gebeten, die Weiße Esse zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Seit zweihundert Jahren hatte niemand Durgans Batterie betreten. Das war Grund genug für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich jage eine Gruppe, die sich der Bleierne Schlüssel nennt. Sie war auf der Suche nach einem Weg in die Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ich hatte gehört, dass es hier unschätzbar wertvolle Waffen im Überfluss geben soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Nach diesem Geständnis spürst du, dass die Essenz der Pargrunen weicher wird. 
+
+Eben noch waren jede Seele und jedes Fragment deutlich zu erkennen, nun bilden sie eine vereinte Masse. Du siehst sie wie einen Schwarm Fische in einer Stromschnelle. Wie Schneeflocken im Wind. Wie eine Speisekammer voller duftender Gewürze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Dann hoffe ich, dass du mit dem zufrieden bist, was du hier gefunden hast, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Zumindest darfst du diesen Ort verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Aber es war schön, dass sich jemand an uns erinnert. Wenn auch nur kurz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Als die Seelen von Durgans Batterie mit dir sprechen, nimmt ihre kollektive Essenz Gestalt an, genau wie die von Maerwald es getan hat. Es sind unzählig viele, alle von widersprüchlichen Zielen zerrissen und in den Erinnerungen ihrer verlorenen Schlacht gefangen.
+
+Du spürst die Bitterkeit ihrer ungewissen Existenz und fühlst den hartnäckigen Schmerz der Jahrhunderte.
+
+Es ist ein langsames, qualvolles Schicksal. Es liegt in deiner Macht, ihnen ein anderes zu gewähren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Hier festsitzen, meinst du. Mit all den anderen, die vor den Augenlosen fliehen wollten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ist das denn schlecht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Das Verstreichen der Jahrhunderte in Frieden und Einsamkeit zu beobachten. Das wäre Perfektion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ihr seid hier gefangen und erlebt nie etwas Neues? Zum wahnsinnig werden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Immer am selben Ort bleiben zu müssen, das wäre nichts für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Die Erinnerungen an eine verlorene Schlacht wieder und wieder durchleben und den langsamen Zerfall dieser Steine spüren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Findest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Wie langweilig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Du bist leicht zu amüsieren, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ich wünschte nur, wir könnten dieses bescheidene Denkmal besser schützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Nicht, wenn ich mir dein endloses Gerede anhören müsste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"So kann man es wohl auch sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Das klingt in der Tat reizvoll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ich würde gerne auf dieselbe Weise beten können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ich lebe meinen Glauben lieber aktiver aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Die lange Wache ist eine stille Pflicht, aber auch eine edle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Flammen lodern aus der Weißen Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Die Zwerge sind also nie ausgestorben. Nicht wirklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Das ist also alles, was von den Pargrunen noch übrig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

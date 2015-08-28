@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px1_poi_bs_battery_barricade</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Spuren sind mit Knochen, Staub und anderen Spuren bedeckt. Aber das war ein Gemetzel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wirklich hübsch. Macht die Halle erst richtig gemütlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sie zürnen und kämpfen noch immer, Wächter! Wir müssen vorsichtig sein."</DefaultText>
+      <FemaleText>"Sie zürnen und kämpfen noch immer, Wächterin! Wir müssen vorsichtig sein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was kann hier durchgebrochen sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Barrikade hat wohl nicht geholfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Barrikade war so schwach wie die Zwerge dahinter, scheint mir. Keiner hat je einen Krieg gewonnen, indem er sich versteckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hossa! Wer eine so dicke Mauer durchbricht, der hat es verdient, alle auf der anderen Seite zu ermorden."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

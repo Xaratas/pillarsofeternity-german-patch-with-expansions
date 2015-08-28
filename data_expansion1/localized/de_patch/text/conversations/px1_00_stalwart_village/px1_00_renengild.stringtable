@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_renengild</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>196</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sie haben die Palisade zerstört, Mutter! Es ist-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Es gibt etwas zu tun, deswegen bin ich hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Es ist eine Ehre, hergerufen zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Man hat mir gesagt, dass es mit Durgans Batterie zu tun hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dann liegt es mir fern, deine Zeit mit Plaudereien zu vergeuden." Sie faltet die Karte schnell und gnadenlos zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nett, dass du das sagst. Aber ich hoffe, dass deine Stärke eher der Umgang mit Waffen als mit Worten ist." Sie faltet die Karte schnell und gnadenlos zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wir versuchen seit über einem Jahr, in Durgans Batterie zu gelangen. Nur gelingt es den anderen Expeditionen nicht einmal, einen Kratzer in die Tür zu machen." Sie reibt sich die müden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Erzähl mir von diesen anderen Expeditionen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Woher kommt dieses plötzliche Interesse an der Weißen Esse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Und deswegen braucht ihr meine Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ein Dutzend verschiedene Gruppen sind auf unser Bitten gekommen. Und einige andere aus eigenem Antrieb. Wir hatten gehofft, dass es einer von ihnen gelingt, Durgans Batterie zugänglich zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wir sind eine alte Bergbaustadt. Oder wir waren es, bis die Aedyraner fort sind und uns mit einem halb gegrabenen Minenschacht und so etwas Ähnlichem wie einer Taverne zurückgelassen haben." Sie klopft mit der Faust gegen die robuste Holzwand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hattet ihr Erfolg mit Durgans Batterie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie nickt dir langsam zu. "Du warst fleißig, seit wir uns das letzte Mal gesehen haben. Ich danke dir dafür, was du für Stalwart getan hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ihre Oberlippe verzieht sich verächtlich. "Wären wir nicht auf deine Hilfe angewiesen, ich würde dich fortjagen.
+
+"Ihr habt wohl keine Fortschritte mit der Batterie gemacht." Sie verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du bist Galvino begegnet, nehme ich an." Renengild blickt auf die Teufelin von Caroc, ihre Augen verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Aber Durganstahl könnte Stalwart wieder Bedeutung verleihen - die Minen öffnen, neuen Handel anlocken. Wir brauchen nur die Weiße Esse." Sie schlägt mit der Faust auf den Schreibtisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was macht Durganstahl so besonders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Warum ist es noch niemandem gelungen, in Durgans Batterie zu gelangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Wenn wir nur halb so guten Stahl herstellen könnten, hätten wir einen Markt direkt vor der Tür - und genug Arbeit für ganz Stalwart."
+
+Einen Augenblick lang flackert ihr Blick zu Uldric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Was ist mit Durgans Batterie geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"In Ordnung. Hast du einen Vorschlag, wo ich anfangen soll?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"So sei es. Obwohl ich vorschlagen wollte, dass du dich zuerst um das Ogerlager kümmerst." Sie presst ihre dünnen Lippen eng zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Wer ist Galvino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Erzähl mir etwas über das Ogerlager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Alles klar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sie verdreht die Augen. "'Mestre Galvino' ist der alten Kratzbürste lieber. Er lebt allein und hält die Wilden und Bestien allein durch seine Übellaunigkeit fern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Und er buttert sein Brot auf beiden Seiten und zieht seinen linken Schuh vor seinem rechten an, aber das tut alles nichts zur Sache!" Sie verschränkt die Arme und zerknüllt die Seite in der Faust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du wirkst plötzlich so aufgebracht. Bist du irgendwie wütend auf ihn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Etwas seltsam, dass er so ganz alleine in der Wildnis lebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sie schüttelt den Kopf. "Aber sei vorsichtig, wenn du losziehst. Galvino haust etwas östlich der Batterie. Ich traue dem Kerl zu, seinen Rasen mit Fallen zu übersäen, aus purer Gehässigkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ihr Lachen ist ein kurzes, wütendes Bellen. "Er ist in Stalwart nicht länger willkommen. Mit Ogern und Lagufaeth als Nachbarn ist er besser dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sie lacht kurz. "Nicht nur ich, die ganze Stadt. Er weiß, dass er lieber nicht vor unseren Toren herumlungern sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Was ist mit Galvino passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich spreche nicht gerne darüber, aber wenn du ihn ärgern willst, erinnere ihn einfach daran, dass wir ihn rausgeworfen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Gehört zu Flammen-die-flüstern. Matronin Beregans Clan. Die Jäger sagen, der Clan sei in letzter Zeit recht aktiv."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Elche jagen und sich ansonsten um ihren eigenen Kram kümmern." Er wirft sich einen Apfelschnitzen in den Mund und zerkaut ihn kraftvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"'Um ihren eigenen Kram kümmern'. Abgesehen vom Verschwinden der letzten Expedition. Oder der zerstörten Palisade." Sie reibt sich die Nasenwurzel und kneift die Augen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich sage, wir sollten sie nicht noch wütender machen." Er will noch ein Stück Schale ins Feuer werfen, lässt dabei aber sein Messer fallen. Er bückt sich fluchend, um es aufzuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Was hat diese Matronin mit der Sache zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wenn ich ein paar Oger töten soll, sag es einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich stelle Beregan gerne zur Rede, wenn es Stalwart hilft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"So ein idyllisches Örtchen? Ich verstehe nicht, warum ihr nicht mehr Besucher habt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Ihr Lächeln wird dünner. "Ich vergeude deine Zeit nicht länger." 
+
+Sie faltet die Karte schnell und gnadenlos zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Die Prügelei war nur das jüngste Ärgernis. Die Ogerclans werden wagemutiger. Wir schlafen alle beruhigter, wenn wir wissen, dass sie nicht vor unseren Mauern warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Und wenn die letzte Expedition etwas gefunden hat, hat Beregan es nun vermutlich. Gerüchten zufolge ist die Expedition in ihrem Revier verschwunden."
+
+Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Es ist nicht mein Problem, wenn euer Dorf sich nicht verteidigen kann. Ich habe wichtigere Dinge zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sie runzelt die Stirn. "Ich appelliere besser an deinen Geldbeutel statt an deine Wohltätigkeit. Matronin Beregan hat bestimmt reichlich Ausrüstung und Geld gehortet. Es gehört dir, wenn du sie loswirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eine Matronin weniger würde unsere Mauern sicherer machen. Oder was von ihnen übrig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich kann nicht für meinen Sohn sprechen, aber ich wäre sehr dankbar." Sie lächelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Eine Matronin zu töten, würde unsere Probleme nur verschlimmern. Du solltest Beregan lieber mit hoch erhobenen Händen gegenübertreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Du hast deinen Standpunkt dargelegt, Uldric. [Player Name] hat ein weiches Herz, keine weiche Birne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Renengild zuckt seufzend die Schultern. "Wenn jemand erfolgreich mit einem Oger verhandeln kann, dann du, [Player Name]. Aber Geduld für Geschwätz haben sie keine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"[Player Name] kümmert sich auf ... entschlossene Art und Weise um die Dinge." Deswegen haben wir ihn hergerufen."</DefaultText>
+      <FemaleText>"[Player Name] kümmert sich auf ... entschlossene Art und Weise um die Dinge." Deswegen haben wir sie hergerufen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Renengild seufzt tief. "Es ist dein Kopf, [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Gut. Bevor du die Stadt verlässt, solltest du in der Gréfenrast vorbeisehen. Fast jeder, der in Stalwart zu Besuch ist, besucht das Gasthaus. Vielleicht erfährst du von Haeferic und seinen Gästen etwas Nützliches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eigentlich wollte ich dich etwas fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich habe Fragen zu Durgans Batterie und zur Weißen Esse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wie war das nochmal mit dem Ogerlager?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Erzählst du mir noch einmal von Galvino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Was hast du auf dem Herzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich will mehr über Stalwart erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Bevor du gehst - unsere Jäger haben Beregans Oger seit einiger Zeit nicht gesehen. Das haben wir wohl dir zu verdanken. Das ganze Dort ist erleichtert." Sie atmet tief ein und du siehst, dass die dunklen Ringe unter ihren Augen verschwunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Renengilds Seele erforschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Sie atmet langsam ein. "Du hast vermutlich mit einer freundlicheren Begrüßung gerechnet. Aber wir sind dir für deine fähige Hilfe dankbar." Sie wirft dem jungen Mann einen kurzen, aber strengen Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ah, der Held von Trutzbucht. Die Reise war gewiss lang."</DefaultText>
+      <FemaleText>"Ah, die Heldin von Trutzbucht. Die Reise war gewiss lang."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Der berühmte Freund der Glanfathaner. Es ist eine Weile her, dass ich ihre Tempel und Rundhäuser gesehen habe." Sie nickt dir respektvoll zu.</DefaultText>
+      <FemaleText>"Die berühmte Freundin der Glanfathaner. Es ist eine Weile her, dass ich ihre Tempel und Rundhäuser gesehen habe." Sie nickt dir respektvoll zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Nicht der Rede wert. Ich bin hier, um zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Renengild nickt. "Das ist die Quintessenz. Wir sind Arbeiter und Fischer, keine Abenteurer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich will dich noch etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Haeferic hat die Zimmer in der Gréfenrast auf Vordermann gebracht. Und Yduran bekommt endlich wieder Nachschub. Ich dachte, das interessiert dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Was kannst du mir über Fearas Expedition sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Ihr die Svef-Lieferung geben.] "Ich habe Beweise, dass Feara, die in der Gréfenrast abgestiegen ist, Svef schmuggelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Wer Glück hat, kommt irgendwann wieder nach Hause. Aber die meisten werden von einem Schneesturm überrascht. Oder von Ogern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Aber die Weiße Esse ... Tja. Wenn wir sie wieder in Gang bringen und Durganstahl herstellen könnten ... oder etwas Ähnliches ... dann wäre es egal, ob wir in der Weißmark leben oder im Land der Lebenden. Der Handel würde kommen." Sie verschränkt die Arme und nickt dir steif zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Es lohnt nicht, darüber nachzudenken. Es rankt sich ohnehin schon zu viel Aberglaube um den Ort." Sie beschreibt mit ihrer verkümmerten Hand einen großen Halbkreis, ihrem Blick ausweichend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Was es auch war ... die anderen Siedlungen der Pargrun-Zwerge in der Weißmark wurden kurz darauf aufgegeben ... Knochenbeißer, die Habichte, all die anderen. Die Zwerge sind in freundlichere, grünere Lande umgesiedelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Wo soll ich anfangen? Bei den Ogern, den Schneestürmen oder der Unzugänglichkeit?" Sie zählt die Liste an ihren Fingern ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Nicht, weil man es nicht versucht hätte. Ungeahnte Schätze in Durganstahl schlummern darin, von der Weißen Esse selbst ganz abgesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Die Aedyraner, die als erste Siedler nach Stalwart kamen, haben versucht, sie zu öffnen. Genau wie die Vailianer. Und jeder andere selbstbewusste Abenteurer mit mehr Mumm als Verstand." Sie verschränkt die Arme und blickt kopfschüttelnd auf die alten Dielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Aber das verfluchte Ding bleibt versiegelt. Die Vordertür lässt sich nicht öffnen. Die Turmeingänge sind durch Schutt blockiert und man kann sich nicht hineinsprengen." Renengild verstummt und einen Augenblick lang hört man nur das Knistern und Knacken des Feuers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Weil man Stein damit schneiden kann. Eisen entzwei hauen. Und weil das Zeug ebenso selten wie erstaunlich ist." 
+
+Vor Begeisterung tritt Renengild auf der Stelle. Sie stützt einen Arm auf den anderen und deutet abwesend auf die Giebel des Hauses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Sie will sagen, dass er ein fähiger Schmied und Beseeler ist. Der seit über einem Jahrzehnt im Schatten von Durgans Batterie lebt." Er blickt über seine Schulter zu dir und Renengild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Kannst du mir etwas über die letzte Expedition sagen, die zu Durgans Batterie aufgebrochen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Genug. Sie ist verschwunden." Sie hält eine Hand hoch, an der das letzte Glied des Ringfingers fehlt. Aber es ist ihre Stimme, scharf und kalt, die den jungen Mann verstummen lässt.
+
+Während er grimmig auf seine Zehen starrt, wendet sie sich dir zu. Sie hat dunkle Ringe unter den Augen und ein steifes Grinsen auf den dünnen Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Der Erlöser von Caed Nua. Danke, dass du den Weg auf dich genommen hast. Abydon weiß, er ist lang."</DefaultText>
+      <FemaleText>"Die Erlöserin von Caed Nua. Danke, dass du den Weg auf dich genommen hast. Abydon weiß, er ist lang."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Mit dem, was sich darin befindet, um genau zu sein."
+
+Sie faltet die Karte schnell und gnadenlos zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich habe davon gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Noch nie gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Dann weißt du, dass seit über zweihundert Jahren niemand auch nur die kleinste Brise aus der Weißen Esse gespürt hat." Sie glättet die zerknitterte Karte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Natürlich. Es ist über zweihundert Jahre her, dass jemand auch nur die geringste Brise in der Nähe gespürt hat." Sie glättet die zerknitterte Karte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich hoffe, dass du etwas dagegen unternehmen kannst."
+
+Sie ignoriert den jungen Mann, der kopfschüttelnd auf die knisternden Holzscheite blickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Die Pargrun-Zwerge haben die Weißmark einst verwandelt. Wir könnten diesen Glanz zumindest teilweise zurück nach Stalwart holen. Aber dazu brauchen wir die Weiße Esse."
+
+Sie hebt die Karte und tippt auf einen Punkt in der Mitte einer großen grau-weißen Fläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Wie das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Es ist eine Weile her, dass ich an einer Esse gearbeitet habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich habe viel mit den Händen gearbeitet, aber das Schmiedehandwerk war nie mein Fachgebiet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich an einer Esse arbeiten? Das habe ich noch nie getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Und warum sollte ich das tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Sie wird steif. "Wenn du kein Interesse daran hast, eines der größten Geheimnisse der Zivilisation der Gestandenen zu ergründen, dann bedenke, was in Durgans Batterie schlummert! Eine mächtige Esse und einige der besten Waffen, die je geschmiedet wurden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich hab's dir ja gesagt." Er nickt mit dem Kinn in Richtung Renengild. Er streckt den Kiefer stur und trotzig vor. Der Übermut der Jugend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Du sollst nicht an der Weißen Esse arbeiten. Du sollst sie finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Doch jung oder alt, Frischling oder alter Hase, offenbar ist es gleichgültig. Sie wirken ihre Zauber, hämmern gegen die Tür und suchen das Gelände ab, bis sie neue Wege in den alten Stein getrampelt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Seitdem geht es stetig bergab. Du hast ja die Straßen gesehen. Wir können kaum etwas herstellen, was die Vailianer nicht billiger liefern können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Der junge Mann sagt nichts, wirft aber ein Stück der Apfelschale in die Feuerstelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich verstehe nicht, warum ihr die Weiße Esse braucht, um guten Stahl herzustellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Endlich sagt mal jemand was Vernünftiges." Er hebt sein Messer und seinen halb geschälten Apfel zum Feuer - eine dramatische Geste des Frusts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Durganstahl war nicht einfach nur gut, er war der beste Stahl überhaupt. Und nur das Beste kann Stalwart am Leben halten." Sie starrt Uldric zornig an, während sie mit dir spricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Niemand, der heute noch lebt, hat die Weiße Esse je zu Gesicht bekommen. Aber den alten Geschichten zufolge war sie mächtig. Sie glühte weiß und gab eine gleichmäßige Hitze ab wie kein anderer Ofen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Sie winkt ab. "Sollen gebildetere Köpfe austüfteln, wie das Ding gebaut wurde. Ich will sie einfach nur nutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Erzähl mir etwas über die Pargrun-Zwerge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Pargrun ist ein Wort in ihrer Sprache. Es heißt 'Reisender'. Sie sind seit Generationen Wandernde, aber mehr kann ich dir nicht sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Das einzig Richtige, wenn du mich fragst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Die Batterie liegt im Norden auf dem Berg - einen guten Fußmarsch entfernt." Sie nickt mit dem Kopf in Richtung der Steigung hinter dem Haus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Dann kannst du uns vielleicht helfen, etwas zu finden." Sie faltet die Seite schnell und gnadenlos zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Die Pargrun-Zwerge haben sie bewacht wie eine Bärenmutter. Es ist ein Wunder, dass wir überhaupt etwas wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Es geht ihm auch nicht viel schlechter als uns anderen." Uldric spricht mit dir, aber seine Augen sind auf Renengild gerichtet und funkeln vor trotzigem Übermut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Keiner hier mag den Kerl, aber er hat geschickte Hände und lernt schnell. Nur ein Narr würde glauben, dass er so nah an der Batterie hausen könnte, ohne etwas über sie herauszufinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Das hast du auch schon zur letzten Gruppe gesagt, und die haben wir seitdem nicht gesehen. Vielleicht wurden sie doch nicht von Beregans Ogern überrumpelt." Sie hebt eine graue Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Uldric zuckt mit den Schultern und wendet sich wieder dem Feuer zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"In der Nähe von Galvino, ja?" Uldric sagt es mit lockerem Ton, aber Renengild verstummt plötzlich und runzelt konsterniert die Stirn.
+
+Er grinst und zieht sein Messer wieder über den Apfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Er zieht ein Messer aus seinem Gürtel, nimmt einen Apfel aus seiner Tasche und macht sich ans Werk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ich habe mich schon um Beregan gekümmert. Sie hat zugestimmt, euch in Frieden zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ich habe mich schon um Beregan gekümmert. Sie wird euch nicht mehr belästigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Vielleicht hast du es nicht gehört, aber die vorherige Expedition hat ihren Weg gekreuzt. Seitdem wurde sie nicht mehr gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Sie zieht die Luft ein. "Nun. Ich hoffe, dass sie dir gegenüber friedfertiger ist als der letzten Gruppe gegenüber."
+
+Sie verschränkt die Arme und wippt auf den Fersen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Und ich vermisse sie kein bisschen - sie rochen nach Ärger. Du hattest Recht, mit Matronin Beregan zu verhandeln. So einfach ist das." Er nickt dir steif zu, während Renengild vor Wut kocht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Dann hast du schon mehr erreicht als all die anderen Schatzsuchenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Indem du den Zorn der anderen Ogerclans auf uns ziehst?" Das Feuer lässt Schatten über seine grimmige Miene tanzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Sie winkt ab. "Vergiss meinen Sohn - viele in der Stadt können nun endlich wieder ihren Geschäften nachgehen, nachdem die Oger fort sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vor allem aber glauben wir, dass Beregan die letzte Expedition getötet hat. Du könntest nachsehen, ob sie ihnen etwas Nützliches abgenommen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ich habe ein Schwert, das in der Weißen Esse geschmiedet wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Dann solltest du gut darauf aufpassen. Seit über zweihundert Jahren hat niemand mehr einen Hammer auf die Weiße Esse gelegt." Sie glättet die zerknitterte Karte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Weißt du, wo ich Harmke finde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Du siehst eine Frau mittleren Alters und einen jüngeren Mann, die miteinander streiten. Beide tragen blutige und schmutzige Kleidung.
+
+Der junge Mann wendet sich zu der Frau um. Unter seinem eigenen Auge ist eine frische Platzwunde zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Sie runzelt die Stirn. "Sagen wir, es war eine schlechte Entscheidung seinerseits. Die ihn sein Ansehen bei den vailianischen Akademien gekostet hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Sie haben sich gegenseitig getötet. Sagen jedenfalls die alten Bücher." Er blickt Renengild zornig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Seit zweihundert Jahren hat niemand mehr einen Fuß in Durgans Batterie gesetzt. Nun hast du das Tor weit aufgestoßen, und zwar auf recht spektakuläre Weise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Das ist wohl meine Art, mich zu bedanken, [Player Name]." Sie verschränkt die Arme und blickt mit starrer Miene weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Dank deiner Hilfe überleben wir vielleicht tatsächlich. Du hast viel getan, [Player Name]." Sie schüttelt dir die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Du bist immer noch in der Stadt, ja?" Sie blickt dich mit zusammengekniffenen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Bleib, so lange du willst. Ich kann mir nicht vorstellen, dass in Stalwart irgendeine Tür für dich verschlossen ist." Sie nickt dir fest zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Haeferic wollte seine Zimmer auf Vordermann bringen, und Yduran dürfte Nachschub bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ich weiß nicht, was mit dir ist, aber ich bin plötzlich am Verdursten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Die Gréfenrast? Eine hübsche Hommage an das Reich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Du musst dir die Sehenswürdigkeiten ansehen, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Stalwart ist kaum mehr als ein Fettfleck auf der Karte. Die wenigen Straßen, die wir in der Weißmark haben, sind kaum mehr als Spuren im Schnee. Und für jeden Händler oder Abenteurer, der sich hierher verirrt, gehen drei unserer eigenen Leute für immer fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Aber das war nicht immer so. Es gab Zeiten, in denen Könige und Königinnen ihre Erstgeborenen in diese Berge schickten. Zeiten, in denen die Weißmark der Neid ganzer Reiche war."
+
+Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Was hat das mit mir zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Das ist alles Vergangenheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ein ziemlich tiefer Fall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Dann habt ihr ja Ziele! Ihr wisst, dass es möglich ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Nichts hält ewig. Selbst die Fundamente von Alt-Vailia zerbrachen und zerfielen schließlich unter dem Gewicht von zwei Jahrtausenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Was für eine Zeit das für die Weißmark gewesen sein muss! "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Sie blickt ihn zornig an. "Es gibt zahlreiche Geschichten, aber keine darüber, wie man die Batterie öffnet. Und die Leute brauchen ganz gewiss keinen weiteren Grund, sie zu fürchten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Die Gestandenen haben eine Schwäche für Geistergeschichten. Aber die Glanfathaner nehmen die ihren sehr ernst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Das ist, was wir tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Stahl ist Stahl. Er mag leicht sein und sich gut schärfen lassen, doch per complanca, die Legenden mehren sich mit jedem Jahr, das vergeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Wenn man sich daraus eine Rüstung machen lässt, geben die Leute es bestimmt bald auf, einen zu erstechen zu versuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Es gibt viele, viele Gestandene, die töten würden, um Batteriestahl in die Hände zu kriegen. Es gibt sogar einige Theaterstücke zu diesem Thema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Der ... Arbeitgeber meiner Mutter hatte einen Dolch aus Durganstahl. Die Waffe war wertvoll genug, um damit die Schulden seiner Familie zu bezahlen. Wenn er willens gewesen wäre, sich davon zu trennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Andere Jägerinnen haben die Sachen über Tarneq-Ilitsaak gefunden. Selbst in Naasitaq ist es legendär."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ich würde sagen, das ist erwähnenswert." Sagani verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Und nach den niedrigen Standards der Beseelung macht ihn das zu einem Fachmann, nehme ich an?" Er verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Freut mich, dass ich helfen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Und was habe ich davon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Und was passiert jetzt mit Stalwart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Lass uns etwas anderes besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Nun liegt es an uns, diese Chance zu nutzen, um uns aus dem Dreck zu ziehen." Sie verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Sie runzelt die Stirn. "Ich bin immer noch nicht begeistert, Beregans Clan einen Steinwurf von unseren Toren entfernt zu haben. Aber ich hoffe einfach, dass deine Abmachung mit ihr hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Und es wird deutlich leichter sein, nachdem Beregan aus dem Weg geräumt ist." Sie nickt zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Nur eines wäre noch hilfreich - wenn Taena noch unter uns wäre. Sie wusste einfach alles über den Bergbau. Ein Jammer, aber wir hätten uns denken können, dass sie es nicht mehr lange machen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Wir müssen einfach hoffen, dass Taena noch ein paar Jahre durchhält. Sie wusste einmal sehr viel über den Bergbau, aber sie ist schon nicht mehr ganz da." Renengild tippt sich gegen den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Aber das Beste ist Taena. Sie hat früher immer gesagt, sie hätte mehr über den Bergbau vergessen, als wir anderen je wussten. Aber es fällt ihr langsam alles wieder ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Sie senkt die Stimme. "Ehrlich gesagt dachte ich nicht, dass es jemand schaffen würde, die Batterie zu öffnen. Es gab den Leuten einfach nur eine Hoffnung, einen Traum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Aber jetzt glaube ich, dass wir vielleicht wirklich echte Wurzeln schlagen können. Bessere Aussichten hatten wir seit der Gründung des Dorfs nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Ich weiß immer noch nicht, ob die Weiße Esse ausreicht, um das Dorf am Leben zu halten. Aber zumindest haben wir eine Chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Aber langsam schöpfe ich Hoffnung. Die Weiße Esse könnte uns retten, wenn wir sie nutzen können, bevor irgendein Adliger aus dem Dyrwald hier aufschlägt und sie für sich beansprucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Geht uns auch so. Aber ich hoffe, du wirst auch die Weiße Esse nutzen. Wenn du das nicht schon getan hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Die Weiße Esse natürlich. Ich will meinen, dass das für jeden Belohnung genug ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Sie nickt dir zu. "Etwas Besseres als Durganstahl gibt es schließlich nicht. Wenn du ihn in deine bestehende Ausrüstung einschmieden kannst, besitzt du wahrlich mächtige Gegenstände."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

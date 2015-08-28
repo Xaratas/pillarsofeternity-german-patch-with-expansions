@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_chasm_rescue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du über den Rand dieser eisigen Schlucht blickst, siehst du ein Stück unter dir ein verängstigtes Gesicht. Ein Mann steht auf einem schmalen Eisvorsprung. Er winkt verzweifelt mit den Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hilfe! Bitte, ich bin hier unten!" 
+
+Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewohner und winkt verzweifelt mit den Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bitte hilf mir! Ich bin hier unten gefangen!" 
+
+Er ist zu weit unten, um ihn direkt zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ihm ein Seil zuwerfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du befestigst deinen Enterhaken an einem robusten Stück Stein und wirfst dem Dorfbewohner das Seil hinunter. 
+
+Es sind einige Versuche nötig, aber es gelingt ihm, sich festzuhalten, als das Seil zu ihm schwingt. Er packt das Seil fest und beginnt, hinaufzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Mit beeindruckender Geschwindigkeit springst du nach vorne und packst gerade noch den Arm des Mannes, bevor er außer Reichweite ist.
+
+Du ziehst ihn über den Rand der Schlucht in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du springst nach vorne, bist jedoch einen Augenblick zu spät. Deine Fingerspitzen streifen nur seine Rüstung, bevor der Mann nach unten fällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Der Mann macht einige vorsichtige Schritte vom Rand weg. Er ist bleich, aber unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Schreie des Mannes hallen in der Schlucht wider, als er in die Dunkelheit stürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Nach vorne springen, um ihm zu helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>["Winterwind" wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Der Dorfbewohner arbeitet sich stetig an dem Seil hinauf, obwohl er offensichtlich erschöpft ist. 
+
+Als er sich jedoch der Kante nähert, verliert er plötzlich den Halt und rutscht ab. Das Seil wird ihm ruckartig aus den Händen gerissen und er beginnt zu fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du konzentrierst schnell deine Energien und spürst die vertraute Kälte um dich herum, als der Zauber gewirkt wird. 
+
+Ein plötzlicher starker Windstoß bläst aus der Schlucht nach oben und einen Augenblick lang schwebt der Dorfbewohner in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Ihm sagen, er soll sich das Seil zuerst um die Hüfte binden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Ihn hochziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Ihn alleine hochklettern lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Deine Gefährten und du ergreifen das Seil und beginnen zu ziehen. Der Dorfbewohner wird mit beeindruckender Geschwindigkeit die Schlucht hinaufgezogen und hat bald wieder festen Boden unter den Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Du ergreifst das Seil und beginnst zu ziehen. Obwohl du angestrengt ziehst, kannst du nur wenig zum Aufstieg des Dorfbewohners beitragen. Er leistet den Hauptteil der Arbeit und zieht sich hinauf in Richtung der Kante der Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Warte! Lass mich nicht hier zurück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Random Node 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Hilfe! Hier unten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"H-hallo? Bitte, hilf mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Mir ist so kalt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Der Mann befolgt deine Anweisung und bindet das Seil mit einem festen Knoten zu.
+
+Deine Vorsichtsmaßnahme erweist sich als weise: Als der Mann die Kante der Schlucht erreicht, verliert er den Halt und rutscht ab. Er fällt ein kurzes Stück, bevor er das Seil wieder ergreifen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>["Reinigender Wind" wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>["Beim Anblick ihrer Kameraden ergriff der Mut ihre Herzen" singen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du singst, während der Dorfbewohner klettert. Jedes deiner Worte ist mit Magie durchtränkt. Anfänglich ist der Mann müde, doch plötzlich beginnt er, mit neuer Kraft zu klettern und gelangt rasch immer höher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Deine Gefährten springen nach vorne, packen den Dorfbewohner bei den Armen und ziehen ihn auf festen Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Er wird lange genug in der Luft gehalten, dass du nach vorne eilen und seinen Arm ergreifen kannst. Du ziehst ihn über die Kante der Schlucht auf festen Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Er klettert weiter und erreicht bald die Kante der Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du ergreifst das Ende des Seils uns ziehst. Es gelingt dir, den Mann bis zur Kante der Schlacht zu ziehen. Er zieht sich über die Seite zurück auf festen Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Hilfe! So helft mir doch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_matron_beregan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Oger-Matronin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Beregan in den Eishöhlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die Ausrüstung der vorherigen Expedition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kümmere dich um Matronin Beregan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In den Eishöhlen bei Stalwart befindet sich ein Ogerlager. Der Clan wird von einer Matronin namens Beregan angeführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Matronin Beregan befindet sich irgendwo in den Eishöhlen, umgeben von ihrem Clan. Renengild will Beregan und ihren Clan töten, um die Gefahr für Stalwart zu bannen.
+
+Außerdem ist Beregan vermutlich im Besitz der Ausrüstung der vorherigen Expedition. Diese Gegenstände könnten mir bei der Suche nach Durgans Batterie helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Matronin Beregan ist tot. Die Ausrüstung der vorherigen Expedition muss irgendwo in der Nähe sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Während ich die Weißmark erkundet habe, bin ich einer Oger-Matronin in ihrem Lager begegnet. Sie schien zwar misstrauisch, griff mich jedoch nicht sofort an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Uldric riet mir davon ab, Beregan zu bekämpfen. Er glaubt, dass ich mit ihr reden kann, um weitere Kämpfe zu vermeiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Galvino hat bestätigt, dass die letzte Expedition einen Teil eines Reliefs von der Tür zu Durgans Batterie abgebrochen hat. Möglicherweise brauche ich das Relief, um die Festung zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Beregan schien eine seltsame Furcht vor Durgans Batterie zu empfinden. Sie sagte, sie habe Albträume von der Festung gehabt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Renengild hat erwähnt, dass eine vorherige Expedition durch Beregans Hand gestorben sei. Sie riet mir, die Leiche der Matronin zu durchsuchen, falls sie etwas von der Expedition an sich genommen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Beregan getötet und eine ambossförmige Kachel bei ihr gefunden - zusammen mit einem Tagebuch der vorherigen Expedition. Die Kachel sieht aus, als stamme sie aus Durgans Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Waffenstillstand mit Beregan geschlossen. Sie hat mir Hilfe und Sicherheit in ihrem Lager versprochen und mir Gegenstände der vorherigen Expedition gegeben - unter anderem eine ambossförmige Kachel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

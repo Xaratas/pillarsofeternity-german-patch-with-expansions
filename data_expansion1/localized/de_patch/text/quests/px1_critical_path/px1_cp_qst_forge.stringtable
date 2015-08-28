@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_forge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Weiße Esse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Steige unter die Herrenhalle hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gehe an den Minen vorbei weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde die Weiße Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erwecke die Weiße Esse zum Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe Durgans Batterie betreten. Die Weiße Esse befindet sich vermutlich im untersten Stockwerk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Das Erdgeschoss von Durgans Batterie scheint seit langer Zeit verlassen zu sein. Es ist nicht klar, wohin die Zwerge verschwunden sind ... aber sie haben ein gewaltiges Chaos hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe ein Stockwerk gefunden, das früher einmal ein Zentrum für den Erzabbau gewesen sein muss. Genau wie der Rest von Durgans Batterie ist es offenbar verlassen. Ich muss also weitersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die unterste Ebene von Durgans Batterie erreicht. Es ist eigenartig heiß hier.
+
+Offenbar haben die Zwerge hier unten ihren letzten Kampf ausgetragen. Die Weiße Esse befindet sich ebenfalls irgendwo auf diesem Stockwerk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die legendäre Weiße Esse gefunden. Ich muss herausfinden, wie man sie verwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Weg nach oben ist durch Schutt blockiert. Ich muss anderswo suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich hatte eine Vision der Zwerge der Batterie. Sie stritten sich darüber, wie sie einem angreifenden Feind begegnen sollten. Es klingt, als wären viele von ihnen in die unteren Stockwerke der Festung geflohen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Tür, die nach unten führt, scheint versiegelt zu sein. Daneben befindet sich aber eine Art Steinsockel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe ein Steinscheibe gefunden. Ich weiß nicht, wozu sie dient, aber sie ist sorgfältig und filigran gearbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Scheibe, die man benötigt, um den Weg nach unten zu öffnen, ist in der Werkstatt verschlossen. Ich habe die Überreste des alten Zwergs gefunden, der sie dort zurückgelassen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe die Steinscheibe gefunden, mit der sich die Tür in die unteren Ebenen von Durgans Batterie öffnen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe eine seltsame Kugel aus Adra gefunden, die einem Auge ähnelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe noch eine Adra-Kugel gefunden, die ebenfalls ein Auge darstellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe aus einer seltsamen Maschine eine Adra-Scheibe entnommen. Offenbar diente sie dazu, Essenz in die Weiße Esse zu leiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe eine seltsame Kugel aus Adra gefunden, die einem Auge ähnelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe noch eine Adra-Kugel gefunden, die ebenfalls ein Auge darstellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich habe aus einer seltsamen Maschine eine Adra-Scheibe entnommen. Offenbar diente sie dazu, Essenz in die Weiße Esse zu leiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Seelen von Durgans Batterie zurück in den Kreislauf von Leben und Tod entlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Seelen von Durgans Batterie an die Kanonen gebunden. Dort können sie die Festung verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe die Seelen von Durgans Batterie an die Weiße Esse gebunden, damit sie zukünftige Schmiedearbeiten unterstützen und stärken können.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

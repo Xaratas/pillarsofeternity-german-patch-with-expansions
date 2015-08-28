@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px1_poi_bs_russetwood_pond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Scheint sicher zu sein ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vorsicht, Itumaak. Es ist rutschig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Geh du zuerst. Dieser Körper ist zum Schwimmen nicht der beste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Jemand Lust zu baden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Man kann wohl ungefährdet hinüber. Außer, ich verwandle mich in der Mitte aus Versehen in eine riesige Bestie. Hoffentlich mache ich das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sorg dich nicht um mich, Wächter. Ich bin zwar groß, aber über die Kohle zu gehen hat mich leichtfüßig werden lassen."</DefaultText>
+      <FemaleText>"Sorg dich nicht um mich, Wächterin. Ich bin zwar groß, aber über die Kohle zu gehen hat mich leichtfüßig werden lassen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hm. Wir haben an der Südküste kaum Eis. Vielleicht solltest du zuerst gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Du solltest das Eis mit etwas Schwerem prüfen, ob es auch sicher ist. Vielleicht mit einem übergewichtigen Priester, der nicht aufhören kann zu reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Durch das Eis zu fallen, soll unvorstellbares Grauen auslösen. Aber ich kann später wiederkommen und es probieren, wenn es jetzt gerade schlecht ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

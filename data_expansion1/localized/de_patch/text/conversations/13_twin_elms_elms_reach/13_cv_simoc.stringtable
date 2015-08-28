@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_simoc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Zahuas Gesicht ist düster. "Eine durchbrochene Linie kann den Tod eines Volkes bedeuten.
+
+"Er verlangt das Unaussprechliche, aber nur, weil er einen Grund dafür sieht. Und er könnte Recht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

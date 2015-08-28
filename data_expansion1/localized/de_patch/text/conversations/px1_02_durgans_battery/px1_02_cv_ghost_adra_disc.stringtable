@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_ghost_adra_disc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Deine Haut knistert, als du dich dem Kessel näherst. Er kocht vor Seelenenergie, vor Leben, die dreimal gelebt und gelagert wurden. Essenz strömt wie wirbelndes Wasser umher, über uralte Rohre und Zahnräder.
+
+Doch dort im Kessel liegt eine schwere Steinscheibe, mit Runen verziert und so blass wie Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Nach dem Gegenstand greifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du spürst eine Kälte deinen Arm hinaufsteigen, sobald deine Finger die Oberfläche der Scheibe berühren. Flüsternde Stimmen erheben sich aus dem Stein um dich herum, und aus diesem Chor ragt eine einzelne, feste Stimme heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Halt! Diese Methoden gehören uns! Den Pargrunen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du kannst mich nicht aufhalten, Geist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Und wenn ich 'bitte' sage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was ist hier passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Jahre der Arbeit! Der Stolz einer Generation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Abydon selbst!" Das zornige Zischen umgibt dich. "Du wirst dein Eindringen bereuen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du willst uns bestehlen? Uns und-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du hörst ein Knarren und Klicken in der Halle. Draußen stöhnt und zischt etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

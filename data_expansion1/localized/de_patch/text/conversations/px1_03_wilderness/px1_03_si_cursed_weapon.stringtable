@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_si_cursed_weapon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hinter einem eisigen Vorhang aus Wasser befindet sich eine Nische, deren Wände mit Eis bedeckt sind. In der Mitte siehst du ein grob gehauenes Steinpodest, ebenfalls mit Eis von dem Wasserfall bedeckt.
+
+Ein kreuzförmiges Heft und eine geschwungene Klinge ragen aus dem Podest heraus. Der Größe des Hefts und der mutmaßlichen Länge der Klinge nach handelt es sich wohl um einen Panzerbrecher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Waffe ergreifen und herausziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[[Slot 0] befehlen, die Waffe zu ergreifen und herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[[Slot 1] befehlen, die Waffe zu ergreifen und herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[[Slot 2] befehlen, die Waffe zu ergreifen und herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[[Slot 3] befehlen, die Waffe zu ergreifen und herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[[Slot 4] befehlen, die Waffe zu ergreifen und herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[[Slot 5] befehlen, die Waffe zu ergreifen und herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Zu dem Podest gehen, um die Waffe aus dem Stein zu ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wer soll gehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Nische und das Steinpodest sind kaum mehr als zerfallene Ruinen. Eis bricht Risse in den Stein und überzieht den glatten Boden.
+
+Der Panzerbrecher scheint in besserem Zustand zu sein - zumindest der kleine Teil, den du sehen kannst. Es erscheint seltsam, dass jemand ihn hier zurücklassen würde.
+
+Als du dich näherst, hörst du jedoch Schreie und Rufe gepeinigter Seelen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Nische und das Steinpodest sind kaum mehr als zerfallene Ruinen. Eis bricht Risse in den Stein und überzieht den glatten Boden.
+
+Der Panzerbrecher scheint in besserem Zustand zu sein - zumindest der kleine Teil, den du sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] duckt sich unter den eiskalten Wasserfall und atmet scharf ein. Zitternde Atemzüge hallen in der kleinen Kammer wider.
+
+Das herabfallende Wasser zeichnet Muster auf die Klinge, als [Specified 0] sich ihr nähert.
+
+[Specified 0] ergreift das Heft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Hass, die Furcht und die Gewalt von einem Dutzend wahnsinniger, fieberhafter Stimmen erfüllen den Verstand von [Specified 0].
+
+[Specified 0] wird von einer Welle mentaler Schmerzen übermannt und erzittert bei dem verzweifelten Versuch, die Stimmen abzuwehren. Angestrengtes Ächzen und schmerzvolle Rufe hallen durch den winzigen Raum.
+
+Aber [Specified 0] lässt das Heft nicht los und gewinnt schließlich ein gewisses Maß an Kontrolle zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Hass, die Furcht und die Gewalt von einem Dutzend wahnsinniger, fieberhafter Stimmen erfüllen den Verstand von [Specified 0].
+
+[Specified 0] wird von einer Welle mentaler Schmerzen übermannt und erzittert bei dem verzweifelten Versuch, die Stimmen abzuwehren. Angestrengtes Ächzen und schmerzvolle Rufe hallen durch den winzigen Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du duckst dich unter den Wasserfall. Das kalte Wasser lässt dich scharf einatmen. Dein zitternder Atem hallt in der kleinen Kammer wider.
+
+Als du dich dem Podest näherst, siehst du, wie sich das herabfallende Wasser in der Klinge spiegelt.
+
+Du ergreifst das Heft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Der Hass, die Furcht und die Gewalt von einem Dutzend wahnsinniger, fieberhafter Stimmen erfüllen deinen Verstand.
+
+Du wirst von einer Welle mentaler Schmerzen übermannt und erzitterst bei dem verzweifelten Versuch, die Stimmen abzuwehren. Angestrengtes Ächzen und schmerzvolle Rufe hallen durch den winzigen Raum.
+
+Aber du lässt das Heft nicht los und gewinnst schließlich ein gewisses Maß an Kontrolle zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Hass, die Furcht und die Gewalt von einem Dutzend wahnsinniger, fieberhafter Stimmen erfüllen deinen Verstand.
+
+Du wirst von einer Welle mentaler Schmerzen übermannt und erzitterst bei dem verzweifelten Versuch, die Stimmen abzuwehren. Angestrengtes Ächzen und schmerzvolle Rufe hallen durch den winzigen Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Weiter festhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Den Panzerbrecher loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du versuchst, das Heft loszulassen, aber einige Sekunden lang scheinen deine Finger daran festgefroren zu sein.
+
+Du mühst dich ab und ziehst und zerrst. Endlich gelingt es dir, dich loszureißen. Du fliegst nach hinten und landest im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du behältst das Schwert fest in der Hand. Deine Arme zittern von der Anstrengung.
+
+Schließlich gewinnst du trotz der lärmenden Stimmen ein gewisses Maß an Kontrolle zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Gerade, als dein Atem sich beruhigt und die Kakophonie nachlässt, wird dein Arm jedoch nach vorne gezogen.
+
+Es fühlt sich plötzlich an, als würdest du eine schwere - und schmerzhafte - Last tragen.
+
+Du könntest den Panzerbrecher vermutlich herausziehen, aber das erfordert Vorsicht und Anstrengung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Den Panzerbrecher aus dem Stein ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Die Waffe loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du stehst auf und klopfst dir den Schnee ab, vor Erschöpfung zitternd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du versuchst, loszulassen, aber etwas scheint deine Finger an das Heft zu binden.
+
+Nachdem du dich eine Minute lang umsonst abgemüht hast, hängst du immer noch an dem Panzerbrecher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du reißt den Panzerbrecher mit beeindruckender roher Gewalt aus dem Stein. Die Klinge wird durch die kraftvolle Bewegung in laute Schwingungen versetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Nach langem Mühen und Ringen ziehst du den Panzerbrecher aus dem Stein. Schweiß bedeckt dein Gesicht und deine schmerzenden Glieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als du aber versuchst, den Panzerbrecher loszulassen, bleibt er an deiner Hand kleben. Du spürst, wie etwas in der Waffe deine Seele umklammert und sich an sie bindet.
+
+Als du die Klinge ansiehst, siehst du eine neue Inschrift in dem Metall aufleuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Weiter festhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Gerade, als der Atem von [Specified 0] sich beruhigt und die Kakophonie nachlässt, wird jedoch der arm von [Specified 0] nach vorne gezogen.
+
+Es fühlt sich plötzlich an, als würde [Specified 0] eine schwere - und schmerzhafte - Last tragen.
+
+[Specified 0] könnte den Panzerbrecher vermutlich herausziehen, aber das erfordert Vorsicht und Anstrengung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Den Panzerbrecher aus dem Stein ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0] reißt den Panzerbrecher mit beeindruckender roher Gewalt aus dem Stein. Die Klinge wird durch die kraftvolle Bewegung in laute Schwingungen versetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Nach langem Mühen und Ringen zieht [Specified 0] den Panzerbrecher aus dem Stein. Schweiß bedeckt das Gesicht und die schmerzenden Glieder von [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Als [Specified 0] aber versucht, den Panzerbrecher loszulassen, bleibt er an der Hand von [Specified 0] kleben. Etwas in der Waffe umklammert die Seele von [Specified 0] und bindet sich an sie.
+
+Auf der Klinge leuchtet eine Inschrift aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Specified 0] behält das Schwert fest in der Hand, mit vor Anstrengung zitternden Armen.
+
+Schließlich gewinnt [Specified 0] trotz der lärmenden Stimmen ein gewisses Maß an Kontrolle zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 0] versucht, das Heft loszulassen, aber einige Sekunden lang scheinen seine Finger daran festgefroren zu sein.
+
+[Specified 0] müht sich ab und zieht und zerrt. Endlich reißt er sich los. Er fliegt nach hinten und landet im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] versucht, das Heft loszulassen, aber einige Sekunden lang scheinen ihre Finger daran festgefroren zu sein.
+
+[Specified 0] müht sich ab und zieht und zerrt. Endlich reißt sie sich los. Sie fliegt nach hinten und landet im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] steht auf und klopft sich den Schnee ab, vor Erschöpfung zitternd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Gegen das Podest stemmen, um den Panzerbrecher herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Den Panzerbrecher loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Den Panzerbrecher loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Gegen das Podest stemmen, um den Panzerbrecher herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du stellst dich breitbeinig auf das Podest, um mehr Hebelwirkung zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du versuchst, das Heft loszulassen, aber einige Sekunden lang scheinen deine Finger daran festgefroren zu sein.
+
+Du mühst dich ab und ziehst und zerrst. Endlich gelingt es dir, dich loszureißen. Du fliegst nach hinten und landest im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Nachdem du den Panzerbrecher etwas bearbeitet hast, kannst du ihn ohne große Mühen herausziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 0] bearbeitet den Panzerbrecher etwas und kann ihn dann ohne große Mühen herausziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 0] versucht, das Heft loszulassen, aber einige Sekunden lang scheinen seine Finger daran festgefroren zu sein.
+
+[Specified 0] müht sich ab und zieht und zerrt. Endlich reißt er sich los. Er fliegt nach hinten und landet im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Specified 0] versucht, loszulassen, aber etwas scheint die Finger deines Verbündeten an das Heft zu binden.
+
+Nach einer ganzen Minute vergeblicher Mühen hängt [Specified 0] immer noch an dem Panzerbrecher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] versucht, das Heft loszulassen, aber einige Sekunden lang scheinen ihre Finger daran festgefroren zu sein.
+
+[Specified 0] müht sich ab und zieht und zerrt. Endlich reißt sie sich los. Sie fliegt nach hinten und landet im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 0] stellt sich breitbeinig auf das Podest, um mehr Hebelwirkung zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Die Klinge inspizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Klinge ist aus edlem, robustem Stahl. [Specified 0] betrachtet sie näher und sieht einen Teil eines Gedichts als Inschrift in der Klinge:
+
+"Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
+weil doch das Wissen seiner Tat sein Herze schwer belast'.
+Echte Reue aber löst die Fesseln, löst des Grames Seil,
+gutes Handeln rettet vorm Schafott ihn und vorm Beil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Klinge ist aus edlem, robustem Stahl. Es erscheint seltsam, dass jemand sie in diesem Stein zurücklassen würde, aber [Specified 0] kann abgesehen von der hohen Qualität nichts Besonderes an der Waffe erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Die Klinge inspizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Die Klinge ist aus edlem, robustem Stahl. Du betrachtest sie näher und siehst einen Teil eines Gedichts als Inschrift in der Klinge:
+
+"Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
+weil doch das Wissen seiner Tat sein Herze schwer belast'.
+Echte Reue aber löst die Fesseln, löst des Grames Seil,
+gutes Handeln rettet vorm Schafott ihn und vorm Beil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die Klinge ist aus edlem, robustem Stahl. Es erscheint seltsam, dass jemand sie in diesem Stein zurücklassen würde, aber du kannst abgesehen von der hohen Qualität nichts Besonderes an der Waffe erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Flammenfächer wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Den Panzerbrecher hin- und herbewegen, um ihn zu lösen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Hände von [Specified 0] geben Hitze ab und lassen das Eis auf der Klinge schmelzen.
+
+Das scheint den Panzerbrecher etwas zu lockern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Mit wenigen gekonnten und präzisen Bewegungen gelingt es [Specified 0], die Klinge zu lockern.
+
+Das Heft springt einige Zentimeter nach oben, doch der Panzerbrecher steckt weiterhin fest in dem Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Flammenfächer wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Deine Hände geben Hitze ab und lassen das Eis auf der Klinge schmelzen.
+
+Das scheint den Panzerbrecher etwas zu lockern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Den Panzerbrecher hin- und herbewegen, um ihn zu lösen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Mit wenigen gekonnten und präzisen Bewegungen gelingt es dir, die Klinge zu lockern.
+
+Das Heft springt einige Zentimeter nach oben, doch der Panzerbrecher steckt weiterhin fest in dem Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

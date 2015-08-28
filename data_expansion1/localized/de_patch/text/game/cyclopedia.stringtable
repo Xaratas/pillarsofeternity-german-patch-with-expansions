@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Lagufaeth sind vierarmige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen - dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.
+
+Eine Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, Männchen oder Weibchen. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe - immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Das Schicksal der Zwerge von Durgans Batterie blieb Gelehrten zweihundert Jahre lang ein Rätsel. Die wenigen Bruchstücke, die bekannt waren, ließen darauf schließen, dass eine Meinungsverschiedenheit zwischen ihren Kommandanten die Zwerge gespaltet hatten. Sie verriegelten die Tür der Batterie und kamen nie wieder heraus.
+
+Diese Skelette haben die Größe von Zwergen. Die Rüstungen, die sie tragen, waren einst von hervorragender Qualität ... genau wie der legendäre Durganstahl. Im Gegensatz zu den meisten Skeletten kämpfen sie in organisierten Formationen. Ihr Können und ihre Disziplin in der Schlacht machen sie zu formidablen Gegnern, genau wie ihre robuste Rüstung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Gespenster sind - wie Phantome auch - Geister, die nach einem besonders gewalttätigen Leben oder Tod zurückgeblieben sind. Sie erscheinen zwar überall in Eora, doch die Pässe der Weißmark bringen sie mit alarmierender Häufigkeit hervor ... wimmelt es hier doch von Ogern, Lagufaeth, Banditen und Sklaven.
+
+Gespenster scheinen sich von lebender Essenz zu ernähren, und sie greifen jeden Gestandenen oder Wilden in ihrer Nähe an. Sie scheinen zwar wahllos in ihrer Aggression zu sein, sind jedoch klug genug, um Gruppen zu trennen und einzelne Opfer zu attackieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Sirenen gelten als Manifestationen von Essenz, die durch eine leidenschaftliche Begierde ihres früheren Wirts zusammengezogen wurde. Sie werden oft mit der See und mit Ondra in Verbindung gebracht. Viele Geschichten über Sirenen handeln von Schiffsunglücken, die angeblich durch den unwiderstehlichen Ruf einer Sirene verursacht wurden. In Wahrheit aber finden sich Sirenen überall, wo sich die richtigen Bedingungen ergeben. Zudem ist ihr Ruf weitaus weniger gefährlich als ihr ohrenbetäubendes Kreischen.
+
+Es heißt, dass Sirenen meistens die Gestalt einer verführerischen Frau annehmen, unabhängig von der Identität der Person oder Personen, aus deren Essenz sie sich gebildet haben. Die Gründe hierfür sind ungewiss. Man vermutet, dass dies dem Willen Ondras geschuldet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Gehässigkeit gehört zu den beständigsten negativen Emotionen. Hass klingt mit der Zeit oft ab. Trauer weicht Akzeptanz. Aber die Entrüstung, die durch Grausamkeit, Ungerechtigkeit oder schlichte Gereiztheit entsteht, kann den Geist vergiften und selbst über den Tod hinaus andauern.
+
+Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als ein Gemenge gehässiger Instinkte. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. "Bittergeist" ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist ... und auf nahezu dieselbe Beschreibung passt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Als Durgans Batterie schon fast gefallen war, kam es zu einem letzten Gefecht. Die überlebenden Handwerker der Festung nutzten die Weiße Esse, um aus ihren edelsten Materialien und heldenhaftesten Seelen Wächter zu schaffen. Den Fall der Batterie konnten sie damit jedoch nicht verhindern.
+
+Versuche, künstliche Wesen aus Metall, Stein und anderen Materialien zu schaffen, gab es schon lange vor der modernen Beseelung. Die ersten Konstrukte waren jedoch seltene, fehleranfällige Automaten. Erst wissenschaftliche Fortschritte machten aus ihnen halb-intelligente Wesen, die in den letzten Jahren etwas alltäglicher wurden. Fehlfunktionen sind seltener geworden, auch wenn die Verwendung von Seelen - oft aus zweifelhaften Quellen - die Heftigkeit und Gewalttätigkeit solcher Episoden zu verstärken scheint.
+
+Da beim Bau häufig Metall verwendet wird, werden Konstrukte oft als wandelnde Rüstungen betrachtet, was aber ein Trugschluss ist. Konstrukte sind selten leere Hüllen. Meist bestehen sie aus massiven Materialien oder sind mit uhrwerksähnlichen Mechanismen gefüllt, um ihnen die Fortbewegung zu ermöglichen. Zudem sind Konstrukte in Form und Funktion meistens Gestandenen nachempfunden. Obwohl nur die wenigsten Konstrukte zumindest die Grundzüge einer eigenen Persönlichkeit besitzen, wird als Motivation für den Bau häufig der Wunsch nach Gesellschaft genannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Alguls sind Guls, deren körperlicher Verfall durch das Ritual eines Zauberers aufgehalten wurde. Nur wenigen Zauberern ist es je gelungen, einen Gul in einen Algul zu verwandeln. Das Ritual ist komplex und man munkelt, dass die benötigten Ingredienzen unschön und schwierig zu beschaffen sind. Weise glauben, dass das Ritual der erste Schritt auf dem Weg zu einer Heilung für Untote ist.
+
+Welche Beweggründe auch hinter dem Ritual stehen mögen - Alguls sind furchterregend stark und intelligent. Ihre Körper verfallen zwar nicht länger, doch ihr ewiger Hunger nach dem Fleisch von Gestandenen bleibt bestehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Lichs sind ebenso formidabel wie selten. Sie sind Meister des Arkanen, die einen Weg gefunden haben, ihr eigenes Leben zu verlängern - ohne dem geistigen Verfall eines Fampyrs oder anderen Besessenen zu unterliegen. Es gibt keine zuverlässigen Berichte oder Unterlagen darüber, wie man zu einem Lich wird, denn die wenigen Zauberer, denen dies gelungen ist, hüten das Geheimnis um ihre Methoden. Man vermutet aber, dass der Prozess äußerst schwierig und schmerzvoll ist. Die Annalen der Zauberkunst sind voller warnender Geschichten über ehrgeizige Magier, die in ihrem Streben nach Unsterblichkeit ihre eigenen Körper entzweigerissen haben.
+
+Lichs verfallen zwar körperlich, behalten jedoch ihre geistigen Fähigkeiten bei - einer der Punkte, der sie von Besessenen unterscheidet. Sie erreichen dies, indem sie ihre eigene Essenz an Phylakterien binden, meist in Form von Phiolen oder Glücksbringern, die am Körper oder in seiner Nähe getragen werden. Keiner der bekannten Lichs hat aber je die Art oder den Ort seines Phylakteriums offenbart - alle Theorien über diese Phylakterien sind daher letztlich nur Spekulation.
+
+Die meisten Lichs gelten als mächtige Zauberer oder Magier, was aber eher eine Verallgemeinerung als eine feste Regel ist. Ein Lich, der vor fast tausend Jahren gelebt hat, war eine Berath-Priesterin, die sich durch ihren eigenen strengen Glauben am Leben hielt. Es gibt Gerüchte von Beseelern, die mit ähnlichen Konzepten experimentieren. Angesichts des fragwürdigen Rufs der Beseelungskunst würde dies jedoch nie ein Beseeler offen zugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Beseeler, Nekromanten und andere skrupellose Zauberwirker, die mit den Leichen von Gestandenen experimentieren, haben schon die verschiedensten Konstrukte und Besessenen geschaffen. Einige existieren als Forschungsobjekte, andere als pure Belustigung.
+
+Leereseher sind Schädel voller Essenz. Die ersten Berichte über Leereseher stammen aus Alt-Vailia, wo ein inzwischen berüchtigten Nekromant sie als Amüsement für den Hof schuf. Seitdem wurden sie als Patrouillen, Wachen und Diener eingesetzt. Ihre geringe Größe macht es leichter, sie zu erschaffen und zu kontrollieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Zauberer experimentieren seit Jahrhunderten mit Konstrukten. Es ist jedoch ein äußerst schwieriges Unterfangen, Seelenessenz aus einem lebenden Körper in etwas anderes zu verpflanzen - ob in Stein, Metall oder Knochen. Je mehr das Gebiet erforscht wurde - größtenteils dank der Beseelung -, desto mehr haben die Methoden sich verbessert.
+
+Noch weitaus schwieriger ist die Übertragung einer intakten Seele - einer Seele also, die ihre Persönlichkeit, ihre Erinnerungen und ihre Intelligenz beibehält. Ethelmoer, der Leiter des Sanatoriums von Farnheim in Trutzbucht ist einer der wenigen erfolgreichen Versuche. Verfechter dieser Forschung argumentieren, dass eine Perfektionierung dieser Methode es Gestandenen ermöglichen würde, ihr Leben zu verlängern, ohne zu Fampyren, Guls oder anderen fleischfressenden Besessenen zu verkommen. Kritiker halten dagegen, dass die metallischen Monstrositäten, die geheime Beseelungslabor bevölkern, noch viel grauenhafter sind.
+
+Man schätzt, dass es für jedes wirklich beseelte Konstrukt dutzende - wenn nicht sogar hunderte - von verstümmelten Seelen gibt, die in halbfertigen Körpern gefangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Skelette geben formidable und ausdauernde Krieger ab, auch wenn ihre ungeschützten Knochen leicht verwundbar sein können. Durch eine Rüstung lässt sich das etwas lindern, doch Platten-, Ketten- und Schuppenpanzer reiben an den Knochen und machen sie mit der Zeit brüchig. Es gibt verschiedene Versuche, das zu verhindern - beispielsweise, indem die Knochen mit Harz oder Stoff überzogen werden. Die Herausforderung liegt darin, die Knochen zu bedecken, ohne ihre Bewegung einzuschränken. Eine schwierige Aufgabe, doch wer sie meistert, der schafft unglaublich starke und robuste Skelette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Fliegende Schwerter und schwebende Besen sind seit Urzeiten der Traum angehender Kampfmagier und überarbeiteter Lehrlinge. Doch obwohl viele Zauberer alltägliche Gegenstände schweben lassen können, können nur die wenigsten sie in der Luft kontrollieren - insbesondere im Eifer des Gefechts. Würde es aber einem in der Zauber- und der Kampfkunst gleichermaßen geschulten Zauberwirker gelingen, dutzende Waffen gleichzeitig zu manipulieren, wäre er ... oder sie wahrhaft mächtig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Seelengebundene Waffen sind einzigartige Gegenstände, die sich auf magische Weise mit der Seele eines einzelnen Charakters verbinden können. Ist eine solche Bindung einmal entstanden, kann die Waffe nur noch von diesem Charakter eingesetzt werden ... bis die Bindung gekappt wird. Eine seelengebundene Waffe wird stärker, wenn ihr Besitzer gewisse Anforderungen erfüllt, die in der Beschreibung der Waffe angegeben sind.
+
+Die meisten seelengebundenen Waffen können sich nur mit Charakteren einer bestimmten Klasse verbinden. Unabhängig von der Art der Waffe sind seelengebundene Waffen aber immer für alle Talente oder Fähigkeiten des Charakters empfänglich, beispielsweise Waffenschwerpunkt und -spezialisierung. Wenn ein Kämpfer als Waffenschwerpunkt und -spezialisierung beispielsweise Raufbold besitzt, erhält er seine Vorteile auch dann, wenn er ein seelengebundenes Großschwert oder einen seelengebundenen Zauberstab einsetzt. Vorteile aus verschiedenen Talenten oder Fähigkeiten desselben Typs (z.B. Waffenschwerpunkt Raufbold und Bauer) werden nicht addiert.
+
+Wird die Verbindung zu einer seelengebundenen Waffe je gekappt, verliert sie alle Fähigkeiten, die sie mit der Zeit gewonnen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Maegfolc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Maegfolc gehören zu den größten Kreaturen in Eora. Sie sind meist in abgelegenen, rauen Gebieten zu finden, wo sie oft alleine oder in kleinen Gruppen leben und jagen. Es gibt viele unterschiedliche Arten von Maegfolc, doch eines ist ihnen allen gemein - sie sind aggressiv und leben zurückgezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

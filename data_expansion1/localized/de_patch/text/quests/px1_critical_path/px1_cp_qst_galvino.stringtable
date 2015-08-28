@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_galvino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Einsiedler der Weißmark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Galvinos Hütte in der Nähe von Durgans Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde einen Dorfbewohner von Stalwart, dessen Seelenvorfahr ein Zwerg aus Durgans Batterie ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erwecke die Seele eines Zwerges aus Durgans Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Galvino lebt im Schatten von Durgans Batterie. Er weiß vielleicht etwas Interessantes über die Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Renengild hat mir gesagt, dass ich Galvino östlich von Durgans Batterie finde - einen exzentrischen Schmied und Beseeler. Uldric glaubt, dass er mir vielleicht etwas Nützliches über die Festung sagen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Galvino sagt, um Durgans Batterie zu betreten, muss ich ihr Festungslied kennen - ein Gedicht, das die Zwerge verwendeten, als die Festung noch genutzt wurde. Leider ist jeder, der es gekannt haben könnte, längst tot.
+
+Galvino glaubt allerdings, dass es in Stalwart vielleicht Seelennachfahren dieser Zwerge geben könnte. Mit meinen Fähigkeiten könnte ich sie sicher leicht finden. Ich könnte das Festungslied lernen, indem ich eine dieser Seelen erwecke. Das könnte allerdings auch jemanden zu einem Schicksal wie meinen verdammen ... oder Maerwalds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe einen unmittelbaren Nachfahren eines Zwerges aus Durgans Batterie gefunden. Ich könnte diese Person jetzt erwecken ... oder in Stalwart weiter nach einem anderen Kandidaten suchen.
+
+Auf jeden Fall muss ich jemanden erwecken, der mir das Festungslied von Durgans Batterie beibringen kann. Um eine ältere Seele zu erwecken, müsste es reichen, dass ich sie direkt anspreche. 
+
+Das ist zwar recht einfach, aber es könnte unvorhersehbare Folgen für den Dorfbewohner haben, in dem diese Seele schlummert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Galvino hat mir ein Werkzeug gegeben, das mir helfen könnte. Wenn ich es im Beisein von Dorfbewohnern einsetze, müsste es jeden markieren, dessen Seelenlinie mehrere hundert Jahre alt ist. Es ist nicht perfekt, aber es dürfte meine Suche zumindest eingrenzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Owynna, eine Magd in der Gréfenrast, teilt sich ihre Seele mit einem Zwerg namens Gregur. Er ist korrupt und hinterlistig. Ihn zu erwecken dürfte das Leben der schüchternen Magd also ... interessant werden lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Taena, die alte Minenaufseherin, ist die Seelennachfahrin einer heißblütigen Zwergin namens Zenove. So gewalttätig, wie Zenoves letzte Erinnerungen waren, könnte es riskant sein, sie zu erwecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Vielleicht gibt es noch jemand anderen in der Stadt, den ich erwecken kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Galvinos Hütte gefunden, aber ihn selbst sehe ich nirgendwo. Vielleicht sollte ich mich ein wenig umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Festungslied von Gregur gelernt, einem korrupten Wachhauptmann aus Durgans Batterie, dessen Seele in Owynna lebt. Die Erweckung scheint sie bereits verändert zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Ich konnte Zenoves Intensität nutzen, ohne Taena zu überwältigen. Die alte Minenaufseherin scheint sogar eine neue Kraft gefunden haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Leider hat Zenove Taenas Körper übernommen und mich angegriffen ... ich war gezwungen, sie zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Die Frau, die ich finden musste, war bereits tot. Ich konnte das Festungslied aber von ihrer verweilenden Seele lernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

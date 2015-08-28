@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_an_unwelcome_guest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Nicht länger erwünscht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit dem Orlaner in der Gréfenrast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die Sklavenjägerin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe Ailef dazu, Stalwart zu verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Ailef zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Defala im Rotwald zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu Defala im Rotwald zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Haeferic, der Wirt der Gréfenrast, ist misstrauisch gegenüber einem seiner Gäste. Er sagt, der Orlaner in einem seiner Zimmer würde sich seltsam verhalten. Haeferic will der Sache auf den Grund gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Haeferic ist überzeugt, dass sein orlanischer Gast nichts Gutes im Schilde führt. Der Orlaner ist vor einigen Tagen aufgetaucht und hat sich mehr oder weniger in einem der Zimmer verschanzt.
+
+Haeferic will ihn loswerden, ich soll ihm aber nicht wehtun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ailef versteckt sich vor Defala, einer Sklavenjägerin, die ihm aus Readceras gefolgt ist. Er kann die Stadt erst verlassen, wenn sie keine Gefahr mehr darstellt.
+
+Gerüchten zufolge hat eine Gruppe Readceraner irgendwo westlich der Stadt ihr Lager aufgeschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Defala hat einiges berichtet, was Ailef verschwiegen hatte - insbesondere, dass er freiwillig zum Schuldknecht geworden ist und dass er bei seiner Flucht den jungen Sohn seines Herren getötet hat.
+
+Sie hat mich gebeten, ihn zurück auf die Straßen zu locken. Als Belohnung hat sie mir einen Teil des Kopfgelds angeboten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Die Sklavenjägerin ist tot. Ailef wird froh sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Ailef überzeugt, die Stadt zu verlassen. Die Sklavenjäger dürften keine Mühe haben, ihn zu schnappen. Ich muss meine Belohnung bei Defala abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ailef ist tot, aber vielleicht ist Defala mit diesem Ausgang ja zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ailef ist tot. Die Sklavenjägerin wird nun nicht bezahlt - und ich wohl auch nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Defala war gereizt, als ich nach unserer Abmachung erneut mit ihr gesprochen habe. Wenn ich den Auftrag nicht bald ausführe, wird sie glauben, ich würde sie hintergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quest gescheitert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Quest gescheitert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe mich in Ailefs Auftrag um die Sklavenjägerin gekümmert. Er hat sich bei mir bedankt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Ailef dazu gebracht, direkt in die Hände der Sklavenjäger zu laufen. Defala hat mir meine Bezahlung gegeben, bevor sie sich auf den Rückweg nach Readceras machte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Ailef aus dem Zimmer gelockt und mich in der Wildnis um ihn und die Sklavenjägerin gekümmert. Haeferic dürfte zumindest froh sein, dass sie fort sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Defala war nicht erfreut, dass ich die Dinge selbst in die Hand genommen habe. Sie hat mich angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ailef verdient es vielleicht nicht, als Sklave zu leben - aber er ist ein Mörder. Ich habe beschlossen, ihn als meinen Gefangenen zu nehmen. Zumindest ist er dann aus Haeferics Gasthaus fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Der entflohene Sklave Ailef versteckt sich in der Gréfenrast in Stalwart. Er erbittet Hilfe dabei, vor seinen Verfolgern zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

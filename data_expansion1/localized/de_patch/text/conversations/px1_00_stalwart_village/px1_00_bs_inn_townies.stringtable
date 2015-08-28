@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_bs_inn_townies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Gute Arbeit mit den Ogern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kleine Warnung, wenn du hier neu bist - die Getränke sind nicht gestreckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Zum Glück hat Haeferic noch etwas Wildbret auf Lager. Es gibt kaum mehr Elche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Die Oger setzen uns heftig zu. Sie versuchen, uns aus der Batterie fernzuhalten. Und sie sind am Gewinnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hast du von Renengild gehört? Das wird das Ende von Stalwart bedeuten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich glaube, ich frage Taena, ob sie in der Mine noch mehr Arbeiter braucht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Trutzbucht leidet angeblich ziemlich stark unter dem Vermächtnis. Ob es dort auch so schlimm ist wie hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Es kommt kaum noch irgendjemand hierher. Du bist das erste neue Gesicht seit Wochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Thyrsc redet immer noch von diesem Biest, das er jagt. Der soll sich lieber auf die Oger konzentrieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Reyfald war vor einer Weile mal hier und hat Haeferic um Schnaps angebettelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Kommst du aus Trutzbucht? Da unten ist es sicher schön warm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich glaube, Osgyth hat sich mal wieder mit seinem Sohn gestritten. Palloc ist immer noch bei den Docks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Murus hat gesagt, dass Owynna ein Messer gegen ihn gezückt hat. Der hat eindeutig zu viel erwischt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Die Kämpfe sind vielleicht abgeklungen ... aber sie gehen bald wieder weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vielleicht können wir Stalwart doch noch retten, nachdem die Batterie jetzt offen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du hättest hier sein sollen, als der alte Bürgermeister Cyneheod unsere Stadtkasse geplündert hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du bist Koch? Tja, hier ist eine Stelle frei."</DefaultText>
+      <FemaleText>"Du bist Köchin? Tja, hier ist eine Stelle frei."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Du bist Koch? Dann probier lieber nicht den Eintopf."</DefaultText>
+      <FemaleText>"Du bist Köchin? Dann probier lieber nicht den Eintopf."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wir brauchen kühle Köpfe wie deinen. Diese Oger haben alle in Panik versetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Kennst du gute Witze? Wir könnten ein wenig Aufheiterung brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Seltsam, dass die Oger gerade dann angreifen, als jemand mit deinem ... finsteren Blick hier auftaucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Aedyr, ja? Unter denen ging es Stalwart deutlich besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Seit Galvino weg ist, sieht man kaum noch Vailianer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich habe vor einer Weile Licht in Durgans Batterie gesehen. Ich dachte, das wäre das Bier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Endlich kriegen wir gute Straßen. Und etwas anderes zu essen als immer nur Fisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hoffentlich bringt uns die Weiße Esse eine ordentliche Einnahmequelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Du darfst der Batterie nicht den Rücken zukehren. Du musst rückwärts gehen und zu Abydon beten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Angeblich sind die Zwerge aus Durgans Batterie bei einem Gelage gestorben. Sie haben sich gegenseitig vergiftet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wenn du in der Nähe der Batterie Stimmen hörst, male Ondras Welle auf deine Brust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Bleib und wärme dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"[Player Name]! Lass uns etwas trinken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich will in Ruhe mein Bier trinken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hoffentlich kriegen die Oger dich nächstes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Schön, dich zu sehen. Glaube ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich bin mir nicht sicher - willst du uns eine Runde zahlen oder hier alles niederbrennen? Vielleicht beides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wenn sich Haeferic noch einmal über diesen Orlaner beschwert ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Keydy würde hier gewaltig fehlen. Gut, dass du sie gerettet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Keydy fehlt hier gewaltig. Das arme Kind, so in den Flammen zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

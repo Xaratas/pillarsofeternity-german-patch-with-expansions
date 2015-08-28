@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_thyrsc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>228</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Zwerg starrt gedankenverloren in das Feuer und pafft langsam an seiner Pfeife. Als du ihn grüßt, erschrickt er sichtlich und seine Pfeife fällt zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[Player Name]." Thyrsc nickt dir zum Gruß zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Sei vorsichtig auf dem Berg. In diesen harten Zeiten sieht für manche Kreaturen alles nach Beute aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wie hast du dich verletzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es waren nicht die Oger, das kann ich dir sagen. Wenn man denen ein paar Pfeile verpasst, sind sie meistens klug genug, sich zurückzuziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tut mir leid. Ich habe dich nicht kommen hören. Meine Ohren sind nicht mehr die besten." Er bückt sich, um seine Pfeife aufzuheben, und verzieht dabei das Gesicht. Als er sich wieder erhebt, hält er sich die Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe einige Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich bin Thyrsc. Ich lebe hier schon so lange, dass die Gestandenen mich den 'alten Jäger' nennen. Mehr gibt es über mich kaum zu sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das war übrigens recht beeindruckend, wie du diese letzte Gruppe abgefertigt hast. Die werden es sich zweimal überlegen, ob sie noch einmal wiederkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Das war recht beeindruckend, wie du diese letzte Gruppe abgefertigt hast. Hätte nicht gedacht, dass du zu den Gottähnlichen gehörst. Andererseits, wenn hier am Ende der Welt überhaupt jemand auftaucht, um uns den Hintern zu retten ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du willst den Rat des Alters einholen, nehme ich an? Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Was kannst du mir über Stalwart sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du hast bestimmt einige interessante Jagdgeschichten zu erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Mehr Fragen habe ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Thyrsc neigt als Antwort nur den Kopf. Er klopft seine Pfeife aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Warum gibt es so wenig zu jagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hat das Vermächtnis auch Stalwart getroffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich kann dir sagen, dass es nicht mehr lange existieren wird, wenn es so weitergeht. Mit den Minen haben wir den einzigen Grund verloren, warum wir je auf einer Karte eingezeichnet waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Natürlich hat nicht jeder solch ein Pech gehabt. Du wirst auch einige verwöhnte Bengel herumlaufen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Es ist ungewöhnlich kalt, die Elchherden leiden darunter. Wir müssen uns mit den Ogerclans und den Wölfen um das Wenige streiten, was noch da ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Nur eine, im Grunde. Und du hast dieser Geschichte das beste Ende verliehen, das man sich erhoffen konnte. Der Rest sind nur die Erinnerungen eines alten Mannes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Mich hat ein Oger überlistet. Er hat mich lang genug abgelenkt, dass ein zweiter mich überraschen konnte - hat mich fast entzwei gebissen." Er verzieht das Gesicht. "Ich kann es erst in ein paar Wochen wieder versuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Willkommen. Setz dich ans Feuer, wenn die Kälte dir in die Knochen gekrochen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Kennst du einen Mann namens Harmke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Thyrsc nickt. "Natürlich kenne ich Harmke. Er ist mit seinen Männern am Holzplatz, nehme ich an. Nördlich der Straße, wenn du nach Westen losziehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Jetzt, wo Suldrun fort ist, mögen die Götter ihn heilen, hat das Dorf vielleicht eine bessere Chance. Aber es ist ein hoher Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Und immer wieder irgendwelche Bestien. Wir haben viele junge Jäger verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Das Ding ist ein Wolf, sagtest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Wo finde ich diese Bestie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ah ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich werde die Augen offenhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es muss getan werden. Aber ich warne dich, mit dieser Bestie ist nicht zu spaßen. Sie muss ihr Revier irgendwo im Westen haben. Falls du vorhast, dorthin zu gehen, sei auf der Hut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich werde nicht gerne belogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Und ich bedauere, dass es nötig war. Nein - dass ich es für nötig hielt. Ich dachte, du würdest vor der Aufgabe zurückschrecken, wenn du wüsstest, was Suldrun einmal war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es tut mir leid, dass ich nicht zu ihm durchdringen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Lange Stunden, in denen man Fallen überprüft und auf Elche wartet. Früher habe ich auch die großen Biester gejagt - Bären, Stelgaer. Aber hier oben nimmt man, was man kriegen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Es war gewiss schwierig, aber du hast getan, was du tun musstest. Und die Bürger von Stalwart sind nun sicherer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Kannst du mir etwas über deine früheren Begegnungen sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Bist du verletzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ja. Anfangs hatten wir etwas Hoffnung, dass wir verschont bleiben. So abgeschieden, wie wir liegen. Diese Hoffnung hielt nicht lange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Kein gewöhnlicher Wolf. Ein Monster. Diese Kreatur ist groß. Und ich sehe die Spuren, die sie hinterlässt ... wie sie die letzten paar Jäger zugerichtet hat, und die Elche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Er streift durch den Rotwald, im Westen. Offenbar hat er entschieden, dass der See ein gutes Jagdrevier ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Es gibt nichts zu sagen. Er ist mir immer knapp entwischt. Einmal ist er die Klippen hinauf geklettert, um meinen Fallen zu entgehen. Ein anderes Mal hat er einen Bären in mein Lager gehetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wir verlieren jeden Monat Leute. Zu viele Mäuler zu füttern, und nicht genug, um sie zu unterstützen. Selbst das Wild wird weniger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ganz ehrlich? Ich glaube, ich leide an Optimismus. Ich kann mir vorstellen, dass wir noch einen Winter überleben, wenn Taena diese Burschen wirklich auf Vordermann bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Du dienst uns allen als eine gewisse Inspiration. Das will etwas heißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Du hast sie wohl so erschreckt, dass sie das Kämpfen gelernt haben. Das will etwas heißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich hätte mein Leben gegeben, um das zu sehen. Aber wären die Oger zurückgekehrt und hätten mich getötet, würde Suldrun noch da draußen rumschleichen. Als du hier ankamst, fing ich an zu hoffen, dass dir gelingt, was mir nicht gelang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich glaube, ich bin deinem 'Wolf' begegnet. Er ist ein Geisterwandler. Irgendetwas stimmt nicht mit ihm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich weiß nichts über Riesenwölfe, aber ich habe einen Geisterwandler getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Aber ... Ich jage seit fast einem Jahr diesen Wolf. Einen Menschenfresser. Ein listiges, gemeines Ding. Jedes Mal, wenn ich ihm nahe komme, entwischt er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Gelegentlich tötet er ein paar vereinzelte Oger. Aber meistens macht er Jagd auf Jäger, Reisende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Er frisst seine Beute nicht immer auf. Das verfluchte Ding könnte krank sein. Vielleicht steckt ihm eine Kugel im Kiefer oder so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Er ist mit dem Kopf voraus gegen den Baum gerannt, um mich zu kriegen. Hat mich fast von meinem Ast geworfen - und als ich mich wieder aufrichtete, war er fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Kein Tier besiegt mich. Ich werde ihn töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Und das bedeutet, Stalwart zu ernähren oder es zu beschützen." Thyrsc grunzt. "Nun ja, die letzte Jagd war kein Erfolg. Wie du siehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich bin selbst Jäger. Ich kann diesen Wolf für dich aufspüren."</DefaultText>
+      <FemaleText>"Ich bin selbst Jägerin. Ich kann diesen Wolf für dich aufspüren."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Thyrscs Seele ist ein lebhaftes, stures Ding. Als du mit deinen Sinnen danach greifst, siehst du, wie dein Atem in der Luft kondensiert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Thyrscs Seele ist ein lebhaftes, stures Ding. Als du mit deinen Sinnen danach greifst, siehst du, wie dein Atem in der Luft kondensiert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Du findest dich weit über dem Boden wieder, eingezwängt in die Gabel zwischen zwei Ästen. 
+
+Der Mondschein leuchtet hell auf dem Schnee und in der Ferne tritt deine Beute auf das Eis wie auf eine beleuchtete Bühne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du beruhigst deinen Atem und ziehst deinen Pfeil zurück.
+
+Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Inneren von Thyrscs Heim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Du findest dich weit über dem Boden wieder, eingezwängt in die Gabel zwischen zwei Ästen. Der Mondschein leuchtet hell auf dem Schnee und in der Ferne tritt deine Beute auf das Eis wie auf eine beleuchtete Bühne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Du beruhigst deinen Atem und ziehst deinen Pfeil zurück.
+
+Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Inneren von Thyrscs Heim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Die Bestie hat bereits viele Leben gefordert. Das erste Opfer war mein Sohn, Suldrun." Thyrsc blickt einen Augenblick lang auf seine Pfeife hinab. Seine Gesichtszüge werden hart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich habe deinen 'Wolf' gefunden ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Thyrsc grunzt. "Ich hatte Glück. Ich habe genug Felle und Hörner, um die Händler bei Laune zu halten. Aber jetzt erledigen die Oger uns einen nach dem anderen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Was kannst du mir über die Oger sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Kaum fingen wir an, uns in Durgans Batterie umzusehen, war es, als hätten wir in ein Wespennest gestochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Thyrscs Schultern werden steif - und dann sackt er zusammen, als wäre er plötzlich allem überdrüssig. "Aha. Ist es es getan? Ist er tot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Die Bestie ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Du hast mir verschwiegen, dass ich einen Druiden töten muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Du kennst ihn, nicht wahr? Ich hatte eine Vision seiner Transformation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Suldrun ist fort. Er ist nicht länger in seiner Geisterwandlergestalt gefangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Als ich von der Gabe meines Sohnes erfuhr, ermutigte ich ihn. Er konnte seine Wolfsgestalt annehmen, um uns bei der Jagd zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ich weiß nur zu gut, dass ich etwas Schreckliches von dir verlange. Aber es muss getan werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich bin froh, dich gesund zu sehen, [Player Name], nach allem, was passiert ist. Kann ich dir irgendwie helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Thyrscs Seele ist ein lebhaftes, stures Ding. Als du mit deinen Sinnen danach greifst, siehst du, wie dein Atem in der Luft kondensiert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Dann ist es endlich vollbracht." Thyrsc nickt dir müde zu und wendet sich dann zum Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Nein, und es tut mir leid. Ich fürchtete, du würdest vor der Aufgabe zurückschrecken, wenn du wüsstest, was Suldrun einmal war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Das Totem? All das nur wegen diesem Stück Holz? Wenn ich mir vorstelle, dass ich die Hoffnung aufgegeben hatte, wo ich ihm früher hätte helfen können! Das viele Sterben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Was? Wie kann das sein? Du hast ihn verändert gesehen? Aber ich hielt ihn für wahnsinnig. Ein Tier ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ich bin Wächter. Das hat eine Rolle bei der Suche nach dem Heilmittel gespielt."</DefaultText>
+      <FemaleText>"Ich bin Wächterin. Das hat eine Rolle bei der Suche nach dem Heilmittel gespielt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Er hat ein Totem aus Galawains Schrein gestohlen und wurde deswegen verflucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Lügen] "Er hätte sich jederzeit zurückverwandeln können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Dann war deine Ankunft wahrlich ein Segen. Wenn ich mir vorstelle, dass ich die Hoffnung aufgegeben hatte, wo ich ihm früher hätte helfen können ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Dann habe ich mir selbst etwas vorgemacht, mir einzureden, er wäre mit einer Krankheit befallen. Es war töricht, zu hoffen, dass dieses Biest nicht mein Sohn ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"... dauert etwas, aber-" Thyrsc blickt auf, als du dich näherst. "[Player Name]!"
+
+"Suldrun hat mir erklärt, wie du ihn gerettet hast, aber ich kann es immer noch nicht recht glauben. Wenn ich mir vorstelle, all die Zeit über ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Das ist er, Vater. Der Mann, der mir geholfen hat."</DefaultText>
+      <FemaleText>"Das ist sie, Vater. Die Frau, die mir geholfen hat."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Die Götter geben und nehmen, wie es ihnen beliebt." Er blickt Suldrun an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"V-vielleicht kann ich helfen, Vater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vielleicht." Thyrsc zieht an seiner Pfeife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Du hättest es nicht wissen können, Vater. Alles, was geschehen ist, war mein Werk. Ich habe versucht, mich zu befreien, aber ich-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ich kann dir keine Belohnung anbieten, die das annähernd aufwiegen würde. Aber ich hoffe, dass du das hier annimmst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Der Geisterwandler - kanntest du ihn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Thyrscs Gesicht verkrampft sich vor Trauer. "Er war mein Sohn. Früher einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Willkommen. Was können wir für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Suldrun hat mir erklärt, wie du ihn gerettet hast, aber ich kann es immer noch nicht recht glauben. Wenn ich mir vorstelle, all die Zeit über ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Früher einmal, vielleicht. Nun kenne ich nur noch die eine Geschichte. Wir wissen beide, wie sie geendet ist. Ich möchte sie lieber nicht erneut durchleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Er hat Dorfbewohner getötet. Es gab keinen anderen Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ja, er ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Du musst das verstehen - meinen Sohn dieser Taten für fähig zu halten ... Das war nicht Suldrun. Das Biest hat meinen Sohn verschlungen. Du hast daher das Richtige getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"So lange du davon überzeugt bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Dann ... ist es vollbracht. Nach all dem ist es zu Ende, ehe ich dich darum bitten konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Moment - du hast ihn gesehen? Und er lebt noch? Dann muss ich ehrlich mit dir sein - und ich entschuldige mich, dass ich es so lange nicht gewesen bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Was spielst du hier für ein Spielchen? Diese 'Bestie' ist ein Druide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Dafür ist noch genügend Zeit. Kümmern wir uns jetzt nicht darum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ich habe gerne geholfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich sollte besser gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Nach all dem kannst du doch gewiss ein paar Münzen entbehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Warte - es ist nicht so, wie du vielleicht glaubst. Ich hätte es dir von vornherein sagen sollen. Ich dachte, du würdest vor der Aufgabe zurückschrecken, wenn du wüsstest, was er einmal war - auch, wenn er es nicht mehr ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Dann kehre bitte zu deiner Jagd zurück. Jede Nacht, die verstreicht, bringt neues Blutvergießen mit sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Wegen dem Wolf ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Er war schon lange fort. Wenn es einen Weg gegeben hätte, zu ihm durchzudringen, ich hätte ihn inzwischen gefunden. " Thyrsc blickt zu Boden, den Kiefer fest zusammengepresst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ja? Welche Neuigkeiten bringst du? Ist es vollbracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Du hast mich ausgeschickt, deinen Sohn zu töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich hätte es selbst getan - ich habe es versucht. Aber nachdem die Oger immer regelmäßiger angreifen, wäre ich wohl gestorben, ehe ich die Gelegenheit dazu gehabt hätte. Ich konnte es nicht riskieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Die Oger kommen jetzt regelmäßiger, und ich lebe vielleicht nicht lang genug, um es zu tun. Du darfst ihn nicht am Leben lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ich habe ihn in der Vision etwas fallenlassen sehen. Erinnerst du dich daran, ein Totem gesehen zu haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Du hättest es mir von vornherein sagen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Dann werde ich ihn finden und aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Ihm das Totem zeigen.] "Erkennst du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Danke. Ich würde dich nicht darum bitten, wenn es einen anderen Weg gäbe. Mögen die Götter deine Schritte leiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ja, du hast Recht. Aber dass er mein Sohn ist, gibt mir nur Grund zur Trauer - es ändert nicht, was getan werden muss. Bitte, setze diesem Monster ein Ende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Ich glaube, er hat so etwas gefunden - an dem Tag, an dem er die Kontrolle verlor. Er sagte mir, es würde uns Glück bei der Jagd bringen." 
+
+Thyrsc verzieht das Gesicht und legt sich eine Hand an die Schläfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Das hat es nicht getan, wie du sehen kannst. Am besten wirfst du es fort." Thyrsc schüttelt den Kopf. "Verzeih mir. Das ist nicht leicht für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Das Blut muss ihn in den Wahnsinn getrieben haben. Oder vielleicht hatte er zu lange diese Gestalt. Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Eine Vision? Aber dann musst gesehen haben-" Thyrsc seufzt. "Es ist nicht, wie du vielleicht glaubst. Ich dachte, du würdest vor der Aufgabe zurückschrecken, wenn du wüsstest, was e einmal war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ja. Ja, natürlich. Wir haben hier keine Verwendung dafür. Suldrun, gib mir die Büchse." Nachdem das getan ist, gibt Thyrsc dir die Büchse. Es klappern Münzen darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Du bist hier immer willkommen. Mögen die Götter ihren Blick von dir abwenden, Fremder - und möge dein Pfad frei sein."</DefaultText>
+      <FemaleText>"Du bist hier immer willkommen. Mögen die Götter ihren Blick von dir abwenden, Fremde - und möge dein Pfad frei sein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Moment - dein Sohn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ja. Er ist - er war mein Sohn. Es war ein grausames Spiel der Götter, ihm die Gabe zu verleihen, die ihm solche Freude bereitete ... und sie dann so zu verdrehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Du hast mir das bisschen Frieden gebracht, dass die Götter mir zugestehen. Dies hier hat mir in meinen jüngeren Jahren gute Dienste geleistet, und ich hoffe, dass es dir ebenso geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich gehe nun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Aber wo ist er hingegangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Er hat sich für seine Taten geschämt. Ich soll dir sagen, dass es ihm leidtut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Den Berg hinunter, nehme ich an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ich bete, dass ich ihn nie wiedersehe. Ach, hättest du ihn doch getötet! Ich kann zumindest dankbar sein, dass er fort ist - und dass Stalwart nicht unter ihm leiden wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Hier - für deine Mühen. Und nun lass mich bitte allein." 
+
+Thyrsc wendet sich von dir ab, seine breiten Schultern hängen hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Törichter Knabe. Wofür entschuldigt er sich, wo ich es doch bin, der ihn im Stich gelassen hat?" Thyrsc blickt mit feuchten Augen weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Vielleicht ist es besser so. Es wird Fragen geben, im Dorf. Zu viele schlechte Erinnerungen. Er kann sich ein anständiges Leben aufbauen, weit weg von hier." 
+
+Er atmet zitternd ein und räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Hier. Das habe ich für dich auf die Seite gelegt. Es kann unmöglich das Geschenk aufwiegen, das du mir gemacht hast. Aber ich hoffe, dass es dir auf deinen Reisen helfen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Danke, Fremder, dass du dieser Bestie ein Ende bereitet hast. Dass du in gewisser Weise meinen Sohn gerächt hast."</DefaultText>
+      <FemaleText>"Danke, Fremde, dass du dieser Bestie ein Ende bereitet hast. Dass du in gewisser Weise meinen Sohn gerächt hast."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Stalwart steht in deiner Schuld. Und einen Teil davon muss ich begleichen. Das hier hat mir oft auf der Jagd geholfen. Ich hoffe nur, dass es auch dir eine Hilfe sein wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Ich danke dir, Fremder. Natürlich hatte ich nicht gehofft, dass dieser Tag je kommen würde, aber es war unvermeidlich."</DefaultText>
+      <FemaleText>"Ich danke dir, Fremde. Natürlich hatte ich nicht gehofft, dass dieser Tag je kommen würde, aber es war unvermeidlich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Dann mache ich mich nun auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Gewiss habe ich doch eine Belohnung verdient?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Dann wünsche ich dir viel Glück auf deiner Reise. Dir ist es zu verdanken, dass die Wildnis etwas sicherer ist. Stalwart steht tief in deiner Schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ja, natürlich. Stalwart steht tief in deiner Schuld, und ich werde meinen Teil davon begleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Hier. Dies hier hat mir in früheren Zeiten gute Dienste geleistet, und ich hoffe, dass es dir ebenso geht. Danke, Fremder. Dass du dem allen ein Ende gesetzt hast."</DefaultText>
+      <FemaleText>"Hier. Dies hier hat mir in früheren Zeiten gute Dienste geleistet, und ich hoffe, dass es dir ebenso geht. Danke, Fremde. Dass du dem allen ein Ende gesetzt hast."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Es muss bald sein. Höchstens zwei Tage noch ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Du sitzt auf der Kuppe eines Hügels und überblickst den Bergpass unter dir. Der Himmel ist klar, deine Felle schützen dich gegen die Gebirgskälte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Apa!" Ein Kind, kaum alt genug zum Laufen, wankt fröhlich glucksend auf dich zu. Er deutet auf die Elchherde, die durch den Fluss watet. Du lächelst stolz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Die Vision verschwindet - und mit ihr die Freude, die in dir aufgestiegen ist. Reue liegt schwer in deiner Brust. Sie verlässt dich erst, als die Vision vollkommen verblasst ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Einmal hatte ich ihn fast. Ich konnte ihn unter mir hören, wie er fraß. Ich hatte mein Gewehr genau auf ihn gerichtet ... bis der Wind sich drehte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Nur, dass sie wieder und wieder gewaltsam angreifen, um uns zu verjagen oder einfach zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Wenn man sie wie Edelsteine behandelt, werden sie nicht schneller groß. Im Gegenteil." 
+
+Obwohl er leise lacht, liegt in seinen Gesichtszügen eine plötzliche Trauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Vielleicht schlafe ich etwas besser, nachdem dieses Monster nicht mehr durch die Wälder streift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Und nun sei so gut ... Lass mich einen Augenblick allein." Thyrsc wendet sich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Wie dem auch sei, er muss getötet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Fremder, ich hätte nie gedacht- nie gehofft, meinen Sohn je wiederzusehen. Aber du hast ihn mir zurückgebracht."</DefaultText>
+      <FemaleText>"Fremde, ich hätte nie gedacht- nie gehofft, meinen Sohn je wiederzusehen. Aber du hast ihn mir zurückgebracht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Wir wurden eines Tages von einem Oger angegriffen. Er wandte sich um, um uns zu verteidigen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Er wandte sich gegen mich. Er ermordete Männer und Frauen, die einst seine Freunde waren. Ich konnte ihn nicht aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
+      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Tja. Worauf wartest du, [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen."
+
+Er zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter."</DefaultText>
+      <FemaleText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Harmke? Ach ja, der Kerl, den die Teufelin-"
+
+Die Teufelin von Caroc wirft Hiravias einen Blick zu. Er schließt seinen Mund und bedeckt ihn mit einer Hand.
+
+Er blickt Thyrsc an und grinst unschuldig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Alle glauben, was wir tun, muss der Wille der Götter sein. Was für ein Unsinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Wer sagt, dass Gewalt keine Lösung ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ich liebe es, Geschichten auszutauschen. Hat jemand eine Pfeife?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Was ein Pech."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Irgendeine Spur des Mannes muss noch in ihm leben. Er kann nicht wirklich verloren sein ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
+      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Ich habe Neuigkeiten zu Suldrun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Mein Sohn? Du hast ihn gefunden? Ist ... hat er dich angegriffen? Verzeih mir - ich hätte dich gewarnt, wenn ich die Gelegenheit dazu gehabt hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Suldrun ist nicht länger in seiner Geisterwandlergestalt gefangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Tealdor sagt, ich solle mit dir sprechen, bevor ich zu den Langsicht-Fällen gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Aber ehrlich gesagt würde ich sagen, dass diese Biester für dich dennoch eine Herausforderung sein werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Aber wenn ich ehrlich bin, brauchst du sie vielleicht gar nicht. Du hattest mit den Ogern wenig Mühe. Und du siehst aus, als könntest du es auch mit diesen Lagufaeth aufnehmen."
+
+Er tippt seine Pfeifenasche in das Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Die hier kannst du vielleicht brauchen, wenn du in Schwierigkeiten gerätst." Er reicht dir ein paar verschlossene Flaschen.
+
+Der alte Jäger mustert dich von oben bis unten und pafft an seiner Pfeife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Und ein Glück war es. Bei den heißen Quellen nördlich der Straße wimmelt es von Lagufaeth. Es überrascht mich, dass Tealdor dort draußen war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Eines muss man über Lagufaeth wissen ... sie sind schnell. Und die Kälte macht ihnen nichts aus. Du musst also einen anderen Angriffspunkt finden."
+
+Ihm scheint etwas einzufallen. Er klopft seine Taschen ab, die Pfeife zwischen die Zähne geklemmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Ich weiß, dass du es mit diesen Ogern aufgenommen hast ... aber es wäre vielleicht ratsam, ein wenig zu warten, bevor du dich an den Lagufaeth versuchst." Er tippt seine Pfeifenasche in das Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Sie sind gekommen, um mir von der Batterie zu erzählen ... dass du das Unmögliche vollbracht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Du hast meinen Respekt. Diese Festung hat uns seit Ewigkeiten geplagt. Ein gemeinsamer Traum, den niemand festhalten konnte.
+
+Vielleicht ist das nun endlich der Tritt in den Arsch, den Stalwart braucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Es ist nur ein Jammer, dass Renengild es nicht mehr erlebt. Eigentlich war es ihr Traum. Viele von uns hatten Stalwart schon aufgegeben.
+
+Ich glaube auch nicht, dass sich das jetzt ändert ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Nachdem du nun dem größten Clan den Kopf abgetrennt hast, dürften sie uns nicht mehr viel Ärger machen. Gut gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Man sagt, du hast eine Abmachung mit Beregans Clan ausgehandelt. Hoffentlich hast du dir dabei auch etwas gedacht. Bündnisse sind nicht die Stärke der Oger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Ich hatte nicht den kleinsten Schimmer Hoffnung, dass du die Batterie öffnen würdest. Aber du hast es geschafft.
+
+Ganz ehrlich ... mit der Weißen Esse und Renengilds vielen Plänen haben wir vielleicht eine Chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Ich hatte nicht den kleinsten Schimmer Hoffnung, dass du die Batterie öffnen würdest. Aber du hast es geschafft. Das ist die beste Chance, die diese Stadt seit Jahren hatte.
+
+Aber ohne Renengild treten wir auf der Stelle. Ich sehe niemanden, der bald das Amt des Bürgermeister übernehmen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Das ist mehr, als wir seit langem hatten. Und das alles nur dank dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Zahua neigt sich begierig vor. "Nur weiter."
+
+Thyrsc runzelt kurz die Stirn, fährt aber trotzdem fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

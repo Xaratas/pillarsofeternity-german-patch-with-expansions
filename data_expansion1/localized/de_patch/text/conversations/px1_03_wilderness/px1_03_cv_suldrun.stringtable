@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_suldrun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Diese Bestie überragt die Wölfe, die in der Höhle hausen. Sie dreht sich zu dir, als du dich näherst. Ihre Haut ist mit unzähligen Wunden und Narben übersät und ein trübes Auge starrt blind aus ihrem Schädel. Sie knurrt bedrohlich, als du dich näherst - und ihre Gefährten tun es ihr gleich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hilfe! Bitte, hilf uns!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Als die Bestie ihren Kopf wieder zum Jäger dreht, spürst du, dass eine seltsame Aura von ihr ausgeht. 
+
+Es ist so, als würde ihr Fell einen Sturm der Seelenessenz in sich tragen, wild und alles verzehrend wie Flammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Die Seele der Bestie erkunden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Eine Fackel zur Ablenkung werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Kannst du mich verstehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Halt! Ich weiß, was du bist. Kannst du mich verstehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Bestie schnappt und knurrt, offenbar versteht sie dich nicht. Sie bewegt sich auf den nächsten Jäger zu, beobachtet dich dabei aber unheilvoll mit ihrem einen gesunden Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du wirfst eine Fackel auf die Bestie und sie jault auf, als die Fackel funkenwerfend von ihrer Haut abprallt. 
+
+Die Bestie springt von den Jägern weg und stolpert in ihrer Panik. Aber die Wölfe drängen zähnefletschend nach vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Es kostet dich wenig Mühe, ehe die Seele der Bestie droht, dich mit ihrer Intensität zu überwältigen. 
+
+Zorn und Hunger stürzen von allen Seiten auf dich ein, bis du durch den Sturm hindurch greifst und ein kleineres, schwächeres Licht findest ... und kopfüber in eine Erinnerung stürzt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Erinnerung entgleitet dir, und als du wieder du selbst bist, schüttelt die Bestie den Kopf und schlägt sich mit den Pfoten gegen die Ohren, als würde sie ein Kratzen loswerden wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Warte! Lass uns nicht hier zurück, bitte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Suldrun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Den Jägern zu Hilfe eilen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Dieser junge Mann verschwindet fast in seinen zerfetzten Fellen. Beide, Mann und Fell, sind voller Schmutz und getrocknetem Blut. 
+
+Sein Kopf hebt sich ruckartig, als du eintrittst. Er starrt dich mit einem Auge furchterfüllt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Thyrsc ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich habe das Totem zu Galawain zurückgebracht. Du bist geheilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Was - was ist passiert? Wer bist du?" 
+
+Er hebt die Hand und betastet vorsichtig die Haut um sein blindes Auge herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Dein Vater hat mich geschickt, dich zu töten. Ich habe einen anderen Weg gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Du erinnerst dich nicht? Wie praktisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wo sind die anderen Wölfe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Bestie wendet sich von ihrer verwundeten Beute ab und blickt dich. Sie springt mit ausgestreckten Krallen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mein - mein Vater! Ist er verletzt? Ich erinnere mich nur an Bruchstücke. Ich erinnere mich, dass ich gefangen war, schreiend, irgendwo in mir selbst ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Galawain - das Totem! Ich habe es genommen, um es Vater zu schenken. Dann hat der Oger angegriffen. Ich habe mich verändert - und es war, als wäre ich an jemand anderen gefesselt. Er wollte jagen, immer nur jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich erinnere mich an Fragmente. Fast alles ist dunkel, aber manchmal konnte ich sehen. Ich glaube, ich habe jemandem wehgetan. Moment - mein Vater! Thyrsc - lebt er? Wo ist er?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Sie sind fort. Ich dachte, sie würden mich angreifen, aber sie sind aus der Höhle geflohen. Als hätten sie etwas gehört ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die beißende Kälte schmerzt auf den Wangen. Deine Lungen brennen ein wenig vom Laufen. Du blickst auf die kleine Holzschnitzerei in deiner Hand und fährst mit dem Daumen über das Rückgrat des geschnitzten Bären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Suldrun." Die Stimme deines Vaters reißt dich aus denen Gedanken. Du beeilst dich, wieder zum Lagerfeuer zurückzukehren. 
+
+Du hältst die Hasen hoch und siehst den Anflug eines seltenen Lächelns unter seinem ergrauten Bart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Aber das Lächeln verschwindet sofort wieder, als ein Schatten über euch beide fällt.
+
+Du spürst den Windstoß einen Augenblick, bevor das Holzstück nach unten kracht. Du rollst gerade noch rechtzeitig zur Seite. Du hörst deinen Vater irgendwo in der Nähe vor Schmerz aufschreien. Die Hasen und das Totem gleiten dir aus den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Das Totem hat dir bereits Glück gebracht. Du hast zwei Hasen in ebenso vielen Fallen gefunden - ein seltenes Glück im Augenblick. 
+
+Du bist sicher, dass es ein Geschenk von Galawain war. Dass du es auf dem einsamen Schrein finden und an dich nehmen solltest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du spürst, wie Macht dich durchströmt. Dein Herz pocht in deiner Brust, doch der Instinkt ruft deine Sinne zur Ordnung. Du spürst das vertraute Strecken der Glieder, die plötzliche, schwindelerregende Wandlung der Höhe. 
+
+Aber irgendetwas stimmt nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Deine Sinne schwinden, anstatt stärker zu werden. In deinem Kopf ertönt ein Jaulen, wie ein brüllender Refrain. Alles in dir schreit danach zu beißen, zu reißen, zu fressen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Er ist vermutlich einer dieser Leichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Er ist verwundet, aber er lebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Lügen] "Du meinst, du erinnerst dich nicht daran, wie du ihn getötet hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Oh, bei den gnädigen Göttern. Ich weiß nicht, was ich sagen soll. Was du von mir gesehen haben musst ..." Er blickt auf die Knochen, die auf dem Höhlenboden verteilt sind, und schreckt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"N-nein! Das ... das kann nicht sein. Nicht nach all dem." Er blickt auf die Knochen, die auf dem Höhlenboden verteilt sind, und schreckt vor ihnen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"W-was? Das ist nicht ... nein! Nein, das darf nicht wahr sein! Nicht nach all dem! Nicht jetzt, wo ich endlich frei bin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich - ich hätte ein Monster bleiben sollen! Ich hätte als Monster sterben sollen, durch den Speer eines Jägers!" Er wendet sich zu dir. "Du! Du wirst es bereuen, mich geweckt zu haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich erinnere mich an den Geschmack." Er sackt in sich zusammen. "Wie kann ich nach all dem nach Hause zurückkehren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich habe so schreckliche Dinge getan. Wie kann ich nach all dem hoffen, nach Hause zurückzukehren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Du hast Unschuldige getötet. Du hast es nicht verdient, einfach nach Hause zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Du warst nicht du selbst. Man kann dir keine Schuld geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Hier draußen kannst du keine Buße für deine Taten tun. Du solltest Stalwart helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Er hat die ganze Zeit versucht, dich zu töten. Ich glaube nicht, dass er dich willkommen heißen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Es ist deine Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Dein Vater hätte dir geholfen, wenn er gekonnt hätte. Er wird froh sein, dich zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Danke. Das ist freundlich von dir. Ich wünschte, es würde helfen. Dennoch, vielleicht kann ich es irgendwie wieder gutmachen. Wenn ich zurückkehre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich gehe nach Hause und bitte meinen Vater um Verzeihung. Und du, nimm dies. Es ist das Wertvollste, was ich besitze." 
+
+Er nimmt sich ein Amulett ab und überreicht es dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Du hast Recht. Ich kann nicht vor meinen Taten fliehen. Vor den Familien, die ich zerstört habe. Ich kehre nach Hause zurück und helfe ihnen, wo ich kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du hast Recht. Ich kann nichts tun, was diesen Familien gerecht werden würde. Diese Leben wiederherstellen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Nimm das. Es ist meine letzte Erinnerung an mein Leben in Stalwart. Ich verdiene sie nicht. Wenn du meinem Vater wieder begegnest - bitte sag ihm, dass es mir leid tut. Ich wollte nie, dass all das passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Meinst du? Ich fürchte, er würde mich noch immer als Monster begrüßen." Er seufzt. "Aber wenn das die Strafe ist, die ich verdient habe, dann akzeptiere ich sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Suldrun starrt einen langen Augenblick lang auf den Eingang der Höhle, mit einer traurigen Sehnsucht im Gesicht. Dann blickt er fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich kann nicht. Ich kann ihm nicht gegenübertreten. Weder ihm, noch den Familien, die ich zerstört habe. Ich steige den Berg hinab. Ich werde an einem anderen Ort leben. Mein Vater wird mich los sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vor den Füßen der Kreatur liegen zwei Dorfbewohner, einer davon schwer verwundet. Der andere hält sich einen Arm über den Bauch und blickt flehentlich zu dir hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Du erkennst diesen Wolf als die Geisterwandlerform eines Druiden - auch wenn in seinem Blick nicht das Leuchten der Intelligenz eines Gestandenen zu sehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Meiner Erfahrung nach versteht Galawain es nicht, Geschenke zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ihm einen Namen zu geben, macht es nur noch schwerer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich habe das schon einmal erlebt. Du wirst keine Antwort bekommen außer Knurren und Sabbern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"In was wir da auch hineingestolpert sind ... es steckt mehr dahinter, als Wael bisher offenbart hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Wenn ich sie zu sehen bekomme, sind diese Jäger bereits tot. Ich weiß nicht, ob das eine böse Vorahnung ist oder lediglich eine Warnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wir können in einer halben Stunde zurückkehren, um ihre Taschen zu durchsuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Angreifen] "Ich töte dich, Monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Die Jäger sind auch geflohen, nachdem die Wölfe fort waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Als du dich zurückziehst, springt einer der Winterwölfe plötzlich vor die Jäger und nimmt eine Abwehrhaltung ein. 
+
+Er schont sein eines Bein und du erkennst den Wolf, dem du in der Wildnis geholfen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich werde meinem Vater berichten, was du für mich getan hast. Wenn du nach Stalwart zurückkehrst, findest du mich dort vielleicht vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Zahua verpasst Suldrun eine schallende Ohrfeige. Suldrun blickt ihn mit weit geöffneten Augen sprachlos an.
+
+Zahua zuckt mit den Schultern. "Bei mir hilft das meistens."
+
+Er blickt sich in der Runde um. "Was?"
+
+Suldrun scheint den Schock abzuschütteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_thyrsc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Gunst des Jägers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Jage den Wolf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erlege deine Beute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Thyrsc zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Thyrsc zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Thyrsc zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu Thyrsc zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kehre in die Höhle zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Konfrontiere die Bestie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Finde Thyrsc in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Finde Thyrsc in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Einer von Stalwarts besten Jägern, Thyrsc, hat in einem gerissenen Wolf einen ebenbürtigen Gegner gefunden. Der Wolf ist ihm schon mehrfach entwischt. Thyrsc ist verletzt und kann den Wolf daher nicht mehr selbst jagen. Er hofft aber, dass jemand die Bestie erlegt, bevor sie noch mehr Dorfbewohner tötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Thyrsc hat mir berichtet, dass er einen gefährlichen - und sehr großen - Wolf jagt, der im Rotwald Dorfbewohner anfällt. Laut Thyrsc muss der Wolf seinen Bau irgendwo in der Gegend haben. Wo genau, das konnte er aber nicht herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Bau des Wolfs aufgespürt und muss ihn nun stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Wolf, den Thyrsc gejagt hat, war kein gewöhnliches Tier - sondern ein Druide, der so von seiner tierischen Gestalt eingenommen war, dass er zu keinem rationalen Umgang mit Gestandenen mehr fähig war. Er hat mir keine Wahl gelassen, als ihn zu töten. Ich muss Thyrsc berichten, was vorgefallen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein gebracht war, konnte Suldrun sich wieder in seine Druidengestalt zurückverwandeln. Seine Pein hatte ihn sehr mitgenommen und er entschied, zu Thyrsc zurückzukehren. Der alte Jäger wird überrascht sein, ihn zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein zurückgebracht war, konnte Suldrun sich wieder in seine Druidengestalt zurückverwandeln. Er schämte sich für die schlimmen Taten, die er unter dem Bann von Galawains Fluch begangen hat. Er hat entschieden, seinem Vater nicht wieder gegenüberzutreten, sondern Stalwart zu verlassen. Thyrsc muss erfahren, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Suldrun ist tot, und die 'Bestie', welche die Jäger von Stalwart bedroht hat, stirbt mit ihm. Thyrsc wird wissen wollen, wie meine Jagd ausgegangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe das Totem wieder zu Galawains Schrein im Rotwald gebracht, wo mich eine Vision überkam. Offenbar hat sich in diesen Wäldern etwas verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich bin in einer eisigen Höhle im Rotwald auf eine seltsame, wilde Kreatur gestoßen. Den Knochenhaufen in der Höhle nach zu urteilen macht sie seit einiger Zeit Jagd auf Gestandene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein zurückgebracht war, konnte Suldrun sich wieder in seine Druidengestalt zurückverwandeln. Seine Pein hatte ihn sehr mitgenommen und er entschied, zu Thyrsc zurückzukehren. Thyrsc wird sicher sehr überrascht sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein zurückgebracht war, konnte Suldrun sich wieder in seine Druidengestalt zurückverwandeln. Er schämte sich für die schlimmen Taten, die er unter dem Bann von Galawains Fluch begangen hat. Er hat entschieden, seinem Vater nicht wieder gegenüberzutreten, sondern Stalwart zu verlassen. Thyrsc muss erfahren, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe in der Wildnis einen zur Hälfte aufgefressenen Rehkadaver gefunden, ein Stück südlich des gefrorenen Sees. Es scheint das Werk eines großen Raubtiers zu sein. Ich habe in der Nähe eine Fährte gefunden, die nach Norden führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe ein Büschel Wolfshaare an einem Dornenstrauch gefunden, ein Stück östlich des gefrorenen Sees. Der Wolf muss kürzlich dieses Gebiet durchquert haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe eine Fährte gefunden, die durch eine dichte Gruppe krummer Bäume und auf eine mit Knochen übersäte Lichtung führte. Ich glaube, ich habe den Bau des Wolfs gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Der 'Wolf', den ich in den Höhlen gefunden habe, ähnelt eher einem Geisterwandler - scheint aber nicht in der Lage zu sein zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Meine Wächtergaben haben mir eine Vision aus der Vergangenheit des Druiden geschenkt. In dieser Vision stiehlt ein junger Mann ein Totem aus dem Schrein Galawains. Sein anschließender Versuch, sich in seine Druidengestalt zu verwandeln, hat offenbar dazu geführt, dass er in dieser anderen Gestalt 'gefangen' blieb. Vielleicht hat das Totem etwas damit zu - es könnte sich noch in dem alten Lager befinden, in dem es fallengelassen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Thyrsc hat mir bestätigt, dass der Wolf, den er jagt, kein gewöhnliches Tier ist, sondern ein Druide - genauer gesagt sein Sohn. Suldrun hatte seine Wolfsgestalt angenommen, um einen Oger abzuwehren, der in ihr Lager gestolpert war - und griff daraufhin seinen eigenen Vater an, ehe in die Wildnis floh. Thyrsc hat die Hoffnung aufgegeben, mit seinem Sohn wiedervereint zu werden. Er hat mich gebeten, die Sicherheit der Bewohner von Stalwart zu gewährleisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Im Rotwald gibt es einen Galawain-Schrein. Ein Gegenstand, der ihn einst zierte, ist offenbar entfernt worden ... was großen Zorn ausgelöst hat ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Im Rotwald gibt es einen Galawain-Schrein. Ein Gegenstand, der ihn einst zierte, ist offenbar entfernt worden ... was großen Zorn ausgelöst hat ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Der 'Wolf', den ich in den Höhlen gefunden habe, ähnelt eher einem Geisterwandler - scheint aber nicht in der Lage zu sein zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Meine Wächtergaben haben mir eine Vision aus der Vergangenheit des Druiden geschenkt. In dieser Vision stiehlt ein junger Mann ein Totem aus dem Schrein Galawains. Sein anschließender Versuch, sich in seine Druidengestalt zu verwandeln, hat offenbar dazu geführt, dass er in dieser anderen Gestalt 'gefangen' blieb. Vielleicht hat das Totem etwas damit zu tun - es könnte sich noch in dem alten Lager befinden, in dem es fallengelassen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe in einem längst verlassenen Lager ein Bärentotem gefunden. Es scheint dasselbe Totem zu sein, das ich in meiner Vision gesehen habe. Das Totem, das von einem Galawain-Schrein gestohlen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Bestie getötet, wie Thyrsc es wollte. Er war dankbar, trauert aber um den Verlust seines Sohnes. Vielleicht ist der westliche Wald jetzt etwas sicherer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe den Geisterwandlerdruiden getötet und seinen Angriffen auf die Jäger von Stalwart ein Ende gesetzt. Thyrsc war dankbar, trauert aber um den Verlust seines Sohnes. Vielleicht ist der westliche Wald jetzt etwas sicherer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein gebracht war, konnte Suldrun sich wieder in seine normale Gestalt verwandeln. Er ist zu seinem Vater in Stalwart zurückgekehrt. Es wird wohl eine Weile dauern, aber vielleicht können die beiden irgendwann Frieden finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein gebracht war, konnte Suldrun sich wieder in seine normale Gestalt verwandeln. Aus Scham hat er beschlossen, aus Stalwart zu fliehen und sich irgendwo weit entfernt vom Ort seiner Verbrechen ein neues Leben aufzubauen. Jetzt ist nur wichtig, dass die Bestie Geschichte ist - und Thyrsc seine Jagd aufgeben kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein gebracht war, konnte Suldrun sich wieder in seine normale Gestalt verwandeln. Allerdings war er aufgebracht über die Nachricht von Thyrscs Tod. Er hat mich angegriffen und ich musste ihn töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Nachdem das Totem wieder zu Galawains Schrein gebracht war, konnte Suldrun sich wieder in seine normale Gestalt verwandeln. Ich habe ihn getötet, nachdem er wieder seine normale Gestalt angenommen hatte - und Thyrscs Jagd damit beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Im Rotwald gibt es einen Galawain-Schrein. Ein Gegenstand, der ihn einst zierte, ist offenbar entfernt worden ... was großen Zorn ausgelöst hat ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ein Gestaltwandler haust in einer Höhle im Rotwald und stellt eine Gefahr für die Jäger dort dar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

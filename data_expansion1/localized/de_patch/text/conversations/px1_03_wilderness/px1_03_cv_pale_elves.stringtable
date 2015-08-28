@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_pale_elves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Das hat doch keinen Zweck, Biest! Mit deiner Sturheit erreichst du nichts!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"He, Vamrel ..."
+
+Einer der Elfen hat sich zu dir umgewandt. Er winkt dem Mann, der mit dem Oger beschäftigt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Elfen blicken dich an. Ihre Hände sinken zu ihren Waffen. Vamrel zieht ein letztes Mal ruckartig an dem Strick, ehe er sich ebenfalls umwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Einen Pfeil auf den Strick schießen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was macht ihr mit diesem Oger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ihr seid weit von eurer Heimat entfernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Diese Kreatur begleitet uns nach Waestrand. Wir hatten auf den Straßen einige Schwierigkeiten. Aber wenn wir einen Oger dabei haben, ist damit Schluss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Eine Gruppe von Elfen steht in einem Kreis um einen Oger herum. Sie scheinen aber nicht zu kämpfen.
+
+Der Oger ist gefesselt und einer der Elfen zieht grob an dem Strick, der um den Hals des Ogers gebunden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Oger schnaubt nur zornig und zieht zurück. 
+
+Zwei andere Elfen pieken ihn vorsichtig mit ihren Stangenwaffen. Der Oger rührt sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bevor jemand noch ein weiteres Wort sagen kann, hast du einen Pfeil gespannt und abgefeuert. 
+
+Er trifft den Strick zwischen dem Hals und den Händen des Ogers und die Fesseln lösen sich schnalzend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fangt den Oger ein - aber wehe, ihr beschädigt mein Eigentum! Und bringt mir den Kopf dieses Narren!"</DefaultText>
+      <FemaleText>"Fangt den Oger ein - aber wehe, ihr beschädigt mein Eigentum! Und bringt mir den Kopf dieser Närrin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ein weiterer Elf flüstert Vamrel etwas ins Ohr.
+
+Vamrels Augen leuchten auf.
+
+"Ah, nicht so schnell. Hier, Bestie - mal sehen, zu was du fähig bist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ahh! Der Oger ist frei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Der nächsten Elfin einen Faustschlag verpassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ein jämmerliches Exemplar, für einen Oger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du trittst entschlossen vor und schlägst die Elfin mit einem kräftigen Haken gegen das Kinn zu Boden. 
+
+Die anderen Elfen drehen sich überrascht um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du zielst mit einem kräftigen Haken auf das Gesicht der Elfin, doch der Schlag lässt sie nur einige Schritte nach hinten taumeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Als sie ihre Waffen zücken, nutzt der gefesselte Oger die Verwirrung und springt nach hinten - womit er den Strick aus der Hand seines Peinigers reißt. 
+
+Mit einem triumphierenden Brüllen sprengt der Oger seine Fesseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Oger bellt laut und springt plötzlich nach hinten - womit er den Strick aus der Hand seines Peinigers reißt. 
+
+Mit einem triumphierenden Brüllen sprengt der Oger seine Fesseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oh, morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf." 
+
+Er blickt hinauf zu dem Oger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Die Oger der Endlosen Pfade waren widerstandsfähige Kerle. Vielleicht sind ihre Felsvettern empfindlicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Braucht ihr Hilfe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sehr freundlich, aber wir haben alles im Griff. Die Bestie ist bisher brav mitgetrottet - das wird sie bald wieder tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"So! Das Biest musste nur ein wenig Aggressionen ablassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du zielst mit einem kräftigen Haken auf das Gesicht der Elfin, aber es steckt wenig Kraft hinter dem Schlag. Die Elfin ist eher überrascht als verletzt. Sie hat sich sofort wieder gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Mit einem triumphierenden Brüllen reißt der Oger seine restlichen Fesseln weg und stürzt auf seine Peiniger zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Er war billig. Wir brauchen seine Kraft - das ist das Einzige, wozu diese Biester gut sind." Vamrel zerrt erneut an dem Strick.
+
+Der Oger blickt noch zorniger drein, falls das überhaupt möglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich habe ihn von ein paar Sklavenjägern gekauft, nicht weit von hier. Sie wollten wohl ihre Ausgaben wieder hereinholen." 
+
+Er grunzt. "Ich weiß nicht, ob er wirklich viel wert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Zum Glück ist Korgrak nicht hier. Er würde das hier wohl etwas peinlich finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Genau wie du, Fremder. Hattest du Heimweh nach kaltem Wetter?"
+
+Vamrel lacht. "Morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf."</DefaultText>
+      <FemaleText>"Genau wie du, Fremde. Hattest du Heimweh nach kaltem Wetter?"
+
+Vamrel lacht. "Morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Die Elfen sind es, die sich schämen sollten. Das ist Sklaverei, auch wenn es ein brutales Monster ist!"
+
+Hiravias ballt die Fäuste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh, weh. Das hat wohl etwas zu gut funktioniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wir werden angegriffen!" Sie zieht ihre Klinge und die anderen Elfen drehen sich zu dir um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vamrel blickt dich zornig an. "Sieh, was du angerichtet hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

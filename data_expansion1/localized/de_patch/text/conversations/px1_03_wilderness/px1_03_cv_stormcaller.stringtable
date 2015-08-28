@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_stormcaller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du den Bogen ergreifst, vibriert er mit einer seltsamen und doch vertrauten Energie. Du durchsuchst dein Bündel und findest den silbernen Pfeil, den du in einem verletzten Wolf gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als du Pfeil und Bogen aneinander hältst, springt der Pfeil plötzlich an seinen Platz. Du hörst ein knisterndes Summen und ein fahles Lichtband beginnt, sich zwischen den Enden des Bogens zu bilden.
+
+Als du den Pfeil nach hinten ziehst, spürst du einen äußerst soliden Widerstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Als du den Pfeil in der Hand hältst, vibriert er mit einer seltsamen und doch vertrauten Energie. Du durchsuchst dein Bündel und findest den Bogen, den du auf dem Turm bei Durgans Batterie gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

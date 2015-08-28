@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_galawain_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser einfache Schrein ist mit einer dicken Schicht aus Schnee, Laub und Federn bedeckt. Zwei Knochen flankieren den Altar wie ein Bogentor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Totem auf den Altar legen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Truhe genauer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Schrein scheint nicht sehr häufig frequentiert zu werden, auch wenn Spuren von altem Kerzenwachs die Steinränder bedecken. 
+
+Unter dem Frost auf dem Altar bemerkst du, dass ein rechteckiger Teil seiner Oberfläche sauberer zu sein scheint als der Rest. Als habe dort einmal etwas gestanden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Altar scheint seit deinem letzten Besuch nicht angerührt worden zu sein. Der Wind pfeift leise durch den Knochenbogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du das Totem wieder auf den Schrein legst, wird der Wind plötzlich stärker. Pulveriger Schnee und Blätter werden in die Luft gewirbelt. 
+
+Die Brise trägt das weit entfernte Bellen von Hunden herbei und die Luft füllt sich mit dem Geruch von Kupfer und Schießpulver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Augen der Bärenschnitzerei scheinen zu funkeln, purpurrote Stecknadelköpfe in einer plötzlichen, zunehmenden Dunkelheit. 
+
+Schlanke Schatten schleichen vor dem Steinaltar umher. Einen zeitlosen Augenblick lang hast du das Gefühl, als würdest du von einer Stromschnelle aus Furcht und Grausamkeit weggezerrt werden. Du bist erfüllt von der Ekstase der Jagd und der Panik des Gejagtwerdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>In der Ferne hörst du ein trauriges Heulen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Augen der Bärenschnitzerei scheinen kurz zu funkeln, verglimmen aber sofort wieder, wie ein langsam erlöschendes Feuer. Bald ist der Schrein wieder still und stumm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Den Altar berühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Als deine Finger den Altar berühren, spürst du ein Kribbeln deinen Arm hinaufkriechen. Unmittelbar danach scheint der Wind sich zu legen, die Geräusche der Wildnis verstummen in deinen Ohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Dann hörst du ein plötzliches, tiefes Knurren, in das rasch noch weitere Geräusche einstimmen. Eine Vision schießt dir in den Kopf wie eine plötzliche Erinnerung, doch ist sie nicht an Zeit oder Raum gebunden. 
+
+In einer See aus Dunkelheit siehst du ein großes Biest, frei von jeder Gestalt, von seinen blitzenden Reißzähnen abgesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Es knurrt und schnappt immer verzweifelter und wilder und einen Augenblick lang spürst du seinen Zorn als deinen eigenen: eine besitzergreifende Wut, die an dir zerrt. 
+
+Dir wurde etwas genommen. Dein Territorium wurde bedroht. Und der Preis dafür muss Blut sein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Vision verschwindet ebenso schnell, wie sie gekommen ist. Der Altar steht stumm und still da. Die Luft füllt sich wieder mit dem Zwitschern von Vögeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Endlich bist du wieder frei und die Schatten schmelzen im Mondlicht dahin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Endlich bist du wieder frei und die Schatten schmelzen im Tageslicht dahin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Vision verschwindet so schnell, wie sie gekommen war. Der Altar steht stumm und still da. Die Luft füllt sich wieder mit dem Zwitschern von Vögeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

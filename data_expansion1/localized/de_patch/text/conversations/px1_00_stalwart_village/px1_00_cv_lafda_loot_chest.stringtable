@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_lafda_loot_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Schnitzereien zu Ehren Ondras verzieren jeden Zentimeter dieser großen Holzkiste. Der Deckel scheint selbst ohne sichtbaren Riegel oder Schließmechanismus fest verschlossen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Kiste wirkt alt. Das Holz ist rissig und ausgeblichen. Die Ränder des Deckels aber sind weniger ausgeblichen - der Deckel scheint in letzter Zeit häufig geöffnet worden zu sein. Bevor du die Kiste näher ansehen kannst, wirbelt ein Akolyth zu dir herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Kiste untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Versuchen, die Kiste zu öffnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du streckst die Hand aus, um die Kiste zu öffnen. Ein Akolyth reagiert sofort. "Fass das nicht an!", knallt seine Stimme wie eine Peitsche. Die anderen Akolythen blicken ihn eindringlich an, als würden sie ihn ermahnen, die Fassung zu wahren. Er runzelt die Stirn. "Ich wollte sagen, diese Kiste ist ein Heiligtum Ondras. Bitte fasse sie nicht an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fass das nicht an!", knallt seine Stimme wie eine Peitsche. Die anderen Akolythen blicken ihn eindringlich an, als würden sie ihn ermahnen, die Fassung zu wahren. Er runzelt die Stirn. "Ich wollte sagen, diese Kiste ist ein Heiligtum Ondras. Bitte fasse sie nicht an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du streckst die Hand aus, um die Kiste zu öffnen. Der Akolyth reagiert sofort. "Wie ich schon sagte, nur treue Anhänger der Göttin dürfen die Kiste berühren. Der Wille Ondras beschützt sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du trittst näher an die Kiste heran. Der Akolyth reagiert sofort. "Wie ich schon sagte, nur treue Anhänger der Göttin dürfen die Kiste berühren. Der Wille Ondras beschützt sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kiste wirkt alt. Das Holz ist rissig und ausgeblichen. Bevor du die Kiste näher ansehen kannst, wirbelt ein Akolyth zu dir herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_bracelet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du greifst in das Fass und findest eine Armkette. Sie strahlt eine starke Aura der Essenz aus, voller Erinnerungen. 
+
+Du spürst, wie du in die Erinnerungen hineingezogen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>In der Erinnerung betrittst du die Fischerei. Die Böden sind sauber gefegt, aber das Holz ist noch immer nass von geschmolzenem Schnee und Fischdärmen.
+
+Ein Mann hockt in der Ecke. Sein Kopf ist auf seine Brust gefallen, als würde er schlafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Er blickt dich benommen an, als du dich näherst. Es ist Grynde. Sein Gesicht ist jugendlich aber teigig, seine Haare hängen in Strähnen herab.
+
+Du spürst einen Schub aus Zorn und Mitleid ob des Zustands deines Bruders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Arda." Seine Stimme ist kaum mehr als ein Krächzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Es ist nach Mitternacht." Dein Hals schnürt sich zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Grynde wischt sich mit der Hand über die Nase und betrachtet dann die Mischung aus Blut und Puder an seinen Fingern. Er zuckt mit den Achseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deine Finger umklammern rauen, dicken Stoff - den besten Wollumhang deines Vaters, den du unter dem Arm trägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er nimmt den Umhang und blickt ihn mit demselben tumben Erstaunen an.
+
+Er wischt sich die Nase am Futter ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich sage es ihnen. Bürgermeister Cyneheod, den Nachbarn, allen." Du presst die Worte durch deine Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was sagen?" Er nuschelt durch einen Morast aus Rotz und Speichel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Das wirst du nicht." Er steht auf und steht fester auf den Beinen als du gedacht hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Doch, das werde ich." Du trittst auf ihn zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du fällst zu Boden. Du blickst in seine sich weitenden Augen und die Decke über dir dreht sich. 
+
+Ist das nicht typisch Grynde mit seinen albernen Wutanfällen, nie denkt er an jemand anderen an sich selbst und jetzt wirst du eine Woche lang Kopfschmerzen haben, aber das zeigt nur mal wieder, dass man manchen Leuten einfach nicht helfen kann, aber du erinnerst dich auch an ihn, deinen kleinen Bruder, wie er durch den Schnee rutscht und auf das Eis fällt und du rutschst und fällst und hinter dir steht ein Tisch, aber sollte das nicht-</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Erinnerung endet jäh. Du wirst zurück in die Gegenwart gerissen. Dein Herz pocht und deine Handflächen schwitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Von deinem Diebstahl! Glaubst du, ich habe nicht gemerkt, dass Geld aus der Kasse der Fischerei fehlt? Oder Taena nicht sagen hören, dass sie einen goldenen Duc 'verloren' hat?" Du flüsterst. Selbst jetzt hast du noch Angst, dass jemand euch hören könnte. Die Worte versengen deine Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Grynde blinzelt dich an. "Nein, das ist nicht ..." Er reibt sich seine roten Augen.
+
+Deine eigenen Augen werden warm und feucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Stalwart toleriert deine Schwammsucht, aber deine Stehlereien werden sie nicht dulden."
+
+Du berührst deine Armkette, ein Geschenk von deiner Mutter. Du zupfst an den Perlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Geh. Nach Readceras oder Trutzbucht oder nach Eir Glanfath, ist mir scheißegal."
+
+Du schleuderst es auf den undankbaren Wurm am Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Eine plötzliche Woge des Zorns lässt deine Glieder schwach und schmerzend zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wenn es Arbeit gibt, bist du nirgendwo zu sehen, aber kaum rollen die Händler mit ihren Wagen in die Stadt, hast du genügend Geld für ein paar Beutel Rieselschwamm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich wollte Mutter und Vater nicht beschämen, solange sie noch leben, aber ich lasse nicht zu, dass es so weitergeht." Dein Zorn verdrängt auch den letzten Rest deines Mitleids - Zorn, dass er dich in diese Lage bringt, dass er an deiner Entschlossenheit zweifelt, dass er nicht erkennt-
+
+Du bist so nah, dass du seinen sauren Atem riechen kannst, als er dich schubst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

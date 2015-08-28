@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_si_hole</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durch ein großes Loch, das in das Eis geschnitten wurde, ist trübes Wasser zu sehen. Das Loch ist größer als ein Angelloch - breiter als ein stämmiger Aumaua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Hineintauchen und den Grund des Teichs absuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] taucht in das Wasser und verschwindet in der turbulenten Dunkelheit. Die Kälte raubt alle Wärme, jede Bewegung wird zum Kampf.
+
+Mit außergewöhnlicher Ausdauer gelingt es [Specified 0] jedoch, mühelos zum Grund des Teichs zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[[Slot 0] hineintauchen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[[Slot 1] hineintauchen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[[Slot 2] hineintauchen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[[Slot 3] hineintauchen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[[Slot 4] hineintauchen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[[Slot 5] hineintauchen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du tauchst in das Wasser. Die turbulente Dunkelheit hüllt dich in eine eiskalte Umarmung, die jede Wärme aus deinem Körper zieht.
+
+Deine Glieder fangen an, taub zu werden. Dank deiner natürlichen Ausdauer schwimmst du aber mühelos zum Grund des Teichs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du tauchst in das Wasser. Die turbulente Dunkelheit hüllt dich in eine eiskalte Umarmung, die jede Wärme aus deinem Körper zieht.
+
+Deine Glieder fangen an, taub zu werden. Es fällt dir zunehmend schwer, dich zu bewegen. Bald ist es fast unmöglich.
+
+Ein Krampf durchzuckt deinen Rücken und schreckt dich auf. Du schwimmst verzweifelt nach oben und kämpfst dich durch das Wasser, bis du die Oberfläche durchbrichst, zitternd und erschöpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du tauchst in das Wasser. Die turbulente Dunkelheit hüllt dich in eine eiskalte Umarmung, die jede Wärme aus deinem Körper zieht.
+
+Deine Glieder fangen an, taub zu werden. Dank deiner natürlichen Kälteresistenz schwimmst du aber mühelos zum Grund des Teichs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du schüttelst die Überraschung ab und greifst nach einer weiteren Kiste. Als du sie aufgebrochen hast, erwartet dich derselbe Anblick - nur Steine, nichts von irgendeinem Wert.
+
+Irgendetwas ist hier faul. Als Beweis für deine Entdeckung nimmst du eine der leeren Kisten mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Loch scheint sich an der Stelle zu befinden, die auf der Karte in Ixtlis Notizbuch eingezeichnet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Als das Wasser in Bewegung gesetzt wird, klatscht es gegen die Eisschichten. Du streckst die Hand aus, um die Temperatur des Wassers zu fühlen. Es beißt dir mit jeder Welle in die Finger, nach wenigen Sekunden ist deine Hand taub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du trittst an das Loch heran, das in die gefrorene Teichoberfläche geschnitten wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Wer soll hineintauchen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Du tauchst.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Durch das Wasser auf den Grund des Teichs sehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sorgfältig studierst du deine Umgebung. Es sind jede Menge Tierspuren zu sehen. In der Nähe des Lochs sind aber auch Spuren zu sein, bei denen es sich wohl um die Fußabdrücke von Gestandenen handelt.
+
+Als du das Loch näher betrachtest, siehst du, dass seine Wände mit einem zackigen Reif aus Frost bedeckt sind. Es war zugefroren und wurde neu aufgeschlagen, vielleicht mehrmals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Das Wasser bewegt sich, schlammig und nahezu undurchdringlich.
+
+Mit viel Mühe kannst du den Grund ausmachen. Langsam zeichnen sich aus dem verschwommenen Dämmerdunkel Formen ab.
+
+Du bist überzeugt, dass mehrere Gegenstände auf dem Grund liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Das Wasser bewegt sich, schlammig und nahezu undurchdringlich.
+
+Du versuchst, durch das Dämmerdunkel zu blicken, aber du kannst nichts ausmachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Nach anderen Optionen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du tauchst in das Wasser. Die turbulente Dunkelheit umhüllt dich, doch ihre Umarmung fühlt sich fast warm und einladend an. Gelegentlich durchfährt ein kalter Schauer deine Glieder, aber der Schutz des Zaubers lässt dich mühelos zum Grund des Teichs schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Bollwerk gegen die Elemente wirken, bevor du hineintauchst.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Wer soll Bollwerk gegen die Elemente wirken?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Du wirkst Bollwerk gegen die Elemente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[[Slot 0] Bollwerk gegen die Elemente wirken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[[Slot 1] Bollwerk gegen die Elemente wirken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[[Slot 2] Bollwerk gegen die Elemente wirken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[[Slot 3] Bollwerk gegen die Elemente wirken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[[Slot 4] Bollwerk gegen die Elemente wirken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[[Slot 5] Bollwerk gegen die Elemente wirken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Bollwerk gegen die Elemente nicht wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du beginnst, Energie aus dem Äther zu ziehen und sie in dein Zauberbuch zu kanalisieren ... bis du spürst, wie die Macht aus dem Buch überströmt und dich in eine schützende Aura hüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] beginnt, Energie aus dem Äther zu ziehen und in ein Zauberbuch zu kanalisieren. Aus der aufgeschlagenen Seite zuckt plötzlich ein Lichtblitz auf und du wirst in eine schützende Aura gehüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] taucht in das Wasser und verschwindet in der turbulenten Dunkelheit. Ihre Umarmung fühlt sich jedoch fast warm und einladend an.
+
+Von dem Zauber beschützt gelingt es [Specified 0], mühelos zum Grund des Teichs zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] taucht in das Wasser und verschwindet in der turbulenten Dunkelheit. Die Kälte raubt alle Wärme, jede Bewegung wird zum Kampf.
+
+Mit einer natürlichen Resistenz gegen die Kälte ausgestattet gelingt es [Specified 0] jedoch, mühelos zum Grund des Teichs zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] taucht in das Wasser und verschwindet in der turbulenten Dunkelheit. Die Kälte raubt alle Wärme, jede Bewegung wird zum Kampf ... und bald nahezu unmöglich.
+
+Plötzlich wird [Specified 0] durch ein Zucken wachgerüttelt und schwimmt verzweifelt nach oben, kämpft sich durch das Wasser und durchbricht schließlich die Oberfläche, zitternd und erschöpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du tauchst deine Hand in das Wasser. Du spürst, wie die Wellen deine Haut hinaufsteigen, aber du bemerkst keine Temperaturveränderung. Als wäre das Wasser selbst lauwarm geworden.
+
+Die Kälte scheint keine Gefahr mehr darzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du lässt einige Minuten vergehen, um dich zu erholen, dann bist du bereit, deinen Fund zu untersuchen.
+
+Die Truhen tragen Ondras Symbole. Du nimmst eine der Kisten und stemmst den Deckel auf. Es sind nur Steine darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Nach dem fehlgeschlagenen Versuch überlegst du kurz, welche Möglichkeiten du hast. Nur extreme Widerstandsfähigkeit gegen die Kälte würde dir genug Zeit verschaffen, am Grund des Teichs nach Gegenständen zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Direkt unter dem Loch, am tiefsten Grund des Teichs, ertasten deine Hände schwere Gegenstände aus Holz und Metall.
+
+Es sind Kisten, klein aber schwer. Du beginnst, sie an die Oberfläche zu schaffen, eine nach der anderen. Es ist mühsam, ihr Gewicht durch das Wasser zu schleppen.
+
+Nach heldenhaften Anstrengungen steigst du schließlich wieder aus dem gefrorenen Teich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Direkt unter dem Loch, am tiefsten Grund des Teichs, ertasten die Hände von [Specified 0] schwere Gegenstände aus Holz und Metall.
+
+Es sind Kisten, klein aber schwer. [Specified 0] beginnt, sie an die Oberfläche zu schaffen, eine nach der anderen. Es ist mühsam, ihr Gewicht durch das Wasser zu schleppen.
+
+Nach heldenhaften Anstrengungen steigt [Specified 0] schließlich wieder aus dem gefrorenen Teich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Du trittst einen Schritt zurück, blickst auf das Loch in dem gefrorenen Teich und überlegst, was du nun tun sollst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Du schüttelst die Überraschung ab und greifst nach einer weiteren Kiste. Dieses Mal siehst du eine exquisit gefertigte Rüstung und findest darunter begraben ein mit leuchtenden Edelsteinen besetztes Silbermedaillon.
+
+Du erkennst die Gegenstände als Okruns Erbstücke. Die übrigen Kisten, die Kisten voller Steine, lassen jedoch vermuten, dass hier etwas faul ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Ixtlis Notizen lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Ixtlis Notizbuch enthält unterstrichene Notizen:
+
+"Notoc Tlocotl, Formalitäten zuerst, versteht sich, und sie kommt hoch."
+
+"Cualla Micha, sie ist ein braves Mädchen und hört das gerne, bevor sie hinabschwimmt."
+
+"Xitlac Cualla, man muss sichergehen, dass sie den Fisch für eine gut erledigte Aufgabe mag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, "Cualla Micha".]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, "Xitlac Cualla".]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Den Lagufaeth verscheuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Dem Lagufaeth drohen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, "Notoc Tloctol".]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Kaum hast du die Worte gesprochen, steigen Blasen aus der Tiefe aus. Ein Schatten erscheint darunter und wird immer größer, bis er mit einem gewaltigen Platschen die Wasseroberfläche durchbricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Der Lagufaeth neigt seinen grotesken Kopf zur Seite und fokussiert dich mit einem Auge. Plötzlich blähen sich seine Nüstern.
+
+Die Kreatur atmet die kalte Luft mit einem zischenden Laut ein und verschwindet dann wieder im Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Nur vereinzelte Blasen, die an die Oberfläche steigen, lassen darauf schließen, dass der Lagufaeth immer noch tief unter dem Eis umherschwimmt. Eine lange Minute vergeht. Das trübe Wasser scheint sich zu bewegen und wieder zeichnet sich unter dem Loch eine dunkle Gestalt ab und wird größer und größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Eine sperrige Form taucht auf und lässt eine Welle Wasser auf das Eis schwappen. Es ist eine Kiste. Der Lagufaeth, der sie hinaufgestemmt hat, taucht dahinter auf und zeigt kurz seine Zähne ... fast, als würde er lächeln.
+
+Die Kreatur schiebt die Kiste beiseite und taucht wieder hinab. Der ganze Vorgang wiederholt sich mehrfach, bis mehrere Kisten neben dem Loch stehen, alle identisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Der Lagufaeth atmet schwer durch weit geöffnete Nüstern. Er dreht seinen Kopf zur Seite, um dich anzublicken.
+
+Ein neues Lächeln scheint sich zu bilden, eines der Vorfreude. Gleichzeitig öffnet der Lagufaeth sein Maul in deine Richtung.
+
+"Cah ... llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Seine Augen ragen aufgeregt aus ihren Höhlen heraus. Mit weit geöffnetem Maul versucht die Kreatur die Worte zu wiederholen, zwischendurch immer wieder zu dir blickend.
+
+"Cah llah. Cah llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Dem Lagufaeth etwas Fisch füttern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du nimmst eine große Portion deines gelagerten Fischs und wirfst ihn der Kreatur ins Maul. Sie beißt die Kiefer zusammen und schluckt alles mit einem Happs herunter. Sie schließt befriedigt die Augen und atmet stinkend aus.
+
+Der Lagufaeth neigt seinen Kopf zur Seite. Er fletscht seine Zähne, in denen noch immer Fischstücke hängen, und schlüpft dann wieder in das eisige Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du richtest deine Aufmerksamkeit auf die Truhen, die rund um das Eisloch liegen. Sie tragen Ondras Symbole. Du nimmst eine der Kisten und stemmst den Deckel auf. Es sind nur Steine darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du scheuchst den Lagufaeth mit einem Zischen und einem Winken deiner Hand fort. Er schreckt zurück und schnappt die Kiefer zusammen, wagt es aber nicht, dich zu beißen.
+
+Die Kreatur kneift die Augen zusammen und wirft dir einen zornigen Blick zu, bevor sie wieder ins Wasser hinabtaucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Du schreist und schüttelst deine Fäuste in Richtung des Lagufaeth. Er schreckt zurück und schnappt die Kiefer zusammen, wagt es aber nicht, dich zu beißen.
+
+Die Kreatur kneift die Augen zusammen und wirft dir einen hasserfüllten Blick zu, bevor sie wieder ins Wasser hinabtaucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Du sprichst die Worte und wartest. Nichts passiert. Du richtest deine Aufmerksamkeit wieder auf die Notizen des Gabenbringers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Die Kreatur wirft den Kopf zur Seite und ihre Augen ragen aufgeregt aus ihren Höhlen heraus. 
+
+Mit weit geöffnetem Maul versucht die Kreatur die Worte zu wiederholen.
+
+"Cah llah. Cah llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Du sprichst die Worte und wartest. Nichts passiert. Du richtest deine Aufmerksamkeit wieder auf die Notizen des Gabenbringers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Du nimmst eine große Portion deines gelagerten Fischs und wirft ihn der Kreatur ins Maul. Sie beißt die Kiefer zusammen und schluckt alles mit einem Happs herunter. Sie schließt befriedigt die Augen und atmet stinkend aus.
+
+Der Lagufaeth neigt seinen Kopf zur Seite. Seine Lippen verziehen sich zu einem kichernden Grinsen. Du hast Gefühl, bei dem Handel schlecht weggekommen zu sein. Die Kreatur schlüpft wieder in das eisige Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Als du dich zum Gehen wendest, schnappt der Lagufaeth mit dem Kiefer und stößt einen kehligen Schrei aus.
+
+Er beginnt, mit dem Kopf unter Wasser zu tauchen. Seine Augen sind zusammengekniffen, sein Blick auf dich fixiert. Du hast das Gefühl, seine Erwartungen zu enttäuschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Du scheuchst den Lagufaeth mit einem Zischen und einem Winken deiner Hand fort. Er schreckt zurück und schnappt die Kiefer zusammen, wagt es aber nicht, dich zu beißen.
+
+Die Kreatur kneift die Augen zusammen und wirft dir einen hasserfüllten Blick zu, bevor sie wieder ins Wasser hinabtaucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Versuchen, den Lagufaeth loszuwerden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Die Kreatur schnaubt durch die Nüstern aus und blickt dich zornig an, bevor sie wieder in die Tiefen des Wassers hinabtaucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Eine schuppige Kreatur starrt dich aus dem Loch an, mit hervorstehenden Augen und weit aufgerissenem Maul. Worte bilden sich mühsam zwischen Reihen scharfer Zähne.
+
+"Tah ... caht."
+
+Der junge Lagufaeth scheint keine Angst vor dir zu haben. Er neigt seinen Kopf und starrt weiter zu dir, als würde er auf etwas warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

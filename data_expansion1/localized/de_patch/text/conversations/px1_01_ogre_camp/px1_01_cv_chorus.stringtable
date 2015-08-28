@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_01_ogre_camp\px1_01_cv_chorus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Welt um dich herum verschwimmt und wird schwarz. Als du wieder etwas siehst, stehst du in einer kleinen Holzhütte, die nur spärlich von der Glut in einer Feuerstelle beleuchtet ist.
+ 
+Du trägst eine Kettenrüstung, die dir viel zu groß ist. In deinen Händen hältst du das Elfenbeinhorn irgendeiner Meereskreatur, das an einem Ende zugespitzt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Welt verblasst und deine Sicht verschwimmt. Als sie zurückkehrt, findest du dich im eiskalten Wasser einer Bucht wieder. Dein Körper ist taub von der Kälte, deine Lungen brennen vor Anstrengung.
+
+Ardhel und Badrwn schwimmen neben dir. Sie verausgaben sich völlig, um dich zu überholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gib auf, Garodh!" Ardhel überholt dich, und obwohl du dich noch so sehr anstrengst, kannst du nicht mehr aufschließen.
+
+Du blickst dich nach Badrwn um. Es ist purer Zufall, dass du den Kopf der Seeschlange siehst, die sich eurer Gruppe nähert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ein Helm ... ja. Mein Helm. Ich erinnere mich an ihn. Aber wer war ich? Warum bin ich nicht in das Rad zurückgekehrt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Am anderen Ufer warten die anderen Mitglieder deines Stammes. Bei ihnen steht auch Olarra, die Tochter des Häuptlings. Um ihre Hand wetteifert ihr drei heute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du beißt ob des plötzlichen Schmerzes die Zähne zusammen und schlingst deine Arme um den Hals der Schlange, bevor sie sich umdrehen kann. Sie zuckt und windet sich wie wild, um dich abzuschütteln. 
+
+Du hältst dich mit aller Kraft fest, doch mit jedem Atemzug verlierst du Blut und wirst schwächer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?"
+
+Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Durch pure Willenskraft bleibst du auf den Beinen, bis du sicher bist, dass du der unangefochtene Sieger des Kampfes bist. Erst, als die letzten feindlichen Krieger dein Dorf verlassen haben, brichst du zusammen.
+
+Das Letzte, woran du dich je erinnerst, sind die Hände deines Volkes, die sich ausstrecken, um dich aufzufangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er seufzt. "Das Rad hat offenbar keine Geduld.
+
+"Ich vertraue meinen Helm deiner Obhut an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du spürst, dass eines der übrigen Teile von Garodhs Helm in der Nähe ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du spürst, dass eines der übrigen Teile von Garodhs Helm in der Nähe ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Die Tür entriegeln und weit aufreißen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Warten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Kaum erwägt dein Verstand die Möglichkeit, setzt die Welt sich wieder in Bewegung und ein donnernder Stoß kracht gegen die Tür.
+
+Die Tür schlägt nach innen auf, das junge Mädchen schreit. Eine große Kreatur, einem Bären ähnelnd und größer als jeder Mann in deinem Stamm, springt mit einem triumphierenden Brüllen in die Hütte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Die Kreatur auffordern, dich anzugreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Auf die Kreatur einstechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Kaum erwägt dein Verstand die Möglichkeit, setzt die Welt sich wieder in Bewegung.
+
+Eine große Kreatur, einem Bären ähnelnd und größer als jeder Mann in deinem Stamm, steht direkt vor der Tür. Ihre pechschwarzen Augen weiten sich verwirrt, als sie dich erblickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du springst auf die Kreatur zu und rammst ihr das Horn tief in die Brust. Sie schreit vor Schmerz auf und stolpert zurück, erholt sich jedoch sofort und schleudert dich mit einer gewaltigen Pranke zum anderen Ende der Hütte.
+
+Caitha huscht an der Kreatur vorbei aus der Hütte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Wie schon zweimal zuvor verschwimmt deine Sicht und alles wird schwarz. Als du wieder etwas siehst, findest du dich auf deinen Knien wieder. Du hältst ein zertrümmertes Schwert in der Hand. Vor dir liegt ein zerbrochener, ramponierter Helm. Dein Helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du spürst Blut über eine Hälfte deines Gesichts herabrinnen. Und du weißt ohne jeden Zweifel, dass du mit deinem linken Auge nie wieder wirst sehen können.
+
+In einem Kreis um dich herum stehen andere Krieger. Einige gehören zu deinem Stamm, die übrigen zu einem feindlichen. Sie beobachten schweigend den Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Sie mit dir in die Tiefe ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du spürst, dass eines der übrigen Teile von Garodhs Helm in der Nähe ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du tust das Einzige, was dir in den Sinn kommt: Du rammst deine Faust durch das Auge der Schlange und vergräbst deinen Arm so tief darin, wie er reicht. 
+
+Die Schlange wirft sich vor Schmerzen unkontrolliert herum. Du kannst dich nicht länger festhalten. Du wirst durch die Luft gewirbelt und verlierst das Bewusstsein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Die Schlange angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Deine Erschöpfung schwindet, als du dich der Schlange zuwendest. Sie stürzt auf dich zu, das Maul weit aufgerissen. Ihre Zähne, fast einen halben Meter lang, blitzen im Sonnenlicht.
+
+Im letzten Augenblick wirst du dich zur Seite, als die Schlange ihr Maul zuschlägt. Du warst etwas zu langsam, eines der Hörner der Schlange schlitzt deinen Unterarm bis auf den Knochen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Du zwingst dich zum Aufstehen und wirfst deine zerbrochene Klinge beiseite. Mit letzter Kraft stürmst du auf deinen Gegner zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[An der Kreatur vorbeispringen und fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Du springst an der Kreatur vorbei, bevor sie reagieren kann, und sprintest aus der Hütte. Die Kreatur verfolgt dich nicht und richtet ihre Aufmerksamkeit auf Caitha.
+
+Die Schmerzensschreie deiner Schwester und das Knurren der Kreatur verklingen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Was sollen wir nur tun, Garodh?" 
+
+Deine Schwester, Caitha, kauert neben dir. Ihre Augen sind weit geöffnet und starren auf die verbarrikadierte Tür der Hütte. Von außen krachen schwere Hiebe gegen die Tür. Sie bebt und splittert. Zorniges Knurren ist von jenseits der Tür zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Neben der Tür in Deckung gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Kaum erwägt dein Verstand die Möglichkeit, setzt die Welt sich wieder in Bewegung und ein donnernder Stoß kracht gegen die Tür.
+
+Die Tür schlägt nach innen auf, das junge Mädchen schreit. Eine große Kreatur, einem Bären ähnelnd und größer als jeder Mann in deinem Stamm, springt mit einem triumphierenden Brüllen in die Hütte.
+
+Sie bemerkt nicht, dass du geduckt neben der Tür sitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Von deinem Wagemut erzürnt greift die Kreatur dich an. Sie schleudert dich mit einer gewaltigen Pranke mühelos zum anderen Ende der Hütte. Währenddessen huscht Caitha an der Kreatur vorbei aus der Hütte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Von hinten auf die Kreatur einstechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du rammst das Horn tief in den Rücken der Kreatur. Sie heult auf und windet sich vor Schmerzen. Caitha huscht an der Kreatur vorbei aus der Hütte, du folgst ihr auf den Fersen.
+
+Das Brüllen der Kreatur verklingt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Die Kreatur angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Die Kreatur lacht und begegnet deinem Angriff mit einer gewaltigen Pranke, die dich zum anderen Ende der Hütte schleudert. Caitha huscht an der Kreatur vorbei aus der Hütte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Jeder Atemzug ist eine Qual, aber du umklammerst trotzig das Horn, als die Kreatur sich nähert.
+
+Das Knurren der Kreatur und dein eigener schwerer Atem verklingen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"So ist es gewesen? Es ist so lange her. Ich erinnere mich kaum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Vorgeben, in Ohnmacht zu fallen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du fällst zu Boden und greifst dabei unbemerkt nach einem der zerbrochenen Hörner deines Helms. Du liegst mit geschlossenen Augen reglos da und lauschst auf die Schritte deines Gegners. Du vertraust darauf, dass er arrogant genug ist, sich bis auf Schlagweite zu nähern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Erbärmlich." Du hörst die Füße des anderen Kriegers in der Nähe deines Kopfes knirschen. Blitzschnell rammst du das Horn nach oben in den ungepanzerten Schritt deines Gegners.
+
+Er brüllt vor Schmerzen auf, aber du stichst wieder und wieder zu, bis er verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Nichts sagen und dich unter den Wellen verstecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Du holst tief Luft, tauchst und bleibst völlig reglos. Die Schlange bemerkt dich nicht. 
+
+Nach wenigen Augenblicken färbt sich das tiefblaue Wasser um dich herum trüb rot. Du wartest, bis die Silhouette der Schlange leise davongleitest, ehe du keuchend auftauchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Von deinen Gefährten ist nichts zu sehen. Du schwimmst ans Ufer. 
+
+Der anfängliche Jubel deines Stammes verstummt, als du von der Begegnung mit der Seeschlange berichtest - und vorgibst, durch bloßes Glück überlebt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Galawain hat heute über dich gewacht, Garodh." Der Häuptling legt seine Hand auf deine Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ein Jammer, dass deiner Schwester an jenem schrecklichen Tag nicht ebensolches Glück beschieden war, Garodh." Der Häuptling legt seine Hand auf deine Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Du wirst sterben, alter Mann." Dein Gegner ist arrogant, aber auch jung und stark. "Hältst du ein Duell immer noch für eine gute Idee?"
+
+Das tust du. Die Hungersnot im letzten Winter hat deinem Stamm schwer zugesetzt. Deine Krieger waren nicht in der Lage, einen Angriff eurer Feinde abzuwehren. Ein Duell war die einzige Hoffnung deines Stammes.
+
+Allerdings nur, wenn du nicht verlierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Er ist auf dich gefasst. Seine Klinge bohrt sich tief in deine Seite - eine tödliche Wunde. Er lacht, aber du lachst als Letzter.
+
+Du bist älter und langsamer, aber du bist immer noch stark. Du packst den Kopf des jungen Kriegers, brichst ihm mit einem triumphalen Schrei das Genick und lässt seine Leiche in den Schlamm fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Die feindlichen Krieger knurren und brüllen, als sie ihren Helden fallen sehen. Bald darauf aber verlassen sie friedlich dein Dorf, durch das Ergebnis des Duells gebunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Danke, mein Freund."</DefaultText>
+      <FemaleText>"Danke, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ich finde die anderen Teile deines Helms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich hatte die Vision, als ich ein Horn aufgehoben habe. Offenbar Teil eines Helms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich hatte die Vision, als ich diesen ramponierten Helm aufgehoben habe. Seine Hörner fehlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Wenn du wüsstest, wer du warst, würdest du vielleicht auch wissen, ob es an der Zeit ist, die Vergangenheit hinter dir zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Dieser Helm ist alles, was von meinem alten Leben übrig ist. Wenn du etwas von mir in einem Teil davon gefunden hast, sind meine Erinnerungen vielleicht mit dem Rest des Helms verstreut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?"
+
+Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?"
+
+Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Danke, mein Freund."</DefaultText>
+      <FemaleText>"Danke, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Danke, mein Freund."</DefaultText>
+      <FemaleText>"Danke, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ja ... ja, ich erinnere mich an alles! Meine Schwester, meine Herrschaft, das Ende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Du findest Garodhs Helm in deinen Händen, heil und unversehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Leb wohl, Garodh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Habe ich jetzt auch irgendetwas von der Sache, oder ... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Du findest Garodhs Helm in deinen Händen, heil und unversehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Leb wohl, mein Freund."</DefaultText>
+      <FemaleText>"Leb wohl, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Leb wohl, mein Freund."</DefaultText>
+      <FemaleText>"Leb wohl, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Leb wohl, mein Freund."</DefaultText>
+      <FemaleText>"Leb wohl, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Wie zuvor bleibt die Welt stehen. Die Spur der Erinnerung ist ohne deine führende Hand verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Plötzlich hält die Welt um dich herum an. Das Donnern verstummt. 
+
+Holzsplitter von der Tür schweben reglos in der Luft. Caitha zittert nicht mehr, atmet nicht mehr. Ihre Augen sind starr wie die einer Puppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Wieder bleibt die Welt stehen. Die Spur der Erinnerung wartet auf deine führende Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Wenn der Helm wieder zusammengefügt wird, findet sich vielleicht Frieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Der dünne Faden Essenz, dem du bis zu diesem Punkt in der Erinnerung gefolgt bist, ist fast vollständig verschwunden. 
+
+Wenn du dich aber darauf konzentrierst, was als nächstes geschehen sein könnte, dann spürst du, ob es wirklich so wahr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Oh!" Garodh blickt traurig überrascht auf seine eigene geisterhafte Gestalt, die langsam verblasst. 
+
+"Aber ich habe es doch gerade erst gesehen! Es war zu kurz, um es zu verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_03_wildernesses\px1_03_qst_soul_twin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Seine bessere Hälfte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde heraus, wie Ygadr gestorben ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ygadr kam auf der Suche nach seinem Seelenzwilling in die Weißmark, doch er wurde auf den einsamen Bergpässen getötet. Ich habe die letzten Fäden seiner Seele in der Wildnis östlich von Stalwart gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Überreste eines jungen Dyrwäldlers gefunden, der in die Weißmark gekommen war, um seinen Seelenzwilling zu suchen.
+
+Wer auch immer ihn getötet hat, hat nicht viel zurückgelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Ygadrs Tagebuch bei den Lagufaeth-Nestern in der Nähe der heißen Quellen gefunden. Die Kreaturen müssen es an sich genommen haben, aber ich habe keine weiteren Spuren von Ygadr gefunden.
+
+Das Tagebuch erwähnt eine Höhle hinter einem Wasserfall. Vielleicht finde ich dort Antworten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Spuren gefunden, die nach Norden führen. Vielleicht finde ich dort einen Hinweis auf Ygadr ... oder seinen Mörder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe herausgefunden, dass Ygadr von seinem Seelenzwilling getötet wurde, einem Drachen. Ich habe den Drachen getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe herausgefunden, dass Ygadr von seinem Seelenzwilling getötet wurde, einem Drachen. Ich habe die Verbindung des Drachen zu seinen Seelenzwillingen durchtrennt und er hat versprochen, mich in Frieden zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich habe in einer Höhle hinter einem Wasserfall gegen einen Drachen gekämpft. Als die Bestie starb, spürte ich einen starken Essenzstrom. Ich weiß nicht, was das zu bedeuten hat, aber es scheint mehr dahinterzustecken.
+
+Vielleicht kann ich die Sache ergründen, wenn ich die Region weiter erforsche.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

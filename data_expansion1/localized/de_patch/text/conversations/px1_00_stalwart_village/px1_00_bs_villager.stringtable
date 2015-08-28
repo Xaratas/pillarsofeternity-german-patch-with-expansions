@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_bs_villager</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Diese Oger kommen wieder. Sie wollten nur sehen, wie stark wir sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Renengild gibt ihr Bestes, aber abgesehen von der Fischerei gibt es kaum Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Meine Nachbarn versuchen ihr Glück in Neu-Yarma. Vielleicht mache ich das auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Gesegnet seist du, du wurdest von der Fürstin der Klagen persönlich berührt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dieses Klima ist für dich wohl gerade richtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Manche würden sagen, dein Gesicht ist ein böses Omen für unsere Stadt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Kann ich mich zu dir stellen und mich ein wenig aufwärmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vorsicht. Hier kommen immer wieder Sklavenhändler durch, auf der Suche nach leichter Beute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Es gibt kaum noch was zu jagen, und du weißt ja, was mit Thyrsc passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Jäger, ja? Das war hier früher ein sicherer Beruf. Aber es gibt kaum noch Wild."</DefaultText>
+      <FemaleText>"Jägerin, ja? Das war hier früher ein sicherer Beruf. Aber es gibt kaum noch Wild."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du bist was? Nicht sowas wie Galvino, hoffe ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Beruhigend zu wissen, dass Beregans Clan nicht irgendwo in der Nähe lauert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"So gute Manieren sieht man hier oben nicht oft. Auch dir einen guten Tag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mit deinem Temperament brennst du auch noch den Rest von Stalwart nieder, wenn du nicht aufpasst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du bist eine willkommene Abwechslung zu den üblichen Wahnsinnigen und Söldnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ach, wäre Uldric nur so vernünftig wie du. Der Bursche hat nur Unsinn im Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Diese Kälte macht dir sicher nichts aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dein Fell hält dich sicher schön warm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sei vorsichtig im Wald. Die Jäger könnten dich für ein Reh halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Der alte Galvino würde sich freuen, hier einen vailianischen Landsmann zu treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Die Weiße Esse soll so groß wie ein Drache sein - und aus purem Gold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Die Götter lächeln wohl endlich mal auf uns herab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vielleicht sind wir eines Tages so groß und reich wie Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"An dem Tag, an dem du die Weiße Esse gefunden hast, habe ich ein gleißendes Licht über der Batterie gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sei vorsichtig bei Durgans Batterie. In der Dämmerung darfst du nicht in ihren Schatten treten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Die Zwerge von Durgans Batterie sollen sich in ihrer Festung gegenseitig getötet haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"In Durgans Batterie spukt es. Deswegen meiden die Handelskarawanen sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Schön, dich zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Du bist in Stalwart immer willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ist es plötzlich kälter geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vielleicht verlässt du uns lieber. Bevor die Straßen noch schlechter werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Möge eine Lawine dich unter den Gipfeln begraben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du bist ein ebensolches Rätsel wie Durgans Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich weiß nicht, ob du gekommen bist, um uns zu retten oder um Schnee zu begraben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wer ist dieser Orlaner bei Haeferic? Er ist schon ungewöhnlich lange hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

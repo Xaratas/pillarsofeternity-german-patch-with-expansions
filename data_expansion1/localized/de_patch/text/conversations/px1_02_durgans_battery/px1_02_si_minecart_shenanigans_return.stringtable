@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_minecart_shenanigans_return</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine weitere Minenlore sitzt an der Öffnung eines nach oben führenden Tunnels. Du weißt nicht, wohin er führt - nur, dass er aus diesem Raum hinausführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Einsteigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Hierbleiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du kletterst in die Lore und ziehst den Hebel neben dir. Mit einem Knarzen rostiger Räder beginnt die Lore, die Schienen entlangzurollen. Nach einigen sanften Kurven und Biegungen gelangt die Lore in eine vertraute Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du steigst mit deinen Gefährten in die Lore. Du ziehst den Hebel und es ertönt das inzwischen schon vertraute Quietschen der rostigen Räder, als die Lore sich in Bewegung setzt. Nach einigen sanften Kurven und Biegungen gelangt die Lore in eine vertraute Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Belagerung von Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise nach Crägholdt und untersuche den Konflikt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Betritt Crägholdt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Betritt Crägholdt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Finde Concelhaut in Crägholdt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Konfrontiere Concelhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Besiege Concelhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Burgvogtin von Caed Nua hat mir von einem Konflikt auf einer entlegenen Klippe im Dyrwald berichtet. Die Männer des Zerrissenen Banners, eine gefürchtete Söldnerbande, belagern die Festung einer örtlichen Legende - des Erzmagiers Concelhaut. Im Zentrum des Konflikts steht ein geheimnisvolles magisches Artefakt. Die Burgvogtin denkt, ich sollte die Angelegenheit untersuchen, um die Sicherheit von Caed Nua zu gewährleisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Concelhauts Festung liegt nordöstlich von Caed Nua. Sie steht auf einer entlegenen Klippe namens Crägholdt. Ich sollte nach Crägholdt reisen und die Lage begutachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Kommandant Baelorin konnte mir etwas über die Hintergründe zu dem Konflikt mit Concelhaut sagen. Crägholdt wird von mächtigen Untoten überlaufen. Es ist unklar, welches Schicksal Concelhaut zuteil geworden ist. Ich sollte die Ruinen der Festung untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Kommandant Baelorin in einen Hinterhalt gelockt, den Anführer der Männer des Zerrissenen Banners. Ich habe ihn sterbend im Dreck liegen gelassen. Ich muss Concelhaut finden und ihm von diesen Entwicklungen berichten. Vielleicht belohnt er mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich bin in Crägholdt eingedrungen. Concelhaut muss hier irgendwo sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe den Schlüssel gefunden, den man benötigt, um eine Audienz bei Concelhaut zu erhalten. Es ist an der Zeit, den großen Erzmagier aufzusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Concelhaut braucht die Seele eines Wächters, um seinen neuen Zauber fertigzustellen. Und er hat sich in den Kopf gesetzt, meine dafür zu verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nachdem ich in Crägholdt angekommen war, wurde ich von Söldnern des Zerrissenen Banners gewarnt, dass ich hier nicht willkommen sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Einige Mitglieder des Zerrissenen Banners waren nicht erfreut über meine Anwesenheit in der Nähe ihres Lagers. Ich war gezwungen, mich gegen ihre Aggression zu verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe erfahren, wer die Männer des Zerrissenen Banners anführt - ein gewisser Kommandant Baelorin. Außerdem habe ich erfahren, dass die Söldner hinter etwas her sind, was sie 'das engwithanische Phylakterium' nennen. Vielleicht erhalte ich mehr Antworten, wenn ich mit diesem Baelorin spreche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich wurde von einem Diener von Tanoss begrüßt. Sein Meister möchte sich mit mir treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Tanoss hat mir gesagt, dass nur jemand mit allen vier Teilen eines Schlüssels zu Concelhaut gelangen kann. Jeder Teil des Schlüssels ist im Besitz eines anderen Lehrlings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Tanoss hat mir seinen Teil des Schlüssels angeboten, wenn ich die anderen drei Lehrlinge eliminiere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Uariki hat mir ein Gegenangebot gemacht - wenn ich Tanoss statt ihr töte, gibt sie mir ihren Teil des Schlüssels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe eine Notiz von einem von Concelhauts Lehrlingen gelesen. Sie enthielt Informationen, die nötig sind, um zu Concelhaut zu gelangen. Es scheint aber, als wären die Informationen unter allen Lehrlingen aufgeteilt worden. Ich muss irgendwie an ihre Notizen gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Concelhaut besiegt, einen der größten Zauberer von Eora.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

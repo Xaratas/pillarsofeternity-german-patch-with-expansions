@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_ghosts_war_room</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Verflucht sollt ihr beide sein! Meine Generation hat diese Festung errichtet, um Abydon zu ehren! Nicht, um eure Gier und euren Ehrgeiz zu nähren!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wir sind Pargrunen! Unsere Vorfahren waren Entdecker und Eroberer, aber du hast uns in dieser eisigen Halle eingesperrt-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Die mit Gold und Marmor verkleidet ist! Ich lasse nicht zu, dass wir unser Vermächtnis für deine Wahnvorstellungen opfern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Nein, du verkaufst es lieber, um dir die Taschen zu füllen. Wie viel hast du mit dem Verkauf unseres Stahls verdient, Zoltun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Und wieder deine Lügen! Glaubst du, ich höre nicht, wie du die anderen gegen mich aufwiegelst? Diese Mauern werfen den Hall zurück und-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Schluss! Wenn es sein muss, hetze ich die Essewächter auf euch beide."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

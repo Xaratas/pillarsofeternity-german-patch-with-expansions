@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_owynna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sie schreckt auf. "Verzeihung - diese Oger haben mich ganz schreckhaft gemacht. Ich war mir sicher, sie würden die Mauern um uns herum einreißen.
+
+"Brauchst du etwas?" Sie lächelt schüchtern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kann ich etwas für dich tun? Ich muss zwar für Haeferic aufräumen, aber ich helfe gerne, wenn ich kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wach auf, Gregur, und vergiss deinen Diebstahl aus der Waffenkammer nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sie schreckt auf. "Verzeihung. Kann ... ich dir irgendwie helfen?"
+
+Sie ringt die Hände und blickt wie gebannt zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Kann ich behilflich sein, Sir?" Sie blickt auf den Platz zwischen ihren Füßen.
+
+Aber ihre Haltung verändert sich. Ihr Kinn hebt sich und ihre Schultern richten sich auf, als Gregur die Oberhand gewinnt.</DefaultText>
+      <FemaleText>"Kann ich behilflich sein, Milady?" Sie blickt auf den Platz zwischen ihren Füßen.
+
+Aber ihre Haltung verändert sich. Ihr Kinn hebt sich und ihre Schultern richten sich auf, als Gregur die Oberhand gewinnt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wer? Ich weiß nicht-"
+
+Ihr Gesicht erschlafft und sie sieht einen Augenblick lang aus, als wäre sie eingeschlafen. 
+
+Aber ihre Augenlider flattern und nach wenigen Sekunden öffnen sie sich zu schmalen Schlitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ha, sehr gut! Nächstes Mal senkst du deinen Kopf etwas tiefer. Dann kannst du in seinen Geldbeutel sehen."</DefaultText>
+      <FemaleText>"Ha, sehr gut! Nächstes Mal senkst du deinen Kopf etwas tiefer. Dann kannst du in ihren Geldbeutel sehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Bist du sicher, dass man uns nicht erwischen wird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wenn er es nicht bemerkt, dann braucht er es ohnehin nicht."</DefaultText>
+      <FemaleText>"Wenn sie es nicht bemerkt, dann braucht sie es ohnehin nicht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Hmm, er lässt seinen Geldbeutel wirklich offenhängen. Das war mir noch nie aufgefallen."</DefaultText>
+      <FemaleText>"Hmm, sie lässt ihren Geldbeutel wirklich offenhängen. Das war mir noch nie aufgefallen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ooh, das hat Spaß gemacht! Ich hätte nicht gedacht, dass es so aufregend ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Ihre Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du tastest nach Owynnas Essenz und wirst sofort fast vollständig in Dunkelheit gehüllt. Erst nach einem kurzen Augenblick wird dir klar, dass du in eine sehr alte Erinnerung eingetaucht bist.
+
+Als deine Augen sich aber an das Licht der Fackeln gewöhnen, findest du dich in einem düsteren Tunnel wieder, den du instinktiv als Teil von Durgans Batterie erkennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sir? Verzeihung, Sir? Geht es Ihnen gut?"
+
+Ihr Kopf ist zur Seite geneigt, ihre Stirn in Falten gelegt.</DefaultText>
+      <FemaleText>"Milady? Verzeihung, Milady? Geht es Ihnen gut?"
+
+Ihr Kopf ist zur Seite geneigt, ihre Stirn in Falten gelegt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Eine Handvoll Gestalten in flickenbesetzten Umhängen und Mänteln - Zwerge, wie du - steht über eine Minenlore gebeugt. Sie beladen sie mit in Stoff gewickelten Bündeln, aus denen manchmal ein metallisches Glänzen aufblitzt. Die Kante einer Klinge oder das Leuchten einer Rüstung.
+
+Die anderen Zwerge huschen mit einer eigenartigen Mischung aus Eile und Vorsicht umher. Sie stapeln die Bündel in einer Symphonie aus gedämpften metallischen Geräuschen. Der Widerhall ihrer Arbeit scheint sie unruhig zu machen, sie blicken nervös den Tunnel hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Konzentriert euch! Je eher wir fertig sind, desto eher können wir gehen." Deine Stimme ist ein trockenes Wispern, deine Nerven knistern. Du empfindest dieselbe Anspannung wie die anderen, aber im Gegensatz zu ihnen genießt du sie.
+
+Dennoch blickst du über deine Schulter. Nur zur Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Als Hauptmann der Wache verdienst du nicht viel, aber du kannst die Waffenkammer besuchen, ohne Aufmerksamkeit zu erregen. Und wo Münzmeister Zoltun ohnehin das halbe Arsenal der Batterie verkauft, wird niemand ein paar zusätzliche Gegenstände vermissen.
+
+Außerdem hast du schon einen Käufer in Wartestellung. Du musst die Sachen nur aus der Batterie schaffen, bevor sich jemand verplappert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du ziehst dich aus der Erinnerung zurück. Owynna starrt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Einer der Männer spricht dich an. "Wir beeilen uns ja, Hauptmann Gregur. Wirklich."
+
+Als du dich umdrehst, haben die anderen ihre Anstrengungen verdoppelt. Du spürst eine freudige Aufregung in deinem Magen, als sie die Lore füllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Dieb? Ich bin der Hauptmann der Wache. Pass auf, was du für Anschuldigungen aussprichst."
+
+Ihre Worte sind langsam und berechnend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich will nur das Lied von Durgans Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Entspann dich, Gregur. Ich hatte gehofft, wir könnten zusammenarbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Zeig etwas Reue. Du hast deine Position und das Vertrauen deines Volkes missbraucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Dann bist du keiner von Zoltuns Käufern, was? Für meine Ohren klingt es, als würdest du einen Handel wollen."
+
+Sie hält inne und wartet auf deine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich kann Handel eingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich habe dich erweckt. Dafür bist du mir etwas schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Das ist der Handel - du sagst mir, was ich wissen will, dafür breche ich dir nicht das Genick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ihre Hand greift nach einer Waffe an ihrer Seite - erst dann wird ihr klar, dass sich dort keine Waffe befindet.
+
+Etwas regt sich in ihrem Gesicht, als die zwei Seelen - Gregur und Owynna - sich umeinander bewegen, wie zwei Personen, die sich durch dieselbe Tür zwängen wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Schließlich schmunzelt sie. "Du verwirrst mich. Und doch ... ist es eine Chance." Sie blickt an sich hinunter, streckt die Arme aus und befühlt den Stoff ihrer Kleidung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich ... verstehe." Sie wirkt kurz verunsichert, verbirgt ansonsten aber ihre Überraschung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Sie lächelt. "Dann sind wir einer Meinung. Ich sehe ein Angebot aber gerne auf dem Tisch, ehe ich einschlage. Was würdest du mir geben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Hauptmann der Wache? Nicht in diesen Lumpen, fürchte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Sie zieht die Nase hoch. "Ich habe meine Pflicht als Hauptmann getan. Und wenn der verehrte Münzmeister Zoltun Durganstahl verkaufen kann, warum sollte ich es nicht tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Sieh dich um. Du bist nicht in der Position, Forderungen zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Verzeih meinen Monolog. Ich bin abgeschweift und-" Sie verstummt und blinzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich muss zu Durgans Batterie. Das Lied bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Sie verdreht die Augen. 
+
+"Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen."
+
+"Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich."
+
+"Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Aber von mir hast du es nicht, verstanden?" Also-"
+
+Owynna zuckt zusammen und niest so heftig, dass der Staub auf dem Boden aufgewirbelt wird. Sie blickt wieder zu dir hinauf und wischt sich die tränenden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du bist erweckt worden. Du teilst die Seele eines Wachhauptmanns aus Durgans Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Sie lacht hoch und schrill. "Du machst Witze. Wie kann das sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich habe dich erweckt. Ich habe Informationen über die Batterie gebraucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Lügen] "Es war wirklich seltsam! Du hast plötzlich angefangen, Unsinn zu reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich kann nicht erweckt worden sein! Das bedeutet ..." Sie macht einen Schritt zurück und wirft die Hände vor den Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Es hat auch gute Seiten, Owynna. Wir zwei könnten ein wenig Handel treiben. Zu unser beider Vorteil."
+
+Sie reckt den Hals und blickt sich in dem dunklen Raum um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Gregur schmunzelt. "Für dich, nicht von dir. Es ist an der Zeit, dass wir eine Gehaltserhöhung bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich weiß nicht. Haeferic ist ein rechter Geizkragen."
+
+Owynnas nervöses Stirnrunzeln ersetzt Gregurs selbstbewusstes Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Schweigend mit den Schultern zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Seine Seele hat sich in dir vollständig reinkarniert. Manchmal führt das zu einer Erweckung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Mach dir wegen Haeferic keine Sorgen. Ich habe etwas anderes im Sinn."
+
+Owynna fällt in eine tiefe Konzentration, während sie und Gregur sich stumm weiter beratschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Ihre Augen huschen zu dir. "Wir üben natürlich nur. Kümmere dich gar nicht um uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich sollte dir danken. Sie ist ein besserer Dieb als ich es je war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich habe schon viel gesehen, aber so etwas noch nie." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Hast du Interesse an einem Handel? Ich kann nämlich Handel eingehen." Sie neigt sich so nah zu dir, dass du ihre Worte mehr spürst als hörst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Was sagte ich noch? Über Hämmer und Feuer und ..." Ihre Augen werden groß und rund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Versuchen wegzugehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Sie packt dich am Arm. "Warte, bitte! Du musst mir sagen, was passiert ist! Ich fühle mich, als wäre ich nicht ... ich, irgendwie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Bei Ondras Gezeiten, ich werde ihn nicht mehr los."
+
+Ihr Körper wird steif, jeder Muskel spannt sich an. Sie steht dort, reglos vor Schock, ehe ein verschlagenes Leuchten ihre Augen erhellt. Das Leuchten wandert über ihre Schultern und ihren Oberkörper an ihr hinab, bis sie schließlich wieder spricht, ihre Stimme so glatt wie Öl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Ihre Stimme zittert. "Handel? "W-was willst du von mir?"</DefaultText>
+      <FemaleText>Ihre Stimme zittert. "Handel? "W-was willst du von mir?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Als du aus der Erinnerung auftauchst, wird dir klar, dass eine Erweckung für Owynna dauerhaft wäre.
+
+Es gibt vielleicht noch andere in der Stadt, die du stattdessen erwecken könntest.
+
+Du blickst auf und bemerkst, dass Owynna dich anstarrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ah, das Mädchen solltest du im Auge behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Wirf lieber einmal einen Blick in deine Taschen." Sie klopft ihre eigenen Taschen ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <FemaleText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die sie nicht gerne spricht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
+      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Sie blickt dich, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Aloth hebt die Hand zum Mund, sein Gesicht eine Fratze des Ensetzens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"[Player Name]! Ist das wirklich nötig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Lauter. Ich glaube, sie hat dich nicht gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Mach nur so weiter, dann hast du bald das ganze Dorf gegen uns aufgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Gut gemacht. Mit etwas Glück kommen ein paar neue Leute in die Stadt, um die Batterie zu sehen. Und bringen ihr Geld mit."
+
+Es klingt, als würde Gregur sprechen, aber es ist immer schwerer, die zwei auseinanderzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Owynna räuspert sich und blickt in die Halle, um zu sehen, ob jemand zusieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_grimoire_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser zerbrochene Holzstab ist fast unter dem Frost und Schnee vergraben. Für deine Sinne aber strahlt die Essenz darin wie ein Leuchtfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein zerbrochener Holzstab liegt halb vergraben im Schnee. Du spürst, dass noch immer Essenz um ihn herum versammelt ist, als wäre sie an Ort und Stelle gebunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den zerbrochenen Stab berühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du streckst deine Wächtersinne aus und spürst, wie diese treibende Seele nach vorne drängt, als wäre sie begierig, endlich gehört zu werden.
+
+Ein Gefühl der Angst und Dringlichkeit durchzieht dich. Hier, jenseits der von Zeit und Identität überbrückten Distanz, weißt du nur, dass dir die Zeit ausgeht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dieses Lager ist seit langem verlassen. Die Überreste sind mit einer Schicht aus Eis und Schnee überzogen. Der Stab scheint das Einzige von Interesse zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Glaubst du, du kannst mir entkommen, indem du einen Berg besteigst? Ich hätte dich auch über das Meer verfolgt, Dieb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Warte! Nein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Bitte, Meister, hab Gnade! Ich-ich habe das Zauberbuch sicher versteckt, ich kann dich zu ihm führen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Das Buch ist nichts. Wenn du etwas länger studiert hättest, hättest du das vielleicht gelernt. Aber keiner meiner Lehrlinge bestiehlt mich und überlebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ninagauth! Meister, ich-"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

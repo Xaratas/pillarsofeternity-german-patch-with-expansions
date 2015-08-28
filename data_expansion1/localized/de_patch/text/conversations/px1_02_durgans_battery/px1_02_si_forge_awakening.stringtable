@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_forge_awakening</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Am Fuß des Ofens befindet sich ein seichtes Becken. In den Augenhöhlen des Schädels selbst befinden sich goldene Ringe, die offenbar dazu dienen, eine Art Edelstein oder Instrument aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Eine Adrakugel in die linke Augenhöhle einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Esse untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Eine Adrakugel in die rechte Augenhöhle einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Steinscheibe in den Hohlraum unter dem Amboss einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Drachenschädel blickt mit hohlen Augen auf dich hinab. In beide Augenhöhlen sind goldene Ringe eingelassen. Beide sind leer. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das rechte, geformt aus einer strahlenden Adrakugel. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das linke, geformt aus einer strahlenden Adrakugel. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Drachenschädel sieht mit brennendem roten Blick auf dich hinab, seine Augen sind wiederhergestellt. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das rechte. Die andere Augenhöhle enthält nur einen Ring, der dort eingelassen ist. Er ist leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das linke. Die andere Augenhöhle enthält nur einen Ring, der dort eingelassen ist. Er ist leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du musst ein wenig klettern, um die Augenhöhle zu erreichen. Vorsichtig setzt du die Kugel ein. Sie passt genau hinein und du glaubst, eine schwache Energie zu spüren, als das Auge eingesetzt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du spürst den Schädel leicht vibrieren. Die Vibration wird stärker, bis der ganze Boden zu beben scheint, lose Pflastersteine, die in ihren Fugen klappern. Du springst von dem Ofen weg, um dich dem zu stellen, was da kommt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du hörst ein Luftrauschen und das dumpfe Schlagen eines Mechanismus tief im Inneren des Ofens. Die Luft um die Esse herum scheint wärmer zu werden, auch wenn der Ofen selbst dunkel und still bleibt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Luft um dich herum bewegt sich fast unmerklich - die Adrakugel, die du eingesetzt ist, erstrahlt plötzlich in einem orangenen Licht. Zunächst ist es blendend hell, dann wird es nach und nach schwächer, bis es sanft leuchtet wie ein Lagerfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du kletterst nach oben und platzierst die Adrakugel vorsichtig in dem goldenen Ring in der Mitte der Augenhöhle. Die Kugel passt perfekt hinein. Als sie einrastet, strömt eine seltsame Energie aus dem Auge des Drachen und durch dich hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Augen des Drachenschädels leuchten und die Kammer wird immer heißer. Du hörst das Ächzen und Stöhnen von Metall unter Druck. In der Luft liegt eine Schwere, als würde der Ofen selbst gebannt auf eine letzte Handlung warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Tief aus dem Ofen ertönt ein überraschendes metallisches Kreischen, als wäre ein verborgener Mechanismus zum Leben erwacht. Aus den Ventilen um dich herum steigen heiße, abgestandene Luft und das Leuchten von Feuer auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du legst die Steinscheibe in den Amboss. Sie passt perfekt in die Aushöhlung. Vor deinen Augen dreht die Scheibe sich von alleine, hierhin und dorthin, ehe sie schließlich einrastet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der beeindruckende Schädel des Esseofens thront über dir. Ab und zu steigt aus den Tiefen ein zischender Wind auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ein großer, steinerner Drachenschädel steht am einen Ende dieser runden Kammer stumm Wache. In seinem Schlund befindet sich ein Geflecht aus stählernen Gittern, Rohren und Luftdurchlässen. Dieses beeindruckende Gebilde diente offenbar als Ofen der Weißen Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dünner Rauch steigt aus beiden Kugeln auf und in den Tiefen des Ofens glaubst du, Maschinen rattern zu hören ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Heiße Luft strömt aus dem Maul des Steindrachen. Geschmolzenes Erz tropft aus dem Becken und dunkler, qualmender Rauch beginnt, zwischen den Zähnen des Schädels aufzusteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du hörst einen weiteren markerschütternden Schrei - aber nicht von einer Maschine. Um dich herum erhebt sich ein Chor aus heulenden, körperlosen Stimmen des Zorns und der Verzweiflung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Eine Adrakugel in die rechte Augenhöhle einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du kletterst nach oben und platzierst die Adrakugel vorsichtig in dem goldenen Ring in der Mitte der Augenhöhle. Die Kugel passt perfekt hinein. Als sie einrastet, strömt eine seltsame Energie aus dem Auge des Drachen und durch dich hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Eine Adrakugel in die linke Augenhöhle einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du musst ein wenig klettern, um die Augenhöhle zu erreichen. Vorsichtig setzt du die Kugel ein. Sie passt genau hinein und du glaubst, eine schwache Energie zu spüren, als das Auge eingesetzt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

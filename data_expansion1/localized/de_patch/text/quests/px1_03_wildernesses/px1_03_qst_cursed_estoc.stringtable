@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_03_wildernesses\px1_03_qst_cursed_estoc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Graue Schläfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde das "Wirbeln von Kupfer, Adra, Stein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Raste bei den "sonnigen Hügeln" aus dem nächsten Vers, wo "der Toten Gebeine" ruhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde die "Säulen", die im letzten Vers erwähnt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe in einem geheimnisvollen Steinsockel in der Nähe der Langsicht-Fälle einen Panzerbrecher gefunden. Als ich ihn herausgezogen hatte, erkannte ich, dass die Waffe verflucht und seelengebunden ist ... sie bindet sich an den, der sie berührt.
+
+Ein Gedicht ist in die Klinge geschrieben. Es beginnt so:
+
+"Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
+weil doch das Wissen seiner Tat sein Herze schwer belast'.
+Echte Reue aber löst die Fesseln, löst des Grames Seil,
+gutes Handeln rettet vorm Schafott ihn und vorm Beil."
+
+Die übrigen Verse könnten den Schlüssel enthalten, wie man den Fluch aufhebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ein neuer Vers ist erschienen, nachdem die Klinge befreit war:
+
+"Finde das Wirbeln von Kupfer, Adra, Stein.
+Erwecke deine Essenz, willst reumütig du sein."
+
+Ich glaube, das ist der erste Schritt, um den Fluch aufzuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die engwithanische Maschine hat die Waffe gestärkt und einen weiteren Vers auf der Klinge erscheinen lassen:
+
+"Auf sonnigem Hügel da ruhen der Toten Gebeine.
+Raste neben dem faulenden Fleisch und achte auf deine Träume."
+
+Das ist wohl wieder ein Hinweis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Wie in dem letzten Vers gesagt, bin ich zu einem Friedhof gereist - der Graue Schläfer ist dadurch noch stärker geworden.
+
+Als ich dort war, ist ein weiterer Vers auf der Klinge erschienen:
+
+"Finger der Welt, Adra stark und ganz und rein.
+Knie vor den Säulen, lass Ordnung in deiner Seele sein."
+
+Vielleicht bricht das den Fluch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Grauen Schläfer von dem Fluch befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

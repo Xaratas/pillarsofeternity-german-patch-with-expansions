@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_high_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Zahua flüstert dir zu.
+
+"Die Tätowierung auf seiner Hand, der zerbrochene Dolch. Sie sind Brüder der Rachsüchtigen Toten. Sie ziehen Stärke aus jedem Unrecht, das ihnen widerfährt. Und sie empfinden so ziemlich alles als schlimmes Unrecht.
+
+Er hält inne, bevor er hinzufügt: "Die meisten großen Orden halten sie für Arschlöcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

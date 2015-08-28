@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_ixamitl_stout</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein edler Tropfen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche im Keller der Gréfenrast nach Fennlan-Schnaps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Reyfald zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Frage Haeferic nach einem Heilmittel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde die Zutaten für ein Heilmittel für Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Haeferic zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gib Reyfald das Gegengift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Reyfald will unbedingt einmal Fennlan-Schnaps kosten - und den gibt es nur im persönlichen, streng bewachten Weinkeller von Haeferic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Reyfald aus der Fischerei von Stalwart sagt, dass Haeferic im Gasthaus einige teure Tropfen lagert, irgendwo im Keller versteckt. Reyfald hat mir eine Belohnung angeboten, wenn ich ihm eine bestimmte Flasche beschaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Flasche Fennlan-Schnaps auf einem Regal gefunden, das von einem Nest aus Fallen geschützt wurde. Reyfald wird sich freuen, die Flasche zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Schnapsflasche war eine Falle - Reyfald spürt sein Gesicht nicht mehr, was ihn in eine ziemliche Panik versetzt hat. Der Wirt der Gréfenrast weiß vielleicht, was in dem Trank enthalten war - und ob es ein Gegenmittel gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Haeferic sagte mir, dass er ein Gegenmittel für Reyfalds Zustand herstellen kann - wenn ich ihm Flussschilf und das Herz eines Eistrolls bringe. Er sagte, ich würde beides im Rotwald finden, im Westen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe die beiden Zutaten, die Haeferic braucht. Wenn ich sie zum Gasthaus bringe, kann er daraus das Gegenmittel für Reyfald herstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Haeferic hat Wort gehalten und hat mir einen Trank gegeben, der Reyfalds kleines Problem beheben soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einen Eistroll getötet und ihm das Herz herausgeschnitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe etwas Flussschilf gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quest gescheitert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Haeferic von Reyfalds Plan berichtet, seinen Schnaps zu stehlen. Er schien nicht sonderlich überrascht, bedankte sich aber für meine Ehrlichkeit und gab mir eine kleine Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Der Fennlan-Schnaps war eine Falle, die eine ganz bestimmte Person zum Ziel hatte. Ich habe entschieden, dass Reyfald seine Pein verdient. Soll er sich allein einen Ausweg überlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe das Gegenmittel von Haeferic beschafft. Reyfald ist wieder der Alte. Er war sehr erleichtert und hat mir zur Belohnung ein paar Handschuhe gegeben, die er selbst gefertigt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Haeferic hat mich mit einer Flasche Fennlan-Schnaps belohnt, nachdem ich die Tür zu Durgans Batterie geöffnet habe. Ich habe beschlossen, sie Reyfald zu geben, der sich sehr bedankt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

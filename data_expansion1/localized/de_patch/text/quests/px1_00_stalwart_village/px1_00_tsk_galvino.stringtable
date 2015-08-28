@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_tsk_galvino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Buße des Fischers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durchsuche nachts die Fischerei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Galvino zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Galvino hegt einen Groll gegen Grynde, den Oberfischer von Stalwart. Er will, dass ich Gryndes Rieselschwammsucht öffentlich mache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Galvino glaubt, dass Grynde irgendwo in der Fischerei seinen Vorrat an Rieselschwamm versteckt hat.
+
+Er hat mir empfohlen, das Gebäude nachts zu untersuchen, nachdem alle Fischer nach Hause gegangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mich um Grynde gekümmert. Nun muss ich Galvino sagen, wie die Dinge ausgegangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Grynde getötet, bevor ich etwas Belastendes finden konnte. Galvino war enttäuscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Grynde hat mich angegriffen und ich habe ihn getötet. Galvino war zufrieden, auch wenn es ihm lieber gewesen wäre, Grynde wäre öffentlich blamiert worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Galvino war hocherfreut, als er hörte, dass Grynde schmachvoll aus der Stadt geflohen ist. Er hat mich entsprechend belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Grynde hat mich überzeugt, ihn nicht zu verraten. Galvino wird enttäuscht sein, aber ich denke, ich habe die richtige Wahl getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Grynde hat sich bedankt, dass ich ihm von Galvinos Intrige berichtet habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Grynde hat mich für mein Schweigen bezahlt. Galvino wird enttäuscht sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich bin Grynde begegnet, dem Oberfischer von Stalwart. Er ist ein knurriger Geselle, aber er scheint stolz auf seine Rolle zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

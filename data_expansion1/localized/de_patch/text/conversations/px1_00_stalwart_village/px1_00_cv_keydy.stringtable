@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_keydy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh, du bist es! Schön, dass du hier bist. Ich hatte gehofft, dir noch ordentlich danken zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hallo. Kann ich etwas für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Sie haben mir erzählt, was geschehen ist. Mögen die Götter dich segnen. Ich verdanke dir mein Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vielleicht kannst du mir helfen. Ich bin auf der Suche nach Fennlan-Schnaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was ist denn so besonders an diesem Ring?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich weiß, es war töricht, es zu versuchen. Aber ich wollte unbedingt den Ring meiner Familie retten. Es tut mir leid, dass ich dich in Gefahr gebracht habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich weiß, es war töricht, hineinzurennen. Aber dieser Ring ist alles, was ich von meiner Familie habe. Ich habe einfach nicht nachgedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du hast noch immer die Erinnerung an sie. Ein Ring ist dein Leben nicht wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Lustig, Reyfald hat kürzlich nach dem Gleichen gefragt. Das Zeug scheint wirklich beliebt zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Er hat nostalgischen Wert. Als mein Großvater sich hier niederließ, ließ er einen Ring fertigen - aus dem ersten Erz, das er abgebaut hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ach, gar nicht übel. Fenwe lässt mich bei ihr wohnen, bis ich wieder auf den Beinen bin. Alle sind sehr nett zu mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich weiß." Sie seufzt. "Aber es war, als würde ich sie alle ein zweites Mal verlieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ach, sei nicht so - eine Flasche vermisst er doch sicher nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich habe dir das Leben gerettet. Du schuldest mir einen Gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Dann sag es ihm nicht. Hilf mir, eine Flasche aus dem Keller zu beschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich würde keine zwei Schritte weit kommen. Er verdächtigt mich ständig, Süßigkeiten zu stehlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Haeferic hat welchen, aber er sagt, das Fennlan-Zeug sei nicht zu verkaufen. Und er hat den Keller mit tausend Fallen versehen, damit sich keiner hineinschleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Es war schwer, die Überreste des Hauses zu sehen. Aber Reyfald sagt, er lässt für mich eine Hütte bauen, sobald sie das Holz dafür haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Es war schwer, die Überreste des Hauses zu sehen. Ehrlich gesagt überlege ich, bei einem Vetter in Stammheim einzuziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tut mir leid. Wenn jemand einen guten Tropfen verdient, dann du. Aber ich würde ihn nicht überzeugen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"N-naja, schon, aber ... Aber das ist Diebstahl." 
+
+Keydy beißt sich auf die Lippe und tritt nervös auf der Stelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wir haben immer noch ein gutes Angebot an Speisen und Getränken, wenn du etwas anderes willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh, da kennst du Haeferic schlecht. Er zählt sie jeden Abend." 
+
+Keydy beißt sich auf die Lippe und tritt nervös auf der Stelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Weißt du .. Haeferic hat mir gezeigt, wie eine der Fallen funktioniert - damit ich nicht zu nah herankomme, wenn ich Vorräte holen gehe. Ich glaube, ich kann sie entschärfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Gib mir etwas Zeit. Und bitte lass dich nicht erwischen. Ich weiß nicht, wie ich die Sache erklären könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich habe es geschafft! Ich meine, diese Sache, über die du gesprochen hast, die ist jetzt vielleicht einfacher." 
+
+Keydy lächelt strahlend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich muss mich hinunterschleichen, wenn die Köchin nicht hinsieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Er stand für seinen Neuanfang. Er hat ihn seiner Tochter vererbt und meine Mutter wiederum mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich habe es schon gehört! Es gibt wirklich nichts, was du nicht kannst, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Das wird ein echter Segen für Stalwart sein. Man sieht es in den Gesichtern der Leute - wir haben wieder Hoffnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

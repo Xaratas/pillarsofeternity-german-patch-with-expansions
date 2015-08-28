@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_defala</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>79</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Auf diesen Straßen sieht man selten jemanden ... und wenn, dann nur Jäger, Holzfäller oder Schmuggler."
+
+Sie hebt eine Augenbraue und blickt dich leicht lächelnd an. Sie strahlt eine selbstsichere Anmut aus. An ihrer Hüfte baumelt ein auffälliges Halfter.
+
+Hinter ihr steht ein Wagen voller Vorräte. Eiserne Fesseln hängen an einem Ende herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie grüßt. "Du solltest vorsichtig sein. In dieser Gegend gibt es Oger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Defala, nicht wahr? Du bist die Sklaventreiberin, die hinter Ailef her ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was davon bist du – Jägerin, Holzfällerin oder Schmugglerin"?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich muss weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ihre Miene verdüstert sich. "Und ich dachte, wir könnten einfach ein wenig freundlichere Plaudereien austauschen. Aber ja, ich bin hinter ihm her."
+
+Ihre Hand sinkt herab zu ihrer Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Er wird für seine Verbrechen in Readceras bezahlen. Und du wirst mir nicht in die Quere kommen. Und wenn ich dich daran hindern muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich jage einen Flüchtling aus Readceras. Einen Vertragsknecht und gesuchten Verbrecher."
+
+Das Lächeln verschwindet aus ihrem Gesicht wie die Flamme einer Kerze, die vom Wind gelöscht wird. Sie mustert dich aus humorlosen Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Möglicherweise bin ich so jemandem begegnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"'Vertragsknecht'? Du meinst Sklave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Angreifen] "Ich erinnere mich an das Gewicht meiner Ketten. Du wirst nie wieder jemanden fesseln, dafür sorge ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Probier's doch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Niemand verdient ein Leben als Sklave. Ich sorge dafür, dass du nie wieder jemanden fesselst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Moment, seine Verbrechen? Welche Verbrechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich habe nichts gegen dich oder diese eingefrorenen Dorfbewohner hier, aber dieser Orlaner ist ein gesuchter Mann. Ich habe den Auftrag, ihn zurückzubringen."
+
+Ihre Fingerspitzen baumeln wenige Zentimeter über dem Knauf ihrer Waffe. Ihre Gefährten sind verstummt und beobachten dich aufmerksam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Außer, dass er seinen Vertrag gebrochen hat? Er hat den dreizehnjährigen Sohn seines Herren getötet. Kurz darauf ist er geflohen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Weshalb genau wird er gesucht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Angreifen] "Der Ränkeschmieder lässt grüßen, Sklaventreiberin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Sie lächelt zynisch. "In Readceras ist die Sklaverei erlaubt. Aber dieser Bursche - nennen wir ihn Ailef - hat seine Dienste verkauft. Was ihn zu einem Vertragsknecht macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Das freut mich. Wenn du diesem Burschen also begegnest, schickst du ihn hoffentlich zu mir. Aber kehre ihm bloß nicht den Rücken zu."
+
+Sie klopft gegen einen Geldbeutel, der von ihrem Halfter baumelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Den Teil hat er dir wohl nicht erzählt, was? Er hat sich freiwillig in die Vertragsknechtschaft begeben. Er hatte wohl Pech beim Kartenspiel gehabt, soweit ich weiß."
+
+Sie winkt ihre Gefährten zurück, ihre Hand bleibt jedoch auf ihrer Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Auf ihn!" Sie zieht ihre Pistole.</DefaultText>
+      <FemaleText>"Auf sie!" Sie zieht ihre Pistole.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Davon hat Ailef nichts gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Er sollte für sein Verbrechen bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Er hat mich angelogen! Dafür schlitze ich ihn auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Den Wunsch nach Freiheit kann man niemandem verübeln. Ich stehe auf Ailefs Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Spar es dir, Sklaventreiberin. Ich würde dir niemals helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Verfluchter Kultist! Tötet ihn schnell und betet, dass er nicht das Bildnis ist!"
+
+Defala und ihre Gefährten stürzen sich panisch auf dich.</DefaultText>
+      <FemaleText>"Verfluchte Kultistin! Tötet sie schnell und betet, dass sie nicht das Bildnis ist!"
+
+Defala und ihre Gefährten stürzen sich panisch auf dich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Willst du mir helfen, ihn gerecht zu bestrafen? Lauf zurück und sag ihm, du hättest dich um uns gekümmert. Wenn er sich aus der Stadt schleicht, warten wir auf ihn."
+
+Defalas Sklavenjäger nicken eifrig und schwingen ihre Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ein starker Bursche wie du würde sich gut im Holzlager machen. Ich kenne einige an der Grenze, die gut zahlen würden."
+
+Defala und ihre Gefährten stürzen auf dich zu.</DefaultText>
+      <FemaleText>"Eine starke Frau wie du würde sich gut im Holzlager machen. Ich kenne einige an der Grenze, die gut zahlen würden."
+
+Defala und ihre Gefährten stürzen auf dich zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Es gibt jede Menge Kapitäne, die gutes Geld für Galeerensklaven zahlen. Wenn du brav mitkommst, sage ich ihnen nicht, dass du einem Kindesmörder hilfst."
+
+Defala und ihre Gefährten stürzen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ganz ruhig. Tot bringt er mir kein Geld." Sie hält eine Hand hoch.</DefaultText>
+      <FemaleText>"Ganz ruhig. Tot bringt sie mir kein Geld." Sie hält eine Hand hoch.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nein. Ich halte mich da raus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"In Ordnung. Ich komme wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sie seufzt und die anderen ziehen ihre Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Beeil dich. Nicht, dass er nervös wird und irgendwelche Dummheiten macht.
+
+"Außerdem wollen wir wieder in wärmere Gefilde zurückkehren." Sie schaudert leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Der Zahltag kommt hier draußen nicht näher, und das Wetter wird auch nicht wärmer. Ich hoffe, du hast keine Zweifel bekommen."
+
+Ihre Hände ruhen fest auf ihren Hüften. Sie könnte blitzschnell ihre Waffe ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich habe es mir anders überlegt. Ailef bleibt in Freiheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich gehe dann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Weißt du, wenn das mit der Abenteurerei nichts wird, du hättest eine Zukunft als Sklavenjäger."
+
+Sie nickt Ailef zu, dessen Hände und Knöchel in Ketten liegen.</DefaultText>
+      <FemaleText>"Weißt du, wenn das mit der Abenteurerei nichts wird, du hättest eine Zukunft als Sklavenjägerin."
+
+Sie nickt Ailef zu, dessen Hände und Knöchel in Ketten liegen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Du hast mich verkauft! Ich wusste es. Ich habe nie-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Hier ist die versprochene Belohnung. Eine Freude, mit dir Geschäfte zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich genieße zwar die Aufmerksamkeit, aber ich glaube langsam, du lenkst mich nur ab, während sich meine Beute aus der Stadt schleicht."
+
+Sie zieht ihre Waffe. Ihre Gefährten wenden sich zu dir, Hände an den Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Komisch, ich war mir sicher, dass ich dir gesagt habe, du sollst Ailef lebendig zurückschicken. Und jetzt höre ich, dass du in der Taverne dieses armen Zwergs kurzen Prozess mit ihm gemacht hast."
+
+Sie verschränkt mit finsterem Blick die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Für Leichen werde ich nicht bezahlt. Hoffentlich hast du genug Geld, um meinen Verlust wettzumachen."
+
+Sie zieht ihre Pistole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ihr hohes, klares Lachen hallt über die schneebedeckte Ebene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Man könnte wohl sagen, dass ich Jägerin bin."
+
+Ihre Finger trommeln gegen das verzierte Leder ihres Halfters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Aber nun glaube ich, du hast dich einmal selbst am anderen Ende der Kette befunden." Defala mustert dich von oben bis unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nun, diese Unterscheidung schert im Dyrwald kaum jemanden. Aber wie du vielleicht bemerkt hast, befinden wir uns auch kaum im Dyrwald."
+
+Ihr verschlagenes Grinsen kehrt zurück, kaum mehr als ein Zusammenkneifen der Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Wie dem auch sei - du hast nichts mit meiner Angelegenheit zu tun. Nach so langer Zeit in diesem Geschäft habe ich nur einfach einen Blick dafür."
+
+Sie hebt beschwichtigend die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nimm's nicht persönlich. Du scheinst nett zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Sein Herr bezahlt gut für seine Rückkehr, und du wirst deinen gerechten Anteil erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tut mir leid, aber so funktioniert das nicht. Ich kann nicht zulassen, dass du Ailef warnst."
+
+Sie zieht ihre Pistole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ein Jammer, dass wir nicht ins Geschäft kommen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sie zuckt mit den Achseln. "Ich hatte schon so ein Gefühl. Nur kann ich nicht zulassen, dass du ihn warnst.
+
+"Aber keine Sorge, ich habe eine andere Verwendung für dich."
+
+Sie zieht ihre Pistole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ein kluger Kopf wie du könnte in einer Schreibstube arbeiten. Schreiber sind meist gnädige Herren, du hast also Glück."
+
+Defala und ihre Gefährten stürzen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Du hast schnelle Hände. Ich kenne einen Schreiner, der dich brauchen könnte."
+
+Defala und ihre Gefährten stürzen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Die Vorlas-Ernte ist harte Arbeit. Lange Tage ohne Schutz vor den Elementen. Aber du siehst aus, als könntest du das verkraften."
+
+Defala und ihre Gefährten stürzen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vor allem hat er den Sohn seines Herren getötet. Einen dreizehnjährigen Jungen. Er hat ihn bei der Flucht getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Einer von Defalas Männern schlägt ihn. Er verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich habe Ailef getroffen, den Orlaner, nach dem du suchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Angreifen] "Was für ein Pech."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ailef ist jetzt mein Gefangener. Er wird seine Strafe auf Caed Nua absitzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich wurde nicht bezahlt, um ihn im Dyrwald verrotten zu lassen. Aber um ihn kümmere ich mich bald."
+
+Sie zieht ihre Pistole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Angreifen] "Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Er gehört ins Gefängnis, nicht in einen Sklavenkerker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Das sieht sein Herr anders."
+
+Sie enthalftert ihre Pistole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Versteckt sich vermutlich feige in dieser toten Stadt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ein junges Leben zu beenden ... gleich aus welchem Grund ... ist unverzeihlich. Er darf nicht in Freiheit leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Würdest du das?" Ihr Kopf dreht sich mit einem grellen Quietschen zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Das heißt wohl 'alles davon'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Teufelin von Caroc dreht sich weg und blickt in die Bäume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tja. So viel zum unauffälligen Vorgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Zahua nickt dir zustimmend zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Zahua schließt die Augen. Seine Gesichtsmuskeln spannen sich an, lösen sich und spannen sich erneut an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Er ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

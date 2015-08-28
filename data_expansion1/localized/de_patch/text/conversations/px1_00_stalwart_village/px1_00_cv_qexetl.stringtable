@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_qexetl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein junger Mann in robustem Leder blickt dich an. Die Falten in seinem Gesicht, das trotz der wenigen Sonne in der Region braungebrannt ist, zucken leicht, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als du hinaustrittst, schlägt die schwere Holztür des Tempels hinter dir zu. Du hörst, wie sie jemand von innen verbarrikadiert.
+
+Es klingt, als würden die Priester eine hitzige Diskussion beginnen. Du vermutest, dass es um dich geht. Die Tür ist aber zu dick, um daran zu lauschen. Vielleicht gibt es eine andere Stelle, wo du mehr Erfolg hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"... fasse es nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"... konntest du nur?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"... deine Schuld!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"... müssen schnell verschwinden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du auf den gefrorenen Teich zugehst, erscheint eine Gestalt im Nebel. Sie kniet sich neben ein Loch im Eis, hebt eine große Kiste auf und wirft sie ohne zu zögern in das Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Gestalt blickt sich um. Du siehst ein Gesicht, dass du schon einmal gesehen hast. Qexetl, einer von Lafdas Akolythen, zieht sich eine Kapuze über den Kopf und wirft sich einen Lederbeutel über die Schulter.
+
+Ohne sich umzusehen geht er in Richtung Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich habe nichts für dich. Sprich mit Lafda, wenn du unbedingt musst." Er wendet sich mit gerümpfter Nase ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Lass mich in Frieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Cah llah! Cah lla!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

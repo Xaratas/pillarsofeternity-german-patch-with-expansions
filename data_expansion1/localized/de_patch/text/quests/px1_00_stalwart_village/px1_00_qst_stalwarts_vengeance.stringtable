@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_stalwarts_vengeance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine große Ladung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Steige den Berg zu Durgans Batterie hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die Lagufaeth und Fearas Artefakte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Feara in der Gréfenrast zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Feara, eine reisende Skald und Expeditionsteilnehmerin, wurde in der Nähe von Durgans Batterie von Lagufaeth angegriffen. Sie hat ihre Gefährten und ihre Ladung von Artefakten verloren. Sie möchte erstere rächen und letztere zurückhaben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Feara hat mir berichtet, dass ihre Gruppe in der Nähe von Durgans Batterie überfallen wurde, wo sie Artefakte gesammelt haben. Ich muss mich dort nach den Überresten ihrer Expedition umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Feara sagt, sie hätte ihre Artefakte - und ihre Gefährten - verloren, als sie von Lagufaeth überfallen wurde. Wenn ich diese Kreaturen finde, weiß ich, dass ihre Ware in der Nähe ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Fearas Ladung gefunden. Sie hat mir eine Belohnung dafür versprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Bei näherer Betrachtung habe ich festgestellt, dass Fearas "Ladung" aus Svef besteht. Ich könnte sie zur Rede stellen. Oder ich könnte sie bei Renengild verpfeifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quest gescheitert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Feara ihre Pakete zurückgebracht und wir haben unseren Handel abgeschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Feara das Svef gegeben - gegen einen Anteil am Gewinn. Sie sagte, sie würde bei ihrem Lieferanten ein gutes Wort für mich einlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Feara das Svef gegeben - gegen mehr Geld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Feara überzeugt, den Handel mit Svef aufzugeben. Sie sitzt jetzt in Stalwart fest, worüber sie nicht sehr glücklich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe Feara getötet, nachdem ich herausgefunden habe, dass sie Svef geschmuggelt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe Feara an Renengild verpfiffen. Renengild war mir dankbar, dass ich geholfen habe, den Schmugglern in den Bergen das Handwerk zu legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

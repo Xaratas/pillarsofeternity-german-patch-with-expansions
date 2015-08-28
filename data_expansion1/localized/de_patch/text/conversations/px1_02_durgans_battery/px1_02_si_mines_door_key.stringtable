@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_mines_door_key</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du dich der Tür näherst, bemerkst du eine runde Vertiefung im Türrahmen. Die Leiste um die Vertiefung herum ist filigran verziert. Eine Reihe fremdartiger Symbole umgibt die obere Kante des Kreises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Steinscheibe in den Sockel legen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Sockel untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Scheibe scheint zunächst nicht zu passen - bis du sie in einer bestimmten Weise ausrichtest. Du hörst ein sanftes Klicken, als sie einrastet. Zunächst scheint jedoch nichts weiter zu passieren. 
+
+Auf der Scheibe selbst zeigt eine pfeilförmige Steinerhebung nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Scheibe gegen den Uhrzeigersinn drehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Scheibe im Uhrzeigersinn drehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Steinscheibe ist weiterhin im Türrahmen verankert. Eine pfeilförmige Erhebung zeigt nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Vertiefung ist etwa drei Fingerbreit tief. Einige kleine Steinfragmente ragen aus der Wand heraus. Einige Teile scheinen sich zu drehen, unabhängig voneinander. Sie haben jedoch für sich allein keine offensichtliche Wirkung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Süden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Zunächst scheint nichts zu geschehen - als du ein klein wenig Druck auf die Scheibe ausübst, versinkt sie aber plötzlich in der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Als du dich wegdrehst, hörst du ein schwaches Knarzen von Stein. Die Scheibe zeigt wieder nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Gegen die Scheibe drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Scheibe dreht sich aus deiner Hand. Sie beschreibt einen kompletten Kreis und steigt dann ein kleines Stück nach oben, so dass sie wieder eben mit den Ringen ist.
+
+Als sie zur Ruhe kommt, zeigt der Pfeil nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du hörst einen lauten Schlag und das Rasseln von Ketten und die Tür öffnet sich. Der Weg ist frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Osten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Westen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Süden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Osten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Scheibe lässt sich leicht drehen, du hörst jedoch ein seltsames Rattern hinter der Wand.
+
+Die Scheibe rastet mit einem leichten Klicken ein. Der Pfeil zeigt nach Westen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du drückst gegen die Scheibe, als der Pfeil nach Süden zeigt.
+
+Du spürst einen befriedigenden dumpfen Schlag und bemerkst, dass die Scheibe etwa einen Zentimeter in die Vertiefung gerutscht ist.
+
+Die Tür ist noch immer versperrt, aber offenbar war das ein Schritt in die richtige Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du drückst gegen die Scheibe, als der Pfeil nach Westen zeigt.
+
+Du spürst erneut einen Schlag und stellst fest, dass die Scheibe noch tiefer in die Steinringe eingesunken ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du drückst gegen die Scheibe, als er Pfeil nach Osten zeigt.
+
+Nach einem weiteren dumpfen Schlag sinkt die Scheibe noch ein kleines Stückchen in die Steinvertiefung. Die Veränderung ist kaum zu sehen, scheint aber einen Fortschritt darzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du drückst gegen die Scheibe, als der Pfeil nach Norden zeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

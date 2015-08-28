@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_harmke</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wie geht es?" Der Elfenmann tritt auf die Lichtung und bleibt plötzlich regungslos stehen. Er starrt die Teufelin von Caroc an. Für einen Elfen ist er hochgewachsen. Sein wettergegerbtes Gesicht wird von strähnigen, fettigen Haaren eingerahmt.
+
+Seine Begleiter blicken mit offenem Mund auf den bronzenen Golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Warum so nervös?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wir retten euer jämmerliches Dorf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sie ist meine Verbündete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir erkunden nur die Gegend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wir haben nach euch gesucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sie ist eine Mörderin! Wir wollen keinen Ärger. Wir machen nur unsere Arbeit."
+
+Schweißperlen treten ihm auf die Stirn, trotz der kühlen Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Er ist es. Harmke. Ich erinnere mich an das schwache Kinn und die schlackernden Knie."
+
+Sie hält inne und starrt reglos auf die Gestalten zwischen den Bäumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Schluss! Was siehst du, [Player Name]? Ist das der Mann, der uns verbrannt hat?"
+
+Die Teufelin wippt auf ihren Füßen. Ihr ganzer Körper bewegt sich um die Achse ihrer Knöchel. Obwohl sie mit dir spricht, ist ihre Aufmerksamkeit - ein konzentrierter Speer der Essenz - auf Harmke gerichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Harmke, erinnerst du dich an das Dorf Kaltmorg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sein Ausdruck verdüstert sich. "Wer tut das nicht. Es hat die Readceraner in den Dyrwald gelassen. Aber was tut das zur Sache?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Harmkes Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er tritt einen Schritt zurück, doch dein Bewusstsein bohrt sich durch seine zitternde Haut und den schwachen Widerstand seiner Furcht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Aurochs' Schatten. Was tut dieses böse Ding hier?" Harmke schluckt, ein Kloß steckt ihm im Hals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich? Du meinst doch nicht-" Sein Gesicht wird fahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Wir wären dir sehr dankbar, wenn du uns in Frieden lassen würdest ... und dieses Ding mitnimmst." Er blickt die Teufelin mit einer Mischung aus blanker Furcht und Abscheu an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du siehst Erinnerungen. Schneebedeckte Wälder, von umgestürzten Tannen und Kiefern unterteilt. Tage, deren Verstreichen du am steten Schwingen deiner Axt misst.
+
+Es gibt auch andere Momente. Erinnerungen, die auflodern, wie das einladende Feuer eines heimischen Herds. Du siehst Kinder, schlaksig und hochgewachsen wie du, aber noch voll der wilden Energie der Jugend.
+
+Gemeinsam streut ihr Winterblumenblüten auf ein Grab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du dringst tiefer in Harmkes Seele vor.
+
+Die Jahre laufen rückwärts. Eine Fackel in deiner linken Hand taucht dein Gesicht und deine Schulter in Hitze. Überall um dich herum stehen andere Männer und Frauen mit Fackeln. Die Bergluft stinkt vor Rauch und Schweiß.
+
+Und sie ist dick vor Zorn, dem Zorn aller Anwesenden. Seit Tagen kocht dein Blut mit diesem Zorn. Er erschöpft dich und belebt dich gleichermaßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ihr steht am Rand dieses Dorfs. Kaltmorg. Der Morgen dämmert erst in einigen Stunden, doch das Dorf beginnt, durch den Lärm zu erwachen. Kerzenlicht wird hinter frostbeschlagenen Scheiben entzündet. Verängstigte Gesichter blicken durch das Glas zu euch hinaus.
+
+Zweifel steigen in dir auf.
+
+Da schlägt plötzlich eine Tür zu. Ein Dorfbewohner kommt durch die Straßen gerannt, seine Schuhe wirbeln den Schnee auf. Sein weißes Gesicht und seine fahlen Haare lassen ihn fast aussehen wie einen Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Reihe der Fackelträger regt sich etwas, als er näher kommt. Er wird schneller, aber niemand bewegt sich auf ihn zu. Du stellst dir vor, wie er die Reihe durchbricht und damit auch den Albtraum, der euch alle hierher geführt hat.
+
+Du stellst dir vor, wie du in deinem Bett aufwachst, wie die Hitze deiner Fackel sich in die Wärme deiner neben dir schlafenden Frau verwandelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Stattdessen erreicht der Dorfbewohner die Reihe der Fackelträger, nur einen Steinwurf weit von dir entfernt. Eine Frau tritt aus der Reihe hervor und rammt ihren Dolch in seinen Hals.
+
+Der Rest deiner Kameraden jubelt. Zorn, Erinnerungen und blutrünstiger Triumph kochen in dir hoch. Ihr alle seid aus einem Grund hier. Ihr seid hier, um die Verräter aus Kaltmorg zu bestrafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die nächsten paar Stunden sind in Farben getränkt, die kräftiger sind als das Leben selbst. Du richtest deine Fackel gegen alles, was steht, und dein Schwert gegen jeden, der läuft. Es ist, als würde Magran selbst dir ins Ohr flüstern und deine Hand leiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dein Zorn ist durch die Erschöpfung fast abgekühlt, als du ein Haus am Rand der Stadt erblickst - eines der wenigen Gebäude, die noch nicht niedergebrannt wurden. Es ist flankiert von knorrigen Fichten und die Tür ist gelb bemalt. 
+
+Gelb. Die Blüte des Sonnenaufgangs. Die Haarfarbe deines Sohnes. 
+
+Die Farbe der Feigheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Plötzlich rennt jemand von hinten in dich hinein. Es ist ein Mann. Du erkennst ihn von der Reise nach Kaltmorg, aber du erinnerst dich nicht an seinen Namen. Er knurrt dich an, rasend vor blindem Zorn. Dir wird klar, dass er dich für einen der Dorfbewohner hält. 
+
+Du schlägst das Fenster ein und schleuderst deine Fackel hinein. Der andere Mann hat sich abgewandt. Du glaubst, in dem Haus ein Kind kreischen zu hören. Aber der Lärm um dich herum ist so laut, dass du dir nicht sicher sein kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Harmke erschaudert, als du dich aus seinen Erinnerungen zurückziehst. Seine Augen weiten sich vor Schuld und Furcht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Spuck es aus, [Player Name]! Was hast du gesehen?" Ihre Füße stehen reglos im Schnee, doch ihre Glieder zucken und baumeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Welch eine Verschwendung."
+
+Sie sieht zu, wie Harmke davonläuft und -stolpert. Als er verschwunden ist, dreht sie sich wieder um. Ihre Gelenke klappern wie leere Töpfe und Pfannen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Nur ein Holzfäller! Du kannst jeden in Stalwart fragen, sie bezeugen es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Worauf wartest du?! Sieh nach, was in der Seele des Bastards geschrieben steht!" Ihre Essenz schäumt und kocht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Er hat dein Haus niedergebrannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Er ist nicht für das Schicksal deiner Familie verantwortlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Es ist nicht so einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Erspar mir diesen Haufen dampfende Pferdescheiße! Du hast in die erbärmlichen Abgründe seiner Seele geblickt! Sag mir, was du gesehen hast."
+
+Sie macht einen Schritt auf dich zu, seltsam unbeholfen. Hitzeflecken blitzen an ihrem ganzen Körper auf. Der Schnee um ihre Füße herum schmilzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Sie starrt Harmke an. Du hörst nur einen surrenden Mechanismus in ihrer Kehle, aber Harmke neigt sich näher zu ihr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Aber ich erinnere mich an ihn! Wie kannst du dir so sicher sein?" Ihre Fäuste knallen auf ihre Knie herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Ein wilder, unmenschlicher Schrei hallt aus der bizarren Maschinerie ihrer Kehle hervor. Er lässt Harmke und seine Gefährten in die Knie gehen und in Panik aufschreien.
+
+Zahnräder quietschen und knarren, als sie auf sie zustürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich habe in seine Seele geblickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Erst bittest du mich um Hilfe, jetzt zweifelst du an mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Als sie von Harmke zurück zu dir blickt, entweicht ihrer Kehle ein verzweifeltes Stöhnen. Fragen steigen in ihrer Essenz als Blasen auf und platzen.
+
+Schließlich verschwinden die Hitzeflecken von ihrer Brustplatte und die Spannung entweicht aus ihrem Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wir wollen keinen Ärger. Wir machen nur unsere Arbeit."
+
+Schweißperlen treten ihm auf die Stirn, trotz der kühlen Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Bist du wahnsinnig? Mit dieser Mörderin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Sagt der willenlose Hund, der ein Dorf niedergebrannt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Random Node 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du solltest sie unter Kontrolle bringen, [Player Name]." Er reißt die Augen entsetzt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Verflucht, das wird schmerzhaft!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ein schwaches Kinn und wacklige Knie. Auf allzu viele Leute wird diese Beschreibung nicht passen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich habe einen Pfeil bereit. Für den, der ihn haben will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Geduld, Aimica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Nun ja, die beeindruckendste Jagdtrophäe wird er nicht unbedingt abgeben, aber wir müssen die Knie ja nicht an die Wand hängen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich will Antworten, [Player Name]! Wenn er nicht aufhört zu winseln, reiße ich ihm persönlich den Kopf ab!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Bank Node 91</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Bringen wir es hinter uns. Sie kocht gleich über."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Du wusstest, dass es wenig Aussicht auf Erfolg hat. Du musst loslassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Das Gedächtnis ist flexibel. Ungewollte Erinnerungen verdrängen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich muss dieses Holz nach Stalwart bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"W-was hast du gesagt?" Sein Mund zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Wie hat es sich angefühlt? Die Fackel in deiner Hand, die Klinge? Wie haben sie sich angefühlt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

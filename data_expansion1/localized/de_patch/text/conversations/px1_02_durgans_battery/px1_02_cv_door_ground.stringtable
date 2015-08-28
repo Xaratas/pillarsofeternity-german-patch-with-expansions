@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_door_ground</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du dich der Tür näherst, wabert eine Welle Essenz durch die Luft. Die uralten Steine um dich herum knarzen und knacken und die Stimme einer Frau klingt aus der Halle wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Keinen Schritt weiter, Aptapo. Du bist kein Pargrun. Gewiss bist du einer dieser Händler und willst mit Zoltun sprechen."
+
+Es folgt eine Pause, in der die zornige Essenz der Frau sich wie eine Gewitterwolke auf der anderen Seite der Tür zusammenballt. Der gesamte Raum knarzt unter dem Druck ihrer Präsenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Keinen Schritt weiter, [Player Race]. Gewiss bist du einer dieser Händler und willst mit Zoltun sprechen."
+
+Es folgt eine Pause, in der die zornige Essenz der Frau sich wie eine Gewitterwolke auf der anderen Seite der Tür zusammenballt. Der gesamte Raum knarzt unter dem Druck ihrer Präsenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich sehe mich nur um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich komme wegen eurer legendären Waffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Unser illustrer Münzmeister gestattet dir vielleicht, unsere Waffenkammer zu plündern, aber ich gehe mit Pack wie euch anders um."
+
+Ihre Stimme ist scharf und laut, wie das Knallen einer Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bin gekommen, um die Geheimnisse der Weißen Esse zu lernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eine Gruppe, die sich der Bleierne Schlüssel nennt, sucht hier nach etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ein Beben rollt durch das Gebäude. Der Schutt um dich herum poltert und rasselt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Geister rühren sich. Sie blicken sich zitternd um. Ihre Augen weiten sich und leuchten, als sie an dir hängenbleiben, als würden sie dich zum ersten Mal sehen. 
+
+Fast ebenso schnell blicken sie wieder fort und scheinen dich wieder zu vergessen. Doch nun wirken sie wachsam. Misstrauisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Unser illustrer Münzmeister gestattet dir vielleicht, unsere Waffenkammer zu plündern, aber ich gehe mit Pack wie euch anders um."
+
+Ihre Stimme ist scharf und laut, wie das Knallen einer Tür. Als ihre Worte durch den Raum hallen, zucken die Geister zusammen und blicken sich unruhig um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich werde unseren besten Stahl in deiner Leiche stecken lassen. Reicht dir das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Lügen] "Zoltun hat mich eingeladen. Ich treffe ihn unten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Lügen] "Exandru hat mich eingeladen. Ich treffe ihn unten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Geister drehen ihre Köpfe und fixieren dich mit ihren Blicken, kreischend und heulend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Geister rühren sich. Sie blicken sich zitternd um. Ihre Augen weiten sich und leuchten, als sie an dir hängenbleiben, als würden sie dich zum ersten Mal sehen. 
+
+Fast ebenso schnell blicken sie wieder fort und scheinen dich wieder zu vergessen. Doch nun wirken sie wachsam. Misstrauisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Ein Beben rollt durch die Halle. Das Ächzen und Knarzen der Steine hallt um dich herum wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Und wozu genau hat er dich eingeladen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lügen] "Zum Handel treiben. Er hat Waffen angeboten und ich habe ihn gut bezahlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Lügen] "Zum Beten. Ich bin gekommen, um mit ihm zu Abydon zu beten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Lügen] "Zum Lernen. Ich bin gekommen, um zu lernen, wie Durganstahl gefertigt wird - auf dass ich das Geheimnis mit meinem Volk teile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dann richte Zoltun meine Grüße aus. Aber wisse, dass ich dich im Auge behalte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Brüchige Lügen zerbrechen leicht. Zumindest wird deine Leiche Zoltun und Exandru ihre Narretei vor Augen führen."
+
+Es ertönt ein Zischen, ein Schaben und das Klicken, wie auf der anderen Seite der Tür etwas einrastet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Also dann geh deines Weges. Aber wisse, dass ich dich im Auge behalte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Mit Zoltun? Der Mann würde sich seine feinen Roben niemals besudeln, indem er sich niederkniet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Lügen] "Um uns zu ergeben. Ich komme aus dem Osten und mein Volk erzittert vor eurer Macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Die Worte eines Spions. Niemand würde zu ihm kommen, um einen Waffenstillstand zu erbitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Selbst er würde das niemals erlauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Nach wem du auch suchen magst, ich habe ihn nicht gesehen. Und an mir gelangt niemand vorbei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Verlasse unsere Hallen. Gehe zurück in das Land, aus dem du kamst."
+
+Ein Lufthauch seufzt unter der Tür hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Gut. Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nein. Du lässt mich passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Eure Hallen sind voller Leichen. Ich muss wissen, wie ihr gestorben seid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Lügen] "Dieser Bleierne Schlüssel kauft Waffen von Zoltun. Er hat sie hineingeschmuggelt. Er glaubte, du würdest es nicht herausfinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Die Streitigkeiten der Pargrun sind nicht deine Angelegenheit." Ihr Ton ist so kalt wie die eisigen Hallen um dich herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Das sieht ihm ähnlich, diesem hinterhältigen Wiesel! Und du willst diesen Bleiernen Schlüssel aufhalten, ja?"
+
+Ein Lufthauch streift deine Füße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Du darfst passieren. Aber lass es mich nicht bereuen. Ich behalte dich im Auge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Eure Fundamente wurden von Abydon selbst gesegnet. Welchen Schaden könnte ich je anrichten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Du klingst wie Exandru. Dann bist du zumindest kein Freund von Zoltun."
+
+Ein Lufthauch streift deine Füße.</DefaultText>
+      <FemaleText>"Du klingst wie Exandru. Dann bist du zumindest keine Freundin von Zoltun."
+
+Ein Lufthauch streift deine Füße.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich behalte dich im Auge."
+
+Es ertönt ein Zischen, ein Schaben und das Klicken, wie auf der anderen Seite der Tür etwas einrastet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Geister beginnen wieder, murmelnd umherzustreifen. Sie blicken aber weiter immer wieder zur Tür, misstrauisch und wachsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich bin Marunn, stolze Pargrun und Waffenwächterin von Durgans Batterie. Und du wirst nun meine Fragen beantworten." Stein knarrt und bricht durch den Klang ihrer Stimme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Du vergeudest deinen Atem mit leeren Drohungen."
+
+Es ertönt ein Zischen, ein Schaben und das Klicken, wie auf der anderen Seite der Tür etwas einrastet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich lasse dich durch Durganstahl zerschneiden! Dann werden wir ja sehen, was die anderen Kommandanten zu sagen haben."
+
+Die Geister drehen ihre Köpfe und fixieren dich mit ihren Blicken, kreischend und heulend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Kehre lieber um, ehe ich dir zeige, wie eine Waffenwächterin mit Eindringlingen umgeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Nun sollen unser Münzmeister und unser Oberkurator sehen, wozu Durganstahl in Wahrheit bestimmt ist!"
+
+Es ertönt ein Zischen, ein Schaben und das Klicken, wie auf der anderen Seite der Tür etwas einrastet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Dann sorge ich dafür, dass deine Leiche ihnen zeigt, wozu Durganstahl in Wahrheit bestimmt ist."
+
+Es ertönt ein Zischen, ein Schaben und das Klicken, wie auf der anderen Seite der Tür etwas einrastet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Es gefiel mir besser, als ich noch dachte, die spukenden Geister wären nur Ammenmärchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"In Wahrheit hat sie Streit mit Zoltun ... aber wenn sie kann, lässt sie es an dir aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Es reicht nicht, dass wir uns hier mit wütenden Geistern herumschlagen müssen. Jetzt müssen wir auch noch mit einer paranoiden Tür diskutieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Wer ist Zoltun? Noch eine Tür?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sieh nicht mich an, Wächter. Manipulation ist ihr Werkzeug, nicht meines."</DefaultText>
+      <FemaleText>"Sieh nicht mich an, Wächterin. Manipulation ist ihr Werkzeug, nicht meines."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Eigentlich sind wir keine Kaufleute. Eher Plünderer. Wegelagerer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hmmh. Ich glaube nicht, dass die Spukfestung unsere edlen Waren kaufen möchte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich kann dir einen Rat geben, wenn du willst. Das ist nicht meine erste sprechende Tür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich würde ja das Schloss knacken, aber das würde sie wohl bemerken."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

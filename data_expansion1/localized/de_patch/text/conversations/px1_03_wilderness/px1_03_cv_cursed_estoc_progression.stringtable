@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_cursed_estoc_progression</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Panzerbrecher scheint zu summen, als er sich der engwithanischen Maschine nähert. Plötzlich bildet sich ein Bogen zwischen der Stahlklinge und dem Adra-Kern des uralten Geräts.
+
+Die Stimmen in dem Panzerbrecher werden leiser und die Waffe fühlt sich mächtiger an.
+
+Neue Inschriften erscheinen auf der Klinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der lehmige Boden macht bei jedem Schritt ein schmatzendes Geräusch und etwas Unsichtbares scheint aus ihm aufzusteigen.
+
+Du entdeckst Essenz, schwach und kaum wahrnehmbar, die aus dem Friedhof aufschwebt. Der Graue Schläfer scheint sich daran zu laben. Die fremdartigen Stimmen werden noch ein wenig leiser.
+
+Ein weiterer Vers glänzt auf dem Stahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Adra-Säulen strahlen eine tiefe und mächtige Kraft aus. Sie hallt in dem Grauen Schläfer wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Niederknien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Als du dich niederkniest, erreichen die Stimmen im Grauen Schläfer eine tiefe, friedliche Harmonie. Ein letzter Schwall an Energie erfüllt die Klinge, dann verstummen die Stimmen.
+
+Du spürst den Fluch zerbrechen wie eine verfaulte Kordel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

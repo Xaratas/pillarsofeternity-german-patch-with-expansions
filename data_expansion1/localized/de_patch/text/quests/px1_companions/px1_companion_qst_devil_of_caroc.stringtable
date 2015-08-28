@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_companions\px1_companion_qst_devil_of_caroc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine ist entwischt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Harmke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Behalte die Teufelin von Caroc im Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin in der Weißmark einer seltsamen neuen Verbündeten begegnet - einem Golem mit der Seele einer Mörderin. Kurz, nachdem ich ihr und ihrem "Meister" begegnet bin, hat sie mich gebeten, mich begleiten zu dürfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Teufelin von Caroc will einen Holzfäller namens Harmke finden - und töten. Sie glaubt, dass er unmittelbar für den Tod ihrer Familie verantwortlich ist. Sie will es mit absoluter Gewissheit erfahren.
+
+Sie glaubt, dass ich als Wächter es herausfinden könnte.
+
+Zunächst müssen wir ihn finden. Irgendjemand in Stalwart kann uns bestimmt sagen, wo er ist.</DefaultText>
+      <FemaleText>Die Teufelin von Caroc will einen Holzfäller namens Harmke finden - und töten. Sie glaubt, dass er unmittelbar für den Tod ihrer Familie verantwortlich ist. Sie will es mit absoluter Gewissheit erfahren.
+
+Sie glaubt, dass ich als Wächterin es herausfinden könnte.
+
+Zunächst müssen wir ihn finden. Irgendjemand in Stalwart kann uns bestimmt sagen, wo er ist.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Teufelin von Caroc hat mich gebeten, sie zu begleiten ... nachdem ich erwähnt hatte, dass ich ein Wächter bin und in das Dorf zurückkehre, in dem sie gefangengenommen wurde.
+
+Ich weiß nicht, worauf sie es abgesehen hat, aber ich werde sie genau beobachten.</DefaultText>
+      <FemaleText>Die Teufelin von Caroc hat mich gebeten, sie zu begleiten ... nachdem ich erwähnt hatte, dass ich eine Wächterin bin und in das Dorf zurückkehre, in dem sie gefangengenommen wurde.
+
+Ich weiß nicht, worauf sie es abgesehen hat, aber ich werde sie genau beobachten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Für den Moment habe ich entschieden, ihr nicht zu helfen. Wenn wir diesem Harmke aber begegnen, wartet sie vielleicht nicht auf meine Hilfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe der Teufelin versprochen, ihr bei der Suche nach Harmke zu helfen. Ich habe aber nichts darüber gesagt, was wir mit ihm tun, falls wir ihn finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Sie hat geleugnet, jemals jemanden in Stalwart getötet zu haben, aber ich weiß nicht, ob ich ihr glauben kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Jemand hat mir gesagt, dass Harmke auf einer Lichtung im Rotwald arbeitet, westlich der Stadt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe in Harmkes Seele geblickt und habe gesehen, wie er das Haus der Teufelin von Caroc in Brand setzt. Ich habe ihr davon berichtet und wir haben ihn getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Harmke ist gestorben, ehe ich seine Seele lesen konnte. Die Teufelin von Caroc wird nie erfahren, ob er für den Tod ihrer Familie verantwortlich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe in Harmkes Seele geblickt und sein Zögern gesehen, das Haus der Teufelin von Caroc in Brand zu setzen. Ich habe entschieden, dass er letztlich keine Verantwortung trägt - und habe ihr das gesagt. Sie hat ihn gehen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Die Teufelin von Caroc will Rache an einem der Männer üben, die ihr Dorf zerstört haben. Sie glaubt, dass er sich irgendwo in der Nähe von Stalwart aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

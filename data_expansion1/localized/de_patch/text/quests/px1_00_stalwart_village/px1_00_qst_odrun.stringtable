@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_odrun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Handel mit Reue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Lafda, der Ondra-Priesterin in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Gabenbringer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Durchsuche das Wasser im Rotwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beschaffe Okruns Medaillon zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre nach Stalwart zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Finde den Gabenbringer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Finde den Gabenbringer oder durchsuche das Wasser des Rotwalds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Beschaffe Okruns Erbstück zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Kehre nach Stalwart zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Gib Okrun das Medaillon zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Gib Okrun das Medaillon zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Okrun hat bei den Angriffen auf Stalwart alles verloren. Bevor er das Dorf hinter sich lässt, will der Zwerg ein Medaillon zurückholen, das er Lafda anvertraut hat, der Priesterin des Ondra-Tempels, damit sie es vernichtet. Er bereut dies inzwischen zutiefst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Okrun hat sein Medaillon einer Priesterin im Ondra-Tempel gegeben. Sie sollte wissen, wo die Gabenbringer ihre Opfergaben an die Fürstin der Klagen ablegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Lafda hat gesagt, dass nur der Gabenbringer Ixtli weiß, wo sich Okruns Medaillon befindet. Leider ist Ixtli noch nicht von seinem Ausflug in die Nähe von Durgans Batterie zurückgekehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe in der Nähe von Durgans Batterie eine Gruppe von Banditen gefunden. Sie hatten die Besitztümer eines Gabenbringers namens Ixtli gestohlen. In seinem Notizbuch befindet sich eine Karte, die ein wichtiges Gewässer im Rotwald beschreibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Als ich an dem Teich im Rotwald ankam, sah ich Qexetl, einen Akolythen des Ondra-Tempels, eilig einen großen Gegenstand in das Wasser werfen. Wenn hier die Opfergaben dargebracht werden, müssten Okruns Erbstücke am Grund des Teichs liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe mehrere leere Kisten geborgen, die Ondras Zeichen tragen. Das Medaillon, das ich suche, war in keiner davon - sie waren nur mit Steinen gefüllt. Mir scheint, die Ondra-Priesterin Lafda hat einiges zu erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe eine private Unterhaltung zwischen Lafda und ihren Akolythen belauscht. Offenbar ist ein Gabenbringer namens Ixtli in die Nähe von Durgans Batterie aufgebrochen. Vielleicht weiß dieser Gabenbringer, wo Okruns Erbstücke entsorgt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe eine private Unterhaltung zwischen Lafda und ihren Akolythen belauscht. Offenbar sorgen sie sich um ihren Gabenbringer, Ixtli, der in die Nähe von Durgans Batterie aufgebrochen ist. Die Priester sprachen auch von etwas Wichtigem, was im Rotwald versteckt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Als ich an dem Teich im Rotwald ankam, fand ich ein Loch in das Eis geschlagen vor. Wenn hier die Opfergaben dargebracht werden, müssten Okruns Erbstücke am Grund des Teichs liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe eine leere Kiste geborgen, die das Zeichen Ondras trägt. Das Medaillon war nicht darin. Ich sollte Okrun davon berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe Okruns Erbstücke im Ondra-Tempel gefunden. Wie sich zeigt, gaben Lafda und ihre Bande nur vor, Priester der Göttin zu sein. Sie nutzten die Verzweiflung der Dorfbewohner aus und behielten ihre Opfergaben an Ondra für sich. Okrun wird glücklich sein, das Medaillon seiner Schwester zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe Okruns Erbstücke in einer Kiste gefunden, die ich aus den eisigen Wassern eines kleinen Sees im Rotwald geborgen habe. Der Zwerg wird glücklich sein, dass er sein Medaillon zurückbekommt und Stalwart endlich verlassen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Okrun hat bestätigt, dass es unüblich ist, Opfergaben zurückzubekommen, wenn sie Ondra erst einmal dargeboten wurden. Die Anhänger Ondras haben sich geweigert, ihm zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nachdem ich mit Lafda gesprochen habe, habe ich einen Aufruhr im Ondra-Tempel belauscht. Vielleicht lässt sich aus den Unterhaltungen der Priesterin mit ihren Akolythen noch mehr erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ixtlis Notizbuch enthält unterstrichene Notizen:
+
+"Notoc Tlocotl, Formalitäten zuerst, versteht sich, und sie kommt hoch."
+
+"Cualla Micha, sie ist ein braves Mädchen und hört das gerne, bevor sie hinabschwimmt."
+
+"Xitlac Cualla, man muss sichergehen, dass sie den Fisch für eine gut erledigte Aufgabe mag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Auf dem zugefrorenen Teich schien ein junger Lagufaeth auf etwas zu warten. Er scheint an die Anwesenheit von Gestandenen gewohnt zu sein und hat versucht, mit mir zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Offenbar sind Lafda und ihre Akolythen in Wahrheit eine Diebesbande. Wenn sie Okruns Erbstücke gestohlen haben, dann wird der Zwerg Rache wollen, keine friedliche Lösung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Lafda hat sich geweigert, mir zu sagen, wo Okruns Erbstücke sind. Vielleicht überzeuge ich sie noch, aber bis dahin sollte ich anderswo nach Antworten suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Nachdem ich mit Lafda gesprochen habe, habe ich einen Aufruhr im Ondra-Tempel belauscht. Vielleicht lässt sich aus den Unterhaltungen der Priesterin mit ihren Akolythen noch mehr erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Lafda hat mir einen Handel angeboten. Wenn ich ihr Geheimnis für mich behalte, bekomme ich einen Anteil von ihrer Diebesbeute. Lafda hat vorgeschlagen, dass ich vielleicht einige Bürger von Stalwart überzeugen kann, noch weitere "Opfergaben" darzubieten, um meinen Gewinn zu erhöhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Lafda hat zugegeben, dass ihre Bande sich als Anhänger Ondras ausgegeben hat, um die Bürger von Stalwart zu bestehlen. Ich habe die Diebe laufen lassen. Im Gegenzug hat Lafda Okruns Erbstücke zurückgelassen. Der Zwerg wird glücklich sein, sie wiederzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Auf dem zugefrorenen Teich schien ein junger Lagufaeth auf etwas zu warten. Er scheint an die Anwesenheit von Gestandenen gewohnt zu sein und hat versucht, mit mir zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Das Medaillon seiner Schwester war nicht das Einzige, was die Priester an sich genommen haben, um es wegzuwerfen. Okrun hat ihnen auch seine alte Rüstung gegeben. Er scheint aber nur daran interessiert zu sein, das Medaillon zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich habe Lafda nach Ixtli gefragt. Die Priesterin hat bestätigt, dass der Gabenbringer sich in der Nähe von Durgans Batterie befinden müsste - und dass er der Letzte war, der Okruns Erbstücke in seinem Besitz hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich bin zu dem gefrorenen Teich im Rotwald zurückgekehrt und habe gesehen, wie einer von Lafdas Akolythen, Qexetl, einen großen Gegenstand in das Wasser geworfen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Lafda wegen der leeren Kisten, die ich im Rotwald gefunden habe, zur Rede gestellt. Nachdem ihr Betrug aufgeflogen war, haben Lafda und ihre Diebe versucht, mich zu töten, um zu fliehen. Ich habe Okrun gesagt, dass seine Erbstücke verloren sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Lafda wegen der leeren Kisten, die ich im Rotwald gefunden habe, zur Rede gestellt. Nachdem ihr Betrug aufgeflogen war, habe ich sie aus Stalwart fliehen lassen. Ich habe Okrun gesagt, dass seine Erbstücke verloren sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nachdem ich Okruns Erbstücke in dem Teich im Rotwald gefunden habe, habe ich sie dem Zwerg wiedergegeben. Er hat mir seine alte, aber ganz hervorragende Rüstung als Belohnung dafür gegeben, dass ich das Medaillon seiner Schwester gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Lafda und ihre "Priester" waren in Wahrheit Diebe. Ich habe ihren Betrug aufgedeckt und sie aus Stalwart gejagt. Okrun war erleichtert, seine Erbstücke zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Lafda und ihre "Priester" waren in Wahrheit Diebe. Nachdem ich ihren Betrug aufgedeckt hatte, kam es zu einem Kampf. Okrun war erleichtert, seine Erbstücke zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Lafda und ihre "Priester" waren in Wahrheit Diebe. Nachdem ich ihren Betrug aufgedeckt hatte, habe ich beschlossen, das Geheimnis für mich zu behalten und mich am Gewinn beteiligen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Okrun und ich haben die falschen Priester von Ondra zur Rede gestellt. Leider ist Okrun in dem darauf folgenden Kampf gefallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Weiße Esse steht dir jetzt zur Verfügung. Sie besitzt die einzigartige Fähigkeit, Durgan-Eisenbarren zu veredeln. Es sind mehrere Eisenbarren nötig, um einen einzigen veredelten Barren herzustellen.
+
+Nach der Veredelung können diese Barren jederzeit in Verzauberungsrezepten verwendet werden, um Waffen, Schilde und Rüstungen mit Durganstahl zu verbessern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

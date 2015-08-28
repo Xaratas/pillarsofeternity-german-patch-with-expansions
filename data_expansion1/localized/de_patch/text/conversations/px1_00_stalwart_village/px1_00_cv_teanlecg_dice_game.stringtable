@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_teanlecg_dice_game</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"So, fangen wir an. Münzen auf den Tisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die 50p zahlen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen] "Ich habe es mir anders überlegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du darfst anfangen, weil du neu bist." Teanleycg lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Würfeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du würfelst ... 
+[DozensGame_LastPlayerRollNums]
+[DozensGame_LastPlayerRollDesc]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du würfelst ... 
+[DozensGame_LastPlayerRollNums]
+[DozensGame_LastPlayerRollDesc]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du bist dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Teanleycg würfelt ...
+[DozensGame_LastOpponentRollNums]
+[DozensGame_LastOpponentRollDesc]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Teanleycg würfelt ...
+[DozensGame_LastOpponentRollNums]
+[DozensGame_LastOpponentRollDesc]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Verdammt. [DozensGame_PlayerFinalDesc] für dich, [DozensGame_OpponentFinalDesc] für mich. Die Runde geht an dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hah. [DozensGame_OpponentFinalDesc] für mich, [DozensGame_PlayerFinalDesc] für dich. Ich habe gewonnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Das war wohl ein Unentschieden. Spielen wir nochmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Bereit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Jetzt zählt's ... du fängst an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Bisher ist es ausgeglichen ... Also los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Teanleycg streckt die Hand aus, um seine Würfel aufzuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Weggehen] "Ich gebe auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Teanleycg zuckt grinsend mit den Schultern.
+
+"Ein Jammer. Komm zurück, wenn es dir draußen zu kalt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tja, ich habe kein Geld mir."
+
+Teanleycg verzieht das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich hätte es wissen müssen. Du siehst schon aus wie ein Glückspilz. Also nimm schon dein Vermögen und geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Teanleycg hebt grummelnd seine Würfel auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Und ich habe gewonnen. Nimm's nicht zu schwer, du kannst es jederzeit erneut versuchen."
+
+Teanleycg zieht seinen Gewinn zu sich heran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ah. Tja, ich bin hier, wenn du deine Meinung doch änderst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ha! Gut gemacht. Du hast gewonnen. Hier ist dein Gewinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bild dir nur nichts darauf ein. Nächstes Mal besiege ich dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

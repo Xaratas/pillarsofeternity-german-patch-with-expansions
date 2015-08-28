@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_minecart_shenanigans_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine leere Lore steht am Eingang dieses Tunnels und wartet darauf, mit Erz beladen zu werden. Obwohl einige der umliegenden Tunnel in schlechtem Zustand sind, scheinen diese Lore und die Schienen, auf denen sie steht, intakt zu sein. An den Gleisen befindet sich ein Hebel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Diese leere Lore steht auf den Schienen, die in einen dunklen Minentunnel führen. Daneben befindet sich ein Hebel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[In die Lore sehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Einsteigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Lore ist leer, staubig und verrostet. Sie ist groß genug, dass eine Gruppe von Gestandenen hineinpassen könnte, wenn auch etwas ungemütlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du steigst in die Lore. Der Hebel daneben ist gerade noch zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Lore ist leer, staubig und verrostet. Sie ist groß genug, dass du bequem hineinpasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du steigst mit deinen Gefährten in die Lore, ein umständliches Gewirr aus Ellbogen und Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Den Hebel ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Aus der Lore steigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Mit einem lauten metallenen Kreischen bewegt sich der Hebel. Die Lore zittert heftig und fängt dann an, langsam die Schienen entlangzurollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Lore bewegt sich bergab und nimmt schnell an Fahrt auf. Beim nächsten Anstieg wird klar, dass die Schienen irgendwie verzaubert sind - die Lore verliert nicht an Geschwindigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Nach einer scharfen Kurve, näherst du dich schnell einer Weiche. Ein Gleis führt nach links, ein zweites nach oben und nach rechts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Weiterfahren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Dich schnell umsehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Allen sagen, sie sollen sich nach rechts lehnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Lore rattert geräuschvoll über die Schienen und folgt dem Tunnel, der sich mal nach links, mal nach rechts biegt. Du fährst an glitzernden Erzadern vorbei, ab und zu passiert ihr ausrangierte Bergbauausrüstung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du bemerkst einen weiteren Hebel neben den Schienen. Die Lore saust darauf hinzu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Alle lehnen sich nach rechts und die Lore hebt sich knarzend auf zwei Räder. Es rumpelt heftig und schmerzvoll, als die Lore auf das rechte Gleis wechselt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Im Vorbeifahren den Hebel ergreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Den Hebel in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du stellst deine Geschicklichkeit unter Beweis, indem du dich aus der Lore hängst und den heranrauschenden Hebel packst. Durch den wuchtigen Aufprall wirst du jedoch fast aus der Lore geschleudert ... und deine Schulter schmerzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du hängst dich aus der Lore, streckst die Hände nach dem Hebel aus ... und fällst fast kopfüber auf die Gleise. Du ziehst dich schnell wieder in die Lore und der Hebel ist schon bald nicht mehr zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Nach einer schwindelerregenden Reihe von Kurven wird die Lore langsamer und bleibt schließlich am Eingang zu einer neuen Höhle stehen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Deinen Eispickel als Haken verwenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du lehnst dich über den Rand der Lore und hältst den Eispickel hinaus. Der Pickel bleibt am Hebel hängen und legt ihn um - der Eispickel wird dir dabei aber aus der Hand gerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Mit einem lauten metallenen Kreischen bewegt sich der Hebel. Die Lore zittert heftig und fängt dann an, langsam die Schienen entlangzurollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Schließlich wird die Lore langsamer. Als du dich einer beleuchteten Höhle näherst, erkennst du, dass du wieder am Ausgangspunkt deiner Fahrt angekommen bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Lore wird langsamer, als die Weiche sich umstellt, und rattert dann das rechte Gleis hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Versuchen, dich nach rechts zu lehnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Es ertönt ein quietschendes Geräusch und dann stellt sich die Weiche vor dir um, gerade noch rechtzeitig - die Lore rattert auf das richtige Gleis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du hängst dich aus der Lore, streckst die Hände nach dem Hebel aus ... und fällst fast kopfüber auf die Gleise. Du wirst schnell wieder in die Lore gezogen und der Hebel ist schon bald nicht mehr zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Lore kracht wieder auf den Boden und rattert dann weiter das Gleis entlang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du wirfst dich gegen die Seite der Lore, aber sie ist zu schwer, um sie zu bewegen. Die Lore setzt ihren Weg fort und der Hebel verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Deine Gefährten werfen sich gegen die Seite der Lore, aber das schwere Gefährt wackelt nur kurz und lässt sich nicht bewegen. Die Lore setzt ihren Weg fort und der Hebel verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Im Vorbeifahren den Hebel ergreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Wer soll nach dem Hebel greifen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Slot 0] befehlen, es zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Slot 1] befehlen, es zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 2] befehlen, es zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 3] befehlen, es zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 4] befehlen, es zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 5] befehlen, es zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Es selber tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Slot 0] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 0] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 0] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Slot 1] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 1] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Slot 1] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 1] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 2] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 0] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Slot 2] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Slot 3] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 3] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Slot 3] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 3] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Slot 4] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 4] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Slot 4] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 4] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Slot 5] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 5] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Slot 5] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 5] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

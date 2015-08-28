@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_01_ogre_camp\px1_01_si_chute</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein breiter Schacht schlängelt sich tief in die Erde. Der Rand ist umgeben von zerstreutem Abfall und halb angenagten Kadavern. An den Wänden darunter blitzen kleine Lichtflecken auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Einen Enterhaken sichern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Das Seil hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trotz der Verlockungen möglichen Reichtums setzt du deinen Weg den Tunnel hinab fort. Die offene Höhle verengt sich wieder zu einem schrägen Tunnel.
+
+Licht von unten taucht das Eis in bläuliche Farbtöne. Du bist in der Nähe des Ausgangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Wände des Tunnels verengen sich um dich herum, als du dich dem Ausgang näherst. Die Tritte werden wieder glatt und rar gesät.
+
+[SkillCheck 0] klammert sich mit Mühe und Not an das Seil, renkt sich aber die Schulter aus, kurz bevor der Tunnel auf eine offene Höhle trifft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du machst deinen Haken an einem dicken, stabil aussehenden Stalagmiten fest und reißt prüfend an dem Seil.
+
+Es hält - und du wirfst das lose Ende in die Dunkelheit des Tunnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Versuchen, freihändig den Tunnel hinabzuklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du findest genügend Risse und Mulden in dem Eis, um ohne Zwischenfall nach unten zu klettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du setzt deinen Weg den Tunnel hinab fort. Die offene Höhle verengt sich wieder zu einem schrägen Tunnel.
+
+Licht von unten taucht das Eis in bläuliche Farbtöne. Du bist in der Nähe des Ausgangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Tunnel verschwindet aber in der Dunkelheit. Als du in die Tiefe blickst, siehst du nichts als zertrümmerte Knochen und im Eis festgefrorenen Schlamm.
+
+Ein fauliger Geruch modernden Fleischs steigt aus dem Tunnel auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Deine Umgebung untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Das Eis des Tunnels ist glatt und rutschig. Es bietet keinen Halt. Die schwachen Echos aus den Tiefen lassen vermuten, dass der Weg nach unten weit ist.
+
+Du bemerkst jedoch einen dicken Stalagmiten in der Nähe. Er wirkt stabil genug, um ein Seil und einen Enterhaken zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du ergreifst das Seil und stemmst deine Füße so gut es geht gegen das rutschige Eis. Du lässt dich langsam hinab, nach Kerben und Löchern in dem marmorierten und von Schmutz durchzogenen Eis suchend.
+
+Nach mehreren Minuten verschwindet der Eingang des Tunnels über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Abstieg stellt deine Geduld auf eine härtere Probe als deine Stärke. Du musst sorgfältig nach Tritten suchen.
+
+Bis der Tunnel sich schließlich zu einer großen Höhle öffnet. Du lässt dich langsam hinab, deine halb tauben Finger weiter um das Seil geklammert. Du siehst noch immer den Boden nicht.
+
+Als du dich umsiehst, springt dir aber ein Lichtflackern ins Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Wieder zur Öffnung des Tunnels hinaufklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[An dem Seil schwingen, um nach der Kante zu greifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Das Seil hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du entscheidest, das Seil wieder hinaufzuklettern.
+
+Licht von oben beleuchtet deinen Aufstieg und du findest sichere Tritte und Griffe.
+
+Wenige Minuten später bist du wieder in der Höhle und hast festen Boden unter den Füßen. Der Tunnel liegt hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du verlagerst dein Gesicht von Seite zu Seite, um Schwung zu holen. Das Seil knarzt unter der höheren Belastung, aber die Kante ist fast in Reichweite.
+
+Du schwingst noch einmal.
+
+Als deine Finger die Kante streifen, hallt ein lautes Krachen in dem Tunnel wider und das Seil gibt unter deinem Gewicht nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du siehst eine kleine Kante an der Wand neben dir. Auf dem Felsvorsprung liegen Skelettteile. Zwischen den Knochen blitzt etwas auf.
+
+Die Kante des Vorsprungs ist gerade so nah, dass du dich vielleicht zu ihr schwingen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Noch einmal versuchen, die Kante zu erreichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du bist überzeugt, dass das Seil gut befestigt ist. Du bringst dich mit deinen Beinen wieder in Schwung.
+
+Du wirst immer schneller und bald ist der Felsvorsprung in Reichweite.
+
+Schließlich ergreifst du die Kante und ziehst dich hinauf, neben den Skeletthaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Trotz des Risikos entscheidest du, es erneut zu versuchen. Du bringst dich mit deinen Beinen wieder in Schwung. 
+
+Du wirst immer schneller und bereitest dich darauf vor, nach dem Felsvorsprung zu greifen.
+
+Ein metallisches Klappern ertönt über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Das Seil vorsichtig hinaufklettern, um es wieder zu befestigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du beschließt, den Haken an einem neuen Punkt zu befestigen.
+
+Von hier aus siehst du nicht, wie sicher das Seil ist. Du vermutest aber, dass eine plötzliche Gewichtsverlagerung das Seil lösen und dich in die Tiefe stürzen lassen könnte.
+
+Wen schickst du los, um das Seil hinaufzuklettern und den Enterhaken zu sichern?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Selbst hinaufklettern, um den Haken zu sichern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Etwas anderes tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber deine flinken Hände und geschickten Bewegungen halten es ruhig.
+
+Nach gewaltiger Anstrengung erreichst du das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und dein Enterhaken hängt gerade noch an den Überresten.
+
+Du bewegst den Haken vorsichtig nach unten und klemmst ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug. Du bemühst ich, es ruhig zu halten, aber du spürst es schaukeln und schwingen, während du hektisch nach oben kletterst.
+
+Plötzlich rutscht das Seil oben aus seiner Befestigung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 0] beginnt, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber die flinken Hände und geschickten Bewegungen von [Slot 0] halten es ruhig.
+
+Nach gewaltiger Anstrengung erreicht [Slot 0] das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und der Enterhaken hängt gerade noch an den Überresten.
+
+[Slot 0] bewegt den Haken vorsichtig nach unten und klemmt ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Der Haken löst sich von seinem Anker über dir.
+
+Du wirst schneller. Der Wind saust an deinen Ohren vorbei und ein Schrei wird aus deiner Kehle gerissen.
+
+Du knallst gegen spitze Felsen und hartes Eis. Du krachst den Tunnel hinab und die Welt um dich herum dreht sich. Mit einem letzten Krachen spuckt der Tunnel dich in eine offene Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du siehst zu, wie [Slot 0] das Seil hinaufklettert.
+
+Es knarzt und ächzt mit jedem Zug. [Slot 0] versucht, das Seil ruhig zu halten, aber es schwingt wild hin und her.
+
+Plötzlich rutscht das Seil ab. Du hörst [Slot 0] fluchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1] beginnt, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber die flinken Hände und geschickten Bewegungen von [Slot 1] halten es ruhig.
+
+Nach gewaltiger Anstrengung erreicht [Slot 1] das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und der Enterhaken hängt gerade noch an den Überresten.
+
+[Slot 1] bewegt den Haken vorsichtig nach unten und klemmt ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du siehst zu, wie [Slot 1] das Seil hinaufklettert.
+
+Es knarzt und ächzt mit jedem Zug. [Slot 1] versucht, das Seil ruhig zu halten, aber es schwingt wild hin und her.
+
+Plötzlich rutscht das Seil ab. Du hörst [Slot 1] fluchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Slot 2] beginnt, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber die flinken Hände und geschickten Bewegungen von [Slot 2] halten es ruhig.
+
+Nach gewaltiger Anstrengung erreicht [Slot 2] das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und der Enterhaken hängt gerade noch an den Überresten.
+
+[Slot 2] bewegt den Haken vorsichtig nach unten und klemmt ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du siehst zu, wie [Slot 2] das Seil hinaufklettert.
+
+Es knarzt und ächzt mit jedem Zug. [Slot 2] versucht, das Seil ruhig zu halten, aber es schwingt wild hin und her.
+
+Plötzlich rutscht das Seil ab. Du hörst [Slot 2] fluchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 3] beginnt, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber die flinken Hände und geschickten Bewegungen von [Slot 3] halten es ruhig.
+
+Nach gewaltiger Anstrengung erreicht [Slot 3] das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und der Enterhaken hängt gerade noch an den Überresten.
+
+[Slot 3] bewegt den Haken vorsichtig nach unten und klemmt ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du siehst zu, wie [Slot 3] das Seil hinaufklettert.
+
+Es knarzt und ächzt mit jedem Zug. [Slot 3] versucht, das Seil ruhig zu halten, aber es schwingt wild hin und her.
+
+Plötzlich rutscht das Seil ab. Du hörst [Slot 3] fluchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 4] beginnt, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber die flinken Hände und geschickten Bewegungen von [Slot 4] halten es ruhig.
+
+Nach gewaltiger Anstrengung erreicht [Slot 4] das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und der Enterhaken hängt gerade noch an den Überresten.
+
+[Slot 4] bewegt den Haken vorsichtig nach unten und klemmt ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du siehst zu, wie [Slot 4] das Seil hinaufklettert.
+
+Es knarzt und ächzt mit jedem Zug. [Slot 4] versucht, das Seil ruhig zu halten, aber es schwingt wild hin und her.
+
+Plötzlich rutscht das Seil ab. Du hörst [Slot 4] fluchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Slot 5] beginnt, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber die flinken Hände und geschickten Bewegungen von [Slot 5] halten es ruhig.
+
+Nach gewaltiger Anstrengung erreicht [Slot 5] das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Spitze des Stalagmiten ist abgebrochen und der Enterhaken hängt gerade noch an den Überresten.
+
+[Slot 5] bewegt den Haken vorsichtig nach unten und klemmt ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du siehst zu, wie [Slot 5] das Seil hinaufklettert.
+
+Es knarzt und ächzt mit jedem Zug. [Slot 5] versucht, das Seil ruhig zu halten, aber es schwingt wild hin und her.
+
+Plötzlich rutscht das Seil ab. Du hörst [Slot 5] fluchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du weißt nicht, wie lange das Seil noch hält. Sicherheitshalber entscheidest du, alle aus dem Tunnel zu holen.
+
+Das Seil schwingt und ächzt, als deine Gruppe hinaufklettert. Plötzlich spürst du einen Ruck.
+
+Das Seil rutscht ein paar Zentimeter hinab, wird dann aber wieder gebremst. Es wird wohl nicht halten, wenn ihr alle gleichzeitig versucht hinaufzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du weißt nicht, wie lange das Seil noch hält. Sicherheitshalber entscheidest du, wieder hinaufzuklettern.
+
+Das Seil schwingt und ächzt, als du kletterst. Plötzlich spürst du einen Ruck.
+
+Das Seil rutscht ein paar Zentimeter hinab, wird dann aber wieder gebremst. Es wird deinen ungelenken Versuchen wohl nicht standhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Vorsichtig hinaufklettern, um den Tunnel zu verlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt mit jedem Zug, aber deine flinken Hände und geschickten Bewegungen halten es ruhig.
+
+Nach gewaltiger Anstrengung erreichst du das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Einen furchterregenden Augenblick langt befindest du dich im freien Fall, bevor das Seil wieder Halt findet.
+
+Du siehst zwar nicht bis zum Eingang des Tunnels, aber du vermutest, dass dein Enterhaken seine Klauen gerade noch rechtzeitig in eine Kante im Eis gegraben hat.
+
+Das Seil hält. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Nachdem dein Enterhaken so wacklig in dem Eis über dir steckt, entscheidest du, so schnell wie möglich hinunterzuklettern.
+
+Du rutschst langsam das Seil hinunter und versuchst dabei, es ruhig zu halten. Es scheint zu halten. Die offene Höhle verengt sich zu einem schrägen Tunnel.
+
+Licht von unten taucht das Eis in bläuliche Farbtöne. Du bist in der Nähe des Ausgangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Die Wände des Tunnels verengen sich um dich herum, als du dich dem Ausgang näherst. Die Tritte werden wieder glatt und rar gesät.
+
+[SkillCheck 0] rutscht auf dem Eis aus. Die plötzliche Bewegung reißt an dem Seil. Es knarzt und ein metallisches Knallen ertönt hoch oben über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Der Haken löst sich.
+
+Du fällst. Der Wind saust an deinen Ohren vorbei und ein Schrei wird aus deiner Kehle gerissen.
+
+Du knallst gegen spitze Felsen und hartes Eis. Du krachst den Tunnel hinab und die Welt um dich herum dreht sich. Mit einem letzten Krachen spuckt der Tunnel dich in eine offene Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du näherst dich dem Tunnel am Ende der Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du näherst dich dem Tunnel am Ende der Höhle. Ein zackiger Stumpf ist alles, was von dem Stalagmiten übrig ist. Ein anderer geeigneter Anker ist nicht in Sicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du umklammerst das Seil fester und überlegst, was du tun kannst. Das Seil knarzt leise über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Ein Lederbeutel liegt halb vergraben unter den Knochen. Etwas darin leuchtet.
+
+Du hebst ihn auf und steckst ihn ein.
+
+Nachdem du deine Beute an dich genommen hast, ziehst du sanft an dem Seil und kletterst wieder darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Nachdem dein Haken gesichert ist, kletterst du wieder hinunter an die breiteste Stelle des Tunnels, an der du den Vorsprung gesehen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Nachdem der Haken gesichert ist, klettert [Slot 0] wieder hinunter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Nachdem der Haken gesichert ist, klettert [Slot 1] wieder hinunter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Nachdem der Haken gesichert ist, klettert [Slot 2] wieder hinunter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Nachdem der Haken gesichert ist, klettert [Slot 3] wieder hinunter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Nachdem der Haken gesichert ist, klettert [Slot 4] wieder hinunter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Nachdem der Haken gesichert ist, klettert [Slot 5] wieder hinunter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt unter deinem beträchtlichen Gewicht, aber dank deiner Beweglichkeit und deiner Reflexe gelingt es dir, es ruhig zu halten.
+
+Nach gewaltiger Anstrengung erreichst du das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt, aber dank deines geringen Gewichts und deiner wendigen Bewegungen gelingt es dir, es ruhig zu halten.
+
+Nach einem schnellen Aufstieg erreichst du das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt und ächzt, aber dank deines geringen Gewichts und deiner wendigen Bewegungen gelingt es dir, es ruhig zu halten.
+
+Nach einem schnellen Aufstieg erreichst du das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt unter deinem beträchtlichen Gewicht, aber dank deiner Beweglichkeit und deiner Reflexe gelingt es dir, es ruhig zu halten.
+
+Nach gewaltiger Anstrengung erreichst du das obere Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Du kennst die Tritte für den Abstieg und gelangst schnell in die Höhle mit dem Vorsprung.
+
+Dort angelangt überlegst du, welche Möglichkeiten du hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Den Enterhaken an dem zerbrochenen Stalagmiten befestigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Der Enterhaken hängt gerade noch an dem Stalagmiten, dessen Spitze durch das Gewicht deines Abstiegs zertrümmert wurde. Du drückst den Haken den Schaft der Gesteinsformation entlang nach unten und klemmst ihn fest in den Fuß des Stalagmiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Als du zu fallen beginnst, erlebst du plötzlich einen Moment der Klarheit - du hast die Gelegenheit, entschlossen zu handeln.
+
+Was tust du?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>['Rüstung des Glaubens' wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[[Slot 0] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[[Slot 1] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[[Slot 2] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[[Slot 3] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[[Slot 4] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[[Slot 5] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Dich möglichst gut gegen den Aufprall schützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Während du fällst, kanalisierst du deine göttliche Kraft, um 'Rüstung des Glaubens' zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Während du fällst, gelingt es [Slot 0], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Während du fällst, gelingt es [Slot 1], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Während du fällst, gelingt es [Slot 2], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Während du fällst, gelingt es [Slot 3], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Während du fällst, gelingt es [Slot 4], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Während du fällst, gelingt es [Slot 5], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Der Haken löst sich von seinem Anker über dir.
+
+Du wirst schneller. Der Wind saust an deinen Ohren vorbei und ein Schrei wird aus deiner Kehle gerissen.
+
+Du knallst gegen spitze Felsen und hartes Eis. Du krachst den Tunnel hinab und die Welt um dich herum dreht sich. Mit einem letzten Krachen spuckt der Tunnel dich in eine offene Höhle. Glücklicherweise hat dein göttlicher Schutz den Großteil des Schadens abgewehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>['Drachensprung' wirken, um dich selbst zu retten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Während du fällst, rauscht das Blut schneller durch deine Adern und deine Muskeln spannen sich mit übernatürlicher Stärke an.
+
+Du rollst dich für die Landung zusammen, überzeugt, dass deine Stärke den Aufprall abfedern wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Der Haken löst sich von seinem Anker über dir.
+
+Du wirst schneller. Der Wind saust an deinen Ohren vorbei und ein Schrei wird aus deiner Kehle gerissen.
+
+Du knallst gegen spitze Felsen und hartes Eis. Du krachst den Tunnel hinab und die Welt um dich herum dreht sich. Mit einem letzten Krachen spuckt der Tunnel dich in eine offene Höhle. Glücklicherweise hat deine Stärke den Großteil des Schadens abgewehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du beginnst, das Seil hinaufzuklettern.
+
+Es knarzt unter deinem beträchtlichen Gewicht und schwingt wild hin und her, während du daran herumzappelst.
+
+Plötzlich rutscht es von seinem Anker über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Du erreichst die Höhle darunter ohne Zwischenfälle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_rymrgand_coalition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Das Rad ist eine neue Chance für eine Seele, die keinen Frieden gefunden hat. Dieses Ende, von dem sie sprechen, es würde bedeuten, dass sie umsonst gelitten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Die Seelen haben ihren Zweck erfüllt. Ihre Abwesenheit hat großes Leid verursacht. Man wird sich an sie erinnern, gleich welches Schicksal sie ereilt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

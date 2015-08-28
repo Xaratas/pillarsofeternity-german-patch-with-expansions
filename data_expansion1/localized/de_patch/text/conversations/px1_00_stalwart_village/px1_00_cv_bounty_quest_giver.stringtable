@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_bounty_quest_giver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Mann schwitzt trotz der Kälte. Er öffnet seinen Mund um zu sprechen, doch es dröhnt nur ein lautes, abgehacktes Husten daraus hervor.
+
+Er beugt sich nach vorne und stemmt die Hände auf die Oberschenkel, während er röchelt und würgt.
+
+Nach einer ganzen Weile hebt er einen Finger, immer noch nach Atem ringend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Und wenn du zu den Langsicht-Fällen gehst, könntest du vielleicht für mich nach einer Thermalperle suchen." Er blickt verlegen fort und spielt mit dem Zeh seines Stiefels im Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich soll eine Thermalperle für dich finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du hast etwas über 'gefährliche Kerle' in der Wildnis gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich gehe rauchen. Wenn du etwas findest, ich bin vor der Gréfenrast." Er zittert kurz und stapft davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Das ist es ja gerade - ich habe sie schon gefunden! Es muss sie nur jemand holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich hätte ja gekämpft, aber ich fing an zu überlegen, was Stalwart wohl ohne mich machen würde. Also bin ich davongerannt. Zum Wohle des Dorfes, natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was ist überhaupt eine Thermalperle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Erzähl mir mehr von den Langsicht-Fällen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>""Sie stinken ein wenig, aber sie sind voller Mineralien. Man muss sie nur in einem Humpen auflösen." Er grinst und du bemerkst, dass sein Zahnfleisch blutet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mehr wollte ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wenn du dorthin unterwegs bist, solltest du mit Thyrsc sprechen. Vielleicht hat er etwas, was dir helfen kann, mit den Lagufaeth fertigzuwerden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Sieh bei Thyrsc vorbei, bevor du die Stadt verlässt ... sein Haus ist das neben den Minen. Er ist ein erfahrener Jäger und kennt die Wildnis besser als jeder andere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er nickt. "Ich behalte die Stadt hier im Auge. Du, äh ... hast bei Langsicht etwas für mich gefunden?" Er hustet in seine Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Zumindest bin ich hier drüben aus dem Wind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Wie war das noch einmal mit dieser Thermalperle, die du wolltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich habe sie in den heißen Quellen bei den Langsicht-Fällen gesehen. Halte einfach Ausschau nach den Lagufaeth ... es hat dort von ihnen gewimmelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Aber Renengild hat ein Kopfgeld ausgesetzt, damit diese Störenfriede ausgeschaltet werden. Wenn du mir die Köpfe ihrer Anführer bringst, gebe ich dir die Belohnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Erzähl mir mehr von den Jüngern der Echten Flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich will mehr über die Glanzgesellschaft erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Was ist die Alt-Dunryd-Jagdgesellschaft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Wer führt die Schwesterschaft des Gelöschten Schädels an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er kratzt sich im Genick. "Ich wusste nicht, was ich von dieser Bande halten sollte, aber anscheinend handelt es sich um einen ... Drachenkult."
+
+Er hebt die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eine verrückte Bande von Radikalen, die Regierungen stürzen und die Reichen töten will. Gegen die sieht der Widerstandskrieg aus wie ein Streit ums Essen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Er schüttelt den Kopf. "Aedyraner mit zu viel Zeit und Geld. Sie reisen umher und jagen aus Langeweile Monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Eine Frau namens Meztla. Alle Mitglieder der Schwesternschaft verehren Berath. Indem sie so viele Seelen zurück in das Rad schicken, wie sie nur können." Er erschaudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich suche immer noch nach jemandem, der sich um die gefährlichen Kerle in der Gegend kümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Die 'Thermalperle', die du gesehen hast, war in Wahrheit ein Lagufaeth-Ei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wie du meinst. Aber pass auf deine Finger auf, wenn er größer wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Die Glanzgesellschaft existiert nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich bringe dir Feuerdorns Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich bin wegen des Kopfgelds hier, das auf die Alt-Dunryd-Jagdgesellschaft ausgesetzt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Meztla von der Schwesternschaft des Gelöschten Schädels ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Es wird viele Leute freuen, das zu hören. Das Letzte, was wir hier draußen brauchen, ist ein weiterer großer Krieg. Nimm das." Er reicht dir einen Beutel mit Münzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Das beruhigt. Der Kerl hätte garantiert Ärger gemacht, auch wenn er verrückt war. Hier, das ist für dich." Er gibt dir einen klimpernden Beutel Geld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Galawain sei Dank. Und dir natürlich. Ehrlich gesagt hatte ich Sorge, diese Narren würden sich hierher verirren und den Rest des Dorfs niederbrennen." Er überreicht dir einen Sack, der bis zum Bersten mit Gold gefüllt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Er grinst. "Ironie des Schicksals, was? Sie rennt herum und tötet für Berath Leute, und am Ende passiert ihr genau das Gleiche. Hier, das Kopfgeld." Er überreicht dir einen klimpernden Geldsack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich habe dich überall gesucht, [Player Name]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Alles. Haeferics. Schuld. Der verdammte Narr hat mich geschickt. Zur anderen Seite der Stadt. Dich. Suchen."
+
+Endlich steht er wieder auf. Er wischt sich die tropfende Stirn mit dem Handrücken ab und reicht dir dann genau diese Hand zum Gruß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Ihm die Hand schütteln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[In der Nase bohren und ihm dann die Hand schütteln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Das darfst du behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Weißt du, ich kränkle ein wenig. Ich bin wahrscheinlich ansteckend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Schön, dich kennenzulernen. Ich bin der, äh, Hauptmann der Miliz hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Freut mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wirklich? Ich habe dich während des Ogerangriffs gar nicht gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Worum geht es überhaupt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Weißt du, ich habe, äh, die Gréfenrast bewacht. Irgendjemand musste ja sicher gehen, dass die Oger sie nicht niederbrennen, wie Keydys Haus. Das war schlimm."
+
+Er runzelt die Stirn und schüttelt mit ernster Miene den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Er zieht seine Hand zurück und hustet wieder. Seine Wangen bekommen wieder etwas Farbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Er schüttelt dir kraftvoll die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich wollte dich erwischen, ehe du in die Wildnis verschwindest. Weißt du, es gibt da ein paar gefährliche Kerle, vor denen du dich in Acht nehmen solltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich habe sie in den heißen Quellen bei den Langsicht-Fällen gesehen. Ich hätte sie mir ja selbst geschnappt, aber als ich mich umgesehen habe, habe ich die Lagufaeth gesehen ... bestimmt fünfzig waren es!"
+
+Er breitet die Arme aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Sie bilden sich in den heißen Quellen. Hat wohl etwas mit den Mineralien im Wasser zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Wovon sprichst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sie heilen Skorbut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Wie schon gesagt, die Perle liegt in einem der Thermalbecken bei den Langsicht-Fällen. Sie dürfte nicht schwer zu finden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich versuche nur, meine Zahne möglichst lange zu behalten. Immer nur Fisch und Wild, das bekommt nicht jedem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Er liegt östlich von Stalwart. Ein wunderschöner Ausblick ins Tal, aber die meisten Leute meiden den Ort heutzutage. Es gibt jede Menge Wilde in der Nähe, und schon wenige Zentimeter Schnee reichen und der Pass lässt sich nicht mehr überqueren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Wir haben hier mehr als genug Verrückte. Und die meisten kommen nicht einmal aus dem Dorf." Er lacht über seinen eigenen Witz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Die neuesten Gruppen, von denen ich gehört habe, sind die Glanzgesellschaft und die Schwesternschaft des Gelöschten Schädels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Duc Aevar und der Regent von Readceras haben sie beide für illegal erklärt. Vermutlich das Einzige, worin die zwei jemals einer Meinung waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Wie dem auch sei, geh zu den Langsicht-Fällen im Osten. Dort wurden sie zuletzt gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Aber sie hinterlassen eine Spur der Verwüstung aus zerstörtem Eigentum und Leichen - Gestandene, meine ich. Sie wurden in Trutzbucht, Neu-Heomar und ein Dutzend anderen Städten dazwischen wegen Mord und allgemeiner Unruhestiftung angeklagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Jemand hat sie im Rotwald jagen sehen, vielleicht suchst du also dort nach ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ich weiß, es klingt bizarr. Ich habe es selbst nicht geglaubt, bis ich gehört habe, dass sie einen Außenposten nördlich von Maidenfall niedergebrannt haben. Um ein Nest von Lindwürmern auszuräuchern, sagten sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Soweit ich weiß, haben sie ihr Lager in der Nähe der Langsicht-Fälle aufgeschlagen. Sie dürften nicht schwer zu finden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Sie schleichen um Durgans Batterie herum, Wael weiß warum. Aber du verstehst gewiss, dass niemand hier sonderlich erfreut darüber war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Wenn du ihnen über den Weg läufst, sei vorsichtig. Sie sind unberechenbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Leider habe ich keine weiteren Kopfgeldaufträge anzubieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Er blickt an dir vorbei und sieht die Kreatur durch den Schnee watscheln.
+
+Sein Kiefer bewegt sich einige Sekunden lang lautlos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Die kleine Kreatur streckt ihren Kopf aus deinem Rucksack und blickt Tealdor mit vorstehenden blauen Augen an.
+
+Sein Kiefer bewegt sich einige Sekunden lang lautlos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich habe noch nie so ein kleines Exemplar gesehen. Aber der kleine Kerl sieht geradezu zahm aus."
+
+Er kratzt sich am Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Kann ich ihn dir abkaufen? Die Schausteller, die hier durchkommen, hätten sicher Interesse." Er beugt sich vor, um den sich windenden Lagufaeth anzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich verkaufe ihn dir für fünfhundert Pand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Nein. Ich behalte ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Abgemacht." Er gibt dir das Geld und nimmt den Lagufaeth. Das kleine Geschöpf windet sich und knabbert an seinen Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Er blickt dich mit zusammengekniffenen Augen an. "Also bitte, du erwartest doch nicht, dass ich darauf reinfalle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Ihm den Lagufaeth zeigen.] "Das hier ist aus der 'Thermalperle' geschlüpft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Tu es nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sind kürzlich in der Stadt gewesen, aber nicht lang geblieben. Sie haben aber den Ondra-Tempel besucht. Vielleicht weiß Lafda etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Natürlich. Ich sage dir alles, was ich weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ich habe neue Berichte über gefährliche Kerle gehört. Vielleicht möchtest du auch sie jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich habe Interesse an den neuen Kopfgeldaufträgen, die du erwähnt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ah, die Jünger der Echten Flamme und die Alt-Dunryd-Jagdgesellschaft." Er schüttelt den Kopf.
+
+"Die Aufträge davor waren im Vergleich dazu zahme Lämmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Du ziehst in die Wildnis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Oh, hallo. Ich hatte gehört, dass ich dich vielleicht hier finde." Ein stämmiger Mann mit rotem Gesicht lächelt dir freundlich - wenn auch etwas unbeholfen - zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Oder hätte ... vor dem ganzen Wahnsinn und Mord in Trutzbucht." Er runzelt die Stirn und kratzt sich im Genick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Weggehen.] "Nun gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Das ist es ja gerade - ich habe sie schon gefunden! Es muss sie nur jemand holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

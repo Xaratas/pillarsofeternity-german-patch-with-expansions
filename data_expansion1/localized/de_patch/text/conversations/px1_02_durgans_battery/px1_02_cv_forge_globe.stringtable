@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_forge_globe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser vergoldete Globus wurde mit aufwändigen Details gefertigt. Berge aus gehämmertem Gold erheben sich über spiegelglatte Meere. Die Flüsse, die das Land in Kontinente zerschneiden, sind dünn und fein als wären sie mit einem Rasiermesser geschnitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dieser vergoldete Globus wurde mit aufwändigen Details gefertigt. Berge aus gehämmertem Gold erheben sich über spiegelglatte Meere. Die Flüsse, die das Land in Kontinente zerschneiden, sind dünn und fein als wären sie mit einem Rasiermesser geschnitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Drei makellose Saphire markieren Orte in Rauatai, Alt-Vailia und dem Land der Lebenden.
+
+In das bronzene Band, das den Globus umschließt, sind drei Zeilen eingraviert, die sich stets wiederholen:
+
+"Erinnert euch an alle Pargrunen -
+von den ältesten vor euch
+bis zu den jüngsten, die euch folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den Globus untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Auf den Saphir in Alt-Vailia drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Auf den Saphir im Land der Lebenden drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Auf den Saphir in Rauatai drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die abgerundeten Saphire sind gerade groß genug, dass du mit dem Daumen darauf drücken kannst. Als du das tust, spürst du eine Art Federmechanismus unter ihnen.
+
+Mit deinem ausgeprägten Auge für Details bemerkst du, dass der Druck unter den anderen beiden Saphiren nachgibt, wenn du auf den Saphir in Alt-Vailia drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die abgerundeten Saphire sind gerade groß genug, dass du mit dem Daumen darauf drücken kannst. Als du das tust, spürst du eine Art Federmechanismus unter ihnen. Mehr findest du jedoch nicht heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du drückst auf den Saphir, der in Alt-Vailia eingelassen ist.
+
+Er senkt sich hinab, bis er eben mit der Oberfläche des Globus ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du drückst auf den Saphir, der in Alt-Vailia eingelassen ist.
+
+Er rastet zwischen zwei geschwungenen Flüssen ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du drückst auf den Saphir, der in Alt-Vailia eingelassen ist.
+
+Du hörst ein ploppendes Geräusch und alle Saphire springen wieder hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du drückst auf den Saphir, der im Land der Lebenden eingelassen ist.
+
+Er senkt sich hinab, bis er eben mit der Oberfläche des Globus ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du drückst auf den Saphir, der im Land der Lebenden eingelassen ist.
+
+Er rastet unter dem gezackten Grat eines Berges ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du drückst auf den Saphir, der im Land der Lebenden eingelassen ist.
+
+Du hörst ein ploppendes Geräusch und alle Saphire springen wieder hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du drückst auf den Saphir, der in Rauatai eingelassen ist.
+
+Er senkt sich hinab, bis er eben mit der Oberfläche des Globus ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du drückst auf den Saphir, der in Rauatai eingelassen ist.
+
+Er rastet an einer geschwungenen Küste ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du drückst auf den Saphir, der in Rauatai eingelassen ist.
+
+Du hörst ein ploppendes Geräusch und alle Saphire springen wieder hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Als der letzte Saphir einrastet, beginnt der Globus mit Adern von strahlendem blauen Licht zu leuchten.
+
+Dann macht er eine Vierteldrehung. Als das Licht erlischt, hörst du von einer Seite des Raumes Zahnräder rattern und Steine knarren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_frozen_dwarf_ground_level</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Leiche dieses Zwergs ist in einer dünnen Eisschicht eingeschlossen. Sie ist erstaunlich gut erhalten, auch wenn die Gesichtszüge des Zwergs vom Frost verdeckt werden. Der Zwerg hält ein großes, in Stoff gewickeltes Bündel in den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er blickt blind nach unten, eingefroren im Augenblick seines Todes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Eine Fackel an das Eis halten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Das Bündel mit deinem Eispickel freihacken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du hältst deine Fackel an die gefrorene Leiche. Das Eis um die Hände des Zwerges beginnt langsam zu schmelzen, auch wenn das Wasser gelegentlich droht, deine Fackel zu löschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Es aufreißen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du holst weit aus und der Eispickel landet mit einem vielversprechenden Knacken. Eisstücke fallen zu Boden, immer wieder gemischt mit Stofffetzen und Stücken von gefrorenem Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Hineinsehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Inhalt des Bündels ist größtenteils unbeschädigt. Du findest eine Handvoll geprägter Münzen, einige Papiere und eine Schriftrolle - und einen schweren Eisenschlüssel. Eine weitere Suche ergibt sonst nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Versuchen, das Bündel wegzuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du kratzt an dem Eis, kommst mit bloßen Händen jedoch nicht weit. Das Bündel ist ebenso vollständig umschlossen wie der Zwerg, der es in den Händen hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Schließlich bricht genug Eis weg, dass du an das Bündel kommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Schließlich wird mit einem beunruhigenden Krachen das Bündel freigelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Das Bündel mit Hammer und Meißel freilegen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du bearbeitest geduldig das Eis. Du kommst nur langsam voran, aber schließlich fallen größere Eisstücke zu Boden, immer wieder gemischt mit Stofffetzen und Stücken von gefrorenem Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Flammenfächer wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Schnelle Schläge einsetzen, um das Eis zu durchschlagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Feuerstrahl wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Explosion der Sommerflamme wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Mit Barbarischer Hieb gegen das Eis schlagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Flammen fließen über die Oberfläche des Eises, das schnell zu schmelzen beginnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Dein erster Hieb lässt Schmerzen deinen Arm hinaufschießen, aber du gibst nicht auf. Eisbrocken fliegen durch die Luft, als du einen Hagel von Schlägen auf die gefrorene Gestalt herabsausen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Mit einem mächtigen Brüllen schlägst du auf das Eis ... und hörst ein vielversprechendes Knacken, als es bricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

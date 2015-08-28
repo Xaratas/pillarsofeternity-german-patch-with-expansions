@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_thaos_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ob ihm nach ein paar tausend Jahren wohl einfach alles leid war? Oder hatte Woedica ihn an der Leine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Dieser Mann hat sich erbitterter an die Welt geklammert, als ich es je gesehen habe. Sein Leid war offensichtlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich glaube nicht, dass er sich alleine hätte befreien können. Du erweist ihm einen Dienst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Es ist nichts von dem Mann übrig, was man hassen könnte. Du vergeudest deine Energie."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

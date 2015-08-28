@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_ghost_foreman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Überreste dieses Zwergs liegen auf dem Boden, mit Schmutz und Spinnweben bedeckt.
+
+In der Nähe hängt Essenz in der trockenen Luft wie Staub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Nach der Essenz greifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Leiche durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ein Schlüssel glänzt im Dreck neben dem Oberschenkelknochen der Leiche.
+
+Als du ihn untersuchst, werden die Geister in der Nähe unruhig. Sie knurren und zappeln herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Es kostet dich ein wenig zusätzliche Mühe, aber du sammelst die schwebende Essenz um dich herum ein.
+
+Du dringst in die Essenz vor und findest dich plötzlich in den Erinnerungen der Seele wieder. Der Schock trifft dich fast mit physischer Kraft. Dein Herz pocht in deiner Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Andere Pargrunen eilen an dir vorbei, fliehend oder angreifend. Es ist schwer zu sagen. Du läufst durch einen dunklen Tunnel, so schnell wie dein überanstrengter Körper es noch erlaubt. Mit jedem Schritt schlägt dein Herz schneller.
+
+Über dir dröhnt bebendes Donnern. Jeder Schlag scheint in deiner keuchenden Brust widerzuhallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du passierst die Minen und erreichst die Haupthalle. Sie ist voller rufender, schubsender, panischer Zwerge. Selbst, wenn du die Tür am anderen Ende erreichen könntest, ohne zu Tode getrampelt oder geschlagen werden ... aus der fieberhaften Panik der Masse schließt du, dass die Tür bereits verriegelt ist ...
+
+Im Tunnel hinter dir hallen Schreie wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du hattest noch eine Scheibe für die Tür zur Esse unter euch, aber sie ist in der Werkstatt eingesperrt. Auf der anderen Seite der Barrikade.
+
+Die Kampfgeräusche kommen näher.
+
+Du eilst zu den Minen. Den immer stärker werdenden Druck in deiner Brust ignorierst du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Immer tiefer läufst du in die Minen hinein. Du weißt nicht mehr, wo du bist. Die Tunnel scheinen sich um dich herum zu verengen. 
+
+Du stolperst und fällst hin. Du versuchst, dich hochzuziehen, aber dein Arm ist taub vor Schmerz. Obwohl du angehalten hast, kannst du deinen Atem nicht beruhigen. Zum ersten Mal bemerkst du einen einengenden Schmerz in deiner Brust. 
+
+Dunkelheit breitet sich um dich herum aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du tauchst aus der Erinnerung auf, nach Atem ringend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Den Schlüssel nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du schiebst die Knochen beiseite und greifst nach dem Schlüssel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du das tust, ertönen Schreie des Zorns und des Entsetzens. Die Toten von Durgans Batterie nähern sich dir von allen Seiten, ihre unnatürlichen Zähne gefletscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

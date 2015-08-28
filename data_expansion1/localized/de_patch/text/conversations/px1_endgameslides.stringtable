@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_endgameslides</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Hohlgeburtenseuche nahm ein Ende und in den Dörfern der Weißmark wurden wieder gesunde Kinder geboren.
+
+Diese neue Generation aber legte eine fast schon unheimliche Vitalität und einen unstillbaren Entdeckungsdrang an den Tag. Sie strömte in die gesamte Weißmark aus, gründete neue Städte und baute vergessene Siedlungen wieder auf. 
+
+Die einst im Sterben liegende Region wurde zu einem blühenden neuen Grenzland, berühmt für seine Kunsthandwerker und Entdecker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Auch nach dem Ende der Hohlgeburtenseuche blieb die Weißmark ein unwegsamer und gefährlicher Ort. 
+
+Durch Durgans Batterie wurde sie jedoch etwas sicherer. Die Kanonen der alten Festung beschützten die Straßen vor Banditen und Ogern. Das Bollwerk wurde zudem zu einem Zufluchtsort für die Dorfbewohner der Region.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Hohlgeburtenseuche nahm ein Ende. Die Kunde von der Weißen Esse verbreitete sich und von nah und fern kamen Schmiede, um an ihren Feuern zu arbeiten.
+
+Die Weiße Esse zog die Aufmerksamkeit und den Neid verschiedener Regierungen auf sich, hauchte aber auch der gesamten Region neues Leben ein. Die Weißmark erlangte erneut Berühmtheit und Reichtum durch ihre Metallarbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Stalwarts Ambitionen, seine Minen wieder zu eröffnen, starben leider mit Taena. Nach ihrem Tod war niemand mehr übrig, der die Erfahrung und das Wissen besaß, um die Arbeiten zu leiten.
+
+Stalwart profitierte von den Händlern und Handwerkern, die zur Weißen Esse strömten. Ohne eine eigene Erzquelle mussten die Bewohner aber mitansehen, wie andere Dörfer reich wurden, während sie Fischer und Jäger blieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Unter Taenas Führung wurden Stalwarts Minen wiederhergestellt, wenn auch langsam und mit einem halben Dutzend Unfälle. Das verhinderte jedoch nicht die Ankunft unzähliger Schürfer, viele von ihnen Ganoven und Gesetzlose - und alle begierig darauf, von der Weißen Esse zu profitieren.
+
+Als Stalwart seine Minen schließlich eröffnete, waren in der Umgebung schon ein halbes Dutzend neue gegraben worden. Die gesetzlosen Männer und Frauen, die sie betrieben, erwiesen sich als oft brutale Konkurrenz für das geplagte Dorf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Mit ihrer neu gewonnenen Energie sorgte Taena dafür, dass die Minen von Stalwart schneller wieder eröffnet wurden, als man hoffen konnte. Als sich die Kunde von Durgans Batterie verbreitete, kamen Kunsthandwerker und Schmiede von nah und fern, angelockt von den Erzvorräten des Dorfs. Ihr Geld teerte breite Straßen, baute robuste Mauern und schenkte den Bürgern von Stalwart neue Hoffnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Eröffnung von Durgans Batterie bot den Schmugglern, die ohnehin schon durch das Gebirge schlichen, zahlreiche neue Möglichkeiten. Die gesetzestreuen Bürger von Stalwart taten ihr Bestes, um diese Ganoven fernzuhalten. Trotzdem fanden sie ihren Weg ins Dorf, wo sie auf die Straßen spuckten und sich beim Würfelspiel stritten. 
+
+Die Dorfbewohner sorgten sich wegen der lauten und ungehobelten Besucher - und tratschten eifrig über sie. Kaum jemand bemerkte Owynnas nächtliche Ausflüge oder das zusätzliche Geld, das ihr zugesteckt wurde, wenn sie die ausgelassenen Gäste bediente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Trotz der Entdeckung der Weißen Esse wurde der Besuch des Wächters in Stalwart lange als böses Omen angesehen. Kaum jemand konnte über die Eröffnung von Durgans Batterie sprechen, ohne leise für die Toten zu beten, die der Wächter hinterlassen hatte.</DefaultText>
+      <FemaleText>Trotz der Entdeckung der Weißen Esse wurde der Besuch der Wächterin in Stalwart lange als böses Omen angesehen. Kaum jemand konnte über die Eröffnung von Durgans Batterie sprechen, ohne leise für die Toten zu beten, die die Wächterin hinterlassen hatte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Während der Jahrestag der Entdeckung der Weißen Esse zu einem großen Feiertag in Stalwart wurde, beging man den Tag der Ankunft des Wächters mit noch mehr Freude. Denn der Wächter hatte ihnen nicht nur Durgans Batterie geschenkt, sondern vor allem Hoffnung für ihr Dorf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Doch für Stalwart war der Name der Weißen Esse auch mit dunklen Gedanken verbunden. Er erinnerte die Leute an den Wächter, einen geheimnisvollen Gauner, der ihnen zwar die Weiße Esse geschenkt, ihrem Dorf aber auch viel genommen hatte.</DefaultText>
+      <FemaleText>Doch für Stalwart war der Name der Weißen Esse auch mit dunklen Gedanken verbunden. Er erinnerte die Leute an die Wächterin, eine geheimnisvolle Gaunerin, die ihnen zwar die Weiße Esse geschenkt, ihrem Dorf aber auch viel genommen hatte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Und während Stalwart die Entdeckung der Weißen Esse feierte, sprachen die Bürger kaum je über den Wächter. Schließlich verschwand der Name des Wächters aus ihren Geschichten, die Weiße Esse aber loderte weiter.</DefaultText>
+      <FemaleText>Und während Stalwart die Entdeckung der Weißen Esse feierte, sprachen die Bürger kaum je über die Wächterin. Schließlich verschwand der Name der Wächterin aus ihren Geschichten, die Weiße Esse aber loderte weiter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Harmkes Tod hatte der Teufelin von Caroc wenig Genugtuung verschafft. Mit der Zeit schwand ihr Rachedurst. An seine Stelle trat die Gier, Neues zu spüren.
+
+Der Sommer hatte den Schnee schon zweimal dünner werden lassen, als sie spürte, wie zunächst ihr Ellbogengelenk steifer wurde. Sie wandte den Hoffnungen der Beseelung und Zivilisation den Rücken zu und wanderte ostwärts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Harmke gehen zu lassen hatte die Teufelin von Caroc mit einer stechenden Unzufriedenheit zurückgelassen, die noch lange nach der Konfrontation zwischen dem Wächter und Thaos an ihr nagte.
+
+Sie nahm ihre Suche nach den Männern und Frauen wieder auf, die Kaltmorg niedergebrannt hatten. Verzweifelt klammerte sie sich an die Hoffnung, dass sie durch ihre Rache eines Tages vielleicht wieder etwas spüren würde.</DefaultText>
+      <FemaleText>Harmke gehen zu lassen hatte die Teufelin von Caroc mit einer stechenden Unzufriedenheit zurückgelassen, die noch lange nach der Konfrontation zwischen der Wächterin und Thaos an ihr nagte.
+
+Sie nahm ihre Suche nach den Männern und Frauen wieder auf, die Kaltmorg niedergebrannt hatten. Verzweifelt klammerte sie sich an die Hoffnung, dass sie durch ihre Rache eines Tages vielleicht wieder etwas spüren würde.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>wanderte sie über die Berge, über Readceras hinaus und in die weiten Ebenen von Ixamitl. Sie hatte vergessen, wie es war, ohne ein Ziel im Sinn einfach zu reisen. 
+
+Zwar spürte sie nichts als das regelmäßige Stampfen ihrer Füße auf der Straße, doch der endlose Horizont und die grünen Wiesen waren ihr neu. Sie maß die Zeit an dem zunehmenden Rost an ihrem Körper und war zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Doch während sie jagte und tötete lag ihr die Sinnlosigkeit ihres Tuns wie eine immer größer werdende Kugel Blei im Magen. Ihre Bewegungen wurden steif und träge und ihr Eifer verließ sie. 
+
+Eines Tages wurde sie in Maidenfall von den Dorfbewohnern umzingelt. Während sie versuchte, sich zu wehren, spürte sie plötzlich, wie ihre Arme steif wurden und ihre Beine unter ihr nachgaben. 
+
+Die Dorfbewohner zerrissen ihren Körper und zerschlugen seine einzelnen Teile. Sie schrie, obwohl sie nichts davon spürte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ihre Bewegungen wurden langsamer, aber das wurde auch die Welt um sie herum. Hüfthohes Gras wankte und wogte im Wind, so gemächlich wie die Gezeiten. Spatzen und Elstern ziehen am Himmel entlang, jeder Flügelschlag ein feierlicher Gruß.
+
+Sie konnte sich kaum mehr bewegen, als sie etwas fand, was sie noch nie zuvor gesehen hatte - das Meer. Mit letzter Kraft zog sie sich in die Wellen, glücklich, endlich die Bewegungen der Wogen und die Liebkosungen der Wellen zu spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Zahua fand sich mit dem Verlust des Wissens seines Meisters ab und entschied, neu anzufangen.
+
+Er reiste zurück zum Kaltflusssee, wo das Kloster der Tausend Träume weiter leerstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dort gründete er den Nalpazca-Orden wieder und lehrte alles, woran er sich von den Lehren seines Meisters erinnerte.
+
+Begierige Schüler legten große Entfernungen zurück, um von dem alten Meister zu lernen, und mit der Zeit nahmen sie selbst Jünger auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Zahua sah sich als letzter Bote der Lehren von Ixepillo. Er machte sich auf die Suche nach einem Lehrling, der den Geist der Nalpazca verkörperte.
+
+Er fand diesen Lehrling - eine junge Frau - in einer brutalen Kneipenschlägerei. Zahua nahm sie unter seine Fittiche und brachte ihr alles bei, was er von seinem Meister gelernt hatte.
+
+Er ließ sie versprechen, das Gleiche zu tun, ehe er sie in die Welt ziehen ließ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Zahua erkannte, dass die Lehren seines Meisters für die Welt verloren waren, und dass er daran schuld war.
+
+Er begann seine Reise ziellos, auf der Suche nach Bestrafung und Leid. Denn nur durch sie fand er Momente der Klarheit.
+
+Diese Momente waren jedoch nur von kurzer Dauer. Wahre Erleuchtung blieb ihm weiter verwehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Dort gründete er einen neuen Orden, mit einer neuen Philosophie, die auf seinen eigenen Erfahrungen und ungewöhnlichen Überzeugungen basierte.
+
+Begierige Schüler legten große Entfernungen zurück, um von dem alten Meister zu lernen, und mit der Zeit nahmen sie selbst Jünger auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

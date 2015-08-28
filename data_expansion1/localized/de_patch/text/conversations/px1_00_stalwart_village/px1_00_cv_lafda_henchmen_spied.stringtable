@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_lafda_henchmen_spied</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die hölzernen Läden des fest verschlossenen Tempelfensters dämpfen einige Stimmen, die aus dem Inneren des Gebäudes hervordringen.
+
+Das Gemurmel ist zu leise, um es zu verstehen. Es würde vermutlich helfen, einen Fensterladen einen Spalt weit zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein rostiger Riegel hält die Fensterläden verschlossen. Wenn du es vorsichtig anstellst, müsstest du ihn unbemerkt öffnen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Riegel öffnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Mit dem Ohr am Fensterladen lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du beginnst, den Riegel aus dem Metallhaken zu heben. Als du es halb geschafft hast, wehrt das rostige Eisen sich mit einem Quietschen.
+
+Du hältst inne und lauschst auf die Stimmen, in der Hoffnung, dass die Priester dich nicht gehört haben. Sie setzen ihre Unterhaltung ohne Unterbrechung fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Den Riegel öffnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Wer soll versuchen, den Riegel lautlos zu öffnen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Den Riegel ölen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Es selbst tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Nach anderen Optionen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du ergreifst den Riegel und übst sanft Druck auf das Metall aus, bis der Rost geräuschlos nachgibt.
+
+Vorsichtig ziehst du die Fensterläden weit genug auf, um die Stimmen zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du ergreifst den Riegel und übst Druck aus, um das Metall an dem Rost vorbeizuschieben, der ihn blockiert. Das Eisen beginnt zu knarzen. Mit einem lauten Kreischen schnappt der Riegel schließlich auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] ergreift den Riegel und übt sanft Druck auf das Metall aus, bis der Rost geräuschlos nachgibt.
+
+Vorsichtig zieht [Specified 0] die Fensterläden weit genug auf, um die Stimmen zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] ergreift den Riegel und übt Druck aus, um das Metall an dem Rost vorbeizuschieben, der ihn blockiert. Das Eisen beginnt zu knarzen. Mit einem lauten Kreischen schnappt der Riegel schließlich auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Stimmen hinter dem Fenster halten jäh inne und du hörst, wie eine von ihnen dem Rest bedeutet zu schweigen. Danach ist es still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du hörst einen Mann mit aufgebrachter Stimme sprechen.
+
+"... das tun?! Hoffen, dass der Berg es erledigt? Was ist, wenn Ix-"
+
+Sein Satz wird abgeschnitten, als würde der Mann mit allen Seiten des Raumes sprechen.
+
+"-genommen er sagt es ihnen stattdessen. Was dann?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du erkennst Lafdas Stimme, die antwortet.
+
+"Warum sollte er das tun? Und bei den Gefahren in der Nähe der Batterie wird unser Gabenbringer nicht trödeln. Ich rechne damit, da-"
+
+Der Mann unterbricht sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du rechnest immer mit irgendetwas! Und wo hat uns das hingeführt?! In ein sterbendes Dorf. Oger vor den Mauern! Ixtli ist noch nicht zurück und jetzt muss ich seinen Tei-"
+
+Seine Stimme senkt sich zu einem zornigen Zischen. Der Rest seiner Worte ist nicht mehr zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Nach einem kurzen Augenblick antwortet Lafda.
+
+"Glaubst du, ich wollte es so? Hätte ich es etwa vorhersehen können?"
+
+Es entsteht eine Pause, deren Spannung ansteigt, bis die Stimme der Priesterin sie durchschneidet.
+
+"Wir können nicht auf ihn warten. Wir müssen schnell die letzte Ladung rausfischen. Danach entscheiden wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Der Mann antwortet mit kaum hörbarer, gebrochener Stimme. Du kannst nur die letzten Worte ausmachen.
+
+"... in diesem Teich im Rotwald ... ich gehe."
+
+Das Gespräch scheint beendet. Vorsichtig trittst du von dem Fenster des Ondra-Tempels weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du ergreifst den Riegel und ölst ihn ein wenig. Anschließend übst du sanft Druck auf das Metall aus, bis der Rost geräuschlos nachgibt.
+
+Vorsichtig ziehst du die Fensterläden weit genug auf, um die Stimmen zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du legst dein Ohr gegen das raue Holz. Gedämpfte Stimmen unterhalten sich im Tempel.
+
+Es ist kaum auszumachen, was sie sagen. Du glaubst aber, dass du vielleicht etwas erfahren kannst, wenn du es weiter versuchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Weiter durch die geschlossenen Läden lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du konzentrierst dich allein darauf, die wenigen Geräusche zu interpretieren, die du hören kannst. Ein Strom gedämpfter Schwingungen nimmt langsam verständliche Gestalt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du bemühst dich, etwas zu hören, aber es ist alles unverständlich. Deine einzige Wahl ist es, die Fensterläden zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du erfährst aus der Unterhaltung zwischen Lafda und ihren Akolythen nichts Nützliches mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du hörst einen Mann mit aufgebrachter Stimme sprechen.
+
+"... zu gefährlich! Wer kommt sonst no-"
+
+Sein Satz wird abgeschnitten, als würde der Mann mit allen Seiten des Raumes sprechen.
+
+"... über das, was wir hier tun? Was dann?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Der Mann antwortet mit kaum hörbarer, gebrochener Stimme. Du kannst nur die letzten Worte ausmachen.
+
+"... Ich gehe."
+
+Das Gespräch scheint beendet. Vorsichtig trittst du von dem Fenster des Ondra-Tempels weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ein rostiger Riegel hält die Fensterläden verschlossen. Wenn du es vorsichtig anstellst, müsstest du ihn unbemerkt öffnen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

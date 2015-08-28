@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_andred_byrhtwen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hallo! Gerade zur rechten Zeit. Du kannst zusehen, wie ich Byrhtwen vermöbele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Einmal, Andred. Du hast einmal gewonnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Andreds Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Eine Reihe von Erinnerungen huscht durch deinen Verstand wie aufgeschreckte Fische. Sie hinterlassen verschwommene Bilder und verzerrte Klänge. Einen Augenblick lang bist du überwältigt - bis eine bestimmte Erinnerung mit sturer Kraft an deinem Sinn zerrt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Weggehen] "Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wie du willst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Byrhtwens Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Der Geruch von Salz und Meerwasser steigt dir in die Nase, noch ehe das Zimmer verschwunden ist. Der Boden schwankt unter deinen Füßen und Meerwasser schwappt über die Reling, als das Schiff heftig vom Wind geschaukelt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Das Schiff erzittert heftig und du wirst gegen die Reling geschleudert. In diesem Augenblick wird dein Blick in die tosende Tiefe der dunklen See gezogen. Ein Auge starrt zurück, breit wie ein Schild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Furcht und Faszination rollen durch deinen Verstand, während deine Sinne sich zurückziehen und die Erinnerung verblasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Du, oder Andred, oder ihr beide, kniet auf einem Steinboden zwischen zwei Männern, die euch festhalten. Der Mann, der vor dir auf- und abschreitet, trägt die Rüstung eines Schmelztiegelritters. Du spürst Andreds halbherzige Abneigung gegen ihn als wäre es deine eigene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Du spürst auch Andreds Triumph, als der Ritter gerade nah genug herankommt, dass du ihm Blut auf seine Stiefel spucken kannst. 
+
+Die Erinnerung entgleitet dir und du findest dich wieder in deinen eigener Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Spielt ihr etwa Spiele? Was ist mit dem Ogerangriff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Was soll sein? Wir haben doch gewonnen, oder? Das heißt ... du hast gewonnen. Wir haben es nur überlebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Wir wollen die Straßen nicht riskieren, solange die Oger noch da draußen sind. Also sitzen wir hier fest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Da können wir auch spielen, oder? Ist ja niemand gestorben, den wir kannten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Andred!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ah, unser ogertötender Freund. Haben sie dich schon zum König von Stalwart gekrönt?"</DefaultText>
+      <FemaleText>"Ah, unsere ogertötende Freundin. Haben sie dich schon zum König von Stalwart gekrönt?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Mein Freund meint es nicht böse. Er kann nicht anders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Was? Ich würde eine Krone verlangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Was meinst du, Fremder? Ich finde, ich werde besser."</DefaultText>
+      <FemaleText>"Was meinst du, Fremde? Ich finde, ich werde besser."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ach, das war doch nur so dahin gesagt. Oberhenker ist sowieso mehr dein Ding, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Du solltest lieber nicht bleiben. Das war der zweite Angriff innerhalb von zwei Wochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Die Dorfbewohner machen irgendein Aufhebens um die Batterie. Ich hoffe, du weißt, was du tust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Alkohol und spitze Gegenstände. Das nimmt kein gutes Ende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Aye, dann lass mal sehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich wusste, dass es dir hier gefällt, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"In Massuk haben wir früher ein ähnliches Spiel gespielt. Ein großes Vergnügen, bis jemand einen Finger verliert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Aloth runzelt die Stirn. "Scheint mir ein guter Weg zu sein, einen Finger zu verlieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"In Massuk haben wir früher ein ähnliches Spiel gespielt. Ein großes Vergnügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
+      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ihr habt zu viel Freizeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Was spielt ihr da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Orlaner-Kopf." Andred grinst verlegen. "Naja, äh, so nennt man es eben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Hübsch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Man sucht sich ein Ziel aus - Nase oder Ohren. Die Nase gibt mehr Punkte, aber bei den Ohren kann man eines aussuchen."
+
+"Je weiter weg vom Ziel man trifft, desto weniger Punkte. Also für Mund und Augen. Und überhaupt keine Punkte, wenn man gar nicht trifft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Lust auf ein Spiel? Jeder drei Würfe, und wer am Ende die meisten Punkte hat, gewinnt. Ich setze fünfzig Pand, wenn du mitmachst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Klar, spielen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Das ist doch geschmacklos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Nein, nicht jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Gut. Vielleicht ein andermal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Hey, ich habe mir den Namen nicht ausgedacht. Nimm es nicht so ernst. Wir verwenden ja keinen echten Orlaner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich bitte dich, es ist nur ein Name. Außerdem habe ich mir gerade erst gemerkt, welcher Teil wie viel wert ist. Wir können jetzt nichts mehr ändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Erklärst du mir nochmal die Ziele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Klar, klar, ich hab das auswendig gelernt. Die Nase gibt zehn Punkte. Mund und Augen fünf. Die Ohren sieben. Das Fell gibt zwei, die nackte Haut einen Punkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Spielen wir Orlanerkopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Tut mir leid. Du hast mich ausgenommen. Aber ... leihst du mir ein paar Pand, Byrht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Kommt nicht in Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Na gut. Also, du hast die Spiele alle ehrlich gewonnen. Du hast es dir verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Viel Spaß mit deinem Gewinn. Ich muss mit Andred besprechen, wie wir ohne Geld nach Neu-Heomar kommen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Wir werden nicht mehr lange hier bleiben, nachdem du dich jetzt um die Oger gekümmert hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Wofür wir dir übrigens sehr, sehr dankbar sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Er hat nicht Unrecht. Wir sind dir wohl etwas schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Gut!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Klingt langweilig! Ich kenne ein viel spaßigeres Spiel. Es heißt 'Penis des Dyrwäldlers.'"
+
+Andred und Byrhtwen sehen sich besorgt an. Andred blickt zu dir und lächelt erzwungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

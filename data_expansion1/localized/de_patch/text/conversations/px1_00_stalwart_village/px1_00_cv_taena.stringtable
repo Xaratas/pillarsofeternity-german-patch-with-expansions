@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_taena</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aber du bist der neue Abenteurer. Renengilds neuester Freiwilliger."
+
+Sie blinzelt dich an und lehnt sich auf ihren wackligen Beinen gefährlich weit vor.</DefaultText>
+      <FemaleText>"Aber du bist die neue Abenteurerin. Renengilds neueste Freiwillige."
+
+Sie blinzelt dich an und lehnt sich auf ihren wackligen Beinen gefährlich weit vor.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ihre Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich möchte dich etwas fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du spürst, wie ihre Essenz summt und brummt. Eine weitere Persönlichkeit mit eigenen Erinnerungen schlummert in ihrer Seele und wirft sich hin und her wie in einem unruhigen Schlaf.
+
+Die Konturen dieser schlummernden Seele sind scharf. Gezackt. Als du nach der Seele greifen willst, packt sie dich grob.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Erwache, Zenove, und erinnere dich an deinen Kampf im Festsaal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ein Zittern huscht über Taenas Gesicht, dann erschlafft ihre faltige Haut. Sie hustet schroff und blinzelt dann, als würde sie langsam das Bewusstsein wiedererlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Es ist zu viel für Taenas sterbendes Bewusstsein. Es verschrumpelt und verschwindet, als Zenove angreift, die Taenas Körper nun vollständig kontrolliert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Du musst lauter sprechen. Meine Ohren sind nicht mehr die besten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hast du etwas gesagt, mein Kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Erzähl mir etwas über dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wie läuft die Arbeit in der Mine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich? Ich war Aufseher in der Mine, als sie noch in Betrieb war. Sie wurde vor Jahrzehnten geschlossen, als wir das Zeug nicht mehr verkaufen oder exportieren konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ungefähr so schnell wie ein betrunkener Oger, aber wir machen Fortschritte." Sie lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Es gibt jede Menge zu tun." Sie reibt eifrig die Hände zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sind sie weg? Sind diese grauenhaften Kreaturen endlich weg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Plötzlich lacht sie schrill auf. "Ein echter Drachen, wie sie gesagt hat! Du würdest diesen Faulpelzen in der Mine gewiss Beine machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sie sagte, du würdest Untätigkeit nicht dulden. Du würdest diesen Faulpelzen in der Mine gewiss Beine machen." Sie zieht die Nase hoch und nickt dir knapp zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sie sagte, du hättest in Trutzbucht ein ordentliches Gefolge. Viele Leute dachten, du würdest dich nicht mit uns hier draußen abgeben." Sie mustert dich und spielt mit ihrer Zunge an dem einsamen, schiefen Zahn in ihrem Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du stehst in einem abgedunkelten Festsaal. Robuste Tische und Bänke wurden vor der Tür am anderen Ende des Raumes gestapelt. 
+
+Du weißt, dass es nicht reichen wird.
+
+Ein paar Dutzend andere Zwerge aus deiner Bergbaumannschaft warten mit dir. In den zitternden Händen halten sie Schaufeln und Picken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ein Mann dreht sich zu dir um. "Zenove, bitte. Wenn wir jetzt gehen, können wir hinter die Barrikade gelangen. Hier-hier helfen wir nichts."
+
+Er hat Recht und du hörst im leisen Gemurmel der anderen, dass sie ihm zustimmen.
+
+Aber Waffenwächterin Marunn hat dir befohlen, hier die Stellung zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Im ansteigenden Gemurmel hörst du jedoch erste Töne einer Meuterei. Du hast Ungehorsam noch nie geduldet, und das wirst du auch heute nicht.
+
+Du hebst deine Picke und schlägst sie dem Mann in den Schädel. Er bricht zusammen und die anderen verstummen. Der beißende Gestank von Urin steigt von seiner Leiche auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wir werden kämpfen. Wer anderer Meinung ist, darf es gerne mit mir ausdiskutieren." Deine Stimme ist heiser, weil du stundenlang Befehle geplärrt hast. Aber niemand rührt sich. Sie alle blicken im flackernden Schein der Fackeln zu Boden.
+
+Etwas knallt gegen die Tür. Die anderen heben ihre Waffen - Picken, Schaufeln und ein paar Schwerter. Sie wagen es aber nicht, zusammenzuzucken. Dein eigener Puls hämmert gegen deine Schläfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du ziehst dich aus Taenas Seele zurück, aber du spürst, wie Zenoves Zorn und Wildheit immer noch an dir zerren. Ihre Essenz bäumt sich auf, wehrt sich gegen einen unsichtbaren Feind.
+
+Zenove ist mächtig, aber auch gefährlich. Ihr Zorn hat sie an alte und bedrohliche Erinnerungen gefesselt.
+
+Du überlegst, dass du noch andere Seelen erwecken könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Taena aber scheint sich all dessen nicht bewusst zu sein. Sie blinzelt dich mit milchigen Augen gelassen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Was ist das für ein Spiel, Fremder? Glaubst du, eine Pargrun würde so leicht ihr eigenes Volk verraten?"
+
+Ihre Hände umklammern eine imaginäre Waffe. Zenoves Essenz rührt sich mit demselben kampfbereiten Furor, den du in ihrer Erinnerung aus Durgans Batterie gespürt hast. Sie ist gefährlich. 
+
+Unter Zenove ringt und kämpft Taenas überwältigtes Bewusstsein.</DefaultText>
+      <FemaleText>"Was ist das für ein Spiel, Fremde? Glaubst du, eine Pargrun würde so leicht ihr eigenes Volk verraten?"
+
+Ihre Hände umklammern eine imaginäre Waffe. Zenoves Essenz rührt sich mit demselben kampfbereiten Furor, den du in ihrer Erinnerung aus Durgans Batterie gespürt hast. Sie ist gefährlich. 
+
+Unter Zenove ringt und kämpft Taenas überwältigtes Bewusstsein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Dieser Name ... er ist mit Erinnerungen an den Tod behaftet. Krieg. Zorn. Dem Geschmack von Blut.
+
+"Was willst du damit?"
+
+Ihre Augen sind ungewöhnlich klar geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich muss in Durgans Batterie hineingelangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich will dir nicht schaden, Zenove."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du würdest Durgans Batterie niemals verraten - deine Loyalität ist offensichtlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du bist vor langer Zeit gestorben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Lügen] "Hat deine Zeit in den Minen deine Augen so verdunkelt? Ich habe an deiner Seite gekämpft. Ich erinnere mich, wie du den Feigling getötet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Die letzten deines Volkes sind vor hunderten von Jahren verschwunden. Es gibt niemanden mehr, den du verraten könntest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie blinzelt. "Verzeih mir. Ich habe dich nicht erkannt."
+
+Ihr Zorn verschwindet. Verwirrung tritt an seine Stelle. Du überlegst, wie du sie nutzen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Zenoves Zorn ist ein schwerer Nebel, der sich zusehends verdichtet und Taenas schwindendes Bewusstsein damit die Luft raubt.
+
+Zenove selbst ist überwältigt. Sie zwingt Taenas Augen zu engen Schlitzen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Dann bist du keiner von Zoltuns fahrenden Händlern oder Exandrus ausländischen Fanatikern. Du gehörst zu uns."
+
+Noch während Zenove durch die alte Frau spricht, spürst du, wie Taenas Bewusstsein sich erholt und festigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Lügen! Waffenwächterin Marunn wird dich in die Weiße Esse werfen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sieh dich um. Wärest du hier, gefangen im Körper einer alten Frau, wenn ich lüge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Du irrst dich. Beruhige dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Schließlich überwältigt Zenove die alte Taena und schreit durch den Mund der Greisin.
+
+In diesem Augenblick erweitert sich Zenoves Psyche und erfüllt dich mit einem ganzen Leben voller Erinnerungen und Erfahrungen - darunter auch einige Verszeilen, die du als das Lied von Durgans Batterie erkennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen."
+
+"Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich."
+
+"Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ihr stehlt unseren Stahl, lasst uns blutend zurück! Ich-"
+
+Sie bricht unter einem krampfartigen Hustenanfall zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich kenne die Tür mit einem Relief, das einen Amboss und eine Wand mit Zinnen zeigt. Klingt das vertraut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Lügen] "Treue Pargrun wie wir müssen Durgans Batterie vor Zoltuns und Exandrus Fahrlässigkeit beschützen. Lass uns das Lied teilen, als Beweis unseres gemeinsamen Ziels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Würde ein Fremder von den vergoldeten Hallen der Batterie wissen? Oder vom Schrein Abydons, dem Patron aller Arbeiter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Sie blinzelt. "Du sprichst wie jemand, der mich kennt."
+
+Ihr Zorn verschwindet. Verwirrung tritt an seine Stelle. Du überlegst, wie du sie nutzen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ihre Augen öffnen sich weit und sie beginnt eine rhythmische Rezitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen."
+
+"Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich."
+
+"Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Sie nickt. 
+
+"Dann lass uns die Worte unseres Bundes teilen, Bruder."</DefaultText>
+      <FemaleText>Sie nickt. 
+
+"Dann lass uns die Worte unseres Bundes teilen, Schwester."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich war nicht in Durgans Batterie - deswegen brauche ich deine Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Waffenwächterin Marunn hat uns vor der Gier der Fremden gewarnt. Du wirst Durgans Batterie nicht betreten, solange ich-""
+
+Sie presst die Augen zusammen und erzittert. Ihr Zorn schwillt an wie eine Flutwelle, aber vielleicht kannst du sie noch beruhigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Taena beginnt aufzutauchen, aber noch ist Zenove stärker. Ihre Wut und ihre Panik sind vorübergehend gelindert.
+
+Du empfindest beide Teile der Seele als etwas Flüssiges, Formbares, wenn auch nur für einen Augenblick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Zenove entreißt Taena die Kontrolle - du spürst, wie die Persönlichkeit der alten Frau beinahe unter Zenoves Intensität erstickt wird.
+
+Taena verblasst mit jeder Sekunde mehr, doch vielleicht ist es noch möglich, sie an die Oberfläche zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"So erfrischt habe ich mich seit Jahrzehnten nicht gefühlt. Ich muss Haeferic fragen, was er in das Bier getan hat." Sie lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Sie atmet tief durch und ihre Augenlider senken sich. Im Körper der alten Frau kämpfen die Persönlichkeiten und Erinnerungen von Zenove und Taena um die Vorherrschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Zenoves Essenz hinabdrücken, so dass Taena wieder auftauchen kann.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Taenas Essenz hinabdrücken, so dass Zenove sich voll entfalten kann.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Zenove übernimmt die Kontrolle - mit einer Wildheit, die Taenas schwache Glieder erbeben lässt. Sie blickt zu dir hinauf. Ihr zorniger Blick ist der einer Frau, die noch immer in brutalen, weit zurückliegenden Erinnerungen verloren ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Sie stößt einen tiefen Seufzer aus, mit dem die Wut und das Trauma ihres vergangenen Lebens aus ihr entweichen wie Dampf.
+
+Als sie aber wieder zu dir aufblickt, leuchtet in ihren Augen eine neue Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Bin ich eingenickt? Ich hatte einen sonderbaren Traum ..."
+
+Sie schüttelt den Kopf und wischt sich ihre Hände an der Hose ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Es gibt so viel zu tun! Verzeih, aber ich muss nach den Bergarbeitern sehen - sie arbeiten so langsam, dass es noch ein Jahr dauert, bis der verfluchte Schacht geräumt ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Sag mir das Kennwort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Das Misstrauen steht ihr ins Gesicht geschrieben, aber aus ihrem Mund ertönt ein Sprechgesang, wie von allein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Taena, hör auf meine Stimme! Dies ist dein Körper und es ist deine Seele. Lass nicht zu, dass Zenove sie dir nimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[In Taenas Seele greifen und Zenoves Persönlichkeit unterdrücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Taenas Seele ist ein Schlachtfeld der Erinnerungen und Persönlichkeiten. Es verursacht dir körperliche Schmerzen, in sie hineinzugreifen. Deine Muskeln zittern ob der Anstrengungen des Kampfes. Dein Fleisch schmerzt mit tausend spektralen Wunden.
+
+Du stählst deinen Willen und ziehst Taena an die Oberfläche, wodurch du gleichzeitig Zenoves Zorn und Gewalttätigkeit in den Schlaf zwingst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Als du deine Augen öffnest, stellst du überrascht fest, dass dein Fleisch unversehrt ist und keine Anzeichen des Kampfes zu sehen sind.
+
+Abgesehen von der Frau vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Dann lass mal hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Aber ich weiß noch vieles über den Bergbau und ich lasse den Eingang von so vielen Leuten wie möglich freilegen."
+
+Sie tippt sich gegen den fleckigen, mit schütterem Haar bedeckten Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich bete zur Salzschlampe, dass ich nicht zu viel vergesse, ehe sie die Arbeit beendet haben." Sie zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Es geht voran. Ich konnte noch einige weitere für die Arbeit gewinnen." Ihre Augen funkeln vor Elan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Es gibt nicht mehr viele in Stalwart, die das nötige Wissen besitzen. Die Minen waren zu lange geschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich lasse sie ordentlich schuften, aber einige von ihnen haben Talent für die Arbeit. Mit etwas Glück ist die Mine bald wieder in Betrieb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Stalwart war einmal eine Bergbaustadt? Was ist geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wir wurden zu kolonialen Zeiten von den Aedyranern gegründet. Wir verdienten gutes Geld damit, Erze abzubauen und in das ganze Kaiserreich zu verkaufen." Sie nickt. Ihr Kopf bewegt sich, als wäre er an einem rostigen Scharnier befestigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sie runzelt die Stirn. "Dann kam die Rebellion - und den Dyrwäldlern wurde klar, dass es ihnen zu teuer war, die Bergpässe aufrechtzuerhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Danach ging es mit unserem Geschäft bergab. Wir konnten nicht mit der billigeren Ware konkurrieren, die aus den Republiken kam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Aber wenn du uns zur Weißen Esse führst, kann sich das ändern. Ich lasse vorsorglich die Minen freilegen." Ihr Grinsen lässt einen einzelnen schiefen Zahn aufblitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich habe schon viel gesehen, aber so etwas noch nie." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich habe draußen die Oger gehört! Sie reißen Wände ein und ermorden Bürger. Ich weiß nicht, wie es so schlimm werden konnte."
+
+Die alte Frau ringt die Hände. Ihre Knöchel sind geschwollen, ihre Handflächen voller Schwielen, die hörbar kratzen, als sie die Hände aneinanderreibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Sie sagte, du wärest in Trutzbucht ein rechtes Schlitzohr gewesen. Aber vielleicht ist ein Schlitzohr genau das, was wir brauchen." Ein einzelner schiefer Zahn ragt aus ihrem Grinsen heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Lügen! Du würdest unsere Hallen leeren, wenn Münzmeister Zoltun unsere Türen noch weiter öffnen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich erhalte meine Befehle von Kommandant Marunn, genau wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Aber jetzt, wo du Durgans Batterie geöffnet hast, ändert sich das vielleicht." Ihr Grinsen lässt einen einzelnen schiefen Zahn aufblitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich halte alles so gut am Laufen, wie ich eben kann. Aber ich bin eine alte Frau - ich bleibe nicht mehr ewig 90." Wieder steigt ein Lachen in ihrem Hals auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du ziehst dich aus Taenas Seele zurück, aber du spürst, wie Zenoves Zorn und Wildheit immer noch an dir zerren. Ihre Essenz bäumt sich auf, wehrt sich gegen einen unsichtbaren Feind.
+
+Zenove ist mächtig, aber auch gefährlich. Ihr Zorn hat sie an alte und bedrohliche Erinnerungen gefesselt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
+      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Endlich! Ein Dyrwäldler, der nicht Aedyr die Schuld an allem gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Das ist der Blick eines in die Enge getriebenen Tiers, [Player Name]. Sei vorsichtig mit ihr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ihre Seele führt in ihrem Inneren Krieg, Wächter. Der Kampf wird sie verschlingen, wenn wir nichts tun."</DefaultText>
+      <FemaleText>"Ihre Seele führt in ihrem Inneren Krieg, Wächterin. Der Kampf wird sie verschlingen, wenn wir nichts tun."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Was hast du ihr angetan, [Player Name]?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Vorsicht. Das sind dunkle Vorzeichen von dem, was in ihr erwacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Wenn sie angreift und ich eine alte Frau schlagen muss, will ich von niemandem etwas hören. Ich konnte nichts tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Diese hier ist deutlich stärker. Es wird sie von ihnen zerfressen, Schwäche durch Stärke ersetzen."
+
+Durance blickt sie an und senkt die Stimme. "Aber es ist vielleicht nicht zu deinem Vorteil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ich liebe dieses Gerede von Blut. Wenn sie ein wenig jünger wäre und sehr viel haariger ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Nun, das wurde recht schnell recht unangenehm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Eine wahre Kriegerin wurde darunter begraben. Es würde all die Leichen um sie herum erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vorsicht. Man braucht keine Nase, um zu merken, dass sie nach Ärger riecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

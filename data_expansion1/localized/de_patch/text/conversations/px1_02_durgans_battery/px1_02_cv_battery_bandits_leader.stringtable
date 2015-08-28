@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_battery_bandits_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Mann steht in der Mitte der Straße. Ohne die Klinge zu senken, die auf seiner Schulter ruht, macht er zwei Schritte vorwärts, als würde er für die Gruppe hinter sich sprechen. "Ich hatte auf einen weiteren Gabenbringer gehofft, die haben immer hübsche Überraschungen dabei - und wir lieben Überraschungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mit wir meine ich natürlich mich und dieses gute Stück". Der Mann klopft auf das Heft seines Schwertes. "Es wird schnell gehen. Wenn du stillhältst."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

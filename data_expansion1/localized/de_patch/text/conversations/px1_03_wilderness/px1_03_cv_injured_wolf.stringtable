@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_injured_wolf</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Wolf liegt im Schnee, vor Erschöpfung und Schmerzen hechelnd. Ein Pfeil hat seinen Vorderlauf durchbohrt und ragt aus der Flanke des Tieres. 
+
+Der Wolf knurrt leise, als du dich näherst. Den Schwanz hat er eingezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Wunde untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Wunde mit deinem medizinischen Wissen behandeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Versuchen, den Pfeil zu entfernen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Den Wolf beruhigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Wolf scheint den Weg eines Jägers gekreuzt zu haben. Ein silberner Pfeil ragt aus dem rechten Vorderlauf des Wolfs. Er steckt jedoch nicht sehr tief in dem Bein.
+
+Trotzdem vermutest du, dass du seine Lage noch verschlimmern würdest, wenn du den Pfeil ohne medizinische Kenntnisse und die nötige Sorgfalt einfach herausziehen würdest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Wolf scheint den Weg eines Jägers gekreuzt zu haben. Ein silberner Pfeil hat das Bein des Wolfs durchbohrt. Die Federn sehen aus, als hätte der Wolf versucht, den Pfeil abzubeißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still, während du arbeitest. Es winselt nur gelegentlich. 
+
+Du entfernst vorsichtig den Pfeil und verbindest dann die Wunde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ihn in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du näherst dich langsam dem Wolf und sprichst leise und ruhig zu ihm. Langsam beruhigt der Wolf sich, auch wenn er weiterhin verängstigt zu dir aufblickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Den Wolf von seinem Leid erlösen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du packst den Wolf fest am Kragen. Das Tier beginnt, sich panisch zu winden, aber du drückst es mühelos zu Boden. 
+
+Danach ist es ein Leichtes, dem Wolf ein Messer in das Genick zu stechen. Bald bewegt sich das Tier nicht mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Zunächst wird der Wolf ganz still, doch kaum legst du eine Hand auf sein verwundetes Bein, beginnt er, sich panisch zu winden. Er jault vor Schmerzen auf, schnappt nach deinen Händen und schießt dann auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du packst den Wolf beim Kragen und versucht, ihn festzuhalten, aber das Tier gerät in Panik. Durch sein verzweifeltes Zappeln reißt der Wolf sich los und schnappt sofort nach dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Ein Lied singen, um den Wolf zu beruhigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Wildtier bezaubern auf den Wolf wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du näherst dich langsam dem Wolf und singst leise zu ihm. Der Wolf legt seine Ohren an, hört aber auf zu knurren. 
+
+Langsam beruhigt der Wolf sich, auch wenn er weiterhin verängstigt zu dir aufblickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Dein Zauber wirkt schnell - der Wolf hört auf zu knurren und liegt reglos im Schnee. Nur sein Schwanz wedelt langsam hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 0] bewegt sich auf das Tier zu, um ihm zu helfen. Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still. Es winselt nur gelegentlich. 
+
+[Slot 0] entfernt vorsichtig den Pfeil und verbindet dann die Wunde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Kaum bist du fertig, steht der Wolf holprig auf. 
+
+Er betrachtet dich für einen langen Augenblick und verschwindet dann humpelnd in den Bäumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still, während du arbeitest. Es winselt nur gelegentlich. 
+
+Du entfernst vorsichtig den Pfeil und verbindest dann die Wunde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Kaum ist [Slot 0] fertig, steht der Wolf holprig auf.
+
+Er betrachtet dich für einen langen Augenblick und verschwindet dann humpelnd in den Bäumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Zunächst wird der Wolf ganz still, doch kaum legst du eine Hand auf sein verwundetes Bein, beginnt er, sich panisch zu winden.
+
+Edér nähert sich dir mit ernstem Gesichtsausdruck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Hier. Lass mich."
+
+Er kniet sich neben die Kreatur und legt seine Arme langsam um ihre Brust und ihren Torso. Er beruhigt den Wolf wie einen weinenden Säugling und streicht ihm mit einer Hand über die matte Mähne.
+
+Er nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Versuch es jetzt."
+
+Der Wolf tritt und knurrt, aber Edér hält ihn noch fester umschlossen. Es gelingt dem Tier, ihm in eine Hand zu beißen. Blut rinnt aus tiefen Wunden, aber Edér lässt sich den Schmerz nicht ansehen, sondern besänftigt weiter still das Tier.
+
+Du entfernst vorsichtig den Pfeil und verbindest die Wunde.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_ista</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh! Oh, es funktioniert! Ja! Ich fasse es nicht, es ist wirklich - oh." Die Zwergin blickt dich mit enttäuschter Miene an. Sie hält eine große, rechteckige Kiste in den Händen, voll mit seltsamen Rädern und Symbolen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich hoffe, du hattest Glück! Und pass gut auf dieses Gerät aus. Es besitzt einige sehr empfindliche Komponenten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Denkst du, ich sollte in meinem Bericht den Ogerangriff erwähnen? Ich persönlich finde die Forschung aufregend genug, aber die Gestanden mögen solche Dramen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ach, lass mich in Ruhe. Es wird schon ohne deinen Spott schwer genug, diese Expedition zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich kann es immer noch nicht glauben. Ich war mir sicher, dass es funktioniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Das wird fantastisch! Warte nur, bis sie zuhause davon hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Mein Erzaufspürgerät! Nun ja, das wird es einmal. Ich muss es noch kalibrieren. Im Moment glaubt es offenbar, du wärest eine Kupferablagerung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe keine Erzablagerungen gefunden - aber das hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was? Es funktioniert also! Was für ein Tag! Aber warum diese Edelsteine? Ich dachte nicht, dass das Gerät träges Adra aufspürt. Faszinierend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was funktioniert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Das höre ich oft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hast du jemand anderen erwartet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Meine Beseelerkontakte hatten erwähnt, dass eine besonders starke Seelenessenz zu Interferenzen führen könnte." Sie mustert dich. "Aber ich bin mehr an Mineralien interessiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Es tut mir leid. Ich wollte nicht so unhöflich sein - ich bin Ista. Wie ich höre, haben dir zu verdanken, dass die Oger fort sind. Ich bin froh, dass Stalwart überlebt hat. Die Reise hierher wäre sonst eine herbe Enttäuschung gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vielleicht habe ich eine starke Seele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Wonach suchst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wie funktioniert dieses Gerät?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Was hast du da für ein Gerät?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sie lächelt. "Das mag wohl sein. Aber das ist nicht unbedingt das, wonach ich suche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich versuche, die Instrumente nachzubauen, welche die Pargrun-Zwerge damals zu diesem Berg geführt haben. Das hier ... " Sie hält die metallische Kiste hoch. " ... ist mein jüngster Prototyp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vor vielen Jahrhunderten folgten Zwerge den Anzeigen solcher Geräte zu dem Ort, der heute die Batterie ist. Wenn ich das Gerät nachbauen kann, finde ich vielleicht anderswo Erzablagerungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich wollte es hier testen, aber meine Ankunft wurde durch die Botschaft von dem Ogerangriff verzögert. Und nun finde ich niemanden, der sich auf den Berg hinaufwagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich könnte für dich auf den Berg gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich mache es - wenn du mich dafür bezahlst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Weggehen] "Dann mal viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Es ist ziemlich ausgeklügelt, wenn du mir ein wenig beruflichen Stolz verzeihst. Eine Mischung aus alchemischen Prozessen und hellseherischen Zaubern. Und einigen äußerst teuren Kristallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ista seufzt. "Ich muss wohl einfach hoffen, dass im Dorf etwas zu finden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Wirklich? Das wäre wunderbar! Ich muss das Gerät nur ein wenig anpassen ..." Ihre Hände fliegen über die Kiste und verstellen Hebel und Scheiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Es sollte dich zu Metallablagerungen führen. Wir wissen bereits, dass die Batterie auf einigen ergiebigen Adern sitzt, aber ich wollte die umliegenden Berge untersuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Wenn du dem Signal zu Erzablagerungen folgen und mir eine Probe bringen kannst, kann ich das Gerät verfeinern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Sie überreicht dir die Kiste. "Ich danke dir vielmals!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh, natürlich! Ein echter Feldtest ist die Investition wert. Ich muss das Gerät nur ein wenig anpassen ..." Ihre Hände fliegen über die Kiste und verstellen Hebel und Scheiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Lügen] "Ich fürchte, ich habe nichts gefunden. Ich bin über den ganzen Berg gewandert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Was? Aber das ist- ich war mir sicher, dass du etwas findest! Gewiss, vielleicht ist der Berg inzwischen einfach ausgebeutet, aber ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich muss dem weiter nachgehen. Aber - es hat funktioniert! Endlich ein Durchbruch! Von diesem Adra ausgehend kann ich die Verzauberungen verfeinern - wir graben Eisen aus, Gold, Adra, einfach alles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Ihr die Edelsteine geben.] "Hier, bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Ihr die Edelsteine geben.] "Ich helfe doch gern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich behalte die Edelsteine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tut mir leid, ich war einfach abgelenkt. Ich habe schon von dir gehört. Von den Dorfbewohnern." Sie beobachtet dich nervös.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nun, du hast zweifellos deine Spuren in Stalwart hinterlassen." Sie blickt weg und nimmt eine winzige Anpassung an dem Gerät vor, das sie in der Hand hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich werde nie vergessen, was du für mich getan hast. Man wird zuhause davon hören, das verspreche ich dir. Wer weiß - vielleicht benennen sie die nächste Batterie nach dir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Was? Aber das ... das sind meine einzigen Beweise. Es wird Monate dauern, das Gerät neu zu kalibrieren. Länger, wenn ich keinen Anhaltspunkt habe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Es war keine große Mühe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tja, ich tue es nicht noch einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Nein, wahrscheinlich funktioniert einfach das Gerät nicht. Ich muss irgendetwas falsch gemacht haben. Nun muss ich wohl ganz von vorne anfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hier - es tut mir leid, dass du dir die ganze Mühe umsonst gemacht hat. Du hast dein Leben riskiert, um mir zu helfen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Du bist sehr freundlich. Ich hoffe, du hast mehr Glück ... warum auch immer du hier oben sein magst. Ich glaube, ich steige den Berg wieder hinab, sobald ich höre, dass die Straße frei ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich kann es dir nicht verübeln." Sie seufzt erneut. "Ich glaube, ich steige den Berg wieder hinab, sobald ich höre, dass die Straße frei ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Das ändert alles! Ach - und du sollst natürlich nicht mit leeren Händen dastehen. Hier, das ist mein Vorratsgeld. Ich werde nicht mehr lange in Stalwart bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Diese Edelsteine sehen recht wertvoll aus ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Hmmh? Oh, so ist das. Aber als Beweis sind sie sehr viel wichtiger, als sie es als Schmuck sind! Ich kann dir unmöglich dasselbe bieten wie Yduran, aber ich gebe dir alles, was ich habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Dann mach dich mal lieber an die Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Also gut. Hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Oh, danke - und hier, du sollst natürlich nicht mit leeren Händen dastehen." Sie reicht dir einen schweren Geldbeutel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Oh, du-!" Ista verzieht ihren Mund zu einem schmalen Strich. "Schön, behalte deine Kristalle. Es war dumm von mir, die Feldforschung einem Amateur zu überlassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nicht mein Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Zeig mit dem Ding nicht auf mich." Sie blickt von der Kiste zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Teufelin von Caroc macht ein knarrendes, ersticktes Geräusch. Als würde sie sich räuspern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nein - du bist es! Du hast die Batterie geöffnet!"
+
+Diese Zwergin blickt dich ehrfurchtsvoll an. In ihren Händen hält sie einen großen, rechteckigen Kasten, mit seltsamen Drehscheiben und Symbolen bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Du kannst dir nicht vorstellen, was das für uns alle bedeutet, die wir die Batteriezwerge erforschen. Ich muss eine zweite Expedition organisieren!
+
+"Nun ... falls ich bei der ersten irgendetwas finde." Sie blickt stirnrunzelnd auf das Gerät in ihren Händen, das einen hohen Ton von sich gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Du hast es wirklich geschafft! Die Weiße Esse steht uns allen offen!"
+
+Sie seufzt zufrieden. "Welche Geheimnisse wir ergründen können ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich tue es - für die Wissenschaft!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Endlich, ein Bruder im Geiste! Ich erwähne dich in meinem Bericht! Hier - ich muss das Gerät nur kurz kalibrieren ..."
+
+Ihre Hände sausen über die Kiste und passen Knöpfe und Scheiben an.</DefaultText>
+      <FemaleText>"Endlich, ein Schwester im Geiste! Ich erwähne dich in meinem Bericht! Hier - ich muss das Gerät nur kurz kalibrieren ..."
+
+Ihre Hände sausen über die Kiste und passen Knöpfe und Scheiben an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Vielleicht wenn ich das hier anpasse, so ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

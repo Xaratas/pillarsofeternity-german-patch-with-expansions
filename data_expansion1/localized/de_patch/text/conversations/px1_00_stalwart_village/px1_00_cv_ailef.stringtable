@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_ailef</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Tut mir leid, aber ich habe Haeferic schon für dieses Zimmer bezahlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich will nicht unhöflich sein, aber ich bin beschäftigt. Kannst du dir nicht ein anderes Zimmer nehmen?"
+
+Der Orlaner dreht sich mit einer schnellen, nervösen Bewegung um und blickt an dir vorbei. Seine Ohren, an den Rändern zerfetzt und voller Kerben, liegen dicht an seinem Kopf an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenn es um das Zimmer geht, ich habe Haeferic schon bezahlt. Und ich habe ihm gesagt, dass ich meine Ruhe haben will."
+
+Er wählt seine Worte mit Bedacht, als hätte er Angst, das Falsche zu sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Haeferic schickt mich, nach dir zu sehen. Er sagt, du würdest etwas im Schilde führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Er ... was? Oh nein. Nein."
+
+Er fährt sich mit den Krallen durchs Haar und zieht an seinen langen, zerklüfteten Ohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ist sie da? Hast du Defala gefunden?" Ailef schwankt zwischen Hoffnung und Furcht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich will einfach nur weg hier. Ich habe genug zusammengekratzt, um nach Neu-Heomar zu kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich mache es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wir werden sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Gibt es etwas Neues von Defala?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Lügen] "Ich habe mich um sie gekümmert. Du kannst gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Sie ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Bist du sicher, dass sie da draußen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sie sagte, du hättest dich freiwillig verpflichtet. Und du hättest bei der Flucht einen Jungen getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich wünschte, es wäre anders gekommen. Aber ich würde es wieder tun. Alles, nur um nicht wieder dahin zurück zu müssen."
+
+Er blickt dich wieder an und macht einen Schritt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich wollte nur deine Seite der Geschichte hören. Ich habe weiterhin vor, mich um Defala zu kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dein Verbrechen darf nicht ungesühnt bleiben. Du wirst im Kerker von Caed Nua Buße tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Lügen] "Beruhige dich. Ich habe Defala trotzdem getötet. Du kannst gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Und danke, vor allem danke. Hier, nimm das. Und sag Haeferic, dass er den Rest für die Woche behalten kann. Ich verschwinde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nimm das, und sag Haeferic, er kann die Miete für diese Woche behalten. Er ist mich bald los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Es ist zumindest kein Joch um meinen Hals. Und es ist immer noch besser, als in diesem gefrorenen Krater von Stadt zu verrecken."
+
+Mit dem letzten Rest seiner Würde bereitet er sich auf den langen Marsch nach Caed Nua vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er entspannt sich langsam. "Also gut. Nun, da du es gehört hast ... lass nicht zu, dass sie mich dahin zurück bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Und danke, vor allem dir. Hier, nimm das. Und sag Haeferic, dass er den Rest für die Woche behalten kann. Ich verschwinde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ah. Dann warte ich hier." Er blickt sich nervös und unsicher im Zimmer um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich packe meine letzten Sachen. Ich will keine Spur hinterlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Lügner! Monster! Ich habe dir vertraut! Wie konntest du-"
+
+Er verstummt, als einer der Sklavenjäger ihm gegen den Kopf schlägt.</DefaultText>
+      <FemaleText>"Lügnerin! Monster! Ich habe dir vertraut! Wie konntest du-"
+
+Er verstummt, als einer der Sklavenjäger ihm gegen den Kopf schlägt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Haeferic schickt mich, nach dir zu sehen. Er mag keine Orlaner, also glaubt er natürlich, du würdest etwas im Schilde führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du hast die Sklaverei verdient. Du gehst zurück nach Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er fletscht die Zähne. "Niemals. Ich sterbe eher, als dahin zurückzugehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ja. Ich arbeite noch daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Hast du ... dich um Defala gekümmert? Sie wird nicht aufgeben, nachdem sie jetzt weiß, dass ich hier bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ist sie da? Hast du sie gesehen?"
+
+Er lehnt sich zur Seite, um an dir vorbei zur Tür zu blicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Von wem redest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Du wirkst nervös."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Erzähl mir, was los ist. Von vorne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Defala! Diese Frau. Die Sklavenhändlerin. Sie ..."
+
+Er schluckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich war Sklave in Readceras. Ich bin davongelaufen. Habe mich hierher durchgeschlagen. In den Bergen kann man Sklavenjäger am besten abschütteln, aber Defala ist eine der besten."
+
+Er spielt mit zitternden Händen an seinem abgewetzten Wams herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Wie fürchterlich! Wir müssen doch irgendetwas tun können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Es tut mir so leid. Kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vielleicht sollten wir es jemandem sagen. Stalwart würde das niemals erlauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Sklaverei mag hier illegal sein, aber ich wäre nicht der erste Flüchtling, der in einer Stadt wie dieser gefangen wird, weil ein Einheimischer etwas Geld verdienen will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Außerdem hast du mit Haeferic gesprochen. Ich habe pünktlich bezahlt und niemanden belästigt und er geht vom Schlimmsten aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Es kann nur Defala sein - sie ist schon seit dem Vorgebirge hinter mir her. Ich bezahle dich, wenn du sie loswirst. Ganz egal wie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Nicht mein Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Er verzieht das Gesicht. "Natürlich. Dann behalte mein Geheimnis bitte für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Danke sehr. Aber sei vorsichtig. Sie ist gewiss nicht alleine gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Sie folgt mir nicht den ganzen Weg hierher, nur um dann kehrtzumachen und wieder nach Hause zu gehen. Nein, sie wartet darauf, dass ich aufbreche."
+
+Er kratzt sich mit einem Krallenfinger am Kopf und denkt nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Eine Gruppe Holzfäller hat vor einigen Tagen gesagt, sie hätten westlich der Stadt Readceraner getroffen. Bei einem gefrorenen Teich, wie ich meine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich warte, bis du mir sagst, dass ich ungefährdet aufbrechen kann. Bitte sag ihr nicht, wo ich bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Erleichterung macht sich in seinem Gesicht breit. "Den Göttern sei Dank. Jedem einzelnen von ihnen. Ich dachte, ich würde diesen Tag niemals erleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Erleichterung macht sich in seinem Gesicht breit. "Den Göttern sei Dank. Jedem einzelnen von ihnen. Ich dachte, ich würde diesen Tag niemals erleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Er entspannt sich langsam. "Tut mir leid. Ich war zu lange auf der Flucht. Trotzdem danke für deine Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Seine Pupillen verengen sich zu dünnen Schlitzen. "Und ich dachte, du würdest Defala loswerden ... nicht mich an sie verkaufen."
+
+Er atmet tief durch, aber seine Augen ruhen noch immer auf dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sie sagt die Wahrheit. Ich hatte Spielschulden. Sieben Jahre meines Lebens habe ich dafür bezahlt - aber jetzt ist Schluss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was den Jungen angeht ... Ich wollte ihm nicht wehtun. Aber er hat mich gesehen, als ich mich aus der Palisade geschlichen habe."
+
+Er lässt die Schultern sacken und sein Blick schweift ins Leere. Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Ailef kauert sich zusammen wie ein in die Enge getriebenes Tier. Er fletscht die Zähne. Seine Augen huschen durch den schäbigen Raum und wieder zurück zu dir.
+
+Schließlich richtet er sich auf und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vielleicht liefere ich dich aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Bitte nicht!" Er fällt auf die Knie und klammert sich an deine Kleider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich - ich kann dich bezahlen! Ich habe ein wenig Geld zusammengekratzt. Es gehört dir, wenn du sie loswirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Sie ist irgendwo westlich der Stadt. Sagt man jedenfalls. Bitte, hilf mir einfach, hier zu verschwinden." Er blickt nach unten und ringt die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Lass das Gestammel und sag mir, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Aber die Einheimischen berichten von einer Gruppe Readceraner, die westlich der Stadt kampiert." Er zupft an seinem lumpigen Hemdsärmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Der hier verbirgt etwas. Sein Verstand ist ein Labyrinth aus Furcht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich weiß nicht, warum er so etwas glauben sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Neu-Heomar? Das ist wohl kaum eine Verbess-" Er hält inne, die Augen weit aufgerissen.
+
+"Ich meine, es ist schön dort. Wird dir gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ziel hoch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Lügen] "Ich habe mich um sie gekümmert. Du kannst gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Das ist meine Chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Zahuas Miene verdüstert sich. "Solange ihm Sklavenjäger auf den Fersen sind, kann sein Geist keine Freiheit genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich sehe die Weisheit darin nicht. Ja, sein Leid ist atemberaubend, aber gewiss hat er sich seine Freiheit doch verdient.
+
+"Das Leid eines Sklaven wird zu einem Leid ganz anderer Art, wenn er flieht. Für die Seele ist es aber nicht weniger bewegend." Zahua reibt sich gedankenverloren die Handgelenke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ich gehe hin, wo es mir passt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Dein Ton lässt ihn zurückschrecken.
+
+Seine Augen weiten sich und er blickt an dir vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich habe sie schon getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

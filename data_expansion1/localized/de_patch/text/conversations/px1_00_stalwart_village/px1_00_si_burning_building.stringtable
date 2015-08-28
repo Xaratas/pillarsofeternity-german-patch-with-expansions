@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_si_burning_building</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>249</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] springt über die brennende Schwelle und verschwindet hinter einer Wand aus Rauch. 
+
+Im Inneren des Hauses hat das Feuer die Wände und Balken zerfressen. Dichter Qualm füllt das ganze Gebäude. Man sieht kaum eine Handbreit vor den Augen, nur gelegentlich lodern irgendwo Funken auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ducken, um dem Rauch zu entgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Zum Ausgang zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Luft ist voll beißendem, schwarzem Rauch, aber [Specified 0] hält sich die Hand vor Mund und Nase und kämpft sich weiter vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Luft ist voll dunklem, qualmendem Rauch. Tränen strömen aus den Augen von [Specified 0], während das Feuer weiter lodert. Die flirrende Hitze der Flammen macht jeden Atemzug zu einer Qual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] dringt durch einen dichten Vorhang aus Hitze und Ruß weiter vor. Die Hütte knarzt und ächzt, die Flammen werden immer größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ein Deckenbalken biegt sich durch und droht, in den Gang zu krachen. Aus nächster Nähe ist schwach eine Stimme zu hören, die um Hilfe ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als der Deckenbalken schließlich bricht, springt [Specified 0] nach vorne, rollt sich elegant ab und weicht so dem brennenden Holz aus, das von oben herabstürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0] sieht sich eilig um und findet ein Stück herabgefallenes Holz, das vielleicht groß genug ist. [Specified 0] ergreift das Holz und stemmt es gegen den herabhängenden Balken. 
+
+Die improvisierte Stütze scheint zu halten. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Den Balken mit einem anderen Holz abstützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Vorbeilaufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mit einem gewaltigen Knarzen kracht der brennende Balken hinab. [Specified 0] war zu langsam und ist unter dem schweren Holz eingeklemmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Luft ist voll beißendem, schwarzem Rauch. [Specified 0] hustet und keucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Aufgeben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] sieht sich eilig um und findet ein Stück herabgefallenes Holz, das vielleicht groß genug ist. 
+
+Das Holz ist jedoch zu schwer zum Heben, [Specified 0] zieht es mühsam herbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Luft ist voll beißendem, qualmendem Rauch. Tränen strömen aus den Augen von [Specified 0] und jeder Schritt wird zur Qual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Plötzlich gibt ein Deckenbalken krachend nach. [Specified 0] springt nach vorne, rollt sich elegant ab und weicht so dem brennenden Holz aus, das von oben herabstürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0] kämpft sich weiter vor und gelangt endlich in einen größeren Raum. Links ist ein Mann zu sehen. Er war es, der um Hilfe gerufen hatte. Er steht gefangen hinter einem Vorhang aus Flammen, die Arme erhoben, um die Hitze abzuwehren. Es könnte unmöglich sein, zu ihm zu gelangen, ohne vorher die Feuer zu löschen.
+
+Rechts liegt eine bewusstlose Frau unter einem Haufen Schutt, der wohl einmal das Dach war. Sie ist klein, aber der Schutt, unter dem sie gefangen ist, sieht schwer aus. Rauch steigt nach oben in die freie Luft und verdeckt jede Sicht nach draußen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Versuchen, den Schutt von der Frau zu heben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Den Schutt mit einem Brecheisen weghebeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Es weiter versuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben. 
+
+[Specified 0] ergreift das Ende des Balkens und müht sich mit aller Kraft, ihn anzuheben. Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben. 
+
+[Specified 0] ergreift das Ende des Balkens und müht sich mit aller Kraft, ihn anzuheben. Der Balken bewegt sich etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Mit einem letzten gewaltigen Hauruck hievt [Specified 0] den übrigen Schutt von der Frau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Das Mantra von "Reif und Frost" sprechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Den Zauber "Schauernebel" auf die Flammen wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Den Zauber "Winterwind" auf die Flammen wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 0] müht sich, bei Bewusstsein zu bleiben, aber die Erschöpfung und der Sauerstoffmangel sind zu groß. Bald wird [Specified 0] überwältigt und bricht auf dem Boden zusammen. Es wird dunkel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Etwas später wacht [Specified 0] auf, nachdem [SkillCheck 0] [Specified 0] ins Freie und in Sicherheit gezerrt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ohne Verbündete hast du niemanden, der dich aus den Folgen deiner heldenhaften Bemühungen retten kann. Die Bürger von Stalwart können nur entsetzt zusehen.
+
+Der Tod übermannt dich schließlich leise, denn du fällst dem Rauch zum Opfer, lange bevor das Feuer dich findet. Die Geschichte des Wächters endet hier.</DefaultText>
+      <FemaleText>Ohne Verbündete hast du niemanden, der dich aus den Folgen deiner heldenhaften Bemühungen retten kann. Die Bürger von Stalwart können nur entsetzt zusehen.
+
+Der Tod übermannt dich schließlich leise, denn du fällst dem Rauch zum Opfer, lange bevor das Feuer dich findet. Die Geschichte der Wächterin endet hier.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Etwas später wacht [Specified 0] auf, nachdem [SkillCheck 1] [Specified 0] ins Freie und in Sicherheit gezerrt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Trotz aller Bemühungen kann [Specified 0] den Balken nicht bewegen. Der Aufprall hat [Specified 0] den Atem geraubt und der Schutt ist viel zu schwer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Warten, bis der Balken einstürzt.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Rauchwolken werden nach unten gezogen, als der Balken hinabstürzt und in einem Funkenregen landet. Rauch lässt die Augen von [Specified 0] tränen. Mit jedem Atemzug strömt Ruß in die Lungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0] ist zwar vom Aufprall mitgenommen, kann den Schutt aber relativ mühelos entfernen. [Specified 0] richtet sich wieder auf, etwas außer Atem durch die Anstrengung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Stehenbleiben und die Situation auf der linken Seite ansehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0] versucht, ein Mantra zu singen, doch der Rauch hat sein Werk getan. Jedes Wort ist ein ersticktes Keuchen. Mit der Zeit verkommen alle Versuche zu ergebnislosen Hustenanfällen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Der Rauch macht zwar jedes Wort zu einer Qual, aber [Specified 0] kann das Mantra lange genug singen, um die Flammen zu durchqueren. 
+
+Die Frostmagie erstickt das Feuer und bietet gnadenvolle Erholung von der drückenden Hitze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 0] setzt das Brecheisen gegen einen Teil des Balkens und müht sich mit aller Kraft, ihn anzuheben. 
+
+Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Stehenbleiben und die Situation auf der rechten Seite ansehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hilfe! Bitte, hilf mir!" 
+
+Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite des Hauses gefangen. Das Feuer hat sich über die Dielen ausgebreitet und blockiert jeden Fluchtweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Diese Frau ist unter einer großen Menge Schutt eingeklemmt, darunter auch ein schwerer Balken. Ein Bluterguss an ihrer Schläfe lässt darauf schließen, dass der herabfallende Schutt sie getroffen hat.
+
+An ihrer ausgestreckten Hand siehst du einen Ring aufblitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Den Ring nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 0] zieht den Ring vom Finger der Frau und steckt ihn ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Specified 0] konzentriert sich auf die Folge von Worten, die Frostmagie herbeiruft. 
+
+Das Feuer zieht sich vor dem Angriff der Kälte zurück, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] legt das Holz wieder ab und der Schutt rutscht wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Trotz aller Bemühungen kann [Specified 0] den Balken nicht weiter bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!" 
+
+Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Frau ist zwar immer noch bewusstlos, ist nun aber vom Schutt befreit. Du kannst sie bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Die Frau hinaustragen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] geht zu dem anderen Opfer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Abwenden und der Frau helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Abwenden und dem Mann helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 0] geht zu dem anderen Opfer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Frau ist zierlich. Sie zu tragen erweist sich als einfacher, als sie von dem Schutt zu befreien. [Specified 0] legt sie sich vorsichtig über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Mit der bewusstlosen Frau fest im Griff macht [Specified 0] sich auf den Weg zum Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Specified 0] macht sich auf den Weg zum Ausgang und kennt nur einen Gedanken - weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Specified 0] eilt zum Ausgang, durch den Rauch und die Flammen und in die Bergluft hinaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Specified 0] räumt den herabgestürzten Balken mit müheloser Anmut beiseite, ohne die Glut und den Schutt am Boden zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Specified 0] springt ein zweites Mal an dem instabilen Balken vorbei. Kurz, nachdem [Specified 0] in Sicherheit ist, kracht das Holz herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Vor lauter Rauch sieht [Specified 0] nichts und stolpert über den Schutt am Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 0] klettert mit müheloser Anmut über den herabgestürzten Balken, ohne die Glut und den Schutt am Boden zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Der Rauch nimmt [Specified 0] die Sicht und erschwert das Atmen, aber [Specified 0] stolpert weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du springst über die brennende Schwelle und verschwindest hinter einer Wand aus Rauch. 
+
+Im Inneren des Hauses hat das Feuer die Wände und Balken zerfressen. Dichter Qualm füllt das ganze Gebäude. Man sieht kaum eine Handbreit vor den Augen, nur gelegentlich lodern irgendwo Funken auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Hinter der Schwelle der Hütte siehst du nichts als qualmenden Rauch. Das Feuer klettert brüllend das Holz hinauf.
+
+Die Luft fühlt sich dick und heiß an. Das Gebäude ist ein einziges Labyrinth aus Flammen. Dem Rauch zu trotzen und einen Weg durch das Feuer zu finden wird eine Herausforderung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Selbst in die brennende Hütte gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Slot 0] schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Slot 1] schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2] schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3] schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Slot 4] schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Slot 5] schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die gewaltigen Ausdauerreserven von [Specified 0] sind erschöpft, es zählt nur noch das Entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
+      <FemaleText>"Du bist also nicht nur eine Plünderin!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Slot 0] vorbeizudrängen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Dem Mann ins Gesicht treten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Der Mann ist nicht auf die plötzliche Gewalt gefasst, [Specified 0] trifft ihn mit einem harten Tritt. Der Mann bricht sofort zusammen und landet wie ein Sack Getreide auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Den Balken wegdrücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Nach Hilfe rufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du rufst nach Hilfe, aber das Dröhnen des Feuers übertönt deine schwache Stimme. Bald wird dir klar, dass niemand kommen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Die Luft ist voll beißendem, schwarzem Rauch, aber [Specified 0] geht unbeirrt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Die drückende Hitze, der Rauch und die Last auf den Schultern von [Specified 0] erweisen sich als starke Ablenkung. 
+
+[Specified 0] gelingt es jedoch, konzentriert zu bleiben. Bald ist die vertraute Kühle der Frostmagie zu spüren. Das Feuer zieht sich zurück, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0] versucht, sich auf die Folge von Worten zu konzentrieren, die Frostmagie herbeiruft. 
+
+Doch die drückende Hitze, der Rauch und die Last auf den Schultern von [Specified 0] erweisen sich als zu starke Ablenkung. Der Zauber schlägt fehl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 0] verliert rasant an Stärke und bleibt nur dank gewaltiger Ausdauerreserven auf den Beinen. Mit jedem Augenblick wird ein Entkommen unwahrscheinlicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Die verrauchte Luft, die kochende Hitze und der brennende Schutt lassen die Stärke von [Specified 0] rasant schwinden. Mit jedem Augenblick wird ein Überleben unwahrscheinlicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Die verrauchte Luft und der brennende Schutt zehren an den Kräften von [Specified 0]. Doch [Specified 0] kämpft sich entschlossen weiter voran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Die Anstrengung hat zwar etwas an den Kräften von [Specified 0] gezehrt, doch [Specified 0] hält sich gut und drängt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Trotz des Chaos hat [Specified 0] relativ unbeschadet überlebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0] bewegt sich mühelos durch das brennende Haus, bisher völlig unbeschadet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Sie wieder aufheben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Sie zurücklassen und zum Ausgang eilen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Specified 0] lässt die Frau fallen. Sie landet mit einem lauten Plumpsen auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Specified 0] bückt sich, um die Frau wieder aufzuheben. Dieses Mal kostet die Anstrengung deutlich mehr Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Die verrauchte Luft und der brennende Schutt zehren an den Kräften von [Specified 0]. Nur mit Mühe kann [Specified 0] sich aufrechthalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Endlich gelangt [Specified 0] zur Tür und eilt aus dem Feuer in die frische Bergflut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Der Rauch nimmt [Specified 0] die Sicht und erschwert das Atmen. [Specified 0] atmet auf dem restlichen Weg zum Ausgang die giftigen Gase ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Ducken, um dem Rauch zu entgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Zum Ausgang zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Die Luft ist voll von beißendem, schwarzem Rauch, aber du gehst unbeirrt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Die Luft ist voller beißendem schwarzen Rauch, aber du hältst dir die Hand vor Mund und Nase und kämpfst dich weiter vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Die Luft ist voll beißendem, qualmendem Rauch. Du hustest und keuchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Die Luft ist voll beißendem, qualmendem Rauch. Tränen strömen aus deinen Augen und jeder Schritt wird zur Qual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Das Dach dieser Hütte ist fast vollständig von Flammen eingehüllt. Das Feuer lässt den Schnee in roten Farbtönen leuchten. Einige Balken sind nur noch glimmende Skelette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Du erwachst etwas später im kalten Schnee. Ein Dorfbewohner steht mit besorgter Miene über dir. Das Haus ist vollständig in den Flammen verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Die Luft ist voll dunklem, qualmendem Rauch. Tränen strömen aus deinen Augen, während das Feuer weiter lodert. Die flirrende Hitze der Flammen macht jeden Atemzug zu einer Qual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Du dringst durch einen dichten Vorhang aus Hitze und Ruß weiter vor. Die Hütte knarzt und ächzt, die Flammen werden immer größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Du mühst dich, bei Bewusstsein zu bleiben, aber die Erschöpfung und der Sauerstoffmangel sind zu groß. Bald wirst du überwältigt und brichst auf dem Boden zusammen. Es wird dunkel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Du erwachst etwas später, nachdem [SkillCheck 0] dich ins Freie und in Sicherheit gezerrt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Du erwachst etwas später, nachdem [SkillCheck 1] dich ins Freie und in Sicherheit gezerrt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Ohne Verbündete hast du niemanden, der dich aus den Folgen deiner heldenhaften Bemühungen retten kann. Die Bürger von Stalwart können nur entsetzt zusehen.
+
+Der Tod übermannt dich schließlich leise, denn du fällst dem Rauch zum Opfer, lange bevor das Feuer dich findet. Die Geschichte des Wächters endet hier.</DefaultText>
+      <FemaleText>Ohne Verbündete hast du niemanden, der dich aus den Folgen deiner heldenhaften Bemühungen retten kann. Die Bürger von Stalwart können nur entsetzt zusehen.
+
+Der Tod übermannt dich schließlich leise, denn du fällst dem Rauch zum Opfer, lange bevor das Feuer dich findet. Die Geschichte der Wächterin endet hier.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Du erwachst etwas später im kalten Schnee. Ein Dorfbewohner steht mit besorgter Miene über dir. Das Haus ist vollständig in den Flammen verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Ein Deckenbalken biegt sich durch und droht, in den Gang zu krachen. Aus nächster Nähe ist schwach eine Stimme zu hören, die um Hilfe ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Ein Deckenbalken über dir bricht plötzlich mit einem lauten Knacken. Du springst nach vorne, rollst dich elegant ab und weichst so dem brennenden Schutt aus, der von oben herabstürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Warten, bis der Balken einstürzt.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Vorbeilaufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Den Balken mit einem anderen Holz abstützen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Rauchwolken werden nach unten gezogen, als der Balken hinabstürzt und in einem Funkenregen landet. Rauch lässt deine Augen tränen. Mit jedem Atemzug strömt Ruß in deine Lungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Als der Deckenbalken schließlich bricht, springst du nach vorne, rollst dich elegant ab und weichst so dem brennenden Holz aus, das von oben herabstürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Mit einem gewaltigen Knarzen kracht der brennende Balken hinab. Du warst zu langsam und bist unter dem schweren Holz eingeklemmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Den Balken wegdrücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Nach Hilfe rufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Du bist zwar vom Aufprall mitgenommen, kannst den Schutt aber relativ mühelos entfernen. Du stehst wieder auf, etwas außer Atem durch die Anstrengung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Trotz aller Bemühungen kannst du den Balken nicht bewegen. Der Aufprall hat dir den Atem geraubt und der Schutt ist viel zu schwer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Du kämpfst dich weiter vor und gelangst endlich in einen größeren Raum. Links ist ein Mann zu sehen. Er war es, der um Hilfe gerufen hatte. Er steht gefangen hinter einem Vorhang aus Flammen, die Arme erhoben, um die Hitze abzuwehren. Es könnte unmöglich sein, zu ihm zu gelangen, ohne vorher die Feuer zu löschen.
+
+Rechts liegt eine bewusstlose Frau zwischen einem Haufen Schutt, der wohl einmal das Dach war. Sie ist klein, aber der Schutt, unter dem sie gefangen ist, sieht schwer aus. Rauch steigt nach oben in die freie Luft und verdeckt jede Sicht nach draußen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Du siehst dich eilig um und findest ein Stück herabgefallenes Holz, das vielleicht groß genug ist. Du ergreifst das Holz und stemmst es gegen den herabhängenden Balken. 
+
+Die improvisierte Stütze scheint zu halten. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Du siehst dich eilig um und findest ein Stück herabgefallenes Holz, das vielleicht groß genug ist. 
+
+Das Holz ist jedoch zu schwer zum Heben, du ziehst es mühsam herbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Stehenbleiben und die Situation auf der linken Seite ansehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Stehenbleiben und die Situation auf der rechten Seite ansehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Hilfe! Bitte, hilf mir!" 
+
+Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite des Hauses gefangen. Das Feuer hat sich über die Dielen ausgebreitet und blockiert jeden Fluchtweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Das Mantra von "Reif und Frost" sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Den Zauber "Winterwind" auf die Flammen wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Den Zauber "Schauernebel" auf die Flammen wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Abwenden und der Frau helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du versuchst, ein Mantra zu singen, doch der Rauch hat sein Werk getan. Jedes Wort ist ein ersticktes Keuchen. Mit der Zeit verkommen alle Versuche zu ergebnislosen Hustenanfällen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Der Rauch macht zwar jedes Wort zu einer Qual, aber du kannst das Mantra lange genug singen, um die Flammen zu durchqueren. 
+
+Die Frostmagie erstickt das Feuer und bietet gnadenvolle Erholung von der drückenden Hitze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!"
+
+Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Dem Mann ins Gesicht treten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Der Mann ist nicht auf die plötzliche Gewalt gefasst, du triffst ihn mit einem harten Tritt. Der Mann bricht sofort zusammen und landet wie ein Sack Getreide auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Die drückende Hitze, der Rauch und die Last auf deinen Schultern erweisen sich als starke Ablenkung. 
+
+Es gelingt dir jedoch, konzentriert zu bleiben. Bald ist die vertraute Kühle der Frostmagie zu spüren. Das Feuer zieht sich, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Du versuchst, dich auf die Folge von Worten zu konzentrieren, die Frostmagie herbeiruft.
+
+Doch die drückende Hitze, der Rauch und die Last auf deinen Schultern erweisen sich als zu starke Ablenkung. Der Zauber schlägt fehl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Du konzentrierst dich auf die Folge von Worten, die Frostmagie herbeiruft. 
+
+Das Feuer zieht sich vor dem Angriff der Kälte zurück, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Du gehst zu dem anderen Opfer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Diese Frau ist unter einer großen Menge Schutt eingeklemmt, darunter auch ein schwerer Balken. Ein Bluterguss an ihrer Schläfe lässt darauf schließen, dass der herabfallende Schutt sie getroffen hat.
+
+An ihrer ausgestreckten Hand siehst du einen Ring aufblitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Versuchen, den Schutt von der Frau zu heben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Den Schutt mit einem Brecheisen weghebeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Den Ring nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Abwenden und dem Mann helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Du gehst zu dem anderen Opfer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben.
+
+Du ergreifst das Ende des Balkens und mühst dich mit aller Kraft, ihn anzuheben. Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben.
+
+Du ergreifst das Ende des Balkens und mühst dich mit aller Kraft, ihn anzuheben. Der Balken bewegt sich etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Mit einem letzten gewaltigen Hauruck hievst du den übrigen Schutt von der Frau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Die Frau ist zwar immer noch bewusstlos, ist nun aber vom Schutt befreit. Du kannst sie bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Die Frau hinaustragen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Die Frau ist zierlich. Sie zu tragen erweist sich als einfacher, als sie von dem Schutt zu befreien. Du legst sie dir vorsichtig über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Es weiter versuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Aufgeben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Trotz aller Bemühungen kannst du den Balken nicht weiter bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Du legst das Holz wieder ab und der Schutt rutscht wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Du setzt das Brecheisen gegen einen Teil des Balkens und mühst dich mit aller Kraft, ihn anzuheben. 
+
+Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Du ziehst den Ring vom Finger der Frau und steckst ihn ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Deine gewaltigen Ausdauerreserven sind erschöpft, es zählt nur noch das Entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Du verlierst rasant an Stärke und bleibst nur dank gewaltiger Ausdauerreserven auf den Beinen. Mit jedem Augenblick wird ein Entkommen unwahrscheinlicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Die verrauchte Luft und der brennende Schutt zehren an deinen Kräften. Nur mit Mühe kannst du dich aufrechthalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Die verrauchte Luft, die kochende Hitze und der brennende Schutt lassen deine Stärke rasant schwinden. Mit jedem Augenblick wird ein Überleben unwahrscheinlicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Die verrauchte Luft und der brennende Schutt zehren an deinen Kräften. Doch du kämpfst dich entschlossen weiter vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Die Anstrengung hat zwar etwas an deinen Kräften gezehrt, doch du hältst dich gut und drängst weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Trotz des Chaos hast du relativ unbeschadet überlebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Du bewegst dich mühelos durch das brennende Haus, bisher völlig unbeschadet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Mit der bewusstlosen Frau fest im Griff machst du dich auf den Weg zum Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Du machst dich auf den Weg zum Ausgang und kennst nur einen Gedanken - weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Du eilst zum Ausgang, durch den Rauch und die Flammen und in die Bergluft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Du springst ein zweites Mal an dem instabilen Balken vorbei. Kurz, nachdem du in Sicherheit bist, kracht das Holz herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Du räumst den herabgestürzten Balken mit müheloser Anmut beiseite, ohne die Glut und den Schutt am Boden zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Vor lauter Rauch siehst du nichts und stolperst über den Schutt am Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Du kletterst mit müheloser Anmut über den herabgestürzten Balken, ohne die Glut und den Schutt am Boden zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Der Rauch nimmt dir die Sicht und erschwert das Atmen, aber du stolperst weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Der Rauch nimmt dir die Sicht und erschwert das Atmen. Auf dem Weg zum Ausgang atmest du die giftigen Gase ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Endlich gelangst du zur Tür und eilst aus dem Feuer in die frische Bergflut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Du lässt die Frau fallen. Sie landet mit einem lauten Plumpsen auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>[Sie wieder aufheben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[Sie zurücklassen und zum Ausgang eilen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Du bückst sich, um die Frau wieder aufzuheben. Dieses Mal kostet die Anstrengung deutlich mehr Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Die Frau ist zierlich. Sie zu tragen erweist sich als einfacher, als sie von dem Schutt zu befreien. Du legst sie dir vorsichtig über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!"
+
+Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>Die Frau ist zierlich. Sie zu tragen erweist sich als einfacher, als sie von dem Schutt zu befreien. [Specified 0] legt sie sich vorsichtig über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!" 
+
+Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Die Frau ist zwar immer noch bewusstlos, ist nun aber vom Schutt befreit. Du kannst sie bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!" 
+
+Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Die Frau ist zwar immer noch bewusstlos, ist nun aber vom Schutt befreit. Du kannst sie bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+
+"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!"
+
+Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>In dem nebligen Zustand der Bewusstlosigkeit, der folgt, wabern immer wieder kurz Schreie und das Krachen von brennendem Holz herbei und verschwinden wieder.
+
+Etwas später wacht [Specified 0] auf, nachdem du [Specified 0] ins Freie und in Sicherheit gezerrt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>Diese Frau ist unter einer großen Menge Schutt eingeklemmt, darunter auch ein schwerer Balken. Ein Bluterguss an ihrer Schläfe lässt darauf schließen, dass der herabfallende Schutt sie getroffen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>Bank Node 680</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>Rauch hängt schwer in deinen Lungen und die Hitze ist unerträglich geworden. Du kannst dich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>Bank Node 682</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Bank Node 683</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Deine Haut ist voller Verbrennungen. Dir wird schwindlig und dir wird langsam schwarz vor Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Das Gebäude wird immer heißer, aber du findest irgendwo neue Energiereserven und drängst weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>Rauch hängt schwer in deinen Lungen und die Hitze ist unerträglich geworden. Du kannst dich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>Flammen steigen auf und züngeln an deinem Körper. Du kannst zwar weitergehen, aber nicht mehr lange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Ein plötzlicher Feuersprung versengt dir die Arme. Du lässt dich davon nicht aufhalten, aber die Schmerzen werden immer schlimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Der Rauch ist inzwischen fast undurchdringlich. Du beginnst zu husten, kannst aber weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Trotz des Rauchs und der Flammen bleibst du unverletzt und gehst unbeirrt weiter. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>Bank Node 692</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Rauch hängt schwer in deinen Lungen und die Hitze ist unerträglich geworden. Du kannst dich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Deine Haut ist voller Verbrennungen. Dir wird schwindlig und dir wird langsam schwarz vor Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Das Gebäude wird immer heißer, aber du findest irgendwo neue Energiereserven und drängst weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Rauch hängt schwer in deinen Lungen und die Hitze ist unerträglich geworden. Du kannst dich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Flammen steigen auf und züngeln an deinem Körper. Du kannst zwar weitergehen, aber nicht mehr lange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Ein plötzlicher Feuersprung versengt dir die Arme. Du lässt dich davon nicht aufhalten, aber die Schmerzen werden immer schlimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Der Rauch ist inzwischen fast undurchdringlich. Du beginnst zu husten, kannst aber weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Trotz des Rauchs und der Flammen bleibst du unverletzt und gehst unbeirrt weiter. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Bank Node 701</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Rauch hängt schwer in den Lungen von [Specified 0] und die Hitze ist unerträglich geworden. [Specified 0] kann sich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Die Haut von [Specified 0] ist voller Verbrennungen. [Specified 0] wird schwindlig und langsam schwarz vor Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Das Gebäude wird immer heißer, aber [Specified 0] findet irgendwo neue Energiereserven und drängt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>Rauch hängt schwer in den Lungen von [Specified 0] und die Hitze ist unerträglich geworden. [Specified 0] kann sich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>Flammen steigen auf und züngeln am Körper von [Specified 0]. [Specified 0] kann zwar weitergehen, aber nicht mehr lange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>Ein plötzlicher Feuersprung versengt [Specified 0] die Arme. [Specified 0] lässt sich davon nicht aufhalten, aber die Schmerzen werden immer schlimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>Der Rauch ist inzwischen fast undurchdringlich. [Specified 0] beginnt zu husten, kann aber weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Trotz des Rauchs und der Flammen bleibt [Specified 0] unverletzt und geht unbeirrt weiter. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Bank Node 710</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Rauch hängt schwer in den Lungen von [Specified 0] und die Hitze ist unerträglich geworden. [Specified 0] kann sich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Die Haut von [Specified 0] ist voller Verbrennungen. [Specified 0] wird schwindlig und langsam schwarz vor Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>Das Gebäude wird immer heißer, aber [Specified 0] findet irgendwo neue Energiereserven und drängt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>Rauch hängt schwer in den Lungen von [Specified 0] und die Hitze ist unerträglich geworden. [Specified 0] kann sich nicht mehr lange auf den Beinen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>Flammen steigen auf und züngeln am Körper von [Specified 0]. [Specified 0] kann zwar weitergehen, aber nicht mehr lange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Ein plötzlicher Feuersprung versengt [Specified 0] die Arme. [Specified 0] lässt sich davon nicht aufhalten, aber die Schmerzen werden immer schlimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>Der Rauch ist inzwischen fast undurchdringlich. [Specified 0] beginnt zu husten, kann aber weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Trotz des Rauchs und der Flammen bleibt [Specified 0] unverletzt und geht unbeirrt weiter. Vorerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>[Versuchen, den Mann durch die Flammen zu erreichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>Du bewegst dich auf ihn zu, aber die Flammen versengen deine Arme. Er versucht auch, sich dir zu nähern, aber das Feuer steigt vor ihm auf und blockiert seinen Pfad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Du hältst deine Hand vor den Mund der Frau und spürst nichts - nicht den kleinsten Atemhauch.
+
+Hinter dir steigen Flammen und Rauch vor dem Ausgang auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>Du hörst einen Schmerzensschrei. Du siehst nur einen schwachen Umriss des Mannes, als er zusammenbricht und von den Flammen verschlungen wird.
+
+Hinter dir steigen Flammen und Rauch vor dem Ausgang auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>[Specified 0] hört einen Schmerzensschrei und sieht nur einen schwachen Umriss des Mannes, als er zusammenbricht und von den Flammen verschlungen wird.
+
+Hinter [Specified 0] steigen Flammen und Rauch vor dem Ausgang auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>[Specified 0] hält eine Hand vor den Mund der Frau und spürt nichts - nicht den kleinsten Atemhauch.
+
+Hinter [Specified 0] steigen Flammen und Rauch vor dem Ausgang auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>[Versuchen, den Mann durch die Flammen zu erreichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>[Specified 0] bewegt sich auf ihn zu, aber die Flammen versengen die Arme von [Specified 0]. Der Mann versucht auch, sich [Specified 0] zu nähern, aber das Feuer steigt vor ihm auf und blockiert seinen Pfad.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

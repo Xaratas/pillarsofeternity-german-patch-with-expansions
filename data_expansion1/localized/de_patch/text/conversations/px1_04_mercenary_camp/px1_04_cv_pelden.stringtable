@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_cv_pelden</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Laboratorium stinkt nach fauligem Fleisch, aber der Elf scheint das gar nicht zu bemerken. Er ist damit beschäftigt, Notizen in ein kleines Buch zu kritzeln, und blickt nicht einmal auf, als du dich näherst.
+
+Als dein Schatten über seine Seite fällt, runzelt er aber die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Habe ich dir nicht gesagt, dass du-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tritt zurück, Gul. Ich rufe dich, wenn ich dich benötige." Er deutet in eine dunkle Ecke des Laboratoriums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Entschuldige mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Bleiben, wo du bist.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Schlag nicht wieder diesen Ton mit mir an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wenn du es sagst. Aber willst du nicht wissen, wie ich mir das Sprechen beigebracht habe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Endlich blickt er zu dir auf, überrascht und verstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Beim Bildnis, wer bist-" Er schüttelt den Kopf und wedelt mit seiner Hand, wobei er dich fast mit seinem Stift kratzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich habe keine Zeit. Verschwinde und lass mich in Ruhe arbeiten, ja?"
+
+Er wendet sich wieder seinen Notizen zu, bevor du überhaupt antworten kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Was tust du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich will deinen Teil des Schlüssels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tanoss will dich tot sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Uariki will dich tot sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Zauberer murmelt: "Und dieser hoffnungslose Betrüger schickt dich, um meine Zeit zu vergeuden, ja? Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Er schlägt sein Buch zu und hebt eine Hand, eine Beschwörung bereits auf den Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich erforsche ein komplexes Problem für einen der größten Zauberer, die je gelebt haben. Und ich habe gewiss keine Zeit, es dir zu erklären. Geh." Er schickt dich mit einer Handbewegung fort. Seine Nase steckt noch immer in seinem Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe es dir doch gesagt, ich bin beschäftigt. Ich warne dich nicht noch einmal." Seine Hand hängt über der Seite und seine Stimme ist tief und bedrohlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Genug." Er blickt mit brennenden Augen von seinen Notizen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er blickt auf, seine Wangen gerötet, seine Augen weit und verletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Waren meine Fortschritte zu langsam? Hat Concelhaut dich geschickt, um-" Er seufzt. "Unwichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Kannst du mir etwas über Concelhaut sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Diese Guls sind anders - ruhiger und weniger verfault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Er blickt lange genug auf, um dir einen misstrauischen Blick zuzuwerfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wenn du nie sein Repertoire an Zaubern studiert hast, nie in Mestre Albennas 'Geschichte der modernen Magie' von seinen Leistungen gelesen hast und irgendwie die kleine Armee übersehen hast, die er draußen abgewehrt hat, dann ... nein, dann weiß ich nicht, was ich dir sagen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Außer, dass er ein mächtiger Zauberer mit wenig Geduld ist. " Er leckt sich den Daumen und blättert eine Seite um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich kann jetzt nicht." Er bemüht sich, dich zu ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Das will ich hoffen. Ich versuche seit einer Weile, sie zu stabilisieren. Ihren Verfall aufzuhalten."
+
+Er blickt dich aus den Augenwinkeln an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Natürlich ist der Prozess noch nicht abgeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Was weißt du über Crägholdt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Warum musst du mich mit solch törichten Fragen belästigen? Geh einen der anderen Lehrlinge stören. Ihre Zeit ist weitaus weniger wertvoll als meine!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

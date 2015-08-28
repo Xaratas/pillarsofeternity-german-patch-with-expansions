@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_thaos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Thaos erwidert den Blick der Teufelin von Caroc mit Abscheu. Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Thaos' Augen bleiben auf Zahua ruhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Soweit ich weiß, waren es deine Götter, die uns auf diesen Weg der gegenseitigen Vernichtung lotsten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Deine Stadt wurde von einem Gott verschont. Sie wurde von Gestandenen zerstört, welche die Angelegenheit selbst in die Hand nahmen.
+
+"Mein Orden hat es sich zur Aufgabe gemacht, solche Maßlosigkeiten zu korrigieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Indem die Seelen aus kleinen Säuglingen gerissen werden. Eine drastische Therapie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Es heißt, du wärest der Letzte einer langen Linie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Genau wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Aber meine Linie setzt sich fort, ohne Bruch. Mein Volk hat mir seine Weisheit anvertraut, und ich stelle sicher, dass ihr Vermächtnis erblüht.
+
+"Kannst du das auch von dir sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Jedes Vermächtnis endet einmal. Ich bedauere, dass das unsere mit mir endete, aber ich konnte nichts dagegen tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Meine Linie lebt, so lange ich atme. Noch besteht Hoffnung für das Vermächtnis meines Meisters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Meine Linie lebt, so lange ich atme. Noch besteht Hoffnung für das Vermächtnis der Tacan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Jedes Vermächtnis endet einmal. Das ist die Geschichte der Zivilisation der Gestandenen - das Leid unter all dem anderen Leid, schöner noch als der Rest."
+
+Zahuas Gesicht ist ruhig und friedlich, seine Augen voller Mitleid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ich kenne deine Last. Du musst lernen, diese Wahrheit zu akzeptieren, sonst wirst du nie frei sein."
+
+Ein schwaches Zittern huscht über Thaos' Gesicht, ein kurzes Zucken in Mund und Brauen. Ebenso schnell findet er seine Fassung wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Diese Hoffnung endete mit deiner Ankunft hier.
+
+"Dein Volk wird aus der Geschichte verblassen und das Rad wird sich ohne euch weiterdrehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Das Wissen deines Meisters war schon lange verloren."
+
+"Jede Hoffnung, es wiederzuentdecken, endete mit deiner Ankunft hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Und doch lebt das Vermächtnis meines Volkes weiter, durch seinen Einfallsreichtum.
+
+"Dein Volk war ein niederes Volk und es erwählte einen Anführer, der nicht zum Anführen bereit war. Sie ganz allein tragen die Schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Das Vermächtnis meines Volkes lebt weiter. Sie haben es verdient. Sie waren weise genug, dafür Sorge zu tragen.
+
+"Das unterscheidet uns. Deswegen muss ich kein niederes Schicksal akzeptieren, wie du es musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Eine Mörderin, der ein Leben über ihren Körper hinaus gewährt wurde. Über ihren eigenen selbstsüchtigen Zweck hinaus.
+
+"Meine Liebe, du bist der ... lebende ... Beweis dafür, dass Gestandene nicht mit den Werkzeugen der Götter spielen sollten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Stark und von Dauer, so wie es sein muss.
+
+"Wir gehorchen nicht den Launen der Blutrünstigkeit, wie ihr es tut. Alles, was wir tun, tun wir mit dem Ziel der Heilung."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

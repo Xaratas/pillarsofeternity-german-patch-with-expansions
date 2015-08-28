@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_cv_sabel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Zwergin wirbelt zu dir herum. Ihr Gesicht und ihr Hals sind übersät mit frischem Narbengewebe.
+
+Ihr eines verbleibendes Auge verengt sich zu einem Schlitz, als sie dich mustert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sabel blickt dich zornig an.
+
+Ihre Hand ruht auf ihrem Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tanoss." Das Wort ist nur ein kehliges Zischen, das aus dem vernarbten Rachen der Zwergin hervorgepresst wird.
+
+Sie greift nach ihrem Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tanoss ist mit mir einen Handel eingegangen, um deinen Teil des Schlüssels zu bekommen. Vielleicht kannst du mir einen besseren Handel anbieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sie quetscht ein ersticktes, verstümmeltes Lachen hervor und hebt ihr Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Gib mir deinen Teil des Schlüssels, dann lasse ich dich leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sie verziert den Mund und sagt, sie lasse sich nicht einschüchtern. Sie greift an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich suche nach dem Schlüssel zu Concelhauts Kammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sie hat kein Interesse, mit dir zu sprechen und geht kein Risiko ein. Sie greift an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Woran arbeitest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sie zischt und deutet wütend auf die Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Frau zischt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Raus." Ihre Stimme ist kaum mehr als ein Krächzen, als sie zur Tür zeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Weggehen] "Also gut, ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich habe nur ein paar Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie hält die rechte Hand hoch, drei Finger ausgestreckt. Langsam senkt sie den ersten Finger. Den zweiten.
+
+Sie blickt von dir zur Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich will wissen, was bei drei passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Frau fletscht die Zähne und greift nach ihrem Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Was ist mit dir geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

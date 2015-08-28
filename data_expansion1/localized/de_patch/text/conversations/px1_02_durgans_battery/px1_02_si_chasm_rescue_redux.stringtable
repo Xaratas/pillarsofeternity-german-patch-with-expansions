@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_chasm_rescue_redux</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>164</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hilfe! Bitte, ich bin hier unten!" 
+
+Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewohner und winkt verzweifelt mit den Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Dorfbewohner ist weit entfernt - und die unregelmäßige, glatte Wand der Schlucht lässt sich nicht ohne Seil hinaufklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ein Seil um deine Hüften binden und es an einem Anker befestigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ein Seil um die Hüften von [Slot 0] binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ein Seil um die Hüften von [Slot 1] binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ein Seil um die Hüften von [Slot 2] binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ein Seil um die Hüften von [Slot 3] binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein Seil um die Hüften von [Slot 4] binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ein Seil um die Hüften von [Slot 5] binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du legst das Seil um deine Hüften und bindest es mit einem festen Knoten zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du legst das Seil um deine Hüften und bindest es mit einem festen Knoten zu. Du bist sicher, dass der Knoten halten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[SkillCheck 0] kennt sich mit Knoten aus und tritt vor, um das Seil um deine Hüften zu binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du legst das Seil um deine Hüften und bindest es zu, so gut du kannst. Du bist dir nicht vollkommen sicher, dass der Knoten halten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Als du hinuntersiehst, siehst du einen zweiten, kleineren Vorsprung an der Seite der Schlucht. Er ist nah genug, dass du hinspringen kannst ... aber vielleicht trägt er dein Gewicht nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der Mann drückt sich gegen die Wand der Schlucht. "Bitte beeil dich! Das Eis fängt an zu brechen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Auf den Vorsprung springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Wieder hinaufklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Tollkühn springst du in die Schlucht. Du landest unsanft und der schneebedeckte Vorsprung wackelt gefährlich unter dir ... aber du kannst dich abfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Tollkühn springst du in die Schlucht. Du zielst deinen Sprung perfekt und landest elegant auf dem Vorsprung. Er knarzt und ächzt leicht, hält aber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Auf der Kante hast du einen Augenblick, um dich umzusehen. Der Dorfbewohner ist fast direkt unter dir. Er blickt verängstigt nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Tollkühn springst du in die Schlucht. Du landest unsanft und das glatte Eis bietet dir keinen Halt. Die Wände der Schlacht drehen sich um dich herum, als du ausrutschst und nach hinten fällst.
+
+Dein Hinterkopf schlägt mit einem lauten Knallen und einem plötzlichen Schmerz auf das Eis auf. Du bist benommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du ergreifst das Seil fest und kletterst vorsichtig hinab zu dem Vorsprung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du hörst ein bedrohliches Knarzen, als das Eis irgendwo unter dir sich bewegt.
+
+Der Mann schreit erschrocken auf. "Beeil dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Auf der Kante siehst du dich einen Moment lang um. Mehrere Abschnitte der Klippe unter dir scheinen aus dünnen Eisschichten zu bestehen, wie Fenster, die in die Wände der Schlucht eingelassen sind.
+
+Das dünne Eis ist durchzogen von Luftblasen. Wenn du dich zu schnell über die Oberfläche bewegst, könnte es brechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Deine Umgebung erkunden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Dich von der Kante abseilen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Weiter nach unten klettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du siehst dich kurz um. Mehrere Abschnitte der Klippe unter dir scheinen aus dünnen Eisschichten zu bestehen, wie Fenster, die in die Wände der Schlucht eingelassen sind.
+
+Das dünne Eis ist durchzogen von Luftblasen. Wenn du dich zu schnell über die Oberfläche bewegst, könnte es brechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du packst das Seil und ziehst mehrmals kräftig daran, um sicherzugehen, dass es noch hält. Dann stößt du dich von der Kante ab. Du bist schon ein gutes Stück vorangekommen, als du plötzlich merkst, dass du offenbar mit deinen Stiefeln auf eine dünne Eisschicht zuschwingst.
+
+Du greifst das Seil neu, zielst auf einen robuster aussehenden Felsabschnitt und weichst dem Eis elegant aus.
+
+Du greifst das Seil schnell neu, drehst deinen Körper und landest auf der Oberfläche, ohne dass das Eis bricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du bewegst dich vorsichtig weiter die Klippe hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich glaube, es hält nicht mehr lange!"
+
+Du hörst ein Klirren und einen kurzen Schrei. Als du hinabblickst, siehst du, dass der Mann ausgerutscht ist - er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du packst das Seil und ziehst mehrmals kräftig daran, um sicherzugehen, dass es noch hält. Dann stößt du dich von der Kante ab. Du bist schon ein gutes Stück vorangekommen, als du plötzlich merkst, dass du offenbar mit deinen Stiefeln auf eine dünne Eisschicht zuschwingst.
+
+Deine Füße durchbrechen das Eis und ein Hagel aus Eissplittern regnet herab. Du hörst den Dorfbewohner erschrocken aufschreien, als er versucht, dem Hagel auszuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Als du den zerbrechlichen Eisabschnitt passierst, spürst du, wie der Wind stärker wird. Die eisigen Böen zerren an deiner Kleidung und pfeifen an dir vorbei.
+
+In der Nähe siehst du eine kleine Nische in der Höhlenwand. Sie könnte dir Schutz bieten, bis der Wind nachlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Weiterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[In der Nische Schutz suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du packst das Seil und ziehst mehrmals kräftig daran, um sicherzugehen, dass es noch hält. Dann stößt du dich von der Kante ab. Du bist schon ein gutes Stück vorangekommen, als du plötzlich über einer dünnen Eisschicht baumelst.
+
+Du greifst das Seil neu, zielst auf einen robuster aussehenden Felsabschnitt und weichst dem Eis elegant aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ängstlich ruft der Dorfbewohner zu dir hinauf: "Bitte hilf mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Als du dich aus dem kleinen Loch in der Eiswand herausziehst, spürst du, wie der Wind stärker wird. Die eisigen Böen zerren an deiner Kleidung und pfeifen an dir vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Kälte betäubt deine Finger, aber du ignorierst den Schmerz. Trotz des Windes, der an dir vorbeipeitscht, setzt du deinen langsamen Abstieg unbeirrt fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du klammerst dich an die Klippe, aber die Kälte betäubt deine Finger. Eine besonders starke Böe reißt dich schließlich von der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Das Seil knallt schmerzvoll gegen deine Seite, als es straff gespannt wird und dich ruckartig bremst. Du suchst dir einen sicheren Fußtritt in der Felswand und steigst weiter hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Das Seil knallt schmerzvoll gegen deine Seite, als es straff gespannt wird und dich ruckartig bremst. Der Knoten in dem Seil lockert sich etwas. Du greifst schnell nach dem Seil und zerrst dir dabei die Schulter.
+
+Du suchst dir einen sicheren Fußtritt in der Felswand und steigst weiter hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du suchst Schutz in der Nische und bist froh, deine arme kurz ausruhen zu können. Es vergehen mehrere lange Augenblicke, ehe der Wind endlich nachlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>In der Stille, die folgt, kletterst du weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Endlich hast du den Mann erreicht. Er streckt seine Hände nach dir aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Als deine Hand nur noch wenige Zentimeter von dir entfernt ist, bricht der Vorsprung unter seinen Füßen plötzlich zusammen und er beginnt zu fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du packst den Mann und ziehst ihn hoch. Er klammert sich mit seinen Armen um dich. Bröckel von dem Vorsprung fallen in die Tiefe unter euch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du lockerst deinen Griff um das Seil und lässt dich schnell zu dem Mann hinunterfallen. Du erreichst ihn gerade noch rechtzeitig. Das Seil um deine Hüfte herum bremst euch schmerzhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du lockerst deinen Griff um das Seil und lässt dich schnell zu dem Mann hinunterfallen. Du erreichst ihn gerade noch rechtzeitig. Das Seil um deine Hüfte herum bremst euch schmerzhaft - und der Knoten löst sich.
+
+In verzweifelter Panik ergreifst du das Seil und bremst damit deinen eigenen Fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Ihm hinterherspringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Zusehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du hörst die Schreie des Mannes lange, nachdem er in die düstere Tiefe gestürzt ist. Nach einigen Augenblicken ertönt ein grauenhaftes Krachen und hallt die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du lockerst deinen Griff um das Seil und lässt dich schnell zu dem Mann hinunterfallen. Du erreichst ihn gerade noch rechtzeitig. Das Seil um deine Hüfte herum bremst euch schmerzhaft - und der Knoten löst sich.
+
+Du greifst mit deiner freien Hand schnell nach dem Seil, hältst den Mann aber weiter fest. Deine Schulter springt fast aus dem Gelenk und du schreist vor Schmerzen auf, lockerst aber deinen Griff nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du kletterst die Schlucht wieder hinauf und ziehst dich über den Rand in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Bollwerk gegen die Elemente wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du konzentrierst dich und wirkst einen Schutzzauber auf dich selbst. Der kalte Wind gleitet harmlos an dir vorbei und du setzt deinen Abstieg fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Mit deinem Passagier im Schlepptau beginnst du den Aufstieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Deine verletzte Schulter erschwert das Klettern. Mit jedem Augenblick werden die Schmerzen schlimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Mit jeder Bewegung nach oben schreit der Mann auf deinem Rücken vor Schmerzen auf. Du spürst, wie sein Griff schwächer wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Endlich gelangt ihr oben an und klettert über den Rand in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Schneller klettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Deine Kameraden um Hilfe bitten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Ihn mit einer Hand festhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Weiterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du hörst ein dumpfes Geräusch und blickst hinab. Der Mann ist ausgerutscht. Er versucht verzweifelt, wieder Halt am Eis zu finden, aber der gesamte Vorsprung bricht plötzlich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du kletterst schneller und näherst dich rasch dem oberen Ende der Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach oben gezogen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Deine beeindruckende Stärke erlaubt es dir, in gleichmäßigem Tempo weiterzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Du kletterst eilig weiter, als würdest du versuchen, deine eigene Erschöpfung abzuhängen. In deiner Hast schätzst du aber einen Tritt falsch ein und dein Fuß rutscht an der eisigen Wand ab. Durch den plötzlichen Ruck verliert der Mann seinen Halt und beginnt zu fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Du machst gute Fortschritte und kletterst die Wand der Schlucht stetig hinauf. Der gerettete Mann klammert sich fest an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+Trotz ihrer vereinten Kräfte mühen sie sich aber ab, dich hochzuziehen. Es geht nur sehr langsam voran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du lockerst deinen Griff um das Seil und lässt dich schnell zu dem Mann hinunterfallen. Du erreichst ihn gerade noch rechtzeitig. Das Seil um deine Hüfte herum bremst euch schmerzhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Du streckst die Hand nach ihm aus, doch ein plötzlicher Schmerz durchzuckt deine verletzte Schulter und du erreichst ihn nicht. Der Mann fällt in die düstere Tiefe. Seine Schreie hallen die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Du kletterst schneller und näherst dich rasch dem oberen Ende der Schlucht. Die Schmerzen in deiner Schulter machen das Klettern zwar schwierig, aber du lässt dich nicht beirren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Du lockerst deinen Griff um das Seil und lässt dich schnell zu dem Mann hinunterfallen. Du erreichst ihn gerade noch rechtzeitig. Das Seil um deine Hüfte herum bremst euch schmerzhaft - und der Knoten löst sich.
+
+Du greifst mit deiner freien Hand schnell nach dem Seil, hältst den Mann aber weiter fest. Deine Schulter springt fast aus dem Gelenk und du schreist vor Schmerzen auf, lockerst aber deinen Griff nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du lockerst deinen Griff um das Seil und lässt dich schnell zu dem Mann hinunterfallen. Du erreichst ihn gerade noch rechtzeitig. Das Seil um deine Hüfte herum bremst euch schmerzhaft - und der Knoten löst sich.
+
+In verzweifelter Panik ergreifst du das Seil und bremst damit deinen eigenen Fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Du sicherst deinen Mann wieder auf deinem Rücken und kletterst weiter hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Du bindest dir ein Stück Seil um deinen Stiefel und greifst dann mit einer Hand nach dem Mann. Selbst mit einer Hand kletterst du die Schlucht stetig hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Du versuchst, den Mann festzuhalten, kannst dann aber nur noch im Schneckentempo klettern. Als du kaum mehr klettern kannst, gibst du schließlich deiner Erschöpfung nach und lässt den Mann los, um dich auf deinen Aufstieg zu konzentrieren.
+
+Der Griff des Mannes wird immer schwächer. Kurz, bevor ihr am Ziel angelangt, rutscht er dir plötzlich vom Rücken und stürzt in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Der Griff des Mannes wird immer schwächer. Kurz, bevor ihr am Ziel angelangt, rutscht er dir plötzlich vom Rücken und stürzt in die Tiefe.
+
+Sein Schrei hallt die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach oben gezogen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach oben gezogen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du streckst die Hand nach ihm aus, doch ein plötzlicher Schmerz durchzuckt deine verletzte Schulter und du erreichst ihn nicht. Der Mann fällt in die düstere Tiefe. Seine Schreie hallen die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Zu deinen weitreichenden Kenntnissen über das Leben in der Wildnis gehört auch ein ordentliches Repertoire an Knoten. Du trittst vor, um das Seil festzubinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[SkillCheck 0] kennt sich mit Knoten aus und tritt vor, um das Seil mit einem robusten Knoten um deine Hüften zu binden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du legst das Seil um die Hüften von [Specified 0] und bindest es zu, so gut du kannst. Du bist dir nicht vollkommen sicher, dass der Knoten halten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Der Mann drückt sich gegen die Wand der Schlucht. "Bitte beeil dich! Das Eis fängt an zu brechen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Specified 0] blickt hinunter und sieht einen zweiten, kleineren Vorsprung an der Seite der Schlucht. Er ist nah genug, um hinzuspringen ... trägt aber vielleicht nicht viel Gewicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Auf den Vorsprung springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Wieder hinaufklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Moment! Wo willst du hin?!" Du hörst den Dorfbewohner von unten mit verzweifelter Stimme rufen: "Bitte, lass mich hier ni-"
+
+Du hörst einen dumpfen Schlag, als er ausrutscht, dann das Knacken von Eis ... gefolgt von einem kurzen, scharfen Schrei, als der Mann in die Tiefe stürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Moment! Wo willst du hin?!" Der Dorfbewohner ruft von unten mit verzweifelter Stimme: "Bitte, lass mich hier ni-"
+
+Es ertönt ein dumpfer Schlag, als er ausrutscht, dann das Knacken von Eis ... gefolgt von einem kurzen, scharfen Schrei, als der Mann in die Tiefe stürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Specified 0] klettert die Schlucht wieder hinauf und zieht sich über den Rand in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Slot 0] ergreift das Seil fest und klettert vorsichtig hinab zu dem Vorsprung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Es ertönt ein bedrohliches Knarzen, als das Eis irgendwo weiter unten sich bewegt.
+
+Der Mann schreit erschrocken auf. "Beeil dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Specified 0] springt in die Schlucht. [Specified 0] landet unsanft und der schneebedeckte Vorsprung wackelt gefährlich, hält aber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Specified 0] springt in die Schlucht und landet elegant auf dem Vorsprung. Er knarzt und ächzt leicht, hält aber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Specified 0] springt in die Schlucht. [Specified 0] landet unsanft und rutscht auf dem glatten Eis aus. Mit rudernden Armen fällt [Specified 0] nach hinten.
+
+Der Hinterkopf von [Specified 0] schlägt mit einem lauten Knallen und einem plötzlichen Schmerz auf das Eis auf. [Specified 0] ist benommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Auf der Kante sieht [Specified 0] sich einen Moment lang um. Mehrere Abschnitte der Klippe unter dem Vorsprung scheinen aus dünnen Eisschichten zu bestehen, wie Fenster, die in die Wände der Schlucht eingelassen sind.
+
+Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die Oberfläche bewegt, könnte es brechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Auf der Kante hat [Specified 0] einen Augenblick, um sich umzusehen. Der Dorfbewohner ist fast direkt unter [Specified 0]. Er blickt verängstigt nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Abseilen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Weiter nach unten klettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 0] packt das Seil, zieht mehrmals kräftig daran, um sicherzugehen, dass es noch hält und stößt sich dann von der Kante ab. [Specified 0] ist schon ein gutes Stück vorangekommen, als plötzlich eine dünne Eisschicht an der Wand der Schlucht auftaucht.
+
+[Specified 0] dreht sich herum, zielt auf einen robuster aussehenden Felsabschnitt und weicht dem Eis elegant aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Specified 0] packt das Seil, zieht mehrmals kräftig daran, um sicherzugehen, dass es noch hält und stößt sich dann von der Kante ab. [Specified 0] ist schon ein gutes Stück vorangekommen, als plötzlich eine dünne Eisschicht an der Wand der Schlucht auftaucht.
+
+[Specified 0] dreht sich rasch herum und landet auf der Oberfläche, ohne dass das Eis bricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Specified 0] packt das Seil, zieht mehrmals kräftig daran, um sicherzugehen, dass es noch hält und stößt sich dann von der Kante ab. [Specified 0] ist schon ein gutes Stück vorangekommen, als plötzlich eine dünne Eisschicht an der Wand der Schlucht auftaucht.
+
+Die Füße von [Specified 0] durchbrechen das Eis und ein Hagel aus Eissplittern regnet herab. Der Dorfbewohner schreit vor Schmerz auf, als das Eis auf ihn niederprasselt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Specified 0] sieht sich einen Moment lang um. Mehrere Abschnitte der Wand unter dem Vorsprung scheinen aus dünnen Eisschichten zu bestehen, wie Fenster, die in die Wände der Schlucht eingelassen sind.
+
+Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die Oberfläche bewegt, könnte es brechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Ängstlich ruft der Dorfbewohner hinauf: "Bitte hilf mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0] setzt den Abstieg vorsichtig fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich glaube, es hält nicht mehr lange!"
+
+Es ertönt ein Klirren, dann ein kurzer Schrei. [Specified 0] blickt hinab und sieht, dass der Mann ausgerutscht ist - er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Als [Specified 0] sich aus dem kleinen Loch in der Eiswand herauszieht, wird der Wind stärker. Die eisigen Böen zerren pfeifend an der Kleidung von [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Als [Specified 0] den zerbrechlichen Eisabschnitt passiert, wird der Wind stärker. Die eisigen Böen zerren pfeifend an der Kleidung von [Specified 0].
+
+In der Nähe befindet sich eine kleine Nische in der Höhlenwand. Sie könnte etwas Schutz bieten, bis der Wind nachlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Weiterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Bollwerk gegen die Elemente wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[In der Nische Schutz suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Slot 0] sucht Schutz in der Nische. Mehrere lange Augenblicke vergehen, bevor der Wind sich wieder legt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>In der Stille, die folgt, klettert [Slot 0] weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Slot 0] hört ein dumpfes Geräusch von unten und blickt hinab. Der Mann ist ausgerutscht. Er versucht verzweifelt, wieder Halt am Eis zu finden, aber der gesamte Vorsprung bricht plötzlich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Specified 0] konzentriert sich angestrengt und wirkt einen Schutzzauber. Der kalte Wind gleitet harmlos vorbei und [Specified 0] setzt den Abstieg fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Unbeeindruckt vom frostigen Wind setzt [Specified 0] den Abstieg fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Specified 0] klammert sich verzweifelt an das Eis, aber eine besonders starke Böe reißt [Specified 0] schließlich von der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Das Seil knallt schmerzvoll gegen die Seite von [Specified 0], als es straff gespannt wird und [Specified 0] ruckartig bremst.
+
+Der Wind legt sich langsam und [Specified 0] setzt den Abstieg fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Das Seil knallt schmerzvoll gegen die Seite von [Specified 0], als es straff gespannt wird und [Specified 0] ruckartig bremst. Der Knoten in dem Seil lockert sich etwas. [Specified 0] greift schnell nach dem Seil, zerrt sich dabei aber die Schulter.
+
+Der Wind legt sich langsam und [Specified 0] setzt den Abstieg fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Endlich hat [Specified 0] den Mann erreicht und streckt eine Hand zu ihm aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Als die Hand von [Specified 0] nur noch wenige Zentimeter von dem Mann entfernt ist, bricht der Vorsprung unter dessen Füßen plötzlich zusammen und er beginnt zu fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Specified 0] packt den Mann und zieht ihn hoch. Er klammert sich mit seinen Armen um [Specified 0]. Bröckel von dem Vorsprung fallen in die Tiefe unter euch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Mit dem Passagier im Schlepptau beginnt [Specified 0] den Aufstieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Die verletzte Schulter von [Specified 0] erschwert das Klettern. Mit jedem Augenblick werden die Schmerzen schlimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Mit jeder Bewegung nach oben schreit der Mann auf dem Rücken von [Specified 0] vor Schmerzen auf. [Specified 0] spürt, wie sein Griff schwächer wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[Specified 0] macht gute Fortschritte und klettert die Wand der Schlucht stetig hinauf. Der gerettete Mann klammert sich fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Du stockst und wirst langsamer. Der Mann schreit bald auf und du spürst, wie sein Griff schwächer wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Ihm hinterherspringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Zusehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Die Schreie des Mannes sind noch lange, nachdem er in die düstere Tiefe gestürzt ist, zu hören. Nach einigen Augenblicken ertönt ein grauenhaftes Krachen und hallt die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Specified 0] streckt die Hand nach ihm aus, doch ein plötzlicher Schmerz verhindert, dass [Specified 0] den Arm weit genug ausstrecken kann.
+
+Der Mann fällt in die düstere Tiefe. Seine Schreie hallen die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Specified 0] lässt sich schnell zu dem Mann hinunterfallen und erreicht ihn gerade noch rechtzeitig. Das Seil um die Hüfte von [Specified 0] herum bremst die beiden schmerzhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Specified 0] lässt sich schnell zu dem Mann hinunterfallen und erreicht ihn gerade noch rechtzeitig. Das Seil um die Hüfte von [Specified 0] herum bremst die beiden schmerzhaft - und der Knoten löst sich.
+
+[Specified 0] greift schnell nach dem Seil und hält mit der anderen Hand den Mann fest. Die Schulter von [Specified 0] springt dabei fast aus dem Gelenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Specified 0] lässt sich schnell zu dem Mann hinunterfallen und erreicht ihn gerade noch rechtzeitig. Das Seil um die Hüfte von [Specified 0] herum bremst die beiden schmerzhaft - und der Knoten löst sich.
+
+In verzweifelter Panik ergreift [Specified 0] mit beiden Händen das Seil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Endlich gelangt [Specified 0] oben an und klettert über den Rand in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Die beeindruckende Stärke von [Specified 0] erlaubt aber trotzdem einen stetigen Anstieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Specified 0] stockt und wird langsamer. Der Mann schreit bald auf und [Specified 0] spürt, wie sein Griff schwächer wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Schneller klettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Um Hilfe rufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Ihn mit einer Hand festhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Weiterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Der Griff des Mannes wird immer schwächer. Kurz, bevor [Specified 0] am Ziel angelangt, rutscht der Mann plötzlich ab und stürzt in die Tiefe.
+
+Sein Schrei hallt die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Specified 0] klettert schneller und nähert sich rasch dem oberen Ende der Schlucht. Die Schmerzen in der verletzten Schulter von [Specified 0] machen das Klettern zwar schwierig, aber [Specified 0] lässt sich nicht beirren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Specified 0] klettert schneller und nähert sich rasch dem oberen Ende der Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Specified 0] klettert eilig weiter, wie um die eigene Erschöpfung abzuhängen. In der Hast schätzt [Specified 0] aber einen Tritt falsch ein und rutscht an der eisigen Wand ab. Durch den plötzlichen Ruck verliert der Mann seinen Halt und beginnt zu fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Specified 0] streckt die Hand nach ihm aus, doch ein plötzlicher Schmerz verhindert, dass [Specified 0] den Arm weit genug ausstrecken kann.
+
+Der Mann fällt in die düstere Tiefe. Seine Schreie hallen die Wände der Schlucht hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Specified 0] lässt sich schnell zu dem Mann hinunterfallen und erreicht ihn gerade noch rechtzeitig. Das Seil um die Hüfte von [Specified 0] herum bremst die beiden schmerzhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Specified 0] lässt sich schnell zu dem Mann hinunterfallen und erreicht ihn gerade noch rechtzeitig. Das Seil um die Hüfte von [Specified 0] herum bremst die beiden schmerzhaft - und der Knoten löst sich.
+
+[Specified 0] greift schnell nach dem Seil und hält mit der anderen Hand den Mann fest. Die Schulter von [Specified 0] springt dabei fast aus dem Gelenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Specified 0] lässt sich schnell zu dem Mann hinunterfallen und erreicht ihn gerade noch rechtzeitig. Das Seil um die Hüfte von [Specified 0] herum bremst die beiden schmerzhaft - und der Knoten löst sich.
+
+In verzweifelter Panik ergreift [Specified 0] mit beiden Händen das Seil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Specified 0] bindet sich ein Stück Seil um den Stiefel und greift dann mit einer Hand nach dem Mann. Selbst mit einer Hand klettert [Specified 0] die Schlucht stetig hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Specified 0] versucht, den Mann festzuhalten, kann dann aber nur noch im Schneckentempo klettern. Als [Specified 0] kaum mehr klettern kann, gibt [Specified 0] schließlich der Erschöpfung nach und lässt den Mann los, um sich auf den Aufstieg zu konzentrieren.
+
+Der Griff des Mannes wird immer schwächer. Kurz, bevor [Specified 0] am Ziel angelangt, rutscht er plötzlich vom Rücken von [Specified 0] und stürzt in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+[Specified 0] hält das Seil fest umklammert und wird mühelos nach oben gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+[Specified 0] hält das Seil fest umklammert und wird mühelos nach oben gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+[Specified 0] hält das Seil fest umklammert und wird mühelos nach oben gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Vertraute Gesichter blicken über den Rand der Schlucht und verschwinden dann, um an dem Seil zu ziehen.
+
+Trotz ihrer vereinten Kräfte mühen sie sich aber ab, [Specified 0] hochzuziehen. Es geht nur sehr langsam voran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Specified 0] hievt den Mann noch einmal hoch und klettert dann den Rest des Weges hinauf bis in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Ängstlich ruft der Dorfbewohner hinauf: "Bitte hilf mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

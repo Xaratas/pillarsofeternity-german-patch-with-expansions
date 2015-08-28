@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_cv_mercenary_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Halt! Wo willst du hin?"
+
+Eine der Wachen, eine Frau, tritt einen Schritt nach vorne. Sie mustert dich verächtlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Angreifen] "Das werden wir ja sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen] "Ich gehe dann besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich habe Befehl, dir ein Schwert in den Magen zu rammen, wenn du nicht kehrtmachst und nach Hause läufst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ist dir bewusst, dass du mit dem Fürsten von Caed Nua sprichst?"</DefaultText>
+      <FemaleText>"Ist dir bewusst, dass du mit der Fürstin von Caed Nua sprichst?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Moment ... Caed Nua? Du hast diese verfluchte Festung für dich beansprucht?"
+Die Wache mustert dich erneut. Dieses Mal sieht sie besorgt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Schluss!" Ein weiterer Wachmann tritt vor. Er ist mit einem Speer bewaffnet.
+
+"Der Kommandant hat gesagt, es gibt keine Ausnahmen! Ich will nicht an einem Pfahl enden, weil du dir vor dem Kerl hier in die Hosen machst!"</DefaultText>
+      <FemaleText>"Schluss!" Ein weiterer Wachmann tritt vor. Er ist mit einem Speer bewaffnet.
+
+"Der Kommandant hat gesagt, es gibt keine Ausnahmen! Ich will nicht an einem Pfahl enden, weil du dir vor dem Weib hier in die Hosen machst!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tut mir leid. Der Kommandant wird sich sicher gut um Caed Nua kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ihr hattet eure Chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Dieses Gebiet steht unter der Kontrolle der Männer des Zerrissenen Banners. Wer es betritt, der verlässt es nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"He, hier drüben! Hier gibt es Ärger!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Dachte ich es mir doch. Verschwinde, bevor ich dich töten muss."
+
+Die Wachen beobachten dich misstrauisch, während du weggehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Lasst mich passieren. Ich bin der Fürst von Caed Nua."</DefaultText>
+      <FemaleText>"Lasst mich passieren. Ich bin die Fürstin von Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Was, von diesem alten Steinhaufen?" Die Soldatin lacht. "Fischfutter bist du, sonst gar nichts, wenn du nicht schleunigst verschwindest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Lasst mich passieren. Ich bin der Fürst von Caed Nua."</DefaultText>
+      <FemaleText>"Lasst mich passieren. Ich bin die Fürstin von Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ist dir bewusst, dass du mit dem Fürsten von Caed Nua sprichst?"</DefaultText>
+      <FemaleText>"Ist dir bewusst, dass du mit der Fürstin von Caed Nua sprichst?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich habe einen Drachen erlegt. Warum sollte ich vor dir Angst haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Frag die Dutzenden. Man findet uns überall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vielleicht solltest du mit den Schmelztiegelrittern darüber sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Die Doemenels könnten es dir sicher erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Augenblick, warte. Wir wollen doch nicht-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vielleicht hast du gehört, wie ich Raedrics Festung gestürmt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Caed Nua ist eine hübsche Festung. Geh nur zurück, kleines Fürstlein, und warte, bis wir dir einen Besuch abstatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Moment ... Caed Nua? Von dir reden zur Zeit alle? Waisen retten, Banditen verjagen, all das Zeug?"
+
+Die Wache grinst, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Moment ... Caed Nua? Von dir reden zur Zeit alle? Du scheust keinen Kampf sagt man."
+
+Die Wache grinst, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich bezweifle, dass die Männer des Zerrissenen Banners sich mit der Dunrydstraße anlegen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ein Bîawac konnte mich nicht töten. Du kannst es auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Moment ... von dir reden zur Zeit alle? Für manche von den Männern bist du ein Vorbild. Keine Gnade, eiskalt ..."
+
+Die Wache lacht, in ihrem spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Lasst mich passieren. Ich bin der Fürst von Caed Nua."</DefaultText>
+      <FemaleText>"Lasst mich passieren. Ich bin die Fürstin von Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ist dir bewusst, dass du mit dem Fürsten von Caed Nua sprichst?"</DefaultText>
+      <FemaleText>"Ist dir bewusst, dass du mit der Fürstin von Caed Nua sprichst?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

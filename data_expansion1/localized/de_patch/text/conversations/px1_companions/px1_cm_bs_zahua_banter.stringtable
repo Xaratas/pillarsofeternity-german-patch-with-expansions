@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px1_cm_bs_zahua_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Zahua, hast du etwas dagegen, wenn ich mir ein wenig Malcachoa leihe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du suchst nach Erkenntnissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nein, ich wollte es Durance einflößen, während er schläft, und so tun, als wäre ich der Geist von Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich habe auch einen Pfeffer, der ihn glauben lassen wird, dass er langsam von einer Riesenschlange verschlungen wird ... wenn du Interesse hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Das klingt, als hättest du viel durchlitten, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Danke, ja. Es kommt nicht oft vor, dass jemand Verständnis für mich empfindet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Erzähl mir von deinem schlimmsten Augenblick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nun, als ich ein Kind war, habe ich- ... Moment, dir macht das Spaß, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Lass keine Einzelheit aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich verstehe einfach nicht, wie Leid dir Freude bereiten kann, Zahua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Leid und Erblühen sind das Gleiche, nur in gegensätzlicher Weise zum Ausdruck gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Genau wie Hass und Liebe, aber die hättest du niemals verwechselt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du hast noch nie eine tacanische Frau umworben, wie mir scheint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Zahua, warum sind die Nalpazca so unbeeindruckt von Spott oder Selbstzweifeln? Kann man diese Techniken lehren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du würdest sie nicht erlernen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Was für eine Unverfror- ... ich war immer ein gelehriger Schüler. Ich habe drei Abschlüsse!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Und deine Nase ist zu groß für dein Gesicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sie mag etwas plump sein, aber sie- oh. Oh, jetzt sehe ich es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich fasse es immer noch nicht, dass die Tafel wirklich fort ist. Jahre der Forschung, nur um sie als kleinen Steinhaufen zu entdecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Es gibt keine größere Seelenpein als zu versagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Naja, das ist, also ... ich meine, wir haben mehr über die Engwithaner gelernt als jeder andere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sssch. Ruinier es mir nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Dein Lebenswerk war umsonst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Jeder noch so kleine Hinweis deutete auf diese Tafel hin. Und nun ist sie verloren, für immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Verflucht, seine eigene Hand zog diese Narben! Ich könnte ihn verprügeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Du fühlst dich unwohl, wegen meiner Narben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Das war Iselmyr. Sie ... spricht nicht für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Bist du sicher? Eine ordentliche Tracht Prügel wäre willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Dein Herr ist gestorben? Bevor du deine Ausbildung beendet hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Er hatte seinen Unterricht beendet. Aber er ließ viel ungelehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und du warst allein und verloren? Das klingt nach wahrem Leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wenn das so ist, sind mir die anderen Arten lieber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du suchst seit Jahrzehnten. Und ich dachte, ich wäre seit langer Zeit auf Reisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vermisst du es denn nie? Den Klang deiner eigenen Zunge? Den Geruch von etwas Vertrautem auf dem Feuer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wir sind immer auf Reisen. Auf der Suche nach dem Weg zurück nach Hause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Nicht für immer, hoffe ich. Ich freue mich auf das heimische Feuer und einen Topf fermentierter Milch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ah, die Tacan machen hervorragende fermentierte Milch. Das Sehvermögen kehrt nach nur wenigen Tagen zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ihre Abwesenheit ist Teil meines Leids. Ich trage sie nah an meinem Herzen und das schenkt mir Kraft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wenn Abwesenheit meinen Magen doch nur so gut füllen könnte wie Karibuschenkel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hat jemand ein paar Rationen übrig? Ich habe ein wenig Weißblatt geraucht und jetzt habe ich Hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bah. Ich wusste, dass das Malcachoa schlecht ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Hat noch jemand diesen Kraken gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Hat noch jemand diesen Stelgar in viel zu kleinen Stiefelhosen gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Seit wann hat Durance Vogelbeine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Das war VIEL zu viel Blacsonn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Whoa. Meine Hände sehen doch nicht SO aus. Whoa."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

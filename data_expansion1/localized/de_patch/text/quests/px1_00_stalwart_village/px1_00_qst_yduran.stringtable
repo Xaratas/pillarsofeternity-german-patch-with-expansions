@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_yduran</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Garodhs Refrain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde die anderen Teile von Garodhs Helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe ein Stück eines Helms aufgehoben und einen Teil der Kindheit eines Mannes namens Garodh gesehen. Aus irgendeinem Grund kann seine Seele nicht in das Rad zurückkehren, um wiedergeboren zu werden. Er glaubt, wenn er den Rest seines Helms findet und sich an den Rest seiner Geschichte erinnert, kann er von seiner Existenz befreit werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe bisher nur einen einzigen Teil von Garodhs Helm gefunden. Die anderen Teile müssen irgendwo in dieser Gegend liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Einer der Teile von Garodhs Helm befindet sich irgendwo in Stalwart. Ich sollte ein wenig herumfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ein Teil von Garodhs Helm befindet sich irgendwo in den unteren Bereichen der Höhle des Oger-Clans Flammen-die-flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich sollte die Herrenhalle in Durgans Batterie nach einem Teil von Garodhs Helm absuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe zwei Teile von Garodhs Refrain gefunden. Es fehlt nur noch ein einziger Teil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Yduran in Stalwart bietet eines der Hörner von Garodhs Helm zum Verkauf an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe alle Teile von Garodhs Refrain gefunden und den Helm wieder zusammengefügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

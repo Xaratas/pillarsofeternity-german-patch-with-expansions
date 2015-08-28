@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_si_bookcase_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Das Bücherregal durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ganz hinten auf einem Regalbrett findest du ein dickes Buch, das mit fremdartigen Symbolen verziert ist. Auf den ersten Blick wirkt es recht unscheinbar, doch schließlich erkennst du die Symbole als Beschwörungen und das Buch als Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du bemerkst zwischen zwei schweren Büchern den Rand einer Schriftrolle. Sie ist zerknittert, aber noch verwendbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du findest auf einem der obersten Regalbretter ein altes Buch. Es ist so mit Staub bedeckt, dass du es beinahe übersiehst. Als du es aber abwischst und durch die Seiten blätterst, merkst du, dass es ein frühes Exemplar von "Der iroccianische Kalender" ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Eines der Bücher ist besonders schwer. Als du es herausziehst, siehst du, dass es ein Buch über Münzkunde ist. Echte Münzen sind auf die Seiten geklebt.
+
+Du reißt die Münzen heraus und nimmst sie an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du findest in einem Stapel im unteren Teil des Regals einen Beutel. Als du ihn aufhebst, platzt er auf und Edelsteine purzeln heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ein Buch steckt in einem seltsamen Winkel im Regal. Als du es näher betrachtest, siehst du, dass es von einem Stilett an Ort und Stelle gehalten wird. Du nimmst die Waffe an dich und lässt das zerstörte Buch zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Auf einem der mittleren Regalbretter siehst du eine Kette funkeln. Du ziehst daran und hast plötzlich ein Amulett in der Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nach stundenlangem Suchen tut dir dein Rücken weh und deine Augen brennen.
+
+Du findest nichts weiteres von Wert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Bretter dieses Bücherregals quillen über mit Büchern, losen Seiten und den verschiedensten Artefakten. Auf vielen der Buchrücken sind nicht zu entziffernde Hieroglyphen gekritzelt. Einige sind unbeschriftet.
+
+Es würde Stunden dauern, dieses Chaos zu durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_andred_knife_toss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Der Einsatz sind fünfzig Pand. Bist du dabei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[50p zahlen] "Spielen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen] "Ich habe es mir anders überlegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Andred zielt sorgfältig und wirft seine Klinge ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Auf die Ohren zielen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Auf die Nase zielen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Nicht schlecht, Fremder. Die Runde geht an dich."</DefaultText>
+      <FemaleText>"[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Nicht schlecht, Fremde. Die Runde geht an dich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Ich habe gewonnen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[OrlansHeadGame_PlayerTotalScore] und [OrlansHeadGame_OpponentTotalScore]. Unentschieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Andred zieht ein Wurfmesser aus seinem Gürtel und dreht es in seinen Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Beenden wir das Unentschieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Lass das Reden und wirf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Weggehen] "Ich gebe auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Was, ernsthaft? Nun, wie du willst. Ich bin hier, wenn du versuchen willst, dein Geld zurückzugewinnen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich habe dich wohl verschreckt? Naja, komm wieder, wenn du es dir anders überlegst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Hier ist dein Gewinn. Ich sollte wohl noch ein wenig üben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Das Geld auch." Andred kichert. "Komm wieder, wenn du es noch einmal versuchen willst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sehr gut! Ich fange an, um dir zu zeigen, wie es geht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_PlayerLastResult], der Wurf gibt [OrlansHeadGame_PlayerLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Das Messer trifft [OrlansHeadGame_OpponentLastResult], der Wurf gibt [OrlansHeadGame_OpponentLastScore] Punkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Andred geht nach vorne, um das Messer zu holen. "Du bist dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
