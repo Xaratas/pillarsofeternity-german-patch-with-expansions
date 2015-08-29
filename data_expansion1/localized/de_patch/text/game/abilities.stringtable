@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>1457</ID>
-      <DefaultText>Behälter zerstören</DefaultText>
+      <DefaultText>Gefäß zerstören</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -991,7 +991,7 @@
     </Entry>
     <Entry>
       <ID>1598</ID>
-      <DefaultText>Löscht jeden Besessenen aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
+      <DefaultText>Löscht jedes Gefäß aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1021,12 +1021,12 @@
     </Entry>
     <Entry>
       <ID>1604</ID>
-      <DefaultText>Besessene rufen</DefaultText>
+      <DefaultText>Gefäße rufen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1605</ID>
-      <DefaultText>Beschwört mehrere zufällige Besessene</DefaultText>
+      <DefaultText>Beschwört mehrere zufällige Gefäße.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1036,37 +1036,37 @@
     </Entry>
     <Entry>
       <ID>1607</ID>
-      <DefaultText />
+	  <DefaultText>Verursacht den Geblendet Effekt für eine kurze Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1608</ID>
-      <DefaultText />
+	  <DefaultText>Verursacht den Benommen Effekt für eine kurze Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1609</ID>
-      <DefaultText />
+	  <DefaultText>Verursacht den Gelähmt Effekt für eine kurze Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1610</ID>
-      <DefaultText />
+	  <DefaultText>Verursacht den Versteinert Effekt für eine kurze Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1611</ID>
-      <DefaultText />
+	  <DefaultText>Verwirren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1612</ID>
-      <DefaultText />
+	  <DefaultText>Verursacht den Verwirrt Effekt für eine kurze Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText />
+	  <DefaultText>Erzeugt einen Strahl zwischen Zauberwirker und Ziel, verursacht dabei kontinuierlich Wuchtschaden an allen Feinden im Strahl.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
