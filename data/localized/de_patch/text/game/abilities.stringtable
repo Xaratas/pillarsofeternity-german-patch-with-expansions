@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1424</EntryCount>
+  <EntryCount>1426</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Erzeugt eine giftige physikalische Manifestation der gegenseitigen Antipathie zwischen dem Medium und dem feindlichen Ziel. Jeder, der zwischen die beiden gerät, erleidet Zersetzungsschaden.</DefaultText>
+      <DefaultText>Erzeugt eine giftige physikalische Manifestation der gegenseitigen Antipathie zwischen dem Medium und dem feindlichen Ziel. Feinde, die zwischen die beiden gerät, erleiden Zersetzungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7148,5 +7148,15 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <DefaultText>Löscht jeden Geist aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>1600</ID>
+      <DefaultText>Löscht jeden Geist aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1601</ID>
+      <DefaultText>Vernichtet Geister</DefaultText>
+      <FemaleText />
+    </Entry>	
   </Entries>
 </StringTableFile>
