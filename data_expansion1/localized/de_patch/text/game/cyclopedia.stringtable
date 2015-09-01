@@ -8,7 +8,7 @@
       <ID>301</ID>
       <DefaultText>Lagufaeth sind vierarmige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen - dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.
 
-Eine Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, Männchen oder Weibchen. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe - immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
+Ein Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, egal ob Männchen oder Weibchen. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe - immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -34,9 +34,9 @@ Es heißt, dass Sirenen meistens die Gestalt einer verführerischen Frau annehme
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Gehässigkeit gehört zu den beständigsten negativen Emotionen. Hass klingt mit der Zeit oft ab. Trauer weicht Akzeptanz. Aber die Entrüstung, die durch Grausamkeit, Ungerechtigkeit oder schlichte Gereiztheit entsteht, kann den Geist vergiften und selbst über den Tod hinaus andauern.
+      <DefaultText>Groll gehört zu den beständigsten negativen Emotionen. Hass klingt mit der Zeit oft ab. Trauer weicht Akzeptanz. Aber die Entrüstung, die durch Grausamkeit, Ungerechtigkeit oder schlichtem Verdruss entsteht, kann den Geist vergiften und selbst über den Tod hinaus andauern.
 
-Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als ein Gemenge gehässiger Instinkte. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. "Bittergeist" ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist ... und auf nahezu dieselbe Beschreibung passt.</DefaultText>
+Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als eine Mischung aus aufgebrachten Instinkte. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. "Bittergeist" ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist ... und auf den nahezu dieselbe Beschreibung passt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,14 +68,14 @@ Die meisten Lichs gelten als mächtige Zauberer oder Magier, was aber eher eine 
       <ID>309</ID>
       <DefaultText>Beseeler, Nekromanten und andere skrupellose Zauberwirker, die mit den Leichen von Gestandenen experimentieren, haben schon die verschiedensten Konstrukte und Besessenen geschaffen. Einige existieren als Forschungsobjekte, andere als pure Belustigung.
 
-Leereseher sind Schädel voller Essenz. Die ersten Berichte über Leereseher stammen aus Alt-Vailia, wo ein inzwischen berüchtigten Nekromant sie als Amüsement für den Hof schuf. Seitdem wurden sie als Patrouillen, Wachen und Diener eingesetzt. Ihre geringe Größe macht es leichter, sie zu erschaffen und zu kontrollieren.</DefaultText>
+Leereseher sind Schädel voller Essenz. Die ersten Berichte über Leereseher stammen aus Alt-Vailia, wo ein inzwischen berüchtigter Nekromant sie als Amüsement für den Hof schuf. Seitdem wurden sie als Patrouillen, Wachen und Diener eingesetzt. Ihre geringe Größe macht es leichter, sie zu erschaffen und zu kontrollieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
       <DefaultText>Zauberer experimentieren seit Jahrhunderten mit Konstrukten. Es ist jedoch ein äußerst schwieriges Unterfangen, Seelenessenz aus einem lebenden Körper in etwas anderes zu verpflanzen - ob in Stein, Metall oder Knochen. Je mehr das Gebiet erforscht wurde - größtenteils dank der Beseelung -, desto mehr haben die Methoden sich verbessert.
 
-Noch weitaus schwieriger ist die Übertragung einer intakten Seele - einer Seele also, die ihre Persönlichkeit, ihre Erinnerungen und ihre Intelligenz beibehält. Ethelmoer, der Leiter des Sanatoriums von Farnheim in Trutzbucht ist einer der wenigen erfolgreichen Versuche. Verfechter dieser Forschung argumentieren, dass eine Perfektionierung dieser Methode es Gestandenen ermöglichen würde, ihr Leben zu verlängern, ohne zu Fampyren, Guls oder anderen fleischfressenden Besessenen zu verkommen. Kritiker halten dagegen, dass die metallischen Monstrositäten, die geheime Beseelungslabor bevölkern, noch viel grauenhafter sind.
+Noch weitaus schwieriger ist die Übertragung einer intakten Seele - einer Seele also, die ihre Persönlichkeit, ihre Erinnerungen und ihre Intelligenz beibehält. Ethelmoer, der Leiter des Sanatoriums von Farnheim in Trutzbucht ist einer der wenigen erfolgreichen Versuche. Verfechter dieser Forschung argumentieren, dass eine Perfektionierung dieser Methode es Gestandenen ermöglichen würde, ihr Leben zu verlängern, ohne zu Fampyren, Guls oder anderen fleischfressenden Besessenen zu verkommen. Kritiker halten dagegen, dass die metallischen Monstrositäten, die geheime Beseelungslabore bevölkern, noch viel grauenhafter sind.
 
 Man schätzt, dass es für jedes wirklich beseelte Konstrukt dutzende - wenn nicht sogar hunderte - von verstümmelten Seelen gibt, die in halbfertigen Körpern gefangen sind.</DefaultText>
       <FemaleText />
@@ -111,7 +111,7 @@ Wird die Verbindung zu einer seelengebundenen Waffe je gekappt, verliert sie all
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText />
+	  <DefaultText>Alle Verteidigungen eines abgelenkten Ziels werden um 6 reduziert. Außerdem verliert es eine Angriffsbindung. Das heißt für die meißten Charactere, dass sie gar keinen Gegner festhalten können solange der Zustand andauert.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
