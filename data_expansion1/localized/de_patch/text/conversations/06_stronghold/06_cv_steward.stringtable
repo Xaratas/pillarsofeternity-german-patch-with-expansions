@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Mein Fürst, ich habe einen Brief für Sie. Er kam mit einer großen Summe Geldes. Sie haben auf Ihren Reisen wohl neue Freunde gefunden?"</DefaultText>
-      <FemaleText>"Meine Fürstin, ich habe einen Brief für Sie. Er kam mit einer großen Summe Geldes. Sie haben auf Ihren Reisen wohl neue Freunde gefunden?"</FemaleText>
+      <DefaultText>„Mein Fürst, ich habe einen Brief für Sie. Er kam mit einer großen Summe Geldes. Sie haben auf Ihren Reisen wohl neue Freunde gefunden?“</DefaultText>
+      <FemaleText>„Meine Fürstin, ich habe einen Brief für Sie. Er kam mit einer großen Summe Geldes. Sie haben auf Ihren Reisen wohl neue Freunde gefunden?“</FemaleText>
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Nun denn, kann ich etwas für Sie tun?"</DefaultText>
+      <DefaultText>„Nun denn, kann ich etwas für Sie tun?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
