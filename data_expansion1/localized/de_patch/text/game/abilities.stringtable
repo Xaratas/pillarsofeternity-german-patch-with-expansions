@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>1483</ID>
-      <DefaultText>Dieser Reim imitiert die Fähigkeit des Kantors, Skelete zu beschwören. Er kann jedoch erst eingesetzt werden, wenn einige Zeit im Kampf vergangen ist. Außerdem kann er nur sehr selten eingesetzt werden.</DefaultText>
+      <DefaultText>Dieser Reim imitiert die Fähigkeit des Kantors, Skelette zu beschwören. Er kann jedoch erst eingesetzt werden, wenn einige Zeit im Kampf vergangen ist. Außerdem kann er nur sehr selten eingesetzt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Bliz, der direkt auf ein einzelnes Ziel springt und anschließend auf bis zu sechs Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
+      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Blitz, der direkt auf ein einzelnes Ziel springt und anschließend auf bis zu sechs Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +826,7 @@
     </Entry>
     <Entry>
       <ID>1565</ID>
-      <DefaultText>Wie wird aus Glück in einem Würfelspiel Erfolg auf dem Schlachtfeld? Ist es ein Segen der Götter? Ein kosmischer Schicksalsstreich? Niemand weiß ... und doch profitierst du davon.</DefaultText>
+      <DefaultText>Wie wird aus Glück in einem Würfelspiel Erfolg auf dem Schlachtfeld? Ist es ein Segen der Götter? Ein kosmischer Schicksalsstreich? Niemand weiß es&#160;… und doch profitierst du davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

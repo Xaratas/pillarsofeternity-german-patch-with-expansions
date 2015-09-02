@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Lasse Ailef frei."</DefaultText>
+      <DefaultText>„Lasse Ailef frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Sofort, mein Fürst."</DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
