@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>874</ID>
-      <DefaultText>Diese Schmelzer wurden schon sehr lange nicht verwendet.</DefaultText>
+      <DefaultText>Diese Schmelzen wurden schon sehr lange nicht verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>Diese Steine fühlen sich seltsam warm an. Die meisten Runden sind zwar nicht zu entziffern, einige sehen aber aus wie Namen.</DefaultText>
+      <DefaultText>Diese Steine fühlen sich seltsam warm an. Die meisten Runen sind zwar nicht zu entziffern, einige sehen aber aus wie Namen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@ Wir mögen weit entfernt sein, doch wisse uns als Verwandte."</DefaultText>
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Die Lettern auf dieser Tafel sind tief und klar, als wären sie erst kürzlich eingemeißelt werden. Die Inschrift auf der Tafel lautet:
+      <DefaultText>Die Lettern auf dieser Tafel sind tief und klar, als wären sie erst kürzlich eingemeißelt worden. Die Inschrift auf der Tafel lautet:
 
 "Unsere Türme aus Stein mögen umgeben sein von Toren aus Koralle.
 Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz."</DefaultText>
