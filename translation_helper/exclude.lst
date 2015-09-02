@@ -1,4 +1,6 @@
 */lib/*
+*/translation_helper/*
+*.gitignore*
 *.gitattributes*
 *exclude.lst*
 *pre-commit*
@@ -8,3 +10,4 @@
 *stringtable.xsd*
 *xsdv.cmd*
 *xsdv.sh*
+*translation_helper*
