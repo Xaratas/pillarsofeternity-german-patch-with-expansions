@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Mein Fürst, Sie haben einen Brief erhalten ... Er scheint von großer Dringlichkeit zu sein. Fast wäre der Bote in Ohnmacht gefallen, der arme Bursche."</DefaultText>
-      <FemaleText>"Meine Fürstin, Sie haben einen Brief erhalten ... Er scheint von großer Dringlichkeit zu sein. Fast wäre der Bote in Ohnmacht gefallen, der arme Bursche."</FemaleText>
+      <DefaultText>„Mein Fürst, Sie haben einen Brief erhalten&#160;… Er scheint von großer Dringlichkeit zu sein. Fast wäre der Bote in Ohnmacht gefallen, der arme Bursche.“</DefaultText>
+      <FemaleText>„Meine Fürstin, Sie haben einen Brief erhalten&#160;… Er scheint von großer Dringlichkeit zu sein. Fast wäre der Bote in Ohnmacht gefallen, der arme Bursche.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Er stammt aus Stalwart. Offenbar hat die Bürgermeisterin, Renengild, von Ihrem Erfolg hier auf Caed Nua gehört und hofft, dass Sie auch ihren Bürgern helfen können."</DefaultText>
+      <DefaultText>„Er stammt aus Stalwart. Offenbar hat die Bürgermeisterin, Renengild, von Ihrem Erfolg hier auf Caed Nua gehört und hofft, dass Sie auch ihren Bürgern helfen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Was will Renengild?"</DefaultText>
+      <DefaultText>„Was will Renengild?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wo ist Stalwart?"</DefaultText>
+      <DefaultText>„Wo ist Stalwart?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Der Brief hat einen weiten Weg zurückgelegt."</DefaultText>
+      <DefaultText>„Der Brief hat einen weiten Weg zurückgelegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Stalwart ist ein Bergdorf, das wegen seiner Mine früher recht großen Einfluss besaß. Renengild hofft wohl, ihm wieder zu seinem alten Glanz zu verhelfen."</DefaultText>
+      <DefaultText>„Stalwart ist ein Bergdorf, das wegen seiner Mine früher recht großen Einfluss besaß. Renengild hofft wohl, ihm wieder zu seinem alten Glanz zu verhelfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Offenbar hat sie vor, Durgans Batterie wieder zu öffnen. Und sie bietet dem, der hineingelangt, eine große Belohnung."</DefaultText>
+      <DefaultText>„Offenbar hat sie vor, Durgans Batterie wieder zu öffnen. Und sie bietet dem, der hineingelangt, eine große Belohnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eine Belohnung, sagt sie! Um in die Batterie zu gelangen? Das allein ist doch gewiss Belohnung genug."</DefaultText>
+      <DefaultText>„Eine Belohnung, sagt sie! Um in die Batterie zu gelangen? Das allein ist doch gewiss Belohnung genug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,69 +51,69 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Hoffen wir, dass es dort zumindest keine wahnsinnigen Wächter gibt."</DefaultText>
+      <DefaultText>„Hoffen wir, dass es dort zumindest keine wahnsinnigen Wächter gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Wie stelle ich das an?"</DefaultText>
+      <DefaultText>„Wie stelle ich das an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Was ist Durgans Batterie?"</DefaultText>
+      <DefaultText>„Was ist Durgans Batterie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Durgans Batterie? Die Quelle des Durganstahls?"</DefaultText>
+      <DefaultText>„Durgans Batterie? Die Quelle des Durganstahls?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Das weiß ich nicht, mein Fürst. Nur eines weiß ich: Renengild geht davon aus, dass man in der Batterie Geistern begegnen wird - Geistern wie denen, denen Sie hier in der Festung begegnet sind."</DefaultText>
-      <FemaleText>"Das weiß ich nicht, meine Fürstin. Nur eines weiß ich: Renengild geht davon aus, dass man in der Batterie Geistern begegnen wird - Geistern wie denen, denen Sie hier in der Festung begegnet sind."</FemaleText>
+      <DefaultText>„Das weiß ich nicht, mein Fürst. Nur eines weiß ich: Renengild geht davon aus, dass man in der Batterie Geistern begegnen wird - Geistern wie denen, denen Sie hier in der Festung begegnet sind.“</DefaultText>
+      <FemaleText>„Das weiß ich nicht, meine Fürstin. Nur eines weiß ich: Renengild geht davon aus, dass man in der Batterie Geistern begegnen wird - Geistern wie denen, denen Sie hier in der Festung begegnet sind.“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Die Zwerge der Batterie haben Durganstahl geschaffen und daraus die besten Waffen und Rüstungen gefertigt, die es im Dyrwald je gegeben hat."
+      <DefaultText>„Die Zwerge der Batterie haben Durganstahl geschaffen und daraus die besten Waffen und Rüstungen gefertigt, die es im Dyrwald je gegeben hat.“
 
-"Doch die Festung ist seit Jahrhunderten verlassen. Es ist niemand mehr übrig, der ihre Geheimnisse kennt."</DefaultText>
+„Doch die Festung ist seit Jahrhunderten verlassen. Es ist niemand mehr übrig, der ihre Geheimnisse kennt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Es ranken sich viele Legenden um die Batterie. Der Graf berichtete, dass es zu einem Streit zwischen den Zwergen kam, weil jeder die Batterie für seine eigene Zwecke nutzen wollte."</DefaultText>
+      <DefaultText>„Es ranken sich viele Legenden um die Batterie. Der Graf berichtete, dass es zu einem Streit zwischen den Zwergen kam, weil jeder die Batterie für seine eigene Zwecke nutzen wollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Also nicht die nette Sorte, die nur du siehst, sondern die gemeine Sorte, die sich gerne von hinten an einen anschleicht."</DefaultText>
+      <DefaultText>„Also nicht die nette Sorte, die nur du siehst, sondern die gemeine Sorte, die sich gerne von hinten an einen anschleicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Vielleicht statte ich Stalwart einen Besuch ab."</DefaultText>
+      <DefaultText>„Vielleicht statte ich Stalwart einen Besuch ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Klingt, als wäre das allein Stalwarts Problem, nicht meines."</DefaultText>
+      <DefaultText>„Klingt, als wäre das allein Stalwarts Problem, nicht meines.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich habe durchaus Freude an Reichtümern ..."</DefaultText>
+      <DefaultText>„Ich habe durchaus Freude an Reichtümern&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Es ist allein Ihre Entscheidung, mein Fürst. Und dort oben wird es empfindlich kalt. Aber das ist noch nicht alles."</DefaultText>
-      <FemaleText>"Es ist allein Ihre Entscheidung, meine Fürstin. Und dort oben wird es empfindlich kalt. Aber das ist noch nicht alles."</FemaleText>
+      <DefaultText>„Es ist allein Ihre Entscheidung, mein Fürst. Und dort oben wird es empfindlich kalt. Aber das ist noch nicht alles.“</DefaultText>
+      <FemaleText>„Es ist allein Ihre Entscheidung, meine Fürstin. Und dort oben wird es empfindlich kalt. Aber das ist noch nicht alles.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich sollte noch erwähnen, dass auf Renengilds Ruf offenbar auch eine bestimmte Gruppe geantwortet hat, an der Sie möglicherweise ein Interesse haben könnten."</DefaultText>
+      <DefaultText>„Ich sollte noch erwähnen, dass auf Renengilds Ruf offenbar auch eine bestimmte Gruppe geantwortet hat, an der Sie möglicherweise ein Interesse haben könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,31 +123,31 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Die Wunder der Batterie sind sicher ein ganz erstaunlicher Anblick ... aber wenn die Pässe durch die Weißmark wieder offen wären, wäre das ein Segen für die Händler in den Republiken ... und im Dyrwald natürlich."</DefaultText>
+      <DefaultText>„Die Wunder der Batterie sind sicher ein ganz erstaunlicher Anblick ... aber wenn die Pässe durch die Weißmark wieder offen wären, wäre das ein Segen für die Händler in den Republiken&#160;… und im Dyrwald natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Man stelle sich vor - die größte aller Zwergenfestungen zu erforschen!"</DefaultText>
+      <DefaultText>„Man stelle sich vor - die größte aller Zwergenfestungen zu erforschen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich kannte mal jemanden, der behauptete, er hätte eine Axt aus Durganstahl. Wir haben sie gegen eine rostige Axt ausgetauscht und er hat seiner Frau vorgeworfen, sie gestohlen zu haben.
+      <DefaultText>„Ich kannte mal jemanden, der behauptete, er hätte eine Axt aus Durganstahl. Wir haben sie gegen eine rostige Axt ausgetauscht und er hat seiner Frau vorgeworfen, sie gestohlen zu haben.“
 
-"Sie hat ihm mit der rostigen Axt seine Männlichkeit abgeschnitten, aber im Nachhinein findet er die ganze Sache sicher urkomisch."
+„Sie hat ihm mit der rostigen Axt seine Männlichkeit abgeschnitten, aber im Nachhinein findet er die ganze Sache sicher urkomisch.“
 
-"Ich schulde dem Kerl wohl eine Axt."</DefaultText>
+„Ich schulde dem Kerl wohl eine Axt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Es wird schön sein zu sehen, was diese Nordzwerge gebaut haben. Und endlich einmal gutes Wetter zu genießen."</DefaultText>
+      <DefaultText>„Es wird schön sein zu sehen, was diese Nordzwerge gebaut haben. Und endlich einmal gutes Wetter zu genießen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Was auch geschehen ist, seitdem ist die Batterie nicht mehr zu öffnen. Ein Jammer. Ich bin sicher, dass noch immer gewaltige Schätze in diesen Hallen schlummern."</DefaultText>
+      <DefaultText>„Was auch geschehen ist, seitdem ist die Batterie nicht mehr zu öffnen. Ein Jammer. Ich bin sicher, dass noch immer gewaltige Schätze in diesen Hallen schlummern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,38 +157,38 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ja, natürlich, wir - Moment, was? Aber ... aber wir reden von Durgans Batterie! Vergiss die Minen - denk an die Artefakte, die wir finden könnten!"</DefaultText>
+      <DefaultText>„Ja, natürlich, wir - Moment, was? Aber&#160;… aber wir reden von Durgans Batterie! Vergiss die Minen - denk an die Artefakte, die wir finden könnten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Anhänger Woedicas, die Stalwart und die Batterie erreichen wollen. Ich weiß nicht, was sie dort suchen, aber ich wollte es erwähnt haben ... nachdem Sie so an den Ruinen in Trutzbucht interessiert waren."</DefaultText>
+      <DefaultText>„Anhänger Woedicas, die Stalwart und die Batterie erreichen wollen. Ich weiß nicht, was sie dort suchen, aber ich wollte es erwähnt haben&#160;… nachdem Sie so an den Ruinen in Trutzbucht interessiert waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Genau die! Seit vielen Jahren versuchen die Leute, in die Festung einzudringen. Unser eigener Graf war fasziniert von der Geschichte des Niedergangs der Batterie."</DefaultText>
+      <DefaultText>„Genau die! Seit vielen Jahren versuchen die Leute, in die Festung einzudringen. Unser eigener Graf war fasziniert von der Geschichte des Niedergangs der Batterie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Und weiter?"</DefaultText>
+      <DefaultText>„Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Stalwart liegt in dem Gebirge, das man die Weißmark nennt. Mehrere Tagesreisen nordöstlich von hier. Sie sollten sich warm anziehen."</DefaultText>
+      <DefaultText>„Stalwart liegt in dem Gebirge, das man die Weißmark nennt. Mehrere Tagesreisen nordöstlich von hier. Sie sollten sich warm anziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Sie sind nicht jedermann. Und in diesem Fall hat Renengild wohl Recht, dass Sie durch Ihre Erfahrungen hier im Vorteil sein könnten."</DefaultText>
+      <DefaultText>„Sie sind nicht jedermann. Und in diesem Fall hat Renengild wohl Recht, dass Sie durch Ihre Erfahrungen hier im Vorteil sein könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Nun, da ich Renengilds Nachricht überbracht habe, muss ich Ihnen auch noch von einer örtlichen Angelegenheit berichten, mein Fürst."</DefaultText>
-      <FemaleText>"Nun, da ich Renengilds Nachricht überbracht habe, muss ich Ihnen auch noch von einer örtlichen Angelegenheit berichten, meine Fürstin."</FemaleText>
+      <DefaultText>„Nun, da ich Renengilds Nachricht überbracht habe, muss ich Ihnen auch noch von einer örtlichen Angelegenheit berichten, mein Fürst.“</DefaultText>
+      <FemaleText>„Nun, da ich Renengilds Nachricht überbracht habe, muss ich Ihnen auch noch von einer örtlichen Angelegenheit berichten, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -197,80 +197,80 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Die Männer des Zerrissenen Banners sind ein tödlicher Kampftrupp, und Concelhaut selbst hat viele Reisende ins Grab geschickt. Ich rate Ihnen, das Gebiet zu meiden, falls Sie in die Weißmark reisen."</DefaultText>
+      <DefaultText>„Die Männer des Zerrissenen Banners sind ein tödlicher Kampftrupp, und Concelhaut selbst hat viele Reisende ins Grab geschickt. Ich rate Ihnen, das Gebiet zu meiden, falls Sie in die Weißmark reisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Wenn es den Männern des Zerrissenen Banners gelingt, Concelhauts Länder einzunehmen, dann wird Caed Nua wohl ein verlockendes Ziel für sie abgeben. Ich fürchte, Sie müssen sich früher oder später um sie kümmern ... auf welche Weise auch immer."</DefaultText>
+      <DefaultText>„Wenn es den Männern des Zerrissenen Banners gelingt, Concelhauts Länder einzunehmen, dann wird Caed Nua wohl ein verlockendes Ziel für sie abgeben. Ich fürchte, Sie müssen sich früher oder später um sie kümmern&#160;… auf welche Weise auch immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Wer ist Concelhaut?"</DefaultText>
+      <DefaultText>„Wer ist Concelhaut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Weißt du sonst noch etwas über diese Söldner?"</DefaultText>
+      <DefaultText>„Weißt du sonst noch etwas über diese Söldner?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] "Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Sichere Reisen, mein Fürst."</DefaultText>
-      <FemaleText>Sichere Reisen, meine Fürstin."</FemaleText>
+      <DefaultText>Sichere Reisen, mein Fürst.“</DefaultText>
+      <FemaleText>Sichere Reisen, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Gier und Grausamkeit haben die Batterie zu Fall gebracht - und nun spuken die Geister eben jener Zwerge durch die Hallen."</DefaultText>
+      <DefaultText>„Gier und Grausamkeit haben die Batterie zu Fall gebracht - und nun spuken die Geister eben jener Zwerge durch die Hallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ein Söldnertrupp wurde im Nordosten gesichtet. Sie haben offenbar vor, Concelhauts Turm einzunehmen, und der Erzmagier wird ihn nicht kampflos verlassen."</DefaultText>
+      <DefaultText>„Ein Söldnertrupp wurde im Nordosten gesichtet. Sie haben offenbar vor, Concelhauts Turm einzunehmen, und der Erzmagier wird ihn nicht kampflos verlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Wenn die Bannermänner Erfolg haben, werden sie ihre Aufmerksamkeit wohl auf Caed Nua richten, fürchte ich. Ich halte Sie auf dem Laufenden, mein Fürst."</DefaultText>
-      <FemaleText>"Wenn die Bannermänner Erfolg haben, werden sie ihre Aufmerksamkeit wohl auf Caed Nua richten, fürchte ich. Ich halte Sie auf dem Laufenden, meine Fürstin."</FemaleText>
+      <DefaultText>„Wenn die Bannermänner Erfolg haben, werden sie ihre Aufmerksamkeit wohl auf Caed Nua richten, fürchte ich. Ich halte Sie auf dem Laufenden, mein Fürst.“</DefaultText>
+      <FemaleText>„Wenn die Bannermänner Erfolg haben, werden sie ihre Aufmerksamkeit wohl auf Caed Nua richten, fürchte ich. Ich halte Sie auf dem Laufenden, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ein legendärer Erzmagier. Man sagte mir, dass seine Arbeiten zur Manipulation der Seele im Sanatorium von Farnheim hoch geschätzt sind. Seine Zauber sind weit verbreitet."</DefaultText>
+      <DefaultText>„Ein legendärer Erzmagier. Man sagte mir, dass seine Arbeiten zur Manipulation der Seele im Sanatorium von Farnheim hoch geschätzt sind. Seine Zauber sind weit verbreitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"In einigen Kreisen wird er jedoch nicht gern gelitten. Manche nennen ihn einen Wahnsinnigen ... oder grausam und barbarisch." 
+      <DefaultText>„In einigen Kreisen wird er jedoch nicht gern gelitten. Manche nennen ihn einen Wahnsinnigen&#160;… oder grausam und barbarisch." 
 
-Der Burgvogt hält inne. "Er muss inzwischen sehr alt sein. Vielleicht glauben die Männer des Zerrissenen Banners deswegen, dass sie ihn besiegen können."</DefaultText>
+Der Burgvogt hält inne. „Er muss inzwischen sehr alt sein. Vielleicht glauben die Männer des Zerrissenen Banners deswegen, dass sie ihn besiegen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Concelhaut ist einer der größten Zauberer unserer Generation!" Aloth ist voll nervöser Energie und schwankt zwischen Unruhe und freudiger Erregung. Er scheint sprachlos zu sein.</DefaultText>
+      <DefaultText>„Concelhaut ist einer der größten Zauberer unserer Generation!" Aloth ist voll nervöser Energie und schwankt zwischen Unruhe und freudiger Erregung. Er scheint sprachlos zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Sehr wenig, fürchte ich. Die Männer des Zerrissenen Banners sind gut ausgestattet und gut organisiert. Es gibt Gerüchte, dass ein unbekannter Hintermann sie unterstützt."</DefaultText>
+      <DefaultText>„Sehr wenig, fürchte ich. Die Männer des Zerrissenen Banners sind gut ausgestattet und gut organisiert. Es gibt Gerüchte, dass ein unbekannter Hintermann sie unterstützt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Sie haben sich in der Vergangenheit als erstaunlich effektiv erwiesen und stellen eine echte Gefahr dar."</DefaultText>
+      <DefaultText>„Sie haben sich in der Vergangenheit als erstaunlich effektiv erwiesen und stellen eine echte Gefahr dar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich zweifle nicht an Ihrem Mut, mein Fürst, aber Concelhaut allein besitzt mehr Macht als alle Feinde, denen Sie bisher getrotzt haben. Eines Tages werden Sie ihm vielleicht das Wasser reichen können."</DefaultText>
-      <FemaleText>"Ich zweifle nicht an Ihrem Mut, meine Fürstin, aber Concelhaut allein besitzt mehr Macht als alle Feinde, denen Sie bisher getrotzt haben. Eines Tages werden Sie ihm vielleicht das Wasser reichen können."</FemaleText>
+      <DefaultText>„Ich zweifle nicht an Ihrem Mut, mein Fürst, aber Concelhaut allein besitzt mehr Macht als alle Feinde, denen Sie bisher getrotzt haben. Eines Tages werden Sie ihm vielleicht das Wasser reichen können.“</DefaultText>
+      <FemaleText>„Ich zweifle nicht an Ihrem Mut, meine Fürstin, aber Concelhaut allein besitzt mehr Macht als alle Feinde, denen Sie bisher getrotzt haben. Eines Tages werden Sie ihm vielleicht das Wasser reichen können.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -6,62 +6,62 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich dachte, dass eine ganze Weile niemand zur Fischerei kommen würde. Aber das ist wohl das einzig Richtige - einfach weitermachen wie gewöhnlich."</DefaultText>
+      <DefaultText>„Ich dachte, dass eine ganze Weile niemand zur Fischerei kommen würde. Aber das ist wohl das einzig Richtige - einfach weitermachen wie gewöhnlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Es wird eine schwere Zeit ohne Grynde. Er hat den Laden am Laufen gehalten."</DefaultText>
+      <DefaultText>„Es wird eine schwere Zeit ohne Grynde. Er hat den Laden am Laufen gehalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Kann ich dir etwas bringen?"</DefaultText>
+      <DefaultText>„Kann ich dir etwas bringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es tut mir leid, ich sollte dich mit so etwas nicht belästigen. Kann ich dir etwas bringen?"</DefaultText>
+      <DefaultText>„Es tut mir leid, ich sollte dich mit so etwas nicht belästigen. Kann ich dir etwas bringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Willkommen zurück. Brauchst du neue Vorräte? Vielleicht ein paar Reusen?"</DefaultText>
+      <DefaultText>„Willkommen zurück. Brauchst du neue Vorräte? Vielleicht ein paar Reusen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Was hast du denn anzubieten?"</DefaultText>
+      <DefaultText>„Was hast du denn anzubieten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Weggehen] "Im Moment nicht, danke."</DefaultText>
+      <DefaultText>[Weggehen] „Im Moment nicht, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Natürlich."</DefaultText>
+      <DefaultText>„Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Aber sicher. Grynde hat übrigens gesagt, dass du Rabatt bekommen solltest."</DefaultText>
+      <DefaultText>„Aber sicher. Grynde hat übrigens gesagt, dass du Rabatt bekommen solltest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Oh, du bist es! Stimmt es wirklich? Hast du wirklich die Weiße Esse gesehen?"</DefaultText>
+      <DefaultText>„Oh, du bist es! Stimmt es wirklich? Hast du wirklich die Weiße Esse gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ja, das habe ich."</DefaultText>
+      <DefaultText>„Ja, das habe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Nicht nur gesehen."</DefaultText>
+      <DefaultText>„Nicht nur gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,27 +71,27 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ach, aber warte-! Mir erzählt aber auch nie irgendjemand was ..."</DefaultText>
+      <DefaultText>„Ach, aber warte-! Mir erzählt aber auch nie irgendjemand was&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Hoffentlich darf ich sie irgendwann sehen. Bevor die Plünderer kommen, meine ich."</DefaultText>
+      <DefaultText>„Hoffentlich darf ich sie irgendwann sehen. Bevor die Plünderer kommen, meine ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Verflucht ... ich kann es kaum glauben. Das muss unglaublich gewesen sein!"</DefaultText>
+      <DefaultText>„Verflucht&#160;… ich kann es kaum glauben. Das muss unglaublich gewesen sein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Stell dir nur vor - Stalwart fertigt Batteriestahl! Das ändert alles!"</DefaultText>
+      <DefaultText>„Stell dir nur vor - Stalwart fertigt Batteriestahl! Das ändert alles!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wetten, dass du nicht über die Kohlen springen kannst?"</DefaultText>
+      <DefaultText>„Wetten, dass du nicht über die Kohlen springen kannst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Diese großen Leute haben Tomas Haus abgebrannt."</DefaultText>
+      <DefaultText>„Diese großen Leute haben Tomas Haus abgebrannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Kaufst du uns ein bisschen Wein?"</DefaultText>
+      <DefaultText>„Kaufst du uns ein bisschen Wein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Owynna sagt, sie gibt uns echte Schwerter zum Spielen!"</DefaultText>
+      <DefaultText>„Owynna sagt, sie gibt uns echte Schwerter zum Spielen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Fressen die Riesen uns auf?"</DefaultText>
+      <DefaultText>„Fressen die Riesen uns auf?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

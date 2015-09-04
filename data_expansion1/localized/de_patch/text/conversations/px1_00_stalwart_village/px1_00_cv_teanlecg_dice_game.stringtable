@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"So, fangen wir an. Münzen auf den Tisch."</DefaultText>
+      <DefaultText>„So, fangen wir an. Münzen auf den Tisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Weggehen] "Ich habe es mir anders überlegt."</DefaultText>
+      <DefaultText>[Weggehen] „Ich habe es mir anders überlegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du darfst anfangen, weil du neu bist." Teanleycg lacht.</DefaultText>
+      <DefaultText>„Du darfst anfangen, weil du neu bist.“ Teanleycg lacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,65 +31,65 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Du würfelst ... 
+      <DefaultText>Du würfelst&#160;… 
 [DozensGame_LastPlayerRollNums]
 [DozensGame_LastPlayerRollDesc]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Du würfelst ... 
+      <DefaultText>Du würfelst&#160;… 
 [DozensGame_LastPlayerRollNums]
 [DozensGame_LastPlayerRollDesc]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Du bist dran."</DefaultText>
+      <DefaultText>„Du bist dran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Teanleycg würfelt ...
+      <DefaultText>Teanleycg würfelt&#160;…
 [DozensGame_LastOpponentRollNums]
 [DozensGame_LastOpponentRollDesc]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Teanleycg würfelt ...
+      <DefaultText>Teanleycg würfelt&#160;…
 [DozensGame_LastOpponentRollNums]
 [DozensGame_LastOpponentRollDesc]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Verdammt. [DozensGame_PlayerFinalDesc] für dich, [DozensGame_OpponentFinalDesc] für mich. Die Runde geht an dich."</DefaultText>
+      <DefaultText>„Verdammt. [DozensGame_PlayerFinalDesc] für dich, [DozensGame_OpponentFinalDesc] für mich. Die Runde geht an dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Hah. [DozensGame_OpponentFinalDesc] für mich, [DozensGame_PlayerFinalDesc] für dich. Ich habe gewonnen."</DefaultText>
+      <DefaultText>„Hah. [DozensGame_OpponentFinalDesc] für mich, [DozensGame_PlayerFinalDesc] für dich. Ich habe gewonnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Das war wohl ein Unentschieden. Spielen wir nochmal."</DefaultText>
+      <DefaultText>„Das war wohl ein Unentschieden. Spielen wir nochmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Bereit?"</DefaultText>
+      <DefaultText>„Bereit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Jetzt zählt's ... du fängst an."</DefaultText>
+      <DefaultText>„Jetzt zählt's&#160;… du fängst an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Bisher ist es ausgeglichen ... Also los."</DefaultText>
+      <DefaultText>„Bisher ist es ausgeglichen&#160;… Also los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,26 +99,26 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Weggehen] "Ich gebe auf."</DefaultText>
+      <DefaultText>[Weggehen] „Ich gebe auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Teanleycg zuckt grinsend mit den Schultern.
 
-"Ein Jammer. Komm zurück, wenn es dir draußen zu kalt wird."</DefaultText>
+„Ein Jammer. Komm zurück, wenn es dir draußen zu kalt wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Tja, ich habe kein Geld mir."
+      <DefaultText>„Tja, ich habe kein Geld mir.“
 
 Teanleycg verzieht das Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich hätte es wissen müssen. Du siehst schon aus wie ein Glückspilz. Also nimm schon dein Vermögen und geh."</DefaultText>
+      <DefaultText>„Ich hätte es wissen müssen. Du siehst schon aus wie ein Glückspilz. Also nimm schon dein Vermögen und geh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,24 +128,24 @@ Teanleycg verzieht das Gesicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Und ich habe gewonnen. Nimm's nicht zu schwer, du kannst es jederzeit erneut versuchen."
+      <DefaultText>„Und ich habe gewonnen. Nimm's nicht zu schwer, du kannst es jederzeit erneut versuchen.“
 
 Teanleycg zieht seinen Gewinn zu sich heran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ah. Tja, ich bin hier, wenn du deine Meinung doch änderst."</DefaultText>
+      <DefaultText>„Ah. Tja, ich bin hier, wenn du deine Meinung doch änderst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ha! Gut gemacht. Du hast gewonnen. Hier ist dein Gewinn."</DefaultText>
+      <DefaultText>„Ha! Gut gemacht. Du hast gewonnen. Hier ist dein Gewinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Bild dir nur nichts darauf ein. Nächstes Mal besiege ich dich."</DefaultText>
+      <DefaultText>„Bild dir nur nichts darauf ein. Nächstes Mal besiege ich dich.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

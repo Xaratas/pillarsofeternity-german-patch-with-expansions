@@ -6,163 +6,163 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich dachte, ich hätte einen Unterschlupf gefunden, als ich über dieses kleine Dorf gestolpert bin. Du wohl auch, was?" 
+      <DefaultText>„Ich dachte, ich hätte einen Unterschlupf gefunden, als ich über dieses kleine Dorf gestolpert bin. Du wohl auch, was?“ 
 
 Feara hebt ihren bereiften Krug und prostet dir zu. Auch wenn die Wärme des Herdes euch hier erreicht, sind ihre Hände in Wolle gewickelt und ihre Ohren mit einem Hut bedeckt. Ihr Gesicht wirkt straff und vom Wind gepeitscht, als wäre sie gerade erst von einer langen Wanderung zurückgekehrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hast du etwas gefunden? Ich mag mir nicht ausmalen, dass diese schleimigen Bastarde meine Ladung irgendwo in ein frostiges Loch gezerrt haben."
+      <DefaultText>„Hast du etwas gefunden? Ich mag mir nicht ausmalen, dass diese schleimigen Bastarde meine Ladung irgendwo in ein frostiges Loch gezerrt haben.“
 
 Sie blickt fast schmerzerfüllt in ihren Krug.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ooh ... Ich spüre meine Finger immer noch nicht."</DefaultText>
+      <DefaultText>„Ooh&#160;… Ich spüre meine Finger immer noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Feara hebt ihren Humpen. "Du siehst so aus, als wärest du in der Wildnis gewesen. Hast du meinen Wagen da draußen gesehen?"</DefaultText>
+      <DefaultText>Feara hebt ihren Humpen. „Du siehst so aus, als wärest du in der Wildnis gewesen. Hast du meinen Wagen da draußen gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Bei dem vielen Blut auf den Straßen habe ich Glück, dass das Bier noch fließt."
+      <DefaultText>„Bei dem vielen Blut auf den Straßen habe ich Glück, dass das Bier noch fließt.“
 
 Sie nimmt einen Schluck. Als sie ihren Kopf nach hinten neigt, siehst du einen Bluterguss an ihrem Kinn und bemerkst, dass ihre Knöchel rot und rau sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was genau ist mit dir geschehen?"</DefaultText>
+      <DefaultText>„Was genau ist mit dir geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <DefaultText>„Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Noch nicht."</DefaultText>
+      <DefaultText>„Noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich habe deine Ware gefunden."</DefaultText>
+      <DefaultText>„Ich habe deine Ware gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich weiß, dass du Svef schmuggelst, Feara."</DefaultText>
+      <DefaultText>„Ich weiß, dass du Svef schmuggelst, Feara.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich war Teil einer Expedition. Wir haben nach Relikten aus Durgans Batterie gesucht. Wir hatten auch eine ordentliche Ladung gefunden."
+      <DefaultText>„Ich war Teil einer Expedition. Wir haben nach Relikten aus Durgans Batterie gesucht. Wir hatten auch eine ordentliche Ladung gefunden.“
 
 Sie trinkt langsam einen Schluck Bier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Was wirst du jetzt machen?"</DefaultText>
+      <DefaultText>„Was wirst du jetzt machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Sie reibt die Hände zusammen. "Du hast mir den Hintern gerettet, [Player Name]. Ich kann dir nicht genug danken, aber ich hoffe, du nimmst dies."</DefaultText>
+      <DefaultText>Sie reibt die Hände zusammen. „Du hast mir den Hintern gerettet, [Player Name]. Ich kann dir nicht genug danken, aber ich hoffe, du nimmst dies.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Psst! Nicht so laut, verstanden?" Sie blickt sich um.</DefaultText>
+      <DefaultText>„Psst! Nicht so laut, verstanden?“ Sie blickt sich um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Also gut. Aber ich will beteiligt werden."</DefaultText>
+      <DefaultText>„Also gut. Aber ich will beteiligt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wenn du nicht willst, dass Renengild von deinem Geschäft erfährt, musst du mich bezahlen."</DefaultText>
+      <DefaultText>„Wenn du nicht willst, dass Renengild von deinem Geschäft erfährt, musst du mich bezahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich werde dir nicht helfen, dieses Gift zu verteilen. Gib dein schädliches Geschäft auf, Feara."</DefaultText>
+      <DefaultText>„Ich werde dir nicht helfen, dieses Gift zu verteilen. Gib dein schädliches Geschäft auf, Feara.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Also gut. Dann nehme ich meine Belohnung."</DefaultText>
+      <DefaultText>„Also gut. Dann nehme ich meine Belohnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie blinzelt. "Nun ... natürlich. Du hast dich als fähig erwiesen. Du bekommst die Anteile von Lynam und Francesca. Ich werde dem Boss von dir berichten."
+      <DefaultText>Sie blinzelt. „Nun&#160;… natürlich. Du hast dich als fähig erwiesen. Du bekommst die Anteile von Lynam und Francesca. Ich werde dem Boss von dir berichten.“
 
 Sie grinst dich langsam an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Ihr Mund steht offen. "Du - also gut. Ich sitze wohl hier fest, nachdem ich meinem Lieferanten nicht mit leeren Händen gegenübertreten will.
+      <DefaultText>Ihr Mund steht offen. „Du - also gut. Ich sitze wohl hier fest, nachdem ich meinem Lieferanten nicht mit leeren Händen gegenübertreten will.
 
-"Ich hoffe, du bist zufrieden." Sie kippt den Rest ihres Biers herunter.</DefaultText>
+„Ich hoffe, du bist zufrieden.“ Sie kippt den Rest ihres Biers herunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Schon gut, schon gut. Hier, ich nehme das Svef und du kannst die Anteile von Lynam und Francesca haben.
+      <DefaultText>„Schon gut, schon gut. Hier, ich nehme das Svef und du kannst die Anteile von Lynam und Francesca haben.
 
-"Ich will nur einfach ohne weitere Umstände hier weg, okay?"</DefaultText>
+„Ich will nur einfach ohne weitere Umstände hier weg, okay?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Danke noch einmal. Mit etwas Glück tausche ich diese Schneestürme bald gegen eine Meeresbrise ein."</DefaultText>
+      <DefaultText>„Danke noch einmal. Mit etwas Glück tausche ich diese Schneestürme bald gegen eine Meeresbrise ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Hier. Wie versprochen."</DefaultText>
+      <DefaultText>„Hier. Wie versprochen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich genieße nur einen letzten Humpen. Oder willst du davon auch einen Anteil?"</DefaultText>
+      <DefaultText>„Ich genieße nur einen letzten Humpen. Oder willst du davon auch einen Anteil?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Danke noch einmal. Ich verschwinde, sobald das Wetter besser ist."</DefaultText>
+      <DefaultText>„Danke noch einmal. Ich verschwinde, sobald das Wetter besser ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Angreifen] "Stirb, Schmugglerin!"</DefaultText>
+      <DefaultText>[Angreifen] „Stirb, Schmugglerin!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Bist du verrückt? Hör auf!" Sie lässt ihren Krug fallen.</DefaultText>
+      <DefaultText>„Bist du verrückt? Hör auf!“ Sie lässt ihren Krug fallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Sei vorsichtig, wenn du hinaus zur Batterie gehst. Es gibt nicht nur Oger, um die man sich sorgen muss."
+      <DefaultText>„Sei vorsichtig, wenn du hinaus zur Batterie gehst. Es gibt nicht nur Oger, um die man sich sorgen muss.“
 
 Sie nimmt einen kräftigen Schluck aus dem Krug in ihrer Hand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Kümmer dich nicht um mich. Ich bleibe hier und FISCHE. Oder arbeite in der MINE. Tolle Aussichten, was?"</DefaultText>
+      <DefaultText>„Kümmer dich nicht um mich. Ich bleibe hier und FISCHE. Oder arbeite in der MINE. Tolle Aussichten, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +181,12 @@ Der Mann wiegt sein Paket, als wäre es etwas Seltenes und Wertvolles.</DefaultT
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Das war das letzte. Seht nach den übrigen Vorräten, während ich diese auflade." Er verschwindet durch eine Tür in einen heulenden Sturm. Die Tür schlägt mit einem lauten Knall zu.</DefaultText>
+      <DefaultText>„Das war das letzte. Seht nach den übrigen Vorräten, während ich diese auflade.“ Er verschwindet durch eine Tür in einen heulenden Sturm. Die Tür schlägt mit einem lauten Knall zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Wir haben keine Wahl. Die anderen Pässe sind alle verschneit. Bei diesem herrscht gerade genug Verkehr, dass er frei bleibt." Du spürst die Antwort aus deiner eigenen Kehle kommen. 
+      <DefaultText>„Wir haben keine Wahl. Die anderen Pässe sind alle verschneit. Bei diesem herrscht gerade genug Verkehr, dass er frei bleibt.“ Du spürst die Antwort aus deiner eigenen Kehle kommen. 
 
 Der Gedanke spendet keinem von euch beiden sonderlich viel Trost. Das eigentlich Wichtige sprecht ihr nicht an - nämlich, dass Lynam sich entschieden hat.</DefaultText>
       <FemaleText />
@@ -205,212 +205,212 @@ Wortlos tritt sie aus der Tür.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Natürlich wird ausgerechnet jetzt der Wind stärker und der Himmel wirft Schnee herab. Wir sehen die Straße nicht mehr.
+      <DefaultText>„Natürlich wird ausgerechnet jetzt der Wind stärker und der Himmel wirft Schnee herab. Wir sehen die Straße nicht mehr.
 
-"Aber etwas anderes hat uns gefunden."</DefaultText>
+„Aber etwas anderes hat uns gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Haben Lynam ausgeschaltet, bevor wir überhaupt gemerkt hatten, dass wir umzingelt waren. Und dann sehen wir sie aus dem Schnee kommen - diese kleinen vierarmigen Wilden. Lagufaeth nennt man sie."
+      <DefaultText>„Haben Lynam ausgeschaltet, bevor wir überhaupt gemerkt hatten, dass wir umzingelt waren. Und dann sehen wir sie aus dem Schnee kommen - diese kleinen vierarmigen Wilden. Lagufaeth nennt man sie.“
 
 Sie schüttelt den Kopf und starrt in die Glut in der Feuerstelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Flinke kleine Mistkerle. Francesca und ich haben sie so lange wie möglich abgehalten, aber nachdem sie sie mit Bolzen durchlöchert hatten, bin ich geflohen."</DefaultText>
+      <DefaultText>„Flinke kleine Mistkerle. Francesca und ich haben sie so lange wie möglich abgehalten, aber nachdem sie sie mit Bolzen durchlöchert hatten, bin ich geflohen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich gelangte hierher und dankte dem Schicksal, dass ich den Lagufaeth entkommen bin. Und dann finde ich heraus, dass diese Stadt von Ogern geplagt wird!"
+      <DefaultText>„Ich gelangte hierher und dankte dem Schicksal, dass ich den Lagufaeth entkommen bin. Und dann finde ich heraus, dass diese Stadt von Ogern geplagt wird!“
 
 Sie lacht verbittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich muss diese Artefakte beschaffen. Nicht, dass ich in der Lage wäre, das selbst zu tun. Aber ich kann nicht mit leeren Händen nach Trutzbucht zurückkehren."
+      <DefaultText>„Ich muss diese Artefakte beschaffen. Nicht, dass ich in der Lage wäre, das selbst zu tun. Aber ich kann nicht mit leeren Händen nach Trutzbucht zurückkehren.“
 
 Ein Ausdruck der Sorge schleicht sich in ihr Gesicht. Sie starrt in ihren Krug und schwenkt ihn langsam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Zumindest hast du überlebt."</DefaultText>
+      <DefaultText>„Zumindest hast du überlebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Du willst doch die Relikte nicht zurücklassen?"</DefaultText>
+      <DefaultText>„Du willst doch die Relikte nicht zurücklassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Das mit deinen Freunden tut mir leid."</DefaultText>
+      <DefaultText>„Das mit deinen Freunden tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Hör auf zu jammern."</DefaultText>
+      <DefaultText>„Hör auf zu jammern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Aber du könntest an den Lagufaeth vorbeikommen. Du bist leichtfüßig."
+      <DefaultText>„Aber du könntest an den Lagufaeth vorbeikommen. Du bist leichtfüßig.“
 
 Sie blickt hoffnungsvoll von ihrem Krug auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Aber du weißt, wie man sich in der Wildnis zurechtfindet. Du würdest den Weg hin und wieder zurück gewiss mühelos finden."
+      <DefaultText>„Aber du weißt, wie man sich in der Wildnis zurechtfindet. Du würdest den Weg hin und wieder zurück gewiss mühelos finden.“
 
 Sie blickt hoffnungsvoll von ihrem Krug auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Du bist selbst im Handelsgeschäft. Du weißt, was es heißt, die Waren eines ganzen Monats zu verlieren."
+      <DefaultText>„Du bist selbst im Handelsgeschäft. Du weißt, was es heißt, die Waren eines ganzen Monats zu verlieren.“
 
 Sie blickt hoffnungsvoll von ihrem Krug auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Aber du hast eine eigene Expedition zur Batterie, oder nicht? Vielleicht kannst du nach meinen Waren Ausschau halten. Oder was davon noch übrig ist."
+      <DefaultText>„Aber du hast eine eigene Expedition zur Batterie, oder nicht? Vielleicht kannst du nach meinen Waren Ausschau halten. Oder was davon noch übrig ist.“
 
 Sie blickt hoffnungsvoll von ihrem Krug auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ich gebe dir natürlich einen Anteil, wenn du etwas findest. Ich will keine Geschenke. Aber ich darf nicht mit leeren Händen zurückkehren."
+      <DefaultText>„Ich gebe dir natürlich einen Anteil, wenn du etwas findest. Ich will keine Geschenke. Aber ich darf nicht mit leeren Händen zurückkehren.“
 
 Sie fährt mit ihren Fingernägeln über die Seite ihres Krugs und ihre Miene wird wieder nervös.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Sag mir, wonach du suchst."</DefaultText>
+      <DefaultText>„Sag mir, wonach du suchst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ich kann helfen."</DefaultText>
+      <DefaultText>„Ich kann helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ich verspreche nichts."</DefaultText>
+      <DefaultText>„Ich verspreche nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Es tut mir leid, dass ich dir nicht alles gesagt habe. Aber du verstehst sicher, dass ich etwas vorsichtig sein muss, wem ich was erzähle."</DefaultText>
+      <DefaultText>„Es tut mir leid, dass ich dir nicht alles gesagt habe. Aber du verstehst sicher, dass ich etwas vorsichtig sein muss, wem ich was erzähle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Du scheinst aufrichtig zu sein. Aber ich konnte doch unmöglich die Wahrheit sagen, oder? Das verstehst gewiss selbst du."</DefaultText>
+      <DefaultText>„Du scheinst aufrichtig zu sein. Aber ich konnte doch unmöglich die Wahrheit sagen, oder? Das verstehst gewiss selbst du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Du bist doch vernünftig. Du wirst trotzdem bezahlt. Was macht es schon, dass ich ... ein paar Details ausgelassen habe?"</DefaultText>
+      <DefaultText>„Du bist doch vernünftig. Du wirst trotzdem bezahlt. Was macht es schon, dass ich&#160;… ein paar Details ausgelassen habe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Sie hebt eine Augenbraue. "Ehrlich gesagt dachte ich, du würdest es nicht wissen wollen. Es erschien mir taktvoller, die schmutzigen Details wegzulassen."</DefaultText>
+      <DefaultText>Sie hebt eine Augenbraue. „Ehrlich gesagt dachte ich, du würdest es nicht wissen wollen. Es erschien mir taktvoller, die schmutzigen Details wegzulassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Weißt du, ich will mich doch nur irgendwie durchschlagen. Vielleicht billigst du meine Arbeit nicht, aber hab etwas Mitleid. Wenn ich die Waren nicht liefere, wird mein Lieferant mich bestrafen."</DefaultText>
+      <DefaultText>„Weißt du, ich will mich doch nur irgendwie durchschlagen. Vielleicht billigst du meine Arbeit nicht, aber hab etwas Mitleid. Wenn ich die Waren nicht liefere, wird mein Lieferant mich bestrafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Ich verstehe. Aber wenn du in die Nähe der Batterie kommst, sei vorsichtig. Diese Lagufaeth sind sicher nicht weit."</DefaultText>
+      <DefaultText>„Ich verstehe. Aber wenn du in die Nähe der Batterie kommst, sei vorsichtig. Diese Lagufaeth sind sicher nicht weit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich wäre dir wirklich dankbar. Bring mir, was du findest. Ich werde dich angemessen entschädigen."</DefaultText>
+      <DefaultText>„Ich wäre dir wirklich dankbar. Bring mir, was du findest. Ich werde dich angemessen entschädigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Wie schon gesagt, wir waren auf Schatzsuche bei Durgans Batterie, als wir überfallen wurden. Was willst du sonst noch wissen?"</DefaultText>
+      <DefaultText>„Wie schon gesagt, wir waren auf Schatzsuche bei Durgans Batterie, als wir überfallen wurden. Was willst du sonst noch wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Renengild hat mir gesagt, dass kurz vor meiner Ankunft schon eine Expedition angekommen wäre. Wart ihr das?"</DefaultText>
+      <DefaultText>„Renengild hat mir gesagt, dass kurz vor meiner Ankunft schon eine Expedition angekommen wäre. Wart ihr das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Warum sind diese Relikte so wichtig für dich?"</DefaultText>
+      <DefaultText>„Warum sind diese Relikte so wichtig für dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Wo finde ich doch gleich deine Karawane?"</DefaultText>
+      <DefaultText>„Wo finde ich doch gleich deine Karawane?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Sie sieht einen Augenblick lang verwirrt aus. "Wer-?"</DefaultText>
+      <DefaultText>Sie sieht einen Augenblick lang verwirrt aus. „Wer-?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Nein, das war wohl jemand anders. Wir haben nicht mit Renengild gesprochen - oder mit irgendjemand anderem in der Stadt. Wir haben allein gearbeitet."
+      <DefaultText>„Nein, das war wohl jemand anders. Wir haben nicht mit Renengild gesprochen - oder mit irgendjemand anderem in der Stadt. Wir haben allein gearbeitet.“
 
 Sie blickt ins Feuer und trinkt noch einen Schluck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Wir haben mehrere Darlehen aufgenommen, um die Reise hierher zu bezahlen. Ich komme in Schwierigkeiten, wenn ich sie nicht zurückzahle." Sie kratzt sich am Hals.</DefaultText>
+      <DefaultText>„Wir haben mehrere Darlehen aufgenommen, um die Reise hierher zu bezahlen. Ich komme in Schwierigkeiten, wenn ich sie nicht zurückzahle.“ Sie kratzt sich am Hals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Wenn noch etwas übrig ist, dann irgendwo bei Durgans Batterie. Wenn du über die Lagufaeth stolperst, weißt du, dass du richtig bist."</DefaultText>
+      <DefaultText>„Wenn noch etwas übrig ist, dann irgendwo bei Durgans Batterie. Wenn du über die Lagufaeth stolperst, weißt du, dass du richtig bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Leider kann ich das über Francesca und Lynam nicht sagen. Leider konnte ich auch unseren Fund nicht mitnehmen."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Leider kann ich das über Francesca und Lynam nicht sagen. Leider konnte ich auch unseren Fund nicht mitnehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Als wüsste ich das nicht."</DefaultText>
+      <DefaultText>„Als wüsste ich das nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Sie nickt. "Das ist sehr freundlich. Ich trauere um sie, wenn ich wieder zuhause bin. Aber ich muss unsere Ladung zurückholen, wenn ich je wieder nach Hause will."</DefaultText>
+      <DefaultText>Sie nickt. „Das ist sehr freundlich. Ich trauere um sie, wenn ich wieder zuhause bin. Aber ich muss unsere Ladung zurückholen, wenn ich je wieder nach Hause will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Es tut mir leid, dich mit meinen Sorgen zu belästigen." Sie blickt dich zornig an.</DefaultText>
+      <DefaultText>„Es tut mir leid, dich mit meinen Sorgen zu belästigen.“ Sie blickt dich zornig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ich will nur aus der Stadt verschwinden, bevor irgendein Oger oder Fischer oder hungriger, verfrorener Jäger mir ein Messer in den Bauch rammt."</DefaultText>
+      <DefaultText>„Ich will nur aus der Stadt verschwinden, bevor irgendein Oger oder Fischer oder hungriger, verfrorener Jäger mir ein Messer in den Bauch rammt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Vor allem aber muss ich meine Abmachung mit dem Lieferanten einhalten. Diesen Kerl sollte man lieber nicht enttäuschen." Sie zupft an ihrem Kragen.</DefaultText>
+      <DefaultText>„Vor allem aber muss ich meine Abmachung mit dem Lieferanten einhalten. Diesen Kerl sollte man lieber nicht enttäuschen.“ Sie zupft an ihrem Kragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,12 +425,12 @@ Sie blickt ins Feuer und trinkt noch einen Schluck.</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <DefaultText>„Du siehst aus wie jemand, der ein Geheimnis kennt.“ Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Was weißt du über Durgans Batterie?"</DefaultText>
+      <DefaultText>„Was weißt du über Durgans Batterie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,22 +442,22 @@ Du erkennst diese Flecken als Anzeichen von Svef-Konsum.</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Nur, dass sie über zweihundert Jahre lang verbarrikadiert war, weil die Zwerge sich gestritten haben." Sie zuckt mit den Schultern.</DefaultText>
+      <DefaultText>„Nur, dass sie über zweihundert Jahre lang verbarrikadiert war, weil die Zwerge sich gestritten haben.“ Sie zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Weshalb Relikte aus der Batterie einen guten Preis bringen. Tut mir leid, ich bin eher Geschäftsfrau als Historikerin."</DefaultText>
+      <DefaultText>„Weshalb Relikte aus der Batterie einen guten Preis bringen. Tut mir leid, ich bin eher Geschäftsfrau als Historikerin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich dachte, die Gerüchte über Durgans Batterie wären nur Aberglaube. Und vielleicht sind sie das auch. Aber hätte ich sie ernst genommen, wäre ich vielleicht wachsamer gewesen."</DefaultText>
+      <DefaultText>„Ich dachte, die Gerüchte über Durgans Batterie wären nur Aberglaube. Und vielleicht sind sie das auch. Aber hätte ich sie ernst genommen, wäre ich vielleicht wachsamer gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Kennst du auch wirklich den Weg?"
+      <DefaultText>„Kennst du auch wirklich den Weg?“
 
 Die andere Frau, Francesca, blickt zu dir auf. Ihr Gesicht ist fast vollständig von einem Pelzhut und mehreren Schichten dick gestrickter Tücher bedeckt, aber ihre Stimme ist laut und deutlich zu hören.</DefaultText>
       <FemaleText />
@@ -469,47 +469,47 @@ Die andere Frau, Francesca, blickt zu dir auf. Ihr Gesicht ist fast vollständig
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <DefaultText>„Ihr Verstand füllt sich mit Fragen&#160;… mit Berechnungen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <DefaultText>„Hui, ist das plötzlich warm hier!“ Er lacht betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <DefaultText>„Das reicht.“ Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <DefaultText>„Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
-      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+      <DefaultText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</DefaultText>
+      <FemaleText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <DefaultText>„Sie blickt dich an, wie attraktive Löwinnen mich anblicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <DefaultText>„Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

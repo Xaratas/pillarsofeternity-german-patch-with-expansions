@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Irgendjemand muss als Erster gehen. Ich stimme für Durance."</DefaultText>
+      <DefaultText>„Irgendjemand muss als Erster gehen. Ich stimme für Durance.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich werde diese Grube für dich erkunden."</DefaultText>
+      <DefaultText>„Ich werde diese Grube für dich erkunden.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,52 +6,52 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Der Held der Stunde!" Er lacht. "Schickt Haeferic dich, um nach uns zu sehen? Wir machen keinen Ärger, versprochen."</DefaultText>
-      <FemaleText>"Die Heldin der Stunde!" Er lacht. "Schickt Haeferic dich, um nach uns zu sehen? Wir machen keinen Ärger, versprochen."</FemaleText>
+      <DefaultText>„Der Held der Stunde!“ Er lacht. „Schickt Haeferic dich, um nach uns zu sehen? Wir machen keinen Ärger, versprochen.“</DefaultText>
+      <FemaleText>„Die Heldin der Stunde!“ Er lacht. „Schickt Haeferic dich, um nach uns zu sehen? Wir machen keinen Ärger, versprochen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich wette zehn Pfand, dass er ihnen ein Bein stellt."</DefaultText>
-      <FemaleText>"Ich wette zehn Pfand, dass sie ihnen ein Bein stellt."</FemaleText>
+      <DefaultText>„Ich wette zehn Pfand, dass er ihnen ein Bein stellt.“</DefaultText>
+      <FemaleText>„Ich wette zehn Pfand, dass sie ihnen ein Bein stellt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du bist unmöglich."</DefaultText>
+      <DefaultText>„Du bist unmöglich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Bezahl."</DefaultText>
+      <DefaultText>„Bezahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was kann ich für dich tun, Oger-Töter? Lust auf ein Würfelspiel?"</DefaultText>
-      <FemaleText>"Was kann ich für dich tun, Oger-Töterin? Lust auf ein Würfelspiel?"</FemaleText>
+      <DefaultText>„Was kann ich für dich tun, Oger-Töter? Lust auf ein Würfelspiel?“</DefaultText>
+      <FemaleText>„Was kann ich für dich tun, Oger-Töterin? Lust auf ein Würfelspiel?“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Vorsichtig. Haeferic ist sehr empfindlich, was seinen Wein angeht."</DefaultText>
+      <DefaultText>„Vorsichtig. Haeferic ist sehr empfindlich, was seinen Wein angeht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Seltsamer Ort für ein Spiel."</DefaultText>
+      <DefaultText>„Seltsamer Ort für ein Spiel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ach ja? Haeferic mag es nicht, wenn ich oben Lärm mache. Also kriege ich den Keller für mich allein - so lange ich sein Weinlager nicht anrühre."</DefaultText>
+      <DefaultText>„Ach ja? Haeferic mag es nicht, wenn ich oben Lärm mache. Also kriege ich den Keller für mich allein - so lange ich sein Weinlager nicht anrühre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,23 +66,23 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Teanleycg." Er hebt seinen Krug. "Bescheidener Fischer. Aber wo nun andauernd die Oger kommen, tja ... da fische ich lieber am Boden einer Flasche nach der Wahrheit."</DefaultText>
+      <DefaultText>„Teanleycg.“ Er hebt seinen Krug. „Bescheidener Fischer. Aber wo nun andauernd die Oger kommen, tja&#160;… da fische ich lieber am Boden einer Flasche nach der Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Du weißt nicht zufällig, wo man etwas Fennlan-Schnaps kriegen kann?"</DefaultText>
+      <DefaultText>„Du weißt nicht zufällig, wo man etwas Fennlan-Schnaps kriegen kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Seine besten Tropfen hebt Haeferic dort drüben auf. Aber ich würde das nicht tun. Es gibt überall Fallen. Ich weiß, wovon ich rede. Fast hätte ich meine Augenbrauen verloren." Teanleycg deutet mit einem Finger auf die Regale in der Nähe.</DefaultText>
+      <DefaultText>„Seine besten Tropfen hebt Haeferic dort drüben auf. Aber ich würde das nicht tun. Es gibt überall Fallen. Ich weiß, wovon ich rede. Fast hätte ich meine Augenbrauen verloren.“ Teanleycg deutet mit einem Finger auf die Regale in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Wenn das nicht unser hochverehrter Gast ist." Er kichert. "Du hast den Spieß umgedreht, was? Tja, von mir aus kannst du König über das Dorf sein. Die Götter wissen, dass ich mir aus Kronen nichts mache."</DefaultText>
-      <FemaleText>"Wenn das nicht unser hochverehrter Gast ist." Er kichert. "Du hast den Spieß umgedreht, was? Tja, von mir aus kannst du Königin über das Dorf sein. Die Götter wissen, dass ich mir aus Kronen nichts mache."</FemaleText>
+      <DefaultText>„Wenn das nicht unser hochverehrter Gast ist.“ Er kichert. „Du hast den Spieß umgedreht, was? Tja, von mir aus kannst du König über das Dorf sein. Die Götter wissen, dass ich mir aus Kronen nichts mache.“</DefaultText>
+      <FemaleText>„Wenn das nicht unser hochverehrter Gast ist.“ Er kichert. „Du hast den Spieß umgedreht, was? Tja, von mir aus kannst du Königin über das Dorf sein. Die Götter wissen, dass ich mir aus Kronen nichts mache.“</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -93,42 +93,42 @@ Deine Schulter ist gegen den Schrank gepresst, der jedes Mal klappert, wenn Byrh
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ach ja? Haeferic mag es nicht, wenn ich nach den Kämpfen oben Radau mache, also habe ich den Keller für mich allein."</DefaultText>
+      <DefaultText>„Ach ja? Haeferic mag es nicht, wenn ich nach den Kämpfen oben Radau mache, also habe ich den Keller für mich allein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich habe wohl etwas zu viel erwischt. Bist du wirklich gerade einfach hier reinspaziert und hast dir unsere Gewinne gegriffen?"</DefaultText>
+      <DefaultText>„Ich habe wohl etwas zu viel erwischt. Bist du wirklich gerade einfach hier reinspaziert und hast dir unsere Gewinne gegriffen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Starr ihn nicht einfach so an, du Trottel, halt ihn auf!"</DefaultText>
-      <FemaleText>"Starr sie nicht einfach so an, du Trottel, halt sie auf!"</FemaleText>
+      <DefaultText>„Starr ihn nicht einfach so an, du Trottel, halt ihn auf!“</DefaultText>
+      <FemaleText>„Starr sie nicht einfach so an, du Trottel, halt sie auf!“</FemaleText>
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <DefaultText>„Du siehst aus wie jemand, der ein Geheimnis kennt.“ Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Ich suche einen Mann namens Harmke."</DefaultText>
+      <DefaultText>„Ich suche einen Mann namens Harmke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Wenn die Oger ihn nicht erwischt haben, hackt er wohl bei den Palisaden Holz. Draußen im Rotwald."</DefaultText>
+      <DefaultText>„Wenn die Oger ihn nicht erwischt haben, hackt er wohl bei den Palisaden Holz. Draußen im Rotwald.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Jetzt, wo er indisponiert ist, ziehen wir aber vielleicht weiter."</DefaultText>
+      <DefaultText>„Jetzt, wo er indisponiert ist, ziehen wir aber vielleicht weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Das ist doch ein gerechter Handel, oder, Leute? Wir haben unseren Spaß."</DefaultText>
+      <DefaultText>„Das ist doch ein gerechter Handel, oder, Leute? Wir haben unseren Spaß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,52 +138,52 @@ Deine Schulter ist gegen den Schrank gepresst, der jedes Mal klappert, wenn Byrh
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <DefaultText>„Ihr Verstand füllt sich mit Fragen&#160;… mit Berechnungen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <DefaultText>„Hui, ist das plötzlich warm hier!“ Er lacht betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <DefaultText>„Das reicht.“ Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <DefaultText>„Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
-      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+      <DefaultText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</DefaultText>
+      <FemaleText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <DefaultText>„Sie blickt dich an, wie attraktive Löwinnen mich anblicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <DefaultText>„Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Tja. Worauf wartest du, [Player Name]?"</DefaultText>
+      <DefaultText>„Tja. Worauf wartest du, [Player Name]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,39 +193,39 @@ Deine Schulter ist gegen den Schrank gepresst, der jedes Mal klappert, wenn Byrh
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete."</DefaultText>
+      <DefaultText>„Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?"</DefaultText>
+      <DefaultText>„Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen."</DefaultText>
+      <DefaultText>„Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt."</DefaultText>
+      <DefaultText>„Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen."
+      <DefaultText>„Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen.“
 
 Er zwinkert dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter."</DefaultText>
-      <FemaleText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin."</FemaleText>
+      <DefaultText>„Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter.“</DefaultText>
+      <FemaleText>„Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Harmke? Ach ja, der Kerl, den die Teufelin-"
+      <DefaultText>„Harmke? Ach ja, der Kerl, den die Teufelin-“
 
 Die Teufelin von Caroc wirft Hiravias einen Blick zu. Er schließt seinen Mund und bedeckt ihn mit einer Hand.
 
@@ -234,42 +234,42 @@ Er blickt Teanlecg an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe ..."</DefaultText>
+      <DefaultText>„Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt."</DefaultText>
+      <DefaultText>„Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Was spielt ihr da?"</DefaultText>
+      <DefaultText>„Was spielt ihr da?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Dutzend. Willst du dein Glück versuchen? Jeder setzt fünfzig Pand. Drei Siege und du bekommst die hundert. Ich kann dir die Regeln erklären, wenn du willst."</DefaultText>
+      <DefaultText>„Dutzend. Willst du dein Glück versuchen? Jeder setzt fünfzig Pand. Drei Siege und du bekommst die hundert. Ich kann dir die Regeln erklären, wenn du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Ich spiele."</DefaultText>
+      <DefaultText>„Ich spiele.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Wie lauten die Regeln?"</DefaultText>
+      <DefaultText>„Wie lauten die Regeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Würfeln wir."</DefaultText>
+      <DefaultText>„Würfeln wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Du hast den Hasen gehäutet. Ich habe kein Geld mehr zum Wetten. Geh deinen Gewinn ausgeben, ja? Amüsier dich."</DefaultText>
+      <DefaultText>„Du hast den Hasen gehäutet. Ich habe kein Geld mehr zum Wetten. Geh deinen Gewinn ausgeben, ja? Amüsier dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,61 +279,61 @@ Er blickt Teanlecg an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Sicher, wenn du genügend Geld hast."</DefaultText>
+      <DefaultText>„Sicher, wenn du genügend Geld hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Es ist ganz einfach. Der Gewinner bekommt alles. Wir würfeln jeder mit drei Würfeln."</DefaultText>
+      <DefaultText>„Es ist ganz einfach. Der Gewinner bekommt alles. Wir würfeln jeder mit drei Würfeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Hast du drei Vierer, hast du ein Dutzend. Das schlägt alles andere. Würfelst du etwas anderes, was zusammen 12 ergibt, ist das ein Turm. Das Zweitbeste."</DefaultText>
+      <DefaultText>„Hast du drei Vierer, hast du ein Dutzend. Das schlägt alles andere. Würfelst du etwas anderes, was zusammen 12 ergibt, ist das ein Turm. Das Zweitbeste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Würfelst du einen anderen Dreierpasch, ist das ein Götterhammer. Würfelst du einen Pasch, ist das ein Zeuge. Eine Eins, eine Zwei und eine Drei sind der Heilige. Das ist das Niedrigste."</DefaultText>
+      <DefaultText>„Würfelst du einen anderen Dreierpasch, ist das ein Götterhammer. Würfelst du einen Pasch, ist das ein Zeuge. Eine Eins, eine Zwei und eine Drei sind der Heilige. Das ist das Niedrigste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Jeder andere Wurf ist ein Bauer. Der ist nichts wert, also würfelst du nochmal. Verstanden?"</DefaultText>
+      <DefaultText>„Jeder andere Wurf ist ein Bauer. Der ist nichts wert, also würfelst du nochmal. Verstanden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Erklär es mir noch einmal."</DefaultText>
+      <DefaultText>„Erklär es mir noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Sagen wir, ich würfele eine Drei, Vier und Fünf. Das ist zusammen eine 12, also ein Turm. Wenn du zwei Fünfen und eine Eins würfelst, hast du einen Zeugen. Also gewinne ich."</DefaultText>
+      <DefaultText>„Sagen wir, ich würfele eine Drei, Vier und Fünf. Das ist zusammen eine 12, also ein Turm. Wenn du zwei Fünfen und eine Eins würfelst, hast du einen Zeugen. Also gewinne ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Selber schuld. Was kann ich dann für dich tun?"</DefaultText>
+      <DefaultText>„Selber schuld. Was kann ich dann für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Sieh an, sieh an. Nun kann ich dich wohl nicht mehr Ogertöter nennen, was? Vielleicht Essenmeister?"
+      <DefaultText>„Sieh an, sieh an. Nun kann ich dich wohl nicht mehr Ogertöter nennen, was? Vielleicht Essenmeister?“
 
-Er grinst. "Was kann ich für dich tun?"</DefaultText>
-      <FemaleText>"Sieh an, sieh an. Nun kann ich dich wohl nicht mehr Ogertöterin nennen, was? Vielleicht Essenmeisterin?"
+Er grinst. „Was kann ich für dich tun?“</DefaultText>
+      <FemaleText>„Sieh an, sieh an. Nun kann ich dich wohl nicht mehr Ogertöterin nennen, was? Vielleicht Essenmeisterin?“
 
-Er grinst. "Was kann ich für dich tun?"</FemaleText>
+Er grinst. „Was kann ich für dich tun?“</FemaleText>
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Was gibt es?"</DefaultText>
+      <DefaultText>„Was gibt es?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

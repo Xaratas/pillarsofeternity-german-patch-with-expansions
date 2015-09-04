@@ -6,51 +6,51 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Adern fließen unter der fahlen Haut dieser Frau wie Risse im Eis ... doch als sie spricht, ist ihre Stimme warm und beruhigend.
+      <DefaultText>Adern fließen unter der fahlen Haut dieser Frau wie Risse im Eis&#160;… doch als sie spricht, ist ihre Stimme warm und beruhigend.
 
-"Onda heißt dich in ihrer Umarmung willkommen."</DefaultText>
+„Onda heißt dich in ihrer Umarmung willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du bist zurück. Wie kann die Göttin dir helfen?"</DefaultText>
+      <DefaultText>„Du bist zurück. Wie kann die Göttin dir helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich will dich nach Okruns Erbstück fragen."</DefaultText>
+      <DefaultText>„Ich will dich nach Okruns Erbstück fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Frag was du möchtest."</DefaultText>
+      <DefaultText>„Frag was du möchtest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wolltest du noch über etwas Anderes sprechen?"</DefaultText>
+      <DefaultText>„Wolltest du noch über etwas Anderes sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich habe zwar nicht gerade gern mit jenen zu schaffen, die den Willen Ondras anzweifeln, aber ich versuche es."</DefaultText>
+      <DefaultText>„Ich habe zwar nicht gerade gern mit jenen zu schaffen, die den Willen Ondras anzweifeln, aber ich versuche es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Okruns Erbstück wurde Ixtli anvertraut, der unter uns als Gabenbringer auserwählt wurde. Er sollte es Ondra als Opfer darbringen. Nur er weiß wo."
+      <DefaultText>„Okruns Erbstück wurde Ixtli anvertraut, der unter uns als Gabenbringer auserwählt wurde. Er sollte es Ondra als Opfer darbringen. Nur er weiß wo.“
 
 Sie hält inne und blickt dich unverwandt an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich habe eure Kisten gefunden. Es waren nur Steine darin."</DefaultText>
+      <DefaultText>„Ich habe eure Kisten gefunden. Es waren nur Steine darin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,151 +65,151 @@ Sie hält inne und blickt dich unverwandt an.</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Was die Dorfbewohner wohl von diesem 'Witz' halten?"</DefaultText>
+      <DefaultText>„Was die Dorfbewohner wohl von diesem 'Witz' halten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Was soll ich tun?"</DefaultText>
+      <DefaultText>„Was soll ich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich habe auch Ixtlis Notizbuch, und ich weiß von den Lagufaeth."</DefaultText>
+      <DefaultText>„Ich habe auch Ixtlis Notizbuch, und ich weiß von den Lagufaeth.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sehe ich aus, als würde ich mich für diese Dorftrottel interessieren? Ich will beteiligt werden."</DefaultText>
+      <DefaultText>„Sehe ich aus, als würde ich mich für diese Dorftrottel interessieren? Ich will beteiligt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Okrun will sein Medaillon zurück."</DefaultText>
+      <DefaultText>„Okrun will sein Medaillon zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich möchte dich etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich möchte dich etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wir sind keine Mörder, und wir würden diesen verfluchten Ort liebend gerne hinter uns lassen." Lafda deutet auf ihre Komplizen.</DefaultText>
+      <DefaultText>„Wir sind keine Mörder, und wir würden diesen verfluchten Ort liebend gerne hinter uns lassen.“ Lafda deutet auf ihre Komplizen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Einverstanden. Die Erbstücke, noch ein klein wenig oben drauf ... und ihr dürft gehen."</DefaultText>
+      <DefaultText>„Einverstanden. Die Erbstücke, noch ein klein wenig oben drauf&#160;… und ihr dürft gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Kommt nicht in Frage. Ich lasse die Dorfbewohner entscheiden, was mit euch geschehen soll."</DefaultText>
+      <DefaultText>„Kommt nicht in Frage. Ich lasse die Dorfbewohner entscheiden, was mit euch geschehen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Klug. Die meisten Geschenke, die die Göttin erhält, sind leider wenig wert. Manchmal aber gelingt es uns, ihren Anhängern etwas wertvollere Opfergaben abzuschwatzen."</DefaultText>
+      <DefaultText>„Klug. Die meisten Geschenke, die die Göttin erhält, sind leider wenig wert. Manchmal aber gelingt es uns, ihren Anhängern etwas wertvollere Opfergaben abzuschwatzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ah. Dann hat es wohl keinen Sinn mehr, diese Scharade fortzuführen?" Ihre Komplizen ziehen ihre Klingen.</DefaultText>
+      <DefaultText>„Ah. Dann hat es wohl keinen Sinn mehr, diese Scharade fortzuführen?“ Ihre Komplizen ziehen ihre Klingen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Erzähl mir etwas über Ondra."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über Ondra.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich will etwas über die Gabenbringer wissen."</DefaultText>
+      <DefaultText>„Ich will etwas über die Gabenbringer wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Erzähl mir von eurem Gabenbringer."</DefaultText>
+      <DefaultText>„Erzähl mir von eurem Gabenbringer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Der Wille von Sterblichen oder Göttern hat mich noch nie aufgehalten."</DefaultText>
+      <DefaultText>„Der Wille von Sterblichen oder Göttern hat mich noch nie aufgehalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ihre Wille fließt in Gezeiten. Vielleicht braucht Okrun das Medaillon noch, um zu entdecken, wie man vergisst."</DefaultText>
+      <DefaultText>„Ihre Wille fließt in Gezeiten. Vielleicht braucht Okrun das Medaillon noch, um zu entdecken, wie man vergisst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Beweise es. Ich lasse nicht zu, dass der Aberglaube der Logik im Weg steht."</DefaultText>
+      <DefaultText>„Beweise es. Ich lasse nicht zu, dass der Aberglaube der Logik im Weg steht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Wie ich sehe, lässt du dich nicht umstimmen."</DefaultText>
+      <DefaultText>„Wie ich sehe, lässt du dich nicht umstimmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ah, Okrun. Wie oft wir es doch zulassen, dass die Schatten der Vergangenheit zur Last werden ... selbst für andere ..."</DefaultText>
+      <DefaultText>„Ah, Okrun. Wie oft wir es doch zulassen, dass die Schatten der Vergangenheit zur Last werden&#160;… selbst für andere&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ixtli hatte in der Nähe von Durgans Batterie zu tun. Diese Berge sind gefährlich ..."</DefaultText>
+      <DefaultText>„Ixtli hatte in der Nähe von Durgans Batterie zu tun. Diese Berge sind gefährlich&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ondra ist die Göttin der Erlösung. Tief wie ein Ozean, sanft wie eine Mutter. Sie ist hier, um ihre Kinder von ihrer dunkelsten Last zu befreien."</DefaultText>
+      <DefaultText>„Ondra ist die Göttin der Erlösung. Tief wie ein Ozean, sanft wie eine Mutter. Sie ist hier, um ihre Kinder von ihrer dunkelsten Last zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Gabenbringer verrichten Ondras wertvollstes Werk. Sie tragen die materiellen Lasten unglücklicher Seelen in Ondras Umarmung, auf dass die Göttin ihnen helfe zu vergessen."</DefaultText>
+      <DefaultText>„Gabenbringer verrichten Ondras wertvollstes Werk. Sie tragen die materiellen Lasten unglücklicher Seelen in Ondras Umarmung, auf dass die Göttin ihnen helfe zu vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich will nichts von euch, aber ich werfe euch auch nicht den Dorfbewohnern zum Fraß vor."</DefaultText>
+      <DefaultText>„Ich will nichts von euch, aber ich werfe euch auch nicht den Dorfbewohnern zum Fraß vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Sie richtet sich auf. "Eine gutmütige Seele. Wir warten lieber nicht ab, bis du deine Meinung änderst."
+      <DefaultText>Sie richtet sich auf. „Eine gutmütige Seele. Wir warten lieber nicht ab, bis du deine Meinung änderst.“
 
 Ihre Komplizen legen ihre Waffen beiseite und fangen an, ihre Sachen zusammenzusuchen.
 
-Lafda deutet auf eine große Kiste im Raum. "Qexetl hat die Erbstücke des Zwergs wieder mitgebracht. Betrachte sie als Abschiedsgeschenk."</DefaultText>
+Lafda deutet auf eine große Kiste im Raum. „Qexetl hat die Erbstücke des Zwergs wieder mitgebracht. Betrachte sie als Abschiedsgeschenk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Er hat es sich anders überlegt. Als Priesterin musst du seinen Wunsch erfüllen."</DefaultText>
+      <DefaultText>„Er hat es sich anders überlegt. Als Priesterin musst du seinen Wunsch erfüllen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Es gibt also kein Berufungsrecht ... wie praktisch."</DefaultText>
+      <DefaultText>„Es gibt also kein Berufungsrecht&#160;… wie praktisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Er hat alles verloren. Wie könnt ihr ihm das Einzige nehmen, was ihn noch an seine Vergangenheit erinnert?"</DefaultText>
+      <DefaultText>„Er hat alles verloren. Wie könnt ihr ihm das Einzige nehmen, was ihn noch an seine Vergangenheit erinnert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Sein Hab und Gut - seine Vergangenheit - ruht nun in Ondras Reich. Um vergessen zu werden, damit die Wunden der Seele heilen können. Das ist der Wille der Göttin."</DefaultText>
+      <DefaultText>„Sein Hab und Gut - seine Vergangenheit - ruht nun in Ondras Reich. Um vergessen zu werden, damit die Wunden der Seele heilen können. Das ist der Wille der Göttin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"So ist es nicht. Die Reue, die Okrun auffrisst, ist für jeden zu sehen." Die Priesterin mustert dich einen Augenblick lang.</DefaultText>
+      <DefaultText>„So ist es nicht. Die Reue, die Okrun auffrisst, ist für jeden zu sehen.“ Die Priesterin mustert dich einen Augenblick lang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,8 +224,8 @@ Lafda deutet auf eine große Kiste im Raum. "Qexetl hat die Erbstücke des Zwerg
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Du bist ein Denker, was? Ich bin nicht in der Stimmung für lange Diskussionen." Ihre Wangen färben sich etwas.</DefaultText>
-      <FemaleText>"Du bist eine Denkerin, was? Ich bin nicht in der Stimmung für lange Diskussionen." Ihre Wangen färben sich etwas.</FemaleText>
+      <DefaultText>„Du bist ein Denker, was? Ich bin nicht in der Stimmung für lange Diskussionen.“ Ihre Wangen färben sich etwas.</DefaultText>
+      <FemaleText>„Du bist eine Denkerin, was? Ich bin nicht in der Stimmung für lange Diskussionen.“ Ihre Wangen färben sich etwas.</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -239,89 +239,89 @@ Lafda deutet auf eine große Kiste im Raum. "Qexetl hat die Erbstücke des Zwerg
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Wir sind hier, um die Schmerzen deiner Vergangenheit zu lindern. Bereit, dir deine Lasten abzunehmen." Sie nickt mit einem dünnen Lächeln.</DefaultText>
+      <DefaultText>„Wir sind hier, um die Schmerzen deiner Vergangenheit zu lindern. Bereit, dir deine Lasten abzunehmen.“ Sie nickt mit einem dünnen Lächeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Der Zwerg hat bereits gefragt. Wir gaben ihm den Rat, den er benötigte." Ihr Ton ist leicht irritiert und scharf.
+      <DefaultText>„Der Zwerg hat bereits gefragt. Wir gaben ihm den Rat, den er benötigte.“ Ihr Ton ist leicht irritiert und scharf.
 
 Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme Färbung an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Okruns Seele labt sich an Reue. Sie hungern zu lassen mag hart erscheinen ... grausam, aber wenn man sie gewähren lässt, frisst sie ihn vollends auf."</DefaultText>
+      <DefaultText>„Okruns Seele labt sich an Reue. Sie hungern zu lassen mag hart erscheinen&#160;… grausam, aber wenn man sie gewähren lässt, frisst sie ihn vollends auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich habe ihm zugehört. Solch dunkle Erinnerungen, so viel Reue. Wir haben ihm seine Lasten abgenommen, zu seinem Wohl und dem des Dorfs."</DefaultText>
+      <DefaultText>„Ich habe ihm zugehört. Solch dunkle Erinnerungen, so viel Reue. Wir haben ihm seine Lasten abgenommen, zu seinem Wohl und dem des Dorfs.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Wozu sich über den unergründlichen Willen einer Göttin streiten? Ich sage dir, was du wissen willst."</DefaultText>
+      <DefaultText>„Wozu sich über den unergründlichen Willen einer Göttin streiten? Ich sage dir, was du wissen willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Es ist schwer zu glauben, dass nur der Gabenbringer weiß, wo Ondras Opfergaben weggeworfen werden."</DefaultText>
+      <DefaultText>„Es ist schwer zu glauben, dass nur der Gabenbringer weiß, wo Ondras Opfergaben weggeworfen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ist es das? Unsere Göttin befreit uns von unseren irdischen Lasten. Es ist besser, wenn nur einer von uns weiß, wohin sie gebracht werden ... auf dass wir nicht alle unter ihrem Gewicht leiden."</DefaultText>
+      <DefaultText>„Ist es das? Unsere Göttin befreit uns von unseren irdischen Lasten. Es ist besser, wenn nur einer von uns weiß, wohin sie gebracht werden&#160;… auf dass wir nicht alle unter ihrem Gewicht leiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Lafda scheint einen Augenblick lang zu Boden zu blicken, aber du bemerkst, dass ihre Augen zu einem ihrer Akolythen huschen ... einem jungen Mann mit Ixamitl-Blut.</DefaultText>
+      <DefaultText>Lafda scheint einen Augenblick lang zu Boden zu blicken, aber du bemerkst, dass ihre Augen zu einem ihrer Akolythen huschen&#160;… einem jungen Mann mit Ixamitl-Blut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Wenn du darauf bestehst, diese Bitte von Okrun auszuführen, dann solltest du dort nach Antworten suchen."</DefaultText>
+      <DefaultText>„Wenn du darauf bestehst, diese Bitte von Okrun auszuführen, dann solltest du dort nach Antworten suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Wir kamen hierher, um den Dorfbewohnern zu helfen. Um die Wunden der Vergangenheit zu heilen, die in ihren Seelen eitern."</DefaultText>
+      <DefaultText>„Wir kamen hierher, um den Dorfbewohnern zu helfen. Um die Wunden der Vergangenheit zu heilen, die in ihren Seelen eitern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Aber wir sollten nichts überstürzen." Sie hebt eine Hand. Die Diebe halten ihre Waffen weiter auf dich gerichtet.</DefaultText>
+      <DefaultText>„Aber wir sollten nichts überstürzen.“ Sie hebt eine Hand. Die Diebe halten ihre Waffen weiter auf dich gerichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ja, wir haben etwas vorgegaukelt. Aber tun Ondra-Priester das nicht auch? Dorfbewohner und Reisende geben uns Dinge, die sie vergessen wollen. Wir lassen sie verschwinden. Ist das nicht das Gleiche?"</DefaultText>
+      <DefaultText>„Ja, wir haben etwas vorgegaukelt. Aber tun Ondra-Priester das nicht auch? Dorfbewohner und Reisende geben uns Dinge, die sie vergessen wollen. Wir lassen sie verschwinden. Ist das nicht das Gleiche?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Was schlägst du vor?"</DefaultText>
+      <DefaultText>„Was schlägst du vor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Einen einfachen Handel. Du behältst unser kleines Geheimnis für dich und wir teilen einige unserer ... Opfergaben mit dir, ehe wir verschwinden. Qexetl hat die Erbstücke des Zwergs wieder mitgebracht. Auch die kannst du haben."</DefaultText>
+      <DefaultText>„Einen einfachen Handel. Du behältst unser kleines Geheimnis für dich und wir teilen einige unserer&#160;… Opfergaben mit dir, ehe wir verschwinden. Qexetl hat die Erbstücke des Zwergs wieder mitgebracht. Auch die kannst du haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Hier, der erste von vielen. Komm später wieder, dann wirst du erneut entschädigt." Sie zieht einen Beutel von hinter dem Ondra-Altar vor und wirft ihn dir zu.</DefaultText>
+      <DefaultText>„Hier, der erste von vielen. Komm später wieder, dann wirst du erneut entschädigt.“ Sie zieht einen Beutel von hinter dem Ondra-Altar vor und wirft ihn dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Es muss doch kein Blut fließen. Ich will dir gerne helfen, ein Auge zuzudrücken." Sie blickt dich intensiv an.</DefaultText>
+      <DefaultText>„Es muss doch kein Blut fließen. Ich will dir gerne helfen, ein Auge zuzudrücken.“ Sie blickt dich intensiv an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich will nichts von euch. Außer, dass ihr aus Stalwart verschwindet."</DefaultText>
+      <DefaultText>„Ich will nichts von euch. Außer, dass ihr aus Stalwart verschwindet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,61 +331,61 @@ Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme F�
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Hier ist einer." Lafda zieht einen Beutel von hinter dem Ondra-Altar hervor und wirft ihn dir zu.</DefaultText>
+      <DefaultText>„Hier ist einer.“ Lafda zieht einen Beutel von hinter dem Ondra-Altar hervor und wirft ihn dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ich dachte, Ondra wäre die Göttin des Verlusts und der Trauer, nicht der Erlösung."</DefaultText>
+      <DefaultText>„Ich dachte, Ondra wäre die Göttin des Verlusts und der Trauer, nicht der Erlösung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Das ist ein ...", die Priesterin verschränkt die Arme und tritt auf der Stelle, "... häufiger Irrglaube".</DefaultText>
+      <DefaultText>„Das ist ein&#160;…“, die Priesterin verschränkt die Arme und tritt auf der Stelle, „... häufiger Irrglaube“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Andere mögen das glauben, aber die Mysterien der Göttin sind tief und profund. Ihre wahre Macht liegt darin, von Verlust und Reue zu erlösen."</DefaultText>
+      <DefaultText>„Andere mögen das glauben, aber die Mysterien der Göttin sind tief und profund. Ihre wahre Macht liegt darin, von Verlust und Reue zu erlösen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Sollte er diese Entscheidung nicht selbst treffen?"</DefaultText>
+      <DefaultText>„Sollte er diese Entscheidung nicht selbst treffen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Das hat er. Er hat erkannt, dass nur die Göttin ihm und anderen in seiner Lage solchen Trost spenden kann.
+      <DefaultText>„Das hat er. Er hat erkannt, dass nur die Göttin ihm und anderen in seiner Lage solchen Trost spenden kann.
 
-"Es wurde ihm erklärt, dass vielen später Zweifel kommen. Dass man aber eine Gabe, die man einer Göttin dargeboten hat, nicht zurücknehmen kann.
+„Es wurde ihm erklärt, dass vielen später Zweifel kommen. Dass man aber eine Gabe, die man einer Göttin dargeboten hat, nicht zurücknehmen kann.
 
-"Mit der Zeit schwinden die Erinnerungen und die Leute erkennen die Weisheit ihrer Entscheidung."</DefaultText>
+„Mit der Zeit schwinden die Erinnerungen und die Leute erkennen die Weisheit ihrer Entscheidung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Dieses Medaillon, es lastet auf Okruns Verstand. Es ist gütig, dass du helfen willst, doch ihm hilft nur eines - diese Erinnerungen loszulassen."</DefaultText>
+      <DefaultText>„Dieses Medaillon, es lastet auf Okruns Verstand. Es ist gütig, dass du helfen willst, doch ihm hilft nur eines - diese Erinnerungen loszulassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Nehmen wir an, Okrun hätte es hinter sich gelassen. Sag mir, wo sein Erbstück ist."</DefaultText>
+      <DefaultText>„Nehmen wir an, Okrun hätte es hinter sich gelassen. Sag mir, wo sein Erbstück ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Was die Anführerin des Dorfes wohl dazu zu sagen hätte?"</DefaultText>
+      <DefaultText>„Was die Anführerin des Dorfes wohl dazu zu sagen hätte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Das ist er nicht, und darum geht es." Lafda verschränkt die Arme. "Außerdem hast du hier keinerlei Autorität."</DefaultText>
+      <DefaultText>„Das ist er nicht, und darum geht es.“ Lafda verschränkt die Arme. „Außerdem hast du hier keinerlei Autorität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Glaubst du etwa, wir würden entgegen örtlicher Gepflogenheiten handeln? Das Dorf weiß, dass wir hier sind, um armen Seelen wie Okrun zu helfen. Sie vertrauen uns."</DefaultText>
+      <DefaultText>„Glaubst du etwa, wir würden entgegen örtlicher Gepflogenheiten handeln? Das Dorf weiß, dass wir hier sind, um armen Seelen wie Okrun zu helfen. Sie vertrauen uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -400,32 +400,32 @@ Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme F�
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Nein. Und ich hoffe, du ... erkennst, dass es das Beste ist, die Dinge zu belassen, wie sie sind."</DefaultText>
+      <DefaultText>„Nein. Und ich hoffe, du&#160;… erkennst, dass es das Beste ist, die Dinge zu belassen, wie sie sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Du fürchtest also, dass dein Gabenbringer in Schwierigkeiten steckt ..."</DefaultText>
+      <DefaultText>„Du fürchtest also, dass dein Gabenbringer in Schwierigkeiten steckt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Woher wei-", die Priesterin reißt den Kopf herum. Eine Ader pulsiert blau an ihrer bleichen Schläfe.</DefaultText>
+      <DefaultText>„Woher wei-“, die Priesterin reißt den Kopf herum. Eine Ader pulsiert blau an ihrer bleichen Schläfe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ja, es ist wahr. Wir fürchten, dass unser Gabenbringer in Gefahr ist. Banditen lauern an den Straßen und Pässen rund um Durgans Batterie auf Reisende. Und ..."</DefaultText>
+      <DefaultText>„Ja, es ist wahr. Wir fürchten, dass unser Gabenbringer in Gefahr ist. Banditen lauern an den Straßen und Pässen rund um Durgans Batterie auf Reisende. Und&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Ich gebe es ungern zu, aber Ixtli ist mit Opfergaben an die Göttin aufgebrochen, und nur Gabenbringer wissen, wo diese fortgeworfen werden."</DefaultText>
+      <DefaultText>Ich gebe es ungern zu, aber Ixtli ist mit Opfergaben an die Göttin aufgebrochen, und nur Gabenbringer wissen, wo diese fortgeworfen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Banditen hatten dieses Notizbuch. Es gehörte einem Gabenbringer."</DefaultText>
+      <DefaultText>„Banditen hatten dieses Notizbuch. Es gehörte einem Gabenbringer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,36 +435,36 @@ Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme F�
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Das Leben eines Gabenbringers ist gefährlich. Wir wussten, dass Banditen auf den Straßen auf diesen Bergen lauern, aber ich dachte nicht ..."
+      <DefaultText>„Das Leben eines Gabenbringers ist gefährlich. Wir wussten, dass Banditen auf den Straßen auf diesen Bergen lauern, aber ich dachte nicht&#160;…“
 
 Die Priesterin umklammert das Notizbuch fest mit ihren Händen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Das hier." Sie deutet auf das Notizbuch.
+      <DefaultText>„Das hier.“ Sie deutet auf das Notizbuch.
 
-"Das möchte ich Ixtlis Bruder geben." Ihre Augen glänzen.</DefaultText>
+„Das möchte ich Ixtlis Bruder geben.“ Ihre Augen glänzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ich verstehe. Tu, was du tun musst."</DefaultText>
+      <DefaultText>„Ich verstehe. Tu, was du tun musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Natürlich. Und mein Beileid."</DefaultText>
+      <DefaultText>„Natürlich. Und mein Beileid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Ich habe es gefunden. Ich darf es behalten."</DefaultText>
+      <DefaultText>„Ich habe es gefunden. Ich darf es behalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ondra würde gewiss wollen, dass du diese Vergangenheit hinter dir lässt. Ich behalte es."</DefaultText>
+      <DefaultText>„Ondra würde gewiss wollen, dass du diese Vergangenheit hinter dir lässt. Ich behalte es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,27 +474,27 @@ Die Priesterin umklammert das Notizbuch fest mit ihren Händen.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"... Also sollst du es haben." Die Miene der Priesterin verhärtet sich und sie wirft dir das Notizbuch achtlos zu.</DefaultText>
+      <DefaultText>„... Also sollst du es haben.“ Die Miene der Priesterin verhärtet sich und sie wirft dir das Notizbuch achtlos zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Außerdem habe ich gesehen, wie Qexetl die Kisten wieder ins Wasser geworfen hat."</DefaultText>
+      <DefaultText>„Außerdem habe ich gesehen, wie Qexetl die Kisten wieder ins Wasser geworfen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Ist das ein Witz oder willst du uns durch irgendeine Intrige vor dem Dorf in Misskredit bringen?"</DefaultText>
+      <DefaultText>„Ist das ein Witz oder willst du uns durch irgendeine Intrige vor dem Dorf in Misskredit bringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Wenn du der Göttin gestattest, dir bei deinen Sorgen zu helfen, versteht sich."</DefaultText>
+      <DefaultText>„Wenn du der Göttin gestattest, dir bei deinen Sorgen zu helfen, versteht sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Und natürlich tun wir auch für dich, was wir können."</DefaultText>
+      <DefaultText>„Und natürlich tun wir auch für dich, was wir können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,88 +504,88 @@ Die Priesterin umklammert das Notizbuch fest mit ihren Händen.</DefaultText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ich kann sehr lange immer wieder fragen ..."</DefaultText>
+      <DefaultText>„Ich kann sehr lange immer wieder fragen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Wie ich sehe, lässt du dich nicht umstimmen. Und du scheinst ...", sie mustert dich, "willensstark.
+      <DefaultText>„Wie ich sehe, lässt du dich nicht umstimmen. Und du scheinst&#160;…“, sie mustert dich, „willensstark.“
 
-"Nun denn."</DefaultText>
+„Nun denn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Nein! Wir haben nichts zu ... befürchten." Das Zittern in ihrer Stimme verschwindet schnell.</DefaultText>
+      <DefaultText>„Nein! Wir haben nichts zu&#160;… befürchten.“ Das Zittern in ihrer Stimme verschwindet schnell.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Du bist äußerst vertraut mit den Einzelheiten unseres Glaubens. Es hat keinen Sinn, vor dir etwas zu verbergen."</DefaultText>
+      <DefaultText>„Du bist äußerst vertraut mit den Einzelheiten unseres Glaubens. Es hat keinen Sinn, vor dir etwas zu verbergen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Du könntest ihn selbst fragen, aber er wandert gerade durch die Berge von Durgans Batterie. Wenn du Ixtli triffst, sag ihm, dass er hier dringende Pflichten zu erfüllen hat."</DefaultText>
+      <DefaultText>„Du könntest ihn selbst fragen, aber er wandert gerade durch die Berge von Durgans Batterie. Wenn du Ixtli triffst, sag ihm, dass er hier dringende Pflichten zu erfüllen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Unwichtig. Früher oder später hätte das Dorf es herausgefunden." Lafda wendet sich dir zu.</DefaultText>
+      <DefaultText>„Unwichtig. Früher oder später hätte das Dorf es herausgefunden.“ Lafda wendet sich dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Danke. Ist sonst noch etwas?"</DefaultText>
+      <DefaultText>„Danke. Ist sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Das ist der Wille Ondras. Ist sonst noch etwas oder kann ich mich wieder in Frieden meinen Pflichten widmen?"</DefaultText>
+      <DefaultText>„Das ist der Wille Ondras. Ist sonst noch etwas oder kann ich mich wieder in Frieden meinen Pflichten widmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"W-was? Was soll das heißen? Wovon redest du?"
+      <DefaultText>„W-was? Was soll das heißen? Wovon redest du?“
 
 Ihr Lächeln schwindet mit jeder Frage ein wenig mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Der Rest ist in der großen Kiste." Sie dreht sich zu ihren Komplizen und nickt. Sie legen ihre Waffen beiseite und fangen an, ihre Sachen zusammenzusuchen.</DefaultText>
+      <DefaultText>„Der Rest ist in der großen Kiste.“ Sie dreht sich zu ihren Komplizen und nickt. Sie legen ihre Waffen beiseite und fangen an, ihre Sachen zusammenzusuchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Dieses Mal ziehen wir weiter." Die Tür schließt sich hinter ihr.</DefaultText>
+      <DefaultText>„Dieses Mal ziehen wir weiter.“ Die Tür schließt sich hinter ihr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Ixtli ... unser lieber Freund weilt nicht mehr unter uns." Sie schließt das Notizbuch, blickt jedoch weiter auf dessen Einband.
+      <DefaultText>„Ixtli&#160;… unser lieber Freund weilt nicht mehr unter uns.“ Sie schließt das Notizbuch, blickt jedoch weiter auf dessen Einband.
 
 Ihre Gefährten tauschen überraschte Blicke aus. Einer nach dem anderen neigen sie bestürzt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ich habe gehört, dass euch kürzlich Anhänger Beraths besucht haben."</DefaultText>
+      <DefaultText>„Ich habe gehört, dass euch kürzlich Anhänger Beraths besucht haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Hier geschieht wenig, ohne dass die Dorfbewohner sich darüber das Maul zerreißen ... aber wir sind verpflichtet, jedem zu helfen, unabhängig von ihrem Glauben."</DefaultText>
+      <DefaultText>„Hier geschieht wenig, ohne dass die Dorfbewohner sich darüber das Maul zerreißen&#160;… aber wir sind verpflichtet, jedem zu helfen, unabhängig von ihrem Glauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Eine Gruppe von Frauen kam zu uns, ja. Ihre Anführerin wollte etwas über Durgans Batterie wissen. Ich wies ihnen den Weg."</DefaultText>
+      <DefaultText>„Eine Gruppe von Frauen kam zu uns, ja. Ihre Anführerin wollte etwas über Durgans Batterie wissen. Ich wies ihnen den Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Sie sind so leise wieder verschwunden, wie sie gekommen waren ... was unsere Sorgen über ihre wahren Absichten nicht unbedingt beigelegt hat. Es ist hier schon gefährlich genug geworden."</DefaultText>
+      <DefaultText>„Sie sind so leise wieder verschwunden, wie sie gekommen waren&#160;… was unsere Sorgen über ihre wahren Absichten nicht unbedingt beigelegt hat. Es ist hier schon gefährlich genug geworden.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

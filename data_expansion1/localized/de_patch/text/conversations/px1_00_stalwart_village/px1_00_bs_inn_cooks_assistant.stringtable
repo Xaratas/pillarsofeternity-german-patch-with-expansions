@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Unglaublich, dass wir überlebt haben. Ich dachte, das war's."</DefaultText>
+      <DefaultText>„Unglaublich, dass wir überlebt haben. Ich dachte, das war's.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Tut mir leid, aber ich muss mit dem Geschirr helfen."</DefaultText>
+      <DefaultText>„Tut mir leid, aber ich muss mit dem Geschirr helfen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

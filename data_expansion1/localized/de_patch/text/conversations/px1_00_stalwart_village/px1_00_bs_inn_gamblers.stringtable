@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Noch 'ne Runde!"</DefaultText>
+      <DefaultText>„Noch 'ne Runde!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Teanleycg schummelt wie ein Teufel, aber er ist ein netter Kerl."</DefaultText>
+      <DefaultText>„Teanleycg schummelt wie ein Teufel, aber er ist ein netter Kerl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Naja, irgendwann musste meine Glückssträhne ja reißen ..."</DefaultText>
+      <DefaultText>„Naja, irgendwann musste meine Glückssträhne ja reißen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wir würden dich ja mitspielen lassen, aber ... wir haben gar nicht um Geld gespielt."</DefaultText>
+      <DefaultText>„Wir würden dich ja mitspielen lassen, aber&#160;… wir haben gar nicht um Geld gespielt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Früher haben wir oben gespielt, bis Teanleycg versehentlich jemanden in die Feuergrube gestoßen hat."</DefaultText>
+      <DefaultText>„Früher haben wir oben gespielt, bis Teanleycg versehentlich jemanden in die Feuergrube gestoßen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Verdammt kalt hier unten ..."</DefaultText>
+      <DefaultText>„Verdammt kalt hier unten&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

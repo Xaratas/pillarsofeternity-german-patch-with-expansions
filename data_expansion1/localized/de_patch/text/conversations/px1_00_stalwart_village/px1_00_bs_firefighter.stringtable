@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wir müssen das Feuer löschen!"</DefaultText>
+      <DefaultText>„Wir müssen das Feuer löschen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Die Flammen dürfen sich nicht ausbreiten!"</DefaultText>
+      <DefaultText>„Die Flammen dürfen sich nicht ausbreiten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Diese verfluchten Oger!"</DefaultText>
+      <DefaultText>„Diese verfluchten Oger!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

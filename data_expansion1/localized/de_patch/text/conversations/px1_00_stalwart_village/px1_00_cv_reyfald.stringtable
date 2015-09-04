@@ -6,317 +6,317 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich dachte, du würdest verschwinden, sobald der Kampf beendet ist. Die wenigsten Leute bleiben hier, wenn sie merken, dass die Oger uns regelmäßige Besuche abstatten."</DefaultText>
+      <DefaultText>„Ich dachte, du würdest verschwinden, sobald der Kampf beendet ist. Die wenigsten Leute bleiben hier, wenn sie merken, dass die Oger uns regelmäßige Besuche abstatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hmm. Ich dachte, du würdest schnell aus der Stadt verschwinden, nach dem, was du mit Renengild gemacht hast. Aber wenn du vor den Ogern keine Angst hast, dann sicher auch nicht vor ein paar Wachen."</DefaultText>
+      <DefaultText>„Hmm. Ich dachte, du würdest schnell aus der Stadt verschwinden, nach dem, was du mit Renengild gemacht hast. Aber wenn du vor den Ogern keine Angst hast, dann sicher auch nicht vor ein paar Wachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"H-he! Man sagt, Haeferic sei tot! Ich-" Reyfald senkt seine Stimme. "Bist du verrückt? So dringend wollte ich den Schnaps nicht! Was machst du überhaupt noch hier?!"</DefaultText>
+      <DefaultText>„H-he! Man sagt, Haeferic sei tot! Ich-“ Reyfald senkt seine Stimme. „Bist du verrückt? So dringend wollte ich den Schnaps nicht! Was machst du überhaupt noch hier?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was kannst du mir über Stalwart sagen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über Stalwart sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Hör auf zu jammern oder jeder wird wissen, warum er gestorben ist."</DefaultText>
+      <DefaultText>„Hör auf zu jammern oder jeder wird wissen, warum er gestorben ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Weggehen] "Schön. Ich gehe."</DefaultText>
+      <DefaultText>[Weggehen] „Schön. Ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich habe deinen Schnaps. Gib mir das versprochene Geld."</DefaultText>
+      <DefaultText>„Ich habe deinen Schnaps. Gib mir das versprochene Geld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Bist du ...? A-also gut, hier. Nimm es!"</DefaultText>
+      <DefaultText>„Bist du&#160;…? A-also gut, hier. Nimm es!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Und jetzt lass mich bitte in Frieden!"</DefaultText>
+      <DefaultText>„Und jetzt lass mich bitte in Frieden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"W-was? Aber das ist nicht - das darfst du nicht! Ich habe dir nie gesagt, dass du das tun sollst! Ich wollte ihm nicht wehtun."</DefaultText>
+      <DefaultText>„W-was? Aber das ist nicht - das darfst du nicht! Ich habe dir nie gesagt, dass du das tun sollst! Ich wollte ihm nicht wehtun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Weggehen] "Denk einfach daran."</DefaultText>
+      <DefaultText>[Weggehen] „Denk einfach daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Bei den Göttern, ich muss mich übergeben ..."</DefaultText>
+      <DefaultText>„Bei den Göttern, ich muss mich übergeben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du bist zurück. Was kann ich für dich tun?"</DefaultText>
+      <DefaultText>„Du bist zurück. Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich hätte ja geholfen, die Monster zu vertreiben, aber ich wäre doch nur im Weg gewesen. Und nachdem du hier warst, hat sich doch alles ganz prächtig ergeben, oder nicht? Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist ... "</DefaultText>
+      <DefaultText>„Ich hätte ja geholfen, die Monster zu vertreiben, aber ich wäre doch nur im Weg gewesen. Und nachdem du hier warst, hat sich doch alles ganz prächtig ergeben, oder nicht? Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Was sagst du da von Haeferic?"</DefaultText>
+      <DefaultText>„Was sagst du da von Haeferic?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Als würden wir so lange durchhalten! ... Wie dem auch sei. Er sagte, er würde mich den Berg rauf und runter prügeln, wenn ich ihn nicht in Frieden lasse."</DefaultText>
+      <DefaultText>„Als würden wir so lange durchhalten!&#160;… Wie dem auch sei. Er sagte, er würde mich den Berg rauf und runter prügeln, wenn ich ihn nicht in Frieden lasse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Es erscheint mir vernünftig, ihn für einen besonderen Anlass aufzuheben."</DefaultText>
+      <DefaultText>„Es erscheint mir vernünftig, ihn für einen besonderen Anlass aufzuheben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Was ist denn so besonders an diesem Zeug?"</DefaultText>
+      <DefaultText>„Was ist denn so besonders an diesem Zeug?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Aha."</DefaultText>
+      <DefaultText>„Aha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Es heißt, dass ein einziger Tropfen das Leben verändert! Man will nie wieder etwas anderes trinken! Das ist wahrscheinlich Unsinn, aber er soll sehr gut sein!"</DefaultText>
+      <DefaultText>„Es heißt, dass ein einziger Tropfen das Leben verändert! Man will nie wieder etwas anderes trinken! Das ist wahrscheinlich Unsinn, aber er soll sehr gut sein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Haeferic lagert die besten Tropfen im Keller des Gasthauses. Wo man sie nicht sieht, weißt du? Ich meine, natürlich befindet sich alles hinter Schloss und Riegel, aber ... Eine einzige Flasche würde er sicher nicht vermissen. Nicht bei all der Aufregung."</DefaultText>
+      <DefaultText>„Haeferic lagert die besten Tropfen im Keller des Gasthauses. Wo man sie nicht sieht, weißt du? Ich meine, natürlich befindet sich alles hinter Schloss und Riegel, aber&#160;… Eine einzige Flasche würde er sicher nicht vermissen. Nicht bei all der Aufregung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Was hat es mit dem Kampf gegen die Oger zu tun, für dich Schnaps zu stehlen?"</DefaultText>
+      <DefaultText>„Was hat es mit dem Kampf gegen die Oger zu tun, für dich Schnaps zu stehlen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Und was habe ich von der Sache?"</DefaultText>
+      <DefaultText>„Und was habe ich von der Sache?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Kein Interesse."</DefaultText>
+      <DefaultText>„Kein Interesse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ich bezahle dich! Ich schwöre es. Wir teilen meinen Lohn - und die Flasche, wenn du möchtest! Ich will nur sagen können, dass diese Lippen einmal das Beste gekostet haben, was die Ixamitl-Ebenen zu bieten haben.</DefaultText>
+      <DefaultText>„Ich bezahle dich! Ich schwöre es. Wir teilen meinen Lohn - und die Flasche, wenn du möchtest! Ich will nur sagen können, dass diese Lippen einmal das Beste gekostet haben, was die Ixamitl-Ebenen zu bieten haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Nun ja, Haeferic kann recht furchteinflößend sein, wenn es um seine Getränke geht!" Reyfald lacht gequält. "Ansonsten wohl eher weniger."</DefaultText>
+      <DefaultText>„Nun ja, Haeferic kann recht furchteinflößend sein, wenn es um seine Getränke geht!“ Reyfald lacht gequält. „Ansonsten wohl eher weniger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Sicher, natürlich." Reyfald dreht seinen Fuß nervös auf dem Boden. "Aber wenn du zufällig etwas findest, sagst du es mir?"</DefaultText>
+      <DefaultText>„Sicher, natürlich.“ Reyfald dreht seinen Fuß nervös auf dem Boden. „Aber wenn du zufällig etwas findest, sagst du es mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Manchmal hat man das Gefühl, als hätte sich alles verschworen, um uns hier zu verjagen. Die, die noch hier sind, sind also wohl die stursten von uns, oder? Oder die törichsten."</DefaultText>
+      <DefaultText>„Manchmal hat man das Gefühl, als hätte sich alles verschworen, um uns hier zu verjagen. Die, die noch hier sind, sind also wohl die stursten von uns, oder? Oder die törichsten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Bitte sag mir, dass du es gefunden hast. Mein Verlangen danach ist so groß, es ist nicht zu beschreiben."</DefaultText>
+      <DefaultText>„Bitte sag mir, dass du es gefunden hast. Mein Verlangen danach ist so groß, es ist nicht zu beschreiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Ihm die Flasche geben.] "Bitte sehr."</DefaultText>
+      <DefaultText>[Ihm die Flasche geben.] „Bitte sehr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Ihm die Flasche geben.] "'Hinter Schloss und Riegel' war untertrieben."</DefaultText>
+      <DefaultText>[Ihm die Flasche geben.] „'Hinter Schloss und Riegel' war untertrieben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Moment, wirklich?" Er blickt auf das Etikett. "Du hast es geschafft! Oh, den Göttern sei - dir sei Dank! Das wird großartig! Oh, und hier, hier ist das versprochene Geld."</DefaultText>
+      <DefaultText>„Moment, wirklich?“ Er blickt auf das Etikett. „Du hast es geschafft! Oh, den Göttern sei - dir sei Dank! Das wird großartig! Oh, und hier, hier ist das versprochene Geld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Oh, das ist, äh ... " Reyfald hustet. "Bei den Göttern, das schmeckt seltsam. Hier, trink ... trink-" Ein Hustenanfall übermannt ihn.</DefaultText>
+      <DefaultText>„Oh, das ist, äh&#160;…“ Reyfald hustet. „Bei den Göttern, das schmeckt seltsam. Hier, trink&#160;… trink-“ Ein Hustenanfall übermannt ihn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Reyfald zieht die Nase hoch. "Du musst mir helfen! Das ertrage ich nicht ..."</DefaultText>
+      <DefaultText>Reyfald zieht die Nase hoch. „Du musst mir helfen! Das ertrage ich nicht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Vielleicht weiß Haeferic etwas."</DefaultText>
+      <DefaultText>„Vielleicht weiß Haeferic etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Was soll ich nur meiner Mutter sagen?"</DefaultText>
+      <DefaultText>„Was soll ich nur meiner Mutter sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Hast du daf gesehen? 'daf'? Das. Ich- ich glaube, meine Zunge wird tau- Moment. Moment. Ich spüre mein Gesicht nicht! Was ist hier los?"</DefaultText>
+      <DefaultText>„Hast du daf gesehen? 'daf'? Das. Ich- ich glaube, meine Zunge wird tau- Moment. Moment. Ich spüre mein Gesicht nicht! Was ist hier los?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Geht es dir gut?"</DefaultText>
+      <DefaultText>„Geht es dir gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich will doch nichts von der Flasche."</DefaultText>
+      <DefaultText>„Ich will doch nichts von der Flasche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Oh, gut. Das erklärt, warum du mich so angestiert hast."</DefaultText>
+      <DefaultText>„Oh, gut. Das erklärt, warum du mich so angestiert hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Ich kann nicht - ich habe mich gebissen, aber ich spüre nichts! Das ist Haeferics Werk! Er muss etwas in die Flasche gemischt haben. Bitte, du musst mir helfen!"</DefaultText>
+      <DefaultText>„Ich kann nicht - ich habe mich gebissen, aber ich spüre nichts! Das ist Haeferics Werk! Er muss etwas in die Flasche gemischt haben. Bitte, du musst mir helfen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Was soll ich tun?"</DefaultText>
+      <DefaultText>„Was soll ich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Ich habe meinen Teil getan. Das, worum du mich gebeten hast. Ich gehe jetzt."</DefaultText>
+      <DefaultText>„Ich habe meinen Teil getan. Das, worum du mich gebeten hast. Ich gehe jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Wenn das ein Trick ist, hat Haeferic gewiss ein Gegengift."</DefaultText>
+      <DefaultText>„Wenn das ein Trick ist, hat Haeferic gewiss ein Gegengift.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Bei den Göttern, ich hoffe es! Bitte, ich gebe dir das Geld, das ich gespart habe. Ich gebe dir mehr! Bitte, hilf mir einfach."</DefaultText>
+      <DefaultText>„Bei den Göttern, ich hoffe es! Bitte, ich gebe dir das Geld, das ich gespart habe. Ich gebe dir mehr! Bitte, hilf mir einfach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Haeferic! Dieser arrogante Mistkerl, er muss dahinter stecken. E-er muss wissen, wie man das ... kch ... heilt! Bitte, sprich mit ihm. Ich gebe dir alles Geld, das ich habe!"</DefaultText>
+      <DefaultText>„Haeferic! Dieser arrogante Mistkerl, er muss dahinter stecken. E-er muss wissen, wie man das&#160;… kch&#160;… heilt! Bitte, sprich mit ihm. Ich gebe dir alles Geld, das ich habe!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Was? Warte! Du kannst mich nicht so zurücklassen! Du hast mir dieses Zeug doch überhaupt erst gebracht!"</DefaultText>
+      <DefaultText>„Was? Warte! Du kannst mich nicht so zurücklassen! Du hast mir dieses Zeug doch überhaupt erst gebracht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Bitte, du musst nur mit Haeferic sprechen. Rede einfach mit ihm, frag ihn - er muss wissen, was mit mir geschieht. Und was man dagegen tun kann!"</DefaultText>
+      <DefaultText>„Bitte, du musst nur mit Haeferic sprechen. Rede einfach mit ihm, frag ihn - er muss wissen, was mit mir geschieht. Und was man dagegen tun kann!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Schon gut, schon gut. Hör auf zu jammern."</DefaultText>
+      <DefaultText>„Schon gut, schon gut. Hör auf zu jammern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Nein. Es ist zu lustig, um etwas dagegen zu tun."</DefaultText>
+      <DefaultText>„Nein. Es ist zu lustig, um etwas dagegen zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Oh, danke! Danke sehr! Bitte beeil dich ... Ich glaube, ich habe etwas auf die Hand gekriegt ... "</DefaultText>
+      <DefaultText>„Oh, danke! Danke sehr! Bitte beeil dich&#160;… Ich glaube, ich habe etwas auf die Hand gekriegt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Moment, das darfst du nicht! Ich - was soll ich denn tun?"</DefaultText>
+      <DefaultText>„Moment, das darfst du nicht! Ich - was soll ich denn tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ich arbeite daran."</DefaultText>
+      <DefaultText>„Ich arbeite daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich glaube, ich habe, was wir brauchen. Ich muss diese Zutaten nur Haeferic geben."</DefaultText>
+      <DefaultText>„Ich glaube, ich habe, was wir brauchen. Ich muss diese Zutaten nur Haeferic geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Haeferic ist tot."</DefaultText>
+      <DefaultText>„Haeferic ist tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Reyfalds schlaffes Gesicht zuckt. "W-was?! Dann gibt es keine Heilung. Ich bin verloren!"</DefaultText>
+      <DefaultText>Reyfalds schlaffes Gesicht zuckt. „W-was?! Dann gibt es keine Heilung. Ich bin verloren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Wirklich? Oh, Ondra segne dich. Her damit, bitte!"</DefaultText>
+      <DefaultText>„Wirklich? Oh, Ondra segne dich. Her damit, bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Oh, den Göttern sei Dank. Ich, äh, warte hier. Und hoffe, dass niemand mit mir reden möchte."</DefaultText>
+      <DefaultText>„Oh, den Göttern sei Dank. Ich, äh, warte hier. Und hoffe, dass niemand mit mir reden möchte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>[Ihm das Gegengift geben.] "Hier. Haeferic sagt, das sollte helfen."</DefaultText>
+      <DefaultText>[Ihm das Gegengift geben.] „Hier. Haeferic sagt, das sollte helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ahhh! Tu mir nicht weh!"</DefaultText>
+      <DefaultText>„Ahhh! Tu mir nicht weh!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,82 +326,82 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Was? Habe ich mich bekleckert?" Reyfald blickt auf seine Kleidung hinunter.</DefaultText>
+      <DefaultText>„Was? Habe ich mich bekleckert?“ Reyfald blickt auf seine Kleidung hinunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Hast du es gefunden?" Reyfald blickt dich nervös an.</DefaultText>
+      <DefaultText>„Hast du es gefunden?“ Reyfald blickt dich nervös an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Ägh, schaumig. ... H-he! Es wirkt! Ich spüre wieder etwas!" Er piekt sich gegen die Stirn und streckt die Zunge heraus.</DefaultText>
+      <DefaultText>„Ägh, schaumig. &#160;… H-he! Es wirkt! Ich spüre wieder etwas!“ Er piekt sich gegen die Stirn und streckt die Zunge heraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Oh, danke! Du bist gar nicht so schlimm, wie immer alle sagen, weißt du. Ab-abgesehen von ... Ach, unwichtig."</DefaultText>
+      <DefaultText>„Oh, danke! Du bist gar nicht so schlimm, wie immer alle sagen, weißt du. Ab-abgesehen von&#160;… Ach, unwichtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Oh, danke! Du bist ein Heiliger unter den Gestandenen! Und ich bin dir etwas schuldig, das weiß ich. Ich wäre als Aussätziger geendet. Dass Haeferic immer so unverhältnismäßig denken muss!"</DefaultText>
-      <FemaleText>"Oh, danke! Du bist eine Heilige unter den Gestandenen! Und ich bin dir etwas schuldig, das weiß ich. Ich wäre als Aussätziger geendet. Dass Haeferic immer so unverhältnismäßig denken muss!"</FemaleText>
+      <DefaultText>„Oh, danke! Du bist ein Heiliger unter den Gestandenen! Und ich bin dir etwas schuldig, das weiß ich. Ich wäre als Aussätziger geendet. Dass Haeferic immer so unverhältnismäßig denken muss!“</DefaultText>
+      <FemaleText>„Oh, danke! Du bist eine Heilige unter den Gestandenen! Und ich bin dir etwas schuldig, das weiß ich. Ich wäre als Aussätziger geendet. Dass Haeferic immer so unverhältnismäßig denken muss!“</FemaleText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"He, hier. Da ich nun wieder meine Hände verwenden kann - daran habe ich eine Weile gearbeitet. Es ist das Mindeste, was ich dir geben kann."</DefaultText>
+      <DefaultText>„He, hier. Da ich nun wieder meine Hände verwenden kann - daran habe ich eine Weile gearbeitet. Es ist das Mindeste, was ich dir geben kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Hallo! Sag mir Bescheid, wenn ich etwas für dich tun kann."</DefaultText>
+      <DefaultText>„Hallo! Sag mir Bescheid, wenn ich etwas für dich tun kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ich dachte, du wärest geheilt. Siehst du etwa immer so aus?"</DefaultText>
+      <DefaultText>„Ich dachte, du wärest geheilt. Siehst du etwa immer so aus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>[Weggehen] "Ich gehe."</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Jaja, 'haha'. Mir geht es sehr viel besser und alles scheint so zu funktionieren, wie es soll. Also danke noch einmal."</DefaultText>
+      <DefaultText>„Jaja, 'haha'. Mir geht es sehr viel besser und alles scheint so zu funktionieren, wie es soll. Also danke noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Auf bald."</DefaultText>
+      <DefaultText>„Auf bald.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Reyfald?"</DefaultText>
+      <DefaultText>„Reyfald?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Scheiße! Ist das Zeug vergiftet?"</DefaultText>
+      <DefaultText>„Scheiße! Ist das Zeug vergiftet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Hey, gib mir auch 'nen Schluck!"</DefaultText>
+      <DefaultText>„Hey, gib mir auch 'nen Schluck!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Bäh, wie eklig!" Reyfald wischt sich mit dem Handrücken die Lippen ab. "Das ist ja das Widerlichste, was ich je- ... äh, ich fühl mich so komisch ... "</DefaultText>
+      <DefaultText>„Bäh, wie eklig!“ Reyfald wischt sich mit dem Handrücken die Lippen ab. „Das ist ja das Widerlichste, was ich je-&#160;… äh, ich fühl mich so komisch&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Was? Nein! Es schmeckt einfach nur ... grauenhaft! Bärgh. Ich glaube, ich muss mich übergeben ... "</DefaultText>
+      <DefaultText>„Was? Nein! Es schmeckt einfach nur&#160;… grauenhaft! Bärgh. Ich glaube, ich muss mich übergeben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,177 +413,177 @@ Du wirst am Boden festgehalten und über der bläst der Wind glühende Asche hin
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ach, Haeferic ist der Wirt drüben in der Gréfenrast. Ich ... habe mich vielleicht im Wirtshaus versteckt, als die Kämpfe ausbrachen." Reyfald hustet. "Der Überfall hat seine Laune nicht gebessert."</DefaultText>
+      <DefaultText>„Ach, Haeferic ist der Wirt drüben in der Gréfenrast. Ich&#160;… habe mich vielleicht im Wirtshaus versteckt, als die Kämpfe ausbrachen.“ Reyfald hustet. „Der Überfall hat seine Laune nicht gebessert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Wusstest du, dass er eine ganze Kiste Fennlan-Schnaps hat?! Ich will sie ihm schon lange abkaufen, aber er sagt, er hebt ihn für den Tag auf, an dem die Batterie wieder geöffnet wird."</DefaultText>
+      <DefaultText>„Wusstest du, dass er eine ganze Kiste Fennlan-Schnaps hat?! Ich will sie ihm schon lange abkaufen, aber er sagt, er hebt ihn für den Tag auf, an dem die Batterie wieder geöffnet wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Als würde das je passieren ... He, vielleicht ... Nicht, dass du das Gesicht dafür hättest oder so etwas, aber ... vielleicht könntest du mir helfen."</DefaultText>
+      <DefaultText>„Als würde das je passieren&#160;… He, vielleicht&#160;… Nicht, dass du das Gesicht dafür hättest oder so etwas, aber&#160;… vielleicht könntest du mir helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Als würde das je passieren. Aber sag, wo du doch die Oger vertrieben hast und all das, vielleicht, naja, vielleicht bist du bereit mir zu helfen?"</DefaultText>
+      <DefaultText>„Als würde das je passieren. Aber sag, wo du doch die Oger vertrieben hast und all das, vielleicht, naja, vielleicht bist du bereit mir zu helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Ich überfalle doch nicht den Wirt für dich!"</DefaultText>
+      <DefaultText>„Ich überfalle doch nicht den Wirt für dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Psst! Schon gut, nicht so laut, das habe ich doch gar nicht gemeint! Aber wenn du zufällig etwas findest, können wir ja vielleicht teilen?"</DefaultText>
+      <DefaultText>„Psst! Schon gut, nicht so laut, das habe ich doch gar nicht gemeint! Aber wenn du zufällig etwas findest, können wir ja vielleicht teilen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Ich werde sehen, was ich tun kann."</DefaultText>
+      <DefaultText>„Ich werde sehen, was ich tun kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Dann ist es nicht der Schnaps, hinter dem du her bist."</DefaultText>
+      <DefaultText>„Dann ist es nicht der Schnaps, hinter dem du her bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Wir werden sehen. Aber zunächst habe ich noch andere Fragen."</DefaultText>
+      <DefaultText>„Wir werden sehen. Aber zunächst habe ich noch andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Oh, natürlich. Was kann ich für dich tun?"</DefaultText>
+      <DefaultText>„Oh, natürlich. Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Tatsächlich? Großartig! Du findest mich hier. Aber, äh, eines noch - du musst Haeferic nicht unbedingt wehtun, gut? Nicht, dass du das würdest! Ich ... ich sag's nur."</DefaultText>
+      <DefaultText>„Tatsächlich? Großartig! Du findest mich hier. Aber, äh, eines noch - du musst Haeferic nicht unbedingt wehtun, gut? Nicht, dass du das würdest! Ich&#160;… ich sag's nur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Großartig! Haeferic wird mich wohl eine Weile lang nicht in sein Gasthaus lassen, du bist also auf dich allein gestellt. Ich warte hier!"</DefaultText>
+      <DefaultText>„Großartig! Haeferic wird mich wohl eine Weile lang nicht in sein Gasthaus lassen, du bist also auf dich allein gestellt. Ich warte hier!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Hmm? "... Oh." Reyfald errötet. "Ja, ja, gut, das habe ich verdient. Weißt du, ich darf das Gasthaus eine Weile nicht betreten, also ... Denk einfach darüber nach, ja? Mehr verlange ich nicht."</DefaultText>
+      <DefaultText>„Hmm? „... Oh.“ Reyfald errötet. „Ja, ja, gut, das habe ich verdient. Weißt du, ich darf das Gasthaus eine Weile nicht betreten, also&#160;… Denk einfach darüber nach, ja? Mehr verlange ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Auch, wenn du mir den Schnaps nicht besorgen wolltest, du musstest nicht unbedingt Haeferic davon erzählen. Jetzt hat er mir endgültig Hausverbot erteilt!"</DefaultText>
+      <DefaultText>„Auch, wenn du mir den Schnaps nicht besorgen wolltest, du musstest nicht unbedingt Haeferic davon erzählen. Jetzt hat er mir endgültig Hausverbot erteilt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Vielleicht lernst du daraus, nicht mit wildfremden Leuten einen Diebstahl zu planen."</DefaultText>
+      <DefaultText>„Vielleicht lernst du daraus, nicht mit wildfremden Leuten einen Diebstahl zu planen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Du hast bekommen, was du verdienst."</DefaultText>
+      <DefaultText>„Du hast bekommen, was du verdienst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Tut mir leid. Ich dachte, es würde dir Ärger ersparen."</DefaultText>
+      <DefaultText>„Tut mir leid. Ich dachte, es würde dir Ärger ersparen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Reyfald blickt dich zornig an. "Sehr lustig. Was willst du denn eigentlich? Du hast schon meine Pläne für die nächsten drei Tage ruiniert."</DefaultText>
+      <DefaultText>Reyfald blickt dich zornig an. „Sehr lustig. Was willst du denn eigentlich? Du hast schon meine Pläne für die nächsten drei Tage ruiniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Glaub mir, ich hätte es noch viel schlimmer für dich machen können."</DefaultText>
+      <DefaultText>„Glaub mir, ich hätte es noch viel schlimmer für dich machen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Sch-schon gut, das war doch nur so dahin gesagt. Was willst du denn nun?"</DefaultText>
+      <DefaultText>„Sch-schon gut, das war doch nur so dahin gesagt. Was willst du denn nun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ein Jammer."</DefaultText>
+      <DefaultText>„Ein Jammer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Reyfald seufzt. "Also, was willst du? Deinetwegen werden sich diese kalten Winternächte alle sehr viel länger anfühlen. Reicht das nicht?"</DefaultText>
+      <DefaultText>Reyfald seufzt. „Also, was willst du? Deinetwegen werden sich diese kalten Winternächte alle sehr viel länger anfühlen. Reicht das nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Aber ich habe doch gar nichts gemacht!" Reyfald seufzt. "Und das war der erste Hoffnungsschimmer seit Monaten. Was willst du denn überhaupt?"</DefaultText>
+      <DefaultText>„Aber ich habe doch gar nichts gemacht!“ Reyfald seufzt. „Und das war der erste Hoffnungsschimmer seit Monaten. Was willst du denn überhaupt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Ärger ersparen? Es war doch nur Schnaps! Jetzt muss ich nüchtern sterben, wenn die Oger zurückkommen." Reyfald seufzt. "Also gut. Was willst du?"</DefaultText>
+      <DefaultText>„Ärger ersparen? Es war doch nur Schnaps! Jetzt muss ich nüchtern sterben, wenn die Oger zurückkommen.“ Reyfald seufzt. „Also gut. Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Lass mich einfach in Ruhe. Verschwinde! Geh weg!"</DefaultText>
+      <DefaultText>„Lass mich einfach in Ruhe. Verschwinde! Geh weg!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Du hast dich versteckt, während alle anderen ihr Leben riskiert haben?"</DefaultText>
+      <DefaultText>„Du hast dich versteckt, während alle anderen ihr Leben riskiert haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Das, äh ... Genau das hat Haeferic auch gesagt. Weißt du, ich bin nicht stolz darauf, aber ich bin kein Krieger! Was soll ich denn tun? Ein Netz auf sie werfen?"</DefaultText>
+      <DefaultText>„Das, äh&#160;… Genau das hat Haeferic auch gesagt. Weißt du, ich bin nicht stolz darauf, aber ich bin kein Krieger! Was soll ich denn tun? Ein Netz auf sie werfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Und jetzt zerbrichst du dir den Kopf wegen irgendeines Getränks?"</DefaultText>
+      <DefaultText>„Und jetzt zerbrichst du dir den Kopf wegen irgendeines Getränks?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Hat dir schon einmal jemand gesagt, dass du etwas seltsam bist, Reyfald?"</DefaultText>
+      <DefaultText>„Hat dir schon einmal jemand gesagt, dass du etwas seltsam bist, Reyfald?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Nichts derart Freundliches. Leb du doch mal ein paar Jahre lang hier. Mal sehen, was aus dir wird."</DefaultText>
+      <DefaultText>„Nichts derart Freundliches. Leb du doch mal ein paar Jahre lang hier. Mal sehen, was aus dir wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Du solltest deinen Ton ganz schnell ändern."</DefaultText>
+      <DefaultText>„Du solltest deinen Ton ganz schnell ändern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Ich - also gut." Reyfald betrachtet dich ängstlich. "Du kannst nicht einfach hierher kommen, wo alle schon den Verdacht haben ..."</DefaultText>
+      <DefaultText>„Ich - also gut.“ Reyfald betrachtet dich ängstlich. „Du kannst nicht einfach hierher kommen, wo alle schon den Verdacht haben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Wer hindert mich denn daran?"</DefaultText>
+      <DefaultText>„Wer hindert mich denn daran?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"N-niemand, ich will ... ich will nichts mehr aus dem Gasthaus, gut? Behalt es einfach für dich."</DefaultText>
+      <DefaultText>„N-niemand, ich will&#160;… ich will nichts mehr aus dem Gasthaus, gut? Behalt es einfach für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,94 +594,94 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Mir scheint, du hast bekommen, was du verdienst."</DefaultText>
+      <DefaultText>„Mir scheint, du hast bekommen, was du verdienst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>Reyfald starrt dich an. Ein dünner Speichelfäden hängt von seiner Lippe herab. "Du hast ihn doch gestohlen!"</DefaultText>
+      <DefaultText>Reyfald starrt dich an. Ein dünner Speichelfäden hängt von seiner Lippe herab. „Du hast ihn doch gestohlen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Das ist ..." Reyfald blickt sich nervös um. "Er wird es gewiss herausfinden. Bitte, eine Heilung ist in unser beider Interesse!"</DefaultText>
+      <DefaultText>„Das ist&#160;…“ Reyfald blickt sich nervös um. „Er wird es gewiss herausfinden. Bitte, eine Heilung ist in unser beider Interesse!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Und jetzt ... stehe ich hier und atme einfach ein wenig."</DefaultText>
+      <DefaultText>„Und jetzt&#160;… stehe ich hier und atme einfach ein wenig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Ich habe einige Fragen."</DefaultText>
+      <DefaultText>„Ich habe einige Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Natürlich, frag. Aber ich weiß nicht, ob ich antworten kann. Ich bin noch nicht sehr lange hier."</DefaultText>
+      <DefaultText>„Natürlich, frag. Aber ich weiß nicht, ob ich antworten kann. Ich bin noch nicht sehr lange hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Mehr Fragen habe ich nicht."</DefaultText>
+      <DefaultText>„Mehr Fragen habe ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Ah. Sonst noch etwas?"</DefaultText>
+      <DefaultText>„Ah. Sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Ich?" Reyfald wirkt überrascht. "Naja, früher habe ich Häuser gebaut. Heute mache ich dies und das. Manchmal kriege ich in der Fischerei Arbeit. Netze flicken. Im Moment helfe ich bei den Palisaden. Wege den Ogern ist immer viel zu tun."</DefaultText>
+      <DefaultText>„Ich?“ Reyfald wirkt überrascht. „Naja, früher habe ich Häuser gebaut. Heute mache ich dies und das. Manchmal kriege ich in der Fischerei Arbeit. Netze flicken. Im Moment helfe ich bei den Palisaden. Wege den Ogern ist immer viel zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Ursprünglich komme ich aus Einas Rast. Gar nicht so weit von Caed Nua, wie der Zufall es will. Ein Stück weiter östlich. Es liegt an einem schönen See, ganz ähnlich wie der hier."</DefaultText>
+      <DefaultText>„Ursprünglich komme ich aus Einas Rast. Gar nicht so weit von Caed Nua, wie der Zufall es will. Ein Stück weiter östlich. Es liegt an einem schönen See, ganz ähnlich wie der hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Ich habe von der Geschichte mit Fürst Raedric gehört. Wäre ich dort geblieben, würde ich meine Steuern wohl jetzt an dich zahlen. Euer Gnaden." Reyfald grinst.</DefaultText>
+      <DefaultText>„Ich habe von der Geschichte mit Fürst Raedric gehört. Wäre ich dort geblieben, würde ich meine Steuern wohl jetzt an dich zahlen. Euer Gnaden.“ Reyfald grinst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Aber das Wetter hier oben ist nicht ganz dasselbe, was?" Reyfald kichert. "Ich hätte nie gedacht, dass ich einmal in den Bergen lebe, aber hier bin ich."</DefaultText>
+      <DefaultText>„Aber das Wetter hier oben ist nicht ganz dasselbe, was?“ Reyfald kichert. „Ich hätte nie gedacht, dass ich einmal in den Bergen lebe, aber hier bin ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Auf den Fürsten von Caed Nua!" Reyfald hebt die Flasche und trinkt einen großen Schluck.</DefaultText>
-      <FemaleText>"Auf die Fürstin von Caed Nua!" Reyfald hebt die Flasche und trinkt einen großen Schluck.</FemaleText>
+      <DefaultText>„Auf den Fürsten von Caed Nua!“ Reyfald hebt die Flasche und trinkt einen großen Schluck.</DefaultText>
+      <FemaleText>„Auf die Fürstin von Caed Nua!“ Reyfald hebt die Flasche und trinkt einen großen Schluck.</FemaleText>
     </Entry>
     <Entry>
       <ID>181</ID>
       <DefaultText>Du siehst auf dem linken Auge verschwommen, so dass die Gestalt, die über dir steht, nur aus schwarzen Flecken besteht, vom Feuer zu einer Silhouette verschmolzen. 
 
-"Jetzt bist du nicht mehr so mutig, was?" Eine dunkle Form schwingt auf dein Gesicht zu. Die Schmerzen, die darauf folgen, reißen dich aus der Erinnerung und zurück in deine eigene Haut.</DefaultText>
+„Jetzt bist du nicht mehr so mutig, was?“ Eine dunkle Form schwingt auf dein Gesicht zu. Die Schmerzen, die darauf folgen, reißen dich aus der Erinnerung und zurück in deine eigene Haut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Weißt du etwas über einen Mann namens Harmke?"</DefaultText>
+      <DefaultText>„Weißt du etwas über einen Mann namens Harmke?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Harmke? Ich habe ihn vor einer Weile aufbrechen sehen. Man findet ihn meistens mit einigen anderen beim Holzfällen im Rotwald."</DefaultText>
+      <DefaultText>„Harmke? Ich habe ihn vor einer Weile aufbrechen sehen. Man findet ihn meistens mit einigen anderen beim Holzfällen im Rotwald.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Gibt es sonst noch etwas?"</DefaultText>
+      <DefaultText>„Gibt es sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,77 +691,77 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Dir haben wir es doch zu verdanken, dass die Oger fort sind, nicht wahr? Dass ich einmal jemanden treffe, der so von den Göttern berührt wurde ..." "</DefaultText>
+      <DefaultText>„Dir haben wir es doch zu verdanken, dass die Oger fort sind, nicht wahr? Dass ich einmal jemanden treffe, der so von den Göttern berührt wurde&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>[Ihm die Schnapsflasche geben.] Hier. Haeferic hat sie mir gegeben, weil ich die Batterie geöffnet habe."</DefaultText>
+      <DefaultText>[Ihm die Schnapsflasche geben.] Hier. Haeferic hat sie mir gegeben, weil ich die Batterie geöffnet habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Was hat er? Ich meine, was hast du? Das wusste ich noch gar nicht! Großartig! Und er hat dir wirklich eine Flasche gegeben?" Reyfald blickt ungläubig auf die Flasche hinunter.</DefaultText>
+      <DefaultText>„Was hat er? Ich meine, was hast du? Das wusste ich noch gar nicht! Großartig! Und er hat dir wirklich eine Flasche gegeben?“ Reyfald blickt ungläubig auf die Flasche hinunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Das ist ... das Freundlichste, was jemals jemand für mich getan hat. Hier, ich teile mit dir!"</DefaultText>
+      <DefaultText>„Das ist&#160;… das Freundlichste, was jemals jemand für mich getan hat. Hier, ich teile mit dir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Äh, nur zu. Ich trinke nicht."</DefaultText>
+      <DefaultText>„Äh, nur zu. Ich trinke nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Klar, immer her damit."</DefaultText>
+      <DefaultText>„Klar, immer her damit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Nur nicht geizen mit meinem Teil."</DefaultText>
+      <DefaultText>„Nur nicht geizen mit meinem Teil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Ah, gut. Also, hier, dann habe ich das für dich. Habe ich selbst gemacht. Das ist das Mindeste, was ich tun kann."</DefaultText>
+      <DefaultText>„Ah, gut. Also, hier, dann habe ich das für dich. Habe ich selbst gemacht. Das ist das Mindeste, was ich tun kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Ja!" Reyfald beginnt, die Flasche zu entkorken. "Dann auf den Fürsten von Caed Nua! Und auf die Batterie!"</DefaultText>
-      <FemaleText>"Ja!" Reyfald beginnt, die Flasche zu entkorken. "Dann auf die Fürstin von Caed Nua! Und auf die Batterie!"</FemaleText>
+      <DefaultText>„Ja!“ Reyfald beginnt, die Flasche zu entkorken. „Dann auf den Fürsten von Caed Nua! Und auf die Batterie!“</DefaultText>
+      <FemaleText>„Ja!“ Reyfald beginnt, die Flasche zu entkorken. „Dann auf die Fürstin von Caed Nua! Und auf die Batterie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Oh, du kriegst eine Portion für einen Stelgaer, versprochen"! Reyfald beginnt, die Flasche zu entkorken. "Auf - uff - den Fürsten von Caed Nua! Und auf die Batterie!"</DefaultText>
-      <FemaleText>"Oh, du kriegst eine Portion für einen Stelgaer, versprochen"! Reyfald beginnt, die Flasche zu entkorken. "Auf - uff - die Fürstin von Caed Nua! Und auf die Batterie!"</FemaleText>
+      <DefaultText>„Oh, du kriegst eine Portion für einen Stelgaer, versprochen“! Reyfald beginnt, die Flasche zu entkorken. „Auf - uff - den Fürsten von Caed Nua! Und auf die Batterie!“</DefaultText>
+      <FemaleText>„Oh, du kriegst eine Portion für einen Stelgaer, versprochen“! Reyfald beginnt, die Flasche zu entkorken. „Auf - uff - die Fürstin von Caed Nua! Und auf die Batterie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Reyfald zieht am Korken. "Auf den Fürsten von Caed Nua! Und auf die Batterie!"</DefaultText>
-      <FemaleText>Reyfald zieht am Korken. "Auf die Fürstin von Caed Nua! Und auf die Batterie!"</FemaleText>
+      <DefaultText>Reyfald zieht am Korken. „Auf den Fürsten von Caed Nua! Und auf die Batterie!“</DefaultText>
+      <FemaleText>Reyfald zieht am Korken. „Auf die Fürstin von Caed Nua! Und auf die Batterie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Puh! Was für ein Tropfen. So etwas Gutes habe ich nicht mehr getrunken seit ... tja, seit meiner Zeit als Bauer." Er grinst.</DefaultText>
+      <DefaultText>„Puh! Was für ein Tropfen. So etwas Gutes habe ich nicht mehr getrunken seit&#160;… tja, seit meiner Zeit als Bauer.“ Er grinst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Danke für den Schnaps."</DefaultText>
+      <DefaultText>„Danke für den Schnaps.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Sieht noch jemand doppelt?"</DefaultText>
+      <DefaultText>„Sieht noch jemand doppelt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Dann heb dir den Rest lieber auf."</DefaultText>
+      <DefaultText>„Dann heb dir den Rest lieber auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,72 +771,72 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Das legt sich bald. Aber der Nachgeschmack, der bleibt."</DefaultText>
+      <DefaultText>„Das legt sich bald. Aber der Nachgeschmack, der bleibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Danke, dass du mir das gegeben hast. Ich arbeite seit einer Weile an etwas - du sollst es haben. Und das Geld, das ich beiseite gelegt hatte, falls du, äh, Schwierigkeiten gehabt hättest, den Schnaps zu finden."</DefaultText>
+      <DefaultText>„Danke, dass du mir das gegeben hast. Ich arbeite seit einer Weile an etwas - du sollst es haben. Und das Geld, das ich beiseite gelegt hatte, falls du, äh, Schwierigkeiten gehabt hättest, den Schnaps zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Natürlich. Ich werde einen sicheren Ort dafür finden. Aber sag mir Bescheid, wenn du noch einmal einen Schluck willst."</DefaultText>
+      <DefaultText>„Natürlich. Ich werde einen sicheren Ort dafür finden. Aber sag mir Bescheid, wenn du noch einmal einen Schluck willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"He, ich sollte dir danken. Ich arbeite seit einer Weile an etwas - du sollst es haben. Und das Geld, das ich beiseite gelegt hatte, falls du, äh, Schwierigkeiten gehabt hättest, den Schnaps zu finden."</DefaultText>
+      <DefaultText>„He, ich sollte dir danken. Ich arbeite seit einer Weile an etwas - du sollst es haben. Und das Geld, das ich beiseite gelegt hatte, falls du, äh, Schwierigkeiten gehabt hättest, den Schnaps zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Ich hoffe, du findest hier oben, wonach du suchst."</DefaultText>
+      <DefaultText>„Ich hoffe, du findest hier oben, wonach du suchst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>[Ihm die Flasche aus dem Keller geben.] "Bitte sehr."</DefaultText>
+      <DefaultText>[Ihm die Flasche aus dem Keller geben.] „Bitte sehr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Ehrlich gesagt ist mir die Stadt egal, genau wie die Minen. Aber ich mag die Leute. Ein zähes Volk, das der Kälte hier oben trotzt. Ein Jammer, dass die meisten von ihnen weggezogen sind."</DefaultText>
+      <DefaultText>„Ehrlich gesagt ist mir die Stadt egal, genau wie die Minen. Aber ich mag die Leute. Ein zähes Volk, das der Kälte hier oben trotzt. Ein Jammer, dass die meisten von ihnen weggezogen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Ach, ich möchte nichts Schlechtes über ihn sagen, nach dem, was passiert ist. Wir waren nicht immer einer Meinung, aber er war ein guter Mann."</DefaultText>
+      <DefaultText>„Ach, ich möchte nichts Schlechtes über ihn sagen, nach dem, was passiert ist. Wir waren nicht immer einer Meinung, aber er war ein guter Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Ich hätte ja geholfen, die Oger zu vertreiben, aber ich wäre doch nur im Weg gewesen. Und nachdem du da warst, hat ja alles ein gutes Ende genommen. Ich dachte, wir würden die Palisaden vollständig verlieren."</DefaultText>
+      <DefaultText>„Ich hätte ja geholfen, die Oger zu vertreiben, aber ich wäre doch nur im Weg gewesen. Und nachdem du da warst, hat ja alles ein gutes Ende genommen. Ich dachte, wir würden die Palisaden vollständig verlieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Wir überleben hier draußen ohnehin kein weiteres Jahr mehr. Wozu sollte ich meine Haut riskieren, um Oger zu vertreiben, wenn - verzeih mir - doch die Gestandenen das Problem sind. Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist ...</DefaultText>
+      <DefaultText>„Wir überleben hier draußen ohnehin kein weiteres Jahr mehr. Wozu sollte ich meine Haut riskieren, um Oger zu vertreiben, wenn - verzeih mir - doch die Gestandenen das Problem sind. Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <DefaultText>„Du siehst aus wie jemand, der ein Geheimnis kennt.“ Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Ich hätte ja geholfen, die Monster zu vertreiben, aber ich wäre doch nur im Weg gewesen. Und nachdem du hier warst, hat sich doch alles ganz prächtig ergeben, oder nicht? Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist ... "</DefaultText>
+      <DefaultText>„Ich hätte ja geholfen, die Monster zu vertreiben, aber ich wäre doch nur im Weg gewesen. Und nachdem du hier warst, hat sich doch alles ganz prächtig ergeben, oder nicht? Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Nicht mein Problem."</DefaultText>
+      <DefaultText>„Nicht mein Problem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Ich weiß nicht, was es schaden soll ... Harte Arbeit macht durstig ... "</DefaultText>
+      <DefaultText>„Ich weiß nicht, was es schaden soll&#160;… Harte Arbeit macht durstig&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,47 +846,47 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <DefaultText>„Ihr Verstand füllt sich mit Fragen&#160;… mit Berechnungen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <DefaultText>„Hui, ist das plötzlich warm hier!“ Er lacht betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <DefaultText>„Das reicht.“ Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <DefaultText>„Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
-      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+      <DefaultText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</DefaultText>
+      <FemaleText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <DefaultText>„Sie blickt dich an, wie attraktive Löwinnen mich anblicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <DefaultText>„Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,39 +896,39 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete."</DefaultText>
+      <DefaultText>„Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>"Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?"</DefaultText>
+      <DefaultText>„Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen."</DefaultText>
+      <DefaultText>„Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>"Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt."</DefaultText>
+      <DefaultText>„Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen."
+      <DefaultText>„Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen.“
 
 Er zwinkert dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter."</DefaultText>
-      <FemaleText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin."</FemaleText>
+      <DefaultText>„Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter.“</DefaultText>
+      <FemaleText>„Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Harmke? Ach ja, der Kerl, den die Teufelin-"
+      <DefaultText>„Harmke? Ach ja, der Kerl, den die Teufelin-“
 
 Die Teufelin von Caroc wirft Hiravias einen Blick zu. Er schließt seinen Mund und bedeckt ihn mit einer Hand.
 
@@ -937,22 +937,22 @@ Er blickt Reyfald an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe ..."</DefaultText>
+      <DefaultText>„Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>"Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt."</DefaultText>
+      <DefaultText>„Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Tja. Worauf wartest du, [Player Name]?"</DefaultText>
+      <DefaultText>„Tja. Worauf wartest du, [Player Name]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Sag mir dann Bescheid."</DefaultText>
+      <DefaultText>„Sag mir dann Bescheid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -962,48 +962,48 @@ Er blickt Reyfald an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Erst die Stadt retten, dann Schnaps stehlen. Das nenne ich mal Fortschritt."</DefaultText>
+      <DefaultText>„Erst die Stadt retten, dann Schnaps stehlen. Das nenne ich mal Fortschritt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>"Oh, bravo. Wirklich subtil."</DefaultText>
+      <DefaultText>„Oh, bravo. Wirklich subtil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Du hast es wirklich geschafft! Ich meine, es kommen immer wieder Leute her und sagen, sie würden die Batterie öffnen, die Weiße Esse finden und all das.
+      <DefaultText>„Du hast es wirklich geschafft! Ich meine, es kommen immer wieder Leute her und sagen, sie würden die Batterie öffnen, die Weiße Esse finden und all das.
 
-Aber ich hätte nie gedacht, dass es wirklich jemand schafft!"</DefaultText>
+Aber ich hätte nie gedacht, dass es wirklich jemand schafft!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Trauriger Gedanke, dass Renengild die ganze Zeit Recht hatte. Vielleicht hätten wir das Dorf wirklich retten können."</DefaultText>
+      <DefaultText>„Trauriger Gedanke, dass Renengild die ganze Zeit Recht hatte. Vielleicht hätten wir das Dorf wirklich retten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"Ich, äh, habe Taena gesagt, ich wäre bereit, beim Ausgraben der neuen Schächte zu helfen. Meinen Beitrag leisten.
+      <DefaultText>„Ich, äh, habe Taena gesagt, ich wäre bereit, beim Ausgraben der neuen Schächte zu helfen. Meinen Beitrag leisten.
 
-Ich denke, wir können das Dorf retten, nachdem du für die Grundlage gesorgt hast."</DefaultText>
+Ich denke, wir können das Dorf retten, nachdem du für die Grundlage gesorgt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Ich, äh, habe Renengild gesagt, ich wäre bereit, beim Wiederaufbau der Minen zu helfen. Meinen Beitrag leisten.
+      <DefaultText>„Ich, äh, habe Renengild gesagt, ich wäre bereit, beim Wiederaufbau der Minen zu helfen. Meinen Beitrag leisten.
 
-Ich denke, wir können das Dorf retten, nachdem du für die Grundlage gesorgt hast."</DefaultText>
+Ich denke, wir können das Dorf retten, nachdem du für die Grundlage gesorgt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Sie haben etwas Besseres verdient. Und, naja, du hast ihnen die Chance darauf gegeben. Also ... danke. Vielen Dank."</DefaultText>
+      <DefaultText>„Sie haben etwas Besseres verdient. Und, naja, du hast ihnen die Chance darauf gegeben. Also&#160;… danke. Vielen Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Scham. Verlegenheit. Verzweiflung. Körperliche Beeinträchtigung. Ich muss nach dem Rezept fragen."</DefaultText>
+      <DefaultText>„Scham. Verlegenheit. Verzweiflung. Körperliche Beeinträchtigung. Ich muss nach dem Rezept fragen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

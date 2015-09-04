@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Glaubst du, du kannst mich in diese große Adra-Statue stecken?"</DefaultText>
+      <DefaultText>„Glaubst du, du kannst mich in diese große Adra-Statue stecken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Wenn ihr das nicht auch alle sieht, ist mir meine Malcachoa-Zubereitung diesmal wirklich gut gelungen."</DefaultText>
+      <DefaultText>„Wenn ihr das nicht auch alle sieht, ist mir meine Malcachoa-Zubereitung diesmal wirklich gut gelungen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

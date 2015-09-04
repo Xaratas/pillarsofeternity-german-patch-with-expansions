@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Hast du nie den Drang, herumzurennen und Sachen zu zerstören?"</DefaultText>
+      <DefaultText>„Hast du nie den Drang, herumzurennen und Sachen zu zerstören?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich sehe hier Kupfer. Schmelzendes Kupfer. Es füllt das Fundament. Und es bedeckt die Wände."</DefaultText>
+      <DefaultText>„Ich sehe hier Kupfer. Schmelzendes Kupfer. Es füllt das Fundament. Und es bedeckt die Wände.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

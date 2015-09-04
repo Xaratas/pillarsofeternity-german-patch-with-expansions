@@ -126,25 +126,25 @@ Vorsichtig zieht [Specified 0] die Fensterläden weit genug auf, um die Stimmen 
       <ID>33</ID>
       <DefaultText>Du hörst einen Mann mit aufgebrachter Stimme sprechen.
 
-"... das tun?! Hoffen, dass der Berg es erledigt? Was ist, wenn Ix-"
+„… das tun?! Hoffen, dass der Berg es erledigt? Was ist, wenn Ix-“
 
 Sein Satz wird abgeschnitten, als würde der Mann mit allen Seiten des Raumes sprechen.
 
-"-genommen er sagt es ihnen stattdessen. Was dann?!"</DefaultText>
+„-genommen er sagt es ihnen stattdessen. Was dann?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Du erkennst Lafdas Stimme, die antwortet.
 
-"Warum sollte er das tun? Und bei den Gefahren in der Nähe der Batterie wird unser Gabenbringer nicht trödeln. Ich rechne damit, da-"
+„Warum sollte er das tun? Und bei den Gefahren in der Nähe der Batterie wird unser Gabenbringer nicht trödeln. Ich rechne damit, da-“
 
 Der Mann unterbricht sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Du rechnest immer mit irgendetwas! Und wo hat uns das hingeführt?! In ein sterbendes Dorf. Oger vor den Mauern! Ixtli ist noch nicht zurück und jetzt muss ich seinen Tei-"
+      <DefaultText>„Du rechnest immer mit irgendetwas! Und wo hat uns das hingeführt?! In ein sterbendes Dorf. Oger vor den Mauern! Ixtli ist noch nicht zurück und jetzt muss ich seinen Tei-“
 
 Seine Stimme senkt sich zu einem zornigen Zischen. Der Rest seiner Worte ist nicht mehr zu hören.</DefaultText>
       <FemaleText />
@@ -153,18 +153,18 @@ Seine Stimme senkt sich zu einem zornigen Zischen. Der Rest seiner Worte ist nic
       <ID>36</ID>
       <DefaultText>Nach einem kurzen Augenblick antwortet Lafda.
 
-"Glaubst du, ich wollte es so? Hätte ich es etwa vorhersehen können?"
+„Glaubst du, ich wollte es so? Hätte ich es etwa vorhersehen können?“
 
 Es entsteht eine Pause, deren Spannung ansteigt, bis die Stimme der Priesterin sie durchschneidet.
 
-"Wir können nicht auf ihn warten. Wir müssen schnell die letzte Ladung rausfischen. Danach entscheiden wir."</DefaultText>
+„Wir können nicht auf ihn warten. Wir müssen schnell die letzte Ladung rausfischen. Danach entscheiden wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Der Mann antwortet mit kaum hörbarer, gebrochener Stimme. Du kannst nur die letzten Worte ausmachen.
 
-"... in diesem Teich im Rotwald ... ich gehe."
+„… in diesem Teich im Rotwald&#160;… ich gehe.“
 
 Das Gespräch scheint beendet. Vorsichtig trittst du von dem Fenster des Ondra-Tempels weg.</DefaultText>
       <FemaleText />
@@ -207,18 +207,18 @@ Es ist kaum auszumachen, was sie sagen. Du glaubst aber, dass du vielleicht etwa
       <ID>44</ID>
       <DefaultText>Du hörst einen Mann mit aufgebrachter Stimme sprechen.
 
-"... zu gefährlich! Wer kommt sonst no-"
+„… zu gefährlich! Wer kommt sonst no-“
 
 Sein Satz wird abgeschnitten, als würde der Mann mit allen Seiten des Raumes sprechen.
 
-"... über das, was wir hier tun? Was dann?!"</DefaultText>
+„… über das, was wir hier tun? Was dann?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Der Mann antwortet mit kaum hörbarer, gebrochener Stimme. Du kannst nur die letzten Worte ausmachen.
 
-"... Ich gehe."
+„… Ich gehe.“
 
 Das Gespräch scheint beendet. Vorsichtig trittst du von dem Fenster des Ondra-Tempels weg.</DefaultText>
       <FemaleText />

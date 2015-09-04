@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Die Fischerei ist schon geschlossen."</DefaultText>
+      <DefaultText>„Die Fischerei ist schon geschlossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Komm morgen wieder, wenn du etwas kaufen willst."</DefaultText>
+      <DefaultText>„Komm morgen wieder, wenn du etwas kaufen willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich schärfe nur ein paar Messer."</DefaultText>
+      <DefaultText>„Ich schärfe nur ein paar Messer.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
