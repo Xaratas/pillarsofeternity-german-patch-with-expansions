@@ -6,158 +6,158 @@
   <Entries>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Du bringst den Gestank von Stalwart zum Clan der Flammen-die-flüstern. Du füllst unsere Hallen mit Träumen von Kampf und Blutvergießen."
+      <DefaultText>„Du bringst den Gestank von Stalwart zum Clan der Flammen-die-flüstern. Du füllst unsere Hallen mit Träumen von Kampf und Blutvergießen.“
 
 Das Gesicht der Matronin verzieht sich zu einer wilden Grimasse. Doch während ihre Finger sich zu Fäusten ballen, beobachtet sie dich aufmerksam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Ich bin gekommen, um im Namen von Stalwart zu sprechen. Ich versuche nur, das Dorf zu beschützen."</DefaultText>
+      <DefaultText>„Ich bin gekommen, um im Namen von Stalwart zu sprechen. Ich versuche nur, das Dorf zu beschützen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Lügen] "Ich war nicht in Stalwart."</DefaultText>
+      <DefaultText>[Lügen] „Ich war nicht in Stalwart.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[Angreifen] "Wohl wahr."</DefaultText>
+      <DefaultText>[Angreifen] „Wohl wahr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Dann hattest du nichts mit dem Gemetzel an Matronin Forgashs Ogern zu tun." Sie beobachtet dich weiter genau.</DefaultText>
+      <DefaultText>„Dann hattest du nichts mit dem Gemetzel an Matronin Forgashs Ogern zu tun.“ Sie beobachtet dich weiter genau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Das Blut von Ogern klebt an dir wie der Gestank von faulem Fisch. Lüge mich noch einmal an und ich reiße dir die Zunge aus dem Mund."
+      <DefaultText>„Das Blut von Ogern klebt an dir wie der Gestank von faulem Fisch. Lüge mich noch einmal an und ich reiße dir die Zunge aus dem Mund.“
 
 Sie fletscht die Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Wie ein Riss im Eis breiten sie sich mit jedem neuen Mond weiter in unserem Land aus. Aber wir beantworten Gleiches mit Gleichem." Sie unterstreicht ihre Worte, indem sie mit der Faust in die Hand schlägt.</DefaultText>
+      <DefaultText>„Wie ein Riss im Eis breiten sie sich mit jedem neuen Mond weiter in unserem Land aus. Aber wir beantworten Gleiches mit Gleichem.“ Sie unterstreicht ihre Worte, indem sie mit der Faust in die Hand schlägt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Warum sollte ich euch angreifen? Es war der Clan Wolf-mit-vielen-Mäulern, der Stalwart angegriffen hat."</DefaultText>
+      <DefaultText>„Warum sollte ich euch angreifen? Es war der Clan Wolf-mit-vielen-Mäulern, der Stalwart angegriffen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Ihr wilder Blick wird sanfter. "Matronin Forgashs Clan. Aber es ist selten, dass ihr Dünnhäuter uns unterscheiden könnt. Und Stalwart ..." 
+      <DefaultText>Ihr wilder Blick wird sanfter. „Matronin Forgashs Clan. Aber es ist selten, dass ihr Dünnhäuter uns unterscheiden könnt. Und Stalwart&#160;…“ 
 
 Ihre Gesichtszüge verzerren sich wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Eure Oger haben die Palisade durchbrochen, also ..."</DefaultText>
+      <DefaultText>„Eure Oger haben die Palisade durchbrochen, also&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Die Dorfbewohner suchen die Weiße Esse. Sie sind nicht hinter euch her."</DefaultText>
+      <DefaultText>„Die Dorfbewohner suchen die Weiße Esse. Sie sind nicht hinter euch her.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ihr solltet sie in Ruhe lassen, sonst bekommt ihr es mit mir zu tun."</DefaultText>
+      <DefaultText>„Ihr solltet sie in Ruhe lassen, sonst bekommt ihr es mit mir zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Sie reibt an einer Schwiele auf ihrem Daumenballen. "Genug geredet."</DefaultText>
+      <DefaultText>Sie reibt an einer Schwiele auf ihrem Daumenballen. „Genug geredet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Du bedrohst mich nicht in meinem eigenen Lager, [Player Race]." Es ist schwer zu sagen, ob der Ausdruck auf ihrem Gesicht ein Lächeln oder eine Grimasse ist.</DefaultText>
+      <DefaultText>„Du bedrohst mich nicht in meinem eigenen Lager, [Player Race].“ Es ist schwer zu sagen, ob der Ausdruck auf ihrem Gesicht ein Lächeln oder eine Grimasse ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Und ihre Stärke lässt nach. Also schicken sie dich, um einen Weg durch die gefallene Festung zu bahnen." Ein Zittern fährt durch ihr dickes Fleisch.</DefaultText>
+      <DefaultText>„Und ihre Stärke lässt nach. Also schicken sie dich, um einen Weg durch die gefallene Festung zu bahnen.“ Ein Zittern fährt durch ihr dickes Fleisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Durgans Batterie bereitet dir Unbehagen."</DefaultText>
+      <DefaultText>„Durgans Batterie bereitet dir Unbehagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Das ist nicht wahr."</DefaultText>
+      <DefaultText>„Das ist nicht wahr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Matronin Forgashs Späher haben deine Spuren im Schnee gesehen und deinen Geruch im Wind gerochen." Ihre Augenbrauen bilden eine tiefe, schwere Furche.</DefaultText>
+      <DefaultText>„Matronin Forgashs Späher haben deine Spuren im Schnee gesehen und deinen Geruch im Wind gerochen.“ Ihre Augenbrauen bilden eine tiefe, schwere Furche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Die Matronin schnaubt verächtlich. "Noch nicht. Aber sie lässt Gestandene fiebrig werden. Ihr versammelt euch davor und werft eure jämmerliche Stärke gegen ihre Mauern."</DefaultText>
+      <DefaultText>Die Matronin schnaubt verächtlich. „Noch nicht. Aber sie lässt Gestandene fiebrig werden. Ihr versammelt euch davor und werft eure jämmerliche Stärke gegen ihre Mauern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ja, und geh mir nur schön aus dem Weg."</DefaultText>
+      <DefaultText>„Ja, und geh mir nur schön aus dem Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Bedrohe mich nicht an meinem eigenen Herd, [Player Race]. Ich habe es mir vom letzten Gestandenen nicht gefallen lassen, der sich hierher verirrt hat, und ich lasse es mir von dir nicht gefallen."</DefaultText>
+      <DefaultText>„Bedrohe mich nicht an meinem eigenen Herd, [Player Race]. Ich habe es mir vom letzten Gestandenen nicht gefallen lassen, der sich hierher verirrt hat, und ich lasse es mir von dir nicht gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Meine Träume haben mich dazu gebracht, diesen Clan zu gründen. Nun sagen meine Träume mir, dass Stalwarts Ehrgeiz uns vernichten wird."</DefaultText>
+      <DefaultText>„Meine Träume haben mich dazu gebracht, diesen Clan zu gründen. Nun sagen meine Träume mir, dass Stalwarts Ehrgeiz uns vernichten wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Stalwart überlebt nur mit Mühe und Not. Das Letzte, was sie wollen, ist weiterer Ärger mit euch - oder jemand anderem."</DefaultText>
+      <DefaultText>„Stalwart überlebt nur mit Mühe und Not. Das Letzte, was sie wollen, ist weiterer Ärger mit euch - oder jemand anderem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Träume zeigen oft einen Teil der Wahrheit."</DefaultText>
+      <DefaultText>„Träume zeigen oft einen Teil der Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Hier geht es nicht um euch. Stalwart will Durgans Batterie, um Handel zu treiben."</DefaultText>
+      <DefaultText>„Hier geht es nicht um euch. Stalwart will Durgans Batterie, um Handel zu treiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Ich vertraue dir mehr als diesen Dorfbewohnern ... oder den nächsten Narren, die sie rufen." Sie kratzt sich am Kopf, und das raue Geräusch klingt wie das Schaben einer Eisenfeile.</DefaultText>
+      <DefaultText>„Ich vertraue dir mehr als diesen Dorfbewohnern&#160;… oder den nächsten Narren, die sie rufen.“ Sie kratzt sich am Kopf, und das raue Geräusch klingt wie das Schaben einer Eisenfeile.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Beregan schüttelt den Kopf. "Du kannst in Frieden gehen. Aber ihr werdet Durgans Batterie für immer aufgeben." Sie senkt ihr Kinn, um dir in die Augen zu blicken. In der Höhle ist nichts zu hören als der grollende Atem der anderen Oger.</DefaultText>
+      <DefaultText>Beregan schüttelt den Kopf. „Du kannst in Frieden gehen. Aber ihr werdet Durgans Batterie für immer aufgeben.“ Sie senkt ihr Kinn, um dir in die Augen zu blicken. In der Höhle ist nichts zu hören als der grollende Atem der anderen Oger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Einverstanden."</DefaultText>
+      <DefaultText>„Einverstanden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Bis ihr wisst, was in Durgans Batterie liegt, wird euer Clan in Furcht vor einem Geheimnis leben."</DefaultText>
+      <DefaultText>„Bis ihr wisst, was in Durgans Batterie liegt, wird euer Clan in Furcht vor einem Geheimnis leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Darin kann ich nicht einwilligen. Aber ich verspreche, dass ihr durch die Batterie und durch Stalwart keinen Schaden nehmen werdet."</DefaultText>
+      <DefaultText>„Darin kann ich nicht einwilligen. Aber ich verspreche, dass ihr durch die Batterie und durch Stalwart keinen Schaden nehmen werdet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,167 +167,167 @@ Ihre Gesichtszüge verzerren sich wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ich bin deine leeren Worte leid, [Player Race]."</DefaultText>
+      <DefaultText>„Ich bin deine leeren Worte leid, [Player Race].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Lüge mich noch einmal an und ich reiße dir die Zunge aus dem Mund."</DefaultText>
+      <DefaultText>„Lüge mich noch einmal an und ich reiße dir die Zunge aus dem Mund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Beregan grunzt. "Die Träume zeigen mir einen Schutthaufen über ihrem Dorf. Doch warum schicken sie dich?" Ihre Augen verengen sich zu dünnen Schlitzen und sie kratzt sich mit tellerdicken Fingernägeln an ihrem ledrigen Hals.</DefaultText>
+      <DefaultText>Beregan grunzt. „Die Träume zeigen mir einen Schutthaufen über ihrem Dorf. Doch warum schicken sie dich?“ Ihre Augen verengen sich zu dünnen Schlitzen und sie kratzt sich mit tellerdicken Fingernägeln an ihrem ledrigen Hals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ich gebe nicht viel auf Träume."</DefaultText>
+      <DefaultText>„Ich gebe nicht viel auf Träume.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>[Angreifen] "Dann muss ich der Sache nun ein Ende setzen."</DefaultText>
+      <DefaultText>[Angreifen] „Dann muss ich der Sache nun ein Ende setzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Beregan grunzt. "Träume können nicht lügen, [Player Race]."</DefaultText>
+      <DefaultText>Beregan grunzt. „Träume können nicht lügen, [Player Race].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Das glauben auch wir. Jede Matronin verdient sich ihren Platz durch die Kraft ihrer Visionen." Sie ballt die Fäuste. Das laute Knacken ihrer Knöchel klingt wie Kanonenfeuer.</DefaultText>
+      <DefaultText>„Das glauben auch wir. Jede Matronin verdient sich ihren Platz durch die Kraft ihrer Visionen.“ Sie ballt die Fäuste. Das laute Knacken ihrer Knöchel klingt wie Kanonenfeuer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Vielleicht will Stalwart euch mit den Waffen aus Durgans Batterie vertreiben."</DefaultText>
+      <DefaultText>„Vielleicht will Stalwart euch mit den Waffen aus Durgans Batterie vertreiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Sie nickt langsam. Träume sprechen oft in einer Sprache der Symbole. Aber ja, das ist es, was ich fürchte."</DefaultText>
+      <DefaultText>Sie nickt langsam. Träume sprechen oft in einer Sprache der Symbole. Aber ja, das ist es, was ich fürchte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Du darfst dich frei durch unser Lager bewegen, [Player Race]. "</DefaultText>
+      <DefaultText>„Du darfst dich frei durch unser Lager bewegen, [Player Race]. “</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Morug kann dir Vorräte und einen Platz zum Schlafen geben."</DefaultText>
+      <DefaultText>„Morug kann dir Vorräte und einen Platz zum Schlafen geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Lass mich allein. Ich muss ausruhen und hören, was die Nachtwinde sagen."</DefaultText>
+      <DefaultText>„Lass mich allein. Ich muss ausruhen und hören, was die Nachtwinde sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Wie ich höre, hat eine andere Abenteurergruppe euren Weg gekreuzt - Mitglieder des Bleiernen Schlüssels. Ich suche nach allem, was sie vielleicht gefunden haben."</DefaultText>
+      <DefaultText>„Wie ich höre, hat eine andere Abenteurergruppe euren Weg gekreuzt - Mitglieder des Bleiernen Schlüssels. Ich suche nach allem, was sie vielleicht gefunden haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Sie kneift ihre Augen zusammen. "Die Nachtwinde haben mir diesen Namen zugeflüstert. Sie haben uns gefunden, mit Keulen und Kanonen bereits in den Händen. Und was wir bei ihnen gefunden haben ..."
+      <DefaultText>Sie kneift ihre Augen zusammen. „Die Nachtwinde haben mir diesen Namen zugeflüstert. Sie haben uns gefunden, mit Keulen und Kanonen bereits in den Händen. Und was wir bei ihnen gefunden haben&#160;…“
 
 Sie seufzt. Schwere Dampfwolken steigen aus ihren Nüstern auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Dann nimm die Beute deiner törichten Vorgänger. Möge sie dir bessere Dienste erweisen." Ihre Lippe zuckt. 
+      <DefaultText>„Dann nimm die Beute deiner törichten Vorgänger. Möge sie dir bessere Dienste erweisen.“ Ihre Lippe zuckt. 
 
 Einer der Oger neben Beregan murmelt ihr etwas ins Ohr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Verschwinde mit deinen Lügen und Drohungen, wenn dir dein Leben ist."</DefaultText>
+      <DefaultText>„Verschwinde mit deinen Lügen und Drohungen, wenn dir dein Leben ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>[Lügen] "Darin kann ich nicht einwilligen. Aber ich verspreche, dass ihr durch die Batterie und durch Stalwart keinen Schaden nehmen werdet."</DefaultText>
+      <DefaultText>[Lügen] „Darin kann ich nicht einwilligen. Aber ich verspreche, dass ihr durch die Batterie und durch Stalwart keinen Schaden nehmen werdet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Die Dorfbewohner spähen unsere Lager aus und verderben unsere Jagd. Sie töten uns und ziehen sich wieder hinter ihre Mauern zurück." Kalter Zorn dröhnt in ihrer Stimme.</DefaultText>
+      <DefaultText>„Die Dorfbewohner spähen unsere Lager aus und verderben unsere Jagd. Sie töten uns und ziehen sich wieder hinter ihre Mauern zurück.“ Kalter Zorn dröhnt in ihrer Stimme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Träume. Hagelkörner, die wie Kanonenkugeln von den Zinnen fällen. Ein Frostwind, der durch die Turmtür kreischt." Ihre Nägel pflügen Furchen durch ihre seildicken Haare, wodruch ein roter Flech auf ihrer Kopfhaut entsteht. 
+      <DefaultText>„Träume. Hagelkörner, die wie Kanonenkugeln von den Zinnen fällen. Ein Frostwind, der durch die Turmtür kreischt.“ Ihre Nägel pflügen Furchen durch ihre seildicken Haare, wodruch ein roter Flech auf ihrer Kopfhaut entsteht. 
 
 Schließlich verklingt ihr Knurren und ihr Atem wird langsamer. Sie blickt dich mit blutroten Augen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Abgesehen von Schmugglern und Sklaventreibern kommen selten Gestandene in diese Gegend."</DefaultText>
+      <DefaultText>„Abgesehen von Schmugglern und Sklaventreibern kommen selten Gestandene in diese Gegend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Ich wollte keinen Ärger mit Stalwart. Aber sie werden nicht eher ruhen, bis unsere Lager brennen und unsere Clans zerschlagen sind."</DefaultText>
+      <DefaultText>„Ich wollte keinen Ärger mit Stalwart. Aber sie werden nicht eher ruhen, bis unsere Lager brennen und unsere Clans zerschlagen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Morug kann dir einen Platz zum Schlafen und Zugang zu unseren Vorräten geben. Du findest ihn am Höhleneingang." Sie hebt einen vernarbten und muskulösen Arm und deutet in die Richtung, aus der du gekommen bist.</DefaultText>
+      <DefaultText>„Morug kann dir einen Platz zum Schlafen und Zugang zu unseren Vorräten geben. Du findest ihn am Höhleneingang.“ Sie hebt einen vernarbten und muskulösen Arm und deutet in die Richtung, aus der du gekommen bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Hoffentlich kannst du deinen Worten Taten folgen lassen, [Player Race]. Es ist selten, dass eine Matronin gegen ihre Träume handelt."</DefaultText>
+      <DefaultText>„Hoffentlich kannst du deinen Worten Taten folgen lassen, [Player Race]. Es ist selten, dass eine Matronin gegen ihre Träume handelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Aber du musst dafür sorgen, dass Stalwart uns nicht weiter drangsaliert." Sie hebt eine dicke Augenbraue und mustert dich.</DefaultText>
+      <DefaultText>„Aber du musst dafür sorgen, dass Stalwart uns nicht weiter drangsaliert.“ Sie hebt eine dicke Augenbraue und mustert dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Fisch. Schweiß. Schwefel."
+      <DefaultText>„Fisch. Schweiß. Schwefel.“
 
 Die Oger-Matronin beschnüffelt dich mit Nüstern so groß und dunkel wie Pistolenläufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Und doch kommen sie mit Waffen in den Händen und vergießen das Blut meines Volkes." Drahtige schwarze Haare stehen an ihren Armen und ihrem Hals auf.</DefaultText>
+      <DefaultText>„Und doch kommen sie mit Waffen in den Händen und vergießen das Blut meines Volkes.“ Drahtige schwarze Haare stehen an ihren Armen und ihrem Hals auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Natürlich!" Ihr heißer Atem zischt aus gefletschten Zähnen hervor.
+      <DefaultText>„Natürlich!“ Ihr heißer Atem zischt aus gefletschten Zähnen hervor.
 
 Die anderen Oger knurren und blicken dich zornig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>[Angreifen] "Ich bin hier, um euch zu vernichten."</DefaultText>
+      <DefaultText>[Angreifen] „Ich bin hier, um euch zu vernichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Und nun sagst du mir, warum du hier bist." Ihre Stimme ist ruhig, aber gefährlich tief.</DefaultText>
+      <DefaultText>„Und nun sagst du mir, warum du hier bist.“ Ihre Stimme ist ruhig, aber gefährlich tief.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Sie schnaubt. "Welches Recht auf Schutz haben Feiglinge und Agitatoren?"</DefaultText>
+      <DefaultText>Sie schnaubt. „Welches Recht auf Schutz haben Feiglinge und Agitatoren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -337,12 +337,12 @@ Die anderen Oger knurren und blicken dich zornig an.</DefaultText>
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Und jetzt verbreitest du Lügen! Sie stammten vom Wolf-mit-vielen-Mäulern! Mein Clan war hier, bei mir."</DefaultText>
+      <DefaultText>„Und jetzt verbreitest du Lügen! Sie stammten vom Wolf-mit-vielen-Mäulern! Mein Clan war hier, bei mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Sie ist der kranke Kadaver einer zerstörten Zivilisation! Sie ist voller rastloser Geister und fauler Magie. Ich sehe ..."
+      <DefaultText>„Sie ist der kranke Kadaver einer zerstörten Zivilisation! Sie ist voller rastloser Geister und fauler Magie. Ich sehe&#160;…“
 
 Sie brüllt und hält sich mit breiten, langfingrigen Händen die Schläfen.</DefaultText>
       <FemaleText />
@@ -356,37 +356,37 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Sie nickt. "Du hast den Frieden der Flammen-die-flüstern. Und meinen Dank, weil du unnötige Gewalt gegen meinen Clan vermieden hast."</DefaultText>
+      <DefaultText>Sie nickt. „Du hast den Frieden der Flammen-die-flüstern. Und meinen Dank, weil du unnötige Gewalt gegen meinen Clan vermieden hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Ich bin aus eigenem Willen gekommen. Ich will die Geheimnisse der Batterie selbst entdecken."</DefaultText>
+      <DefaultText>„Ich bin aus eigenem Willen gekommen. Ich will die Geheimnisse der Batterie selbst entdecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"In Durgans Batterie liegen seltene und wertvolle Waffen. Ich will sie finden."</DefaultText>
+      <DefaultText>„In Durgans Batterie liegen seltene und wertvolle Waffen. Ich will sie finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Stalwart hat mich um Hilfe gebeten. Ich muss ihnen helfen, die Weiße Esse zu finden."</DefaultText>
+      <DefaultText>„Stalwart hat mich um Hilfe gebeten. Ich muss ihnen helfen, die Weiße Esse zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Ihre Nüstern blähen sich auf. "Dann hast du mich belogen. Wenn du dich innerhalb weniger Minuten gegen deine eigenen Worte wendest, wie kann ich dir dann je vertrauen?"</DefaultText>
+      <DefaultText>Ihre Nüstern blähen sich auf. „Dann hast du mich belogen. Wenn du dich innerhalb weniger Minuten gegen deine eigenen Worte wendest, wie kann ich dir dann je vertrauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Ich habe mich nur umgesehen."</DefaultText>
+      <DefaultText>„Ich habe mich nur umgesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Eigentlich bin ich wegen Durgans Batterie hier."</DefaultText>
+      <DefaultText>„Eigentlich bin ich wegen Durgans Batterie hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Sie schnaubt. "'Umgesehen'. Die einzigen Gestanden, die sich hier 'umsehen', sind Sklavenhändler, Schmuggler und Narren, die nach der alten Zwergenfestung suchen."</DefaultText>
+      <DefaultText>Sie schnaubt. „'Umgesehen'. Die einzigen Gestanden, die sich hier 'umsehen', sind Sklavenhändler, Schmuggler und Narren, die nach der alten Zwergenfestung suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,12 +406,12 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Aye, sie ist mit der honigsüßen Zunge der Dichter gesegnet."</DefaultText>
+      <DefaultText>„Aye, sie ist mit der honigsüßen Zunge der Dichter gesegnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Stellen wir sie lieber nicht auf die Probe."</DefaultText>
+      <DefaultText>„Stellen wir sie lieber nicht auf die Probe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,32 +421,32 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Aye, sie ist mit der honigsüßen Zunge der Dichter gesegnet."</DefaultText>
+      <DefaultText>„Aye, sie ist mit der honigsüßen Zunge der Dichter gesegnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Stellen wir sie lieber nicht auf die Probe."</DefaultText>
+      <DefaultText>„Stellen wir sie lieber nicht auf die Probe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Dann bist du auf einem Auge blind. Jede Matronin unter uns verdient sich ihren Platz durch die Kraft ihrer Visionen." Sie ballt die Fäuste. Das laute Knacken ihrer Knöchel klingt wie Kanonenfeuer.</DefaultText>
+      <DefaultText>„Dann bist du auf einem Auge blind. Jede Matronin unter uns verdient sich ihren Platz durch die Kraft ihrer Visionen.“ Sie ballt die Fäuste. Das laute Knacken ihrer Knöchel klingt wie Kanonenfeuer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Historische Quellen weisen darauf hin, dass die Pargrunen-Zwerge in Durgans Batterie gegeneinander gekämpft haben."</DefaultText>
+      <DefaultText>„Historische Quellen weisen darauf hin, dass die Pargrunen-Zwerge in Durgans Batterie gegeneinander gekämpft haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Dann lass ihre Geister dort ruhen, zwischen den Träumen, die sie befallen haben."</DefaultText>
+      <DefaultText>„Dann lass ihre Geister dort ruhen, zwischen den Träumen, die sie befallen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>[Lügen] "Gut, ich werde Durgans Batterie für immer aufgeben."</DefaultText>
+      <DefaultText>[Lügen] „Gut, ich werde Durgans Batterie für immer aufgeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,22 +456,22 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Deine Zunge lügt gut, [Player Race]. Der Rest von dir nicht."</DefaultText>
+      <DefaultText>„Deine Zunge lügt gut, [Player Race]. Der Rest von dir nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Ich gebe dir meinen Segen. Und die Überreste der letzten Narren, die unser Gebiet passierten - vielleicht haben sie etwas gefunden, das dir helfen kann."</DefaultText>
+      <DefaultText>„Ich gebe dir meinen Segen. Und die Überreste der letzten Narren, die unser Gebiet passierten - vielleicht haben sie etwas gefunden, das dir helfen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Du hast den Frieden der Flammen-die-flüstern. Auch wenn ich wünschte, du hättest in unseren Höhlen nicht so viele Tote zurückgelassen."</DefaultText>
+      <DefaultText>„Du hast den Frieden der Flammen-die-flüstern. Auch wenn ich wünschte, du hättest in unseren Höhlen nicht so viele Tote zurückgelassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Sie blickt böse drein. "Angesichts der Umstände übersehe ich das Gemetzel an meinem Clan. Du hast den Frieden der Flammen-die-flüstern. Vorerst zumindest."</DefaultText>
+      <DefaultText>Sie blickt böse drein. „Angesichts der Umstände übersehe ich das Gemetzel an meinem Clan. Du hast den Frieden der Flammen-die-flüstern. Vorerst zumindest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,32 +481,32 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Sieh nicht mich an. Ich habe gebadet, als wir das letzte Mal kampiert haben."</DefaultText>
+      <DefaultText>„Sieh nicht mich an. Ich habe gebadet, als wir das letzte Mal kampiert haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Sei auf der Hut. Ihr Temperament brennt heiß."</DefaultText>
+      <DefaultText>„Sei auf der Hut. Ihr Temperament brennt heiß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Ich fühle mich auf seltsame Weise beleidigt."</DefaultText>
+      <DefaultText>„Ich fühle mich auf seltsame Weise beleidigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Ah. Ihre Nase riecht, wie meine Augen. Mit mir hat das Leben es besser gemeint."</DefaultText>
+      <DefaultText>„Ah. Ihre Nase riecht, wie meine Augen. Mit mir hat das Leben es besser gemeint.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Alles völlig ehrenwerte Gerüche, sage ich."</DefaultText>
+      <DefaultText>„Alles völlig ehrenwerte Gerüche, sage ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Das scheint sie nicht als Kompliment zu meinen."</DefaultText>
+      <DefaultText>„Das scheint sie nicht als Kompliment zu meinen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,32 +516,32 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Ihr Verstand kocht vor Furcht."</DefaultText>
+      <DefaultText>„Ihr Verstand kocht vor Furcht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Ich glaube, du hast ihre Aufmerksamkeit, [Player Name]."</DefaultText>
+      <DefaultText>„Ich glaube, du hast ihre Aufmerksamkeit, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Dass die Matroninnen weniger aggressiv als die Männer sind, ist wohl nur ein relativer Vergleich."</DefaultText>
+      <DefaultText>„Dass die Matroninnen weniger aggressiv als die Männer sind, ist wohl nur ein relativer Vergleich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Eine recht vertraute Reaktion, muss ich sagen."</DefaultText>
+      <DefaultText>„Eine recht vertraute Reaktion, muss ich sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Nicht nur die Dorfbewohner sind abergläubisch."</DefaultText>
+      <DefaultText>„Nicht nur die Dorfbewohner sind abergläubisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Das klingt in der Tat nach Stalwart."</DefaultText>
+      <DefaultText>„Das klingt in der Tat nach Stalwart.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,17 +551,17 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Wahrlich ein hohes Lob."</DefaultText>
+      <DefaultText>„Wahrlich ein hohes Lob.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Ah, gut. Der Geruch hängt noch in der Luft."</DefaultText>
+      <DefaultText>„Ah, gut. Der Geruch hängt noch in der Luft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Die meisten Träume sind Ängste, denen ein Gesicht gegeben wird. Aber das heißt nicht, dass diese Ängste unbegründet sind."</DefaultText>
+      <DefaultText>„Die meisten Träume sind Ängste, denen ein Gesicht gegeben wird. Aber das heißt nicht, dass diese Ängste unbegründet sind.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
