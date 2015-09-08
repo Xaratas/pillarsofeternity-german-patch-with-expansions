@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Angeblich gibt es auf Caed Nua einen neuen Fürsten."</DefaultText>
-      <FemaleText>"Angeblich gibt es auf Caed Nua eine neue Fürstin."</FemaleText>
+      <DefaultText>„Angeblich gibt es auf Caed Nua einen neuen Fürsten.“</DefaultText>
+      <FemaleText>„Angeblich gibt es auf Caed Nua eine neue Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich gehe ein warmes Bier in der Gréfenrast trinken. Kommst du mit?"</DefaultText>
+      <DefaultText>„Ich gehe ein warmes Bier in der Gréfenrast trinken. Kommst du mit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Das tut mir leid. Er war ein guter Mann."</DefaultText>
+      <DefaultText>„Das tut mir leid. Er war ein guter Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wie lang sie wohl durchhalten?"</DefaultText>
+      <DefaultText>„Wie lang sie wohl durchhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ach, ich bitte dich. Ein wenig Kälte tut mir gut."</DefaultText>
+      <DefaultText>„Ach, ich bitte dich. Ein wenig Kälte tut mir gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Der Oger ist tot. Nur das zählt."</DefaultText>
+      <DefaultText>„Der Oger ist tot. Nur das zählt.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

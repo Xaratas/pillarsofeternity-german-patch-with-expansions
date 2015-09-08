@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wir brauchen Hilfe! Hier entlang!</DefaultText>
+      <DefaultText>„Wir brauchen Hilfe! Hier entlang!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Vorsicht! Bei der Fischerei sind noch mehr!"</DefaultText>
+      <DefaultText>„Vorsicht! Bei der Fischerei sind noch mehr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Lauft! Sie töten uns alle!"</DefaultText>
+      <DefaultText>„Lauft! Sie töten uns alle!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wir können die Bastarde besiegen!"</DefaultText>
+      <DefaultText>„Wir können die Bastarde besiegen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Es ist Darzir! Mit einem ganzen Haufen von denen!"</DefaultText>
+      <DefaultText>„Es ist Darzir! Mit einem ganzen Haufen von denen!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

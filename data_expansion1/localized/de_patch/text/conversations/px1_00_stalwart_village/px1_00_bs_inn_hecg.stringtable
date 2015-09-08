@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Au ..."</DefaultText>
+      <DefaultText>„Au&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Kleine Warnung, wenn du hier neu bist - die Getränke sind nicht gestreckt."</DefaultText>
+      <DefaultText>„Kleine Warnung, wenn du hier neu bist - die Getränke sind nicht gestreckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Die Oger werden kühner. Ich weiß nicht, wie lange wir noch durchhalten."</DefaultText>
+      <DefaultText>„Die Oger werden kühner. Ich weiß nicht, wie lange wir noch durchhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich hatte nie ein Talent fürs Messerwerfen."</DefaultText>
+      <DefaultText>„Ich hatte nie ein Talent fürs Messerwerfen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

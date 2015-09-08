@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Scharlatane! Ich werde ..."</DefaultText>
+      <DefaultText>„Scharlatane! Ich werde&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich hätte mich niemals davon trennen sollen."</DefaultText>
+      <DefaultText>„Ich hätte mich niemals davon trennen sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"... ein Misserfolg, wie sich zeigte."</DefaultText>
+      <DefaultText>„… ein Misserfolg, wie sich zeigte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Dumm ... nie wieder."</DefaultText>
+      <DefaultText>„Dumm&#160;… nie wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Warum dauert das denn so lange ..."</DefaultText>
+      <DefaultText>„Warum dauert das denn so lange&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Komm schon ..."</DefaultText>
+      <DefaultText>„Komm schon&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

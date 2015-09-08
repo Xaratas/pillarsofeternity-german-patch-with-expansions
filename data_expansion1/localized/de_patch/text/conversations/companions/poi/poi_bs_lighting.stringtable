@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich hätte ja eine Fackel mitgenommen, wenn du etwas gesagt hättest."</DefaultText>
+      <DefaultText>„Ich hätte ja eine Fackel mitgenommen, wenn du etwas gesagt hättest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Whoa."</DefaultText>
+      <DefaultText>„Whoa.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

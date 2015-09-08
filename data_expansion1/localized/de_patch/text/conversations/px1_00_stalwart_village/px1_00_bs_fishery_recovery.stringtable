@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ein paar Minuten länger und die Fischerei wäre auch abgebrannt."</DefaultText>
+      <DefaultText>„Ein paar Minuten länger und die Fischerei wäre auch abgebrannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Meine halbe Schicht war Mitglied bei der Miliz. Wir haben viele verloren."</DefaultText>
+      <DefaultText>„Meine halbe Schicht war Mitglied bei der Miliz. Wir haben viele verloren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Grynde hat die Toten gezählt. Wir müssen zusätzliche Schichten arbeiten, um das Soll zu erfüllen."</DefaultText>
+      <DefaultText>„Grynde hat die Toten gezählt. Wir müssen zusätzliche Schichten arbeiten, um das Soll zu erfüllen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Noch so ein Angriff und wir haben nicht genügend Hände, um das Dorf zu ernähren."</DefaultText>
+      <DefaultText>„Noch so ein Angriff und wir haben nicht genügend Hände, um das Dorf zu ernähren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was? Tut mir leid, meine Ohren dröhnen immer noch."</DefaultText>
+      <DefaultText>„Was? Tut mir leid, meine Ohren dröhnen immer noch.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich bin noch nicht fertig, verdammt!"</DefaultText>
+      <DefaultText>„Ich bin noch nicht fertig, verdammt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Gebt mir ein paar Minuten, okay?"</DefaultText>
+      <DefaultText>„Gebt mir ein paar Minuten, okay?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Hnnngh!"</DefaultText>
+      <DefaultText>„Hnnngh!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

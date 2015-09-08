@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Trinken wir - hick - darauf, dass wir wieder einen Tag überlebt haben!"</DefaultText>
+      <DefaultText>„Trinken wir - hick - darauf, dass wir wieder einen Tag überlebt haben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Auf den Ogertöter!"</DefaultText>
-      <FemaleText>"Auf die Ogertöterin!"</FemaleText>
+      <DefaultText>„Auf den Ogertöter!“</DefaultText>
+      <FemaleText>„Auf die Ogertöterin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Drei noch, dann gibst du mir keinen mehr, ja, Haefic? Haeferin? Havoc?"</DefaultText>
+      <DefaultText>„Drei noch, dann gibst du mir keinen mehr, ja, Haefic? Haeferin? Havoc?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wow, die lassen dich hier immer noch rein, ja? Nimm dir was zu trinken!"</DefaultText>
+      <DefaultText>„Wow, die lassen dich hier immer noch rein, ja? Nimm dir was zu trinken!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

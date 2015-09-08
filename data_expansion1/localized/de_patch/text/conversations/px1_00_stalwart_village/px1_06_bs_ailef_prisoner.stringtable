@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du willst mich doch nicht ernsthaft einsperren?!"</DefaultText>
+      <DefaultText>„Du willst mich doch nicht ernsthaft einsperren?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wie lange willst du mich hier gefangenhalten?"</DefaultText>
+      <DefaultText>„Wie lange willst du mich hier gefangenhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bitte lass mich gehen. Es war ein Unfall!"</DefaultText>
+      <DefaultText>„Bitte lass mich gehen. Es war ein Unfall!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich hätte dir nie vertrauen dürfen!"</DefaultText>
+      <DefaultText>„Ich hätte dir nie vertrauen dürfen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du kranker Teufel!"</DefaultText>
+      <DefaultText>„Du kranker Teufel!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Bitte ... ich ertrage es nicht mehr ..."</DefaultText>
+      <DefaultText>„Bitte&#160;… ich ertrage es nicht mehr&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

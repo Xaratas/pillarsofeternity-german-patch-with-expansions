@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Oger haben die westliche Palisade durchbrochen!"</DefaultText>
+      <DefaultText>„Oger haben die westliche Palisade durchbrochen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Sie wüten durch die Straßen!"</DefaultText>
+      <DefaultText>„Sie wüten durch die Straßen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Haltet sie auf, bevor sie das Dorf niederbrennen!"</DefaultText>
+      <DefaultText>„Haltet sie auf, bevor sie das Dorf niederbrennen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du bist gerade zur rechten Zeit aufgetaucht."</DefaultText>
+      <DefaultText>„Du bist gerade zur rechten Zeit aufgetaucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"So viele gute Leute sind gestorben ..."</DefaultText>
+      <DefaultText>„So viele gute Leute sind gestorben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Hoffentlich bist du noch da, wenn die Oger zurückkommen."</DefaultText>
+      <DefaultText>„Hoffentlich bist du noch da, wenn die Oger zurückkommen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

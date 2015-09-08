@@ -6,24 +6,24 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bitte, du musst helfen! Es sind noch Leute in dem Haus!" 
+      <DefaultText>„Bitte, du musst helfen! Es sind noch Leute in dem Haus!“ 
 
 Der Mann hebt verzweifelt die Hände zum Kopf und starrt das brennende Haus entsetzt an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hilfe! Die Hütte stürzt ein!"</DefaultText>
+      <DefaultText>„Hilfe! Die Hütte stürzt ein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wer ist da drin?"</DefaultText>
+      <DefaultText>„Wer ist da drin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Geh beiseite - ich hole sie raus."</DefaultText>
+      <DefaultText>„Geh beiseite - ich hole sie raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,37 +33,37 @@ Der Mann hebt verzweifelt die Hände zum Kopf und starrt das brennende Haus ents
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Es ist Keydy! Das Dach ist über ihr eingestürzt! Und der Wachmann, der hinein ist, um sie zu retten, ist von den Flammen umzingelt!"</DefaultText>
+      <DefaultText>„Es ist Keydy! Das Dach ist über ihr eingestürzt! Und der Wachmann, der hinein ist, um sie zu retten, ist von den Flammen umzingelt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich habe weder die Kraft, sie hinauszuziehen, noch kann ich die Flammen bekämpfen. Bitte!"</DefaultText>
+      <DefaultText>„Ich habe weder die Kraft, sie hinauszuziehen, noch kann ich die Flammen bekämpfen. Bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ich habe es dir doch gesagt, Keydy und Lurgolder!"</DefaultText>
+      <DefaultText>„Ich habe es dir doch gesagt, Keydy und Lurgolder!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Geh aus dem Weg, wenn du nicht helfen willst!"</DefaultText>
+      <DefaultText>„Geh aus dem Weg, wenn du nicht helfen willst!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Bitte beeil dich!"</DefaultText>
+      <DefaultText>„Bitte beeil dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich soll in ein brennendes Gebäude gehen?"</DefaultText>
+      <DefaultText>„Ich soll in ein brennendes Gebäude gehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Irgendjemand muss es tun!"
+      <DefaultText>„Irgendjemand muss es tun!“
 
 Er wendet sich von dir ab, um weiter nach Hilfe zu rufen.</DefaultText>
       <FemaleText />
@@ -75,100 +75,100 @@ Er wendet sich von dir ab, um weiter nach Hilfe zu rufen.</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wir müssen etwas tun, [Player Name]!"</DefaultText>
+      <DefaultText>„Wir müssen etwas tun, [Player Name]!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Was willst du tun, [Player Name]?"</DefaultText>
+      <DefaultText>„Was willst du tun, [Player Name]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Genug gezaudert! Ich gehe, wenn du es nicht tust!"</DefaultText>
+      <DefaultText>„Genug gezaudert! Ich gehe, wenn du es nicht tust!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Du hast es geschafft! Du hast sie beide gerettet!"</DefaultText>
+      <DefaultText>„Du hast es geschafft! Du hast sie beide gerettet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Keydy! Den Göttern sei Dank, du hast sie gerettet!"</DefaultText>
+      <DefaultText>„Keydy! Den Göttern sei Dank, du hast sie gerettet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Lurgolder! Den Göttern sei Dank, er lebt!"</DefaultText>
+      <DefaultText>„Lurgolder! Den Göttern sei Dank, er lebt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Sie sind tot! Alle beide!"</DefaultText>
+      <DefaultText>„Sie sind tot! Alle beide!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Keydys Haus brennt!"</DefaultText>
+      <DefaultText>„Keydys Haus brennt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Beeil dich, sie sind beide noch da drin!"</DefaultText>
+      <DefaultText>„Beeil dich, sie sind beide noch da drin!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Geht es dir gut? Ich war mir sicher, das Haus würde einstürzen und dich in den Tod reißen." Der Mann wischt sich die Stirn ab und blickt auf das zusammenfallende Haus.</DefaultText>
+      <DefaultText>„Geht es dir gut? Ich war mir sicher, das Haus würde einstürzen und dich in den Tod reißen.“ Der Mann wischt sich die Stirn ab und blickt auf das zusammenfallende Haus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Bei Ondras Gezeiten! Was ein Glück, dass du Keydy und Lurgolder rausgeschafft hast." Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
+      <DefaultText>„Bei Ondras Gezeiten! Was ein Glück, dass du Keydy und Lurgolder rausgeschafft hast.“ Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
 
 Er wendet sich dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Zumindest hast du Keydy gerettet. Was den armen Lurgolder angeht ..." Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
+      <DefaultText>„Zumindest hast du Keydy gerettet. Was den armen Lurgolder angeht&#160;…“ Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
 
 Er blickt kopfschüttelnd weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Zumindest hast du Lurgolder gerettet. Was die arme Keydy angeht ..." Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
+      <DefaultText>„Zumindest hast du Lurgolder gerettet. Was die arme Keydy angeht&#160;…“ Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
 
 Er blickt kopfschüttelnd weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Der armer Lurgolder, die arme Keydy. Sie-" Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
+      <DefaultText>„Der armer Lurgolder, die arme Keydy. Sie-“ Seine Augen weiten sich, als ein Teil des Dachs einstürzt.
 
 Er blickt kopfschüttelnd weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich war mir sicher, das Haus würde einstürzen und deinen Gefährten in den Tod reißen." Der Mann wischt sich die Stirn ab und blickt auf das zusammenfallende Haus.</DefaultText>
+      <DefaultText>„Ich war mir sicher, das Haus würde einstürzen und deinen Gefährten in den Tod reißen.“ Der Mann wischt sich die Stirn ab und blickt auf das zusammenfallende Haus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Du siehst aus, als könntest du etwas zu trinken vertragen. Bring das zu Haeferic und trink einen auf mich." Er wirft dir ein paar flache, geschnitzte Knochen zu.</DefaultText>
+      <DefaultText>„Du siehst aus, als könntest du etwas zu trinken vertragen. Bring das zu Haeferic und trink einen auf mich.“ Er wirft dir ein paar flache, geschnitzte Knochen zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Wir löschen die restlichen Flammen. Geh du einen trinken."</DefaultText>
+      <DefaultText>„Wir löschen die restlichen Flammen. Geh du einen trinken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Hilfe, so helft doch!"</DefaultText>
+      <DefaultText>„Hilfe, so helft doch!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

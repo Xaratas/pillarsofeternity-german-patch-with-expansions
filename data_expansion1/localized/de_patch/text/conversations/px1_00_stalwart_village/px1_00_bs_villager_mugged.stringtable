@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bist du verletzt? Was ist geschehen?"</DefaultText>
+      <DefaultText>„Bist du verletzt? Was ist geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Agh ... Es war Owynna! Sie hat mich angegriffen! Ich glaube, sie hat meinen Geldbeutel gestohlen."</DefaultText>
+      <DefaultText>„Agh&#160;… Es war Owynna! Sie hat mich angegriffen! Ich glaube, sie hat meinen Geldbeutel gestohlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Owynna? Hast du wieder Weißblatt geraucht?"</DefaultText>
+      <DefaultText>„Owynna? Hast du wieder Weißblatt geraucht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sie war es, ich schwöre es!"</DefaultText>
+      <DefaultText>„Sie war es, ich schwöre es!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Tut mir leid, mein Freund ist etwas verwirrt."</DefaultText>
+      <DefaultText>„Tut mir leid, mein Freund ist etwas verwirrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Die Frau kann wirklich zuschlagen ..."</DefaultText>
+      <DefaultText>„Die Frau kann wirklich zuschlagen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

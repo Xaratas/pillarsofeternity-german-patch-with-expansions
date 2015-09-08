@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Danke. Wir verdanken dir unser Leben."</DefaultText>
+      <DefaultText>„Danke. Wir verdanken dir unser Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Das Dorf weiß, was du für uns getan hast."</DefaultText>
+      <DefaultText>„Das Dorf weiß, was du für uns getan hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich hätte Suldrun nicht verschont. Er sollte sich lieber von hier fernhalten."</DefaultText>
+      <DefaultText>„Ich hätte Suldrun nicht verschont. Er sollte sich lieber von hier fernhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Der arme Thyrsc. Einen solchen Sohn zu haben ..."</DefaultText>
+      <DefaultText>„Der arme Thyrsc. Einen solchen Sohn zu haben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich wünsche dir viel Glück auf deinen Reisen."</DefaultText>
+      <DefaultText>„Ich wünsche dir viel Glück auf deinen Reisen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

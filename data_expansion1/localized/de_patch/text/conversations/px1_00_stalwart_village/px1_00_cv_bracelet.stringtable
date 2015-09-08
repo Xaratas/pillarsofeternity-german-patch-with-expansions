@@ -27,12 +27,12 @@ Du spürst einen Schub aus Zorn und Mitleid ob des Zustands deines Bruders.</Def
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Arda." Seine Stimme ist kaum mehr als ein Krächzen.</DefaultText>
+      <DefaultText>„Arda.“ Seine Stimme ist kaum mehr als ein Krächzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Es ist nach Mitternacht." Dein Hals schnürt sich zusammen.</DefaultText>
+      <DefaultText>„Es ist nach Mitternacht.“ Dein Hals schnürt sich zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -54,22 +54,22 @@ Er wischt sich die Nase am Futter ab.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich sage es ihnen. Bürgermeister Cyneheod, den Nachbarn, allen." Du presst die Worte durch deine Zähne.</DefaultText>
+      <DefaultText>„Ich sage es ihnen. Bürgermeister Cyneheod, den Nachbarn, allen.“ Du presst die Worte durch deine Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Was sagen?" Er nuschelt durch einen Morast aus Rotz und Speichel.</DefaultText>
+      <DefaultText>„Was sagen?“ Er nuschelt durch einen Morast aus Rotz und Speichel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Das wirst du nicht." Er steht auf und steht fester auf den Beinen als du gedacht hättest.</DefaultText>
+      <DefaultText>„Das wirst du nicht.“ Er steht auf und steht fester auf den Beinen als du gedacht hättest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Doch, das werde ich." Du trittst auf ihn zu.</DefaultText>
+      <DefaultText>„Doch, das werde ich.“ Du trittst auf ihn zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,26 +96,26 @@ Ist das nicht typisch Grynde mit seinen albernen Wutanfällen, nie denkt er an j
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Von deinem Diebstahl! Glaubst du, ich habe nicht gemerkt, dass Geld aus der Kasse der Fischerei fehlt? Oder Taena nicht sagen hören, dass sie einen goldenen Duc 'verloren' hat?" Du flüsterst. Selbst jetzt hast du noch Angst, dass jemand euch hören könnte. Die Worte versengen deine Kehle.</DefaultText>
+      <DefaultText>„Von deinem Diebstahl! Glaubst du, ich habe nicht gemerkt, dass Geld aus der Kasse der Fischerei fehlt? Oder Taena nicht sagen hören, dass sie einen goldenen Duc 'verloren' hat?“ Du flüsterst. Selbst jetzt hast du noch Angst, dass jemand euch hören könnte. Die Worte versengen deine Kehle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Grynde blinzelt dich an. "Nein, das ist nicht ..." Er reibt sich seine roten Augen.
+      <DefaultText>Grynde blinzelt dich an. „Nein, das ist nicht&#160;…“ Er reibt sich seine roten Augen.
 
 Deine eigenen Augen werden warm und feucht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Stalwart toleriert deine Schwammsucht, aber deine Stehlereien werden sie nicht dulden."
+      <DefaultText>„Stalwart toleriert deine Schwammsucht, aber deine Stehlereien werden sie nicht dulden.“
 
 Du berührst deine Armkette, ein Geschenk von deiner Mutter. Du zupfst an den Perlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Geh. Nach Readceras oder Trutzbucht oder nach Eir Glanfath, ist mir scheißegal."
+      <DefaultText>„Geh. Nach Readceras oder Trutzbucht oder nach Eir Glanfath, ist mir scheißegal.“
 
 Du schleuderst es auf den undankbaren Wurm am Boden.</DefaultText>
       <FemaleText />
@@ -127,12 +127,12 @@ Du schleuderst es auf den undankbaren Wurm am Boden.</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wenn es Arbeit gibt, bist du nirgendwo zu sehen, aber kaum rollen die Händler mit ihren Wagen in die Stadt, hast du genügend Geld für ein paar Beutel Rieselschwamm."</DefaultText>
+      <DefaultText>„Wenn es Arbeit gibt, bist du nirgendwo zu sehen, aber kaum rollen die Händler mit ihren Wagen in die Stadt, hast du genügend Geld für ein paar Beutel Rieselschwamm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich wollte Mutter und Vater nicht beschämen, solange sie noch leben, aber ich lasse nicht zu, dass es so weitergeht." Dein Zorn verdrängt auch den letzten Rest deines Mitleids - Zorn, dass er dich in diese Lage bringt, dass er an deiner Entschlossenheit zweifelt, dass er nicht erkennt-
+      <DefaultText>„Ich wollte Mutter und Vater nicht beschämen, solange sie noch leben, aber ich lasse nicht zu, dass es so weitergeht.“ Dein Zorn verdrängt auch den letzten Rest deines Mitleids - Zorn, dass er dich in diese Lage bringt, dass er an deiner Entschlossenheit zweifelt, dass er nicht erkennt-
 
 Du bist so nah, dass du seinen sauren Atem riechen kannst, als er dich schubst.</DefaultText>
       <FemaleText />

@@ -235,7 +235,7 @@ Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam,
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Hilfe! Bitte, hilf mir!" 
+      <DefaultText>„Hilfe! Bitte, hilf mir!“ 
 
 Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite des Hauses gefangen. Das Feuer hat sich über die Dielen ausgebreitet und blockiert jeden Fluchtweg.</DefaultText>
       <FemaleText />
@@ -281,7 +281,7 @@ Das Feuer zieht sich vor dem Angriff der Kälte zurück, es entsteht ein schmale
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!" 
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“ 
 
 Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
@@ -422,12 +422,12 @@ Die Luft fühlt sich dick und heiß an. Das Gebäude ist ein einziges Labyrinth 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
-      <FemaleText>"Du bist also nicht nur eine Plünderin!" Er lacht erleichtert auf.
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
+      <FemaleText>„Du bist also nicht nur eine Plünderin!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Slot 0] vorbeizudrängen.</FemaleText>
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Slot 0] vorbeizudrängen.</FemaleText>
     </Entry>
     <Entry>
       <ID>78</ID>
@@ -733,7 +733,7 @@ Das Holz ist jedoch zu schwer zum Heben, du ziehst es mühsam herbei.</DefaultTe
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Hilfe! Bitte, hilf mir!" 
+      <DefaultText>„Hilfe! Bitte, hilf mir!“ 
 
 Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite des Hauses gefangen. Das Feuer hat sich über die Dielen ausgebreitet und blockiert jeden Fluchtweg.</DefaultText>
       <FemaleText />
@@ -772,14 +772,14 @@ Die Frostmagie erstickt das Feuer und bietet gnadenvolle Erholung von der drück
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!"
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“
 
 Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
@@ -1040,16 +1040,16 @@ Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam,
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!"
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“
 
 Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1059,14 +1059,14 @@ Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!" 
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“ 
 
 Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
@@ -1078,14 +1078,14 @@ Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!" 
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“ 
 
 Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
@@ -1097,14 +1097,14 @@ Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>638</ID>
-      <DefaultText>"Du bist also nicht nur zum Plündern hier!" Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
 
-"Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden." Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>"Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!"
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“
 
 Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />

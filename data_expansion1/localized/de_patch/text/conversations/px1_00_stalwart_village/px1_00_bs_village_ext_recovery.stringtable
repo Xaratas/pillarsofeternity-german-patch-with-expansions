@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Das ganze Blut ... hier sieht es aus wie in der Fischerei."</DefaultText>
+      <DefaultText>„Das ganze Blut&#160;… hier sieht es aus wie in der Fischerei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich hab gesehen, wie die Oger einen Mann entzweigerissen haben. Bei den Göttern."</DefaultText>
+      <DefaultText>„Ich hab gesehen, wie die Oger einen Mann entzweigerissen haben. Bei den Göttern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Nicht einmal Renengild konnte das kommen sehen."</DefaultText>
+      <DefaultText>„Nicht einmal Renengild konnte das kommen sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich kann nicht hier bleiben und auf das nächste Gemetzel warten."</DefaultText>
+      <DefaultText>„Ich kann nicht hier bleiben und auf das nächste Gemetzel warten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Und Uldric hat immer gesagt, sie wären friedlich. Dieser junge Narr."</DefaultText>
+      <DefaultText>„Und Uldric hat immer gesagt, sie wären friedlich. Dieser junge Narr.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

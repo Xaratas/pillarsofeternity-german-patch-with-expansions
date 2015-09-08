@@ -20,14 +20,14 @@ Ardhel und Badrwn schwimmen neben dir. Sie verausgaben sich völlig, um dich zu 
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Gib auf, Garodh!" Ardhel überholt dich, und obwohl du dich noch so sehr anstrengst, kannst du nicht mehr aufschließen.
+      <DefaultText>„Gib auf, Garodh!“ Ardhel überholt dich, und obwohl du dich noch so sehr anstrengst, kannst du nicht mehr aufschließen.
 
 Du blickst dich nach Badrwn um. Es ist purer Zufall, dass du den Kopf der Seeschlange siehst, die sich eurer Gruppe nähert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ein Helm ... ja. Mein Helm. Ich erinnere mich an ihn. Aber wer war ich? Warum bin ich nicht in das Rad zurückgekehrt?"</DefaultText>
+      <DefaultText>„Ein Helm&#160;… ja. Mein Helm. Ich erinnere mich an ihn. Aber wer war ich? Warum bin ich nicht in das Rad zurückgekehrt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -44,9 +44,9 @@ Du hältst dich mit aller Kraft fest, doch mit jedem Atemzug verlierst du Blut u
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?"
+      <DefaultText>„Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?“
 
-Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!"</DefaultText>
+Garodh blickt auf seine Hände. „Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,9 +58,9 @@ Das Letzte, woran du dich je erinnerst, sind die Hände deines Volkes, die sich 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Er seufzt. "Das Rad hat offenbar keine Geduld.
+      <DefaultText>Er seufzt. „Das Rad hat offenbar keine Geduld.“
 
-"Ich vertraue meinen Helm deiner Obhut an."</DefaultText>
+„Ich vertraue meinen Helm deiner Obhut an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -169,12 +169,12 @@ Im letzten Augenblick wirst du dich zur Seite, als die Schlange ihr Maul zuschl�
       <ID>75</ID>
       <DefaultText>Du springst an der Kreatur vorbei, bevor sie reagieren kann, und sprintest aus der Hütte. Die Kreatur verfolgt dich nicht und richtet ihre Aufmerksamkeit auf Caitha.
 
-Die Schmerzensschreie deiner Schwester und das Knurren der Kreatur verklingen ...</DefaultText>
+Die Schmerzensschreie deiner Schwester und das Knurren der Kreatur verklingen&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Was sollen wir nur tun, Garodh?" 
+      <DefaultText>„Was sollen wir nur tun, Garodh?“ 
 
 Deine Schwester, Caitha, kauert neben dir. Ihre Augen sind weit geöffnet und starren auf die verbarrikadierte Tür der Hütte. Von außen krachen schwere Hiebe gegen die Tür. Sie bebt und splittert. Zorniges Knurren ist von jenseits der Tür zu hören.</DefaultText>
       <FemaleText />
@@ -207,7 +207,7 @@ Sie bemerkt nicht, dass du geduckt neben der Tür sitzt.</DefaultText>
       <ID>84</ID>
       <DefaultText>Du rammst das Horn tief in den Rücken der Kreatur. Sie heult auf und windet sich vor Schmerzen. Caitha huscht an der Kreatur vorbei aus der Hütte, du folgst ihr auf den Fersen.
 
-Das Brüllen der Kreatur verklingt ...</DefaultText>
+Das Brüllen der Kreatur verklingt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,12 +224,12 @@ Das Brüllen der Kreatur verklingt ...</DefaultText>
       <ID>88</ID>
       <DefaultText>Jeder Atemzug ist eine Qual, aber du umklammerst trotzig das Horn, als die Kreatur sich nähert.
 
-Das Knurren der Kreatur und dein eigener schwerer Atem verklingen ...</DefaultText>
+Das Knurren der Kreatur und dein eigener schwerer Atem verklingen&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"So ist es gewesen? Es ist so lange her. Ich erinnere mich kaum."</DefaultText>
+      <DefaultText>„So ist es gewesen? Es ist so lange her. Ich erinnere mich kaum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +244,7 @@ Das Knurren der Kreatur und dein eigener schwerer Atem verklingen ...</DefaultTe
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Erbärmlich." Du hörst die Füße des anderen Kriegers in der Nähe deines Kopfes knirschen. Blitzschnell rammst du das Horn nach oben in den ungepanzerten Schritt deines Gegners.
+      <DefaultText>„Erbärmlich.“ Du hörst die Füße des anderen Kriegers in der Nähe deines Kopfes knirschen. Blitzschnell rammst du das Horn nach oben in den ungepanzerten Schritt deines Gegners.
 
 Er brüllt vor Schmerzen auf, aber du stichst wieder und wieder zu, bis er verstummt.</DefaultText>
       <FemaleText />
@@ -270,17 +270,17 @@ Der anfängliche Jubel deines Stammes verstummt, als du von der Begegnung mit de
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Galawain hat heute über dich gewacht, Garodh." Der Häuptling legt seine Hand auf deine Schulter.</DefaultText>
+      <DefaultText>„Galawain hat heute über dich gewacht, Garodh.“ Der Häuptling legt seine Hand auf deine Schulter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Ein Jammer, dass deiner Schwester an jenem schrecklichen Tag nicht ebensolches Glück beschieden war, Garodh." Der Häuptling legt seine Hand auf deine Schulter.</DefaultText>
+      <DefaultText>„Ein Jammer, dass deiner Schwester an jenem schrecklichen Tag nicht ebensolches Glück beschieden war, Garodh.“ Der Häuptling legt seine Hand auf deine Schulter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Du wirst sterben, alter Mann." Dein Gegner ist arrogant, aber auch jung und stark. "Hältst du ein Duell immer noch für eine gute Idee?"
+      <DefaultText>„Du wirst sterben, alter Mann.“ Dein Gegner ist arrogant, aber auch jung und stark. „Hältst du ein Duell immer noch für eine gute Idee?“
 
 Das tust du. Die Hungersnot im letzten Winter hat deinem Stamm schwer zugesetzt. Deine Krieger waren nicht in der Lage, einen Angriff eurer Feinde abzuwehren. Ein Duell war die einzige Hoffnung deines Stammes.
 
@@ -301,61 +301,61 @@ Du bist älter und langsamer, aber du bist immer noch stark. Du packst den Kopf 
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Danke, mein Freund."</DefaultText>
-      <FemaleText>"Danke, meine Freundin."</FemaleText>
+      <DefaultText>„Danke, mein Freund.“</DefaultText>
+      <FemaleText>„Danke, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Ich finde die anderen Teile deines Helms."</DefaultText>
+      <DefaultText>„Ich finde die anderen Teile deines Helms.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ich hatte die Vision, als ich ein Horn aufgehoben habe. Offenbar Teil eines Helms."</DefaultText>
+      <DefaultText>„Ich hatte die Vision, als ich ein Horn aufgehoben habe. Offenbar Teil eines Helms.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Ich hatte die Vision, als ich diesen ramponierten Helm aufgehoben habe. Seine Hörner fehlen."</DefaultText>
+      <DefaultText>„Ich hatte die Vision, als ich diesen ramponierten Helm aufgehoben habe. Seine Hörner fehlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Wenn du wüsstest, wer du warst, würdest du vielleicht auch wissen, ob es an der Zeit ist, die Vergangenheit hinter dir zu lassen."</DefaultText>
+      <DefaultText>„Wenn du wüsstest, wer du warst, würdest du vielleicht auch wissen, ob es an der Zeit ist, die Vergangenheit hinter dir zu lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Dieser Helm ist alles, was von meinem alten Leben übrig ist. Wenn du etwas von mir in einem Teil davon gefunden hast, sind meine Erinnerungen vielleicht mit dem Rest des Helms verstreut."</DefaultText>
+      <DefaultText>„Dieser Helm ist alles, was von meinem alten Leben übrig ist. Wenn du etwas von mir in einem Teil davon gefunden hast, sind meine Erinnerungen vielleicht mit dem Rest des Helms verstreut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?"
+      <DefaultText>„Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?“
 
-Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!"</DefaultText>
+Garodh blickt auf seine Hände. „Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?"
+      <DefaultText>„Das Rennen. Wie konnte ich vergessen, was an jenem Tag geschehen ist?“
 
-Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!"</DefaultText>
+Garodh blickt auf seine Hände. „Ich erinnere mich jetzt, aber ich fühle mich noch nicht anders. Bitte, du musst den letzten Teil meines Helms finden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Danke, mein Freund."</DefaultText>
-      <FemaleText>"Danke, meine Freundin."</FemaleText>
+      <DefaultText>„Danke, mein Freund.“</DefaultText>
+      <FemaleText>„Danke, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Danke, mein Freund."</DefaultText>
-      <FemaleText>"Danke, meine Freundin."</FemaleText>
+      <DefaultText>„Danke, mein Freund.“</DefaultText>
+      <FemaleText>„Danke, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ja ... ja, ich erinnere mich an alles! Meine Schwester, meine Herrschaft, das Ende."</DefaultText>
+      <DefaultText>„Ja&#160;… ja, ich erinnere mich an alles! Meine Schwester, meine Herrschaft, das Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,12 +365,12 @@ Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich n
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Leb wohl, Garodh."</DefaultText>
+      <DefaultText>„Leb wohl, Garodh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Habe ich jetzt auch irgendetwas von der Sache, oder ... ?"</DefaultText>
+      <DefaultText>„Habe ich jetzt auch irgendetwas von der Sache, oder&#160;… ?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,18 +380,18 @@ Garodh blickt auf seine Hände. "Ich erinnere mich jetzt, aber ich fühle mich n
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Leb wohl, mein Freund."</DefaultText>
-      <FemaleText>"Leb wohl, meine Freundin."</FemaleText>
+      <DefaultText>„Leb wohl, mein Freund.“</DefaultText>
+      <FemaleText>„Leb wohl, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Leb wohl, mein Freund."</DefaultText>
-      <FemaleText>"Leb wohl, meine Freundin."</FemaleText>
+      <DefaultText>„Leb wohl, mein Freund.“</DefaultText>
+      <FemaleText>„Leb wohl, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Leb wohl, mein Freund."</DefaultText>
-      <FemaleText>"Leb wohl, meine Freundin."</FemaleText>
+      <DefaultText>„Leb wohl, mein Freund.“</DefaultText>
+      <FemaleText>„Leb wohl, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -412,7 +412,7 @@ Holzsplitter von der Tür schweben reglos in der Luft. Caitha zittert nicht mehr
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Wenn der Helm wieder zusammengefügt wird, findet sich vielleicht Frieden."</DefaultText>
+      <DefaultText>„Wenn der Helm wieder zusammengefügt wird, findet sich vielleicht Frieden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,9 +424,9 @@ Wenn du dich aber darauf konzentrierst, was als nächstes geschehen sein könnte
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Oh!" Garodh blickt traurig überrascht auf seine eigene geisterhafte Gestalt, die langsam verblasst. 
+      <DefaultText>„Oh!“ Garodh blickt traurig überrascht auf seine eigene geisterhafte Gestalt, die langsam verblasst. 
 
-"Aber ich habe es doch gerade erst gesehen! Es war zu kurz, um es zu verstehen."</DefaultText>
+„Aber ich habe es doch gerade erst gesehen! Es war zu kurz, um es zu verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

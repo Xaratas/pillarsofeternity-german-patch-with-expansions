@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich hoffe, es war richtig, Beregan zu töten. Wenn du nämlich wieder in wärmere Gefilde ziehst, werden ihre Leute sich an UNS rächen." Er verschränkt die Arme und blickt dich mit müden, zweifelnden Augen an.</DefaultText>
+      <DefaultText>„Ich hoffe, es war richtig, Beregan zu töten. Wenn du nämlich wieder in wärmere Gefilde ziehst, werden ihre Leute sich an UNS rächen.“ Er verschränkt die Arme und blickt dich mit müden, zweifelnden Augen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich habe mich wohl in dir getäuscht. Die meisten Abenteurer kommen nur wegen Gold und Ruhm und lassen nichts als Ärger zurück. Du bist anders."</DefaultText>
+      <DefaultText>„Ich habe mich wohl in dir getäuscht. Die meisten Abenteurer kommen nur wegen Gold und Ruhm und lassen nichts als Ärger zurück. Du bist anders.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Er spuckt in das Feuer. "Was willst du?"</DefaultText>
+      <DefaultText>Er spuckt in das Feuer. „Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es war richtig, dass du mit Beregan verhandelt hast. Diese Meinung werden hier nicht viele teilen, aber ich wollte, dass du das weißt." Er nickt dir nachdenklich zu, ehe er sich wieder dem Feuer zuwendet.</DefaultText>
+      <DefaultText>„Es war richtig, dass du mit Beregan verhandelt hast. Diese Meinung werden hier nicht viele teilen, aber ich wollte, dass du das weißt.“ Er nickt dir nachdenklich zu, ehe er sich wieder dem Feuer zuwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Brauchst du sonst noch etwas?"</DefaultText>
+      <DefaultText>„Brauchst du sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Du scheinst in vielen Dingen nicht Renengilds Meinung zu sein."</DefaultText>
+      <DefaultText>„Du scheinst in vielen Dingen nicht Renengilds Meinung zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was tust du hier?"</DefaultText>
+      <DefaultText>„Was tust du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,22 +46,22 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Mutter ist überzeugt, dass eine magische Esse dieses gefrorene Land in ein Zentrum der Zivilisation verwandeln wird. Sie sieht einfach nicht ein, dass dieses Dorf stirbt."</DefaultText>
+      <DefaultText>Er zuckt mit den Schultern. „Mutter ist überzeugt, dass eine magische Esse dieses gefrorene Land in ein Zentrum der Zivilisation verwandeln wird. Sie sieht einfach nicht ein, dass dieses Dorf stirbt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich bin Schreiner. Mutter ist im Baugewerbe, daher bot sich das an." Er verzieht die Lippen zu einem schmalen Strich.</DefaultText>
+      <DefaultText>„Ich bin Schreiner. Mutter ist im Baugewerbe, daher bot sich das an.“ Er verzieht die Lippen zu einem schmalen Strich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Nicht, dass es viele neue Häuser oder Möbel zu bauen gäbe. Die meiste Zeit bin ich damit beschäftigt, die Palisaden zu reparieren."</DefaultText>
+      <DefaultText>„Nicht, dass es viele neue Häuser oder Möbel zu bauen gäbe. Die meiste Zeit bin ich damit beschäftigt, die Palisaden zu reparieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du greifst nach Uldrics Essenz ... und starrst plötzlich auf einen Zaunpfahl, der in einer schmutzigen Pfütze aus gefrorenem Schlamm liegt.
+      <DefaultText>Du greifst nach Uldrics Essenz&#160;… und starrst plötzlich auf einen Zaunpfahl, der in einer schmutzigen Pfütze aus gefrorenem Schlamm liegt.
 
 Schnee sammelt sich um deine Beine und tropft in deine Stiefel. Selbst durch mehrere Schichten Felle hindurch spürst du den kalten Wind.
 
@@ -70,27 +70,27 @@ Du hältst einen Holzmeißel in der einen tauben Hand, einen Hammer in der ander
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Du hast gesagt, ich sollte Frieden mit Matronin Beregan schließen."</DefaultText>
+      <DefaultText>„Du hast gesagt, ich sollte Frieden mit Matronin Beregan schließen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Das ist das Einzige, was die Leute hier noch nicht probiert haben. Wieder eine Matronin zu töten wird nicht lange etwas ändern." Er schüttelt den Kopf.</DefaultText>
+      <DefaultText>„Das ist das Einzige, was die Leute hier noch nicht probiert haben. Wieder eine Matronin zu töten wird nicht lange etwas ändern.“ Er schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Außerdem gehört sie zum Clan Flammen-die-flüstern. Unsere Angreifer aber stammten vom Clan Wolf-mit-vielen-Mäulern. Ich würde sie überall erkennen."</DefaultText>
+      <DefaultText>„Außerdem gehört sie zum Clan Flammen-die-flüstern. Unsere Angreifer aber stammten vom Clan Wolf-mit-vielen-Mäulern. Ich würde sie überall erkennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich würde gerne einfach nach vorne sehen." Er zieht die Sohle seines Stiefels über die geraden, aber verwitterten Dielen.</DefaultText>
+      <DefaultText>„Ich würde gerne einfach nach vorne sehen.“ Er zieht die Sohle seines Stiefels über die geraden, aber verwitterten Dielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,47 +118,47 @@ Du musst fort aus dieser Stadt.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Du hast es wirklich geschafft. Du hast die Weiße Esse gefunden. Nun werden wir sehen, ob sie Stalwart wirklich helfen kann." Er blickt zu Renengild.</DefaultText>
+      <DefaultText>„Du hast es wirklich geschafft. Du hast die Weiße Esse gefunden. Nun werden wir sehen, ob sie Stalwart wirklich helfen kann.“ Er blickt zu Renengild.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <DefaultText>„Du siehst aus wie jemand, der ein Geheimnis kennt.“ Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Weißt du etwas über Durgans Batterie?"</DefaultText>
+      <DefaultText>„Weißt du etwas über Durgans Batterie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sie ist ein Luftschloss. Ein Traum, der dafür gesorgt hat, dass die Leute länger hier ausgeharrt haben, als es jemals sinnvoll war." Er überblickt das alte Haus und die abgewetzten Möbel.</DefaultText>
+      <DefaultText>„Sie ist ein Luftschloss. Ein Traum, der dafür gesorgt hat, dass die Leute länger hier ausgeharrt haben, als es jemals sinnvoll war.“ Er überblickt das alte Haus und die abgewetzten Möbel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Die Pargrun-Zwerge haben den Durganstahl erfunden. Das hat ihnen Macht und Reichtum beschert."</DefaultText>
+      <DefaultText>„Die Pargrun-Zwerge haben den Durganstahl erfunden. Das hat ihnen Macht und Reichtum beschert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Und dann, eines Tages, haben sie ihre Türen verriegelt und sind gestorben." Er zuckt mit den Schultern und breitet die Hände aus.</DefaultText>
+      <DefaultText>„Und dann, eines Tages, haben sie ihre Türen verriegelt und sind gestorben.“ Er zuckt mit den Schultern und breitet die Hände aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Nichts erregt die Leute mehr als ein Geheimnis. Fast ganz Stalwart ist überzeugt, dass uns irgendein Geheimnis der Pargrun retten wird."</DefaultText>
+      <DefaultText>„Nichts erregt die Leute mehr als ein Geheimnis. Fast ganz Stalwart ist überzeugt, dass uns irgendein Geheimnis der Pargrun retten wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Aber das hält sie nicht davon ab, ein Gebet zu murmeln, wenn sie an der alten Festung vorbeigehen." Er lächelt verbittert.</DefaultText>
+      <DefaultText>„Aber das hält sie nicht davon ab, ein Gebet zu murmeln, wenn sie an der alten Festung vorbeigehen.“ Er lächelt verbittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Sie sind aus demselben Holz geschnitzt, Uldric. Es ist nur eine Frage der Zeit, ehe Beregan durch diese Lücke in unseren Mauern marschiert."
+      <DefaultText>„Sie sind aus demselben Holz geschnitzt, Uldric. Es ist nur eine Frage der Zeit, ehe Beregan durch diese Lücke in unseren Mauern marschiert.“
 
 Beim Klang von Renengilds Stimme richten sich Uldrics Schultern auf. Er presst den Kiefer zusammen und verkneift sich eine wütende Antwort.</DefaultText>
       <FemaleText />
@@ -170,52 +170,52 @@ Beim Klang von Renengilds Stimme richten sich Uldrics Schultern auf. Er presst d
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <DefaultText>„Ihr Verstand füllt sich mit Fragen&#160;… mit Berechnungen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <DefaultText>„Hui, ist das plötzlich warm hier!“ Er lacht betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <DefaultText>„Das reicht.“ Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <DefaultText>„Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
-      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+      <DefaultText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</DefaultText>
+      <FemaleText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <DefaultText>„Sie blickt dich an, wie attraktive Löwinnen mich anblicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <DefaultText>„Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Aber es könnte Spaß machen."</DefaultText>
+      <DefaultText>„Aber es könnte Spaß machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,12 +225,12 @@ Beim Klang von Renengilds Stimme richten sich Uldrics Schultern auf. Er presst d
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Das hier ist dein Zuhause. Das kannst du nicht einfach aufgeben."</DefaultText>
+      <DefaultText>„Das hier ist dein Zuhause. Das kannst du nicht einfach aufgeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Was denn aufgeben? Hier gibt es nichts." Er zieht die Sohle seines Stiefels über die geraden, aber verwitterten Dielen.</DefaultText>
+      <DefaultText>„Was denn aufgeben? Hier gibt es nichts.“ Er zieht die Sohle seines Stiefels über die geraden, aber verwitterten Dielen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

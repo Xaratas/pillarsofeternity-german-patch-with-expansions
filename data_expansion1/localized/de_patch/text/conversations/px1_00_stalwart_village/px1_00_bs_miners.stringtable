@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Unglaublich, dass wir die Mine wieder in Gang bringen."</DefaultText>
+      <DefaultText>„Unglaublich, dass wir die Mine wieder in Gang bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Taena trommelt alle Leute zusammen, aber keiner weiß warum ..."</DefaultText>
+      <DefaultText>„Taena trommelt alle Leute zusammen, aber keiner weiß warum&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Legt euch ins Zeug! Wir schaffen das."</DefaultText>
+      <DefaultText>„Legt euch ins Zeug! Wir schaffen das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Jetzt, wo die Batterie geöffnet ist, werden aus aller Welt Händler kommen."</DefaultText>
+      <DefaultText>„Jetzt, wo die Batterie geöffnet ist, werden aus aller Welt Händler kommen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

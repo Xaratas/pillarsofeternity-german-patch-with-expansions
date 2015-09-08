@@ -20,7 +20,7 @@ Dir war nie bewusst gewesen, wie sehr deine Nachbarn stinken. Wie sie aber in di
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wie viel hat die alte Schlange dir gezahlt, Cyneheod?" Es ist der Grynde, der Oberfischer, der mit einem Finger zornig in den hinteren Teil des Raumes deutet. Cyneheod, der ehemalige Bürgermeister, windet sich in einer Ecke, in die er durch die vorwurfsvollen Blicke des gesamten Dorfes gedrängt wurde.
+      <DefaultText>„Wie viel hat die alte Schlange dir gezahlt, Cyneheod?“ Es ist der Grynde, der Oberfischer, der mit einem Finger zornig in den hinteren Teil des Raumes deutet. Cyneheod, der ehemalige Bürgermeister, windet sich in einer Ecke, in die er durch die vorwurfsvollen Blicke des gesamten Dorfes gedrängt wurde.
 
 Oh, diese Augen. Es sind grausame, animalische Augen. Sie beobachten Cyneheod mit der tumben Fresssucht von Schweinen, die auf ihren Futtertrog starren.</DefaultText>
       <FemaleText />
@@ -32,7 +32,7 @@ Oh, diese Augen. Es sind grausame, animalische Augen. Sie beobachten Cyneheod mi
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Eine Frau in der Menge ballt ihre Faust in der Luft. "Du dachtest, du würdest eine MÖRDERIN in unserer Mitte freilassen?" Die Menge stimmt ihr lauthals zu. Was als kollektives Gemurmel begann, schwillt zu einem regelrechten Gewitter an.
+      <DefaultText>Eine Frau in der Menge ballt ihre Faust in der Luft. „Du dachtest, du würdest eine MÖRDERIN in unserer Mitte freilassen?“ Die Menge stimmt ihr lauthals zu. Was als kollektives Gemurmel begann, schwillt zu einem regelrechten Gewitter an.
 
 Du blickst zurück zu deinem Mann. Er flüstert Uldric etwas zu, aber als sich eure Blicke treffen, fleht er dich stumm an.</DefaultText>
       <FemaleText />
@@ -62,7 +62,7 @@ Also bahnst du dir deinen Weg ans andere Ende des Raums, wo Cyneheod in einer Pf
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Genug." Deine Stimme kocht aus deiner Kehle hoch. Die anderen verstummen und blicken dich an.
+      <DefaultText>„Genug.“ Deine Stimme kocht aus deiner Kehle hoch. Die anderen verstummen und blicken dich an.
 
 Sie hören zu, mit blindem Vertrauen, als du Cyneheods Todesstrafe umwandelst in die Verbannung. Niemand widerspricht dir, als du erklärst, dass er allein aus diesem Dorf marschieren wird, in irgendeinen jämmerlichen Weiler, der bereit ist, ihn aufzunehmen. Sie stimmen stumm zu, als du erklärst, dass ihre Hände zu sauber sind, um sich mit ihm abzugeben.</DefaultText>
       <FemaleText />
@@ -93,128 +93,128 @@ Nur einer sieht dich nicht an. Dein Mann. Er schüttelt den Kopf, die Augen auf 
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wir haben hier seit Jahrzehnten Probleme mit Schmugglern. Der legale Handel versiegt und kriminelle Organisationen reißen die Straßen an sich."
+      <DefaultText>„Wir haben hier seit Jahrzehnten Probleme mit Schmugglern. Der legale Handel versiegt und kriminelle Organisationen reißen die Straßen an sich.“
 
 Sie nimmt das Päckchen und hält es in die Luft wie eine Jagdtrophäe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Es ist nicht leicht, die Gauner von den ehrlichen Händlern zu unterscheiden. Oder Reisenden. Oder Abenteurern." Sie lächelt dir leicht zu.</DefaultText>
+      <DefaultText>„Es ist nicht leicht, die Gauner von den ehrlichen Händlern zu unterscheiden. Oder Reisenden. Oder Abenteurern.“ Sie lächelt dir leicht zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Aber du hast gute Arbeit geleistet, und dafür danke ich dir. Nimm das."</DefaultText>
+      <DefaultText>„Aber du hast gute Arbeit geleistet, und dafür danke ich dir. Nimm das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wer? Tut mir leid, der Name sagt mir nichts."
+      <DefaultText>„Wer? Tut mir leid, der Name sagt mir nichts.“
 
 Ihre Stirn legt sich in Falten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Die letzte Expedition, der ich begegnet bin, ist vor Wochen verschwunden. Sie haben ihre Namen nicht erwähnt, aber sie sind definitiv nicht wieder zurückgekehrt."</DefaultText>
+      <DefaultText>„Die letzte Expedition, der ich begegnet bin, ist vor Wochen verschwunden. Sie haben ihre Namen nicht erwähnt, aber sie sind definitiv nicht wieder zurückgekehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Das heißt aber nicht, dass diese 'Feara' nicht zu einer Expedition gehörte. Gelegentlich kommen hier Gruppen vorbei, die ihrem Glück hinterherjagen."</DefaultText>
+      <DefaultText>„Das heißt aber nicht, dass diese 'Feara' nicht zu einer Expedition gehörte. Gelegentlich kommen hier Gruppen vorbei, die ihrem Glück hinterherjagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wir wurden zu Kolonialzeiten von Aedyr gegründet, um das Kaiserreich mit Erz zu versorgen. Damals gab es regen Verkehr von beiden Seiten der Weißmark." Sie reibt an der verstummelten Spitze ihres Ringfingers.</DefaultText>
+      <DefaultText>„Wir wurden zu Kolonialzeiten von Aedyr gegründet, um das Kaiserreich mit Erz zu versorgen. Damals gab es regen Verkehr von beiden Seiten der Weißmark.“ Sie reibt an der verstummelten Spitze ihres Ringfingers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Aber nachdem der Dyrwald sich für unabhängig erklärte, fand Trutzbucht billigere Orte, um Erz zu beschaffen. Es gab keinen Grund mehr, unsere Versorgungsstraßen aufrechtzuerhalten."</DefaultText>
+      <DefaultText>„Aber nachdem der Dyrwald sich für unabhängig erklärte, fand Trutzbucht billigere Orte, um Erz zu beschaffen. Es gab keinen Grund mehr, unsere Versorgungsstraßen aufrechtzuerhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Gehört Stalwart denn nicht zum Dyrwald?"</DefaultText>
+      <DefaultText>„Gehört Stalwart denn nicht zum Dyrwald?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Offiziell schon. Aber am Zustand der Straßen ist es nicht zu erkennen."</DefaultText>
+      <DefaultText>„Offiziell schon. Aber am Zustand der Straßen ist es nicht zu erkennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Welche Orte sollte ich in der Stadt kennen?"</DefaultText>
+      <DefaultText>„Welche Orte sollte ich in der Stadt kennen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Hier in der Stadtmitte? Mal sehen. Die Gréfenrast ist nebenan - bei Haeferic findest du ein Zimmer und eine warme Mahlzeit."</DefaultText>
+      <DefaultText>„Hier in der Stadtmitte? Mal sehen. Die Gréfenrast ist nebenan - bei Haeferic findest du ein Zimmer und eine warme Mahlzeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Die Fischerei liegt am Ufer des Sees. Direkt daneben findest du den Ondra-Tempel. Niemand kann besser Geheimnisse hüten als Lafda. Sagt man jedenfalls."</DefaultText>
+      <DefaultText>„Die Fischerei liegt am Ufer des Sees. Direkt daneben findest du den Ondra-Tempel. Niemand kann besser Geheimnisse hüten als Lafda. Sagt man jedenfalls.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Es leben auch einige Leute in diesem Teil der Stadt. Bevor die Oger das Westtor durchbrachen, war es hier recht sicher."</DefaultText>
+      <DefaultText>„Es leben auch einige Leute in diesem Teil der Stadt. Bevor die Oger das Westtor durchbrachen, war es hier recht sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Was tust du hier?"</DefaultText>
+      <DefaultText>„Was tust du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ich bin die Bürgermeisterin. Jedenfalls erinnert man mich gerne daran, wenn einmal das Wild knapp ist, die Oger angreifen oder zwei Nachbarn sich streiten."</DefaultText>
+      <DefaultText>„Ich bin die Bürgermeisterin. Jedenfalls erinnert man mich gerne daran, wenn einmal das Wild knapp ist, die Oger angreifen oder zwei Nachbarn sich streiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Von Berufs wegen bin ich aber im Baugewerbe. In jüngeren Jahren habe ich ganz Eir Glanfath und den ganzen Dyrwald bereist. Am Ende bin ich aber doch wieder hier gelandet." Sie lächelt leicht, doch das Lächeln verschwindet so schnell, wie es gekommen ist.</DefaultText>
+      <DefaultText>„Von Berufs wegen bin ich aber im Baugewerbe. In jüngeren Jahren habe ich ganz Eir Glanfath und den ganzen Dyrwald bereist. Am Ende bin ich aber doch wieder hier gelandet.“ Sie lächelt leicht, doch das Lächeln verschwindet so schnell, wie es gekommen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
+      <DefaultText>„Sprechen wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Sie haben nicht viel gesagt. Und ich hielt es für besser, nicht zu fragen." Sie kratzt sich am Kinn und runzelt die Stirn.</DefaultText>
+      <DefaultText>„Sie haben nicht viel gesagt. Und ich hielt es für besser, nicht zu fragen.“ Sie kratzt sich am Kinn und runzelt die Stirn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich habe hier schon alle möglichen Leute gesehen. Große Unternehmen mit glänzender neuer Ausrüstung, die glauben, ihnen gehöre die Welt. Und arme Schlucker mit nichts als ein paar Lederfetzen."</DefaultText>
+      <DefaultText>„Ich habe hier schon alle möglichen Leute gesehen. Große Unternehmen mit glänzender neuer Ausrüstung, die glauben, ihnen gehöre die Welt. Und arme Schlucker mit nichts als ein paar Lederfetzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Aber diese Kerle ... Ich weiß nicht, worauf sie es abgesehen haben. Und wie sie dich angesehen haben ... da läuft es einem kalt den Rücken runter."
+      <DefaultText>„Aber diese Kerle&#160;… Ich weiß nicht, worauf sie es abgesehen haben. Und wie sie dich angesehen haben&#160;… da läuft es einem kalt den Rücken runter.“
 
 Sie schüttelt den Kopf, als würde sie einen Albtraum abschütteln wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Mehr kann ich dir leider nicht sagen."</DefaultText>
+      <DefaultText>„Mehr kann ich dir leider nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <DefaultText>„Du siehst aus wie jemand, der ein Geheimnis kennt.“ Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Vermutlich im Rotwald, beim Holzfällen."</DefaultText>
+      <DefaultText>„Vermutlich im Rotwald, beim Holzfällen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,22 +224,22 @@ Sie schüttelt den Kopf, als würde sie einen Albtraum abschütteln wollen.</Def
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Warum willst du das wissen?" Sie hebt eine Augenbraue.</DefaultText>
+      <DefaultText>„Warum willst du das wissen?“ Sie hebt eine Augenbraue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Reine Neugier."</DefaultText>
+      <DefaultText>„Reine Neugier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Lügen] "Ich brauche Brennholz."</DefaultText>
+      <DefaultText>[Lügen] „Ich brauche Brennholz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ein Freund hat mich gefragt."</DefaultText>
+      <DefaultText>„Ein Freund hat mich gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,17 +249,17 @@ Sie schüttelt den Kopf, als würde sie einen Albtraum abschütteln wollen.</Def
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Nun, wenn du ihn nicht findest, komm einfach später wieder."</DefaultText>
+      <DefaultText>„Nun, wenn du ihn nicht findest, komm einfach später wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Dann geh nach Norden, nachdem du die Stadt verlassen hast. Er geht manchmal mit seinen Männern jagen, aber wahrscheinlich findest du ihn auf einer Lichtung im Wald."</DefaultText>
+      <DefaultText>„Dann geh nach Norden, nachdem du die Stadt verlassen hast. Er geht manchmal mit seinen Männern jagen, aber wahrscheinlich findest du ihn auf einer Lichtung im Wald.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Thyrsc lebt neben dem alten Minenschacht. Und Taena, die alte Aufseherin, wohnt neben mir." Sie zeigt mit dem Daumen auf die Wand.</DefaultText>
+      <DefaultText>„Thyrsc lebt neben dem alten Minenschacht. Und Taena, die alte Aufseherin, wohnt neben mir.“ Sie zeigt mit dem Daumen auf die Wand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -269,39 +269,39 @@ Sie schüttelt den Kopf, als würde sie einen Albtraum abschütteln wollen.</Def
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete."</DefaultText>
+      <DefaultText>„Ich habe mal einen vailianischen Kriminalroman gelesen, der so begann. Und schlecht endete.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?"</DefaultText>
+      <DefaultText>„Du willst dieser Frau die Rache geben, nach der sie sich so sehnt? Was soll daraus Gutes entstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen."</DefaultText>
+      <DefaultText>„Wir machen das doch nicht wirklich, oder? Bitte sag mir, dass wir das nicht machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt."</DefaultText>
+      <DefaultText>„Du solltest diesen Racheplan nicht zu weit verfolgen. Vielleicht bringt er ihr ein gewisses Maß an Befriedigung, aber ich bezweifle, dass er uns etwas Gutes bringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen."
+      <DefaultText>„Keine Sorge, wir haben nicht vor, ihn zu töten oder dergleichen.“
 
 Er zwinkert dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter."</DefaultText>
-      <FemaleText>"Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin."</FemaleText>
+      <DefaultText>„Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächter.“</DefaultText>
+      <FemaleText>„Die metallene Missgeburt hat ihre Klauen tief in dein Fleisch gehauen. Daraus kann nichts Gutes entstehen, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Harmke? Ach ja, der Kerl, den die Teufelin-"
+      <DefaultText>„Harmke? Ach ja, der Kerl, den die Teufelin-“
 
 Die Teufelin von Caroc wirft Hiravias einen Blick zu. Er schließt seinen Mund und bedeckt ihn mit einer Hand.
 
@@ -310,12 +310,12 @@ Er blickt Renengild an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe ..."</DefaultText>
+      <DefaultText>„Sind wir jetzt die Nebendarsteller in einer Racheballade? Die überleben nämlich nie bis zur letzten Strophe&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt."</DefaultText>
+      <DefaultText>„Frei von Rache kann man nur sein, wenn man nie danach trachtet. Sich umdreht, weggeht und niemals zurückblickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,47 +325,47 @@ Er blickt Renengild an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <DefaultText>„Ihr Verstand füllt sich mit Fragen&#160;… mit Berechnungen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <DefaultText>„Hui, ist das plötzlich warm hier!“ Er lacht betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <DefaultText>„Das reicht.“ Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <DefaultText>„Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
-      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+      <DefaultText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</DefaultText>
+      <FemaleText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <DefaultText>„Sie blickt dich an, wie attraktive Löwinnen mich anblicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <DefaultText>„Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,22 +375,22 @@ Er blickt Renengild an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Vielleicht finden wir in der Batterie selbst noch mehr, ja?" Er nickt dir mit einem vorsichtigen Blick zu.</DefaultText>
+      <DefaultText>„Vielleicht finden wir in der Batterie selbst noch mehr, ja?“ Er nickt dir mit einem vorsichtigen Blick zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Das klingt in der Tat nach dem Bleiernen Schlüssel, ja."</DefaultText>
+      <DefaultText>„Das klingt in der Tat nach dem Bleiernen Schlüssel, ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Mestre Galvino und ich trafen eine Vereinbarung ..." Er muss schlucken. "Es war zum Wohle Stalwarts. Ich dachte-"</DefaultText>
+      <DefaultText>„Mestre Galvino und ich trafen eine Vereinbarung&#160;…“ Er muss schlucken. „Es war zum Wohle Stalwarts. Ich dachte-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Lass uns gehen."</DefaultText>
+      <DefaultText>„Lass uns gehen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

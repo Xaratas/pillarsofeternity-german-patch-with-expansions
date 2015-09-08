@@ -6,98 +6,98 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Orlaner verbeugt sich. "Ah, der Abenteurer, der das Dorf gerettet hat - wie gnädig von dir, meinen bescheidenen Wagen aufzusuchen. Ich bin Yduran."</DefaultText>
-      <FemaleText>Der Orlaner verbeugt sich. "Ah, die Abenteurerin, die das Dorf gerettet hat - wie gnädig von dir, meinen bescheidenen Wagen aufzusuchen. Ich bin Yduran."</FemaleText>
+      <DefaultText>Der Orlaner verbeugt sich. „Ah, der Abenteurer, der das Dorf gerettet hat - wie gnädig von dir, meinen bescheidenen Wagen aufzusuchen. Ich bin Yduran.“</DefaultText>
+      <FemaleText>Der Orlaner verbeugt sich. „Ah, die Abenteurerin, die das Dorf gerettet hat - wie gnädig von dir, meinen bescheidenen Wagen aufzusuchen. Ich bin Yduran.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Yduran spitzt hoffnungsvoll die Ohren. "Bist du hier, um Handel zu treiben?"</DefaultText>
+      <DefaultText>Yduran spitzt hoffnungsvoll die Ohren. „Bist du hier, um Handel zu treiben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <DefaultText>„Zeig mir, was du zu verkaufen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Möchtest du Geschäfte machen?"</DefaultText>
+      <DefaultText>„Möchtest du Geschäfte machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ja, es gehört zu einem Artefakt, das ich reparieren will."</DefaultText>
+      <DefaultText>„Ja, es gehört zu einem Artefakt, das ich reparieren will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Lügen] "Nein, es ist mehr oder weniger wertlos. Aber ich kenne einen Sammler - wenn der Preis stimmt."</DefaultText>
+      <DefaultText>[Lügen] „Nein, es ist mehr oder weniger wertlos. Aber ich kenne einen Sammler - wenn der Preis stimmt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wieviel willst du dafür haben?"</DefaultText>
+      <DefaultText>„Wieviel willst du dafür haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Einer der Dorfbewohner hat es mir verkauft." Er blickt grimmig drein. "Er sagte, es käme von irgendeinem seltenen Seegeschöpf und wäre sehr wertvoll. Jeder, dem ich es anbiete, hält es für wertlosen Schrott."
+      <DefaultText>„Einer der Dorfbewohner hat es mir verkauft.“ Er blickt grimmig drein. „Er sagte, es käme von irgendeinem seltenen Seegeschöpf und wäre sehr wertvoll. Jeder, dem ich es anbiete, hält es für wertlosen Schrott.“
 
-Yduran hält inne. "Oder ... siehst du das anders?"</DefaultText>
+Yduran hält inne. „Oder&#160;… siehst du das anders?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Abgemacht."</DefaultText>
+      <DefaultText>„Abgemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Yduran strahlt. "Ah, also doch keine meiner schlechten Investitionen? Ich will 600 Pand dafür."</DefaultText>
+      <DefaultText>Yduran strahlt. „Ah, also doch keine meiner schlechten Investitionen? Ich will 600 Pand dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wie läuft das Geschäft?"</DefaultText>
+      <DefaultText>„Wie läuft das Geschäft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Er deutet auf das Dorf um sich herum. "Schlecht. Sieh dich um. Mit Fellen und Fischen verdient man nicht viel Geld."
+      <DefaultText>Er deutet auf das Dorf um sich herum. „Schlecht. Sieh dich um. Mit Fellen und Fischen verdient man nicht viel Geld.“
 
-"Ich bin in die Weißmark gekommen, weil ich dachte, es gäbe hier keine Konkurrenz. Die gibt es auch nichts, aber nur, weil es auch keine Kundschaft gibt."</DefaultText>
+„Ich bin in die Weißmark gekommen, weil ich dachte, es gäbe hier keine Konkurrenz. Die gibt es auch nichts, aber nur, weil es auch keine Kundschaft gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wenn du hier kein Geld verdienst, warum bleibst du dann hier?"</DefaultText>
+      <DefaultText>„Wenn du hier kein Geld verdienst, warum bleibst du dann hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Er senkt den Blick. "Ich habe meiner Freunde und meinen Familien von meinem 'sicheren' Reichtum vorgeschwärmt. Wenn ich aufgebe und mit leeren Händen zurückkehre, dann ..."
+      <DefaultText>Er senkt den Blick. „Ich habe meiner Freunde und meinen Familien von meinem 'sicheren' Reichtum vorgeschwärmt. Wenn ich aufgebe und mit leeren Händen zurückkehre, dann&#160;…“
 
-Er ballt die Hände zu Fäusten. "Nein. Das darf nicht sein. Ich gebe noch nicht auf."</DefaultText>
+Er ballt die Hände zu Fäusten. „Nein. Das darf nicht sein. Ich gebe noch nicht auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Yduran seufzt. "Ich verkaufe es zu dem Preis, den ich dafür bezahlt habe - 300 Pand."</DefaultText>
+      <DefaultText>Yduran seufzt. "Ich verkaufe es zu dem Preis, den ich dafür bezahlt habe - 300 Pand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Naja, ich möchte etwas Gewinn machen. Ich will 400 Pand haben." Er blickt dich hoffnungsvoll an.</DefaultText>
+      <DefaultText>„Naja, ich möchte etwas Gewinn machen. Ich will 400 Pand haben.“ Er blickt dich hoffnungsvoll an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"[Player Name]! Hast du einen Augenblick Zeit?"</DefaultText>
+      <DefaultText>„[Player Name]! Hast du einen Augenblick Zeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,47 +107,47 @@ Er ballt die Hände zu Fäusten. "Nein. Das darf nicht sein. Ich gebe noch nicht
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Hast du zufällig einen alten Helm? Oder ein Horn, das aussieht, als würde es auf einen Helm gehören?"</DefaultText>
+      <DefaultText>„Hast du zufällig einen alten Helm? Oder ein Horn, das aussieht, als würde es auf einen Helm gehören?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Abgemacht."</DefaultText>
+      <DefaultText>„Abgemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich kaufe es später."</DefaultText>
+      <DefaultText>„Ich kaufe es später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Abgemacht."</DefaultText>
+      <DefaultText>„Abgemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[600 Pand geben.] "Ich kaufe dir das Horn ab."</DefaultText>
+      <DefaultText>[600 Pand geben.] „Ich kaufe dir das Horn ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[400 Pand geben.] "Ich kaufe dir das Horn ab."</DefaultText>
+      <DefaultText>[400 Pand geben.] „Ich kaufe dir das Horn ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[300 Pand geben.] "Ich kaufe dir das Horn ab."</DefaultText>
+      <DefaultText>[300 Pand geben.] „Ich kaufe dir das Horn ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Stimmt es wirklich? Ich habe das Licht in der Batterie gesehen - hast du sie wirklich geöffnet?" Der Orlaner schlägt begeistert die Hände zusammen.</DefaultText>
+      <DefaultText>„Stimmt es wirklich? Ich habe das Licht in der Batterie gesehen - hast du sie wirklich geöffnet?“ Der Orlaner schlägt begeistert die Hände zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich-ich fasse es nicht! Ich war mir sicher, diesen Weg nie wieder nehmen zu können. Aber wer weiß, welche Seltenheiten aus diesen Hallen kommen werden, hm? Wie aufregend!"</DefaultText>
+      <DefaultText>„Ich-ich fasse es nicht! Ich war mir sicher, diesen Weg nie wieder nehmen zu können. Aber wer weiß, welche Seltenheiten aus diesen Hallen kommen werden, hm? Wie aufregend!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

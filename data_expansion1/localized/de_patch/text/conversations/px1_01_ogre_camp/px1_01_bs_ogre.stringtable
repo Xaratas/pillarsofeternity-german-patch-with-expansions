@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Lauf, kleines Mäuschen."</DefaultText>
+      <DefaultText>„Lauf, kleines Mäuschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mögen Matronin Beregans Visionen uns leiten."</DefaultText>
+      <DefaultText>„Mögen Matronin Beregans Visionen uns leiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Die Winde schicken unserer Matronin in letzter Zeit böse Träume."</DefaultText>
+      <DefaultText>„Die Winde schicken unserer Matronin in letzter Zeit böse Träume.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wir gehen zur Batterie, wenn wir Kanonen brauchen. Aber nur, wenn es nicht anders geht."</DefaultText>
+      <DefaultText>„Wir gehen zur Batterie, wenn wir Kanonen brauchen. Aber nur, wenn es nicht anders geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Die Dorfbewohner lassen uns nun in Ruhe, ja?"</DefaultText>
+      <DefaultText>„Die Dorfbewohner lassen uns nun in Ruhe, ja?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

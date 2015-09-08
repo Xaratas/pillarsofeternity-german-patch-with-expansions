@@ -35,16 +35,16 @@ Du gräbst tiefer und findest Verse, die durch diese Essenz rollen wie ein vertr
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen."
+      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“
 
-"Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich."
+„Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.“
 
-"Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz."</DefaultText>
+„Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Du siehst aus wie jemand, der ein Geheimnis kennt." Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
+      <DefaultText>„Du siehst aus wie jemand, der ein Geheimnis kennt.“ Ihre kalten Finger umklammern deinen Arm. Ihre schwarzen Augen mustern dich prüfend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -54,47 +54,47 @@ Du gräbst tiefer und findest Verse, die durch diese Essenz rollen wie ein vertr
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak dein Schwein ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht."</DefaultText>
+      <DefaultText>„Vorsicht. Sie sieht dich so an, wie Itumaak deine Katze ansieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ihr Verstand füllt sich mit Fragen ... mit Berechnungen ..."</DefaultText>
+      <DefaultText>„Ihr Verstand füllt sich mit Fragen&#160;… mit Berechnungen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Hui, ist das plötzlich warm hier!" Er lacht betreten.</DefaultText>
+      <DefaultText>„Hui, ist das plötzlich warm hier!“ Er lacht betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Das reicht." Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
+      <DefaultText>„Das reicht.“ Pallegina legt eine gefiederte Hand auf die Schulter der Teufelin - wie eine Mutter, die ein zu neugieriges Kind fortziehen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht."</DefaultText>
+      <DefaultText>„Ich würde es nicht unbedingt ein Geheimnis nennen. Eher eine rätselhafte Sache, über die er nicht gerne spricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</DefaultText>
-      <FemaleText>"Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen."</FemaleText>
+      <DefaultText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächter. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</DefaultText>
+      <FemaleText>„Ich bin froh, dass nicht nur ich so klug bin, deinesgleichen nicht zu vertrauen, Wächterin. Und du wärest gut beraten, ihresgleichen nicht zu vertrauen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Sie blickt dich an, wie attraktive Löwinnen mich anblicken."</DefaultText>
+      <DefaultText>„Sie blickt dich an, wie attraktive Löwinnen mich anblicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen ..."</DefaultText>
+      <DefaultText>„Es wäre schön, wenn wir uns nicht alle gegenseitig zerfleischen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
