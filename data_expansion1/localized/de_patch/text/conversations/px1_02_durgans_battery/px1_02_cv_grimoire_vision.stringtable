@@ -28,7 +28,7 @@
       <ID>5</ID>
       <DefaultText>Du streckst deine Wächtersinne aus und spürst, wie diese treibende Seele nach vorne drängt, als wäre sie begierig, endlich gehört zu werden.
 
-Ein Gefühl der Angst und Dringlichkeit durchzieht dich. Hier, jenseits der von Zeit und Identität überbrückten Distanz, weißt du nur, dass dir die Zeit ausgeht ...</DefaultText>
+Ein Gefühl der Angst und Dringlichkeit durchzieht dich. Hier, jenseits der von Zeit und Identität überbrückten Distanz, weißt du nur, dass dir die Zeit ausgeht&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,27 +43,27 @@ Ein Gefühl der Angst und Dringlichkeit durchzieht dich. Hier, jenseits der von 
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Glaubst du, du kannst mir entkommen, indem du einen Berg besteigst? Ich hätte dich auch über das Meer verfolgt, Dieb."</DefaultText>
+      <DefaultText>„Glaubst du, du kannst mir entkommen, indem du einen Berg besteigst? Ich hätte dich auch über das Meer verfolgt, Dieb.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Warte! Nein!"</DefaultText>
+      <DefaultText>„Warte! Nein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Bitte, Meister, hab Gnade! Ich-ich habe das Zauberbuch sicher versteckt, ich kann dich zu ihm führen!"</DefaultText>
+      <DefaultText>„Bitte, Meister, hab Gnade! Ich-ich habe das Zauberbuch sicher versteckt, ich kann dich zu ihm führen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Das Buch ist nichts. Wenn du etwas länger studiert hättest, hättest du das vielleicht gelernt. Aber keiner meiner Lehrlinge bestiehlt mich und überlebt."</DefaultText>
+      <DefaultText>„Das Buch ist nichts. Wenn du etwas länger studiert hättest, hättest du das vielleicht gelernt. Aber keiner meiner Lehrlinge bestiehlt mich und überlebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ninagauth! Meister, ich-"</DefaultText>
+      <DefaultText>„Ninagauth! Meister, ich-“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

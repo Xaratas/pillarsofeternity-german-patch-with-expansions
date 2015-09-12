@@ -11,14 +11,14 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hilfe! Bitte, ich bin hier unten!" 
+      <DefaultText>„Hilfe! Bitte, ich bin hier unten!“ 
 
 Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewohner und winkt verzweifelt mit den Armen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Bitte hilf mir! Ich bin hier unten gefangen!" 
+      <DefaultText>„Bitte hilf mir! Ich bin hier unten gefangen!“ 
 
 Er ist zu weit unten, um ihn direkt zu erreichen.</DefaultText>
       <FemaleText />
@@ -74,7 +74,7 @@ Du ziehst ihn über den Rand der Schlucht in Sicherheit.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>["Winterwind" wirken.]</DefaultText>
+      <DefaultText>[„Winterwind“ wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@ Ein plötzlicher starker Windstoß bläst aus der Schlucht nach oben und einen A
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Warte! Lass mich nicht hier zurück!"</DefaultText>
+      <DefaultText>„Warte! Lass mich nicht hier zurück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,17 +128,17 @@ Ein plötzlicher starker Windstoß bläst aus der Schlucht nach oben und einen A
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Hilfe! Hier unten!"</DefaultText>
+      <DefaultText>„Hilfe! Hier unten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"H-hallo? Bitte, hilf mir!"</DefaultText>
+      <DefaultText>„H-hallo? Bitte, hilf mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Mir ist so kalt ..."</DefaultText>
+      <DefaultText>„Mir ist so kalt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,12 +150,12 @@ Deine Vorsichtsmaßnahme erweist sich als weise: Als der Mann die Kante der Schl
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>["Reinigender Wind" wirken.]</DefaultText>
+      <DefaultText>[„Reinigender Wind“ wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>["Beim Anblick ihrer Kameraden ergriff der Mut ihre Herzen" singen.]</DefaultText>
+      <DefaultText>[„Beim Anblick ihrer Kameraden ergriff der Mut ihre Herzen“ singen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,7 +185,7 @@ Deine Vorsichtsmaßnahme erweist sich als weise: Als der Mann die Kante der Schl
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Hilfe! So helft mir doch!"</DefaultText>
+      <DefaultText>„Hilfe! So helft mir doch!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

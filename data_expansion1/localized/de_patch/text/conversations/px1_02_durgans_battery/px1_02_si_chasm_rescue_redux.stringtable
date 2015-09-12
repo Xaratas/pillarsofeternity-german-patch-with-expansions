@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hilfe! Bitte, ich bin hier unten!" 
+      <DefaultText>„Hilfe! Bitte, ich bin hier unten!“ 
 
 Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewohner und winkt verzweifelt mit den Armen.</DefaultText>
       <FemaleText />
@@ -18,7 +18,7 @@ Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewo
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Ein Seil um deine Hüften binden und es an einem Anker befestigen."</DefaultText>
+      <DefaultText>[Ein Seil um deine Hüften binden und es an einem Anker befestigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,12 +78,12 @@ Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewo
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Als du hinuntersiehst, siehst du einen zweiten, kleineren Vorsprung an der Seite der Schlucht. Er ist nah genug, dass du hinspringen kannst ... aber vielleicht trägt er dein Gewicht nicht.</DefaultText>
+      <DefaultText>Als du hinuntersiehst, siehst du einen zweiten, kleineren Vorsprung an der Seite der Schlucht. Er ist nah genug, dass du hinspringen kannst&#160;… aber vielleicht trägt er dein Gewicht nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Der Mann drückt sich gegen die Wand der Schlucht. "Bitte beeil dich! Das Eis fängt an zu brechen!"</DefaultText>
+      <DefaultText>Der Mann drückt sich gegen die Wand der Schlucht. „Bitte beeil dich! Das Eis fängt an zu brechen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@ Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewo
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Tollkühn springst du in die Schlucht. Du landest unsanft und der schneebedeckte Vorsprung wackelt gefährlich unter dir ... aber du kannst dich abfangen.</DefaultText>
+      <DefaultText>Tollkühn springst du in die Schlucht. Du landest unsanft und der schneebedeckte Vorsprung wackelt gefährlich unter dir&#160;… aber du kannst dich abfangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@ Dein Hinterkopf schlägt mit einem lauten Knallen und einem plötzlichen Schmerz
       <ID>30</ID>
       <DefaultText>Du hörst ein bedrohliches Knarzen, als das Eis irgendwo unter dir sich bewegt.
 
-Der Mann schreit erschrocken auf. "Beeil dich!"</DefaultText>
+Der Mann schreit erschrocken auf. „Beeil dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,7 +180,7 @@ Du greifst das Seil schnell neu, drehst deinen Körper und landest auf der Oberf
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich glaube, es hält nicht mehr lange!"
+      <DefaultText>„Ich glaube, es hält nicht mehr lange!“
 
 Du hörst ein Klirren und einen kurzen Schrei. Als du hinabblickst, siehst du, dass der Mann ausgerutscht ist - er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
       <FemaleText />
@@ -218,7 +218,7 @@ Du greifst das Seil neu, zielst auf einen robuster aussehenden Felsabschnitt und
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Ängstlich ruft der Dorfbewohner zu dir hinauf: "Bitte hilf mir!"</DefaultText>
+      <DefaultText>Ängstlich ruft der Dorfbewohner zu dir hinauf: „Bitte hilf mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,12 +490,12 @@ Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Der Mann drückt sich gegen die Wand der Schlucht. "Bitte beeil dich! Das Eis fängt an zu brechen!"</DefaultText>
+      <DefaultText>Der Mann drückt sich gegen die Wand der Schlucht. „Bitte beeil dich! Das Eis fängt an zu brechen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>[Specified 0] blickt hinunter und sieht einen zweiten, kleineren Vorsprung an der Seite der Schlucht. Er ist nah genug, um hinzuspringen ... trägt aber vielleicht nicht viel Gewicht.</DefaultText>
+      <DefaultText>[Specified 0] blickt hinunter und sieht einen zweiten, kleineren Vorsprung an der Seite der Schlucht. Er ist nah genug, um hinzuspringen&#160;… trägt aber vielleicht nicht viel Gewicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,16 +515,16 @@ Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach 
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Moment! Wo willst du hin?!" Du hörst den Dorfbewohner von unten mit verzweifelter Stimme rufen: "Bitte, lass mich hier ni-"
+      <DefaultText>„Moment! Wo willst du hin?!“ Du hörst den Dorfbewohner von unten mit verzweifelter Stimme rufen: „Bitte, lass mich hier ni-“
 
-Du hörst einen dumpfen Schlag, als er ausrutscht, dann das Knacken von Eis ... gefolgt von einem kurzen, scharfen Schrei, als der Mann in die Tiefe stürzt.</DefaultText>
+Du hörst einen dumpfen Schlag, als er ausrutscht, dann das Knacken von Eis&#160;… gefolgt von einem kurzen, scharfen Schrei, als der Mann in die Tiefe stürzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Moment! Wo willst du hin?!" Der Dorfbewohner ruft von unten mit verzweifelter Stimme: "Bitte, lass mich hier ni-"
+      <DefaultText>„Moment! Wo willst du hin?!“ Der Dorfbewohner ruft von unten mit verzweifelter Stimme: „Bitte, lass mich hier ni-“
 
-Es ertönt ein dumpfer Schlag, als er ausrutscht, dann das Knacken von Eis ... gefolgt von einem kurzen, scharfen Schrei, als der Mann in die Tiefe stürzt.</DefaultText>
+Es ertönt ein dumpfer Schlag, als er ausrutscht, dann das Knacken von Eis&#160;… gefolgt von einem kurzen, scharfen Schrei, als der Mann in die Tiefe stürzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@ Es ertönt ein dumpfer Schlag, als er ausrutscht, dann das Knacken von Eis ... g
       <ID>105</ID>
       <DefaultText>Es ertönt ein bedrohliches Knarzen, als das Eis irgendwo weiter unten sich bewegt.
 
-Der Mann schreit erschrocken auf. "Beeil dich!"</DefaultText>
+Der Mann schreit erschrocken auf. „Beeil dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -618,7 +618,7 @@ Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Ängstlich ruft der Dorfbewohner hinauf: "Bitte hilf mir!"</DefaultText>
+      <DefaultText>Ängstlich ruft der Dorfbewohner hinauf: „Bitte hilf mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -628,7 +628,7 @@ Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Ich glaube, es hält nicht mehr lange!"
+      <DefaultText>„Ich glaube, es hält nicht mehr lange!“
 
 Es ertönt ein Klirren, dann ein kurzer Schrei. [Specified 0] blickt hinab und sieht, dass der Mann ausgerutscht ist - er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
       <FemaleText />
@@ -915,7 +915,7 @@ Trotz ihrer vereinten Kräfte mühen sie sich aber ab, [Specified 0] hochzuziehe
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Ängstlich ruft der Dorfbewohner hinauf: "Bitte hilf mir!"</DefaultText>
+      <DefaultText>Ängstlich ruft der Dorfbewohner hinauf: „Bitte hilf mir!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
