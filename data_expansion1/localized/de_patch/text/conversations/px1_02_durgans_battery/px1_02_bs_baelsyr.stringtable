@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Lass mich frei ..."</DefaultText>
+      <DefaultText>„Lass mich frei&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bitte, hilf mir! Er ist wahnsinnig!"</DefaultText>
+      <DefaultText>„Bitte, hilf mir! Er ist wahnsinnig!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich bin frei! Galvino! Ich werde dein Herz essen, alter Mann!"</DefaultText>
+      <DefaultText>„Ich bin frei! Galvino! Ich werde dein Herz essen, alter Mann!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

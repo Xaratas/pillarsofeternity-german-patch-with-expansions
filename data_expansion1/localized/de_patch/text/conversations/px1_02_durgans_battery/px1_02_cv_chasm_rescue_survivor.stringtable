@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Oh, danke! Ich war schon so lange dort unten. Ich dachte, ich wäre erledigt."</DefaultText>
+      <DefaultText>„Oh, danke! Ich war schon so lange dort unten. Ich dachte, ich wäre erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich gehe zurück in die Stadt. Sei vorsichtig hier draußen!"</DefaultText>
+      <DefaultText>„Ich gehe zurück in die Stadt. Sei vorsichtig hier draußen!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

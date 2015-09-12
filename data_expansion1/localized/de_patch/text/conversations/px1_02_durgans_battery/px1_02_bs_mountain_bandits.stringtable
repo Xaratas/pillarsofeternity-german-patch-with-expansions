@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Sieh an, sieh an. Du siehst nicht unbedingt wie ein Händler aus."</DefaultText>
-      <FemaleText>"Sieh an, sieh an. Du siehst nicht unbedingt wie eine Händlerin aus."</FemaleText>
+      <DefaultText>„Sieh an, sieh an. Du siehst nicht unbedingt wie ein Händler aus.“</DefaultText>
+      <FemaleText>„Sieh an, sieh an. Du siehst nicht unbedingt wie eine Händlerin aus.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Schnappt ihn!"</DefaultText>
-      <FemaleText>"Schnappt sie!"</FemaleText>
+      <DefaultText>„Schnappt ihn!“</DefaultText>
+      <FemaleText>„Schnappt sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Aber deine Ausrüstung würde uns ordentlich Pand bringen. Auf ihn!"</DefaultText>
-      <FemaleText>"Aber deine Ausrüstung würde uns ordentlich Pand bringen. Auf sie!"</FemaleText>
+      <DefaultText>„Aber deine Ausrüstung würde uns ordentlich Pand bringen. Auf ihn!“</DefaultText>
+      <FemaleText>„Aber deine Ausrüstung würde uns ordentlich Pand bringen. Auf sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Da kommen sie. Angriff!"</DefaultText>
+      <DefaultText>„Da kommen sie. Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
