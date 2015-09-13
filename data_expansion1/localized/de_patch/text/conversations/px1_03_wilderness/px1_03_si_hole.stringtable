@@ -216,7 +216,7 @@ Du versuchst, durch das Dämmerdunkel zu blicken, aber du kannst nichts ausmache
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Du beginnst, Energie aus dem Äther zu ziehen und sie in dein Zauberbuch zu kanalisieren ... bis du spürst, wie die Macht aus dem Buch überströmt und dich in eine schützende Aura hüllt.</DefaultText>
+      <DefaultText>Du beginnst, Energie aus dem Äther zu ziehen und sie in dein Zauberbuch zu kanalisieren&#160;… bis du spürst, wie die Macht aus dem Buch überströmt und dich in eine schützende Aura hüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@ Mit einer natürlichen Resistenz gegen die Kälte ausgestattet gelingt es [Speci
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[Specified 0] taucht in das Wasser und verschwindet in der turbulenten Dunkelheit. Die Kälte raubt alle Wärme, jede Bewegung wird zum Kampf ... und bald nahezu unmöglich.
+      <DefaultText>[Specified 0] taucht in das Wasser und verschwindet in der turbulenten Dunkelheit. Die Kälte raubt alle Wärme, jede Bewegung wird zum Kampf&#160;… und bald nahezu unmöglich.
 
 Plötzlich wird [Specified 0] durch ein Zucken wachgerüttelt und schwimmt verzweifelt nach oben, kämpft sich durch das Wasser und durchbricht schließlich die Oberfläche, zitternd und erschöpft.</DefaultText>
       <FemaleText />
@@ -303,21 +303,21 @@ Du erkennst die Gegenstände als Okruns Erbstücke. Die übrigen Kisten, die Kis
       <ID>89</ID>
       <DefaultText>Ixtlis Notizbuch enthält unterstrichene Notizen:
 
-"Notoc Tlocotl, Formalitäten zuerst, versteht sich, und sie kommt hoch."
+„Notoc Tlocotl, Formalitäten zuerst, versteht sich, und sie kommt hoch.“
 
-"Cualla Micha, sie ist ein braves Mädchen und hört das gerne, bevor sie hinabschwimmt."
+„Cualla Micha, sie ist ein braves Mädchen und hört das gerne, bevor sie hinabschwimmt.“
 
-"Xitlac Cualla, man muss sichergehen, dass sie den Fisch für eine gut erledigte Aufgabe mag."</DefaultText>
+„Xitlac Cualla, man muss sichergehen, dass sie den Fisch für eine gut erledigte Aufgabe mag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>[Aus Ixtlis Notizbuch lesen, "Cualla Micha".]</DefaultText>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, „Cualla Micha“.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Aus Ixtlis Notizbuch lesen, "Xitlac Cualla".]</DefaultText>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, „Xitlac Cualla“.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -332,7 +332,7 @@ Du erkennst die Gegenstände als Okruns Erbstücke. Die übrigen Kisten, die Kis
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[Aus Ixtlis Notizbuch lesen, "Notoc Tloctol".]</DefaultText>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, „Notoc Tloctol“.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,7 +354,7 @@ Die Kreatur atmet die kalte Luft mit einem zischenden Laut ein und verschwindet 
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Eine sperrige Form taucht auf und lässt eine Welle Wasser auf das Eis schwappen. Es ist eine Kiste. Der Lagufaeth, der sie hinaufgestemmt hat, taucht dahinter auf und zeigt kurz seine Zähne ... fast, als würde er lächeln.
+      <DefaultText>Eine sperrige Form taucht auf und lässt eine Welle Wasser auf das Eis schwappen. Es ist eine Kiste. Der Lagufaeth, der sie hinaufgestemmt hat, taucht dahinter auf und zeigt kurz seine Zähne&#160;… fast, als würde er lächeln.
 
 Die Kreatur schiebt die Kiste beiseite und taucht wieder hinab. Der ganze Vorgang wiederholt sich mehrfach, bis mehrere Kisten neben dem Loch stehen, alle identisch.</DefaultText>
       <FemaleText />
@@ -365,14 +365,14 @@ Die Kreatur schiebt die Kiste beiseite und taucht wieder hinab. Der ganze Vorgan
 
 Ein neues Lächeln scheint sich zu bilden, eines der Vorfreude. Gleichzeitig öffnet der Lagufaeth sein Maul in deine Richtung.
 
-"Cah ... llah."</DefaultText>
+„Cah&#160;… llah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
       <DefaultText>Seine Augen ragen aufgeregt aus ihren Höhlen heraus. Mit weit geöffnetem Maul versucht die Kreatur die Worte zu wiederholen, zwischendurch immer wieder zu dir blickend.
 
-"Cah llah. Cah llah."</DefaultText>
+„Cah llah. Cah llah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,7 +417,7 @@ Die Kreatur kneift die Augen zusammen und wirft dir einen hasserfüllten Blick z
 
 Mit weit geöffnetem Maul versucht die Kreatur die Worte zu wiederholen.
 
-"Cah llah. Cah llah."</DefaultText>
+„Cah llah. Cah llah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,7 +475,7 @@ Die Kreatur kneift die Augen zusammen und wirft dir einen hasserfüllten Blick z
       <ID>117</ID>
       <DefaultText>Eine schuppige Kreatur starrt dich aus dem Loch an, mit hervorstehenden Augen und weit aufgerissenem Maul. Worte bilden sich mühsam zwischen Reihen scharfer Zähne.
 
-"Tah ... caht."
+„Tah&#160;… caht.“
 
 Der junge Lagufaeth scheint keine Angst vor dir zu haben. Er neigt seinen Kopf und starrt weiter zu dir, als würde er auf etwas warten.</DefaultText>
       <FemaleText />

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Du wedelst den Dampf über diesem Becken beiseite. Du glaubst, du siehst darin ...
+      <DefaultText>Du wedelst den Dampf über diesem Becken beiseite. Du glaubst, du siehst darin&#160;…
 
 Aber nein. Es ist nur eine Blase, die aus den Tiefen aufsteigt. Das Becken ist leer.</DefaultText>
       <FemaleText />
@@ -39,12 +39,12 @@ Es ist ein Baby-Lagufaeth. Er beobachtet dich mit gutmütiger Neugierde. An sein
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Es hat dich als erstes Wesen gesehen. Es hält dich jetzt für seinen Papa. Dieses kleine vierarmige Fischbaby ist dein Sohn.
+      <DefaultText>„Es hat dich als erstes Wesen gesehen. Es hält dich jetzt für seinen Papa. Dieses kleine vierarmige Fischbaby ist dein Sohn.
 
-Edér strahlt. "Ich freue mich so für dich."</DefaultText>
-      <FemaleText>"Es hat dich als erstes Wesen gesehen. Es hält dich jetzt für seine Mama. Dieses kleine vierarmige Fischbaby ist dein Sohn.
+Edér strahlt. „Ich freue mich so für dich.“</DefaultText>
+      <FemaleText>„Es hat dich als erstes Wesen gesehen. Es hält dich jetzt für seine Mama. Dieses kleine vierarmige Fischbaby ist dein Sohn.
 
-Edér strahlt. "Ich freue mich so für dich."</FemaleText>
+Edér strahlt. „Ich freue mich so für dich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>

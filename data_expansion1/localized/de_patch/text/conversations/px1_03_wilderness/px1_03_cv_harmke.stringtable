@@ -6,65 +6,65 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wie geht es?" Der Elfenmann tritt auf die Lichtung und bleibt plötzlich regungslos stehen. Er starrt die Teufelin von Caroc an. Für einen Elfen ist er hochgewachsen. Sein wettergegerbtes Gesicht wird von strähnigen, fettigen Haaren eingerahmt.
+      <DefaultText>„Wie geht es?“ Der Elfenmann tritt auf die Lichtung und bleibt plötzlich regungslos stehen. Er starrt die Teufelin von Caroc an. Für einen Elfen ist er hochgewachsen. Sein wettergegerbtes Gesicht wird von strähnigen, fettigen Haaren eingerahmt.
 
 Seine Begleiter blicken mit offenem Mund auf den bronzenen Golem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Warum so nervös?"</DefaultText>
+      <DefaultText>„Warum so nervös?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wir retten euer jämmerliches Dorf."</DefaultText>
+      <DefaultText>„Wir retten euer jämmerliches Dorf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Sie ist meine Verbündete."</DefaultText>
+      <DefaultText>„Sie ist meine Verbündete.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wir erkunden nur die Gegend."</DefaultText>
+      <DefaultText>„Wir erkunden nur die Gegend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wir haben nach euch gesucht."</DefaultText>
+      <DefaultText>„Wir haben nach euch gesucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sie ist eine Mörderin! Wir wollen keinen Ärger. Wir machen nur unsere Arbeit."
+      <DefaultText>„Sie ist eine Mörderin! Wir wollen keinen Ärger. Wir machen nur unsere Arbeit.“
 
 Schweißperlen treten ihm auf die Stirn, trotz der kühlen Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Er ist es. Harmke. Ich erinnere mich an das schwache Kinn und die schlackernden Knie."
+      <DefaultText>„Er ist es. Harmke. Ich erinnere mich an das schwache Kinn und die schlackernden Knie.“
 
 Sie hält inne und starrt reglos auf die Gestalten zwischen den Bäumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Schluss! Was siehst du, [Player Name]? Ist das der Mann, der uns verbrannt hat?"
+      <DefaultText>„Schluss! Was siehst du, [Player Name]? Ist das der Mann, der uns verbrannt hat?“
 
 Die Teufelin wippt auf ihren Füßen. Ihr ganzer Körper bewegt sich um die Achse ihrer Knöchel. Obwohl sie mit dir spricht, ist ihre Aufmerksamkeit - ein konzentrierter Speer der Essenz - auf Harmke gerichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Harmke, erinnerst du dich an das Dorf Kaltmorg?"</DefaultText>
+      <DefaultText>„Harmke, erinnerst du dich an das Dorf Kaltmorg?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Sein Ausdruck verdüstert sich. "Wer tut das nicht. Es hat die Readceraner in den Dyrwald gelassen. Aber was tut das zur Sache?"</DefaultText>
+      <DefaultText>Sein Ausdruck verdüstert sich. „Wer tut das nicht. Es hat die Readceraner in den Dyrwald gelassen. Aber was tut das zur Sache?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,17 +79,17 @@ Die Teufelin wippt auf ihren Füßen. Ihr ganzer Körper bewegt sich um die Achs
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Aurochs' Schatten. Was tut dieses böse Ding hier?" Harmke schluckt, ein Kloß steckt ihm im Hals.</DefaultText>
+      <DefaultText>„Aurochs' Schatten. Was tut dieses böse Ding hier?“ Harmke schluckt, ein Kloß steckt ihm im Hals.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich? Du meinst doch nicht-" Sein Gesicht wird fahl.</DefaultText>
+      <DefaultText>„Ich? Du meinst doch nicht-“ Sein Gesicht wird fahl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wir wären dir sehr dankbar, wenn du uns in Frieden lassen würdest ... und dieses Ding mitnimmst." Er blickt die Teufelin mit einer Mischung aus blanker Furcht und Abscheu an.</DefaultText>
+      <DefaultText>„Wir wären dir sehr dankbar, wenn du uns in Frieden lassen würdest&#160;… und dieses Ding mitnimmst.“ Er blickt die Teufelin mit einer Mischung aus blanker Furcht und Abscheu an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,49 +161,49 @@ Du schlägst das Fenster ein und schleuderst deine Fackel hinein. Der andere Man
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Spuck es aus, [Player Name]! Was hast du gesehen?" Ihre Füße stehen reglos im Schnee, doch ihre Glieder zucken und baumeln.</DefaultText>
+      <DefaultText>„Spuck es aus, [Player Name]! Was hast du gesehen?“ Ihre Füße stehen reglos im Schnee, doch ihre Glieder zucken und baumeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Welch eine Verschwendung."
+      <DefaultText>„Welch eine Verschwendung.“
 
 Sie sieht zu, wie Harmke davonläuft und -stolpert. Als er verschwunden ist, dreht sie sich wieder um. Ihre Gelenke klappern wie leere Töpfe und Pfannen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Nur ein Holzfäller! Du kannst jeden in Stalwart fragen, sie bezeugen es."</DefaultText>
+      <DefaultText>„Nur ein Holzfäller! Du kannst jeden in Stalwart fragen, sie bezeugen es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Worauf wartest du?! Sieh nach, was in der Seele des Bastards geschrieben steht!" Ihre Essenz schäumt und kocht.</DefaultText>
+      <DefaultText>„Worauf wartest du?! Sieh nach, was in der Seele des Bastards geschrieben steht!“ Ihre Essenz schäumt und kocht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Er hat dein Haus niedergebrannt."</DefaultText>
+      <DefaultText>„Er hat dein Haus niedergebrannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Er ist nicht für das Schicksal deiner Familie verantwortlich."</DefaultText>
+      <DefaultText>„Er ist nicht für das Schicksal deiner Familie verantwortlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Es ist nicht so einfach."</DefaultText>
+      <DefaultText>„Es ist nicht so einfach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Erspar mir diesen Haufen dampfende Pferdescheiße! Du hast in die erbärmlichen Abgründe seiner Seele geblickt! Sag mir, was du gesehen hast."
+      <DefaultText>„Erspar mir diesen Haufen dampfende Pferdescheiße! Du hast in die erbärmlichen Abgründe seiner Seele geblickt! Sag mir, was du gesehen hast.“
 
 Sie macht einen Schritt auf dich zu, seltsam unbeholfen. Hitzeflecken blitzen an ihrem ganzen Körper auf. Der Schnee um ihre Füße herum schmilzt.</DefaultText>
       <FemaleText />
@@ -215,7 +215,7 @@ Sie macht einen Schritt auf dich zu, seltsam unbeholfen. Hitzeflecken blitzen an
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Aber ich erinnere mich an ihn! Wie kannst du dir so sicher sein?" Ihre Fäuste knallen auf ihre Knie herab.</DefaultText>
+      <DefaultText>„Aber ich erinnere mich an ihn! Wie kannst du dir so sicher sein?“ Ihre Fäuste knallen auf ihre Knie herab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,12 +227,12 @@ Zahnräder quietschen und knarren, als sie auf sie zustürzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ich habe in seine Seele geblickt."</DefaultText>
+      <DefaultText>„Ich habe in seine Seele geblickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Erst bittest du mich um Hilfe, jetzt zweifelst du an mir?"</DefaultText>
+      <DefaultText>„Erst bittest du mich um Hilfe, jetzt zweifelst du an mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,19 +244,19 @@ Schließlich verschwinden die Hitzeflecken von ihrer Brustplatte und die Spannun
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Wir wollen keinen Ärger. Wir machen nur unsere Arbeit."
+      <DefaultText>„Wir wollen keinen Ärger. Wir machen nur unsere Arbeit.“
 
 Schweißperlen treten ihm auf die Stirn, trotz der kühlen Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Bist du wahnsinnig? Mit dieser Mörderin?"</DefaultText>
+      <DefaultText>„Bist du wahnsinnig? Mit dieser Mörderin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Sagt der willenlose Hund, der ein Dorf niedergebrannt hat."</DefaultText>
+      <DefaultText>„Sagt der willenlose Hund, der ein Dorf niedergebrannt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,37 +266,37 @@ Schweißperlen treten ihm auf die Stirn, trotz der kühlen Luft.</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Du solltest sie unter Kontrolle bringen, [Player Name]." Er reißt die Augen entsetzt auf.</DefaultText>
+      <DefaultText>„Du solltest sie unter Kontrolle bringen, [Player Name].“ Er reißt die Augen entsetzt auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Verflucht, das wird schmerzhaft!"</DefaultText>
+      <DefaultText>„Verflucht, das wird schmerzhaft!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ein schwaches Kinn und wacklige Knie. Auf allzu viele Leute wird diese Beschreibung nicht passen."</DefaultText>
+      <DefaultText>„Ein schwaches Kinn und wacklige Knie. Auf allzu viele Leute wird diese Beschreibung nicht passen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich habe einen Pfeil bereit. Für den, der ihn haben will."</DefaultText>
+      <DefaultText>„Ich habe einen Pfeil bereit. Für den, der ihn haben will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Geduld, Aimica."</DefaultText>
+      <DefaultText>„Geduld, Aimica.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Nun ja, die beeindruckendste Jagdtrophäe wird er nicht unbedingt abgeben, aber wir müssen die Knie ja nicht an die Wand hängen."</DefaultText>
+      <DefaultText>„Nun ja, die beeindruckendste Jagdtrophäe wird er nicht unbedingt abgeben, aber wir müssen die Knie ja nicht an die Wand hängen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich will Antworten, [Player Name]! Wenn er nicht aufhört zu winseln, reiße ich ihm persönlich den Kopf ab!"</DefaultText>
+      <DefaultText>„Ich will Antworten, [Player Name]! Wenn er nicht aufhört zu winseln, reiße ich ihm persönlich den Kopf ab!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,32 +306,32 @@ Schweißperlen treten ihm auf die Stirn, trotz der kühlen Luft.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Bringen wir es hinter uns. Sie kocht gleich über."</DefaultText>
+      <DefaultText>„Bringen wir es hinter uns. Sie kocht gleich über.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Du wusstest, dass es wenig Aussicht auf Erfolg hat. Du musst loslassen."</DefaultText>
+      <DefaultText>„Du wusstest, dass es wenig Aussicht auf Erfolg hat. Du musst loslassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Das Gedächtnis ist flexibel. Ungewollte Erinnerungen verdrängen wir."</DefaultText>
+      <DefaultText>„Das Gedächtnis ist flexibel. Ungewollte Erinnerungen verdrängen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ich muss dieses Holz nach Stalwart bringen."</DefaultText>
+      <DefaultText>„Ich muss dieses Holz nach Stalwart bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"W-was hast du gesagt?" Sein Mund zittert.</DefaultText>
+      <DefaultText>„W-was hast du gesagt?“ Sein Mund zittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Wie hat es sich angefühlt? Die Fackel in deiner Hand, die Klinge? Wie haben sie sich angefühlt?"</DefaultText>
+      <DefaultText>„Wie hat es sich angefühlt? Die Fackel in deiner Hand, die Klinge? Wie haben sie sich angefühlt?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bei Defala bist du richtig."</DefaultText>
+      <DefaultText>„Bei Defala bist du richtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich hasse es hier. Ich friere mir die Zehen ab."</DefaultText>
+      <DefaultText>„Ich hasse es hier. Ich friere mir die Zehen ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du fühlst dich hier sicher ganz wie zuhause. Glückspilz."</DefaultText>
+      <DefaultText>„Du fühlst dich hier sicher ganz wie zuhause. Glückspilz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Hast du auch so Heimweh?"</DefaultText>
+      <DefaultText>„Hast du auch so Heimweh?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
