@@ -16,42 +16,42 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich bin bereit, Concelhaut zu sehen."</DefaultText>
+      <DefaultText>„Ich bin bereit, Concelhaut zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Dein Meister erwartet einen würdigen Schüler. Soll der Lehrling, der einen Zauber perfektioniert und die Lektionen seiner Mitschüler gesammelt hat, sein Begehr äußern."</DefaultText>
-      <FemaleText>"Dein Meister erwartet einen würdigen Schüler. Soll die Schülerin, die einen Zauber perfektioniert und die Lektionen ihrer Mitschüler gesammelt hat, ihr Begehr äußern."</FemaleText>
+      <DefaultText>„Dein Meister erwartet einen würdigen Schüler. Soll der Lehrling, der einen Zauber perfektioniert und die Lektionen seiner Mitschüler gesammelt hat, sein Begehr äußern.“</DefaultText>
+      <FemaleText>„Dein Meister erwartet einen würdigen Schüler. Soll die Schülerin, die einen Zauber perfektioniert und die Lektionen ihrer Mitschüler gesammelt hat, ihr Begehr äußern.“</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Zuerst musst du beweisen, dass du würdig bist."</DefaultText>
+      <DefaultText>„Zuerst musst du beweisen, dass du würdig bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Starke Rüstung."</DefaultText>
+      <DefaultText>„Starke Rüstung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Barrierezauber."</DefaultText>
+      <DefaultText>„Barrierezauber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ein mächtiger Stab."</DefaultText>
+      <DefaultText>„Ein mächtiger Stab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Weggehen] "Ich kehre mit der Antwort zurück."</DefaultText>
+      <DefaultText>[Weggehen] „Ich kehre mit der Antwort zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Kehre zurück zu den Lektionen, die ich dir und deinen Mitschülern gegeben habe, ehe du wieder sprichst."
+      <DefaultText>„Kehre zurück zu den Lektionen, die ich dir und deinen Mitschülern gegeben habe, ehe du wieder sprichst.“
 
 Die Luft wird kälter. Du spürst die Enttäuschung des Sprechenden wie eine Peitsche auf dem Rücken. 
 
@@ -60,113 +60,113 @@ Du spürst, wie der Sprechende hinter der Tür sich zurückzieht.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ein beschützter Verstand."</DefaultText>
+      <DefaultText>„Ein beschützter Verstand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Aber ein Zauberer muss sich auch gegen seine eigenen Unzulänglichkeiten verteidigen, auf dass er ihnen nicht zum Opfer fällt."
+      <DefaultText>„Aber ein Zauberer muss sich auch gegen seine eigenen Unzulänglichkeiten verteidigen, auf dass er ihnen nicht zum Opfer fällt.“
 
-"Welche Schwäche ist die tödlichste?"</DefaultText>
+„Welche Schwäche ist die tödlichste?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ein Zauberer muss sich vor dem Arkanen und dem Weltlichen schützen, vor Zauberwirkern und Soldaten gleichermaßen."
+      <DefaultText>„Ein Zauberer muss sich vor dem Arkanen und dem Weltlichen schützen, vor Zauberwirkern und Soldaten gleichermaßen.“
 
-"Von den vielen Verteidigungen, die dem Zauberer zur Verfügung stehen, welche steht an erster Stelle?"</DefaultText>
+„Von den vielen Verteidigungen, die dem Zauberer zur Verfügung stehen, welche steht an erster Stelle?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Stolz."</DefaultText>
+      <DefaultText>„Stolz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ignoranz."</DefaultText>
+      <DefaultText>„Ignoranz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Furcht."</DefaultText>
+      <DefaultText>„Furcht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Fahrlässigkeit."</DefaultText>
+      <DefaultText>„Fahrlässigkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Doch für den Zauberer, der das Wesen der Magie versteht, ist die Macht nahezu grenzenlos."
+      <DefaultText>„Doch für den Zauberer, der das Wesen der Magie versteht, ist die Macht nahezu grenzenlos.“
 
-"Welche Eigenschaft der Magie ist am entscheidendsten für mächtiges Zauberwerk?"</DefaultText>
+„Welche Eigenschaft der Magie ist am entscheidendsten für mächtiges Zauberwerk?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Spektakel - sie blendet und beeindruckt."</DefaultText>
+      <DefaultText>„Spektakel - sie blendet und beeindruckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Mysterium - nur wenige verstehen die Magie."</DefaultText>
+      <DefaultText>„Mysterium - nur wenige verstehen die Magie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Allgegenwärtigkeit - sie ist überall zu finden."</DefaultText>
+      <DefaultText>„Allgegenwärtigkeit - sie ist überall zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Formbarkeit - sie kann zu jedem Zauber geformt werden."</DefaultText>
+      <DefaultText>„Formbarkeit - sie kann zu jedem Zauber geformt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Eine Prüfung musst du noch bestehen. Was ist der wahre Feind eines Zauberers?"</DefaultText>
+      <DefaultText>„Eine Prüfung musst du noch bestehen. Was ist der wahre Feind eines Zauberers?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Der Ehrgeiz seiner Rivalen."</DefaultText>
+      <DefaultText>„Der Ehrgeiz seiner Rivalen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ein eifersüchtiger Meister."</DefaultText>
+      <DefaultText>„Ein eifersüchtiger Meister.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Mangelndes Wissen."</DefaultText>
+      <DefaultText>„Mangelndes Wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Die Sterblichkeit."</DefaultText>
+      <DefaultText>„Die Sterblichkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Du darfst eintreten."</DefaultText>
+      <DefaultText>„Du darfst eintreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Du hast gut gelernt."</DefaultText>
+      <DefaultText>„Du hast gut gelernt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Viele fallen, indem sie ihre eigene Macht überschätzen."</DefaultText>
+      <DefaultText>„Viele fallen, indem sie ihre eigene Macht überschätzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ja, doch wenige werden je dazu in der Lage sein, sie kunstvoll einzusetzen."</DefaultText>
+      <DefaultText>„Ja, doch wenige werden je dazu in der Lage sein, sie kunstvoll einzusetzen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

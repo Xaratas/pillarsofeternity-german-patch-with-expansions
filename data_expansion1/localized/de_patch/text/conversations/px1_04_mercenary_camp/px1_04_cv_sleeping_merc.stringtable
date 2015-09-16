@@ -105,14 +105,14 @@ Plötzlich tritt [Specified 0] auf einen Zweig. Ein lautes Knacken durchschneide
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Die kleine Hübsche ... wie viel willst du für sie? ... Oder was kriege ich hierfür?"
+      <DefaultText>„Die kleine Hübsche&#160;… wie viel willst du für sie?&#160;… Oder was kriege ich hierfür?“
 
 Die Stimme des Orlaners driftet ab und er schnarcht weiter. Plötzlich zuckt er zusammen und presst die Augenlider zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Nein! Nicht die Aumaua! Nein!"
+      <DefaultText>„Nein! Nicht die Aumaua! Nein!“
 
 Der Orlaner rollt sich zu einer Kugel zusammen und wiegt sich hin und her, wacht aber nicht auf.</DefaultText>
       <FemaleText />
@@ -124,7 +124,7 @@ Der Orlaner rollt sich zu einer Kugel zusammen und wiegt sich hin und her, wacht
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Noch eine Runde mit der Aumaua, bitte."
+      <DefaultText>„Noch eine Runde mit der Aumaua, bitte.“
 
 Der Orlaner leckt sich die Lippen, als würde er ein ihm unbekanntes Essen kosten.</DefaultText>
       <FemaleText />
@@ -133,7 +133,7 @@ Der Orlaner leckt sich die Lippen, als würde er ein ihm unbekanntes Essen koste
       <ID>33</ID>
       <DefaultText>Er legt sich wieder auf die Matratze und rollt auf seine Seite. Seinen leeren Krug hält er im Arm wie ein Kind seine Puppe.
 
-Nach wenigen Herzschlägen kehrt sein Schnarchen zurück ... allerdings mit einem gleichmäßigen Rhythmus, der dich an eine schnurrende Katze erinnert.</DefaultText>
+Nach wenigen Herzschlägen kehrt sein Schnarchen zurück&#160;… allerdings mit einem gleichmäßigen Rhythmus, der dich an eine schnurrende Katze erinnert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@ Nach wenigen Herzschlägen kehrt sein Schnarchen zurück ... allerdings mit eine
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Du schlägst auf den Orlaner ein, doch durch den Hieb wacht er auf. Er schüttelt den Kopf ... verletzt, aber am Leben.</DefaultText>
+      <DefaultText>Du schlägst auf den Orlaner ein, doch durch den Hieb wacht er auf. Er schüttelt den Kopf&#160;… verletzt, aber am Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@ Nach wenigen Herzschlägen kehrt sein Schnarchen zurück ... allerdings mit eine
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[Specified 0] schlägt auf den Orlaner ein, doch durch den Hieb wacht er auf. Er schüttelt den Kopf ... verletzt, aber am Leben.</DefaultText>
+      <DefaultText>[Specified 0] schlägt auf den Orlaner ein, doch durch den Hieb wacht er auf. Er schüttelt den Kopf&#160;… verletzt, aber am Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -337,7 +337,7 @@ Hiravias wirft dir einen zornigen, vorwurfsvollen Blick zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich hoffe, das hast du nicht dort gelernt, wo ich es vermute."</DefaultText>
+      <DefaultText>„Ich hoffe, das hast du nicht dort gelernt, wo ich es vermute.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

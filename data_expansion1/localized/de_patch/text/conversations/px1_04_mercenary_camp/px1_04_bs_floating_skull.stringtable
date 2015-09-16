@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Schweig. Störe die Lehrlinge nicht."</DefaultText>
+      <DefaultText>„Schweig. Störe die Lehrlinge nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du kommst, um Concelhauts Gunst zu erbitten?"</DefaultText>
+      <DefaultText>„Du kommst, um Concelhauts Gunst zu erbitten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Die Lehrlinge werden unruhig. Gefährlich."</DefaultText>
+      <DefaultText>„Die Lehrlinge werden unruhig. Gefährlich.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

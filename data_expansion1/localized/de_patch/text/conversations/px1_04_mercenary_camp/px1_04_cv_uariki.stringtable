@@ -6,162 +6,162 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Sieh dich vor! Lenkst du mich noch einmal ab, verlierst du ein Auge."
+      <DefaultText>„Sieh dich vor! Lenkst du mich noch einmal ab, verlierst du ein Auge.“
 
 Selbst, als sie mit dir spricht, sieht die Aumaua dich nicht an. Sie blickt auf eine Reihe von Waffen, die auf einem Tisch liegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Kann ich dir helfen? Ich bin immer noch beschäftigt." Sie legt einen Dolch auf eine Waage und macht sich eine Notiz auf dem Pergament neben sich.</DefaultText>
+      <DefaultText>„Kann ich dir helfen? Ich bin immer noch beschäftigt.“ Sie legt einen Dolch auf eine Waage und macht sich eine Notiz auf dem Pergament neben sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Sieh dich vor! Lenkst du mich noch einmal ab, verlierst du ein Auge. Oder ... was du eben so hast."
+      <DefaultText>„Sieh dich vor! Lenkst du mich noch einmal ab, verlierst du ein Auge. Oder&#160;… was du eben so hast.“
 
 Selbst, als sie mit dir spricht, sieht die Aumaua dich nicht an. Sie blickt auf eine Reihe von Waffen, die auf einem Tisch liegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Was machst du?"</DefaultText>
+      <DefaultText>„Was machst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich will deinen Teil des Schlüssels."</DefaultText>
+      <DefaultText>„Ich will deinen Teil des Schlüssels.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Angreifen] "Tanoss schickt mich, dich zu töten."</DefaultText>
+      <DefaultText>[Angreifen] „Tanoss schickt mich, dich zu töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <DefaultText>„Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Das Gewicht katalogisieren. Den Schwerpunkt. Eine dreieinhalb Fuß lange Klinge in der Luft zu kontrollieren ist schwerer, als es scheint." Sie balanciert ein Schwert zwischen ihren Zeigefingern und macht sich eine Notiz.</DefaultText>
+      <DefaultText>„Das Gewicht katalogisieren. Den Schwerpunkt. Eine dreieinhalb Fuß lange Klinge in der Luft zu kontrollieren ist schwerer, als es scheint.“ Sie balanciert ein Schwert zwischen ihren Zeigefingern und macht sich eine Notiz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Sie zeigt dir eine Reihe scharfer Zähne. "Diese dreckige Spinne hat dich angestiftet? Er benutzt dich nur, weißt du? Er glaubt, er kann dich kontrollieren wie seine willenlosen Marionetten." Ihre Augen huschen von den Waffen auf ihrem Arbeitstisch zu dir.</DefaultText>
+      <DefaultText>Sie zeigt dir eine Reihe scharfer Zähne. „Diese dreckige Spinne hat dich angestiftet? Er benutzt dich nur, weißt du? Er glaubt, er kann dich kontrollieren wie seine willenlosen Marionetten.“ Ihre Augen huschen von den Waffen auf ihrem Arbeitstisch zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich sage dir was. Du hilfst stattdessen mir und ich gebe dir, was er dir angeboten hat ... und noch ein bisschen mehr. Abgemacht?"</DefaultText>
+      <DefaultText>„Ich sage dir was. Du hilfst stattdessen mir und ich gebe dir, was er dir angeboten hat&#160;… und noch ein bisschen mehr. Abgemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Also schön."</DefaultText>
+      <DefaultText>„Also schön.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Angreifen] "Nein."</DefaultText>
+      <DefaultText>[Angreifen] „Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ihre angespannten Schultern lösen sich. "Gut. Komm wieder, wenn du die anderen Schlüsselteile hast."</DefaultText>
+      <DefaultText>Ihre angespannten Schultern lösen sich. „Gut. Komm wieder, wenn du die anderen Schlüsselteile hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Klingt ganz nach dieser dreckigen Spinne." Sie hebt ein Zauberbuch auf und brüllt.</DefaultText>
+      <DefaultText>„Klingt ganz nach dieser dreckigen Spinne.“ Sie hebt ein Zauberbuch auf und brüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich habe einen Teil des Schlüssels zu Concelhauts Gemächern gefunden."</DefaultText>
+      <DefaultText>„Ich habe einen Teil des Schlüssels zu Concelhauts Gemächern gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Erzähl mir etwas über Concelhaut."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über Concelhaut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sie nickt. "Gut. Nimm das auch."
+      <DefaultText>Sie nickt. „Gut. Nimm das auch.“
 
-"Also, damit wir uns verstehen. Ich weiß nicht, was du mit ihm zu schaffen hast, und ich will es auch nicht wissen." Sie verschränkt die Arme.</DefaultText>
+„Also, damit wir uns verstehen. Ich weiß nicht, was du mit ihm zu schaffen hast, und ich will es auch nicht wissen.“ Sie verschränkt die Arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Das ist ein guter Anfang. Sag mir Bescheid, wenn du den Rest gefunden hast, dann gebe ich dir mein Teil."</DefaultText>
+      <DefaultText>„Das ist ein guter Anfang. Sag mir Bescheid, wenn du den Rest gefunden hast, dann gebe ich dir mein Teil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Wenn du also in Schwierigkeiten gerätst, rechne nicht mit meiner Hilfe. Was mich angeht, ist unser Geschäft abgeschlossen."
+      <DefaultText>„Wenn du also in Schwierigkeiten gerätst, rechne nicht mit meiner Hilfe. Was mich angeht, ist unser Geschäft abgeschlossen.“
 
 Sie nickt dir knapp zu und wendet sich wieder ihrer Arbeit zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wie schon gesagt, lass mich aus deinen Angelegenheiten mit Concelhaut raus."</DefaultText>
+      <DefaultText>„Wie schon gesagt, lass mich aus deinen Angelegenheiten mit Concelhaut raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie kratzt sich am Hinterkopf. "Man sollte sich nicht mit ihm anlegen. Oder ihn enttäuschen. Weißt du, ich muss jetzt wirklich wieder an die Arbeit."</DefaultText>
+      <DefaultText>Sie kratzt sich am Hinterkopf. „Man sollte sich nicht mit ihm anlegen. Oder ihn enttäuschen. Weißt du, ich muss jetzt wirklich wieder an die Arbeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Bist du denn nicht besorgt wegen der Belagerung?"</DefaultText>
+      <DefaultText>„Bist du denn nicht besorgt wegen der Belagerung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Sie grinst und schüttelt den Kopf. "Concelhaut hat sich nicht einmal die Mühe gemacht, sein Arbeitszimmer zu verlassen, seit der Angriff begonnen hat. Warum sollte ich mir also Sorgen machen?"</DefaultText>
+      <DefaultText>Sie grinst und schüttelt den Kopf. „Concelhaut hat sich nicht einmal die Mühe gemacht, sein Arbeitszimmer zu verlassen, seit der Angriff begonnen hat. Warum sollte ich mir also Sorgen machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wenn Concelhaut dich nicht hätte hier haben wollen, hättest du es gemerkt, sobald du die Treppe hinunterkamst."
+      <DefaultText>„Wenn Concelhaut dich nicht hätte hier haben wollen, hättest du es gemerkt, sobald du die Treppe hinunterkamst.“
 
-Uariki hält inne. "Und dann wärest du tot, mit etwas Glück."</DefaultText>
+Uariki hält inne. „Und dann wärest du tot, mit etwas Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich bin überrascht, dass ich mich hier so frei bewegen darf."</DefaultText>
+      <DefaultText>„Ich bin überrascht, dass ich mich hier so frei bewegen darf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wer ist sonst noch in Crägholdt?"</DefaultText>
+      <DefaultText>„Wer ist sonst noch in Crägholdt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Sie wendet sich dir mit gerunzelter Stirn zu. "Du weißt aber, wer Concelhaut ist, hoffe ich? Einer der größten Zauberer der Welt?" Sie umschreibt den Raum mit einer Geste. "All das gehört ihm."</DefaultText>
+      <DefaultText>Sie wendet sich dir mit gerunzelter Stirn zu. „Du weißt aber, wer Concelhaut ist, hoffe ich? Einer der größten Zauberer der Welt?“ Sie umschreibt den Raum mit einer Geste. „All das gehört ihm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Außer mir gibt es noch drei weitere Lehrlinge, die an ihren eigenen Projekten arbeiten. Ich weiß nichts über Sabel oder Pelden, aber halte dich von Tanoss fern, dem Vithrack ... irgendwie traue ich ihm nicht über den Weg."</DefaultText>
+      <DefaultText>„Außer mir gibt es noch drei weitere Lehrlinge, die an ihren eigenen Projekten arbeiten. Ich weiß nichts über Sabel oder Pelden, aber halte dich von Tanoss fern, dem Vithrack&#160;… irgendwie traue ich ihm nicht über den Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich fasse es nicht. Du hast Concelhaut getötet." Sie blickt dich misstrauisch an. "Ich hatte damit natürlich nichts zu tun."</DefaultText>
+      <DefaultText>„Ich fasse es nicht. Du hast Concelhaut getötet.“ Sie blickt dich misstrauisch an. „Ich hatte damit natürlich nichts zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Was wirst du jetzt machen?"</DefaultText>
+      <DefaultText>„Was wirst du jetzt machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@ Uariki hält inne. "Und dann wärest du tot, mit etwas Glück."</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich setze meine Forschungen fort. Vielleicht hat Concelhaut in seiner Bibliothek noch etwas, was mir helfen könnte. Wenn du mich jetzt bitte entschuldigst, ich muss mich wieder meiner Arbeit widmen."</DefaultText>
+      <DefaultText>„Ich setze meine Forschungen fort. Vielleicht hat Concelhaut in seiner Bibliothek noch etwas, was mir helfen könnte. Wenn du mich jetzt bitte entschuldigst, ich muss mich wieder meiner Arbeit widmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@ Uariki hält inne. "Und dann wärest du tot, mit etwas Glück."</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich habe die Schlüsselteile der anderen Lehrlinge."</DefaultText>
+      <DefaultText>„Ich habe die Schlüsselteile der anderen Lehrlinge.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -13,290 +13,290 @@ Die Gestalt wendet sich um. Vergeudete Haut und Sehnen werden um Knochen gebogen
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was führt dich in mein Arbeitszimmer?"</DefaultText>
+      <DefaultText>„Was führt dich in mein Arbeitszimmer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Als ich von den Männern des Zerrissenen Banners hörte, dachte ich, du würdest vielleicht Hilfe brauchen."</DefaultText>
+      <DefaultText>„Als ich von den Männern des Zerrissenen Banners hörte, dachte ich, du würdest vielleicht Hilfe brauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es gibt hier ein Artefakt. Ich suche danach."</DefaultText>
+      <DefaultText>„Es gibt hier ein Artefakt. Ich suche danach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich suche nach dem engwithanischen Phylakterium."</DefaultText>
+      <DefaultText>„Ich suche nach dem engwithanischen Phylakterium.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Deine Zauber haben die arkanen Künste transformiert. Ich komme, um von dir zu lernen."</DefaultText>
+      <DefaultText>„Deine Zauber haben die arkanen Künste transformiert. Ich komme, um von dir zu lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich bin gekommen, um dich zu töten."</DefaultText>
+      <DefaultText>„Ich bin gekommen, um dich zu töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Ein trockenes Krächzen von einem Lachen stolpert aus der Kehle des Lichs.
 
-"Ich werde mit den jämmerlichen Söldnern fertig, die meine Rivalen geschickt haben, um mein Phylakterium zu stehlen."
+„Ich werde mit den jämmerlichen Söldnern fertig, die meine Rivalen geschickt haben, um mein Phylakterium zu stehlen.“
 
 Er fährt sich mit einem knochigen Finger über die Wange. Seine Augen verdunkeln sich nachdenklich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Aber ja, du kannst mir helfen."</DefaultText>
+      <DefaultText>„Aber ja, du kannst mir helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Und mein Phylakterium selbst stehlen, ja?"
+      <DefaultText>„Und mein Phylakterium selbst stehlen, ja?“
 
 Ein trockenes Krächzen von einem Lachen stolpert aus der Kehle des Lichs.
 
-"Das haben schon andere vor dir versucht."</DefaultText>
+„Das haben schon andere vor dir versucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Das Fleisch um seinen Mund herum zieht sich zusammen. "Ein Phylakterium ist kein bloßes 'Artefakt'. Es ist das Behältnis einer Seele und das Ergebnis hochkomplexer Magie."
+      <DefaultText>Das Fleisch um seinen Mund herum zieht sich zusammen. „Ein Phylakterium ist kein bloßes 'Artefakt'. Es ist das Behältnis einer Seele und das Ergebnis hochkomplexer Magie.“
 
 Er neigt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Und du solltest etwas über hochkomplexe Magie wissen."</DefaultText>
+      <DefaultText>„Und du solltest etwas über hochkomplexe Magie wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Er neigt den Kopf. "Wenn du wusstest, was es ist, dann hättest du so klug sein müssen, den Mann nicht herauszufordern, der es gemeistert hat."</DefaultText>
+      <DefaultText>Er neigt den Kopf. „Wenn du wusstest, was es ist, dann hättest du so klug sein müssen, den Mann nicht herauszufordern, der es gemeistert hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Aber ich bin froh, dass du es getan hast." Seine Augen funkeln.</DefaultText>
+      <DefaultText>„Aber ich bin froh, dass du es getan hast.“ Seine Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Aber das ist unwichtig. Ich hatte gehofft, dass du kommst."</DefaultText>
+      <DefaultText>„Aber das ist unwichtig. Ich hatte gehofft, dass du kommst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Zauber werden von freier Essenz im Äther gespeist. Ein jämmerliches Rinnsal an Energie, die aus dem Rad tropft." Er zeichnet arkane Formen in die Luft um ihn herum.</DefaultText>
+      <DefaultText>„Zauber werden von freier Essenz im Äther gespeist. Ein jämmerliches Rinnsal an Energie, die aus dem Rad tropft.“ Er zeichnet arkane Formen in die Luft um ihn herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Aber stell dir vor, was mit einer mächtigeren Essenzquelle möglich wäre. Der Seele eines Wächters, sagen wir." Seine Augen blitzen auf. Ein steifes Grinsen verzerrt seine Lippen.</DefaultText>
+      <DefaultText>„Aber stell dir vor, was mit einer mächtigeren Essenzquelle möglich wäre. Der Seele eines Wächters, sagen wir.“ Seine Augen blitzen auf. Ein steifes Grinsen verzerrt seine Lippen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Ein trockenes Krächzen von einem Lachen stolpert aus der Kehle des Lichs.
 
-"Ich habe meine Seele in ein Phylakterium gegossen, um mein Leben und mein Wissen zu erweitern. Meine Lehrlinge haben Jahre in ihren Laboratorien verbracht und über neuen Verzauberungen gebrütet, nur für das Privileg, an meinen Füßen lernen zu dürfen."</DefaultText>
+„Ich habe meine Seele in ein Phylakterium gegossen, um mein Leben und mein Wissen zu erweitern. Meine Lehrlinge haben Jahre in ihren Laboratorien verbracht und über neuen Verzauberungen gebrütet, nur für das Privileg, an meinen Füßen lernen zu dürfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Du aber bringst nichts und erwartest, dass ich Wissen mit dir teile, das ich im Laufe eines ganzen Lebens angesammelt habe?" Concelhauts Augen leuchten mit einem seltsamen Hunger.</DefaultText>
+      <DefaultText>„Du aber bringst nichts und erwartest, dass ich Wissen mit dir teile, das ich im Laufe eines ganzen Lebens angesammelt habe?“ Concelhauts Augen leuchten mit einem seltsamen Hunger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Du hättest einen guten Lehrling abgegeben."
+      <DefaultText>„Du hättest einen guten Lehrling abgegeben.“
 
-"Aber ich habe andere Dinge mit dir vor." Er grinst so breit, dass alle seine Zähne zu sehen sind.</DefaultText>
+„Aber ich habe andere Dinge mit dir vor.“ Er grinst so breit, dass alle seine Zähne zu sehen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Angreifen] "Genug Geschwätz."</DefaultText>
+      <DefaultText>[Angreifen] „Genug Geschwätz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Erzähl mir von deinem Phylakterium."</DefaultText>
+      <DefaultText>„Erzähl mir von deinem Phylakterium.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wer sind deine Rivalen?"</DefaultText>
+      <DefaultText>„Wer sind deine Rivalen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Welche Magie erfordert die Kraft einer Wächterseele?"</DefaultText>
+      <DefaultText>„Welche Magie erfordert die Kraft einer Wächterseele?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Weißt du, wer die Männer des Zerrissenen Banners angeheuert hat?"</DefaultText>
+      <DefaultText>„Weißt du, wer die Männer des Zerrissenen Banners angeheuert hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Du willst es vor meinen Augen stehlen? Als wäre das so leicht!"</DefaultText>
+      <DefaultText>„Du willst es vor meinen Augen stehlen? Als wäre das so leicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ein Phylakterium ist nicht irgendein Tand, den ich um den Hals trage oder in einer Kiste verstecke. Es ist eine komplexe Schicht Zauberkunst, die mit Runden in meinen Schädel geritzt ist und mit einem Adra-Stopfen versiegelt." Das dünne Fleisch, das über seine Wangenknochen gespannt ist, zuckt bei diesen Worten.</DefaultText>
+      <DefaultText>„Ein Phylakterium ist nicht irgendein Tand, den ich um den Hals trage oder in einer Kiste verstecke. Es ist eine komplexe Schicht Zauberkunst, die mit Runden in meinen Schädel geritzt ist und mit einem Adra-Stopfen versiegelt.“ Das dünne Fleisch, das über seine Wangenknochen gespannt ist, zuckt bei diesen Worten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Er lacht. "In meinen Augen oder ihren? Du hast gewiss schon von den großen Erzmagiern von Eora gehört - Ninagauth, Minoletta, Citzal und Kalakoth. Auch Arkemyr und Llengrath."</DefaultText>
+      <DefaultText>Er lacht. „In meinen Augen oder ihren? Du hast gewiss schon von den großen Erzmagiern von Eora gehört - Ninagauth, Minoletta, Citzal und Kalakoth. Auch Arkemyr und Llengrath.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Einer der anderen Erzmagier, gewiss." Er winkt abfällig ab.</DefaultText>
+      <DefaultText>„Einer der anderen Erzmagier, gewiss.“ Er winkt abfällig ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Die forderndsten und visionärsten! Die, über welche Zauberer seit Jahrhunderten streiten! Namen wie Caedebald der Rote und Maura von den Sieben Hügeln. Selbst du musst von ihnen gehört haben." Er neigt sich vor. Er ist so erregt, dass seine Knochen klappern.</DefaultText>
+      <DefaultText>„Die forderndsten und visionärsten! Die, über welche Zauberer seit Jahrhunderten streiten! Namen wie Caedebald der Rote und Maura von den Sieben Hügeln. Selbst du musst von ihnen gehört haben.“ Er neigt sich vor. Er ist so erregt, dass seine Knochen klappern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich weiß immer noch nicht, wovon du sprichst."</DefaultText>
+      <DefaultText>„Ich weiß immer noch nicht, wovon du sprichst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Du sprichst davon, die Zeit zu manipulieren."</DefaultText>
+      <DefaultText>„Du sprichst davon, die Zeit zu manipulieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ganz genau. Und was für ein Triumph das wäre." Er streckt seine knochendürren Finger.</DefaultText>
+      <DefaultText>„Ganz genau. Und was für ein Triumph das wäre.“ Er streckt seine knochendürren Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Die Macht, Zeit zu verbiegen und zu verdrehen. Wie ein Wollfaden, den man sich um den Finger wickelt. Den Fluss zu erdrücken, bis er nur noch ein Rinnsal ist. Ihn vielleicht sogar umkehren." Seine Augen brennen fieberhaft.</DefaultText>
+      <DefaultText>„Die Macht, Zeit zu verbiegen und zu verdrehen. Wie ein Wollfaden, den man sich um den Finger wickelt. Den Fluss zu erdrücken, bis er nur noch ein Rinnsal ist. Ihn vielleicht sogar umkehren.“ Seine Augen brennen fieberhaft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich habe dir doch gewiss irgendetwas anzubieten."</DefaultText>
+      <DefaultText>„Ich habe dir doch gewiss irgendetwas anzubieten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Wieder krächzt ein kehliges Lachen aus seinem Mund.
 
-"Das hast du."</DefaultText>
+„Das hast du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Zufälligerweise kann ich dir etwas Nützliches sagen." Er grinst so breit, dass alle seine Zähne zu sehen sind.</DefaultText>
+      <DefaultText>„Zufälligerweise kann ich dir etwas Nützliches sagen.“ Er grinst so breit, dass alle seine Zähne zu sehen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ich wette auf Arkemyr oder Llengrath, die sich immer hinter Glanz und Täuschung verbergen. Aber es könnte jeder meiner Rivalen gewesen sein."</DefaultText>
+      <DefaultText>„Ich wette auf Arkemyr oder Llengrath, die sich immer hinter Glanz und Täuschung verbergen. Aber es könnte jeder meiner Rivalen gewesen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Wie weit du es gebracht hast, von der Seide und Spitze deiner Jugend. Deine Verwandten wären entsetzt, dich so zu sehen." Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Wie weit du es gebracht hast, von der Seide und Spitze deiner Jugend. Deine Verwandten wären entsetzt, dich so zu sehen.“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Woher weißt du, wer ich bin?"</DefaultText>
+      <DefaultText>„Woher weißt du, wer ich bin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Ein trockenes Krächzen von einem Lachen stolpert aus der Kehle des Lichs.
 
-"Ich habe mein Leben in ein Phylakterium gegossen und auf jemanden wie dich gewartet. Nicht wer du bist, WAS du bist interessiert mich."</DefaultText>
+„Ich habe mein Leben in ein Phylakterium gegossen und auf jemanden wie dich gewartet. Nicht wer du bist, WAS du bist interessiert mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Du bist nicht der Bücherwurm, den ich erwartet hatte. Aber Prüfungen und Reisen haben deine Hände schwielig werden lassen, was?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Du bist nicht der Bücherwurm, den ich erwartet hatte. Aber Prüfungen und Reisen haben deine Hände schwielig werden lassen, was?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Du bist nicht der verweichlichte Genussmensch, den ich erwartet hatte. Aber Prüfungen und Reisen haben deine Hände schwielig werden lassen, was?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Du bist nicht der verweichlichte Genussmensch, den ich erwartet hatte. Aber Prüfungen und Reisen haben deine Hände schwielig werden lassen, was?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ja, du siehst aus wie jemand, der mit dem Schwert gelebt hat. Und doch bist du anders als die unglückseligen Rohlinge, die über uns kampieren." Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Ja, du siehst aus wie jemand, der mit dem Schwert gelebt hat. Und doch bist du anders als die unglückseligen Rohlinge, die über uns kampieren.“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Du hast die Seele von jemandem, der immer rastlos ist, immer auf der Suche. Ich frage mich, ob dich das wohl zu mir geführt hat?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Du hast die Seele von jemandem, der immer rastlos ist, immer auf der Suche. Ich frage mich, ob dich das wohl zu mir geführt hat?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Die Gier nach Geld hängt über dir wie eine Krankheit. Suchst du nach einer weiteren Schatzkammer, die du ausrauben kannst?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Die Gier nach Geld hängt über dir wie eine Krankheit. Suchst du nach einer weiteren Schatzkammer, die du ausrauben kannst?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Nie zufrieden, immer darauf aus, die Mächtigen zu richten. Bist du nicht deswegen hier? Um jemanden zu stürzen, der über dir steht?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Nie zufrieden, immer darauf aus, die Mächtigen zu richten. Bist du nicht deswegen hier? Um jemanden zu stürzen, der über dir steht?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Du strahlst keine Größe aus. Aber es haben schon viele dafür bezahlt, dich unterschätzt zu haben, was?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Du strahlst keine Größe aus. Aber es haben schon viele dafür bezahlt, dich unterschätzt zu haben, was?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Eine Seele voller göttlicher Rätsel. Bist du auf der Suche nach Antworten? Oder sind die Kräfte, die deinen Weg bestimmen, selbst dir ein Mysterium?" Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Eine Seele voller göttlicher Rätsel. Bist du auf der Suche nach Antworten? Oder sind die Kräfte, die deinen Weg bestimmen, selbst dir ein Mysterium?“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Kommst du im Auftrag der Götter? Oder ist es etwas anderes, frage ich mich?" Sein straffes Fleisch verzieht sich zu einer verächtlichen Grimasse.</DefaultText>
+      <DefaultText>„Kommst du im Auftrag der Götter? Oder ist es etwas anderes, frage ich mich?“ Sein straffes Fleisch verzieht sich zu einer verächtlichen Grimasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ein Jammer, dass du ein Joch abwirfst, nur um ein anderes zu finden." Concelhauts Augen funkeln.</DefaultText>
+      <DefaultText>„Ein Jammer, dass du ein Joch abwirfst, nur um ein anderes zu finden.“ Concelhauts Augen funkeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Weggehen] "Ich habe genug gehört."</DefaultText>
+      <DefaultText>[Weggehen] „Ich habe genug gehört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Als du dich abwendest, richtet er sich auf. "Wo willst du hin? Ich bin noch lange nicht fertig mit dir."</DefaultText>
+      <DefaultText>Als du dich abwendest, richtet er sich auf. „Wo willst du hin? Ich bin noch lange nicht fertig mit dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Was bist du?"</DefaultText>
+      <DefaultText>„Was bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,17 +306,17 @@ Er neigt den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Was hast du denn erwartet? Einen alten Mann, der sich vor seinen Angreifern versteckt? Oder einen jungen Mann, der sie entschlossen angreift?"</DefaultText>
+      <DefaultText>„Was hast du denn erwartet? Einen alten Mann, der sich vor seinen Angreifern versteckt? Oder einen jungen Mann, der sie entschlossen angreift?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Schwach oder stark, das Fleisch verfällt. Um zu überleben, muss man darüber hinaus wachsen." Seine Augen verdunkeln sich, als er dich wartend beobachtet.</DefaultText>
+      <DefaultText>„Schwach oder stark, das Fleisch verfällt. Um zu überleben, muss man darüber hinaus wachsen.“ Seine Augen verdunkeln sich, als er dich wartend beobachtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Du bist ein Lich."</DefaultText>
+      <DefaultText>„Du bist ein Lich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,32 +331,32 @@ Er neigt den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Und jenseits der Umklammerung eines gewöhnlichen Todes. Denn ich habe bereits einen ungewöhnlichen angenommen."</DefaultText>
+      <DefaultText>„Und jenseits der Umklammerung eines gewöhnlichen Todes. Denn ich habe bereits einen ungewöhnlichen angenommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Er seufzt. "Ich bin ein Lich."</DefaultText>
+      <DefaultText>Er seufzt. „Ich bin ein Lich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Weil das Medium so schwach ist, muss ein Zauberer für gewöhnlich seine Mühen auf die Runen und Beschwörungen konzentrieren, die es kanalisieren." Er legt die Spitzen seiner schmalen Finger zusammen.</DefaultText>
+      <DefaultText>„Weil das Medium so schwach ist, muss ein Zauberer für gewöhnlich seine Mühen auf die Runen und Beschwörungen konzentrieren, die es kanalisieren.“ Er legt die Spitzen seiner schmalen Finger zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Deswegen bin ich hier. Und überlebe."</DefaultText>
+      <DefaultText>„Deswegen bin ich hier. Und überlebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Wir alle haben die Lehre und die Praxis der Magie geformt. Nur nicht immer zu unser aller Geschmack." Er zuckt mit den Schultern.</DefaultText>
+      <DefaultText>„Wir alle haben die Lehre und die Praxis der Magie geformt. Nur nicht immer zu unser aller Geschmack.“ Er zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Wir haben einen alten Mann gefunden, der sich versteckt hielt. Nicht vor Angreifern, sondern vor dem Tod."</DefaultText>
+      <DefaultText>„Wir haben einen alten Mann gefunden, der sich versteckt hielt. Nicht vor Angreifern, sondern vor dem Tod.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

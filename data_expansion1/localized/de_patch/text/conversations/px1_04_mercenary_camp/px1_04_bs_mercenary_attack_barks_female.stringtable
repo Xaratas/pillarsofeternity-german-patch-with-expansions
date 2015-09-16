@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Dein Kopf wird rollen!"</DefaultText>
+      <DefaultText>„Dein Kopf wird rollen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Zu den Waffen!"</DefaultText>
+      <DefaultText>„Zu den Waffen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Für den Scheiß zahlt man mir zu wenig."</DefaultText>
+      <DefaultText>„Für den Scheiß zahlt man mir zu wenig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Aufgepasst, Männer."</DefaultText>
+      <DefaultText>„Aufgepasst, Männer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Bannermänner - zu den Waffen!"</DefaultText>
+      <DefaultText>„Bannermänner - zu den Waffen!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

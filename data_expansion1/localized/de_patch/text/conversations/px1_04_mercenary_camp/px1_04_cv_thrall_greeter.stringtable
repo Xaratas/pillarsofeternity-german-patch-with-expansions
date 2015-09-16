@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Tanoss muss mit dir sprechen, [Player Race]. Komm, komm."</DefaultText>
+      <DefaultText>„Tanoss muss mit dir sprechen, [Player Race]. Komm, komm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Komm, sprich mit Tanoss."</DefaultText>
+      <DefaultText>„Komm, sprich mit Tanoss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Achtung vor anderen Lehrlingen. Tiere, Eigenbrötler."</DefaultText>
+      <DefaultText>„Achtung vor anderen Lehrlingen. Tiere, Eigenbrötler.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
