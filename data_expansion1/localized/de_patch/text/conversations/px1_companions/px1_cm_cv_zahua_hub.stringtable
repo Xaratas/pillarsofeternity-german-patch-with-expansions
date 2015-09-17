@@ -6,150 +6,150 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Was brauchst du von Zahua?"</DefaultText>
+      <DefaultText>„Was brauchst du von Zahua?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Diese Gefechte zwischen Ogern und Gestanden, sie werden erst enden, wenn einer von ihnen ausgelöscht ist. Oder beide."</DefaultText>
+      <DefaultText>„Diese Gefechte zwischen Ogern und Gestanden, sie werden erst enden, wenn einer von ihnen ausgelöscht ist. Oder beide.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich denke oft an die verlorenen Erbauer dieser Festung, die wir suchen. Sie wurden aus der Welt ausgelöscht."</DefaultText>
+      <DefaultText>„Ich denke oft an die verlorenen Erbauer dieser Festung, die wir suchen. Sie wurden aus der Welt ausgelöscht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Die Geister, die hier verweilen, klammern sich an ihre alten Konflikte. Ihr Hass ist so stark, dass er sie an Ort und Stelle verwurzelt, obwohl er längst nicht mehr von Bedeutung ist."</DefaultText>
+      <DefaultText>„Die Geister, die hier verweilen, klammern sich an ihre alten Konflikte. Ihr Hass ist so stark, dass er sie an Ort und Stelle verwurzelt, obwohl er längst nicht mehr von Bedeutung ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"In Durgans Batterie wurde ein hoffnungsloser Kampf ausgetragen. Sie schienen zu wissen, dass ihr Tod gekommen war, und doch wehrten sich viele dagegen."</DefaultText>
+      <DefaultText>„In Durgans Batterie wurde ein hoffnungsloser Kampf ausgetragen. Sie schienen zu wissen, dass ihr Tod gekommen war, und doch wehrten sich viele dagegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Die Zwerge von Durgans Batterie haben sich also nicht selbst zerstört. Sie sind Eindringlingen zum Opfer gefallen."</DefaultText>
+      <DefaultText>„Die Zwerge von Durgans Batterie haben sich also nicht selbst zerstört. Sie sind Eindringlingen zum Opfer gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich will mehr über eure Überzeugungen erfahren."</DefaultText>
+      <DefaultText>„Ich will mehr über eure Überzeugungen erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wo hast du denn das Kämpfen gelernt?"</DefaultText>
+      <DefaultText>„Wo hast du denn das Kämpfen gelernt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Erzähl mir etwas von deiner Heimat."</DefaultText>
+      <DefaultText>„Erzähl mir etwas von deiner Heimat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Was hast du getan, bevor du hierher kamst?"</DefaultText>
+      <DefaultText>„Was hast du getan, bevor du hierher kamst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Er nickt. "Die Wege der Nalpazca können für Außenstehende schwer zu verstehen sein."</DefaultText>
+      <DefaultText>Er nickt. „Die Wege der Nalpazca können für Außenstehende schwer zu verstehen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich würde gerne Licht auf sie werfen."</DefaultText>
+      <DefaultText>„Ich würde gerne Licht auf sie werfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Wer sind die Nalpazca?"</DefaultText>
+      <DefaultText>„Wer sind die Nalpazca?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Als wir uns begegnet sind, sagtest du, du würdest dich von der Eitelkeit befreien."</DefaultText>
+      <DefaultText>„Als wir uns begegnet sind, sagtest du, du würdest dich von der Eitelkeit befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Was hat es mit deinen Narben auf sich?"</DefaultText>
+      <DefaultText>„Was hat es mit deinen Narben auf sich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wonach suchen die Nalpazca?"</DefaultText>
+      <DefaultText>„Wonach suchen die Nalpazca?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wir sind die Krieger der Tacan. Adlige, Bauern, es ist nicht von Bedeutung."</DefaultText>
+      <DefaultText>„Wir sind die Krieger der Tacan. Adlige, Bauern, es ist nicht von Bedeutung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Wir sind Seelen, die in Fleisch gefangen sind, mehr nicht."
+      <DefaultText>„Wir sind Seelen, die in Fleisch gefangen sind, mehr nicht.“
 
 Er schlägt sich gegen das Brustbein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Es ist jedoch eine Sache, es zu sagen ... eine andere, es zu wissen. Daher üben wir, bis wir es wissen ... oder bis wir sterben."
+      <DefaultText>„Es ist jedoch eine Sache, es zu sagen&#160;… eine andere, es zu wissen. Daher üben wir, bis wir es wissen&#160;… oder bis wir sterben.“
 
 Zahua betrachtet dich einen Augenblick lang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Warum hattest du Schneekappenpilz gegessen, als wir uns begegnet sind?"</DefaultText>
+      <DefaultText>„Warum hattest du Schneekappenpilz gegessen, als wir uns begegnet sind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich gebe diese Antwort, weil du es wolltest. Doch die Nalpazca würden etwas anderes sagen. Sie würden sagen, dass wir nichts sind. Rein gar nichts."</DefaultText>
+      <DefaultText>„Ich gebe diese Antwort, weil du es wolltest. Doch die Nalpazca würden etwas anderes sagen. Sie würden sagen, dass wir nichts sind. Rein gar nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Perfektion."
+      <DefaultText>„Perfektion.“
 
 Er lässt das Wort einen Augenblick lang in der Luft hängen, als wäre es eine Beschwörung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sieh dich um. Die Welt ist perfekt. Jedes Wesen, jeder Augenblick, jeder Tod."
+      <DefaultText>„Sieh dich um. Die Welt ist perfekt. Jedes Wesen, jeder Augenblick, jeder Tod.“
 
 Er runzelt die Stirn und schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Das sehen wir selten. Wir stolpern durch das Leben, verloren in Ablenkungen."</DefaultText>
+      <DefaultText>„Das sehen wir selten. Wir stolpern durch das Leben, verloren in Ablenkungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Sämtliche Praktiken der Nalpazca sind eine Erinnerung daran, nicht länger zu stolpern. Die Perfektion zu erkennen."</DefaultText>
+      <DefaultText>„Sämtliche Praktiken der Nalpazca sind eine Erinnerung daran, nicht länger zu stolpern. Die Perfektion zu erkennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wie kannst du sagen, dass die Welt perfekt ist?"</DefaultText>
+      <DefaultText>„Wie kannst du sagen, dass die Welt perfekt ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ich will doch noch etwas zu deinen Überzeugungen fragen."</DefaultText>
+      <DefaultText>„Ich will doch noch etwas zu deinen Überzeugungen fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Sie stellen sich eine Welt ohne Leid vor. Sie träumen davon, dort zu leben. Und sie leiden deswegen noch mehr."
+      <DefaultText>„Sie stellen sich eine Welt ohne Leid vor. Sie träumen davon, dort zu leben. Und sie leiden deswegen noch mehr.“
 
 Unter Zahuas ruhigem Ausdruck beginnt eine tiefe Leidenschaft zu glühen wie eine Glut, die neu entfacht wird.</DefaultText>
       <FemaleText />
@@ -161,222 +161,222 @@ Unter Zahuas ruhigem Ausdruck beginnt eine tiefe Leidenschaft zu glühen wie ein
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Das ist ihr Fehler. Die Welt ist perfekt. Sie wurde von einer grenzenlosen Weisheit geschaffen."</DefaultText>
+      <DefaultText>„Das ist ihr Fehler. Die Welt ist perfekt. Sie wurde von einer grenzenlosen Weisheit geschaffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Es liegt an uns, zu begreifen, warum eine perfekte Welt es erfordert, dass wir leiden."</DefaultText>
+      <DefaultText>„Es liegt an uns, zu begreifen, warum eine perfekte Welt es erfordert, dass wir leiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Eitelkeit ist eine Fessel, die uns an den Boden bindet."</DefaultText>
+      <DefaultText>„Eitelkeit ist eine Fessel, die uns an den Boden bindet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wir wir uns sehen, wie andere uns sehen, diese Dinge sind nicht real. Sie lassen sich nicht berühren."</DefaultText>
+      <DefaultText>„Wir wir uns sehen, wie andere uns sehen, diese Dinge sind nicht real. Sie lassen sich nicht berühren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Die Lehren der Nalpazca offenbaren viele solche Fesseln."
+      <DefaultText>„Die Lehren der Nalpazca offenbaren viele solche Fesseln.“
 
-Er zählt sie an seinen Fingern ab. "Furcht, Vergnügen, Zweifel, Hass. Sie alle halten uns zurück, wenn wir uns darin verheddern."</DefaultText>
+Er zählt sie an seinen Fingern ab. „Furcht, Vergnügen, Zweifel, Hass. Sie alle halten uns zurück, wenn wir uns darin verheddern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Und was passiert, wenn du nicht geschnappt wirst?"</DefaultText>
+      <DefaultText>„Und was passiert, wenn du nicht geschnappt wirst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Dann siehst du nur noch das, was wirklich existiert, und du leidest nicht länger. Du wirst einem Gott gleich, siehst die Dinge, wie die Götter sie sehen."
+      <DefaultText>„Dann siehst du nur noch das, was wirklich existiert, und du leidest nicht länger. Du wirst einem Gott gleich, siehst die Dinge, wie die Götter sie sehen.“
 
 Zahua spricht wie jemand, der von einem fantastischen Traum berichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wenn du dich von den Fesseln befreien kannst, dann bist du frei."</DefaultText>
+      <DefaultText>„Wenn du dich von den Fesseln befreien kannst, dann bist du frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Zahua schmunzelt. "Ich begegne Leuten auf der Straße und sie bemitleiden mich. Ich finde es inzwischen liebenswert."</DefaultText>
+      <DefaultText>Zahua schmunzelt. „Ich begegne Leuten auf der Straße und sie bemitleiden mich. Ich finde es inzwischen liebenswert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Sie sehen so viele Narben und sie fragen sich 'Wie kann der Mann darunter nicht gebrochen sein?'"
+      <DefaultText>„Sie sehen so viele Narben und sie fragen sich 'Wie kann der Mann darunter nicht gebrochen sein?'“
 
 Er fährt sich mit den Fingern über die wulstige Narbe eines Schnitts in seinem linken Unterarm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Eine Narbe ist eine Wunde, die verheilt. Eine eindrucksvolle Erinnerung an unsere Macht über das Leid."</DefaultText>
+      <DefaultText>„Eine Narbe ist eine Wunde, die verheilt. Eine eindrucksvolle Erinnerung an unsere Macht über das Leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Sie verursachen keine Schmerzen, nur das Echo von Schmerzen ... das einen nicht verletzen kann. Zeig mir einen vernarbten Mann und ich zeige dir einen Mann, der Widrigkeiten überwinden kann."</DefaultText>
+      <DefaultText>„Sie verursachen keine Schmerzen, nur das Echo von Schmerzen&#160;… das einen nicht verletzen kann. Zeig mir einen vernarbten Mann und ich zeige dir einen Mann, der Widrigkeiten überwinden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Das Malcachoa? Jederzeit, es kommt selten vor, dass ich keine gegessen habe."</DefaultText>
+      <DefaultText>„Das Malcachoa? Jederzeit, es kommt selten vor, dass ich keine gegessen habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Wenn man es das erste Mal probiert, scheint es wie eine wunderbare Fantasie. Man sieht Farben, die man noch nie gesehen hat. Begegnet Kreaturen, die es nicht gibt."</DefaultText>
+      <DefaultText>„Wenn man es das erste Mal probiert, scheint es wie eine wunderbare Fantasie. Man sieht Farben, die man noch nie gesehen hat. Begegnet Kreaturen, die es nicht gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Mit Übung sieht man, dass einem dadurch nur die Realität offenbart wird. Die Essenz aller Dinge. Wie sie sich ähneln, wie sie verbunden sind."</DefaultText>
+      <DefaultText>„Mit Übung sieht man, dass einem dadurch nur die Realität offenbart wird. Die Essenz aller Dinge. Wie sie sich ähneln, wie sie verbunden sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich habe Bäume wachsen und welken sehen. Ich habe Fleisch gekostet und das Leben des Tieres gekannt, als wäre es mein eigenes."
+      <DefaultText>„Ich habe Bäume wachsen und welken sehen. Ich habe Fleisch gekostet und das Leben des Tieres gekannt, als wäre es mein eigenes.“
 
 Er neigt sich verschwörerisch vor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Doch das Malcachoa führt oft dazu, dass der Magen sich gewaltsam leert. Es ist also nicht jedermanns Sache."</DefaultText>
+      <DefaultText>„Doch das Malcachoa führt oft dazu, dass der Magen sich gewaltsam leert. Es ist also nicht jedermanns Sache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Die meisten Tacan haben zwei Optionen. Sie können Felder bestellen oder sie können Nalpazca-Krieger werden."</DefaultText>
+      <DefaultText>„Die meisten Tacan haben zwei Optionen. Sie können Felder bestellen oder sie können Nalpazca-Krieger werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich war das jüngste von fünf Kindern. Ein Träumer. Die Nalpazca waren immer in meinen Gedanken."</DefaultText>
+      <DefaultText>„Ich war das jüngste von fünf Kindern. Ein Träumer. Die Nalpazca waren immer in meinen Gedanken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ich will dich noch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich will dich noch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Du verlangst viel von jemandem, der wenig weiß."</DefaultText>
+      <DefaultText>„Du verlangst viel von jemandem, der wenig weiß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Sie empfanden nicht dasselbe für mich. Dreimal bewarb ich mich um den Beitritt. Dreimal wurde ich abgewiesen."</DefaultText>
+      <DefaultText>„Sie empfanden nicht dasselbe für mich. Dreimal bewarb ich mich um den Beitritt. Dreimal wurde ich abgewiesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Aber sie haben dich letztlich akzeptiert?"</DefaultText>
+      <DefaultText>„Aber sie haben dich letztlich akzeptiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Warum hat man dich abgelehnt?"</DefaultText>
+      <DefaultText>„Warum hat man dich abgelehnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"So lange hatte ich geträumt und nicht daran gedacht, mich vorzubereiten. Ich war faul, ungeschickt, übergewichtig."</DefaultText>
+      <DefaultText>„So lange hatte ich geträumt und nicht daran gedacht, mich vorzubereiten. Ich war faul, ungeschickt, übergewichtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er lacht. "Hätten sie mich nicht abgelehnt, was hätte ich für Schande über sie gebracht!"</DefaultText>
+      <DefaultText>Er lacht. „Hätten sie mich nicht abgelehnt, was hätte ich für Schande über sie gebracht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Sie hatten keine Wahl. Unsere Hohepriesterin hatte eine Vision."</DefaultText>
+      <DefaultText>„Sie hatten keine Wahl. Unsere Hohepriesterin hatte eine Vision.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Lass mich raten. Malcachoa?"</DefaultText>
+      <DefaultText>„Lass mich raten. Malcachoa?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Was hat sie gesehen?"</DefaultText>
+      <DefaultText>„Was hat sie gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Malcachoa und irgendwelcher anderer Scheiß, wie ich sie kenne. Niemand konnte Zeremonien ausrichten wie sie."</DefaultText>
+      <DefaultText>Er zuckt mit den Schultern. „Malcachoa und irgendwelcher anderer Scheiß, wie ich sie kenne. Niemand konnte Zeremonien ausrichten wie sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Sie sah mich. Als Häuptling. Der eine Armee von Nalpazca-Kriegern zum Sieg über unsere Feinde führte, die Quechmatl."
+      <DefaultText>„Sie sah mich. Als Häuptling. Der eine Armee von Nalpazca-Kriegern zum Sieg über unsere Feinde führte, die Quechmatl.“
 
 Beim letzten Wort verzerrt er seinen Mund, als hätte er etwas Verdorbenes gegessen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Du fluchst viel für einen Mönch. Lehren die Nalpazca das?"</DefaultText>
+      <DefaultText>„Du fluchst viel für einen Mönch. Lehren die Nalpazca das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Lass uns weiterziehen."</DefaultText>
+      <DefaultText>„Lass uns weiterziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Unser letzter Häuptling war im Winter gestorben. Ein neuer hatte sich noch nicht aus den Reihen der Nalpazca hervorgetan."</DefaultText>
+      <DefaultText>„Unser letzter Häuptling war im Winter gestorben. Ein neuer hatte sich noch nicht aus den Reihen der Nalpazca hervorgetan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Es war also der rechte Zeitpunkt. Am nächsten Tag führten sie mich zu Ixepillo, den Großmeister der Nalpazca, und ich wurde zu seinem Schüler."</DefaultText>
+      <DefaultText>„Es war also der rechte Zeitpunkt. Am nächsten Tag führten sie mich zu Ixepillo, den Großmeister der Nalpazca, und ich wurde zu seinem Schüler.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Und dieser 'Ixepillo' hat dir alles beigebracht, was du weißt?"</DefaultText>
+      <DefaultText>„Und dieser 'Ixepillo' hat dir alles beigebracht, was du weißt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich habe weiter bei den anderen Ausbildern gelernt. Mit meinen Nalpazca-Brüdern und -Schwestern Übungskämpfe ausgetragen und meditiert. Ich habe von ihnen allen gelernt."</DefaultText>
+      <DefaultText>„Ich habe weiter bei den anderen Ausbildern gelernt. Mit meinen Nalpazca-Brüdern und -Schwestern Übungskämpfe ausgetragen und meditiert. Ich habe von ihnen allen gelernt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Aber von Ixepillo zu lernen war das Privileg eines Häuptlings. Er kannte die Geheimnisse, die einen zum Meister über die Realität machen konnten, Unbesiegbarkeit im Kampf verleihen."</DefaultText>
+      <DefaultText>„Aber von Ixepillo zu lernen war das Privileg eines Häuptlings. Er kannte die Geheimnisse, die einen zum Meister über die Realität machen konnten, Unbesiegbarkeit im Kampf verleihen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ohne seine Lektionen wäre ich nicht, wer ich heute bin."</DefaultText>
+      <DefaultText>„Ohne seine Lektionen wäre ich nicht, wer ich heute bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Du sagtest, dein Lehrer wusste, wie man die Realität beherrscht. Hast du seine Geheimnisse erlernt?"</DefaultText>
+      <DefaultText>„Du sagtest, dein Lehrer wusste, wie man die Realität beherrscht. Hast du seine Geheimnisse erlernt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Und es macht großen Spaß, sie zu sprechen."</DefaultText>
+      <DefaultText>„Und es macht großen Spaß, sie zu sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Worte sind nichts als Klänge. Wenn wir das vergessen, können sie als Waffe gegen uns gerichtet werden. Schimpfwörter zu verwenden nimmt ihnen oft die Macht, die sie über uns haben."</DefaultText>
+      <DefaultText>„Worte sind nichts als Klänge. Wenn wir das vergessen, können sie als Waffe gegen uns gerichtet werden. Schimpfwörter zu verwenden nimmt ihnen oft die Macht, die sie über uns haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -388,551 +388,551 @@ Er blickt dich mit gerunzelter Stirn an und setzt erneut an.</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Nicht alle."</DefaultText>
+      <DefaultText>„Nicht alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"In meiner Schande habe ich ihm alles gegeben, was ich hatte. Er unterrichtete mich sieben Jahre lang, und in dieser Zeit wuchs ich über die anderen hinaus."</DefaultText>
+      <DefaultText>„In meiner Schande habe ich ihm alles gegeben, was ich hatte. Er unterrichtete mich sieben Jahre lang, und in dieser Zeit wuchs ich über die anderen hinaus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Wenn ein Nalpazca als würdiger Nachfolger eines Häuptlings angesehen wurde, besser als seine Kameraden, so nahm Ixepillo ihn auf. Er bereitete ihn auf die Zukunft vor."</DefaultText>
+      <DefaultText>„Wenn ein Nalpazca als würdiger Nachfolger eines Häuptlings angesehen wurde, besser als seine Kameraden, so nahm Ixepillo ihn auf. Er bereitete ihn auf die Zukunft vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Als man mich zu ihm brachte, wusste ich, wie unwürdig ich war. Aber wenn er ebenso empfand, so zeigte er es mir nie."</DefaultText>
+      <DefaultText>„Als man mich zu ihm brachte, wusste ich, wie unwürdig ich war. Aber wenn er ebenso empfand, so zeigte er es mir nie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Dann kam der Tag, an dem er mir das letzte Geheimnis des Anitlei offenbaren wollte. Des unbesiegbaren Kriegers, zu dem alle Tacan-Häuptlinge werden müssen, um unser Volk zu beschützen."</DefaultText>
+      <DefaultText>„Dann kam der Tag, an dem er mir das letzte Geheimnis des Anitlei offenbaren wollte. Des unbesiegbaren Kriegers, zu dem alle Tacan-Häuptlinge werden müssen, um unser Volk zu beschützen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ixepillo kam nicht."
+      <DefaultText>„Ixepillo kam nicht.“
 
-"Ich fand ihn in seinem Arbeitszimmer. Er meditierte. Oder vielleicht blickte er nur in die Ferne. Ich konnte es nicht sagen."</DefaultText>
+„Ich fand ihn in seinem Arbeitszimmer. Er meditierte. Oder vielleicht blickte er nur in die Ferne. Ich konnte es nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"'Meister', sagte ich. 'Ist es an der Zeit, dass ich lerne, der Anitlei zu sein?'
+      <DefaultText>„'Meister', sagte ich. 'Ist es an der Zeit, dass ich lerne, der Anitlei zu sein?'
 
-"'Noch nicht', antwortete er. Und das war alles."
+„'Noch nicht', antwortete er. Und das war alles.“
 
 Zahuas Mund bewegt sich kaum, während er spricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Er unterrichtete mich nie wieder.
+      <DefaultText>„Er unterrichtete mich nie wieder.
 
-"Ein Jahr später war er tot, gestorben an Altersschwäche. Sie ernannten mich trotzdem zum Häuptling."</DefaultText>
+„Ein Jahr später war er tot, gestorben an Altersschwäche. Sie ernannten mich trotzdem zum Häuptling.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Vielleicht hat er dich auf die Probe gestellt."</DefaultText>
+      <DefaultText>„Vielleicht hat er dich auf die Probe gestellt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Du scheinst trotzdem gut zurecht gekommen zu sein."</DefaultText>
+      <DefaultText>„Du scheinst trotzdem gut zurecht gekommen zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Das dachte ich auch. Ich versuchte alles. Geduld, Zorn, Gerissenheit, Akzeptanz ..."
+      <DefaultText>„Das dachte ich auch. Ich versuchte alles. Geduld, Zorn, Gerissenheit, Akzeptanz&#160;…“
 
-"'Noch nicht', sagte er nur. 'Noch nicht'."</DefaultText>
+„'Noch nicht', sagte er nur. 'Noch nicht'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Er lacht freudlos. "Tatsächlich?"</DefaultText>
+      <DefaultText>Er lacht freudlos. „Tatsächlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Jemand anders muss in der Lage gewesen sein, dich zu unterrichten."</DefaultText>
+      <DefaultText>„Jemand anders muss in der Lage gewesen sein, dich zu unterrichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Es kennen immer zwei Personen das Geheimnis, wie man zum Anitlei wird - der Häuptling und der Meister der Nalpazca."</DefaultText>
+      <DefaultText>„Es kennen immer zwei Personen das Geheimnis, wie man zum Anitlei wird - der Häuptling und der Meister der Nalpazca.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Mit Ixepillo starb das Wissen um dieses Geheimnis. Für immer."</DefaultText>
+      <DefaultText>„Mit Ixepillo starb das Wissen um dieses Geheimnis. Für immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Du hältst die Welt für nicht perfekt? Die meisten würden wohl zustimmen. Die meisten würden sagen, die Welt ist nicht perfekt, weil wir leiden."</DefaultText>
+      <DefaultText>„Du hältst die Welt für nicht perfekt? Die meisten würden wohl zustimmen. Die meisten würden sagen, die Welt ist nicht perfekt, weil wir leiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Was ist geschehen, nachdem du zum Häuptling wurdest?"</DefaultText>
+      <DefaultText>„Was ist geschehen, nachdem du zum Häuptling wurdest?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Die Kunde von Ixepillos Tod verbreitete sich. Unsere Feinde erkannten die Gelegenheit."</DefaultText>
+      <DefaultText>„Die Kunde von Ixepillos Tod verbreitete sich. Unsere Feinde erkannten die Gelegenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Der Häuptling der Quechmatl kam mit Geschenken, um meine Herrschaft zu ehren. Doch in Wahrheit wollte er mir nur in die Augen sehen. Um zu wissen, ob Zahua besiegt werden kann."</DefaultText>
+      <DefaultText>„Der Häuptling der Quechmatl kam mit Geschenken, um meine Herrschaft zu ehren. Doch in Wahrheit wollte er mir nur in die Augen sehen. Um zu wissen, ob Zahua besiegt werden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ich blickte ihn an und ich stellte mir vor, dass ich der Anitlei sei, frei von allen weltlichen Fesseln. Dass mein Meister mir alles beigebracht hatte."
+      <DefaultText>„Ich blickte ihn an und ich stellte mir vor, dass ich der Anitlei sei, frei von allen weltlichen Fesseln. Dass mein Meister mir alles beigebracht hatte.“
 
 Er presst die Lippen zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Als er sich umwandte, um zu gehen, sah ich ein heimliches Lächeln auf seinen Lippen. Ich wusste, dass ich versagt hatte. Drei Tage später griffen sie an."</DefaultText>
+      <DefaultText>„Als er sich umwandte, um zu gehen, sah ich ein heimliches Lächeln auf seinen Lippen. Ich wusste, dass ich versagt hatte. Drei Tage später griffen sie an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Sie waren uns zahlenmäßig weit überlegen. Seit Generationen hatten sie versucht, uns zu erobern, doch die Tacan-Häuptlinge hatten sie immer wieder zurückgeschlagen. Die Macht des Anitlei."
+      <DefaultText>„Sie waren uns zahlenmäßig weit überlegen. Seit Generationen hatten sie versucht, uns zu erobern, doch die Tacan-Häuptlinge hatten sie immer wieder zurückgeschlagen. Die Macht des Anitlei.“
 
 Er schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"In meinem Herzen wusste ich, dass wir verlieren würden ... weil ich nicht der Anitlei war."</DefaultText>
+      <DefaultText>„In meinem Herzen wusste ich, dass wir verlieren würden&#160;… weil ich nicht der Anitlei war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Was hast du getan?"</DefaultText>
+      <DefaultText>„Was hast du getan?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Was wir immer getan hatten. Ich versammelte meine Nalpazca-Krieger und führte einen Sturmangriff in das Herz ihrer Armee an."</DefaultText>
+      <DefaultText>„Was wir immer getan hatten. Ich versammelte meine Nalpazca-Krieger und führte einen Sturmangriff in das Herz ihrer Armee an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Die Nalpazca glaubten, dass Zahua der Anitlei war, und das gab ihnen Stärke. Um ihretwillen - für Tacan - glaubte auch ich es."</DefaultText>
+      <DefaultText>„Die Nalpazca glaubten, dass Zahua der Anitlei war, und das gab ihnen Stärke. Um ihretwillen - für Tacan - glaubte auch ich es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Mein Verstand fand einen Ort, den er noch nie zuvor erreicht hatte. Ich konnte die Bewegungen meiner Feinde sehen, ehe sie sie überhaupt ausführten."</DefaultText>
+      <DefaultText>„Mein Verstand fand einen Ort, den er noch nie zuvor erreicht hatte. Ich konnte die Bewegungen meiner Feinde sehen, ehe sie sie überhaupt ausführten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ich konnte mein eigenes Handeln vor mir sehen, den Pfad zum Sieg. Ich tat, was ich sah, und die Quechmatl fielen in Scharen."</DefaultText>
+      <DefaultText>„Ich konnte mein eigenes Handeln vor mir sehen, den Pfad zum Sieg. Ich tat, was ich sah, und die Quechmatl fielen in Scharen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Und dann stand der Quechmatl-Häuptling vor mir. Und er wusste, dass Zahua nicht der Anitlei war. Als ich ihn sah, wusste ich es auch."</DefaultText>
+      <DefaultText>„Und dann stand der Quechmatl-Häuptling vor mir. Und er wusste, dass Zahua nicht der Anitlei war. Als ich ihn sah, wusste ich es auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Ich zögerte. Meine Feinde fielen über mich her. Einer nach dem anderen wurden die Nalpazca besiegt und Tacan wurde erobert."</DefaultText>
+      <DefaultText>„Ich zögerte. Meine Feinde fielen über mich her. Einer nach dem anderen wurden die Nalpazca besiegt und Tacan wurde erobert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Was ist aus deinem Volk geworden?"</DefaultText>
+      <DefaultText>„Was ist aus deinem Volk geworden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Aus den Männern machten sie Sklaven. Aus den Frauen machten Sie Ehefrauen."</DefaultText>
+      <DefaultText>„Aus den Männern machten sie Sklaven. Aus den Frauen machten Sie Ehefrauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Ihr Weg ist es, die Eroberten zu absorbieren. Sie ihre Herkunft vergessen lassen."</DefaultText>
+      <DefaultText>„Ihr Weg ist es, die Eroberten zu absorbieren. Sie ihre Herkunft vergessen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Wenn Quechmatl dich besiegt hat, wie konntest du überleben?"</DefaultText>
+      <DefaultText>„Wenn Quechmatl dich besiegt hat, wie konntest du überleben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Sie nehmen dich lebend gefangen, wenn du Häuptling bist. Sie brechen deinen Körper und deinen Geist."</DefaultText>
+      <DefaultText>„Sie nehmen dich lebend gefangen, wenn du Häuptling bist. Sie brechen deinen Körper und deinen Geist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Dann zeigen sie dich ihrem Volk und deinem, gebrochen. Danach schneiden sie deinen Kopf ab, um deine Seele daraus zu trinken."
+      <DefaultText>„Dann zeigen sie dich ihrem Volk und deinem, gebrochen. Danach schneiden sie deinen Kopf ab, um deine Seele daraus zu trinken.“
 
 Er fährt sich mit den Fingerspitzen über die Kehle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Aber du bist davongekommen?"</DefaultText>
+      <DefaultText>„Aber du bist davongekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Zahua lacht. "Oh, nein. Das haben sie alles mit mir gemacht."</DefaultText>
+      <DefaultText>Zahua lacht. „Oh, nein. Das haben sie alles mit mir gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Sie haben mir die Haut abgezogen, bis meine Schreie zu einem Flüstern verkamen. Bis ich nicht mehr wusste, wer ich war. Bis meine einzige Hoffnung war, bald zu sterben."</DefaultText>
+      <DefaultText>„Sie haben mir die Haut abgezogen, bis meine Schreie zu einem Flüstern verkamen. Bis ich nicht mehr wusste, wer ich war. Bis meine einzige Hoffnung war, bald zu sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Aber sie hörten nicht auf, und das war ihr Fehler."</DefaultText>
+      <DefaultText>„Aber sie hörten nicht auf, und das war ihr Fehler.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"An meinem Tiefpunkt ließ ich viele weltliche Dinge los, die ich seit dem Tod meines Meisters umklammert hatte. Der Schmerz machte die Welt wieder klar."</DefaultText>
+      <DefaultText>„An meinem Tiefpunkt ließ ich viele weltliche Dinge los, die ich seit dem Tod meines Meisters umklammert hatte. Der Schmerz machte die Welt wieder klar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Sie führten mich heraus, um mich hinzurichten. Sie wussten es nicht besser. Sie ließen die Machete auf meinen Hals niedersausen ... aber sie weigerte sich zu spalten."
+      <DefaultText>„Sie führten mich heraus, um mich hinzurichten. Sie wussten es nicht besser. Sie ließen die Machete auf meinen Hals niedersausen&#160;… aber sie weigerte sich zu spalten.“
 
 Er spielt den unterbrochenen Hieb vor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Jedes Hacken des Messers brachte gewaltige Schmerzen. Und die Schmerzen zeigten mir kurze Eindrücke reinster Wahrheit. Für einen Augenblick war ich der Anitlei."</DefaultText>
+      <DefaultText>„Jedes Hacken des Messers brachte gewaltige Schmerzen. Und die Schmerzen zeigten mir kurze Eindrücke reinster Wahrheit. Für einen Augenblick war ich der Anitlei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Ich brach meine Fesseln, indem ich über sie hinausblickte. Ich tötete meinen Henker, indem ich wusste, dass ich ihn töten würde."</DefaultText>
+      <DefaultText>„Ich brach meine Fesseln, indem ich über sie hinausblickte. Ich tötete meinen Henker, indem ich wusste, dass ich ihn töten würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Konntest du danach dein Volk befreien?"</DefaultText>
+      <DefaultText>„Konntest du danach dein Volk befreien?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Nein. Als der Schmerz verblasste, verblasste auch meine Erleuchtung. Aber es reichte aus, dass ich fliehen konnte."</DefaultText>
+      <DefaultText>„Nein. Als der Schmerz verblasste, verblasste auch meine Erleuchtung. Aber es reichte aus, dass ich fliehen konnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Ich schwor, zurückzukehren, wenn meine Seele bereit ist, die Quechmatl zu besiegen. Wenn ich die verlorenen Geheimnisse meines Meisters wiederentdecke."</DefaultText>
+      <DefaultText>„Ich schwor, zurückzukehren, wenn meine Seele bereit ist, die Quechmatl zu besiegen. Wenn ich die verlorenen Geheimnisse meines Meisters wiederentdecke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Was war es, das dein Meister dich niemals gelehrt hat?"</DefaultText>
+      <DefaultText>„Was war es, das dein Meister dich niemals gelehrt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Das ist vielleicht eine Geschichte für ein andermal. Er brachte mir unter anderem dies bei: Je mehr man spricht, desto weniger hört man. Und je weniger man hört, desto weniger hat man, das sich zu sagen lohnt."</DefaultText>
+      <DefaultText>„Das ist vielleicht eine Geschichte für ein andermal. Er brachte mir unter anderem dies bei: Je mehr man spricht, desto weniger hört man. Und je weniger man hört, desto weniger hat man, das sich zu sagen lohnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Viele Dinge. Genug, um dir die Ohren schmerzen zu lassen. Das erspare ich dir vorerst."</DefaultText>
+      <DefaultText>„Viele Dinge. Genug, um dir die Ohren schmerzen zu lassen. Das erspare ich dir vorerst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Wüsste ich es nicht besser, ich würde denken, du wärst ein Dämon, der vom Malcachoa geschickt wurde. Geschickt, um mich in Versuchung zu führen, Geschichten zu erzählen und meine Bestimmung zu vergessen."</DefaultText>
+      <DefaultText>„Wüsste ich es nicht besser, ich würde denken, du wärst ein Dämon, der vom Malcachoa geschickt wurde. Geschickt, um mich in Versuchung zu führen, Geschichten zu erzählen und meine Bestimmung zu vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Besprechen wir das ein andermal, wenn wir unserem Ziel näher sind."</DefaultText>
+      <DefaultText>„Besprechen wir das ein andermal, wenn wir unserem Ziel näher sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Ich frage mich, ob es so vorherbestimmt war."</DefaultText>
+      <DefaultText>„Ich frage mich, ob es so vorherbestimmt war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Sie hätten vielleicht großartige Nalpazca-Krieger abgegeben, während sie nur als Tacan geboren worden."</DefaultText>
+      <DefaultText>„Sie hätten vielleicht großartige Nalpazca-Krieger abgegeben, während sie nur als Tacan geboren worden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Aber wir haben keine Eindringlinge gesehen, und die Batterie war verschlossen. Sind sie nur gekommen, um die Zwerge zu vernichten und dann wieder zu gehen?"</DefaultText>
+      <DefaultText>„Aber wir haben keine Eindringlinge gesehen, und die Batterie war verschlossen. Sind sie nur gekommen, um die Zwerge zu vernichten und dann wieder zu gehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Du sagtest, du hättest geschworen, zurückzukehren und dein Volk zu befreien. Ist dir das je gelungen?"</DefaultText>
+      <DefaultText>„Du sagtest, du hättest geschworen, zurückzukehren und dein Volk zu befreien. Ist dir das je gelungen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Ich habe mein leeres Heimatland nach Spuren von Ixepillos Wissen abgesucht, doch ich wusste, dass er keine zurückgelassen hatte. Es wäre zu gefährlich gewesen."</DefaultText>
+      <DefaultText>„Ich habe mein leeres Heimatland nach Spuren von Ixepillos Wissen abgesucht, doch ich wusste, dass er keine zurückgelassen hatte. Es wäre zu gefährlich gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Dann versuchte ich herauszufinden, ob das Wissen um den Anitlei aus dem Ausland gekommen war. Ich besuchte Tempel und Klöster."</DefaultText>
+      <DefaultText>„Dann versuchte ich herauszufinden, ob das Wissen um den Anitlei aus dem Ausland gekommen war. Ich besuchte Tempel und Klöster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Während dieser ganzen Zeit versuchte Zahua, die Antwort in sich selbst zu finden. Meditation, Malcachoa, eintausend Techniken, die er als Nalpazca erlernt oder sich selbst erträumt hatte."</DefaultText>
+      <DefaultText>„Während dieser ganzen Zeit versuchte Zahua, die Antwort in sich selbst zu finden. Meditation, Malcachoa, eintausend Techniken, die er als Nalpazca erlernt oder sich selbst erträumt hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Er kommt dem Anitlei mit jedem Tag näher. Aber seine Seele ist nicht frei. Er ist nicht der Anitlei."</DefaultText>
+      <DefaultText>„Er kommt dem Anitlei mit jedem Tag näher. Aber seine Seele ist nicht frei. Er ist nicht der Anitlei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Quechmatl ist mit der Zeit gewachsen, hat alle seine Rivalen verschluckt. Nur der Anitlei ist noch in der Lage, die Tacan zu befreien und zu beschützen."</DefaultText>
+      <DefaultText>„Quechmatl ist mit der Zeit gewachsen, hat alle seine Rivalen verschluckt. Nur der Anitlei ist noch in der Lage, die Tacan zu befreien und zu beschützen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Warum versuchst du nicht, sie trotzdem zu befreien, wenn du so kurz davor stehst?"</DefaultText>
+      <DefaultText>„Warum versuchst du nicht, sie trotzdem zu befreien, wenn du so kurz davor stehst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Der letzte Schritt ist der Unterschied zwischen Unbesiegbarkeit und sicherem Scheitern."</DefaultText>
+      <DefaultText>„Der letzte Schritt ist der Unterschied zwischen Unbesiegbarkeit und sicherem Scheitern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Was, wenn du stirbst, ohne das Wissen deines Meisters wiederzuentdecken?"</DefaultText>
+      <DefaultText>„Was, wenn du stirbst, ohne das Wissen deines Meisters wiederzuentdecken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Dann geht es den Tacan nicht schlechter als jetzt."</DefaultText>
+      <DefaultText>„Dann geht es den Tacan nicht schlechter als jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Aber sie haben Besseres verdient."</DefaultText>
+      <DefaultText>„Aber sie haben Besseres verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Kann ich irgendwie helfen?"</DefaultText>
+      <DefaultText>„Kann ich irgendwie helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Ich würde niemandes Hilfe ablehnen, ganz gewiss nicht die eines Wächters. Vorerst aber sind wir der Sache Stalwarts verschrieben."</DefaultText>
-      <FemaleText>"Ich würde niemandes Hilfe ablehnen, ganz gewiss nicht die einer Wächterin. Vorerst aber sind wir der Sache Stalwarts verschrieben."</FemaleText>
+      <DefaultText>„Ich würde niemandes Hilfe ablehnen, ganz gewiss nicht die eines Wächters. Vorerst aber sind wir der Sache Stalwarts verschrieben.“</DefaultText>
+      <FemaleText>„Ich würde niemandes Hilfe ablehnen, ganz gewiss nicht die einer Wächterin. Vorerst aber sind wir der Sache Stalwarts verschrieben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Wenn das vorüber ist, können wir vielleicht erneut darüber sprechen."</DefaultText>
+      <DefaultText>„Wenn das vorüber ist, können wir vielleicht erneut darüber sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Deine Angelegenheit ist die dringlichere. Vielleicht ein andermal."</DefaultText>
+      <DefaultText>„Deine Angelegenheit ist die dringlichere. Vielleicht ein andermal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Ixamitl ist riesig. Außenstehende sehen es als ein Land, sein Volk als ein Volk. Aber wenn man es durchwandert, erkennt man, dass es viele Ixamitls gibt."</DefaultText>
+      <DefaultText>„Ixamitl ist riesig. Außenstehende sehen es als ein Land, sein Volk als ein Volk. Aber wenn man es durchwandert, erkennt man, dass es viele Ixamitls gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Wir stammen vom selben Ort, oder nicht? Zumindest für Außenstehende, die nicht verstehen, wie riesig Ixamitl ist, wie unterschiedlich von einem Moment zum nächsten."</DefaultText>
+      <DefaultText>„Wir stammen vom selben Ort, oder nicht? Zumindest für Außenstehende, die nicht verstehen, wie riesig Ixamitl ist, wie unterschiedlich von einem Moment zum nächsten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Das Ixamitl, das die Tacan kennen, ist reich an fruchtbarer Erde und Wasser. Die Feldfrüchte wachsen wie von allein. Wir haben unsere Häuser am Fluss Acqui errichtet, und er ist gut zu uns ..."</DefaultText>
+      <DefaultText>„Das Ixamitl, das die Tacan kennen, ist reich an fruchtbarer Erde und Wasser. Die Feldfrüchte wachsen wie von allein. Wir haben unsere Häuser am Fluss Acqui errichtet, und er ist gut zu uns&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"... auch, wenn er immer wieder über seine Ufer tritt, damit die Tacan ihr Leid nicht vergessen."</DefaultText>
+      <DefaultText>„… auch, wenn er immer wieder über seine Ufer tritt, damit die Tacan ihr Leid nicht vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Es wäre nicht Regenzeit, wenn mein Nachbar Ezli nicht hinter seinen entlaufenen Ziegen herschwimmen und dabei fast ertrinken würde."
+      <DefaultText>„Es wäre nicht Regenzeit, wenn mein Nachbar Ezli nicht hinter seinen entlaufenen Ziegen herschwimmen und dabei fast ertrinken würde.“
 
 Das Schmunzeln auf Zahuas Gesicht begräbt sich plötzlich selbst, als würde es nicht gefasst werden wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Aber Heimat ist eine Vorstellung, ebenso wenig real wie Gerechtigkeit oder Ehre."
+      <DefaultText>„Aber Heimat ist eine Vorstellung, ebenso wenig real wie Gerechtigkeit oder Ehre.“
 
-"Meine Heimat ist nun hier, wo immer ich gerade stehe."</DefaultText>
+„Meine Heimat ist nun hier, wo immer ich gerade stehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Ich hatte gehofft, Wissen mit den Mönchen der Tausend Träume auszutauschen. Ihr Kloster liegt östlich von hier."</DefaultText>
+      <DefaultText>„Ich hatte gehofft, Wissen mit den Mönchen der Tausend Träume auszutauschen. Ihr Kloster liegt östlich von hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Es heißt, sie würden nach größerer Wahrheit suchen, genau wie die Nalpazca. Doch wenn sie überhaupt noch existieren, konnte ich sie nicht finden."</DefaultText>
+      <DefaultText>„Es heißt, sie würden nach größerer Wahrheit suchen, genau wie die Nalpazca. Doch wenn sie überhaupt noch existieren, konnte ich sie nicht finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Was übst du?"</DefaultText>
+      <DefaultText>„Was übst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Unsere Praktiken sind an unsere Feinde angepasst. Die Dinge, an die wir uns klammern in Furcht vor ihren Gegensätzen. Dinge wie Vergnügen und Eitelkeit, selbst unsere eigenen Leben."</DefaultText>
+      <DefaultText>„Unsere Praktiken sind an unsere Feinde angepasst. Die Dinge, an die wir uns klammern in Furcht vor ihren Gegensätzen. Dinge wie Vergnügen und Eitelkeit, selbst unsere eigenen Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Wir heißen die Unannehmlichkeiten mit offenen Armen willkommen. Ich kannte einen Nalpazca, Tamin, der auf scharfen Steinen schlief und seinen Arm zwei Jahre lang über seinen Kopf erhoben hielt."
+      <DefaultText>„Wir heißen die Unannehmlichkeiten mit offenen Armen willkommen. Ich kannte einen Nalpazca, Tamin, der auf scharfen Steinen schlief und seinen Arm zwei Jahre lang über seinen Kopf erhoben hielt.“
 
 Zahua demonstriert es mit einem Arm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Der Arm verkümmerte. Eines Tages fiel er schlaff hinab und wurde nutzlos."</DefaultText>
+      <DefaultText>„Der Arm verkümmerte. Eines Tages fiel er schlaff hinab und wurde nutzlos.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Die Furcht vor dem Tod ist unser Feind, also begraben wir uns mit unseren Toten. Wir leben von dem Ass und meditieren viele Tage lang, währen die Würmer sich in unser Fleisch graben."
+      <DefaultText>„Die Furcht vor dem Tod ist unser Feind, also begraben wir uns mit unseren Toten. Wir leben von dem Ass und meditieren viele Tage lang, währen die Würmer sich in unser Fleisch graben.“
 
 Zur Illustration krümmt er seine Finger zu Würmern und drückt sie in seinen Unterarm - mit viel mehr Druck, als für die Darstellung nötig wäre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Mit der Zeit lernt man den Tod kennen. Man akzeptiert seine Schönheit und seinen Zweck."</DefaultText>
+      <DefaultText>„Mit der Zeit lernt man den Tod kennen. Man akzeptiert seine Schönheit und seinen Zweck.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"So ist es mit all unseren Feinden."</DefaultText>
+      <DefaultText>„So ist es mit all unseren Feinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Als ich meine Prüfung abgeschlossen hatte, ließ mein Meister mich auf den Boden eines Massengrabs legen. Um sicherzugehen, dass ich verstanden hatte."</DefaultText>
+      <DefaultText>„Als ich meine Prüfung abgeschlossen hatte, ließ mein Meister mich auf den Boden eines Massengrabs legen. Um sicherzugehen, dass ich verstanden hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Wie kontert man Vergnügen?"</DefaultText>
+      <DefaultText>„Wie kontert man Vergnügen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Was hast du gegen die Eitelkeit?"</DefaultText>
+      <DefaultText>„Was hast du gegen die Eitelkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Du kennst Praktiken gegen das Sich-ans-Leben-klammern?"</DefaultText>
+      <DefaultText>„Du kennst Praktiken gegen das Sich-ans-Leben-klammern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Die Eitelkeit ist mein Favorit. Du hast sie gesehen. Du musst verabscheuungswürdig werden. Ekelerregend."</DefaultText>
+      <DefaultText>„Die Eitelkeit ist mein Favorit. Du hast sie gesehen. Du musst verabscheuungswürdig werden. Ekelerregend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Die Tacan sind unseren Scheiß gewöhnt, aber der Dyrwald ist sehr viel angenehmer."</DefaultText>
+      <DefaultText>„Die Tacan sind unseren Scheiß gewöhnt, aber der Dyrwald ist sehr viel angenehmer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Aber immer erinnerte es ihn daran, dass Vergnügen und Schmerz keine Macht über seine Seele hatten, und er wurde stark."</DefaultText>
+      <DefaultText>„Aber immer erinnerte es ihn daran, dass Vergnügen und Schmerz keine Macht über seine Seele hatten, und er wurde stark.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Ein reisender Adliger bot mir seine Freundschaft an, als wir uns auf der Straße begegneten.
+      <DefaultText>„Ein reisender Adliger bot mir seine Freundschaft an, als wir uns auf der Straße begegneten.
 
-"Ich schnäuzte mir die Nase in seine seidenen Ärmel, entschuldigte mich und übergab mich dann auf das Kleid seiner Frau, als sie Vergebung äußerte."</DefaultText>
+„Ich schnäuzte mir die Nase in seine seidenen Ärmel, entschuldigte mich und übergab mich dann auf das Kleid seiner Frau, als sie Vergebung äußerte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Ich wurde sogar dafür geschlagen, ohne darum bitten zu müssen. Gut verrichtete Arbeit ist wahrlich Belohnung genug."
+      <DefaultText>„Ich wurde sogar dafür geschlagen, ohne darum bitten zu müssen. Gut verrichtete Arbeit ist wahrlich Belohnung genug.“
 
 Er strahlt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Du hast die Fesseln eines anderen Lebens geerbt. Es muss eine große Erleichterung sein, von ihnen befreit zu werden."</DefaultText>
+      <DefaultText>„Du hast die Fesseln eines anderen Lebens geerbt. Es muss eine große Erleichterung sein, von ihnen befreit zu werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Ich fühle mich schon wie ein neuer Mann."</DefaultText>
-      <FemaleText>"Ich fühle mich schon wie eine neue Frau."</FemaleText>
+      <DefaultText>„Ich fühle mich schon wie ein neuer Mann.“</DefaultText>
+      <FemaleText>„Ich fühle mich schon wie eine neue Frau.“</FemaleText>
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Die Zeit wird es zeigen."</DefaultText>
+      <DefaultText>„Die Zeit wird es zeigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Ich weiß nicht, ob ich wirklich jemals frei von diesem Einfluss sein kann."</DefaultText>
+      <DefaultText>„Ich weiß nicht, ob ich wirklich jemals frei von diesem Einfluss sein kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Der Dyrwald hat stark gelitten. Doch es wird ihn letztlich stärker machen."
+      <DefaultText>„Der Dyrwald hat stark gelitten. Doch es wird ihn letztlich stärker machen.“
 
 Er blickt auf die Maschine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Doch nun ist es an der Zeit, es zu beenden. Den Wunden erlauben, zu verheilen.
+      <DefaultText>„Doch nun ist es an der Zeit, es zu beenden. Den Wunden erlauben, zu verheilen.
 
-"Der Dyrwald ist noch jung. Sein Vermächtnis wird erst noch geschrieben."</DefaultText>
+„Der Dyrwald ist noch jung. Sein Vermächtnis wird erst noch geschrieben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Nun bist du frei, dich auf die Gegenwart zu konzentrieren."</DefaultText>
+      <DefaultText>„Nun bist du frei, dich auf die Gegenwart zu konzentrieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Zumindest musst du dich nicht mehr wegen Thaos sorgen."</DefaultText>
+      <DefaultText>„Zumindest musst du dich nicht mehr wegen Thaos sorgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -942,135 +942,135 @@ Er blickt auf die Maschine.</DefaultText>
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Warum müssen wir leiden, was glaubst du?"</DefaultText>
+      <DefaultText>„Warum müssen wir leiden, was glaubst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Sag mir noch einmal, warum wir deiner Meinung nach leiden müssen."</DefaultText>
+      <DefaultText>„Sag mir noch einmal, warum wir deiner Meinung nach leiden müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Hätte ich nicht gelitten, würde ich nicht danach streben, mich davon zu befreien."</DefaultText>
+      <DefaultText>„Hätte ich nicht gelitten, würde ich nicht danach streben, mich davon zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Und sie wurden offenbar vollkommen ausgelöscht."</DefaultText>
+      <DefaultText>„Und sie wurden offenbar vollkommen ausgelöscht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Vielleicht, aber sie scheinen viel zurückgelassen zu haben."</DefaultText>
+      <DefaultText>„Vielleicht, aber sie scheinen viel zurückgelassen zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Sie haben Geister zurückgelassen, um die Geschichte zu erzählen. Doch die Geschichte wird sich nie verändern, wird nie weitergeschrieben.
+      <DefaultText>„Sie haben Geister zurückgelassen, um die Geschichte zu erzählen. Doch die Geschichte wird sich nie verändern, wird nie weitergeschrieben.
 
-"Ihre Zeit endete vor einer Ewigkeit."
+„Ihre Zeit endete vor einer Ewigkeit.“
 
 Er nickt - zu sich selbst, offenbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Wir haben Dinge entdeckt, die als verloren galten. Ihr Einfluss könnte noch bestehen."
+      <DefaultText>„Wir haben Dinge entdeckt, die als verloren galten. Ihr Einfluss könnte noch bestehen.“
 
 Er hebt die Augenbraue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Und was hat es ihnen genutzt?"</DefaultText>
+      <DefaultText>„Und was hat es ihnen genutzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Alle Männer kämpfen, die den Tod fürchten."</DefaultText>
+      <DefaultText>„Alle Männer kämpfen, die den Tod fürchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Ihre Mut reichte letztlich nicht aus."
+      <DefaultText>„Ihre Mut reichte letztlich nicht aus.“
 
 Er seufzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Das war keine Furcht. Nicht allein. Einige kämpften, gemeinsam."</DefaultText>
+      <DefaultText>„Das war keine Furcht. Nicht allein. Einige kämpften, gemeinsam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Sie glaubten an eine Sache, die sie überleben würde, also blieben sie ihr treu."</DefaultText>
+      <DefaultText>„Sie glaubten an eine Sache, die sie überleben würde, also blieben sie ihr treu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Sie hatten ein großes Vermächtnis aufgebaut. Sie hatten keinen Grund, den Tod zu fürchten."</DefaultText>
+      <DefaultText>„Sie hatten ein großes Vermächtnis aufgebaut. Sie hatten keinen Grund, den Tod zu fürchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Alles geschieht aus einem Grund, auch wenn er uns verborgen bleibt."</DefaultText>
+      <DefaultText>„Alles geschieht aus einem Grund, auch wenn er uns verborgen bleibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Wenn sie einander getötet haben, sind sie selbst schuld."</DefaultText>
+      <DefaultText>„Wenn sie einander getötet haben, sind sie selbst schuld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Vielleicht gibt es noch Spuren von ihnen."</DefaultText>
+      <DefaultText>„Vielleicht gibt es noch Spuren von ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Das verdient niemand."</DefaultText>
+      <DefaultText>„Das verdient niemand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Die Nalpazca würden zustimmen. Ein grausames Schicksal ist ebenso perfekt wie ein freudiges."</DefaultText>
+      <DefaultText>„Die Nalpazca würden zustimmen. Ein grausames Schicksal ist ebenso perfekt wie ein freudiges.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Dennoch fragt man sich warum."</DefaultText>
+      <DefaultText>„Dennoch fragt man sich warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Nach zwei Jahrhunderten würde ich keine Hoffnung mehr hegen. Alle Dinge vergehen, und stets früher, als wir es wünschen."</DefaultText>
+      <DefaultText>„Nach zwei Jahrhunderten würde ich keine Hoffnung mehr hegen. Alle Dinge vergehen, und stets früher, als wir es wünschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Wenige verdienen ihr Schicksal, und selbst ein grausames Schicksal hat seinen Zweck."</DefaultText>
+      <DefaultText>„Wenige verdienen ihr Schicksal, und selbst ein grausames Schicksal hat seinen Zweck.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Es ist möglich, dass jemand überlebt hat und von hier geflohen ist."</DefaultText>
+      <DefaultText>„Es ist möglich, dass jemand überlebt hat und von hier geflohen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Ein Jammer für sie, dass sie vernichtet wurden - sie hätten zu etwas Großem werden können."</DefaultText>
+      <DefaultText>„Ein Jammer für sie, dass sie vernichtet wurden - sie hätten zu etwas Großem werden können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Und auch jetzt kämpfen sie noch immer weiter."</DefaultText>
+      <DefaultText>„Und auch jetzt kämpfen sie noch immer weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Wenn sie weiter hätten bestehen sollen, hätten die Götter gewiss eingegriffen."</DefaultText>
+      <DefaultText>„Wenn sie weiter hätten bestehen sollen, hätten die Götter gewiss eingegriffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
