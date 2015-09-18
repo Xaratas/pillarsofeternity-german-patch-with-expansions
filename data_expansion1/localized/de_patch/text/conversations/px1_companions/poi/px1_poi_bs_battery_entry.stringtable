@@ -11,37 +11,37 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ganz ruhig, Itumaak. Ich spüre es auch."</DefaultText>
+      <DefaultText>„Ganz ruhig, Itumaak. Ich spüre es auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich höre sie ... das Flüstern toter Erinnerungen. Sie sind hier, Wächter."</DefaultText>
-      <FemaleText>"Ich höre sie ... das Flüstern toter Erinnerungen. Sie sind hier, Wächterin."</FemaleText>
+      <DefaultText>„Ich höre sie&#160;… das Flüstern toter Erinnerungen. Sie sind hier, Wächter.“</DefaultText>
+      <FemaleText>„Ich höre sie&#160;… das Flüstern toter Erinnerungen. Sie sind hier, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hier drin ist es noch kälter. Irgendetwas stimmt hier nicht."</DefaultText>
+      <DefaultText>„Hier drin ist es noch kälter. Irgendetwas stimmt hier nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wir sind hier unerwünscht, das spürt man. Wie bei einem Bauern mit einer hübschen Tochter."</DefaultText>
+      <DefaultText>„Wir sind hier unerwünscht, das spürt man. Wie bei einem Bauern mit einer hübschen Tochter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Man spürt es in der Luft, Wächter. Die Toten verweilen noch."</DefaultText>
-      <FemaleText>"Man spürt es in der Luft, Wächterin. Die Toten verweilen noch."</FemaleText>
+      <DefaultText>„Man spürt es in der Luft, Wächter. Die Toten verweilen noch.“</DefaultText>
+      <FemaleText>„Man spürt es in der Luft, Wächterin. Die Toten verweilen noch.“</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wael vergib mir, aber was dieser Ort auch für Geheimnisse hat ... ich will sie nicht kennen."</DefaultText>
+      <DefaultText>„Wael vergib mir, aber was dieser Ort auch für Geheimnisse hat&#160;… ich will sie nicht kennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Früher haben wir an solchen Orten übernachtet, um die Angst vor dem Tod zu überwinden. Ich vermisse es nicht."</DefaultText>
+      <DefaultText>„Früher haben wir an solchen Orten übernachtet, um die Angst vor dem Tod zu überwinden. Ich vermisse es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
