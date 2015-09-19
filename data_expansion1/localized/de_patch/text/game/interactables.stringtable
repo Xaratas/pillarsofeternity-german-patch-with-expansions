@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Auf einem Zettel an der Tür steht: "Beschäftigt. Kommt später. Wenn es sich nicht verhindern lässt. - Galvino"</DefaultText>
+      <DefaultText>Auf einem Zettel an der Tür steht: „Beschäftigt. Kommt später. Wenn es sich nicht verhindern lässt. - Galvino“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>909</ID>
-      <DefaultText>"Entfernen von Ausrüstung aus der Waffenkammer nur mit Genehmigung von Waffenwächterin Marunn oder Hauptmann Gregur."</DefaultText>
+      <DefaultText>„Entfernen von Ausrüstung aus der Waffenkammer nur mit Genehmigung von Waffenwächterin Marunn oder Hauptmann Gregur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,35 +811,35 @@
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText>"Sinne nach über die, die vor dir kamen,
+      <DefaultText>„Sinne nach über die, die vor dir kamen,
 und die, die nach dir kommen.
 Erinnere dich zuerst an deinen Vater,
 zuletzt an deinen jüngeren Bruder,
-doch wisse alle Pargrunen als deine Verwandten."</DefaultText>
+doch wisse alle Pargrunen als deine Verwandten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1033</ID>
       <DefaultText>Diese Steintafel ist von Rissen durchzogen. Die Ränder sind durch die Hände vieler Jahrhunderte glatt geschliffen. Die Inschrift auf der Tafel lautet:
 
-"Wir, die wir Schulter an Schulter mit den ältesten Reichen der Gestandenen stehen, senden dich aus.
-Ehre uns, so wie wir uns an dich erinnern."</DefaultText>
+„Wir, die wir Schulter an Schulter mit den ältesten Reichen der Gestandenen stehen, senden dich aus.
+Ehre uns, so wie wir uns an dich erinnern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1034</ID>
       <DefaultText>Die Ecken dieser Tafel sind abgeschlagen, ansonsten ist sie aber in gutem Zustand. Die Inschrift auf der Tafel lautet:
 
-"Wir lassen uns in einem fremden und wilden Land nieder, doch wir erinnern uns unserer Wurzeln.
-Wir mögen weit entfernt sein, doch wisse uns als Verwandte."</DefaultText>
+„Wir lassen uns in einem fremden und wilden Land nieder, doch wir erinnern uns unserer Wurzeln.
+Wir mögen weit entfernt sein, doch wisse uns als Verwandte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1035</ID>
       <DefaultText>Die Lettern auf dieser Tafel sind tief und klar, als wären sie erst kürzlich eingemeißelt worden. Die Inschrift auf der Tafel lautet:
 
-"Unsere Türme aus Stein mögen umgeben sein von Toren aus Koralle.
-Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz."</DefaultText>
+„Unsere Türme aus Stein mögen umgeben sein von Toren aus Koralle.
+Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
