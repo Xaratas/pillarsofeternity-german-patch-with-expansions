@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Ich bin in der Weißmark einer seltsamen neuen Verbündeten begegnet - einem Golem mit der Seele einer Mörderin. Kurz, nachdem ich ihr und ihrem "Meister" begegnet bin, hat sie mich gebeten, mich begleiten zu dürfen.</DefaultText>
+      <DefaultText>Ich bin in der Weißmark einer seltsamen neuen Verbündeten begegnet - einem Golem mit der Seele einer Mörderin. Kurz, nachdem ich ihr und ihrem ‚Meister‘ begegnet bin, hat sie mich gebeten, mich begleiten zu dürfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -39,10 +39,10 @@ Zunächst müssen wir ihn finden. Irgendjemand in Stalwart kann uns bestimmt sag
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Die Teufelin von Caroc hat mich gebeten, sie zu begleiten ... nachdem ich erwähnt hatte, dass ich ein Wächter bin und in das Dorf zurückkehre, in dem sie gefangengenommen wurde.
+      <DefaultText>Die Teufelin von Caroc hat mich gebeten, sie zu begleiten&#160;… nachdem ich erwähnt hatte, dass ich ein Wächter bin und in das Dorf zurückkehre, in dem sie gefangengenommen wurde.
 
 Ich weiß nicht, worauf sie es abgesehen hat, aber ich werde sie genau beobachten.</DefaultText>
-      <FemaleText>Die Teufelin von Caroc hat mich gebeten, sie zu begleiten ... nachdem ich erwähnt hatte, dass ich eine Wächterin bin und in das Dorf zurückkehre, in dem sie gefangengenommen wurde.
+      <FemaleText>Die Teufelin von Caroc hat mich gebeten, sie zu begleiten&#160;… nachdem ich erwähnt hatte, dass ich eine Wächterin bin und in das Dorf zurückkehre, in dem sie gefangengenommen wurde.
 
 Ich weiß nicht, worauf sie es abgesehen hat, aber ich werde sie genau beobachten.</FemaleText>
     </Entry>

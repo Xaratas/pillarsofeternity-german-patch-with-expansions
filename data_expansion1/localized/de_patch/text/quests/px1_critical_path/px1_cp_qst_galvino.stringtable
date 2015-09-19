@@ -38,12 +38,12 @@
       <ID>10003</ID>
       <DefaultText>Galvino sagt, um Durgans Batterie zu betreten, muss ich ihr Festungslied kennen - ein Gedicht, das die Zwerge verwendeten, als die Festung noch genutzt wurde. Leider ist jeder, der es gekannt haben könnte, längst tot.
 
-Galvino glaubt allerdings, dass es in Stalwart vielleicht Seelennachfahren dieser Zwerge geben könnte. Mit meinen Fähigkeiten könnte ich sie sicher leicht finden. Ich könnte das Festungslied lernen, indem ich eine dieser Seelen erwecke. Das könnte allerdings auch jemanden zu einem Schicksal wie meinen verdammen ... oder Maerwalds.</DefaultText>
+Galvino glaubt allerdings, dass es in Stalwart vielleicht Seelennachfahren dieser Zwerge geben könnte. Mit meinen Fähigkeiten könnte ich sie sicher leicht finden. Ich könnte das Festungslied lernen, indem ich eine dieser Seelen erwecke. Das könnte allerdings auch jemanden zu einem Schicksal wie meinen verdammen&#160;… oder Maerwalds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ich habe einen unmittelbaren Nachfahren eines Zwerges aus Durgans Batterie gefunden. Ich könnte diese Person jetzt erwecken ... oder in Stalwart weiter nach einem anderen Kandidaten suchen.
+      <DefaultText>Ich habe einen unmittelbaren Nachfahren eines Zwerges aus Durgans Batterie gefunden. Ich könnte diese Person jetzt erwecken&#160;… oder in Stalwart weiter nach einem anderen Kandidaten suchen.
 
 Auf jeden Fall muss ich jemanden erwecken, der mir das Festungslied von Durgans Batterie beibringen kann. Um eine ältere Seele zu erwecken, müsste es reichen, dass ich sie direkt anspreche. 
 
@@ -62,7 +62,7 @@ Das ist zwar recht einfach, aber es könnte unvorhersehbare Folgen für den Dorf
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Owynna, eine Magd in der Gréfenrast, teilt sich ihre Seele mit einem Zwerg namens Gregur. Er ist korrupt und hinterlistig. Ihn zu erwecken dürfte das Leben der schüchternen Magd also ... interessant werden lassen.</DefaultText>
+      <DefaultText>Owynna, eine Magd in der Gréfenrast, teilt sich ihre Seele mit einem Zwerg namens Gregur. Er ist korrupt und hinterlistig. Ihn zu erwecken dürfte das Leben der schüchternen Magd also&#160;… interessant werden lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@ Das ist zwar recht einfach, aber es könnte unvorhersehbare Folgen für den Dorf
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Leider hat Zenove Taenas Körper übernommen und mich angegriffen ... ich war gezwungen, sie zu töten.</DefaultText>
+      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Leider hat Zenove Taenas Körper übernommen und mich angegriffen&#160;… ich war gezwungen, sie zu töten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
