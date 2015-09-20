@@ -15,12 +15,12 @@ Ein Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, egal ob M�
       <ID>302</ID>
       <DefaultText>Das Schicksal der Zwerge von Durgans Batterie blieb Gelehrten zweihundert Jahre lang ein Rätsel. Die wenigen Bruchstücke, die bekannt waren, ließen darauf schließen, dass eine Meinungsverschiedenheit zwischen ihren Kommandanten die Zwerge gespaltet hatten. Sie verriegelten die Tür der Batterie und kamen nie wieder heraus.
 
-Diese Skelette haben die Größe von Zwergen. Die Rüstungen, die sie tragen, waren einst von hervorragender Qualität ... genau wie der legendäre Durganstahl. Im Gegensatz zu den meisten Skeletten kämpfen sie in organisierten Formationen. Ihr Können und ihre Disziplin in der Schlacht machen sie zu formidablen Gegnern, genau wie ihre robuste Rüstung.</DefaultText>
+Diese Skelette haben die Größe von Zwergen. Die Rüstungen, die sie tragen, waren einst von hervorragender Qualität&#160;… genau wie der legendäre Durganstahl. Im Gegensatz zu den meisten Skeletten kämpfen sie in organisierten Formationen. Ihr Können und ihre Disziplin in der Schlacht machen sie zu formidablen Gegnern, genau wie ihre robuste Rüstung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>Gespenster sind - wie Phantome auch - Geister, die nach einem besonders gewalttätigen Leben oder Tod zurückgeblieben sind. Sie erscheinen zwar überall in Eora, doch die Pässe der Weißmark bringen sie mit alarmierender Häufigkeit hervor ... wimmelt es hier doch von Ogern, Lagufaeth, Banditen und Sklaven.
+      <DefaultText>Gespenster sind - wie Phantome auch - Geister, die nach einem besonders gewalttätigen Leben oder Tod zurückgeblieben sind. Sie erscheinen zwar überall in Eora, doch die Pässe der Weißmark bringen sie mit alarmierender Häufigkeit hervor&#160;… wimmelt es hier doch von Ogern, Lagufaeth, Banditen und Sklaven.
 
 Gespenster scheinen sich von lebender Essenz zu ernähren, und sie greifen jeden Gestandenen oder Wilden in ihrer Nähe an. Sie scheinen zwar wahllos in ihrer Aggression zu sein, sind jedoch klug genug, um Gruppen zu trennen und einzelne Opfer zu attackieren.</DefaultText>
       <FemaleText />
@@ -36,7 +36,7 @@ Es heißt, dass Sirenen meistens die Gestalt einer verführerischen Frau annehme
       <ID>305</ID>
       <DefaultText>Groll gehört zu den beständigsten negativen Emotionen. Hass klingt mit der Zeit oft ab. Trauer weicht Akzeptanz. Aber die Entrüstung, die durch Grausamkeit, Ungerechtigkeit oder schlichtem Verdruss entsteht, kann den Geist vergiften und selbst über den Tod hinaus andauern.
 
-Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als eine Mischung aus aufgebrachten Instinkte. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. "Bittergeist" ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist ... und auf den nahezu dieselbe Beschreibung passt.</DefaultText>
+Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als eine Mischung aus aufgebrachten Instinkte. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. ‚Bittergeist‘ ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist&#160;… und auf den nahezu dieselbe Beschreibung passt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@ Man schätzt, dass es für jedes wirklich beseelte Konstrukt dutzende - wenn nic
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>Fliegende Schwerter und schwebende Besen sind seit Urzeiten der Traum angehender Kampfmagier und überarbeiteter Lehrlinge. Doch obwohl viele Zauberer alltägliche Gegenstände schweben lassen können, können nur die wenigsten sie in der Luft kontrollieren - insbesondere im Eifer des Gefechts. Würde es aber einem in der Zauber- und der Kampfkunst gleichermaßen geschulten Zauberwirker gelingen, dutzende Waffen gleichzeitig zu manipulieren, wäre er ... oder sie wahrhaft mächtig.</DefaultText>
+      <DefaultText>Fliegende Schwerter und schwebende Besen sind seit Urzeiten der Traum angehender Kampfmagier und überarbeiteter Lehrlinge. Doch obwohl viele Zauberer alltägliche Gegenstände schweben lassen können, können nur die wenigsten sie in der Luft kontrollieren - insbesondere im Eifer des Gefechts. Würde es aber einem in der Zauber- und der Kampfkunst gleichermaßen geschulten Zauberwirker gelingen, dutzende Waffen gleichzeitig zu manipulieren, wäre er&#160;… oder sie wahrhaft mächtig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Seelengebundene Waffen sind einzigartige Gegenstände, die sich auf magische Weise mit der Seele eines einzelnen Charakters verbinden können. Ist eine solche Bindung einmal entstanden, kann die Waffe nur noch von diesem Charakter eingesetzt werden ... bis die Bindung gekappt wird. Eine seelengebundene Waffe wird stärker, wenn ihr Besitzer gewisse Anforderungen erfüllt, die in der Beschreibung der Waffe angegeben sind.
+      <DefaultText>Seelengebundene Waffen sind einzigartige Gegenstände, die sich auf magische Weise mit der Seele eines einzelnen Charakters verbinden können. Ist eine solche Bindung einmal entstanden, kann die Waffe nur noch von diesem Charakter eingesetzt werden&#160;… bis die Bindung gekappt wird. Eine seelengebundene Waffe wird stärker, wenn ihr Besitzer gewisse Anforderungen erfüllt, die in der Beschreibung der Waffe angegeben sind.
 
 Die meisten seelengebundenen Waffen können sich nur mit Charakteren einer bestimmten Klasse verbinden. Unabhängig von der Art der Waffe sind seelengebundene Waffen aber immer für alle Talente oder Fähigkeiten des Charakters empfänglich, beispielsweise Waffenschwerpunkt und -spezialisierung. Wenn ein Kämpfer als Waffenschwerpunkt und -spezialisierung beispielsweise Raufbold besitzt, erhält er seine Vorteile auch dann, wenn er ein seelengebundenes Großschwert oder einen seelengebundenen Zauberstab einsetzt. Vorteile aus verschiedenen Talenten oder Fähigkeiten desselben Typs (z.B. Waffenschwerpunkt Raufbold und Bauer) werden nicht addiert.
 
