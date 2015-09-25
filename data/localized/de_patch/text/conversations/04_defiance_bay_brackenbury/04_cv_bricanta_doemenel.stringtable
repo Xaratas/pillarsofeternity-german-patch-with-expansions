@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_bricanta_doemenel</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>46</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
@@ -235,5 +235,10 @@ Sie streift dir mit dem Finger den Arm entlang. „Nicht, dass ich das Angebot n
       <DefaultText />
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>	
   </Entries>
 </StringTableFile>
