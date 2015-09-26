@@ -6,148 +6,148 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bei meinem letzten Besuch hier war es etwas lebhafter. Aber das will nicht viel heißen." Ihr Kopf dreht sich, als sie sich umsieht.</DefaultText>
+      <DefaultText>„Bei meinem letzten Besuch hier war es etwas lebhafter. Aber das will nicht viel heißen.“ Ihr Kopf dreht sich, als sie sich umsieht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Welche Erinnerungen hast du an Stalwart?"</DefaultText>
+      <DefaultText>„Welche Erinnerungen hast du an Stalwart?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Eisig kalt und grauenhaft nach Fisch stinkend.
+      <DefaultText>„Eisig kalt und grauenhaft nach Fisch stinkend.
 
-"Und das waren nur die Bewohner."</DefaultText>
+„Und das waren nur die Bewohner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Warum wolltest du überhaupt zurückkommen?"</DefaultText>
+      <DefaultText>„Warum wolltest du überhaupt zurückkommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Alles ist besser als Galvinos Werkstatt. Du hast den alten Bussard noch nicht singen hören." 
+      <DefaultText>„Alles ist besser als Galvinos Werkstatt. Du hast den alten Bussard noch nicht singen hören.“ 
 
 Sie dreht sich wieder weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wie dem auch sei ... was ist mit dir? Hier sind schon viele aufgetaucht, um die Batterie zu öffnen. Aber noch keine Wächter."
+      <DefaultText>„Wie dem auch sei&#160;… was ist mit dir? Hier sind schon viele aufgetaucht, um die Batterie zu öffnen. Aber noch keine Wächter.“
 
 Sie blickt mit schwarz funkelnden Augen zu dir zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Stalwart hat meine Hilfe gebraucht."</DefaultText>
+      <DefaultText>„Stalwart hat meine Hilfe gebraucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eine recht seltsame Art zu helfen hast du."</DefaultText>
+      <DefaultText>„Eine recht seltsame Art zu helfen hast du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Sie kichert. "Der Gutmensch des Dyrwalds. Von deiner Sorte gibt es heute nur noch wenige."</DefaultText>
+      <DefaultText>Sie kichert. „Der Gutmensch des Dyrwalds. Von deiner Sorte gibt es heute nur noch wenige.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Stalwart braucht viele Dinge. Beispielsweise eine verheerende Lawine."</DefaultText>
+      <DefaultText>„Stalwart braucht viele Dinge. Beispielsweise eine verheerende Lawine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich habe es auf die Schätze in Durgans Batterie abgesehen."</DefaultText>
+      <DefaultText>„Ich habe es auf die Schätze in Durgans Batterie abgesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Schätze mit scharfen Kanten und Spitzen, was? Die sind tatsächlich äußerst nützlich."</DefaultText>
+      <DefaultText>„Schätze mit scharfen Kanten und Spitzen, was? Die sind tatsächlich äußerst nützlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Vor mir ist noch eine andere Gruppe angekommen - ich muss wissen, hinter was sie her waren."</DefaultText>
+      <DefaultText>„Vor mir ist noch eine andere Gruppe angekommen - ich muss wissen, hinter was sie her waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Nach jemandem suchen ... Das kommt mir bekannt vor." Sie nickt langsam. Ihr Kopf bewegt sich auf breiten, festen Schultern hin und her.</DefaultText>
+      <DefaultText>„Nach jemandem suchen&#160;… Das kommt mir bekannt vor.“ Sie nickt langsam. Ihr Kopf bewegt sich auf breiten, festen Schultern hin und her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Aber lass dich nicht davon abhalten, die Sehenswürdigkeiten von Stalwart zu bestaunen. Sie sind leicht zu übersehen." Sie legt die Hände auf die Hüften und dreht sich um.</DefaultText>
+      <DefaultText>„Aber lass dich nicht davon abhalten, die Sehenswürdigkeiten von Stalwart zu bestaunen. Sie sind leicht zu übersehen.“ Sie legt die Hände auf die Hüften und dreht sich um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich will dich noch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich will dich noch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Lass uns weiterziehen."</DefaultText>
+      <DefaultText>„Lass uns weiterziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich möchte lieber nicht darüber reden."</DefaultText>
+      <DefaultText>„Ich möchte lieber nicht darüber reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Also gut. Es geht mich nichts an." Sie hebt spöttisch beschwichtigend die Hände.</DefaultText>
+      <DefaultText>„Also gut. Es geht mich nichts an.“ Sie hebt spöttisch beschwichtigend die Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Vielleicht haben sie dich kommen sehen und sich versteckt."</DefaultText>
+      <DefaultText>„Vielleicht haben sie dich kommen sehen und sich versteckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"So lange sie nicht mit Steinen in der Hand wiederkommen, ist mir das nur recht."</DefaultText>
+      <DefaultText>„So lange sie nicht mit Steinen in der Hand wiederkommen, ist mir das nur recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich habe eine Wirkung auf die örtliche Bevölkerung gehabt."</DefaultText>
+      <DefaultText>„Ich habe eine Wirkung auf die örtliche Bevölkerung gehabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Der Rest des Dyrwalds sollte dir danken. Du hast die durchschnittliche Intelligenz im Land gesteigert."</DefaultText>
+      <DefaultText>„Der Rest des Dyrwalds sollte dir danken. Du hast die durchschnittliche Intelligenz im Land gesteigert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sie machen harte Zeiten durch."</DefaultText>
+      <DefaultText>„Sie machen harte Zeiten durch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Sie lacht. "Harte Zeiten sind die einzigen, die es hier oben gibt."</DefaultText>
+      <DefaultText>Sie lacht. „Harte Zeiten sind die einzigen, die es hier oben gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich hätte nicht gedacht, dass es an den Leuten hier mehr zu entdecken gibt als Läuse und Raureif, aber du hast einen Blick riskiert."</DefaultText>
+      <DefaultText>„Ich hätte nicht gedacht, dass es an den Leuten hier mehr zu entdecken gibt als Läuse und Raureif, aber du hast einen Blick riskiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich denke darüber nach, was du Galvino gesagt hast. Dass du Seelen siehst. Stimmt diese Wächter-Sache tatsächlich?" Sie dreht ihren Oberkörper zu dir.</DefaultText>
+      <DefaultText>„Ich denke darüber nach, was du Galvino gesagt hast. Dass du Seelen siehst. Stimmt diese Wächter-Sache tatsächlich?“ Sie dreht ihren Oberkörper zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,12 +157,12 @@ Sie blickt mit schwarz funkelnden Augen zu dir zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Das kommt darauf an. Was geht das dich an?"</DefaultText>
+      <DefaultText>„Das kommt darauf an. Was geht das dich an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Seit fast fünfzehn Jahren suche ich nach ihm."
+      <DefaultText>„Seit fast fünfzehn Jahren suche ich nach ihm.“
 
 Sie blickt starr geradeaus, als du dich näherst. Die schwarzen Murmeln ihrer Augen sind auf einen Punkt in der Ferne fixiert.
 
@@ -171,127 +171,127 @@ Ihre Essenz wirbelt und strudelt - sie ist in Gedanken versunken.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"So lange habe ich gewartet, geplant, gesucht ... und dann ist es in Sekunden vorbei."</DefaultText>
+      <DefaultText>„So lange habe ich gewartet, geplant, gesucht&#160;… und dann ist es in Sekunden vorbei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Wie geht es dir jetzt?"</DefaultText>
+      <DefaultText>„Wie geht es dir jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Manche Männer halten eben nur kurz durch."</DefaultText>
+      <DefaultText>„Manche Männer halten eben nur kurz durch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Harmke hat bekommen, was er verdient hat. Nur das zählt."</DefaultText>
+      <DefaultText>„Harmke hat bekommen, was er verdient hat. Nur das zählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Jetzt wünsche ich mir, unsere Wege hätten sich nie gekreuzt." Sie zittert. Metall rasselt.</DefaultText>
+      <DefaultText>„Jetzt wünsche ich mir, unsere Wege hätten sich nie gekreuzt.“ Sie zittert. Metall rasselt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Warum?"</DefaultText>
+      <DefaultText>„Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Wir könnten zurückgehen und ihn trotzdem töten. Wenn es dir dann besser geht."</DefaultText>
+      <DefaultText>„Wir könnten zurückgehen und ihn trotzdem töten. Wenn es dir dann besser geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Ich dachte nicht, dass ich dieses Dorf vermissen würde. Zumindest da lag ich richtig."</DefaultText>
+      <DefaultText>„Ich dachte nicht, dass ich dieses Dorf vermissen würde. Zumindest da lag ich richtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Kannst du dich nach dreizehn Jahren nicht daran gewöhnen?"</DefaultText>
+      <DefaultText>„Kannst du dich nach dreizehn Jahren nicht daran gewöhnen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Ich träume immer noch, dass ich wie früher bin. Manchmal wache ich morgens auf und erschrecke, weil ich den Boden unter mir nicht fühle. Dann frage ich mich, ob ich nach einem Sturz gelähmt bin."</DefaultText>
+      <DefaultText>„Ich träume immer noch, dass ich wie früher bin. Manchmal wache ich morgens auf und erschrecke, weil ich den Boden unter mir nicht fühle. Dann frage ich mich, ob ich nach einem Sturz gelähmt bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Aber dann hebe ich meinen Kopf. Und sehe eine bronzene Leiche vor mir."
+      <DefaultText>„Aber dann hebe ich meinen Kopf. Und sehe eine bronzene Leiche vor mir.“
 
 Sie senkt den Kopf. Ein Zittern durchfährt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ah."</DefaultText>
+      <DefaultText>„Ah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich träume auch davon, was Galvino in jener Nacht getan hat. Diese Augenblicke ... Ich würde Kaltmorg noch einmal erdulden, wenn es mir dieses Schicksal ersparen würde." Sie reibt die Hände aneinander und fährt ihre Schmiedenähte mit den Fingerspitzen nach.</DefaultText>
+      <DefaultText>„Ich träume auch davon, was Galvino in jener Nacht getan hat. Diese Augenblicke&#160;… Ich würde Kaltmorg noch einmal erdulden, wenn es mir dieses Schicksal ersparen würde.“ Sie reibt die Hände aneinander und fährt ihre Schmiedenähte mit den Fingerspitzen nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Als sie mitten in der Nacht kamen, um mich zu holen ... eine ganze Gruppe ... war ich nur überrascht, dass sie so lange gebraucht hatten." Sie zögert.</DefaultText>
+      <DefaultText>„Als sie mitten in der Nacht kamen, um mich zu holen&#160;… eine ganze Gruppe&#160;… war ich nur überrascht, dass sie so lange gebraucht hatten.“ Sie zögert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Nur führten sie mich nicht zum Galgen. Nein, sie brachten mich in ein anderes Haus am Stadtrand, ganz still und heimlich.
+      <DefaultText>„Nur führten sie mich nicht zum Galgen. Nein, sie brachten mich in ein anderes Haus am Stadtrand, ganz still und heimlich.
 
-"Dort bin ich Galvino begegnet." Sie hebt den Kopf. Ihre schwarzen Augen glänzen.</DefaultText>
+„Dort bin ich Galvino begegnet.“ Sie hebt den Kopf. Ihre schwarzen Augen glänzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Er spielte in seiner Werkstatt an irgendeiner Maschine herum. Er hatte die Ärmel hochgerollt, obwohl es so kalt war, dass man seinen Atem in der Luft sah."</DefaultText>
+      <DefaultText>„Er spielte in seiner Werkstatt an irgendeiner Maschine herum. Er hatte die Ärmel hochgerollt, obwohl es so kalt war, dass man seinen Atem in der Luft sah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Die Schergen des Bürgermeisters hatten mich da schon gefesselt. Galvino genoss es, ihnen Befehle zu erteilen."</DefaultText>
+      <DefaultText>„Die Schergen des Bürgermeisters hatten mich da schon gefesselt. Galvino genoss es, ihnen Befehle zu erteilen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Während Galvino also diesen Helm auf meinem Kopf befestigte und diese Kupferbänder um meine Arme legte, betrachtete ich sein ... Gerät.
+      <DefaultText>„Während Galvino also diesen Helm auf meinem Kopf befestigte und diese Kupferbänder um meine Arme legte, betrachtete ich sein&#160;… Gerät.“
 
-"Und da sah ich ihn."
+„Und da sah ich ihn.“
 
 Ihre schwarzen Augen sind auf einen undefinierbaren Punkt in der Ferne fixiert. Ihre Essenz wird schwächer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Diesen metallenen Anzug, an die Maschine gefesselt genau wie ich. Ein kaltes Ding mit toten Augen, verziert mit aufwändigen Mustern."
+      <DefaultText>„Diesen metallenen Anzug, an die Maschine gefesselt genau wie ich. Ein kaltes Ding mit toten Augen, verziert mit aufwändigen Mustern.“
 
 Sie zittert. Ihre Gelenke knarzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Ich fragte Galvino und die anderen, was vor sich geht. Aber sie waren zu beschäftigt, um mir zu antworten."</DefaultText>
+      <DefaultText>„Ich fragte Galvino und die anderen, was vor sich geht. Aber sie waren zu beschäftigt, um mir zu antworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Galvino sagte der Frau neben der Maschine, sie soll den Hebel umlegen."</DefaultText>
+      <DefaultText>„Galvino sagte der Frau neben der Maschine, sie soll den Hebel umlegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Und dann ... nur noch Schmerzen. Ich wurde in alle Richtungen gleichzeitig gerissen. Ich spürte, wie meine Seele von meinem Körper abgeschält wurde." Ihre Glieder zucken und zittern. Sie hält inne und wartet, bis ihr Körper wieder still ist.</DefaultText>
+      <DefaultText>„Und dann&#160;… nur noch Schmerzen. Ich wurde in alle Richtungen gleichzeitig gerissen. Ich spürte, wie meine Seele von meinem Körper abgeschält wurde.“ Ihre Glieder zucken und zittern. Sie hält inne und wartet, bis ihr Körper wieder still ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ich glaube, da wusste ich es."
+      <DefaultText>„Ich glaube, da wusste ich es.“
 
 Sie schüttelt den Kopf und verstummt.</DefaultText>
       <FemaleText />
@@ -303,12 +303,12 @@ Sie schüttelt den Kopf und verstummt.</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Ich hoffe, dass Harmkes Tod dir Frieden gebracht hat."</DefaultText>
+      <DefaultText>„Ich hoffe, dass Harmkes Tod dir Frieden gebracht hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Dann möchte ich lieber nicht wissen, welches Urteil du mir zudenken würdest." 
+      <DefaultText>„Dann möchte ich lieber nicht wissen, welches Urteil du mir zudenken würdest.“ 
 
 Ein trockenes, metallisches Lachen hallt aus ihrer Kehle.</DefaultText>
       <FemaleText />
@@ -320,37 +320,37 @@ Ein trockenes, metallisches Lachen hallt aus ihrer Kehle.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"'Frieden'. Ein lustiges Wort dafür."</DefaultText>
+      <DefaultText>„'Frieden'. Ein lustiges Wort dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Dein Körper hat auch einzigartige Stärken und Vorteile."</DefaultText>
+      <DefaultText>„Dein Körper hat auch einzigartige Stärken und Vorteile.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Ich würde sie alle eintauschen, um den kalten Schnee an meinen Knöcheln zu spüren."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Ich würde sie alle eintauschen, um den kalten Schnee an meinen Knöcheln zu spüren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Ich bitte dich, so schlimm kann es doch nicht sein."</DefaultText>
+      <DefaultText>„Ich bitte dich, so schlimm kann es doch nicht sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Was genau ist passiert?"</DefaultText>
+      <DefaultText>„Was genau ist passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Ich höre mir die Geschichte ein andermal an."</DefaultText>
+      <DefaultText>„Ich höre mir die Geschichte ein andermal an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Sie läuft nicht davon." Sie zuckt mit den Schultern.</DefaultText>
+      <DefaultText>„Sie läuft nicht davon.“ Sie zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,154 +360,154 @@ Ein trockenes, metallisches Lachen hallt aus ihrer Kehle.</DefaultText>
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Zumindest bist du am Leben. Das ist doch etwas."</DefaultText>
+      <DefaultText>„Zumindest bist du am Leben. Das ist doch etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Es tut mir leid, dass du das durchmachen musst."</DefaultText>
+      <DefaultText>„Es tut mir leid, dass du das durchmachen musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ich will kein Mitleid. Sondern eine Wahl." Sie zieht sich von dir zurück.</DefaultText>
+      <DefaultText>„Ich will kein Mitleid. Sondern eine Wahl.“ Sie zieht sich von dir zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Wenn du nicht aufhörst zu jammern, denke ich mir etwas noch Schlimmeres aus."</DefaultText>
+      <DefaultText>„Wenn du nicht aufhörst zu jammern, denke ich mir etwas noch Schlimmeres aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Und was weißt du darüber? Wie es ist, wenn einem die Essenz Faser für Faser entrissen wird?"
+      <DefaultText>„Und was weißt du darüber? Wie es ist, wenn einem die Essenz Faser für Faser entrissen wird?“
 
 Ihre schwarzen Augen starren dich kalt und reglos an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Was hat er dort gemacht?"</DefaultText>
+      <DefaultText>„Was hat er dort gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Er war es, der deine Seele übertragen hat."</DefaultText>
+      <DefaultText>„Er war es, der deine Seele übertragen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Er hat mich nur allzu gerne daran erinnert."</DefaultText>
+      <DefaultText>„Er hat mich nur allzu gerne daran erinnert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Galvino lebte damals in Stalwart?"</DefaultText>
+      <DefaultText>„Galvino lebte damals in Stalwart?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Wohl wahr. Das war, bevor die Einheimischen ihn verjagt haben. Aber beliebt war er nicht."</DefaultText>
+      <DefaultText>„Wohl wahr. Das war, bevor die Einheimischen ihn verjagt haben. Aber beliebt war er nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Ich glaube, ich ahne, worauf das hinausläuft ..."</DefaultText>
+      <DefaultText>„Ich glaube, ich ahne, worauf das hinausläuft&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Was hat der Bürgermeister damit zu tun?"</DefaultText>
+      <DefaultText>„Was hat der Bürgermeister damit zu tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Er hatte sich bereit erklärt, mich Galvino für ein 'Experiment' zu überlassen." Sie macht eine zornige Geste mit der Hand, als sie das Wort sagt. Metall blitzt auf.</DefaultText>
+      <DefaultText>„Er hatte sich bereit erklärt, mich Galvino für ein 'Experiment' zu überlassen.“ Sie macht eine zornige Geste mit der Hand, als sie das Wort sagt. Metall blitzt auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Es hat nicht geholfen, dass bei dem Geschäft auch noch Kupfer die Hände gewechselt hat. Das war es letztlich, was Galvino und den alten Bürgermeister den Kopf gekostet hat."</DefaultText>
+      <DefaultText>„Es hat nicht geholfen, dass bei dem Geschäft auch noch Kupfer die Hände gewechselt hat. Das war es letztlich, was Galvino und den alten Bürgermeister den Kopf gekostet hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Aha."</DefaultText>
+      <DefaultText>„Aha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Und so bist du hier gelandet."</DefaultText>
+      <DefaultText>„Und so bist du hier gelandet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Wie kann man jemandem so etwas antun?"</DefaultText>
+      <DefaultText>„Wie kann man jemandem so etwas antun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Da fragst du wohl die Falsche. Aber wenn es dein Gewissen beruhigt, Galvino ist nicht ungeschoren davongekommen."</DefaultText>
+      <DefaultText>„Da fragst du wohl die Falsche. Aber wenn es dein Gewissen beruhigt, Galvino ist nicht ungeschoren davongekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Die Bürger von Stalwart waren nicht erfreut darüber, eine Mörderin in ihrer Mitte zu haben. Oder darüber, dass ihr Bürgermeister und der mürrische Vailianer eine geheime Abmachung getroffen haben."</DefaultText>
+      <DefaultText>„Die Bürger von Stalwart waren nicht erfreut darüber, eine Mörderin in ihrer Mitte zu haben. Oder darüber, dass ihr Bürgermeister und der mürrische Vailianer eine geheime Abmachung getroffen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Der alte Bürgermeister ist auch geflohen. Und seitdem ist in Stalwart alles eitel Sonnenschein."</DefaultText>
+      <DefaultText>„Der alte Bürgermeister ist auch geflohen. Und seitdem ist in Stalwart alles eitel Sonnenschein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Natürlich. Und wie Galvino in dieser kleinen Hütte gelandet ist."</DefaultText>
+      <DefaultText>„Natürlich. Und wie Galvino in dieser kleinen Hütte gelandet ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Wusstest du, was sie vorhatten?"</DefaultText>
+      <DefaultText>„Wusstest du, was sie vorhatten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Du hättest dich wehren sollen!"</DefaultText>
+      <DefaultText>„Du hättest dich wehren sollen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Glaubst du, das habe ich nicht?" Ihr Kopf wirbelt mit wilder Präzision zu dir herum.</DefaultText>
+      <DefaultText>„Glaubst du, das habe ich nicht?“ Ihr Kopf wirbelt mit wilder Präzision zu dir herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Der Anzug, den du jetzt bewohnst, meinst du."</DefaultText>
+      <DefaultText>„Der Anzug, den du jetzt bewohnst, meinst du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Genau der." Ihre Stimme summt aus ihrem Kopf, kalt und abwesend.</DefaultText>
+      <DefaultText>„Genau der.“ Ihre Stimme summt aus ihrem Kopf, kalt und abwesend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Ich hatte dieses schreckliche, eisige Gefühl im Magen, aber ich wusste nicht warum ..." Sie schüttelt den Kopf.</DefaultText>
+      <DefaultText>„Ich hatte dieses schreckliche, eisige Gefühl im Magen, aber ich wusste nicht warum&#160;…“ Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Nun, jetzt ist es vorbei."</DefaultText>
+      <DefaultText>„Nun, jetzt ist es vorbei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"So fühlt es sich nicht unbedingt an."</DefaultText>
+      <DefaultText>„So fühlt es sich nicht unbedingt an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Nachdem wir uns jetzt um Harmke gekümmert haben ... warum bleibst du noch hier?"</DefaultText>
+      <DefaultText>„Nachdem wir uns jetzt um Harmke gekümmert haben&#160;… warum bleibst du noch hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,12 +522,12 @@ Ihre schwarzen Augen starren dich kalt und reglos an.</DefaultText>
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Ich will die Weiße Esse finden."</DefaultText>
+      <DefaultText>„Ich will die Weiße Esse finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Dann hoffen wir, dass du mehr Glück hast als all die armen Kerle, die vor dir kamen."</DefaultText>
+      <DefaultText>„Dann hoffen wir, dass du mehr Glück hast als all die armen Kerle, die vor dir kamen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,37 +547,37 @@ Ihre schwarzen Augen starren dich kalt und reglos an.</DefaultText>
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Meine Cousine sagte nach ihrer Hochzeitsnacht etwas Ähnliches."</DefaultText>
+      <DefaultText>„Meine Cousine sagte nach ihrer Hochzeitsnacht etwas Ähnliches.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Er lebt nicht mehr. Das wolltest du doch."</DefaultText>
+      <DefaultText>„Er lebt nicht mehr. Das wolltest du doch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Aber du hast jetzt mehr Gewissheit. Das ist doch eine Verbesserung."</DefaultText>
+      <DefaultText>„Aber du hast jetzt mehr Gewissheit. Das ist doch eine Verbesserung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Das ist allerdings wahr. Aber ich hatte gehofft, den Augenblick etwas mehr auskosten zu können."</DefaultText>
+      <DefaultText>„Das ist allerdings wahr. Aber ich hatte gehofft, den Augenblick etwas mehr auskosten zu können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Ich habe schon viele getötet. Ich habe ihr Blut nass an meinen Händen gespürt. Habe ihr brennendes Fleisch gerochen." Sie hält ihre Hände vor sich, während sie zucken und zittern.</DefaultText>
+      <DefaultText>„Ich habe schon viele getötet. Ich habe ihr Blut nass an meinen Händen gespürt. Habe ihr brennendes Fleisch gerochen.“ Sie hält ihre Hände vor sich, während sie zucken und zittern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Und immer habe ich mir vorgestellt, wie es wäre, Harmke unter meiner Klinge zu haben. Seinen Atem zu spüren, heiß und schnell ... zu riechen, wie die Furcht aus ihm heraustrieft ..."</DefaultText>
+      <DefaultText>„Und immer habe ich mir vorgestellt, wie es wäre, Harmke unter meiner Klinge zu haben. Seinen Atem zu spüren, heiß und schnell&#160;… zu riechen, wie die Furcht aus ihm heraustrieft&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Und?"</DefaultText>
+      <DefaultText>„Und?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,79 +587,79 @@ Ihre schwarzen Augen starren dich kalt und reglos an.</DefaultText>
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Nun mach schon."</DefaultText>
+      <DefaultText>„Nun mach schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Ich habe rein gar nichts gespürt. Sein schwindender Puls hat mir nicht mehr bedeutet als das Plätschern des Regens." Sie zuckt die Schultern und lässt die Arme klappernd fallen.</DefaultText>
+      <DefaultText>„Ich habe rein gar nichts gespürt. Sein schwindender Puls hat mir nicht mehr bedeutet als das Plätschern des Regens.“ Sie zuckt die Schultern und lässt die Arme klappernd fallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Was soll das heißen?"</DefaultText>
+      <DefaultText>„Was soll das heißen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Vertrau mir, er ist definitiv tot ..."</DefaultText>
+      <DefaultText>„Vertrau mir, er ist definitiv tot&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Kannst du nicht einfach so tun?"</DefaultText>
+      <DefaultText>„Kannst du nicht einfach so tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Wie enttäuschend."</DefaultText>
+      <DefaultText>„Wie enttäuschend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Dieser Körper - er wurde nicht zum Fühlen gebaut. Meine Finger in Harmkes verwesendes Fleisch bohren, seine Schreie nur ein Brummen in meinem Schädel ..." Sie öffnet und schließt ihre Finger mit blitzschnellen Bewegungen.</DefaultText>
+      <DefaultText>„Dieser Körper - er wurde nicht zum Fühlen gebaut. Meine Finger in Harmkes verwesendes Fleisch bohren, seine Schreie nur ein Brummen in meinem Schädel&#160;…“ Sie öffnet und schließt ihre Finger mit blitzschnellen Bewegungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Ich weiß! Aber ich wollte es spüren, verstehst du das nicht?" Sie greift mit plötzlicher, verzweifelter Intensität nach dir.</DefaultText>
+      <DefaultText>„Ich weiß! Aber ich wollte es spüren, verstehst du das nicht?“ Sie greift mit plötzlicher, verzweifelter Intensität nach dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Es hat mich nur daran erinnert."</DefaultText>
+      <DefaultText>„Es hat mich nur daran erinnert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"An was?"</DefaultText>
+      <DefaultText>„An was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Dass das alles der Fiebertraum eines Wahnsinnigen ist. Wie ein Gefängnis ... nein, denn in einem Gefängnis legt man sich hin und spürt das weiche Stroh unter sich. Man spürt die Kälte der Zelle. Man spürt, wie das Schwarzbrot auf der Zunge zerfällt ..."
+      <DefaultText>„Dass das alles der Fiebertraum eines Wahnsinnigen ist. Wie ein Gefängnis&#160;… nein, denn in einem Gefängnis legt man sich hin und spürt das weiche Stroh unter sich. Man spürt die Kälte der Zelle. Man spürt, wie das Schwarzbrot auf der Zunge zerfällt&#160;…“
 
 Sie hält ihre Arme vor sich und dreht sie, während sie die Inschriften auf ihren Handrücken mit Entsetzen und Erstaunen betrachtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Das ist doch nur eine hochgestochene Art zu sagen 'fauliger als ein Wagen voll Scheiße'."</DefaultText>
+      <DefaultText>„Das ist doch nur eine hochgestochene Art zu sagen 'fauliger als ein Wagen voll Scheiße'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"So tun, das macht man in den ruhigen Augenblicken, wenn man in den Schlaf gleitet. Aber manchmal muss man seine Finger in etwas Reales versinken lassen."</DefaultText>
+      <DefaultText>„So tun, das macht man in den ruhigen Augenblicken, wenn man in den Schlaf gleitet. Aber manchmal muss man seine Finger in etwas Reales versinken lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Schmerz und Freude lenken nur ab. Du kannst froh sein, ohne sie zu leben."</DefaultText>
+      <DefaultText>„Schmerz und Freude lenken nur ab. Du kannst froh sein, ohne sie zu leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Du hast Recht. Das klingt wirklich grauenhaft."</DefaultText>
+      <DefaultText>„Du hast Recht. Das klingt wirklich grauenhaft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,137 +669,137 @@ Sie hält ihre Arme vor sich und dreht sie, während sie die Inschriften auf ihr
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Das war, nachdem man mich in Stalwart erwischt hatte. Sie hatten mich in ein kleines Haus beim Gasthaus gesperrt - der alte Bürgermeister und seine Schergen." Sie neigt den Kopf, als sie sich daran erinnert.</DefaultText>
+      <DefaultText>„Das war, nachdem man mich in Stalwart erwischt hatte. Sie hatten mich in ein kleines Haus beim Gasthaus gesperrt - der alte Bürgermeister und seine Schergen.“ Sie neigt den Kopf, als sie sich daran erinnert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Er hat mich kein einziges Mal angesehen, bis er anfing, einen kupfernen Helm auf meinem Kopf zu befestigen."</DefaultText>
+      <DefaultText>„Er hat mich kein einziges Mal angesehen, bis er anfing, einen kupfernen Helm auf meinem Kopf zu befestigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Er sagte, es wäre eine gerechte Bestrafung. Aber die Bürger waren nicht sehr erfreut, dass ihnen die Steinigung entgehen sollte." Sie verschränkt die Arme und nickt.</DefaultText>
+      <DefaultText>„Er sagte, es wäre eine gerechte Bestrafung. Aber die Bürger waren nicht sehr erfreut, dass ihnen die Steinigung entgehen sollte.“ Sie verschränkt die Arme und nickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Dann, plötzlich, warten sie. Sie starren mich mit diesem reglosen, entsetzten Blick an. Aber sie beobachten mich nicht. Sie warten darauf, dass irgendetwas passiert." Ihre Augen flackern. Sie rollen und kratzen in ihrem Kopf herum.</DefaultText>
+      <DefaultText>„Dann, plötzlich, warten sie. Sie starren mich mit diesem reglosen, entsetzten Blick an. Aber sie beobachten mich nicht. Sie warten darauf, dass irgendetwas passiert.“ Ihre Augen flackern. Sie rollen und kratzen in ihrem Kopf herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Als ich aufwachte, konnte ich nichts spüren. Nur ein stumpfes, fernes Ziehen."</DefaultText>
+      <DefaultText>„Als ich aufwachte, konnte ich nichts spüren. Nur ein stumpfes, fernes Ziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Sie haben Galvino vertrieben, ein Vermögen an Maschinen zerstört und einen Brief an die Akademie in Selona geschrieben, der auch noch den letzten Rest seines Rufs ruinierte."</DefaultText>
+      <DefaultText>„Sie haben Galvino vertrieben, ein Vermögen an Maschinen zerstört und einen Brief an die Akademie in Selona geschrieben, der auch noch den letzten Rest seines Rufs ruinierte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Trotzdem: Er hatte Glück, dass er nicht mit Steinen beworfen wurde."</DefaultText>
+      <DefaultText>„Trotzdem: Er hatte Glück, dass er nicht mit Steinen beworfen wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Ich weiß nur, dass er es nicht war, der mein Haus niedergebrannt hat. Gewissheit würde ich das nicht nennen."</DefaultText>
+      <DefaultText>„Ich weiß nur, dass er es nicht war, der mein Haus niedergebrannt hat. Gewissheit würde ich das nicht nennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Früher konnte ich mir etwas herbeisehnen. Es hat mich Tag und Nacht gequält, aber immerhin war es etwas." Sie blickt auf ihre leeren Hände. Die Finger sind ausgebreitet wie die Beine einer toten Spinne.</DefaultText>
+      <DefaultText>„Früher konnte ich mir etwas herbeisehnen. Es hat mich Tag und Nacht gequält, aber immerhin war es etwas.“ Sie blickt auf ihre leeren Hände. Die Finger sind ausgebreitet wie die Beine einer toten Spinne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Jetzt habe ich nichts mehr. Nicht einmal das brennende Verlangen nach irgendetwas. Nur den Blick in seinem Gesicht." Sie schüttelt den Kopf.</DefaultText>
+      <DefaultText>„Jetzt habe ich nichts mehr. Nicht einmal das brennende Verlangen nach irgendetwas. Nur den Blick in seinem Gesicht.“ Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Welcher Blick?"</DefaultText>
+      <DefaultText>„Welcher Blick?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Du hast ihn verschont. Das sollte dir ein gutes Gefühl geben."</DefaultText>
+      <DefaultText>„Du hast ihn verschont. Das sollte dir ein gutes Gefühl geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Ihr Kopf wirbelt zu dir herum. "Gut? Ich fühle mich nicht gut, nur ..." Sie beschreibt mit ihrem Handgelenk sinnlose Kreise.</DefaultText>
+      <DefaultText>Ihr Kopf wirbelt zu dir herum. „Gut? Ich fühle mich nicht gut, nur&#160;…“ Sie beschreibt mit ihrem Handgelenk sinnlose Kreise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Ich erinnere mich. Er wirkte verängstigt, aber auch abgestoßen."</DefaultText>
+      <DefaultText>„Ich erinnere mich. Er wirkte verängstigt, aber auch abgestoßen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Grauen. Furcht. Nein, mehr als das."</DefaultText>
+      <DefaultText>„Grauen. Furcht. Nein, mehr als das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Nach Kaltmorg starrten die Leute voller Ekel auf meine Verbrennungen. Oder sie erkannten, wer ich war. Dann war es Furcht. Vielleicht Hass." Sie neigt den Kopf zur Seite.</DefaultText>
+      <DefaultText>„Nach Kaltmorg starrten die Leute voller Ekel auf meine Verbrennungen. Oder sie erkannten, wer ich war. Dann war es Furcht. Vielleicht Hass.“ Sie neigt den Kopf zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Aber das ... wie Harmke mich angesehen hat, so hat mich fast jeder angesehen, von dir und Galvino abgesehen ..."</DefaultText>
+      <DefaultText>„Aber das&#160;… wie Harmke mich angesehen hat, so hat mich fast jeder angesehen, von dir und Galvino abgesehen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Ich danke dir, aber es wäre nicht dasselbe."</DefaultText>
+      <DefaultText>„Ich danke dir, aber es wäre nicht dasselbe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Ganz genau." Sie nickt.</DefaultText>
+      <DefaultText>„Ganz genau.“ Sie nickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Ich hörte den alten Mann lachen und plaudern. Plötzlich merkte ich, dass er sich über mich beugte, mit hungrigen Augen auf mich hinabblickte. Ich versuchte zu schreien. Versuchte, nach ihm zu schlagen."</DefaultText>
+      <DefaultText>„Ich hörte den alten Mann lachen und plaudern. Plötzlich merkte ich, dass er sich über mich beugte, mit hungrigen Augen auf mich hinabblickte. Ich versuchte zu schreien. Versuchte, nach ihm zu schlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Das ist eine merkwürdige Geschichte. Wir unterhalten uns später weiter."</DefaultText>
+      <DefaultText>„Das ist eine merkwürdige Geschichte. Wir unterhalten uns später weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Und ich werde nie erfahren, ob er es war."</DefaultText>
+      <DefaultText>„Und ich werde nie erfahren, ob er es war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Warum schert es dich?"</DefaultText>
+      <DefaultText>„Warum schert es dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Es ließ sich nicht verhindern."</DefaultText>
+      <DefaultText>„Es ließ sich nicht verhindern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Er ist ohnehin tot."</DefaultText>
+      <DefaultText>„Er ist ohnehin tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Ich wollte etwas spüren! Ich dachte, wenn ich weiß, dass er es war, dann könnte ich meine Hände um seinen Hals legen. Spüren, wie der Puls schwächer wird, wie seine Haut kalt wird ... Sie öffnet und schließt ihre Finger mit blitzschnellen Bewegungen.</DefaultText>
+      <DefaultText>„Ich wollte etwas spüren! Ich dachte, wenn ich weiß, dass er es war, dann könnte ich meine Hände um seinen Hals legen. Spüren, wie der Puls schwächer wird, wie seine Haut kalt wird&#160;… Sie öffnet und schließt ihre Finger mit blitzschnellen Bewegungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Aber ihn reglos und tot im Schnee liegen zu sehen, das hat mich nur erinnert."</DefaultText>
+      <DefaultText>„Aber ihn reglos und tot im Schnee liegen zu sehen, das hat mich nur erinnert.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

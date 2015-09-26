@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>80</EntryCount>
+  <EntryCount>93</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -404,5 +404,70 @@
       <DefaultText>Abgelenkt</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Schadensreduktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Heilungsmultiplikator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Verbrauchsdauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Schaden vs. Flankiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Dieser Bonus wird durch Rasten erlangt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Schadensreduktion II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Heilungsmultiplikator II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Bewegung II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Verbrauchsdauer II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Schaden vs. Flankiert II</DefaultText>
+      <FemaleText />
+    </Entry>	
   </Entries>
 </StringTableFile>

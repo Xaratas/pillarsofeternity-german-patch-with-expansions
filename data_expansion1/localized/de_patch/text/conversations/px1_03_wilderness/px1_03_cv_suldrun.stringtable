@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Hilfe! Bitte, hilf uns!"</DefaultText>
+      <DefaultText>„Hilfe! Bitte, hilf uns!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,12 +33,12 @@ Es ist so, als würde ihr Fell einen Sturm der Seelenessenz in sich tragen, wild
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Kannst du mich verstehen?"</DefaultText>
+      <DefaultText>„Kannst du mich verstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Halt! Ich weiß, was du bist. Kannst du mich verstehen?"</DefaultText>
+      <DefaultText>„Halt! Ich weiß, was du bist. Kannst du mich verstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,7 +57,7 @@ Die Bestie springt von den Jägern weg und stolpert in ihrer Panik. Aber die Wö
       <ID>34</ID>
       <DefaultText>Es kostet dich wenig Mühe, ehe die Seele der Bestie droht, dich mit ihrer Intensität zu überwältigen. 
 
-Zorn und Hunger stürzen von allen Seiten auf dich ein, bis du durch den Sturm hindurch greifst und ein kleineres, schwächeres Licht findest ... und kopfüber in eine Erinnerung stürzt ...</DefaultText>
+Zorn und Hunger stürzen von allen Seiten auf dich ein, bis du durch den Sturm hindurch greifst und ein kleineres, schwächeres Licht findest&#160;… und kopfüber in eine Erinnerung stürzt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,12 +72,12 @@ Zorn und Hunger stürzen von allen Seiten auf dich ein, bis du durch den Sturm h
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Warte! Lass uns nicht hier zurück, bitte!"</DefaultText>
+      <DefaultText>„Warte! Lass uns nicht hier zurück, bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Suldrun?"</DefaultText>
+      <DefaultText>„Suldrun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,34 +94,34 @@ Sein Kopf hebt sich ruckartig, als du eintrittst. Er starrt dich mit einem Auge 
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Thyrsc ist tot."</DefaultText>
+      <DefaultText>„Thyrsc ist tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich habe das Totem zu Galawain zurückgebracht. Du bist geheilt."</DefaultText>
+      <DefaultText>„Ich habe das Totem zu Galawain zurückgebracht. Du bist geheilt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Was - was ist passiert? Wer bist du?" 
+      <DefaultText>„Was - was ist passiert? Wer bist du?“ 
 
 Er hebt die Hand und betastet vorsichtig die Haut um sein blindes Auge herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Dein Vater hat mich geschickt, dich zu töten. Ich habe einen anderen Weg gefunden."</DefaultText>
+      <DefaultText>„Dein Vater hat mich geschickt, dich zu töten. Ich habe einen anderen Weg gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Du erinnerst dich nicht? Wie praktisch."</DefaultText>
+      <DefaultText>„Du erinnerst dich nicht? Wie praktisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Wo sind die anderen Wölfe?"</DefaultText>
+      <DefaultText>„Wo sind die anderen Wölfe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,22 +131,22 @@ Er hebt die Hand und betastet vorsichtig die Haut um sein blindes Auge herum.</D
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Mein - mein Vater! Ist er verletzt? Ich erinnere mich nur an Bruchstücke. Ich erinnere mich, dass ich gefangen war, schreiend, irgendwo in mir selbst ..."</DefaultText>
+      <DefaultText>„Mein - mein Vater! Ist er verletzt? Ich erinnere mich nur an Bruchstücke. Ich erinnere mich, dass ich gefangen war, schreiend, irgendwo in mir selbst&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Galawain - das Totem! Ich habe es genommen, um es Vater zu schenken. Dann hat der Oger angegriffen. Ich habe mich verändert - und es war, als wäre ich an jemand anderen gefesselt. Er wollte jagen, immer nur jagen."</DefaultText>
+      <DefaultText>„Galawain - das Totem! Ich habe es genommen, um es Vater zu schenken. Dann hat der Oger angegriffen. Ich habe mich verändert - und es war, als wäre ich an jemand anderen gefesselt. Er wollte jagen, immer nur jagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich erinnere mich an Fragmente. Fast alles ist dunkel, aber manchmal konnte ich sehen. Ich glaube, ich habe jemandem wehgetan. Moment - mein Vater! Thyrsc - lebt er? Wo ist er?"</DefaultText>
+      <DefaultText>„Ich erinnere mich an Fragmente. Fast alles ist dunkel, aber manchmal konnte ich sehen. Ich glaube, ich habe jemandem wehgetan. Moment - mein Vater! Thyrsc - lebt er? Wo ist er?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Sie sind fort. Ich dachte, sie würden mich angreifen, aber sie sind aus der Höhle geflohen. Als hätten sie etwas gehört ..."</DefaultText>
+      <DefaultText>„Sie sind fort. Ich dachte, sie würden mich angreifen, aber sie sind aus der Höhle geflohen. Als hätten sie etwas gehört&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Er hebt die Hand und betastet vorsichtig die Haut um sein blindes Auge herum.</D
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Suldrun." Die Stimme deines Vaters reißt dich aus denen Gedanken. Du beeilst dich, wieder zum Lagerfeuer zurückzukehren. 
+      <DefaultText>„Suldrun.“ Die Stimme deines Vaters reißt dich aus denen Gedanken. Du beeilst dich, wieder zum Lagerfeuer zurückzukehren. 
 
 Du hältst die Hasen hoch und siehst den Anflug eines seltenen Lächelns unter seinem ergrauten Bart.</DefaultText>
       <FemaleText />
@@ -184,119 +184,119 @@ Aber irgendetwas stimmt nicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Deine Sinne schwinden, anstatt stärker zu werden. In deinem Kopf ertönt ein Jaulen, wie ein brüllender Refrain. Alles in dir schreit danach zu beißen, zu reißen, zu fressen ...</DefaultText>
+      <DefaultText>Deine Sinne schwinden, anstatt stärker zu werden. In deinem Kopf ertönt ein Jaulen, wie ein brüllender Refrain. Alles in dir schreit danach zu beißen, zu reißen, zu fressen&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Er ist vermutlich einer dieser Leichen."</DefaultText>
+      <DefaultText>„Er ist vermutlich einer dieser Leichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <DefaultText>„Ich weiß es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Er ist verwundet, aber er lebt."</DefaultText>
+      <DefaultText>„Er ist verwundet, aber er lebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Lügen] "Du meinst, du erinnerst dich nicht daran, wie du ihn getötet hast?"</DefaultText>
+      <DefaultText>[Lügen] „Du meinst, du erinnerst dich nicht daran, wie du ihn getötet hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Oh, bei den gnädigen Göttern. Ich weiß nicht, was ich sagen soll. Was du von mir gesehen haben musst ..." Er blickt auf die Knochen, die auf dem Höhlenboden verteilt sind, und schreckt zurück.</DefaultText>
+      <DefaultText>„Oh, bei den gnädigen Göttern. Ich weiß nicht, was ich sagen soll. Was du von mir gesehen haben musst&#160;…“ Er blickt auf die Knochen, die auf dem Höhlenboden verteilt sind, und schreckt zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"N-nein! Das ... das kann nicht sein. Nicht nach all dem." Er blickt auf die Knochen, die auf dem Höhlenboden verteilt sind, und schreckt vor ihnen zurück.</DefaultText>
+      <DefaultText>„N-nein! Das&#160;… das kann nicht sein. Nicht nach all dem.“ Er blickt auf die Knochen, die auf dem Höhlenboden verteilt sind, und schreckt vor ihnen zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"W-was? Das ist nicht ... nein! Nein, das darf nicht wahr sein! Nicht nach all dem! Nicht jetzt, wo ich endlich frei bin!"</DefaultText>
+      <DefaultText>„W-was? Das ist nicht&#160;… nein! Nein, das darf nicht wahr sein! Nicht nach all dem! Nicht jetzt, wo ich endlich frei bin!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ich - ich hätte ein Monster bleiben sollen! Ich hätte als Monster sterben sollen, durch den Speer eines Jägers!" Er wendet sich zu dir. "Du! Du wirst es bereuen, mich geweckt zu haben!"</DefaultText>
+      <DefaultText>„Ich - ich hätte ein Monster bleiben sollen! Ich hätte als Monster sterben sollen, durch den Speer eines Jägers!“ Er wendet sich zu dir. „Du! Du wirst es bereuen, mich geweckt zu haben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich erinnere mich an den Geschmack." Er sackt in sich zusammen. "Wie kann ich nach all dem nach Hause zurückkehren?"</DefaultText>
+      <DefaultText>„Ich erinnere mich an den Geschmack.“ Er sackt in sich zusammen. „Wie kann ich nach all dem nach Hause zurückkehren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ich habe so schreckliche Dinge getan. Wie kann ich nach all dem hoffen, nach Hause zurückzukehren?"</DefaultText>
+      <DefaultText>„Ich habe so schreckliche Dinge getan. Wie kann ich nach all dem hoffen, nach Hause zurückzukehren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Du hast Unschuldige getötet. Du hast es nicht verdient, einfach nach Hause zurückzukehren."</DefaultText>
+      <DefaultText>„Du hast Unschuldige getötet. Du hast es nicht verdient, einfach nach Hause zurückzukehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Du warst nicht du selbst. Man kann dir keine Schuld geben."</DefaultText>
+      <DefaultText>„Du warst nicht du selbst. Man kann dir keine Schuld geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Hier draußen kannst du keine Buße für deine Taten tun. Du solltest Stalwart helfen."</DefaultText>
+      <DefaultText>„Hier draußen kannst du keine Buße für deine Taten tun. Du solltest Stalwart helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Er hat die ganze Zeit versucht, dich zu töten. Ich glaube nicht, dass er dich willkommen heißen würde."</DefaultText>
+      <DefaultText>„Er hat die ganze Zeit versucht, dich zu töten. Ich glaube nicht, dass er dich willkommen heißen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Es ist deine Entscheidung."</DefaultText>
+      <DefaultText>„Es ist deine Entscheidung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Dein Vater hätte dir geholfen, wenn er gekonnt hätte. Er wird froh sein, dich zu sehen."</DefaultText>
+      <DefaultText>„Dein Vater hätte dir geholfen, wenn er gekonnt hätte. Er wird froh sein, dich zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Danke. Das ist freundlich von dir. Ich wünschte, es würde helfen. Dennoch, vielleicht kann ich es irgendwie wieder gutmachen. Wenn ich zurückkehre."</DefaultText>
+      <DefaultText>„Danke. Das ist freundlich von dir. Ich wünschte, es würde helfen. Dennoch, vielleicht kann ich es irgendwie wieder gutmachen. Wenn ich zurückkehre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ich gehe nach Hause und bitte meinen Vater um Verzeihung. Und du, nimm dies. Es ist das Wertvollste, was ich besitze." 
+      <DefaultText>„Ich gehe nach Hause und bitte meinen Vater um Verzeihung. Und du, nimm dies. Es ist das Wertvollste, was ich besitze.“ 
 
 Er nimmt sich ein Amulett ab und überreicht es dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Du hast Recht. Ich kann nicht vor meinen Taten fliehen. Vor den Familien, die ich zerstört habe. Ich kehre nach Hause zurück und helfe ihnen, wo ich kann."</DefaultText>
+      <DefaultText>„Du hast Recht. Ich kann nicht vor meinen Taten fliehen. Vor den Familien, die ich zerstört habe. Ich kehre nach Hause zurück und helfe ihnen, wo ich kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Du hast Recht. Ich kann nichts tun, was diesen Familien gerecht werden würde. Diese Leben wiederherstellen würde."</DefaultText>
+      <DefaultText>„Du hast Recht. Ich kann nichts tun, was diesen Familien gerecht werden würde. Diese Leben wiederherstellen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Nimm das. Es ist meine letzte Erinnerung an mein Leben in Stalwart. Ich verdiene sie nicht. Wenn du meinem Vater wieder begegnest - bitte sag ihm, dass es mir leid tut. Ich wollte nie, dass all das passiert."</DefaultText>
+      <DefaultText>„Nimm das. Es ist meine letzte Erinnerung an mein Leben in Stalwart. Ich verdiene sie nicht. Wenn du meinem Vater wieder begegnest - bitte sag ihm, dass es mir leid tut. Ich wollte nie, dass all das passiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Meinst du? Ich fürchte, er würde mich noch immer als Monster begrüßen." Er seufzt. "Aber wenn das die Strafe ist, die ich verdient habe, dann akzeptiere ich sie."</DefaultText>
+      <DefaultText>„Meinst du? Ich fürchte, er würde mich noch immer als Monster begrüßen.“ Er seufzt. „Aber wenn das die Strafe ist, die ich verdient habe, dann akzeptiere ich sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@ Er nimmt sich ein Amulett ab und überreicht es dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich kann nicht. Ich kann ihm nicht gegenübertreten. Weder ihm, noch den Familien, die ich zerstört habe. Ich steige den Berg hinab. Ich werde an einem anderen Ort leben. Mein Vater wird mich los sein."</DefaultText>
+      <DefaultText>„Ich kann nicht. Ich kann ihm nicht gegenübertreten. Weder ihm, noch den Familien, die ich zerstört habe. Ich steige den Berg hinab. Ich werde an einem anderen Ort leben. Mein Vater wird mich los sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,12 +321,12 @@ Er nimmt sich ein Amulett ab und überreicht es dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Meiner Erfahrung nach versteht Galawain es nicht, Geschenke zu machen."</DefaultText>
+      <DefaultText>„Meiner Erfahrung nach versteht Galawain es nicht, Geschenke zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ihm einen Namen zu geben, macht es nur noch schwerer."</DefaultText>
+      <DefaultText>„Ihm einen Namen zu geben, macht es nur noch schwerer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@ Er nimmt sich ein Amulett ab und überreicht es dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich habe das schon einmal erlebt. Du wirst keine Antwort bekommen außer Knurren und Sabbern."</DefaultText>
+      <DefaultText>„Ich habe das schon einmal erlebt. Du wirst keine Antwort bekommen außer Knurren und Sabbern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,27 +346,27 @@ Er nimmt sich ein Amulett ab und überreicht es dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"In was wir da auch hineingestolpert sind ... es steckt mehr dahinter, als Wael bisher offenbart hat."</DefaultText>
+      <DefaultText>„In was wir da auch hineingestolpert sind&#160;… es steckt mehr dahinter, als Wael bisher offenbart hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Wenn ich sie zu sehen bekomme, sind diese Jäger bereits tot. Ich weiß nicht, ob das eine böse Vorahnung ist oder lediglich eine Warnung."</DefaultText>
+      <DefaultText>„Wenn ich sie zu sehen bekomme, sind diese Jäger bereits tot. Ich weiß nicht, ob das eine böse Vorahnung ist oder lediglich eine Warnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Wir können in einer halben Stunde zurückkehren, um ihre Taschen zu durchsuchen."</DefaultText>
+      <DefaultText>„Wir können in einer halben Stunde zurückkehren, um ihre Taschen zu durchsuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>[Angreifen] "Ich töte dich, Monster."</DefaultText>
+      <DefaultText>[Angreifen] „Ich töte dich, Monster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Die Jäger sind auch geflohen, nachdem die Wölfe fort waren."</DefaultText>
+      <DefaultText>„Die Jäger sind auch geflohen, nachdem die Wölfe fort waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,16 +378,16 @@ Er schont sein eines Bein und du erkennst den Wolf, dem du in der Wildnis geholf
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Ich werde meinem Vater berichten, was du für mich getan hast. Wenn du nach Stalwart zurückkehrst, findest du mich dort vielleicht vor."</DefaultText>
+      <DefaultText>„Ich werde meinem Vater berichten, was du für mich getan hast. Wenn du nach Stalwart zurückkehrst, findest du mich dort vielleicht vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
       <DefaultText>Zahua verpasst Suldrun eine schallende Ohrfeige. Suldrun blickt ihn mit weit geöffneten Augen sprachlos an.
 
-Zahua zuckt mit den Schultern. "Bei mir hilft das meistens."
+Zahua zuckt mit den Schultern. „Bei mir hilft das meistens.“
 
-Er blickt sich in der Runde um. "Was?"
+Er blickt sich in der Runde um. „Was?“
 
 Suldrun scheint den Schock abzuschütteln.</DefaultText>
       <FemaleText />

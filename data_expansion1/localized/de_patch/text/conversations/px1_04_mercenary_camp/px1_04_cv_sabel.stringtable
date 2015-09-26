@@ -20,14 +20,14 @@ Ihre Hand ruht auf ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Tanoss." Das Wort ist nur ein kehliges Zischen, das aus dem vernarbten Rachen der Zwergin hervorgepresst wird.
+      <DefaultText>„Tanoss.“ Das Wort ist nur ein kehliges Zischen, das aus dem vernarbten Rachen der Zwergin hervorgepresst wird.
 
 Sie greift nach ihrem Zauberbuch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Tanoss ist mit mir einen Handel eingegangen, um deinen Teil des Schlüssels zu bekommen. Vielleicht kannst du mir einen besseren Handel anbieten."</DefaultText>
+      <DefaultText>„Tanoss ist mit mir einen Handel eingegangen, um deinen Teil des Schlüssels zu bekommen. Vielleicht kannst du mir einen besseren Handel anbieten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,7 +42,7 @@ Sie greift nach ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Gib mir deinen Teil des Schlüssels, dann lasse ich dich leben."</DefaultText>
+      <DefaultText>„Gib mir deinen Teil des Schlüssels, dann lasse ich dich leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@ Sie greift nach ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich suche nach dem Schlüssel zu Concelhauts Kammer."</DefaultText>
+      <DefaultText>„Ich suche nach dem Schlüssel zu Concelhauts Kammer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,7 +62,7 @@ Sie greift nach ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Woran arbeitest du?"</DefaultText>
+      <DefaultText>„Woran arbeitest du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,17 +82,17 @@ Sie greift nach ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Raus." Ihre Stimme ist kaum mehr als ein Krächzen, als sie zur Tür zeigt.</DefaultText>
+      <DefaultText>„Raus.“ Ihre Stimme ist kaum mehr als ein Krächzen, als sie zur Tür zeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Weggehen] "Also gut, ich gehe."</DefaultText>
+      <DefaultText>[Weggehen] „Also gut, ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich habe nur ein paar Fragen."</DefaultText>
+      <DefaultText>„Ich habe nur ein paar Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,7 +104,7 @@ Sie blickt von dir zur Tür.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich will wissen, was bei drei passiert."</DefaultText>
+      <DefaultText>„Ich will wissen, was bei drei passiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@ Sie blickt von dir zur Tür.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Was ist mit dir geschehen?"</DefaultText>
+      <DefaultText>„Was ist mit dir geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

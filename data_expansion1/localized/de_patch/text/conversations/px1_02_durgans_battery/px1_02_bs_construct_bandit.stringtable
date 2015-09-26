@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ha! Geld oder Leben!"
+      <DefaultText>„Ha! Geld oder Leben!“
 
 Eine blecherne Stimme ertönt aus der Brust dieser kopflosen Maschine. Von Zeit zu Zeit begleitet ein Funkenflug das Rattern ihres Innenlebens.</DefaultText>
       <FemaleText />
@@ -18,152 +18,152 @@ Eine blecherne Stimme ertönt aus der Brust dieser kopflosen Maschine. Von Zeit 
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Entschuldige mich?"</DefaultText>
+      <DefaultText>„Entschuldige mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Das ist nicht dein Ernst."</DefaultText>
+      <DefaultText>„Das ist nicht dein Ernst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Na, haben wir uns verlaufen? Auf diesen Straßen ist ein Zoll zu zahlen. Fünfhundert Kupfer, sonst hast du bald ein Paar neue Nasenlöcher, aus denen du atmen kannst!"
+      <DefaultText>„Na, haben wir uns verlaufen? Auf diesen Straßen ist ein Zoll zu zahlen. Fünfhundert Kupfer, sonst hast du bald ein Paar neue Nasenlöcher, aus denen du atmen kannst!“
 
 Die Arme des Konstrukts zucken krampfartig an seiner Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich scherze nicht! Auf diesen Straßen ist ein Zoll zu zahlen. Fünfhundert Kupfer, sonst hast du bald ein Paar neue Nasenlöcher, aus denen du atmen kannst!"
+      <DefaultText>„Ich scherze nicht! Auf diesen Straßen ist ein Zoll zu zahlen. Fünfhundert Kupfer, sonst hast du bald ein Paar neue Nasenlöcher, aus denen du atmen kannst!“
 
 Die Hände des Konstrukts zucken krampfartig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wir sind nicht auf der Straße."</DefaultText>
+      <DefaultText>„Wir sind nicht auf der Straße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Was willst du denn machen? Mich treten?"</DefaultText>
+      <DefaultText>„Was willst du denn machen? Mich treten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"So viel Geld habe ich nicht."</DefaultText>
+      <DefaultText>„So viel Geld habe ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Du hast dich wirklich gründlich verirrt! Ich sage dir was - wenn du zahlst, weise ich dir den Weg nach Stammheim. Das ist doch gerecht, oder?"</DefaultText>
+      <DefaultText>„Du hast dich wirklich gründlich verirrt! Ich sage dir was - wenn du zahlst, weise ich dir den Weg nach Stammheim. Das ist doch gerecht, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Dem Konstrukt 500p geben] "Bitte, tu uns nur nicht weh."</DefaultText>
+      <DefaultText>[Dem Konstrukt 500p geben] „Bitte, tu uns nur nicht weh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Du bist in einer Zelle. Sieh dich um."</DefaultText>
+      <DefaultText>„Du bist in einer Zelle. Sieh dich um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ein Philosoph, ja? Wir sind alle in den Käfigen unserer eigenen Missetaten gefangen? Unsinn!"
+      <DefaultText>„Ein Philosoph, ja? Wir sind alle in den Käfigen unserer eigenen Missetaten gefangen? Unsinn!“
 
 Die Stimme hat nun einen manischen Ton angenommen und du hörst ein metallisches Knarzen aus dem Inneren des Konstrukts.</DefaultText>
-      <FemaleText>"Eine Philosophin, ja? Wir sind alle in den Käfigen unserer eigenen Missetaten gefangen? Unsinn!"
+      <FemaleText>„Eine Philosophin, ja? Wir sind alle in den Käfigen unserer eigenen Missetaten gefangen? Unsinn!“
 
 Die Stimme hat nun einen manischen Ton angenommen und du hörst ein metallisches Knarzen aus dem Inneren des Konstrukts.</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich bin gekommen, um dir zu helfen. Du bist frei, du kannst diesen Ort verlassen."</DefaultText>
+      <DefaultText>„Ich bin gekommen, um dir zu helfen. Du bist frei, du kannst diesen Ort verlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Aber du bist ein Konstrukt!"</DefaultText>
+      <DefaultText>„Aber du bist ein Konstrukt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Was? Soll das eine Beleidigung sein? Ich zeige dir ein 'Konzept', wenn du mir nicht dein Geld gibst!"
+      <DefaultText>„Was? Soll das eine Beleidigung sein? Ich zeige dir ein 'Konzept', wenn du mir nicht dein Geld gibst!“
 
 Ein schwaches, bedrohliches Licht strahlt aus dem künstlichen Körper der Kreatur hervor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Frei? Was soll das heißen?"</DefaultText>
+      <DefaultText>„Frei? Was soll das heißen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>" ... Wirklich? Äh, ich meine, natürlich. Ich dachte mir doch, dass du Vernunft annimmst! Her damit, und dann verschwinde!"
+      <DefaultText>„… Wirklich? Äh, ich meine, natürlich. Ich dachte mir doch, dass du Vernunft annimmst! Her damit, und dann verschwinde!“
 
 Das Konstrukt hebt den verkrüppelten Stummel eines Arms in deine Richtung, um seine Beute an sich zu nehmen. Als es sich aber wieder wegdreht, fallen die Münzen klimpernd zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Sag allen, die du triffst - Alryn Rasiermesserfinger hält ihr Wort!"
+      <DefaultText>„Sag allen, die du triffst - Alryn Rasiermesserfinger hält ihr Wort!“
 
 Das Konstrukt lacht fröhlich rasselnd und wankt zurück zum hinteren Teil der Zelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Hier ist die Tür. Sei frei!"</DefaultText>
+      <DefaultText>„Hier ist die Tür. Sei frei!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Angreifen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe keine Zeit für so etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ahh! Nicht das Gesicht!"</DefaultText>
+      <DefaultText>„Ahh! Nicht das Gesicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich bin frei! Keine Zelle kann mich halten!"</DefaultText>
+      <DefaultText>„Ich bin frei! Keine Zelle kann mich halten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich kann kaufen, was ich will!"</DefaultText>
+      <DefaultText>„Ich kann kaufen, was ich will!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"He, du ... du hast Recht! Sie ist offen!"
+      <DefaultText>„He, du&#160;… du hast Recht! Sie ist offen!“
 
 Die Kreatur macht einen schwankenden Schritt nach vorne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Tja, Pech für dich! Die Leute dürfen nicht glauben, ich sei schwach, weil ich dich vorbeispazieren lasse, ohne den Zoll zu bezahlen."
+      <DefaultText>„Tja, Pech für dich! Die Leute dürfen nicht glauben, ich sei schwach, weil ich dich vorbeispazieren lasse, ohne den Zoll zu bezahlen.“
 
 Das Konstrukt wankt plötzlich zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Hm. Das ist ... seltsam. Ich hatte doch gerade noch mein Me-Messer. Ich konnte immer ... sehr gut mit Messern umgehen." In ihre Stimme schleicht sich ein Anflug von Panik.
+      <DefaultText>„Hm. Das ist&#160;… seltsam. Ich hatte doch gerade noch mein Me-Messer. Ich konnte immer&#160;… sehr gut mit Messern umgehen.“ In ihre Stimme schleicht sich ein Anflug von Panik.
 
-"W-wo sind meine ... Hände? Ich ... warum ..."</DefaultText>
+„W-wo sind meine&#160;… Hände? Ich&#160;… warum&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Wo bin ich?! W-was geht hier vor sich?!"
+      <DefaultText>„Wo bin ich?! W-was geht hier vor sich?!“
 
 Plötzlich ertönt ein grelles metallisches Quietschen und das Konstrukt strahlt ein pulsierendes Licht aus, während es auf dich zuwankt.</DefaultText>
       <FemaleText />
@@ -172,28 +172,28 @@ Plötzlich ertönt ein grelles metallisches Quietschen und das Konstrukt strahlt
       <ID>31</ID>
       <DefaultText>Ein grelles Licht strahlt aus der Hülle des Konstrukts hervor.
 
-"Ha! Leb wohl, Fremder! Ich bin frei!"</DefaultText>
+„Ha! Leb wohl, Fremder! Ich bin frei!“</DefaultText>
       <FemaleText>Ein grelles Licht strahlt aus der Hülle des Konstrukts hervor.
 
-"Ha! Leb wohl, Fremde! Ich bin frei!"</FemaleText>
+„Ha! Leb wohl, Fremde! Ich bin frei!“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Für den Anfang! Du wirst deine Scherze noch bereuen, wenn du erst im Schlamm liegst!"
+      <DefaultText>„Für den Anfang! Du wirst deine Scherze noch bereuen, wenn du erst im Schlamm liegst!“
 
 Das Konstrukt wankt plötzlich zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Sieh dich doch an. Du bist eine kaputte Maschine."</DefaultText>
+      <DefaultText>„Sieh dich doch an. Du bist eine kaputte Maschine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Deine ... deine Beleidigungen sind äußerst seltsam, muss ich sagen!
+      <DefaultText>„Deine&#160;… deine Beleidigungen sind äußerst seltsam, muss ich sagen!“
 
-"Aber du wirst diese Worte bereuen! Die Leute dürfen nicht glauben, ich sei schwach!"</DefaultText>
+„Aber du wirst diese Worte bereuen! Die Leute dürfen nicht glauben, ich sei schwach!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@ Das Konstrukt wankt plötzlich zur Seite.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Fünfhundert ganze Pand!"</DefaultText>
+      <DefaultText>„Fünfhundert ganze Pand!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

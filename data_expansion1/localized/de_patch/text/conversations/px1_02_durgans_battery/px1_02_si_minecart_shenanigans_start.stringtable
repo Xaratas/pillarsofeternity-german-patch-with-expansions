@@ -116,17 +116,17 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Du stellst deine Geschicklichkeit unter Beweis, indem du dich aus der Lore hängst und den heranrauschenden Hebel packst. Durch den wuchtigen Aufprall wirst du jedoch fast aus der Lore geschleudert ... und deine Schulter schmerzt.</DefaultText>
+      <DefaultText>Du stellst deine Geschicklichkeit unter Beweis, indem du dich aus der Lore hängst und den heranrauschenden Hebel packst. Durch den wuchtigen Aufprall wirst du jedoch fast aus der Lore geschleudert&#160;… und deine Schulter schmerzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Du hängst dich aus der Lore, streckst die Hände nach dem Hebel aus ... und fällst fast kopfüber auf die Gleise. Du ziehst dich schnell wieder in die Lore und der Hebel ist schon bald nicht mehr zu sehen.</DefaultText>
+      <DefaultText>Du hängst dich aus der Lore, streckst die Hände nach dem Hebel aus&#160;… und fällst fast kopfüber auf die Gleise. Du ziehst dich schnell wieder in die Lore und der Hebel ist schon bald nicht mehr zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Nach einer schwindelerregenden Reihe von Kurven wird die Lore langsamer und bleibt schließlich am Eingang zu einer neuen Höhle stehen ...</DefaultText>
+      <DefaultText>Nach einer schwindelerregenden Reihe von Kurven wird die Lore langsamer und bleibt schließlich am Eingang zu einer neuen Höhle stehen&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Du hängst dich aus der Lore, streckst die Hände nach dem Hebel aus ... und fällst fast kopfüber auf die Gleise. Du wirst schnell wieder in die Lore gezogen und der Hebel ist schon bald nicht mehr zu sehen.</DefaultText>
+      <DefaultText>Du hängst dich aus der Lore, streckst die Hände nach dem Hebel aus&#160;… und fällst fast kopfüber auf die Gleise. Du wirst schnell wieder in die Lore gezogen und der Hebel ist schon bald nicht mehr zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[Slot 0] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 0] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[Slot 1] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 1] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 1] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 1] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[Slot 2] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 2] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[Slot 3] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 3] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 3] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 3] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[Slot 4] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 4] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 4] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 4] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[Slot 5] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus ... und fällt fast kopfüber auf die Gleise. Als ihr [Slot 5] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 5] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 5] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

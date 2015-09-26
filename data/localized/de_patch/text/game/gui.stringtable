@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2041</EntryCount>
+  <EntryCount>2066</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -9904,7 +9904,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <ID>2050</ID>
       <DefaultText>Deine Gruppe gilt für die {0}-Inhalte als erfahren.
 
-Wenn du möchtest, kann die Schwierigkeit des kritischen Pfads erhöht werden, um dich stärker zu fordern.
+Wenn du möchtest, kann die Schwierigkeit der Hauptquest erhöht werden, um dich stärker zu fordern.
 
 Die Belohnungen, die du erhältst, bleiben gleich - egal, welche Option du wählst.
 
@@ -10292,6 +10292,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2233</ID>
+      <DefaultText>Kundschaften</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2234</ID>
+      <DefaultText>Unsichtbar</DefaultText>
+      <FemaleText />
+    </Entry>	
+    <Entry>
       <ID>2235</ID>
       <DefaultText>{0} zerstörte {1}!</DefaultText>
       <FemaleText />
@@ -10306,5 +10316,120 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <DefaultText>Legt die maximale Anzahl an automatisch gespeicherten Spielständen fest, die für jeden Spieldurchgang behalten werden.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>2238</ID>
+      <DefaultText>Immun gegen {0}schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2239</ID>
+      <DefaultText>Sofortige Erholung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2241</ID>
+      <DefaultText>{0} {1} Schaden pro {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2242</ID>
+      <DefaultText>entfernt alle {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2243</ID>
+      <DefaultText>{0}, wenn mindestes {1} Schaden erzielt wurde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2244</ID>
+      <DefaultText>Die Weißmark: Teil 2 - Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2245</ID>
+      <DefaultText>Die Weißmark: Teil 2 - Nicht installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2246</ID>
+      <DefaultText>Die Weißmark: Teil 2 - Installiert (Die Weißmark: Teil 1 - benötigt)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2247</ID>
+      <DefaultText>gewähre {0} vom zugefügten Schaden als Fokus für {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2248</ID>
+      <DefaultText>Story Time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2249</ID>
+      <DefaultText> -[{0}]-&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2250</ID>
+      <DefaultText>Platzhalterbeschreibung für Story Time Schwierigkeitsgrad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2251</ID>
+      <DefaultText>{0} Zaubersprüche gemeistert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2252</ID>
+      <DefaultText>Zauberbeherrschung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2253</ID>
+      <DefaultText>Wähle einen Rastbonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2254</ID>
+      <DefaultText>Herbeigerufene Kreaturen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2255</ID>
+      <DefaultText>{0} von eingehenden Leichten Treffern umgewandelt in Misserfolge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2256</ID>
+      <DefaultText>{0} Heilung erhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2257</ID>
+      <DefaultText>TEMP: Mastering a Spell allows an additional use of Once Per Encounter for that spell. For Wizards, Mastered Spells do not need to be in their grimoire in order to be cast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2260</ID>
+      <DefaultText>{0}-pt {1} Schadensschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2261</ID>
+      <DefaultText>{0}, wenn Ausdauer unter {1} fällt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2262</ID>
+      <DefaultText>Verdeckungsdeckkraft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2263</ID>
+      <DefaultText>Stelle die Deckkraft von Charakteren ein, wenn diese von der Umgebung verdeckt sind.</DefaultText>
+      <FemaleText />
+    </Entry>	
   </Entries>
 </StringTableFile>

@@ -13,24 +13,24 @@ Frostiger Dampf steigt zwischen seinen Zähnen auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Verschwinde. Sofort." Das einzige Geräusch, das der Drache von sich gibt, ist ein heiseres Knurren. Du hörst es aber so deutlich, als wäre es gesprochene Sprache.
+      <DefaultText>„Verschwinde. Sofort.“ Das einzige Geräusch, das der Drache von sich gibt, ist ein heiseres Knurren. Du hörst es aber so deutlich, als wäre es gesprochene Sprache.
 
 Das Monster zeigt seine Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich will mich nur umsehen."</DefaultText>
+      <DefaultText>„Ich will mich nur umsehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du siehst krank aus."</DefaultText>
+      <DefaultText>„Du siehst krank aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Angreifen] "Stirb, Drache!"</DefaultText>
+      <DefaultText>[Angreifen] „Stirb, Drache!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,165 +40,165 @@ Das Monster zeigt seine Zähne.</DefaultText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Er schnaubt. "Ich dulde keinen Abschaum und keine Eindringlinge. Verschwinde oder ich nage dir dein lebendes Fleisch von den Knochen."
+      <DefaultText>Er schnaubt. „Ich dulde keinen Abschaum und keine Eindringlinge. Verschwinde oder ich nage dir dein lebendes Fleisch von den Knochen.“
 
 Er verzieht die Lippen zu einer Fratze. Du siehst etwas in der Form eines Oberschenkelknochens zwischen seinen Zähnen stecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Hast du Ygadr gegessen? Den jungen Mann bei der Straße?"</DefaultText>
+      <DefaultText>„Hast du Ygadr gegessen? Den jungen Mann bei der Straße?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Wo liegt das Problem?"</DefaultText>
+      <DefaultText>„Wo liegt das Problem?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Du kannst dich kaum noch auf den Füßen halten. Ich glaube, du bist zu schwach, um mich zu bekämpfen."</DefaultText>
+      <DefaultText>„Du kannst dich kaum noch auf den Füßen halten. Ich glaube, du bist zu schwach, um mich zu bekämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Würdest du mich töten wollen, hättest du es längst versucht."</DefaultText>
+      <DefaultText>„Würdest du mich töten wollen, hättest du es längst versucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wie hieß dieser Wurm? Ich weiß nur, dass er mager geschmeckt hat." Der Drache fährt mit seiner Zunge über den Beinknochen.</DefaultText>
+      <DefaultText>„Wie hieß dieser Wurm? Ich weiß nur, dass er mager geschmeckt hat.“ Der Drache fährt mit seiner Zunge über den Beinknochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Er war auf der Suche nach seinem Seelenzwilling. Was hatte das mit dir zu tun?"</DefaultText>
+      <DefaultText>„Er war auf der Suche nach seinem Seelenzwilling. Was hatte das mit dir zu tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Warum siehst du dann verwundet aus? Er kam mir nicht vor wie ein ernstzunehmender Gegner."</DefaultText>
+      <DefaultText>„Warum siehst du dann verwundet aus? Er kam mir nicht vor wie ein ernstzunehmender Gegner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Der Drache malmt die Zähne. "Seit Jahrhunderten lebe ich. Ich teile meiner Seele nicht mit einem heulenden Kind."</DefaultText>
+      <DefaultText>Der Drache malmt die Zähne. „Seit Jahrhunderten lebe ich. Ich teile meiner Seele nicht mit einem heulenden Kind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich habe ihn mit einem Wisch meiner Krallen getötet, während er mich mit diesen leeren Lammäuglein angestarrt hat." Er gräbt seine Klauen in den Schnee.</DefaultText>
+      <DefaultText>„Ich habe ihn mit einem Wisch meiner Krallen getötet, während er mich mit diesen leeren Lammäuglein angestarrt hat.“ Er gräbt seine Klauen in den Schnee.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Moment, du bist sein Seelenzwilling? Warum hast du ihn getötet?"</DefaultText>
+      <DefaultText>„Moment, du bist sein Seelenzwilling? Warum hast du ihn getötet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Er dachte, du könntest sein Leid lindern."</DefaultText>
+      <DefaultText>„Er dachte, du könntest sein Leid lindern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du hast das wohl schon einmal erlebt."</DefaultText>
+      <DefaultText>„Du hast das wohl schon einmal erlebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Habe ich das denn nicht?" Das Maul des Drachen verzerrt sich zu so etwas Ähnlichem wie einem Grinsen.</DefaultText>
+      <DefaultText>„Habe ich das denn nicht?“ Das Maul des Drachen verzerrt sich zu so etwas Ähnlichem wie einem Grinsen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"So lange er lebte, wurde sein Leid zu meinem. Und als er sich näherte, infizierte seine Schwäche meine Essenz."</DefaultText>
+      <DefaultText>„So lange er lebte, wurde sein Leid zu meinem. Und als er sich näherte, infizierte seine Schwäche meine Essenz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Der Drache lässt seinen Schwanz peitschen. "Ich kann niemals stark sein, so lange ein Seelenzwilling von mir lebt."</DefaultText>
+      <DefaultText>Der Drache lässt seinen Schwanz peitschen. „Ich kann niemals stark sein, so lange ein Seelenzwilling von mir lebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Seit ich ein Jungdrache war. Plötzliche Anfälle von Schmerzen und Furcht lähmten mich immer wieder. Ich war ein Gefangener von Erfahrungen, die nicht meine eigenen waren." Der Schwanz des Drachen rollt sich langsam ein und wieder aus.</DefaultText>
+      <DefaultText>„Seit ich ein Jungdrache war. Plötzliche Anfälle von Schmerzen und Furcht lähmten mich immer wieder. Ich war ein Gefangener von Erfahrungen, die nicht meine eigenen waren.“ Der Schwanz des Drachen rollt sich langsam ein und wieder aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich habe so viele von der Brut getötet, wie ich konnte. Ich habe ihre Schmerzen gespürt, aber ich habe auch gespürt, wie Teile ihrer Seele mein wurden."
+      <DefaultText>„Ich habe so viele von der Brut getötet, wie ich konnte. Ich habe ihre Schmerzen gespürt, aber ich habe auch gespürt, wie Teile ihrer Seele mein wurden.“
 
 Seine Schlitze von Augen weiten sich ob der Erinnerung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich verstehe dich. Du tust, was du tun musst, um zu überleben."</DefaultText>
+      <DefaultText>„Ich verstehe dich. Du tust, was du tun musst, um zu überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Hättest du stärker werden können, indem du dich mit deinen Seelenzwillingen vereinst?"</DefaultText>
+      <DefaultText>„Hättest du stärker werden können, indem du dich mit deinen Seelenzwillingen vereinst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Deine Seelenzwillinge zu töten war falsch. Deine Beweggründe ändern das nicht."</DefaultText>
+      <DefaultText>„Deine Seelenzwillinge zu töten war falsch. Deine Beweggründe ändern das nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Vielleicht hat ein anderer deiner Seelenzwillinge das auch getan. Vielleicht bist du eines Tages der Gnade eines stärkeren Wesens ausgeliefert."</DefaultText>
+      <DefaultText>„Vielleicht hat ein anderer deiner Seelenzwillinge das auch getan. Vielleicht bist du eines Tages der Gnade eines stärkeren Wesens ausgeliefert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Du schon wieder?" Der Drache stöhnt und verlagert sein Gewicht.</DefaultText>
+      <DefaultText>„Du schon wieder?“ Der Drache stöhnt und verlagert sein Gewicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Bleib oder geh, ich lasse dich in Ruhe."</DefaultText>
+      <DefaultText>„Bleib oder geh, ich lasse dich in Ruhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich kann dir immer noch das Fleisch von den Knochen schälen."
+      <DefaultText>„Ich kann dir immer noch das Fleisch von den Knochen schälen.“
 
-Der Drache hustet. Tiefrote Tropfen fallen auf das Eis. Du siehst etwas in der Form eines Oberschenkelknochens zwischen seinen Zähnen stecken."</DefaultText>
+Der Drache hustet. Tiefrote Tropfen fallen auf das Eis. Du siehst etwas in der Form eines Oberschenkelknochens zwischen seinen Zähnen stecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Moment, warst du sein Seelenzwilling?"</DefaultText>
+      <DefaultText>„Moment, warst du sein Seelenzwilling?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Aber seine Seele teilte eine Verbindung mit der meinen. Eine, die mich geschwächt zurückließ. Vorübergehend." Er fixiert dich mit seinen Augenschlitzen.</DefaultText>
+      <DefaultText>„Aber seine Seele teilte eine Verbindung mit der meinen. Eine, die mich geschwächt zurückließ. Vorübergehend.“ Er fixiert dich mit seinen Augenschlitzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Irgendwann bemerkte ich etwas Ähnliches in den anderen Drachen meiner Brut. Ich spürte, wie ihr Schreien und Kreischen zu meinen wurden, als sie einander zwickten und anflatterten."</DefaultText>
+      <DefaultText>„Irgendwann bemerkte ich etwas Ähnliches in den anderen Drachen meiner Brut. Ich spürte, wie ihr Schreien und Kreischen zu meinen wurden, als sie einander zwickten und anflatterten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Sprich weiter."</DefaultText>
+      <DefaultText>„Sprich weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wie kam es zu deiner Verbindung zu deinen Geschwistern?"</DefaultText>
+      <DefaultText>„Wie kam es zu deiner Verbindung zu deinen Geschwistern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Der Drache schnaubt. "Ich vergeude meine Zeit nicht mit den Geheimnissen der Seelen - was sie zerreißt und wie das Drehen des Rads sie verteilt.
+      <DefaultText>Der Drache schnaubt. „Ich vergeude meine Zeit nicht mit den Geheimnissen der Seelen - was sie zerreißt und wie das Drehen des Rads sie verteilt.
 
-"Es zählt nur eins: Macht. Überleben."</DefaultText>
+„Es zählt nur eins: Macht. Überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,79 +208,79 @@ Der Drache hustet. Tiefrote Tropfen fallen auf das Eis. Du siehst etwas in der F
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"So interessant diese Unterhaltung auch war, ich bin ihrer überdrüssig."
+      <DefaultText>„So interessant diese Unterhaltung auch war, ich bin ihrer überdrüssig.“
 
 Der Drache kratzt sich mit einer Kralle zwischen den Zähnen und endlich löst sich der Knochen. Er kaut auf dem Stück herum, seine Augen auf dich gerichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Fange keinen Kampf an, den du nicht gewinnen kannst, Drache."</DefaultText>
+      <DefaultText>„Fange keinen Kampf an, den du nicht gewinnen kannst, Drache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Du bist immer noch geschwächt. Spare dir deine Stärke auf und lass mich in Frieden."</DefaultText>
+      <DefaultText>„Du bist immer noch geschwächt. Spare dir deine Stärke auf und lass mich in Frieden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ganz ruhig. Freunde sind nützlicher als Feinde."</DefaultText>
+      <DefaultText>„Ganz ruhig. Freunde sind nützlicher als Feinde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[Angreifen] "Versuch's doch."</DefaultText>
+      <DefaultText>[Angreifen] „Versuch's doch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich habe getötet und gefressen ... und der Geruch von Blut hat meine Geschwister rasend gemacht. Unser Nest wurde zu einem Hort des Chaos als wir kämpften, starben und einander fraßen."</DefaultText>
+      <DefaultText>„Ich habe getötet und gefressen&#160;… und der Geruch von Blut hat meine Geschwister rasend gemacht. Unser Nest wurde zu einem Hort des Chaos als wir kämpften, starben und einander fraßen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Schließlich war nur noch eine Handvoll von uns übrig. Wir waren entsetzt, was wir verschlungen hatten und was wir erlitten hatten." Die Erhebungen auf seinem Kopf flachen ab.</DefaultText>
+      <DefaultText>„Schließlich war nur noch eine Handvoll von uns übrig. Wir waren entsetzt, was wir verschlungen hatten und was wir erlitten hatten.“ Die Erhebungen auf seinem Kopf flachen ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Nach und nach jagte und fand ich einige meiner verschwundenen Geschwister. Andere kehrten in anderen Häuten und anderen Leben zu mir zurück. Wie dieser Junge."</DefaultText>
+      <DefaultText>„Nach und nach jagte und fand ich einige meiner verschwundenen Geschwister. Andere kehrten in anderen Häuten und anderen Leben zu mir zurück. Wie dieser Junge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Was ist aus dem Teil der Brut geworden, der überlebt hat?"</DefaultText>
+      <DefaultText>„Was ist aus dem Teil der Brut geworden, der überlebt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich dachte nicht, dass es möglich wäre, die Seele eines anderen zu verschlingen."</DefaultText>
+      <DefaultText>„Ich dachte nicht, dass es möglich wäre, die Seele eines anderen zu verschlingen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich hatte von seltenen Fällen gehört, in denen Seelenzwillinge die Essenz des anderen absorbieren können."</DefaultText>
+      <DefaultText>„Ich hatte von seltenen Fällen gehört, in denen Seelenzwillinge die Essenz des anderen absorbieren können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Genau, wie es den meisten nicht möglich ist, die Erfahrungen eines anderen so intensiv zu erleben. Und doch war es bei meinen Seelenzwillingen immer so. Unsere Essenz bleibt irgendwie verbunden."</DefaultText>
+      <DefaultText>„Genau, wie es den meisten nicht möglich ist, die Erfahrungen eines anderen so intensiv zu erleben. Und doch war es bei meinen Seelenzwillingen immer so. Unsere Essenz bleibt irgendwie verbunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Dann verstehst du meine Wahl. Vernichten oder sterben." Seine Augen flackern.</DefaultText>
+      <DefaultText>„Dann verstehst du meine Wahl. Vernichten oder sterben.“ Seine Augen flackern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"In der Tat."</DefaultText>
+      <DefaultText>„In der Tat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Vorsichtig. Den letzten Wanderer, den ich hier gefunden habe, habe ich getötet."</DefaultText>
+      <DefaultText>„Vorsichtig. Den letzten Wanderer, den ich hier gefunden habe, habe ich getötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +292,7 @@ Die frischesten Fragmente zeichnen ein kurzes Bild eines jungen Mannes, der durc
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Betrachte es als eine Magenverstimmung. Und schätze dich glücklich, dass ich bereits gegessen habe." Ein Rülpser grollt aus dem Schlund des Drachen hervor und hallt in dem Eis unter deinen Füßen wider.</DefaultText>
+      <DefaultText>„Betrachte es als eine Magenverstimmung. Und schätze dich glücklich, dass ich bereits gegessen habe.“ Ein Rülpser grollt aus dem Schlund des Drachen hervor und hallt in dem Eis unter deinen Füßen wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@ Die frischesten Fragmente zeichnen ein kurzes Bild eines jungen Mannes, der durc
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich könnte dich immer noch töten, weil du mich gestört hast." Seine vier purpurroten Augen verfolgen dich.</DefaultText>
+      <DefaultText>„Ich könnte dich immer noch töten, weil du mich gestört hast.“ Seine vier purpurroten Augen verfolgen dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,22 +314,22 @@ Schließlich schluckt er die Splitter herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Vorsicht ist die Krücke der Schwachen. Es zahlt sich aus, zuerst zuzuschlagen."</DefaultText>
+      <DefaultText>„Vorsicht ist die Krücke der Schwachen. Es zahlt sich aus, zuerst zuzuschlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"So vorsichtig. Sagtest du nicht, man solle zuerst zuschlagen?" Er brüllt und zeigt seine Zähne und Klauen, bereit dich anzugreifen.</DefaultText>
+      <DefaultText>„So vorsichtig. Sagtest du nicht, man solle zuerst zuschlagen?“ Er brüllt und zeigt seine Zähne und Klauen, bereit dich anzugreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Vielleicht hast du Recht."</DefaultText>
+      <DefaultText>„Vielleicht hast du Recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Du gewinnst nichts durch meine Seele - konzentriere dich doch auf deine Seelenzwillinge."</DefaultText>
+      <DefaultText>„Du gewinnst nichts durch meine Seele - konzentriere dich doch auf deine Seelenzwillinge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,9 +341,9 @@ Schließlich schluckt er die Splitter herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Vor wenigen Augenblicken hast du meinen Hunger noch verurteilt, jetzt singst du ein anderes Lied.
+      <DefaultText>„Vor wenigen Augenblicken hast du meinen Hunger noch verurteilt, jetzt singst du ein anderes Lied.
 
-"Je mehr ich höre, desto weniger vertraue ich." Er brüllt und zeigt seine Zähne und Klauen, bereit, dich anzugreifen.</DefaultText>
+„Je mehr ich höre, desto weniger vertraue ich.“ Er brüllt und zeigt seine Zähne und Klauen, bereit, dich anzugreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,29 +355,29 @@ Schließlich schluckt er die Splitter herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Vielleicht hast du Recht. Wenn ein weiterer Seelenzwilling wie ich ..."
+      <DefaultText>„Vielleicht hast du Recht. Wenn ein weiterer Seelenzwilling wie ich&#160;…“
 
 Der Drache schnaubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ich riskiere es."</DefaultText>
+      <DefaultText>„Ich riskiere es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[Weggehen] "Ich gehe jetzt lieber."</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe jetzt lieber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Zu spät." Der Drache stürzt auf dich zu. Sein hungriges Knurren hallt in der Höhle wider.</DefaultText>
+      <DefaultText>„Zu spät.“ Der Drache stürzt auf dich zu. Sein hungriges Knurren hallt in der Höhle wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"An sie gebunden bleiben? Hoffen, dass sie sich nie gegen mich wenden?"</DefaultText>
+      <DefaultText>„An sie gebunden bleiben? Hoffen, dass sie sich nie gegen mich wenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,7 +389,7 @@ Schließlich schluckt er die Splitter herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Dann geh. Oder bleib. Nur lass mich schlafen." Der Drache beobachtet dich weiter, schlägt jedoch einen breiten Graben in den weichen Schnee.</DefaultText>
+      <DefaultText>„Dann geh. Oder bleib. Nur lass mich schlafen.“ Der Drache beobachtet dich weiter, schlägt jedoch einen breiten Graben in den weichen Schnee.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,69 +399,69 @@ Schließlich schluckt er die Splitter herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Zahua runzelt nachdenklich die Stirn. "Ich dachte immer, falls ich einen Seelenzwilling habe, wären wir sicher gute Freunde.
+      <DefaultText>Zahua runzelt nachdenklich die Stirn. „Ich dachte immer, falls ich einen Seelenzwilling habe, wären wir sicher gute Freunde.“
 
-"Ich hatte nicht bedacht, wie großartig es wäre, ihn zu vermöbeln."</DefaultText>
+„Ich hatte nicht bedacht, wie großartig es wäre, ihn zu vermöbeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Und was bietest du mir an, wenn ich dich gehen lasse?" Er senkt den Kopf, um dich anzublicken.</DefaultText>
+      <DefaultText>„Und was bietest du mir an, wenn ich dich gehen lasse?“ Er senkt den Kopf, um dich anzublicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ich verschone dein Leben, Wurm."</DefaultText>
+      <DefaultText>„Ich verschone dein Leben, Wurm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Als Wächter könnte ich deine Verbindung zu deinen Seelenzwillingen kappen."</DefaultText>
-      <FemaleText>"Als Wächterin könnte ich deine Verbindung zu deinen Seelenzwillingen kappen."</FemaleText>
+      <DefaultText>„Als Wächter könnte ich deine Verbindung zu deinen Seelenzwillingen kappen.“</DefaultText>
+      <FemaleText>„Als Wächterin könnte ich deine Verbindung zu deinen Seelenzwillingen kappen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ich habe auf meinen Reisen viele Schätze gesammelt. Ich gebe dir einen Teil davon ab."</DefaultText>
+      <DefaultText>„Ich habe auf meinen Reisen viele Schätze gesammelt. Ich gebe dir einen Teil davon ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Er schnaubt verächtlich. "Was soll ich mit den 'Schätzen' der Gestandenen?"</DefaultText>
+      <DefaultText>Er schnaubt verächtlich. „Was soll ich mit den 'Schätzen' der Gestandenen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ich bin deine gespielte Furchtlosigkeit leid, [Player Race]."</DefaultText>
+      <DefaultText>„Ich bin deine gespielte Furchtlosigkeit leid, [Player Race].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Wenn du mir nichts Besseres anzubieten hast, dann wirst du wenigstens meinen Hunger stillen." Er brüllt und zeigt seine Zähne und Klauen, als er zum Angriff ansetzt.</DefaultText>
+      <DefaultText>„Wenn du mir nichts Besseres anzubieten hast, dann wirst du wenigstens meinen Hunger stillen.“ Er brüllt und zeigt seine Zähne und Klauen, als er zum Angriff ansetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Lügen! Du würdest mich verwundbar machen. Wie töricht ich doch war, beinahe auf deine List hereinzufallen!" Der Drache zischt und zieht sich ein Stück zurück.</DefaultText>
+      <DefaultText>„Lügen! Du würdest mich verwundbar machen. Wie töricht ich doch war, beinahe auf deine List hereinzufallen!“ Der Drache zischt und zieht sich ein Stück zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Du bist ohnehin schon geschwächt. Lass mich dir helfen."</DefaultText>
+      <DefaultText>„Du bist ohnehin schon geschwächt. Lass mich dir helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Ich will dir nichts Böses."</DefaultText>
+      <DefaultText>„Ich will dir nichts Böses.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Höre auf meine Stimme und wisse, dass ich die Wahrheit sage - ich werde dir helfen."</DefaultText>
+      <DefaultText>„Höre auf meine Stimme und wisse, dass ich die Wahrheit sage - ich werde dir helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Was hast du zu verlieren, indem du mir traust?"</DefaultText>
+      <DefaultText>„Was hast du zu verlieren, indem du mir traust?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@ Schließlich schluckt er die Splitter herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Also gut. Aber ich warne dich ..." Der Drache beobachtet dich mit zusammengekniffenen Augen, als du dich näherst.</DefaultText>
+      <DefaultText>„Also gut. Aber ich warne dich&#160;…“ Der Drache beobachtet dich mit zusammengekniffenen Augen, als du dich näherst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,26 +500,26 @@ Schließlich ziehst du dich zurück und spürst, wie die physische Welt um dich 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ich spüre es ... ein Teil von mir schmerzt, doch ein anderer Teil ist geheilt. Ich spüre nicht mehr das Ziehen von so vielen anderen."
+      <DefaultText>„Ich spüre es&#160;… ein Teil von mir schmerzt, doch ein anderer Teil ist geheilt. Ich spüre nicht mehr das Ziehen von so vielen anderen.“
 
 Er neigt den Kopf zur Seite und blickt nachdenklich auf die eisigen Wände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Du hast Wort gehalten. Nun nimm das, damit ist die Schuld beglichen." Er zieht etwas aus dem Knochenhaufen.</DefaultText>
+      <DefaultText>„Du hast Wort gehalten. Nun nimm das, damit ist die Schuld beglichen.“ Er zieht etwas aus dem Knochenhaufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Ich tue weder dir noch deinen Gefährten etwas an. Verirrt sich aber jemand anderes in meine Höhle, verspreche ich nichts."
+      <DefaultText>„Ich tue weder dir noch deinen Gefährten etwas an. Verirrt sich aber jemand anderes in meine Höhle, verspreche ich nichts.“
 
-Er gähnt. "Und nun lass mich bitte ausruhen."</DefaultText>
+Er gähnt. „Und nun lass mich bitte ausruhen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Dieb!"</DefaultText>
+      <DefaultText>„Dieb!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

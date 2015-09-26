@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Schwerter bereit!"</DefaultText>
+      <DefaultText>„Schwerter bereit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Sie kommen über die Barrikade!"</DefaultText>
+      <DefaultText>„Sie kommen über die Barrikade!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

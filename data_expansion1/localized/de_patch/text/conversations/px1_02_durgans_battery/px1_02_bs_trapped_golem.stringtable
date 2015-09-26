@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hilfe! Ich bin hier drin gefangen!"</DefaultText>
+      <DefaultText>„Hilfe! Ich bin hier drin gefangen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Bitte, lass mich raus! Bitte!"</DefaultText>
+      <DefaultText>„Bitte, lass mich raus! Bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Lass mich raus!"</DefaultText>
+      <DefaultText>„Lass mich raus!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

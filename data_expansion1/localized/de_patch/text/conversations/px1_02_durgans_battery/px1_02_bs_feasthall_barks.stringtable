@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Trinken wir auf Münzmeister Zoltun!"</DefaultText>
+      <DefaultText>„Trinken wir auf Münzmeister Zoltun!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Er ist ein knausriger Narr! Exandru ist unser Mann."</DefaultText>
+      <DefaultText>„Er ist ein knausriger Narr! Exandru ist unser Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Dieser Windbeutel könnte die Esse auch ohne Blasebalg am Laufen halten, so viel wie er redet."</DefaultText>
+      <DefaultText>„Dieser Windbeutel könnte die Esse auch ohne Blasebalg am Laufen halten, so viel wie er redet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Etwas mehr Respekt, du-"</DefaultText>
+      <DefaultText>„Etwas mehr Respekt, du-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Marunn wird es euch allen zeigen!"</DefaultText>
+      <DefaultText>„Marunn wird es euch allen zeigen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich habe genug von dir gehört!"</DefaultText>
+      <DefaultText>„Ich habe genug von dir gehört!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Jetzt kannst du was erleben!"</DefaultText>
+      <DefaultText>„Jetzt kannst du was erleben!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

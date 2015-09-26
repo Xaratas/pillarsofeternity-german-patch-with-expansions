@@ -6,41 +6,41 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Vorsichtig mit den Fingern! Die sind das Beste! Ich will nicht, dass sie-" Ein langsames Lächeln schleicht sich auf ihr Gesicht, als du dich näherst.
+      <DefaultText>„Vorsichtig mit den Fingern! Die sind das Beste! Ich will nicht, dass sie-“ Ein langsames Lächeln schleicht sich auf ihr Gesicht, als du dich näherst.
 
 Die anderen Männer und Frauen wenden sich zu dir um, ihre Münder blut- und fleischverschmiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Das war ein schwieriger Kampf. Nur durch Beraths Gnade haben wir überlebt." Sie strahlt. "Dennoch, ich habe bisher noch nie Ogerfleisch gekostet. Danke für diese Gelegenheit."</DefaultText>
+      <DefaultText>„Das war ein schwieriger Kampf. Nur durch Beraths Gnade haben wir überlebt.“ Sie strahlt. „Dennoch, ich habe bisher noch nie Ogerfleisch gekostet. Danke für diese Gelegenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wir bleiben nicht lang. Es tauchen sicher bald noch mehr Oger auf."</DefaultText>
+      <DefaultText>„Wir bleiben nicht lang. Es tauchen sicher bald noch mehr Oger auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Könnt ihr euch um ein paar Oger kümmern, die mir im Weg sind?"</DefaultText>
+      <DefaultText>„Könnt ihr euch um ein paar Oger kümmern, die mir im Weg sind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hast du etwas zum Handeln?"</DefaultText>
+      <DefaultText>„Hast du etwas zum Handeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Verzeih mir, dass ich so starre. Ich bin noch nie jemandem von Beraths Auserwählten begegnet."
+      <DefaultText>„Verzeih mir, dass ich so starre. Ich bin noch nie jemandem von Beraths Auserwählten begegnet.“
 
 Ihre Gefährten blicken einander an und senken respektvoll die Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Du folgst Berath, wenn mich nicht alles täuscht."
+      <DefaultText>„Du folgst Berath, wenn mich nicht alles täuscht.“
 
 Ihre Gefährten blicken einander an und senken respektvoll die Augen.</DefaultText>
       <FemaleText />
@@ -52,134 +52,134 @@ Ihre Gefährten blicken einander an und senken respektvoll die Augen.</DefaultTe
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Weggehen] "Ich komme wieder, wenn ich euch für irgendetwas brauche."</DefaultText>
+      <DefaultText>[Weggehen] „Ich komme wieder, wenn ich euch für irgendetwas brauche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Gut! Wir töten dich schnell. Du wirst nichts spüren."</DefaultText>
+      <DefaultText>„Gut! Wir töten dich schnell. Du wirst nichts spüren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich habe noch nie Orlanerfleisch gekostet. Ob man das ganze Fell wohl los wird, wenn man dich erst kocht?" Sie leckt sich die Lippen.</DefaultText>
+      <DefaultText>„Ich habe noch nie Orlanerfleisch gekostet. Ob man das ganze Fell wohl los wird, wenn man dich erst kocht?“ Sie leckt sich die Lippen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ein Aumaua." Sie mustert dich von oben bis unten. "Ob du wohl eher nach Schwertfisch oder nach Fleckenrücken schmeckst? Oder vielleicht keins von beiden?" Sie leckt sich die Lippen.</DefaultText>
-      <FemaleText>"Eine Aumaua." Sie mustert dich von oben bis unten. "Ob du wohl eher nach Schwertfisch oder nach Fleckenrücken schmeckst? Oder vielleicht keins von beiden?" Sie leckt sich die Lippen.</FemaleText>
+      <DefaultText>„Ein Aumaua.“ Sie mustert dich von oben bis unten. „Ob du wohl eher nach Schwertfisch oder nach Fleckenrücken schmeckst? Oder vielleicht keins von beiden?“ Sie leckt sich die Lippen.</DefaultText>
+      <FemaleText>„Eine Aumaua.“ Sie mustert dich von oben bis unten. „Ob du wohl eher nach Schwertfisch oder nach Fleckenrücken schmeckst? Oder vielleicht keins von beiden?“ Sie leckt sich die Lippen.</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ein Zwerg. Etwas zäh vielleicht, aber nach ein paar Stunden kochen legt sich das. Vielleicht mariniere ich dich erst mit einem dunklen Bier." Sie leckt sich die Lippen.</DefaultText>
-      <FemaleText>"Eine Zwergin. Etwas zäh vielleicht, aber nach ein paar Stunden kochen legt sich das. Vielleicht mariniere ich dich erst mit einem dunklen Bier." Sie leckt sich die Lippen.</FemaleText>
+      <DefaultText>„Ein Zwerg. Etwas zäh vielleicht, aber nach ein paar Stunden kochen legt sich das. Vielleicht mariniere ich dich erst mit einem dunklen Bier.“ Sie leckt sich die Lippen.</DefaultText>
+      <FemaleText>„Eine Zwergin. Etwas zäh vielleicht, aber nach ein paar Stunden kochen legt sich das. Vielleicht mariniere ich dich erst mit einem dunklen Bier.“ Sie leckt sich die Lippen.</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Elfenfleisch - so leicht und süß. Ist schon viel zu lange her, dass ich es gegessen habe." Sie leckt sich die Lippen.</DefaultText>
+      <DefaultText>„Elfenfleisch - so leicht und süß. Ist schon viel zu lange her, dass ich es gegessen habe.“ Sie leckt sich die Lippen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Hmmm. Bei deinem Anblick läuft mir das Wasser im Mund zusammen." Sie leckt sich die Lippen.</DefaultText>
+      <DefaultText>„Hmmm. Bei deinem Anblick läuft mir das Wasser im Mund zusammen.“ Sie leckt sich die Lippen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wir sind in den Besitz einiger Dinge gekommen, die dich interessieren könnten. Aber wir haben nur eine begrenzte Auswahl. Wir sind schließlich keine Kaufleute."</DefaultText>
+      <DefaultText>„Wir sind in den Besitz einiger Dinge gekommen, die dich interessieren könnten. Aber wir haben nur eine begrenzte Auswahl. Wir sind schließlich keine Kaufleute.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wir werden dich nicht enttäuschen."</DefaultText>
+      <DefaultText>„Wir werden dich nicht enttäuschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du schlägst unsere Hilfe aus? Also schön."</DefaultText>
+      <DefaultText>„Du schlägst unsere Hilfe aus? Also schön.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Oh, hallo auch, schöner Mann. Was führt dich in diesen Teil des Rotwalds?"</DefaultText>
-      <FemaleText>"Oh, hallo auch, schöne Frau. Was führt dich in diesen Teil des Rotwalds?"</FemaleText>
+      <DefaultText>„Oh, hallo auch, schöner Mann. Was führt dich in diesen Teil des Rotwalds?“</DefaultText>
+      <FemaleText>„Oh, hallo auch, schöne Frau. Was führt dich in diesen Teil des Rotwalds?“</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich suche nach einer Oger-Matronin."</DefaultText>
+      <DefaultText>„Ich suche nach einer Oger-Matronin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich erkunde nur die Gegend."</DefaultText>
+      <DefaultText>„Ich erkunde nur die Gegend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Was schert es dich?"</DefaultText>
+      <DefaultText>„Was schert es dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Oh, wie schön." Sie starrt dich jetzt intensiv an und scheint deine Antwort gar nicht gehört zu haben.</DefaultText>
+      <DefaultText>„Oh, wie schön.“ Sie starrt dich jetzt intensiv an und scheint deine Antwort gar nicht gehört zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Töten und plündern, hauptsächlich."</DefaultText>
+      <DefaultText>„Töten und plündern, hauptsächlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Hättest du vielleicht Lust, für mich einige Rotwald-Sklavenjäger zu beseitigen?"</DefaultText>
+      <DefaultText>„Hättest du vielleicht Lust, für mich einige Rotwald-Sklavenjäger zu beseitigen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Sklavenjäger? Du meinst Defala und ihre Leute.
+      <DefaultText>„Sklavenjäger? Du meinst Defala und ihre Leute.“
 
-"Wir haben eine Vereinbarung mit ihr. Schon länger. Ich fürchte, da bist du auf dich allein gestellt."</DefaultText>
+„Wir haben eine Vereinbarung mit ihr. Schon länger. Ich fürchte, da bist du auf dich allein gestellt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wie kann ich zu Diensten sein?"</DefaultText>
+      <DefaultText>„Wie kann ich zu Diensten sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Treiben wir Handel."</DefaultText>
+      <DefaultText>„Treiben wir Handel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Die vor der Höhle nördlich von hier?" Sie spitzt die Lippen. "Oger sind keine einfache Sache, aber wenn es Beraths Wille ist ..." Sie blickt dich fragend an.</DefaultText>
+      <DefaultText>„Die vor der Höhle nördlich von hier?“ Sie spitzt die Lippen. „Oger sind keine einfache Sache, aber wenn es Beraths Wille ist&#160;…“ Sie blickt dich fragend an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Berath will es so."</DefaultText>
+      <DefaultText>„Berath will es so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Es würde mir sehr helfen."</DefaultText>
+      <DefaultText>„Es würde mir sehr helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Sprechen wir lieber über etwas anderes."</DefaultText>
+      <DefaultText>„Sprechen wir lieber über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Du hast nichts von uns zu befürchten. Wir stehen dir sogar zu Diensten. Können wir etwas für dich tun?"</DefaultText>
+      <DefaultText>„Du hast nichts von uns zu befürchten. Wir stehen dir sogar zu Diensten. Können wir etwas für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,7 +189,7 @@ Ihre Gefährten blicken einander an und senken respektvoll die Augen.</DefaultTe
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich will nicht gegen euch kämpfen."</DefaultText>
+      <DefaultText>„Ich will nicht gegen euch kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,56 +204,56 @@ Ihre Gefährten blicken einander an und senken respektvoll die Augen.</DefaultTe
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Warum verehrt ihr Berath?"</DefaultText>
+      <DefaultText>„Warum verehrt ihr Berath?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Deswegen." Sie zieht ihren Mantel beiseite und zeigt eine klaffende, blutlose Wunde über ihrem Herzen. "Wir alle tragen ähnliche Wunden. Wir sollten tot sein, doch wir wandeln noch über die Erde."</DefaultText>
+      <DefaultText>„Deswegen.“ Sie zieht ihren Mantel beiseite und zeigt eine klaffende, blutlose Wunde über ihrem Herzen. „Wir alle tragen ähnliche Wunden. Wir sollten tot sein, doch wir wandeln noch über die Erde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Was kann das sein, wenn nicht ein Geschenk von Berath?"</DefaultText>
+      <DefaultText>„Was kann das sein, wenn nicht ein Geschenk von Berath?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Bist du verrückt? Wenn du mich kochst, geht der ganze Geschmack verloren. Du solltest mir die Haut abziehen, am besten mit einem-"
+      <DefaultText>„Bist du verrückt? Wenn du mich kochst, geht der ganze Geschmack verloren. Du solltest mir die Haut abziehen, am besten mit einem-“
 
-Hiravias hält plötzlich inne. "Erst denken, dann reden. Schon wieder vergessen."</DefaultText>
+Hiravias hält plötzlich inne. „Erst denken, dann reden. Schon wieder vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Nach so langer Zeit im Dyrwald? Weißblatt und Bier wohl eher."</DefaultText>
+      <DefaultText>„Nach so langer Zeit im Dyrwald? Weißblatt und Bier wohl eher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Das ist ein Irrglaube, weißt du."</DefaultText>
+      <DefaultText>„Das ist ein Irrglaube, weißt du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich nehme das Bier, aber dabei belassen wir es."</DefaultText>
+      <DefaultText>„Ich nehme das Bier, aber dabei belassen wir es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Warum sagst du mir nicht, was dich hierher führt?"</DefaultText>
+      <DefaultText>„Warum sagst du mir nicht, was dich hierher führt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Der Gott des Todes wünscht, dass wir als Diener des Bleichen Paladins hier verweilen. Es gibt einen Weg zum Rad, von dem einige abkommen. Mäzene der Beseelung. Alte. Glückspilze."</DefaultText>
+      <DefaultText>„Der Gott des Todes wünscht, dass wir als Diener des Bleichen Paladins hier verweilen. Es gibt einen Weg zum Rad, von dem einige abkommen. Mäzene der Beseelung. Alte. Glückspilze.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Wir führen sie wieder auf den rechten Pfad und Berath erlaubt uns, sie zu verzehren ... damit wir sein Werk fortführen können, bis es entschieden ist, dass auch wir zu lange hier verweilt haben."
+      <DefaultText>„Wir führen sie wieder auf den rechten Pfad und Berath erlaubt uns, sie zu verzehren&#160;… damit wir sein Werk fortführen können, bis es entschieden ist, dass auch wir zu lange hier verweilt haben.“
 
-"Aber bis dahin genießen wir unseren Aufenthalt hier."</DefaultText>
+„Aber bis dahin genießen wir unseren Aufenthalt hier.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

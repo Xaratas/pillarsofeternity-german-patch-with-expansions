@@ -13,187 +13,187 @@ Gerade, als es aussieht, als würde sie dich anfallen, hörst du eine Stimme in 
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[Player Race]-Bestie kommt, ja! Tanoss hocherfreut ist."
+      <DefaultText>„[Player Race]-Bestie kommt, ja! Tanoss hocherfreut ist.“
 
 Der Vithrack hält inne und mustert dich mit verschlagenen Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Nicht Lehrling. Nein, [Player Race]-Bestie ist etwas anderes."
+      <DefaultText>„Nicht Lehrling. Nein, [Player Race]-Bestie ist etwas anderes.“
 
 Er neigt sich näher. Membranen um seinen Kiefer herum pulsieren und zittern. Er scheint dich zu beschnüffeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Kein Lagergeruch. Nicht wie Kriegernest oben, nein." Die Gedanken des Vithracks sind ein Flüstern in deinem Verstand.
+      <DefaultText>„Kein Lagergeruch. Nicht wie Kriegernest oben, nein.“ Die Gedanken des Vithracks sind ein Flüstern in deinem Verstand.
 
 Er malmt nachdenklich seine Mundteile aneinander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wenn nicht Lehrling und nicht Kriegerdrohne, dann vielleicht ist [Player Race]-Bestie Verbündeter, ja."
+      <DefaultText>„Wenn nicht Lehrling und nicht Kriegerdrohne, dann vielleicht ist [Player Race]-Bestie Verbündeter, ja.“
 
 Seine Augen leuchten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Du glaubst, wir können einander helfen?"</DefaultText>
+      <DefaultText>„Du glaubst, wir können einander helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was tust du hier?"</DefaultText>
+      <DefaultText>„Was tust du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Mit Schlüssel! Mit Lehrling-Rivalen", zwitschert der Vithrack begeistert.</DefaultText>
+      <DefaultText>„Mit Schlüssel! Mit Lehrling-Rivalen“, zwitschert der Vithrack begeistert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Tanoss arbeitet schwer für Meister. Aber andere Lehrlinge - widerwärtige Bestien! - wollen Meisters Günstlinge sein. Wollen Tanoss töten."
+      <DefaultText>„Tanoss arbeitet schwer für Meister. Aber andere Lehrlinge - widerwärtige Bestien! - wollen Meisters Günstlinge sein. Wollen Tanoss töten.“
 
 Tanoss zwitschert jämmerlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Was soll ich für dich tun?"</DefaultText>
+      <DefaultText>„Was soll ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Lehrling-Rivalen töten. Natürlich." Tanoss ballt seine spindeldürren Klauen zu Fäusten.</DefaultText>
+      <DefaultText>„Lehrling-Rivalen töten. Natürlich.“ Tanoss ballt seine spindeldürren Klauen zu Fäusten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Tanoss weiß, Tanoss weiß! [Player Race]-Bestie kam, um Meister zu sehen."</DefaultText>
+      <DefaultText>„Tanoss weiß, Tanoss weiß! [Player Race]-Bestie kam, um Meister zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Was ist das für ein Schlüssel?"</DefaultText>
+      <DefaultText>„Was ist das für ein Schlüssel?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Aber Meister hat Tür. Und Tür will Schlüssel." Tanoss öffnet seine Kiefer weit und präsentiert dir eine runde Mundöffnung voller Zähne.</DefaultText>
+      <DefaultText>„Aber Meister hat Tür. Und Tür will Schlüssel.“ Tanoss öffnet seine Kiefer weit und präsentiert dir eine runde Mundöffnung voller Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Aber [Player Race]-Bestie nimmt Schlüsselteile von anderen Lehrling-Rivalen, ja? Dann gibt Tanoss letztes Schlüsselteil."
+      <DefaultText>„Aber [Player Race]-Bestie nimmt Schlüsselteile von anderen Lehrling-Rivalen, ja? Dann gibt Tanoss letztes Schlüsselteil.“
 
 Der Vithrack huscht klackernd näher und verschränkt seine Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Weggehen] "Ich gehe."</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Angreifen] "Stirb, Vithrack!"</DefaultText>
+      <DefaultText>[Angreifen] „Stirb, Vithrack!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Schlüssel ist Worte. Ist Wissen." Eine Klaue zeichnet ein Wirbelmuster auf den furchigen Kopf der Kreatur.</DefaultText>
+      <DefaultText>„Schlüssel ist Worte. Ist Wissen.“ Eine Klaue zeichnet ein Wirbelmuster auf den furchigen Kopf der Kreatur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Meister gibt Schlüsselteil zu jedem Lehrling. Sagt klügster, stärkster Lehrling nimmt alle Schlüsselteile." Tanoss unterstreicht diesen Gedanken, indem er seine Faust ballt.</DefaultText>
+      <DefaultText>„Meister gibt Schlüsselteil zu jedem Lehrling. Sagt klügster, stärkster Lehrling nimmt alle Schlüsselteile.“ Tanoss unterstreicht diesen Gedanken, indem er seine Faust ballt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Tanoss ist klügster Lehrling, nein? Denn wenn [Player Race]-Bestie Meister sieht, sieht danach Tanoss Meister. Wird neuer Günstling."
+      <DefaultText>„Tanoss ist klügster Lehrling, nein? Denn wenn [Player Race]-Bestie Meister sieht, sieht danach Tanoss Meister. Wird neuer Günstling.“
 
 Die Augen des Vithracks leuchten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Zauber machen. Zauber, um Meister zu freuen. Sieh!"
+      <DefaultText>„Zauber machen. Zauber, um Meister zu freuen. Sieh!“
 
 Der Vithrack deutet mit einem schlanken Arm auf einen Leibeigenen. Als der Vithrack unverständliche Silben murmelt, wendet der Leibeigene sich dir zu und verneigt sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Viel Arbeit noch zu tun, ja, ja. Aber Kontrollzauber wird Meister sehr freuen."</DefaultText>
+      <DefaultText>„Viel Arbeit noch zu tun, ja, ja. Aber Kontrollzauber wird Meister sehr freuen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"[Player Race]-Bestie kehrt zurück. Bringt Schlüsselteile, ja?"</DefaultText>
+      <DefaultText>„[Player Race]-Bestie kehrt zurück. Bringt Schlüsselteile, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich habe bei den anderen Lehrlingen seltsame Notizen gefunden."</DefaultText>
+      <DefaultText>„Ich habe bei den anderen Lehrlingen seltsame Notizen gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ja, Schlüsselteile! Für Meisters Tür." Tanoss Kiefer klackern und klicken hektisch.</DefaultText>
+      <DefaultText>„Ja, Schlüsselteile! Für Meisters Tür.“ Tanoss Kiefer klackern und klicken hektisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Finde alle Schlüsselteile. Von allen anderen Lehrlingen. Dann Tanoss gibt letztes Schlüsselteil."
+      <DefaultText>„Finde alle Schlüsselteile. Von allen anderen Lehrlingen. Dann Tanoss gibt letztes Schlüsselteil.“
 
 Der Vithrack zischt fröhlich und schwankt ein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"[Player Race]-Bestie hat um andere Lehrlinge gekümmert, nein? Kluge Bestie."
+      <DefaultText>„[Player Race]-Bestie hat um andere Lehrlinge gekümmert, nein? Kluge Bestie.“
 
 Tanoss zittert vor Aufregung und überreicht dir etwas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Bestie ist klug, ja! Aber Tanoss ist noch klüger!"</DefaultText>
+      <DefaultText>„Bestie ist klug, ja! Aber Tanoss ist noch klüger!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Nimm letztes Schlüsselteil und sprich mit Meister. Tanoss geht später. Um Meisters neuer Günstling zu sein, ja." Der Vithrack verneigt sich und huscht rückwärts fort von dir.</DefaultText>
+      <DefaultText>„Nimm letztes Schlüsselteil und sprich mit Meister. Tanoss geht später. Um Meisters neuer Günstling zu sein, ja.“ Der Vithrack verneigt sich und huscht rückwärts fort von dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Komm mit mir, Tanoss."</DefaultText>
+      <DefaultText>„Komm mit mir, Tanoss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[Weggehen] "Geh mir einfach aus dem Weg, du erbärmliches Geschöpf."</DefaultText>
+      <DefaultText>[Weggehen] „Geh mir einfach aus dem Weg, du erbärmliches Geschöpf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ja, ja! [Player Race]-Bestie zu klug für armen Tanoss!" Er verneigt sich noch tiefer und wendet sich ab.</DefaultText>
+      <DefaultText>„Ja, ja! [Player Race]-Bestie zu klug für armen Tanoss!“ Er verneigt sich noch tiefer und wendet sich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Nein, nein. Tanoss muss bleiben. Zauber fertigstellen. Viel Arbeit noch, ja." Der Vithrack deutet auf den Arbeitstisch und hebt seine knochigen Schultern, eine Art Schulterzucken.</DefaultText>
+      <DefaultText>„Nein, nein. Tanoss muss bleiben. Zauber fertigstellen. Viel Arbeit noch, ja.“ Der Vithrack deutet auf den Arbeitstisch und hebt seine knochigen Schultern, eine Art Schulterzucken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Moment, woher weißt du, warum ich hier bin?"</DefaultText>
+      <DefaultText>„Moment, woher weißt du, warum ich hier bin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,62 +203,62 @@ Tanoss zittert vor Aufregung und überreicht dir etwas.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Meister ist größter von Zauberern. Was sonst soll [Player Race]-Bestie suchen?"</DefaultText>
+      <DefaultText>„Meister ist größter von Zauberern. Was sonst soll [Player Race]-Bestie suchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Du scheinst sehr begierig zu sein, mit mir zusammenzuarbeiten."</DefaultText>
+      <DefaultText>„Du scheinst sehr begierig zu sein, mit mir zusammenzuarbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Tanoss begierig, Gunst von Meister zu gewinnen. Noch begieriger zu überleben."</DefaultText>
+      <DefaultText>„Tanoss begierig, Gunst von Meister zu gewinnen. Noch begieriger zu überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Tanoss muss arbeiten. Viel Arbeit, ja."</DefaultText>
+      <DefaultText>„Tanoss muss arbeiten. Viel Arbeit, ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Aber Meister hat Tür. Und Tür will Schlüssel." Tanoss öffnet seine Kiefer weit und präsentiert dir eine runde Mundöffnung voller Zähne.</DefaultText>
+      <DefaultText>„Aber Meister hat Tür. Und Tür will Schlüssel.“ Tanoss öffnet seine Kiefer weit und präsentiert dir eine runde Mundöffnung voller Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[Angreifen] "Ich nehme mir jetzt dein Schlüsselteil."</DefaultText>
+      <DefaultText>[Angreifen] „Ich nehme mir jetzt dein Schlüsselteil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Der Vithrack zischt. "Nein! Hinterhältige Bestie!"</DefaultText>
+      <DefaultText>Der Vithrack zischt. „Nein! Hinterhältige Bestie!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich habe die Schlüsselteile von den anderen Lehrlingen."</DefaultText>
+      <DefaultText>„Ich habe die Schlüsselteile von den anderen Lehrlingen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Wer sind all diese Leute bei dir?"</DefaultText>
+      <DefaultText>„Wer sind all diese Leute bei dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Der Vithrack gestikuliert mit dem Arm. "Diener. Wachen. Nützliche Werkzeuge."</DefaultText>
+      <DefaultText>Der Vithrack gestikuliert mit dem Arm. „Diener. Wachen. Nützliche Werkzeuge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich behalte es im Sinn. Sprechen wir über etwas anderes."</DefaultText>
+      <DefaultText>„Ich behalte es im Sinn. Sprechen wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[Weggehen ] "Ich werde sehen, was ich tun kann."</DefaultText>
+      <DefaultText>[Weggehen] „Ich werde sehen, was ich tun kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@ Tanoss zittert vor Aufregung und überreicht dir etwas.</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"[Player Race]-Bestie kommt, ja! Tanoss hocherfreut ist."
+      <DefaultText>„[Player Race]-Bestie kommt, ja! Tanoss hocherfreut ist.“
 
 Der Vithrack hält inne und mustert dich mit verschlagenen Augen.</DefaultText>
       <FemaleText />

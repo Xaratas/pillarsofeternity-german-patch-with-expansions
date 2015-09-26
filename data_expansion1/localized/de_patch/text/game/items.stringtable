@@ -125,9 +125,9 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
       <ID>1915</ID>
       <DefaultText>Im Ledereinband dieses Tagebuchs ist ein Schlüssel eingeprägt. Die meisten Seiten sind voller rostroter Flecken oder Schrift, die zu klein zum Lesen ist. Gegen Ende des Tagebuchs kannst du jedoch einen Abschnitt entziffern:
 
-"... konnte nicht feststellen, wie die Vordertür sich öffnen lässt, selbst nachdem sie die eiserne Kachel aus dem Relief gehebelt hatte. Je mehr ich darüber nachdenke, desto mehr scheint mir, dass der alte Vailianer Recht hatte. Wir müssen ihn loswerden, aber wir können erst handeln, wenn wir die Weiße Esse zerstört haben. Selbst sein dürftiges Wissen war für uns eine Erleuchtung.
+„… konnte nicht feststellen, wie die Vordertür sich öffnen lässt, selbst nachdem sie die eiserne Kachel aus dem Relief gehebelt hatte. Je mehr ich darüber nachdenke, desto mehr scheint mir, dass der alte Vailianer Recht hatte. Wir müssen ihn loswerden, aber wir können erst handeln, wenn wir die Weiße Esse zerstört haben. Selbst sein dürftiges Wissen war für uns eine Erleuchtung.“
 
-"Und wenn er Recht hat, müssen wir hoffen, dass das Lied, von dem er spricht, irgendwo niedergeschrieben wurde. Wir haben beschlossen, unser Lager aufzuschlagen und nach Büchern oder Unterlagen zu suchen. Alles ist besser, als nur in diesem Schneesturm herumzusitzen."</DefaultText>
+„Und wenn er Recht hat, müssen wir hoffen, dass das Lied, von dem er spricht, irgendwo niedergeschrieben wurde. Wir haben beschlossen, unser Lager aufzuschlagen und nach Büchern oder Unterlagen zu suchen. Alles ist besser, als nur in diesem Schneesturm herumzusitzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -169,7 +169,7 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
     </Entry>
     <Entry>
       <ID>1923</ID>
-      <DefaultText>Istas Erzaufspürgerät ... zumindest nennt sie es so. Es ist mit einer beeindruckenden Anzahl an Knöpfen und Symbolen versehen. Du bist jedoch nicht recht überzeugt, dass sie tatsächlich irgendetwas bewirken.</DefaultText>
+      <DefaultText>Istas Erzaufspürgerät&#160;… zumindest nennt sie es so. Es ist mit einer beeindruckenden Anzahl an Knöpfen und Symbolen versehen. Du bist jedoch nicht recht überzeugt, dass sie tatsächlich irgendetwas bewirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -324,7 +324,7 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>Trank der Versperrenden Tür des Todes</DefaultText>
+      <DefaultText>Trank der Gnadenfrist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,7 +459,7 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>1979</ID>
-      <DefaultText>"Verehrter Münzmeister Zoltun,
+      <DefaultText>„Verehrter Münzmeister Zoltun,
 
 ich schreibe Ihnen voll Zorn und Verwunderung. War ich Ihnen denn kein treuer Kunde? Habe ich nicht gerechten Handel getrieben? Und doch haben Ihre Männer mich trotz unserer fruchtbaren Geschäftsbeziehung verjagt wie einen dreckigen Bettler.
 
@@ -471,10 +471,10 @@ Nun habe ich ebensolche Freude an aggressiven Verhandlungen wie jeder Geschäfts
 
 Kommandantin Marunn stach einen Säbel durch den Brief und schnitt ihn entzwei! Dann warnte sie mich, dass ihre Klinge - eine wahrlich hochwertige Waffe - das Letzte sein würde, was ich je sehe, wenn ich nicht sofort den Berg wieder hinunterlaufe.
 
-Noch niemals habe ich eine solche Demütigung erlitten und solche Kosten auf mich genommen, nur um mit leeren Händen heimzukehren! Ich begreife nicht, was zwischen Ihnen und Ihren Kameraden vorgefallen ist, aber ich bitte Sie dringend, etwas zu unternehmen. Ich fürchte, die anderen Kommandanten werden Ihr Niedergang sein, wenn Sie sich nicht schnell und entschlossen um sie kümmern. Vielleicht sogar der Niedergang von Durgans Batterie ...
+Noch niemals habe ich eine solche Demütigung erlitten und solche Kosten auf mich genommen, nur um mit leeren Händen heimzukehren! Ich begreife nicht, was zwischen Ihnen und Ihren Kameraden vorgefallen ist, aber ich bitte Sie dringend, etwas zu unternehmen. Ich fürchte, die anderen Kommandanten werden Ihr Niedergang sein, wenn Sie sich nicht schnell und entschlossen um sie kümmern. Vielleicht sogar der Niedergang von Durgans Batterie&#160;…
 
 Grüße
-Mestre Anetto von Cezarro"</DefaultText>
+Mestre Anetto von Cezarro“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,7 +484,7 @@ Mestre Anetto von Cezarro"</DefaultText>
     </Entry>
     <Entry>
       <ID>1981</ID>
-      <DefaultText>Du rollst die Schriftrolle auf und siehst eine Liste von Waffen und Rüstungen: Schwerter, Schilde, Brustpanzer und Helme. Alle werden an einen "Lücan von Dunryd" verkauft. Der Vertrag ist unterzeichnet von Kommandant Zoltun, Münzmeister von Durgans Batterie.</DefaultText>
+      <DefaultText>Du rollst die Schriftrolle auf und siehst eine Liste von Waffen und Rüstungen: Schwerter, Schilde, Brustpanzer und Helme. Alle werden an einen ‚Lücan von Dunryd‘ verkauft. Der Vertrag ist unterzeichnet von Kommandant Zoltun, Münzmeister von Durgans Batterie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -549,7 +549,7 @@ Mestre Anetto von Cezarro"</DefaultText>
     </Entry>
     <Entry>
       <ID>1994</ID>
-      <DefaultText>Dieses Medaillon ist ein Erbstück von Okruns Familie. Es besteht aus filigran verwobenen Silber- und Kupferfäden, die um eine Blutsteinscheibe angeordnet sind. Die Oberfläche ist glänzend poliert und es sind vierzehn kleine Smaragde eingelassen. Für Okrun hat dieses exquisite Erbstück vor allem sentimentalen Wert, es würde aber auch einen hohen Preis einbringen, wenn man es verkaufen würde ...</DefaultText>
+      <DefaultText>Dieses Medaillon ist ein Erbstück von Okruns Familie. Es besteht aus filigran verwobenen Silber- und Kupferfäden, die um eine Blutsteinscheibe angeordnet sind. Die Oberfläche ist glänzend poliert und es sind vierzehn kleine Smaragde eingelassen. Für Okrun hat dieses exquisite Erbstück vor allem sentimentalen Wert, es würde aber auch einen hohen Preis einbringen, wenn man es verkaufen würde&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,11 +565,11 @@ Die Seiten enthalten die unterschiedlichsten Einträge. Bei einigen handelt es s
 
 Auf einer Karte des Rotwalds ist ein wichtiges Gewässer markiert. Daneben stehen mehrere unterstrichene Notizen:
 
-"Notoc Tlocotl, Formalitäten zuerst, versteht sich, und sie kommt hoch."
+„Notoc Tlocotl, Formalitäten zuerst, versteht sich, und sie kommt hoch.“
 
-"Cualla Micha, sie ist ein braves Mädchen und hört das gerne, bevor sie hinabschwimmt."
+„Cualla Micha, sie ist ein braves Mädchen und hört das gerne, bevor sie hinabschwimmt.“
 
-"Xitlac Cualla, man muss sichergehen, dass sie den Fisch für eine gut erledigte Aufgabe mag."</DefaultText>
+„Xitlac Cualla, man muss sichergehen, dass sie den Fisch für eine gut erledigte Aufgabe mag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@ Auf einer Karte des Rotwalds ist ein wichtiges Gewässer markiert. Daneben stehe
       <ID>1998</ID>
       <DefaultText>Das Herstellersiegel dieses Schildes lässt sich zu einer bescheidenen Schmiede in Dawning zurückverfolgen. Seinen Namen verdiente der Schild sich im Besitz von Poldur Grynt, einem jungen aedyranischen Fürsten. Grynts Vorliebe für Duelle diente als Inspiration für viele anti-aedyranische Volkslieder und Theaterstücke während der Zeit des Widerstandskriegs. 
 
-Grynt genoss den Ruf, ein unnachgiebiger und unbesiegbarer Feind zu sein - denn wann immer er im Duell zu unterliegen drohte, hob er seinen schwarzen Schild und kämpfte fortan mit neuer Kraft. Grynt setzte den Schild mehrere Jahre lang äußerst wirkungsvoll ein, ehe er gegen einen erfahreneren Rivalen schließlich hoffnungslos unterlegen war. In dem Irrglauben, der Schild könnte ihn auch auf der Schwelle des Todes noch retten, floh Grynt aus dem Duell ... und verblutete kurz darauf am Ufer des Flusses Isce Îen.</DefaultText>
+Grynt genoss den Ruf, ein unnachgiebiger und unbesiegbarer Feind zu sein - denn wann immer er im Duell zu unterliegen drohte, hob er seinen schwarzen Schild und kämpfte fortan mit neuer Kraft. Grynt setzte den Schild mehrere Jahre lang äußerst wirkungsvoll ein, ehe er gegen einen erfahreneren Rivalen schließlich hoffnungslos unterlegen war. In dem Irrglauben, der Schild könnte ihn auch auf der Schwelle des Todes noch retten, floh Grynt aus dem Duell&#160;… und verblutete kurz darauf am Ufer des Flusses Isce Îen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,12 +644,12 @@ Er versah die Goldenen Schuppen mit Schutzzaubern gegen Flammen - und mit densel
     </Entry>
     <Entry>
       <ID>2009</ID>
-      <DefaultText>Ydwen war ein Paladin und Mitglied der Gütigen Wanderer zu Zeiten des Kriegs der Schwarzen Bäume. Sie war berühmt dafür, Kolonisten und Bauern durch den Dyrwald zu geleiten und sie vor glanfathanischen Kriegsbanden zu beschützen. Obwohl sie eine fähige Kriegerin war, ging sie den Glanfathanern wann immer möglich aus dem Weg, anstatt sie zu bekämpfen. Doch die Spannungen stiegen, die Gemüter erhitzten sich ... Eines Tages schließlich half Ydwen einer Bauersfamilie, von ihrem zerstörten Hof zu fliehen. Sie wollte abwarten, bis die noch immer umherstreifenden Plünderer abgezogen waren, doch einer ihrer Schützlinge rannte ins Freie. Ydwen war gezwungen, die Glanfathaner abzuwehren, während die übrigen Bauern flohen. Sie starb allein, von vielen Feinden umzingelt. Es heißt, dass selbst der Plünderer, der ihr den Todeshieb versetzte, um sie weinte.</DefaultText>
+      <DefaultText>Ydwen war ein Paladin und Mitglied der Gütigen Wanderer zu Zeiten des Kriegs der Schwarzen Bäume. Sie war berühmt dafür, Kolonisten und Bauern durch den Dyrwald zu geleiten und sie vor glanfathanischen Kriegsbanden zu beschützen. Obwohl sie eine fähige Kriegerin war, ging sie den Glanfathanern wann immer möglich aus dem Weg, anstatt sie zu bekämpfen. Doch die Spannungen stiegen, die Gemüter erhitzten sich&#160;… Eines Tages schließlich half Ydwen einer Bauersfamilie, von ihrem zerstörten Hof zu fliehen. Sie wollte abwarten, bis die noch immer umherstreifenden Plünderer abgezogen waren, doch einer ihrer Schützlinge rannte ins Freie. Ydwen war gezwungen, die Glanfathaner abzuwehren, während die übrigen Bauern flohen. Sie starb allein, von vielen Feinden umzingelt. Es heißt, dass selbst der Plünderer, der ihr den Todeshieb versetzte, um sie weinte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2010</ID>
-      <DefaultText>Dieser graue Umhang ist mit zahlreichen stilisierten Augen bedeckt, dem Symbol des Gottes Wael. Es heißt, dass der Zauberer Göryn ihn geschaffen habe - in der Hoffnung, durch diese gläubige Tat Waels schützende Gunst zu gewinnen. Angesichts der vielen Augen der Hundert Geheimnisse, so hoffte Göryn, würden seine Feinde auf Lügen und Falschheiten hereinfallen ... während er selbst immun gegen die verwirrenden Geheimnisse der Welt wäre. 
+      <DefaultText>Dieser graue Umhang ist mit zahlreichen stilisierten Augen bedeckt, dem Symbol des Gottes Wael. Es heißt, dass der Zauberer Göryn ihn geschaffen habe - in der Hoffnung, durch diese gläubige Tat Waels schützende Gunst zu gewinnen. Angesichts der vielen Augen der Hundert Geheimnisse, so hoffte Göryn, würden seine Feinde auf Lügen und Falschheiten hereinfallen&#160;… während er selbst immun gegen die verwirrenden Geheimnisse der Welt wäre. 
 
 Wer den Umhang seitdem sein eigen genannt hat, fand die Verzauberungen durchweg äußerst nützlich. Was aus Göryn selbst geworden ist, ist nicht bekannt. Weder von seinen Werken noch von ihm selbst gibt es irgendeine Spur.</DefaultText>
       <FemaleText />
@@ -683,7 +683,7 @@ Wer den Umhang seitdem sein eigen genannt hat, fand die Verzauberungen durchweg 
       <ID>2016</ID>
       <DefaultText>Der Erfinder Galvino schuf den Körper der Teufelin von Caroc aus geschmiedeter Bronze, eingelegt mit silbernen Panelen und verziert mit aufwändigen Gravuren im vailianischen Stil. Zusammengehalten wird der Körper mit unzähligen kleinen Blechbolzen und -scharnieren. Er ist ein wahres Meisterwerk der Handwerkskunst und dient als mobiles Behältnis für ihre Seele.
 
-Ob aus ästhetischen oder aus funktionellen Gründen, das Gesicht stattete Galvino mit Onyxaugen aus. Diese Augen sind so glatt poliert, dass sie die Umgebung der Teufelin unbeteiligt widerspiegeln. Gelegentlich aber blitzt ein kleiner Makel im Stein auf ... oder ein tief sitzender Funken der Boshaftigkeit.</DefaultText>
+Ob aus ästhetischen oder aus funktionellen Gründen, das Gesicht stattete Galvino mit Onyxaugen aus. Diese Augen sind so glatt poliert, dass sie die Umgebung der Teufelin unbeteiligt widerspiegeln. Gelegentlich aber blitzt ein kleiner Makel im Stein auf&#160;… oder ein tief sitzender Funken der Boshaftigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,7 +702,7 @@ Ob aus ästhetischen oder aus funktionellen Gründen, das Gesicht stattete Galvi
 
 Ihre Gruppe war zwar klein, doch die Paladine waren für ihre standhafte Hingabe bekannt, mit der sie ohne zu zögern jede Bedrohung für unschuldige Reisende bekämpften. Alle, die je das Glück hatten, an der Seite dieser Krieger zu kämpfen, berichteten, dass eigentlich tödliche Hiebe harmlos von ihren Rüstungen abprallten. Die Paladine, so sagten sie, hätten ihnen Glück gebracht.
 
-Die Jahre vergingen und die Paladine starben im Kampf oder an Altersschwäche ... bis nur noch eine einzige übrig blieb. Der letzte Turm, wie man sie nannte, wurde auch allein zur Legende. Ganz allein patrouillierte sie die östlichen Straßen des Dyrwalds.
+Die Jahre vergingen und die Paladine starben im Kampf oder an Altersschwäche&#160;… bis nur noch eine einzige übrig blieb. Der letzte Turm, wie man sie nannte, wurde auch allein zur Legende. Ganz allein patrouillierte sie die östlichen Straßen des Dyrwalds.
 
 Ein Bürger von Guthoffnung, so heißt es, hat diesen Schild aus dem See der versenkten Gräber gezogen. Dieser ramponierte Drachenschild ist hervorragend gefertigt, auch wenn die grüne Farbe des Wappenturms an einigen Stellen schon abblättert.</DefaultText>
       <FemaleText />
@@ -768,7 +768,7 @@ Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von e
     </Entry>
     <Entry>
       <ID>2031</ID>
-      <DefaultText>"Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der 'Erbauer', wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
+      <DefaultText>„Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der 'Erbauer', wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
 
 Wir entdeckten eine Art Gießerei, wie sie weder wir noch unsere entfernten Verwandten jemals gesehen hatten. Durch sorgfältige Beobachtung schlossen wir, dass die Altvorderen diesen Ort verwendet hatten, um Seelen zu extrahieren und in Rüstungen zu übertragen. Heikle und schwierige Arbeit, doch das Ausmaß, in dem sie darin Erfolg hatten, machte uns sprachlos und demütig.
 
@@ -776,7 +776,7 @@ Am bemerkenswertesten waren vielleicht die 'Golems' - lebende Rüstungen, von Es
 
 Wir wussten, dass unsere Gastgeber uns - oder anderen neugierigen Reisenden - nie wieder gestatten würden, diesen Ort zu besuchen. So machten wir uns umfangreiche Notizen über alles, was wir sahen, und nahmen genauestens Maß. Wir verzichteten auf das Essen und das Schlafen, bis die Arbeit vollbracht war.
 
-Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weitertrieb. Denn wenn ein solcher Ort verlassen im Wald liegt ... wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?"</DefaultText>
+Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weitertrieb. Denn wenn ein solcher Ort verlassen im Wald liegt&#160;… wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -786,7 +786,7 @@ Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und u
     </Entry>
     <Entry>
       <ID>2033</ID>
-      <DefaultText>"Für jede Arbeit gibt es eine Vorgehensweise. Bewaffne dich mit Können und härte deine Mühen mit Geduld.
+      <DefaultText>„Für jede Arbeit gibt es eine Vorgehensweise. Bewaffne dich mit Können und härte deine Mühen mit Geduld.
 
 Schlage erst zu, wenn dein Medium bereit ist. Lasse die Arbeitsplatte nicht erkalten.
 
@@ -808,7 +808,7 @@ Vernachlässige nicht das Werk, das verborgen und ungesehen liegt - denn ein sch
 
 Der kluge Schmied arbeitet sorgfältig und härtet nur ein einziges Mal. Der schlampige Schmied weint, wenn er Makel im Stahl findet, nachdem dieser gehärtet ist.
 
-Wie eine Klinge, die in mehreren Feuern gestählt wurde, so ist die Arbeit, die zur rechten Zeit verrichtet wurde."</DefaultText>
+Wie eine Klinge, die in mehreren Feuern gestählt wurde, so ist die Arbeit, die zur rechten Zeit verrichtet wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -820,21 +820,21 @@ Wie eine Klinge, die in mehreren Feuern gestählt wurde, so ist die Arbeit, die 
       <ID>2035</ID>
       <DefaultText>Die Ränder dieses Textes sind voll von Notizen. Die Seiten sind voller Tintenkleckse. Offenbar wurde der Text früher häufig gelesen.
 
-"Das Entfernen und Übertragen von Seelen ist eine ebenso alte wie erhabene Kunst. Es ist erwiesen, dass die Engwithaner sie besonders gut beherrschten, auch wenn die Einzelheiten mit ihnen untergegangen sind."
+„Das Entfernen und Übertragen von Seelen ist eine ebenso alte wie erhabene Kunst. Es ist erwiesen, dass die Engwithaner sie besonders gut beherrschten, auch wenn die Einzelheiten mit ihnen untergegangen sind.“
 
-Unter diesen Absatz hat jemand gekritzelt "Annalen der Pargrunen, Seite 382-386".
+Unter diesen Absatz hat jemand gekritzelt ‚Annalen der Pargrunen, Seite 382-386‘.
 
-"Was über das Entfernen einer Seele bekannt ist, ist ein schwieriger Prozess, der eine erfahrene Hand und präzise Werkzeuge erfordert, wenn er Erfolg haben soll. Erste Versuche an insgesamt einhundertachtunddreißig Ziegen haben die meisten Versuchsobjekte mit zerstörten oder zerspalteten Seelen zurückgelassen. In elf Fällen gelang es, die Seele erfolgreich zu entfernen. In neun dieser Fälle verflüchtigte die Essenz sich, ehe die Forscher sie einfangen konnten."
+„Was über das Entfernen einer Seele bekannt ist, ist ein schwieriger Prozess, der eine erfahrene Hand und präzise Werkzeuge erfordert, wenn er Erfolg haben soll. Erste Versuche an insgesamt einhundertachtunddreißig Ziegen haben die meisten Versuchsobjekte mit zerstörten oder zerspalteten Seelen zurückgelassen. In elf Fällen gelang es, die Seele erfolgreich zu entfernen. In neun dieser Fälle verflüchtigte die Essenz sich, ehe die Forscher sie einfangen konnten.“
 
-Die Worte "in Aufbewahrungsbehälter übertragen" wurden an den Rand geschrieben und unterstrichen.
+Die Worte ‚in Aufbewahrungsbehälter übertragen‘ wurden an den Rand geschrieben und unterstrichen.
 
-"Der Prozess erfordert leitende Materialien - insbesondere Kupfer und Adra. Ein Eintauchen in Wasser ist nötig, um sicherzustellen, dass die Seele in gleichmäßiger und einheitlicher Weise gezogen wird, ohne Verzerrungen oder Brüche. Eine verzerrte Seele ist bestenfalls nutzlos und schlimmstenfalls unvorhersehbar."
+„Der Prozess erfordert leitende Materialien - insbesondere Kupfer und Adra. Ein Eintauchen in Wasser ist nötig, um sicherzustellen, dass die Seele in gleichmäßiger und einheitlicher Weise gezogen wird, ohne Verzerrungen oder Brüche. Eine verzerrte Seele ist bestenfalls nutzlos und schlimmstenfalls unvorhersehbar.“
 
-"Ein Pfeil deutet von diesem Absatz zu einer gekritzelten Notiz: "Extraktionsbecken in C.R.: 18 Fuß breit, 3 Fuß tief."
+„Ein Pfeil deutet von diesem Absatz zu einer gekritzelten Notiz: ‚Extraktionsbecken in C.R.: 18 Fuß breit, 3 Fuß tief.‘“
 
-"Wir haben inzwischen den Prozess der Seelenübertragung gemeistert und haben gesehen, welche Vorteile es hat, Schmiedewerk mit der Essenz von Tieren und Wilden zu durchtränken. Zu erforschen ist noch, ob die Verwendung von Seelen Gestandener eine noch größere Wirkung erzeugt; wo wir die geeigneten Versuchsobjekte finden; und wie viel Persönlichkeit und Unabhängigkeit wir in diesen Fällen intakt lassen sollten."
+„Wir haben inzwischen den Prozess der Seelenübertragung gemeistert und haben gesehen, welche Vorteile es hat, Schmiedewerk mit der Essenz von Tieren und Wilden zu durchtränken. Zu erforschen ist noch, ob die Verwendung von Seelen Gestandener eine noch größere Wirkung erzeugt; wo wir die geeigneten Versuchsobjekte finden; und wie viel Persönlichkeit und Unabhängigkeit wir in diesen Fällen intakt lassen sollten.“
 
-Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit "Verbrecher, Kriegsgefangene, Freiwillige?" und endend mit "Essewächter" in Druckbuchstaben.</DefaultText>
+Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit ‚Verbrecher, Kriegsgefangene, Freiwillige?‘ und endend mit ‚Essewächter‘ in Druckbuchstaben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -844,7 +844,7 @@ Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit "Verbrecher, Kri
     </Entry>
     <Entry>
       <ID>2037</ID>
-      <DefaultText>"Eine Übersicht über die Produktion dieses Monats:
+      <DefaultText>„Eine Übersicht über die Produktion dieses Monats:
 
 Zwanzig Langschwerter, fünfzehn Äxte, zwölf Hämmer, sieben Streitkolben, zwei Flegel.
 
@@ -852,11 +852,11 @@ Sieben volle Rüstungen (für Essewächter). Drei zusätzliche Rüstungen.
 
 Wenn die Kommandanten sich zu den Produktionsmengen äußern, erinnere sie bitte daran, dass wir drei verschiedene Aufträge von ihnen erhalten haben.
 
-- Vasel, Meisterschmied von Durgans Batterie"
+- Vasel, Meisterschmied von Durgans Batterie“
 
 Am Ende der Seite findet sich eine Notiz in einer anderen Handschrift:
 
-"Wozu braucht Exandru so viele Essewächter? Behalte ihn im Auge. - M"</DefaultText>
+„Wozu braucht Exandru so viele Essewächter? Behalte ihn im Auge. - M“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,7 +867,7 @@ Er hatte sich in Biageppe einen Ruf als listenreicher Dieb gemacht, aber ein Ruf
 
 Leider musste Antonino bald feststellen, dass die abgehärteten Schatzjäger im Land der Lebenden wenig mit den fetten Kaufleuten in den Republiken gemein hatten. Nach wenigen Wochen schon hatte er seine dürftigen Vorräte aufgebraucht und nichts verdient. Er war verzweifelt. Eines Tages stolperte er vor zwei grob aussehende Burschen aus dem Todesfeuer-Archipel und bat darum, sich an ihrem Feuer wärmen zu dürfen. Sie stimmten bereitwillig zu.
 
-Als die Banditen zuschlagen wollten, war Antonino bereit. Er entriss dem einen die Pistole und feuerte auf den anderen. Während der erste Angreifer auf ihn zukam, zog er erneut den Abzug ... hörte aber nur ein dumpfes Geräusch. Sein Angreifer lachte, Antonino aber hob seinen Arm und schlug ihm mit der Pistole auf die Glatze. Der Bandit brach tot zusammen.
+Als die Banditen zuschlagen wollten, war Antonino bereit. Er entriss dem einen die Pistole und feuerte auf den anderen. Während der erste Angreifer auf ihn zukam, zog er erneut den Abzug&#160;… hörte aber nur ein dumpfes Geräusch. Sein Angreifer lachte, Antonino aber hob seinen Arm und schlug ihm mit der Pistole auf die Glatze. Der Bandit brach tot zusammen.
 
 Antonino wurde zu einem erfolgreichen und gefürchteten Räuber - und zum Gegenstand vieler Lagerfeuergeschichten. Selbst, als sein Wohlstand sich mehrte, behielt er die gestohlene Pistole, eine robuste Waffe aus gehärtetem Metall, die ihm im Lauf seiner Karriere treue Dienste erwies.</DefaultText>
       <FemaleText />
@@ -887,16 +887,16 @@ Die Kulklin des Cythwalds waren schnell und verstanden es, in Windeseile ihre An
 
 Die Piraten lachten und lehnten seine Bitte ab, aber der alte Mann beharrte darauf. Er warnte sie vor schrecklichen Krankheiten und Strafen, die sie ereilen würden. Sie weigerten sich weiter. Als er seine Stimme im Zorn erhob, zog die Steuerfrau ihren Säbel und durchbohrte den Sklaven. Stinkender grüner Schleim quoll aus der Wunde und floss das Schwert hinauf, während die Piraten entsetzt zusahen. Die Fäule breitete sich von der Brust des sterbenden Sklaven auf den Säbel und den Arm der Steuerfrau auf. Sie füllte ihre Adern mit Gift und ihr Fleisch mit sich windenden Maden.
 
-Der Rest der Besatzung ließ das Schiff auf Grund laufen und floh. Auch die Sklaven flohen ... und die Steuerfrau verfaulte neben ihrer vergifteten Klinge.</DefaultText>
+Der Rest der Besatzung ließ das Schiff auf Grund laufen und floh. Auch die Sklaven flohen&#160;… und die Steuerfrau verfaulte neben ihrer vergifteten Klinge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2041</ID>
       <DefaultText>Aschfall war eine der am erbittertsten umkämpften aedyranischen Siedlungen im Dyrwald. Für Baldwen Strangbrod war es eine Ehre, zum Thayn des Ortes ernannt zu werden. Er sorgte sich jedoch um seine zwei Kinder, die sein Talent für die Kampfkunst offenbar nicht geerbt hatten.
 
-Er beauftragte einen vailianischen Zauberer, die Ausblidung seiner Kinder voranzutreiben. Dieser Zauberer fertigte einen Stab eigens für diesen Zweck. Er versprach, dass die Geschosse des Stabs harmlos genug waren, um die Erben des Thayns nicht ernstlich zu verletzen ... dass die Waffe mit der Zeit aber ihre Schwäche genauesten offenlegen würde.
+Er beauftragte einen vailianischen Zauberer, die Ausbildung seiner Kinder voranzutreiben. Dieser Zauberer fertigte einen Stab eigens für diesen Zweck. Er versprach, dass die Geschosse des Stabs harmlos genug waren, um die Erben des Thayns nicht ernstlich zu verletzen&#160;… dass die Waffe mit der Zeit aber ihre Schwäche genauesten offenlegen würde.
 
-Der Stab hielt die Versprechen des Zauberers. Doch auch nach monatelangen Übungen waren Baldwens Kinder nicht zu besseren Kämpfern geworden. Dafür kannte ganz Aschfall ihre schwache Abwehr und ihre wunden Punkte. Als beide Erben einem glanfathanischen Überfall zum Opfer fielen, floh der Zauberer ... und nahm Goldener Blick mit sich.</DefaultText>
+Der Stab hielt die Versprechen des Zauberers. Doch auch nach monatelangen Übungen waren Baldwens Kinder nicht zu besseren Kämpfern geworden. Dafür kannte ganz Aschfall ihre schwache Abwehr und ihre wunden Punkte. Als beide Erben einem glanfathanischen Überfall zum Opfer fielen, floh der Zauberer&#160;… und nahm Goldener Blick mit sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -907,21 +907,21 @@ Da er aber beim kaiserlichen Statthalter in der Gunst stand, wurde über sein Ve
 
 Eines Tages trat Waidwen auf ihn zu, als Curoc gerade eine besonders heftige Tracht Prügel austeilte. Waidwen, der gerade erst seine Begegnung mit Eothas gehabt hatte, verlangte, dass Curoc sein Opfer gehen lässt. Als der Fürst sich weigerte, fragte Waidwen, was der Pächter getan hatte, um diese Behandlung zu verdienen.
 
-"Er vernachlässigt seine Pflichten auf dem Feld", antwortete Curoc. "Jeden Tag sammelt er weniger, und doch genießt er noch meinen Schutz."
+„Er vernachlässigt seine Pflichten auf dem Feld“, antwortete Curoc. „Jeden Tag sammelt er weniger, und doch genießt er noch meinen Schutz.“
 
-"Ist es denn ein Wunder, dass der Mann nach deiner groben Behandlung nicht in der Lage ist, seine Pflicht zu erfüllen? Lass ihn eine Woche lang ausruhen. Er wird mit frischen Kräften in deinen Dienst zurückkehren", sagte Waidwen.
+„Ist es denn ein Wunder, dass der Mann nach deiner groben Behandlung nicht in der Lage ist, seine Pflicht zu erfüllen? Lass ihn eine Woche lang ausruhen. Er wird mit frischen Kräften in deinen Dienst zurückkehren“, sagte Waidwen.
 
-Curoc schnaubte verächtlich. "Du wollst seinen Ungehorsam belohnen! Es ist mein Recht und meine Pflicht, ihn für seine Fehler zu bestrafen."
+Curoc schnaubte verächtlich. „Du willst seinen Ungehorsam belohnen! Es ist mein Recht und meine Pflicht, ihn für seine Fehler zu bestrafen.“
 
-"Welche Autorität hat dir diese Macht über diesen Mann verliehen?", fragte Waidwen.
+„Welche Autorität hat dir diese Macht über diesen Mann verliehen?“, fragte Waidwen.
 
-"Woedica, die Eidbinderin. Sie hat mich über den Bauern erhoben, als seinen Fürsten und Arbeitgeber, und ihrem Befehl folge ich, indem ich ihn bestrafe."
+„Woedica, die Eidbinderin. Sie hat mich über den Bauern erhoben, als seinen Fürsten und Arbeitgeber, und ihrem Befehl folge ich, indem ich ihn bestrafe.“
 
-Aber Waidwen beharrte: "Folgt nicht auf den stillen Winter der fruchtbare Frühling? Durch Eothas Gnade erleben wir die Wiedergeburt in jedem neuen Leben und die Wiederherstellung mit jedem neuen Morgen. Und es ist Eothas' Jahreszeit, die deine Felder segnet. Ich sage dir erneut: Lasse diesen Mann gehen."
+Aber Waidwen beharrte: „Folgt nicht auf den stillen Winter der fruchtbare Frühling? Durch Eothas Gnade erleben wir die Wiedergeburt in jedem neuen Leben und die Wiederherstellung mit jedem neuen Morgen. Und es ist Eothas' Jahreszeit, die deine Felder segnet. Ich sage dir erneut: Lasse diesen Mann gehen.“
 
 In seinem Zorn wandte Curoc sich gegen Waidwen, den Stock zum Schlag erhoben. Doch plötzlich wurde der Stab heiß in seiner Hand. Er schrie auf und der Stab entzündete sich. Die Flamme, die hervorschoß, raubte ihm das Augenlicht und ließ sein Gesicht so vernarbt zurück wie das der Verbrannten Königin.
 
-Curoc ließ den qualmenden Stab fielen und floh, um dem Statthalter zu berichten, was er erlebt hatte.</DefaultText>
+Curoc ließ den qualmenden Stab fallen und floh, um dem Statthalter zu berichten, was er erlebt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@ Der Panzerbrecher kam jedoch nie bei ihr an. Mehrere Wochen nach dem versprochen
       <ID>2045</ID>
       <DefaultText>Anhänger von Ondra berichten von ihrer Liebschaft mit dem Mond, vor allem ihrer unerwiderten Liebe für Senn Beläfa. Doch es war Ionni Brathr, der kleinere der zwei Monde, den Ondra vor tausenden von Jahren in das Meer zerrte.
 
-Man glaubt, dass noch immer kleine Splitter von Ionni Brathr in einigen entlegenen Gebieten von Eora existieren. Verlorene Zeichen der Leidenschaft der Göttin. Man nennt diese Mondfragmente und die Kraterseen, die sich um sie herum oft bilden, "Ondras Tränen".
+Man glaubt, dass noch immer kleine Splitter von Ionni Brathr in einigen entlegenen Gebieten von Eora existieren. Verlorene Zeichen der Leidenschaft der Göttin. Man nennt diese Mondfragmente und die Kraterseen, die sich um sie herum oft bilden, ‚Ondras Tränen‘.
 
 Dieser Flegel wurde mit einem Fragment von Ionni Brathr gefertigt, das Pargrunen-Zwerge in der Weißmark gefunden haben.</DefaultText>
       <FemaleText />
@@ -958,7 +958,7 @@ Dieser Flegel wurde mit einem Fragment von Ionni Brathr gefertigt, das Pargrunen
     </Entry>
     <Entry>
       <ID>2047</ID>
-      <DefaultText>Ein Ausguck des Piratenschiffs "Grinsende Maralina" fand Sturmrufer auf dem gekaperten Handelsschiff und nahm den Bogen an sich. Er verwendete Sturmrufer, um vom Krähennest aus auf feindliche Schiffe zu feuern. Wenn die Maralina sich näherte, konnte er feindliche Segel in Brand stecken oder fliehende Schiffe mit Seilpfeilen festhalten. Als der Kapitän jedoch begann, neidvoll auf den wundersamen Bogen zu blicken, sprang der Ausguck von dem Schiff, verkaufte Sturmrufer und wurde Fischer.</DefaultText>
+      <DefaultText>Ein Ausguck des Piratenschiffs ‚Grinsende Maralina‘ fand Sturmrufer auf dem gekaperten Handelsschiff und nahm den Bogen an sich. Er verwendete Sturmrufer, um vom Krähennest aus auf feindliche Schiffe zu feuern. Wenn die Maralina sich näherte, konnte er feindliche Segel in Brand stecken oder fliehende Schiffe mit Seilpfeilen festhalten. Als der Kapitän jedoch begann, neidvoll auf den wundersamen Bogen zu blicken, sprang der Ausguck von dem Schiff, verkaufte Sturmrufer und wurde Fischer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -970,7 +970,7 @@ Als die Belagerung immer länger andauerte, ließ der Hafenmeister weitere Bogen
     </Entry>
     <Entry>
       <ID>2049</ID>
-      <DefaultText>Dieser Bogen ist so glatt und leicht wie Treibholz, aber so hart wie ein robuster Mast. Er fühlt sich warm an, als hätte sein Vorbesitzer in gerade erst an dich weitergegeben. Als du ihn hältst, spürst du fast die Meeresgischt auf deinen Wangen und hörst fast die sturmgepeitschten Wellen in deinen Ohren.</DefaultText>
+      <DefaultText>Dieser Bogen ist so glatt und leicht wie Treibholz, aber so hart wie ein robuster Mast. Er fühlt sich warm an, als hätte sein Vorbesitzer ihn gerade erst an dich weitergegeben. Als du ihn hältst, spürst du fast die Meeresgischt auf deinen Wangen und hörst fast die sturmgepeitschten Wellen in deinen Ohren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -990,7 +990,7 @@ Als die Belagerung immer länger andauerte, ließ der Hafenmeister weitere Bogen
     </Entry>
     <Entry>
       <ID>2053</ID>
-      <DefaultText>Nachtumhang wurde schließlich von einer jungen Wael-Priesterin zurück zu Durgans Batterie gebracht. Die Priesterin hatte von ihrem Gott eine Vision empfangen, wie der Streitkolben entstanden war. Vasel, der Schmied, der ihn gefertigt hatte, war inzwischen ein erwachsener Mann und Meisterschmied in der Batterie - aber er erkannte den Streitkolben sofort. Als er die junge Priesterin fragte, warum sie ihn zurückgebracht hatte, antwortete sie: "Alle Dinge werden gefunden, auf dass sie wieder verloren gehen können - das ist die Weisheit des Verschleierten." Und mit diesen Worten nahm sie ihren Abschied.</DefaultText>
+      <DefaultText>Nachtumhang wurde schließlich von einer jungen Wael-Priesterin zurück zu Durgans Batterie gebracht. Die Priesterin hatte von ihrem Gott eine Vision empfangen, wie der Streitkolben entstanden war. Vasel, der Schmied, der ihn gefertigt hatte, war inzwischen ein erwachsener Mann und Meisterschmied in der Batterie - aber er erkannte den Streitkolben sofort. Als er die junge Priesterin fragte, warum sie ihn zurückgebracht hatte, antwortete sie: „Alle Dinge werden gefunden, auf dass sie wieder verloren gehen können - das ist die Weisheit des Verschleierten.“ Und mit diesen Worten nahm sie ihren Abschied.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1010,7 +1010,7 @@ Als die Belagerung immer länger andauerte, ließ der Hafenmeister weitere Bogen
     </Entry>
     <Entry>
       <ID>2057</ID>
-      <DefaultText>"Tanoss,
+      <DefaultText>„Tanoss,
 
 mehr als alle anderen hast du einen Pfad gewählt, der zu deinen natürlichen Stärken passt.
 
@@ -1018,7 +1018,7 @@ Dein Verstand ist ein Labyrinth. Du nutzt ihn, um nicht nur deine Leibeigenen zu
 
 Deswegen warne ich dich nur ein einziges Mal: Solltest du deine Spielchen auch mit mir versuchen, werde ich Pelden deine Leiche vorwerfen.
 
-Ich spüre die Gedanken deines Verstandes so genau, wie du eine Unruhe in deinem Netz spüren würdest. Du würdest mich ebenso bereitwillig ersetzen, wie du mir folgen würdest. Doch die erste Verteidigung eines jeden Zauberers ist ein beschützter Verstand. Und ich hatte Jahrhunderte, um den meinen zu stärken."</DefaultText>
+Ich spüre die Gedanken deines Verstandes so genau, wie du eine Unruhe in deinem Netz spüren würdest. Du würdest mich ebenso bereitwillig ersetzen, wie du mir folgen würdest. Doch die erste Verteidigung eines jeden Zauberers ist ein beschützter Verstand. Und ich hatte Jahrhunderte, um den meinen zu stärken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1149,24 +1149,24 @@ Interessanterweise zeigt eine Seite eine Karte des Rotwalds, auf der ein gefrore
       <ID>2082</ID>
       <DefaultText>Ein neuer Vers ist erschienen, als die Klinge aus dem Podest gezogen wurde:
 
-"Finde das Wirbeln von Kupfer, Adra, Stein.
-Erwecke deine Essenz, willst reumütig du sein."</DefaultText>
+„Finde das Wirbeln von Kupfer, Adra, Stein.
+Erwecke deine Essenz, willst reumütig du sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2083</ID>
       <DefaultText>Neue Verse leuchten auf dem Metall:
 
-"Auf sonnigem Hügel da ruhen der Toten Gebeine.
-Raste neben dem faulenden Fleisch und achte auf deine Träume."</DefaultText>
+„Auf sonnigem Hügel da ruhen der Toten Gebeine.
+Raste neben dem faulenden Fleisch und achte auf deine Träume.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2084</ID>
       <DefaultText>Der letzte Teil des Gedichts erstrahlt auf der Klinge:
 
-"Finger der Welt, Adra stark und ganz und rein.
-Knie vor den Säulen, lass Ordnung in deiner Seele sein."</DefaultText>
+„Finger der Welt, Adra stark und ganz und rein.
+Knie vor den Säulen, lass Ordnung in deiner Seele sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1175,10 +1175,10 @@ Knie vor den Säulen, lass Ordnung in deiner Seele sein."</DefaultText>
 
 In die Klinge sind einige Verse eingraviert:
 
-"Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
+„Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
 weil doch das Wissen seiner Tat sein Herze schwer belast'.
 Echte Reue aber löst die Fesseln, löst des Grames Seil,
-gutes Handeln rettet vorm Schafott ihn und vorm Beil."</DefaultText>
+gutes Handeln rettet vorm Schafott ihn und vorm Beil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1218,7 +1218,7 @@ gutes Handeln rettet vorm Schafott ihn und vorm Beil."</DefaultText>
     </Entry>
     <Entry>
       <ID>2093</ID>
-      <DefaultText>"Sabel,
+      <DefaultText>„Sabel,
 
 es erfüllt mich mit Stolz, zu sehen, was du für dein Handwerk erlitten hast. Die anderen Lehrlinge mögen belesener sein als du, doch niemand besitzt deine Hartnäckigkeit.
 
@@ -1226,7 +1226,7 @@ Denn du verstehst etwas, was sie nicht verstehen.
 
 Dein Körper ist eine Hülle. Wenn du die Macht erlangst, nach der du strebst, wirst du ihn überdauern.
 
-Deine Mitschüler bekämpfen sich gegenseitig, schmieden Intrigen. Nur du erkennst deinen wahren Feind."</DefaultText>
+Deine Mitschüler bekämpfen sich gegenseitig, schmieden Intrigen. Nur du erkennst deinen wahren Feind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1238,28 +1238,28 @@ Deine Mitschüler bekämpfen sich gegenseitig, schmieden Intrigen. Nur du erkenn
       <ID>2095</ID>
       <DefaultText>Der Großteil der wenigen verbleibenden Seiten ist vom Schlamm ruiniert, aber gegen Ende des Tagebuchs kannst du noch einen Eintrag entziffern:
 
-"Folcsdag. Als ich heute morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
+„Folcsdag. Als ich heute morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
 
 Gestern bin ich an einem Dorf vorbeigekommen und habe überlegt, Halt zu machen. Ein warmes Bett und eine anständige Mahlzeit wären ein Fest gewesen, nach fast einer Woche in diesen Bergen! Aber ich wollte die Fährte meines Seelenzwillings nicht verlieren. Nicht, wo ich ihm so nah bin.
 
-Ich habe gestern von der Höhle hinter dem Wasserfall geträumt. Ich glaube, dort werde ich ihn finden. Ich weiß nicht, was es sonst bedeuten könnte. Ich sollte aber-"
+Ich habe gestern von der Höhle hinter dem Wasserfall geträumt. Ich glaube, dort werde ich ihn finden. Ich weiß nicht, was es sonst bedeuten könnte. Ich sollte aber-“
 
 Die nächste Seite fehlt und der Rest der Seiten ist unleserlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2096</ID>
-      <DefaultText>"Pelden,
+      <DefaultText>„Pelden,
 
 du bist der talentierteste meiner Lehrlinge. Aber dein Verständnis ist lediglich eine Seite aus den Büchern des Wissens, das ich erlangt habe.
 
-Zäume deinen Stolz, bis du ihn dir verdient hast. Keine Schwäche ist tödlicher.
+Zügle deinen Stolz, bis du ihn dir verdient hast. Keine Schwäche ist tödlicher.
 
 Ich kann fast sehen, wie deine Hände zittern und dein Gesicht errötet, als du diese Worte liest. Du glaubst, du wärest mein würdiger Schüler, weil du ein paar einfache Zauber gemeistert hast? Ich habe den Parasitenstab geschaffen, als ich halb so alt war wie du.
 
 Und während ich gearbeitet habe, haben meine Kameraden Pläne gegen mich geschmiedet.
 
-Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich zusammenrotten, wenn du ihnen einen Grund dazu gibst. Verberge dein Können durch Fehler. Verstecke deine Boshaftigkeit hinter einem Lächeln. Opfere deine Eitelkeit einige wertvolle Jahre lang, auf dass du lang genug überlebst, um dir den Titel 'Zauberer' zu verdienen."</DefaultText>
+Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich zusammenrotten, wenn du ihnen einen Grund dazu gibst. Verberge dein Können durch Fehler. Verstecke deine Boshaftigkeit hinter einem Lächeln. Opfere deine Eitelkeit einige wertvolle Jahre lang, auf dass du lang genug überlebst, um dir den Titel 'Zauberer' zu verdienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1269,7 +1269,7 @@ Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich
     </Entry>
     <Entry>
       <ID>2098</ID>
-      <DefaultText>"Uariki,
+      <DefaultText>„Uariki,
 
 du hantierst mit Klingeln und Knüppeln herum, während deine Mitschüler den Körper und den Verstand von Gestandenen formen. Sie blicken deswegen auf dich herab.
 
@@ -1277,7 +1277,7 @@ Sollen sie.
 
 Zauberwerk zieht oft eine bestimmte Art von Geist an - einen Geist, der sich zum Mysterium und Brimborium gewaltigen arkanen Spektakels hingezogen fühlt.
 
-Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Macht, roh und formbar. Du formst sie nach deinen Bedürfnissen, und was verleiht den größten Zaubern ihre Kraft. Während die anderen ihre eigenen ehrgeizigen Zauber noch perfektionieren, wirst du die deinen bereits abschließen. Wenn dieser Tag kommt, dann strecke sie nieder, ohne zu zögern."</DefaultText>
+Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Macht, roh und formbar. Du formst sie nach deinen Bedürfnissen, und was verleiht den größten Zaubern ihre Kraft. Während die anderen ihre eigenen ehrgeizigen Zauber noch perfektionieren, wirst du die deinen bereits abschließen. Wenn dieser Tag kommt, dann strecke sie nieder, ohne zu zögern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1367,7 +1367,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
     </Entry>
     <Entry>
       <ID>2116</ID>
-      <DefaultText>Die Bürger von Stalwart verwenden unterschiedliche geschnitzte Fischgräten als Ersatzwährung. Die meisten "Grätlinge" werden aus einem großen flachen Teil des Schädels des Fleckenrückenbarschs geschnitzt. Die Schnitzereien sind so filigran, dass Außenstehende sie wegen ihrer Kunstfertigkeit schätzen.</DefaultText>
+      <DefaultText>Die Bürger von Stalwart verwenden unterschiedliche geschnitzte Fischgräten als Ersatzwährung. Die meisten ‚Grätlinge‘ werden aus einem großen flachen Teil des Schädels des Fleckenrückenbarschs geschnitzt. Die Schnitzereien sind so filigran, dass Außenstehende sie wegen ihrer Kunstfertigkeit schätzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1434,7 +1434,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
       <ID>2129</ID>
       <DefaultText>Sabra Marie gehörte einem Bogenschützen aus den vailianischen Republiken, der für die Unabhängigkeit des Dyrwalds kämpfte. Als der Widerstandskrieg begann, schlossen sich viele der Republiken - selbst erst seit kurzem unabhängig - dem Kampf im Norden an.
 
-Der Vailianer hatte einen längeren - und melodischeren - Namen für seinen Bogen, aber "Sabra Marie" wurde rasch zur örtlichen Verballhornung. Es gibt keine Berichte darüber, wie er in den Besitz des Bogens kam ... aber umso mehr Berichte darüber, wie nützlich die Waffe gegen größere Truppen war. Schnelle, starke Schüsse, die aus der Deckung abgefeuert wurden, ließen während des gesamten Krieges unzählige aedyranische Einheiten auseinanderstieben.</DefaultText>
+Der Vailianer hatte einen längeren - und melodischeren - Namen für seinen Bogen, aber ‚Sabra Marie‘ wurde rasch zur örtlichen Verballhornung. Es gibt keine Berichte darüber, wie er in den Besitz des Bogens kam&#160;… aber umso mehr Berichte darüber, wie nützlich die Waffe gegen größere Truppen war. Schnelle, starke Schüsse, die aus der Deckung abgefeuert wurden, ließen während des gesamten Krieges unzählige aedyranische Einheiten auseinanderstieben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1530,8 +1530,8 @@ Die überlebenden Sklaven stritten sich um die Stiefel. Als sie schließlich beg
       <ID>2148</ID>
       <DefaultText>Zwei letzte Zeilen erscheinen auf der Klinge des Panzerbrechers:
 
-"Die Reue ist erbracht, die Last ist nun Geschenk;
-Behalt er diese Waffe, dass auf ewig er an seine Beichte denk."</DefaultText>
+„Die Reue ist erbracht, die Last ist nun Geschenk;
+Behalt er diese Waffe, dass auf ewig er an seine Beichte denk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1563,9 +1563,9 @@ Einige der Perlen dieser Halskette sind von etwas durchzogen, was von rostroter 
     </Entry>
     <Entry>
       <ID>2161</ID>
-      <DefaultText>"Die Dauer der Verzauberung der beseelten Waffen schwankt weiter. Ich habe die Art der Waffe und das Material als Grund ausgeschlossen. Aber es ist höchst frustrierend, wenn der exakt gleiche Vorgang bei identischen Waffen unterschiedliche Resultate liefert. Der Geruch aus Peldens Laboratorium hilft auch nicht unbedingt.
+      <DefaultText>„Die Dauer der Verzauberung der beseelten Waffen schwankt weiter. Ich habe die Art der Waffe und das Material als Grund ausgeschlossen. Aber es ist höchst frustrierend, wenn der exakt gleiche Vorgang bei identischen Waffen unterschiedliche Resultate liefert. Der Geruch aus Peldens Laboratorium hilft auch nicht unbedingt.
 
-Die Ältesten zählen darauf, dass ich das Gleichgewicht der Macht auf der Insel zugunsten unseres Stammes verschiebe. Wenn ich nicht mit einer zuverlässigen "Armee" von Waffen nach Hause zurückkehre ... ist es vielleicht besser, ich kehre gar nicht zurück.</DefaultText>
+Die Ältesten zählen darauf, dass ich das Gleichgewicht der Macht auf der Insel zugunsten unseres Stammes verschiebe. Wenn ich nicht mit einer zuverlässigen ‚Armee‘ von Waffen nach Hause zurückkehre&#160;… ist es vielleicht besser, ich kehre gar nicht zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1580,9 +1580,9 @@ Die Ältesten zählen darauf, dass ich das Gleichgewicht der Macht auf der Insel
     </Entry>
     <Entry>
       <ID>2164</ID>
-      <DefaultText>"Erfolg mit der neuen Formel. Die Verbindung mit dem Hüllenmaterial ist doppelt so stark wie zuvor. Die Präsentation für Concelhaut wird großartig.
+      <DefaultText>„Erfolg mit der neuen Formel. Die Verbindung mit dem Hüllenmaterial ist doppelt so stark wie zuvor. Die Präsentation für Concelhaut wird großartig.
 
-Ich muss zunächst mehr Skelette beschaffen, bevor ich den anderen Lehrlingen mein Experiment vorführen kann."</DefaultText>
+Ich muss zunächst mehr Skelette beschaffen, bevor ich den anderen Lehrlingen mein Experiment vorführen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1607,13 +1607,13 @@ Ich muss zunächst mehr Skelette beschaffen, bevor ich den anderen Lehrlingen me
     </Entry>
     <Entry>
       <ID>2169</ID>
-      <DefaultText>"Als würde ich Notizen zu meinen Experimenten einfach so herumliegen lassen! Aber wenn ihr das hier schon lest:
+      <DefaultText>„Als würde ich Notizen zu meinen Experimenten einfach so herumliegen lassen! Aber wenn ihr das hier schon lest:
 
 Uariki - wenn sich noch einmal eine von deinen Waffen hier hinein verirrt, behalte ich sie.
 
 Sabel - ich habe noch nie mit dir geredet, aber halte dich trotzdem aus meinem Laboratorium fern.
 
-Tanoss - ich bezweifle, dass du überhaupt lesen kannst, aber ich verfüttere deine Lakaien an meine Versuchsobjekte, wenn ich das nächste Mal einen erwische, wie er vor meinem Laboratorium herumlungert.</DefaultText>
+Tanoss - ich bezweifle, dass du überhaupt lesen kannst, aber ich verfüttere deine Lakaien an meine Versuchsobjekte, wenn ich das nächste Mal einen erwische, wie er vor meinem Laboratorium herumlungert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1635,7 +1635,7 @@ Tanoss - ich bezweifle, dass du überhaupt lesen kannst, aber ich verfüttere de
       <ID>2173</ID>
       <DefaultText>Dieses uralte Buch ist eines der ältesten Bücher der Welt und für jeden Sammler seltener Manuskripte von unschätzbarem Wert.
 
-"Anni Iroccio: Neujahr
+„Anni Iroccio: Neujahr
 
 Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
 
@@ -1689,7 +1689,7 @@ Winterdämmerung (3 Tage) - Inivèrno - Während der Winterdämmerung wird das L
 Wintermonate
 
 Vorwinter - Préivèrno
-Mittwinter - Majivèrno"</DefaultText>
+Mittwinter - Majivèrno“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1745,14 +1745,14 @@ Der König gab den Umhang seinen Kindern, wenn diese auf Reisen gingen. Jahre sp
     </Entry>
     <Entry>
       <ID>2183</ID>
-      <DefaultText>Cailatto, besser bekannt als "der Bronze-Kantor" oder einfach "Cai", war ein berühmter Sänger und Flötist aus dem alten Reich Groß-Vailia. Er war noch berühmter für seine Erfolge bei den Frauen als für seine Musik. Und obwohl er stets behauptete, dieser Erfolg würde sich durch seinen angeborenen Charme erklären, wurde er nie ohne einen gewissen Silberring gesehen - selbst, wenn er sich alles andere ausgezogen hatte.
+      <DefaultText>Cailatto, besser bekannt als ‚der Bronze-Kantor‘ oder einfach ‚Cai‘, war ein berühmter Sänger und Flötist aus dem alten Reich Groß-Vailia. Er war noch berühmter für seine Erfolge bei den Frauen als für seine Musik. Und obwohl er stets behauptete, dieser Erfolg würde sich durch seinen angeborenen Charme erklären, wurde er nie ohne einen gewissen Silberring gesehen - selbst, wenn er sich alles andere ausgezogen hatte.
 
 Am Ende waren es Cais eigene Indiskretionen, die zu seinem Niedergang führten. Er verlustierte sich mit einer Assassinin namens Faldila Rugia und tröstete dann die Nichte des jüngsten Opfers eben jener Assassinin. Was für Cai nur ein unglücklicher Zufall war, sah für die Assassinin wie eine verdächtige Allianz aus. Sie tötete ihn im Schlaf, damit er ihre Geheimnisse nicht verraten konnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2184</ID>
-      <DefaultText>Dieser einfache Gürtel sieht unscheinbar aus, steht jedoch seit Jahren bei klugen Abenteurern hoch im Kurs. Er sitzt eng, aber bequem, und ist mit unzähligen Taschen, Scheiden und Schlaufen ausgestattet, die seinem Besitzer schnellen Zugriff zu Waffen und Werkzeugen erlauben. Rüstungsschmiede und Ledernäher versuchen seit Jahren, den Gurt des Einfallsreichtums nachzuahmen oder sogar zu verbessern, aber es herrscht Uneinigkeit darüber, wie die ideale Version aussieht. Einig ist man sich nur in einem ... keine der Imitationen ist so gut wie das Original.
+      <DefaultText>Dieser einfache Gürtel sieht unscheinbar aus, steht jedoch seit Jahren bei klugen Abenteurern hoch im Kurs. Er sitzt eng, aber bequem, und ist mit unzähligen Taschen, Scheiden und Schlaufen ausgestattet, die seinem Besitzer schnellen Zugriff zu Waffen und Werkzeugen erlauben. Rüstungsschmiede und Ledernäher versuchen seit Jahren, den Gurt des Einfallsreichtums nachzuahmen oder sogar zu verbessern, aber es herrscht Uneinigkeit darüber, wie die ideale Version aussieht. Einig ist man sich nur in einem&#160;… keine der Imitationen ist so gut wie das Original.
 
 Alle paar Jahre aber taucht in einer Taverne, an einem Lagerfeuer oder in einer Jagdhütte ein Abenteurer auf und behauptet, er würde den echten Gürtel tragen. Dann wird wieder eifrig spekuliert und man vergleicht diesen Gürtel mit den verschiedenen widersprüchlichen Beschreibungen aus den alten Tagebüchern von Abenteurern.</DefaultText>
       <FemaleText />
@@ -1761,7 +1761,7 @@ Alle paar Jahre aber taucht in einer Taverne, an einem Lagerfeuer oder in einer 
       <ID>2185</ID>
       <DefaultText>Dieser Hut wurde von einem Zauberlehrling gefertigt, der das perfekte magische Accessoire schaffen wollte. Er brachte Wochen damit zu, das Material mit Zaubern zu versehen. Als er jedoch fertig war, fand er, dass der Hut recht fad aussah. Er wollte für seine Kameraden und Rivalen ein imposantes Bild abgeben, also verbrachte er einige weitere Tage damit, den Hut zu verzieren - ein Federkamm hinter einem Ohr, ein Seidenband um die Krempe. Eine Verbesserung, gewiss, doch nun erkannte der junge Zauberer auch, wie schlecht seine ursprüngliche Farbwahl gewesen war. Also experimentierte er einige weitere Tage lang mit anderen Tönen in Velours, Satin und Leder.
 
-Während der arme junge Lehrling ganz von seinem Hut besessen war, lernten seine Kameraden weiter Zaubersprüche. Als sein erstes Duell anstand, hatte er sich eine fantastische Garderobe aufgebaut, aber die meisten seiner Zauber vergessen. Das Duell bedeutete das schmachvolle Ende seiner Karriere als Zauberer ... doch er wurde ein äußerst erfolgreicher Schneider.</DefaultText>
+Während der arme junge Lehrling ganz von seinem Hut besessen war, lernten seine Kameraden weiter Zaubersprüche. Als sein erstes Duell anstand, hatte er sich eine fantastische Garderobe aufgebaut, aber die meisten seiner Zauber vergessen. Das Duell bedeutete das schmachvolle Ende seiner Karriere als Zauberer&#160;… doch er wurde ein äußerst erfolgreicher Schneider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1782,7 +1782,7 @@ Wegen dieses unsteten Lebenswandels kommt es häufig vor, dass man ihre Besitzt�
 
 Aber sie war klug und sie übte fleißig. Eines Tages forderte ihr größter Rivale - der Neffe eines der Ducs Bels - sie zum Duell heraus. Ryona musste annehmen, um nicht ihr Gesicht zu verlieren. Als sie sich in der Arena gegenüberstanden, bot er ihr an, ihr vor dem Kampf einen beliebigen Teil seiner Rüstung zu überlassen.
 
-Er wollte damit ihr Können beleidigen, doch als Ryona seinen Gürtel forderte, erkannte er seinen Fehler. Er gab ihr den Gürtel, an dem noch sein Degen in der Scheide hing ... und hatte sich damit selbst entwaffnet. Ryona gewann das Duell kampflos und behielt den Gürtel als Erinnerungsstück.</DefaultText>
+Er wollte damit ihr Können beleidigen, doch als Ryona seinen Gürtel forderte, erkannte er seinen Fehler. Er gab ihr den Gürtel, an dem noch sein Degen in der Scheide hing&#160;… und hatte sich damit selbst entwaffnet. Ryona gewann das Duell kampflos und behielt den Gürtel als Erinnerungsstück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1799,7 +1799,7 @@ Statt Zuflucht fand sie dort aber einen jungen Alpindrachen.
 
 Die Bestie war zu dürr und ihre Augen brannten vor Hunger, als sie Ryona sah. Sie versprach ihm jedoch ein größeres Mahl, wenn er sie nur verschonen würde.
 
-Sie führte ihn zu dem Felsvorsprung, in dem ihre Gefährten warteten. Als der Drache anfing, sie zu verschlingen, floh sie ... und verlor dabei die Armschienen im Schnee.</DefaultText>
+Sie führte ihn zu dem Felsvorsprung, in dem ihre Gefährten warteten. Als der Drache anfing, sie zu verschlingen, floh sie&#160;… und verlor dabei die Armschienen im Schnee.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1809,18 +1809,18 @@ Sie führte ihn zu dem Felsvorsprung, in dem ihre Gefährten warteten. Als der D
     </Entry>
     <Entry>
       <ID>2191</ID>
-      <DefaultText>"Diesmal hat sie sich selbst übertroffen, mit diesem Baelsyr. Ein gewöhnlicher Räuber mit einer gewissen Begabung als Medium. Es ist ihm zu Kopf gestiegen. Der Bazzo hält sich für den nächsten Antonino. Jedenfalls wäre die Welt ohne ihn besser dran.
+      <DefaultText>„Diesmal hat sie sich selbst übertroffen, mit diesem Baelsyr. Ein gewöhnlicher Räuber mit einer gewissen Begabung als Medium. Es ist ihm zu Kopf gestiegen. Der Bazzo hält sich für den nächsten Antonino. Jedenfalls wäre die Welt ohne ihn besser dran.
 
 Dennoch hat er vielversprechende Ergebnisse gezeigt. Sein Verstand ist beinahe vollständig intakt. Ich hätte vielleicht sogar feststellen können, ob an seinen Illusionen über seine Seelenlinie etwas dran ist. Aber ich war so töricht, die Pistole des Mannes auf meiner Werkbank liegen zu lassen. Seine Essenz ist an die Waffe gebunden, statt an den Körper, den ich für ihn bauen wollte. Selbst körperlos macht dieser Narr mir noch Ärger.
 
-Ich habe ihn in einem der Tanks versiegelt. Ich muss die Maschinen gegen die frei umherstreunenden Experimente absichern, während ich mir eine Lösung überlege. Bis dahin muss ich die Gesellschaft ertragen, während ich arbeite."</DefaultText>
+Ich habe ihn in einem der Tanks versiegelt. Ich muss die Maschinen gegen die frei umherstreunenden Experimente absichern, während ich mir eine Lösung überlege. Bis dahin muss ich die Gesellschaft ertragen, während ich arbeite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2192</ID>
       <DefaultText>Dieses Papier enthält eine lose Liste von Personen, nach Datum unterteilt.
 
-"Godandag - 
+„Godandag - 
 Langsicht-Fälle. Bandit.
 
 Mecwynsdag, Inprima - 
@@ -1830,11 +1830,11 @@ Folcsdag -
 Mörder. Schöne Haare.
 
 Rytlingsdag -
-Idiot, der mich erstechen wollte."
+Idiot, der mich erstechen wollte.“
 
 Unter der Liste befindet sich eine Notiz in einer anderen Handschrift:
 
-"Di verus, Teufelin, ich will einfach nur Zahlen."</DefaultText>
+„Di verus, Teufelin, ich will einfach nur Zahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1846,39 +1846,39 @@ Unter der Liste befindet sich eine Notiz in einer anderen Handschrift:
       <ID>2194</ID>
       <DefaultText>Dieses zerknüllte Stück Pergament wurde in der Gesichtsplatte eines Konstrukts gefunden, in die es hineingestopft worden war.
 
-"Meine Bemühungen, wenigstens die Intelligenz eines Kindes in diese Schöpfungen zu verpflanzen, sind allesamt gescheitert. Die meisten können nicht einmal eine Feder halten - geschweige denn, Gedanken zu Papier bringen. Eine Zeit lang habe ich geglaubt, dass Versuchsobjekt 63 einen Durchbruch bei seinem Unterricht erreicht hat. Bis ich bemerkt habe, dass es nur meine Worte wiederholt hat, ohne sie zu verstehen.
+„Meine Bemühungen, wenigstens die Intelligenz eines Kindes in diese Schöpfungen zu verpflanzen, sind allesamt gescheitert. Die meisten können nicht einmal eine Feder halten - geschweige denn, Gedanken zu Papier bringen. Eine Zeit lang habe ich geglaubt, dass Versuchsobjekt 63 einen Durchbruch bei seinem Unterricht erreicht hat. Bis ich bemerkt habe, dass es nur meine Worte wiederholt hat, ohne sie zu verstehen.
 
 Sie waren selbst in ihrer ursprünglichen Haut keine erleuchteten Charaktere. Vielleicht fehlt ihrer Essenz die grundlegende Fähigkeit zum Lernen?
 
 Ich habe sie in weiteren Kampfkünsten getestet, aber auch hier versagen sie, da ihnen echte Intelligenz fehlt. Die Teufelin verspottet sie natürlich mit Genuss. Es ist, als würde man prahlen, Kinder im Kampf zu besiegen.
 
-Wenn ich doch nur meine alten Maschinen hätte!"</DefaultText>
+Wenn ich doch nur meine alten Maschinen hätte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2195</ID>
       <DefaultText>Auf diesem weggeworfenen Notizzettel steht:
 
-"Madiccho! Drei Wochen harter Arbeit sind verloren - und mit ihnen ein voll bewegungsfähiger Körper.
+„Madiccho! Drei Wochen harter Arbeit sind verloren - und mit ihnen ein voll bewegungsfähiger Körper.
 
 Diese groben Materialien sind instabiler, als ich dachte. Aber nicht weniger teuer!
 
-Ich werde einen langsameren Prozess versuchen. Vielleicht mit mehr Elektrizität."
+Ich werde einen langsameren Prozess versuchen. Vielleicht mit mehr Elektrizität.“
 
 Am unteren Rand der Seite wurde eine Ergänzung niedergekritzelt:
 
-"Zu viel Elektrizität. Ich brauche mehr Versuchsobjekte."</DefaultText>
+„Zu viel Elektrizität. Ich brauche mehr Versuchsobjekte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2196</ID>
       <DefaultText>Dieser eilig niedergekritzelte Eintrag ist mit Tintenklecksen übersät.
 
-"Ich weigere mich, weiter meine Zeit mit diesem grotesken Flickwerk zu vergeuden! Die Zeit, die ich damit zubringe, dem verfaulenden Leichnam auch nur den kleinsten Funken Leben einzuhauchen, wende ich später dreifach für Reparaturen auf. Sie zerfallen buchstäblich an den Nähten.
+„Ich weigere mich, weiter meine Zeit mit diesem grotesken Flickwerk zu vergeuden! Die Zeit, die ich damit zubringe, dem verfaulenden Leichnam auch nur den kleinsten Funken Leben einzuhauchen, wende ich später dreifach für Reparaturen auf. Sie zerfallen buchstäblich an den Nähten.
 
 Ihr Anblick in den Korridoren widert mich inzwischen an. Sie besitzen nichts von der Vitalität, Intelligenz und Koordination des Versuchsobjekts. Nur eine tumbe Folgsamkeit. Fleisch ist zu lose mit Essenz verbunden, das steht fest.
 
-Kein Wunder, dass die Narren in Farnheim diese jämmerlichen Exemplare so günstig abzugeben bereit waren! Madiccho, dieser Gestank!"</DefaultText>
+Kein Wunder, dass die Narren in Farnheim diese jämmerlichen Exemplare so günstig abzugeben bereit waren! Madiccho, dieser Gestank!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1910,14 +1910,14 @@ Kein Wunder, dass die Narren in Farnheim diese jämmerlichen Exemplare so günst
       <ID>2202</ID>
       <DefaultText>Auf diese Seite wurde eilig etwas gekritzelt:
 
-"Floru,
+„Floru,
 
 wir sind hier gefangen, aber ich schöpfe Mut aus dem Wissen, dass du unter uns in Sicherheit bist. Wenn all das ein Ende hat, nimm, was du tragen kannst und brich sofort zu Fort Knochenbeißer auf. Nimm unseren Neffen mit, wenn du kannst. Hier ist es nicht sicher.
 
 Behalte das bei dir.
 
 In Liebe,
-Erazmur"
+Erazmur“
 
 Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nicht zu entziffern.</DefaultText>
       <FemaleText />
@@ -1949,7 +1949,7 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2208</ID>
-      <DefaultText>Die Siedlungen in der Weißmark nutzten verschiedene Bronzemünzen als Währung. Diese "Zahnräder" wurden in Durgans Batterie verwendet, wo sie in einem zweistufigen Verfahren gefertigt wurden. Die charakteristichen zahnradförmigen Rohlinge wurden in Bronze gegossen. Während sie abkühlten, wurden sie in eiserne Pressformen geschlagen. Die Münzen sind aufgrund ihres hohen Kupfergehalts im Östlichen Abschnitt noch immer recht wertvoll.</DefaultText>
+      <DefaultText>Die Siedlungen in der Weißmark nutzten verschiedene Bronzemünzen als Währung. Diese ‚Zahnräder‘ wurden in Durgans Batterie verwendet, wo sie in einem zweistufigen Verfahren gefertigt wurden. Die charakteristichen zahnradförmigen Rohlinge wurden in Bronze gegossen. Während sie abkühlten, wurden sie in eiserne Pressformen geschlagen. Die Münzen sind aufgrund ihres hohen Kupfergehalts im Östlichen Abschnitt noch immer recht wertvoll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1964,7 +1964,7 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2211</ID>
-      <DefaultText>Galvino hat diese seltsame Apparatur geschaffen, um Seelen aufzuspüren, die in einem früheren Leben in Durgans Batterie lebten. Sie schickt einen Energieimpuls aus, generiert aus Erinnerungen von Seelenfragmenten, die Galvino in der Adrascherbe der Apparatur gesammelt hat. Die schlafenden Leben der Versuchsperson hallen in dem "Echo" wieder, indem sie vorübergehend die See des Bewusstseins ihres aktuellen Lebens durchdringen. Die Versuchspersonen bemerken nicht, was geschieht, doch die Bewegungen können durch spezielle Linsen oder die Augen eines Wächters beobachtet werden.</DefaultText>
+      <DefaultText>Galvino hat diese seltsame Apparatur geschaffen, um Seelen aufzuspüren, die in einem früheren Leben in Durgans Batterie lebten. Sie schickt einen Energieimpuls aus, generiert aus Erinnerungen von Seelenfragmenten, die Galvino in der Adrascherbe der Apparatur gesammelt hat. Die schlafenden Leben der Versuchsperson hallen in dem ‚Echo‘ wieder, indem sie vorübergehend die See des Bewusstseins ihres aktuellen Lebens durchdringen. Die Versuchspersonen bemerken nicht, was geschieht, doch die Bewegungen können durch spezielle Linsen oder die Augen eines Wächters beobachtet werden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

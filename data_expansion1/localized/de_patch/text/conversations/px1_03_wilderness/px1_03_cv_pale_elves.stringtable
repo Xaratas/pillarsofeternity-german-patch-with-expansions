@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Das hat doch keinen Zweck, Biest! Mit deiner Sturheit erreichst du nichts!"</DefaultText>
+      <DefaultText>„Das hat doch keinen Zweck, Biest! Mit deiner Sturheit erreichst du nichts!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"He, Vamrel ..."
+      <DefaultText>„He, Vamrel&#160;…“
 
 Einer der Elfen hat sich zu dir umgewandt. Er winkt dem Mann, der mit dem Oger beschäftigt ist.</DefaultText>
       <FemaleText />
@@ -28,17 +28,17 @@ Einer der Elfen hat sich zu dir umgewandt. Er winkt dem Mann, der mit dem Oger b
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was macht ihr mit diesem Oger?"</DefaultText>
+      <DefaultText>„Was macht ihr mit diesem Oger?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ihr seid weit von eurer Heimat entfernt."</DefaultText>
+      <DefaultText>„Ihr seid weit von eurer Heimat entfernt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Diese Kreatur begleitet uns nach Waestrand. Wir hatten auf den Straßen einige Schwierigkeiten. Aber wenn wir einen Oger dabei haben, ist damit Schluss."</DefaultText>
+      <DefaultText>„Diese Kreatur begleitet uns nach Waestrand. Wir hatten auf den Straßen einige Schwierigkeiten. Aber wenn wir einen Oger dabei haben, ist damit Schluss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,8 +64,8 @@ Er trifft den Strick zwischen dem Hals und den Händen des Ogers und die Fesseln
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Fangt den Oger ein - aber wehe, ihr beschädigt mein Eigentum! Und bringt mir den Kopf dieses Narren!"</DefaultText>
-      <FemaleText>"Fangt den Oger ein - aber wehe, ihr beschädigt mein Eigentum! Und bringt mir den Kopf dieser Närrin!"</FemaleText>
+      <DefaultText>„Fangt den Oger ein - aber wehe, ihr beschädigt mein Eigentum! Und bringt mir den Kopf dieses Narren!“</DefaultText>
+      <FemaleText>„Fangt den Oger ein - aber wehe, ihr beschädigt mein Eigentum! Und bringt mir den Kopf dieser Närrin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -73,12 +73,12 @@ Er trifft den Strick zwischen dem Hals und den Händen des Ogers und die Fesseln
 
 Vamrels Augen leuchten auf.
 
-"Ah, nicht so schnell. Hier, Bestie - mal sehen, zu was du fähig bist!"</DefaultText>
+„Ah, nicht so schnell. Hier, Bestie - mal sehen, zu was du fähig bist!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ahh! Der Oger ist frei!"</DefaultText>
+      <DefaultText>„Ahh! Der Oger ist frei!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@ Vamrels Augen leuchten auf.
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ein jämmerliches Exemplar, für einen Oger."</DefaultText>
+      <DefaultText>„Ein jämmerliches Exemplar, für einen Oger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,7 +112,7 @@ Mit einem triumphierenden Brüllen sprengt der Oger seine Fesseln.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,29 +124,29 @@ Mit einem triumphierenden Brüllen sprengt der Oger seine Fesseln.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Oh, morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf." 
+      <DefaultText>„Oh, morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf.“ 
 
 Er blickt hinauf zu dem Oger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Die Oger der Endlosen Pfade waren widerstandsfähige Kerle. Vielleicht sind ihre Felsvettern empfindlicher."</DefaultText>
+      <DefaultText>„Die Oger der Endlosen Pfade waren widerstandsfähige Kerle. Vielleicht sind ihre Felsvettern empfindlicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Braucht ihr Hilfe?"</DefaultText>
+      <DefaultText>„Braucht ihr Hilfe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sehr freundlich, aber wir haben alles im Griff. Die Bestie ist bisher brav mitgetrottet - das wird sie bald wieder tun."</DefaultText>
+      <DefaultText>„Sehr freundlich, aber wir haben alles im Griff. Die Bestie ist bisher brav mitgetrottet - das wird sie bald wieder tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"So! Das Biest musste nur ein wenig Aggressionen ablassen!"</DefaultText>
+      <DefaultText>„So! Das Biest musste nur ein wenig Aggressionen ablassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,52 +161,52 @@ Er blickt hinauf zu dem Oger.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Er war billig. Wir brauchen seine Kraft - das ist das Einzige, wozu diese Biester gut sind." Vamrel zerrt erneut an dem Strick.
+      <DefaultText>„Er war billig. Wir brauchen seine Kraft - das ist das Einzige, wozu diese Biester gut sind.“ Vamrel zerrt erneut an dem Strick.
 
 Der Oger blickt noch zorniger drein, falls das überhaupt möglich ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich habe ihn von ein paar Sklavenjägern gekauft, nicht weit von hier. Sie wollten wohl ihre Ausgaben wieder hereinholen." 
+      <DefaultText>„Ich habe ihn von ein paar Sklavenjägern gekauft, nicht weit von hier. Sie wollten wohl ihre Ausgaben wieder hereinholen.“ 
 
-Er grunzt. "Ich weiß nicht, ob er wirklich viel wert ist."</DefaultText>
+Er grunzt. „Ich weiß nicht, ob er wirklich viel wert ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Zum Glück ist Korgrak nicht hier. Er würde das hier wohl etwas peinlich finden."</DefaultText>
+      <DefaultText>„Zum Glück ist Korgrak nicht hier. Er würde das hier wohl etwas peinlich finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Genau wie du, Fremder. Hattest du Heimweh nach kaltem Wetter?"
+      <DefaultText>„Genau wie du, Fremder. Hattest du Heimweh nach kaltem Wetter?“
 
-Vamrel lacht. "Morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf."</DefaultText>
-      <FemaleText>"Genau wie du, Fremde. Hattest du Heimweh nach kaltem Wetter?"
+Vamrel lacht. „Morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf.“</DefaultText>
+      <FemaleText>„Genau wie du, Fremde. Hattest du Heimweh nach kaltem Wetter?“
 
-Vamrel lacht. "Morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf."</FemaleText>
+Vamrel lacht. „Morgen sind wir noch weiter davon entfernt. Wir sammeln nur unterwegs ein wenig Hilfe auf.“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Die Elfen sind es, die sich schämen sollten. Das ist Sklaverei, auch wenn es ein brutales Monster ist!"
+      <DefaultText>„Die Elfen sind es, die sich schämen sollten. Das ist Sklaverei, auch wenn es ein brutales Monster ist!“
 
 Hiravias ballt die Fäuste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Oh, weh. Das hat wohl etwas zu gut funktioniert."</DefaultText>
+      <DefaultText>„Oh, weh. Das hat wohl etwas zu gut funktioniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Wir werden angegriffen!" Sie zieht ihre Klinge und die anderen Elfen drehen sich zu dir um.</DefaultText>
+      <DefaultText>„Wir werden angegriffen!“ Sie zieht ihre Klinge und die anderen Elfen drehen sich zu dir um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Vamrel blickt dich zornig an. "Sieh, was du angerichtet hast!"</DefaultText>
+      <DefaultText>Vamrel blickt dich zornig an. „Sieh, was du angerichtet hast!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

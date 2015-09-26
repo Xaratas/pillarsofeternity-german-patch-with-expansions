@@ -80,7 +80,7 @@ Er wartet in Stalwart auf mich.</DefaultText>
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>Die "Thermalperle" ist gerade geschlüpft. Nun habe ich einen Baby-Lagufaeth in meinem Rucksack.</DefaultText>
+      <DefaultText>Die ‚Thermalperle‘ ist gerade geschlüpft. Nun habe ich einen Baby-Lagufaeth in meinem Rucksack.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@ Er wartet in Stalwart auf mich.</DefaultText>
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>Ich habe Tealdor von dem Ei erzählt, er schien mir aber nicht zu glauben. Das muss er aber, wenn ich ihm den Baby-Lagufaeth zeige ...</DefaultText>
+      <DefaultText>Ich habe Tealdor von dem Ei erzählt, er schien mir aber nicht zu glauben. Das muss er aber, wenn ich ihm den Baby-Lagufaeth zeige&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

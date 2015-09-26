@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hilf mir. Ich bitte dich, hilf mir ..."</DefaultText>
+      <DefaultText>„Hilf mir. Ich bitte dich, hilf mir&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Verdammte ... Maschine! Wiederholst du alles, was ich sage?"</DefaultText>
+      <DefaultText>„Verdammte&#160;… Maschine! Wiederholst du alles, was ich sage?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Alles, was ich sage."</DefaultText>
+      <DefaultText>„Alles, was ich sage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sage."</DefaultText>
+      <DefaultText>„Sage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eindringling ..."</DefaultText>
+      <DefaultText>„Eindringling&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

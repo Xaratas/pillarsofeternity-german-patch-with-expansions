@@ -66,18 +66,18 @@ Stalwart liegt in der Weißmark, die Reise wird mehrere Tage in Anspruch nehmen.
       <ID>10004</ID>
       <DefaultText>Renengild hat mir gesagt, dass Durgans Batterie versiegelt ist, seit die ursprünglichen Besitzer vor über zweihundert Jahren spurlos verschwunden sind. Stalwart hat schon viele Abenteurergruppen gerufen, aber keiner ist es gelungen, in die Festung einzudringen.
 
-Meine Aufgabe ist komplizierter, als es ursprünglich schien ... aber Renengild und ihr Sohn haben mir einige Hinweise gegeben. Sie haben vorgeschlagen, dass ich mit Galvino spreche, einem Beseeler und Schmied. Und ich soll Matronin Bergeran zur Rede stellen, die Anführerin eines örtlichen Ogerclans.</DefaultText>
+Meine Aufgabe ist komplizierter, als es ursprünglich schien&#160;… aber Renengild und ihr Sohn haben mir einige Hinweise gegeben. Sie haben vorgeschlagen, dass ich mit Galvino spreche, einem Beseeler und Schmied. Und ich soll Matronin Bergeran zur Rede stellen, die Anführerin eines örtlichen Ogerclans.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
       <DefaultText>Ich bin bereit, Durgans Batterie zu betreten. Ich habe das Relieffragment, das die Expedition des Bleiernen Schlüssels gefunden hatte. Und ich habe das Festungslied, das ich in Stalwart gelernt habe:
 
-"Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.
+„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“
 
-"Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.
+„Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.“
 
-"Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz."</DefaultText>
+„Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@ Meine Aufgabe ist komplizierter, als es ursprünglich schien ... aber Renengild 
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Galvino lebt in der Nähe von Durgans Batterie. Uldric glaubt, dass er etwas Nützliches wissen könnte ... wenn ich ihn überzeugen kann, mir zu helfen.</DefaultText>
+      <DefaultText>Galvino lebt in der Nähe von Durgans Batterie. Uldric glaubt, dass er etwas Nützliches wissen könnte&#160;… wenn ich ihn überzeugen kann, mir zu helfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

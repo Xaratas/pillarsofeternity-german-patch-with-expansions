@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Dieser Betrüger hat unseren Stahl verkauft und das Geld behalten!"</DefaultText>
+      <DefaultText>„Dieser Betrüger hat unseren Stahl verkauft und das Geld behalten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Marunn? Sie wird nicht eher ruhen, bis unsere Leichen die Hallen schmücken!"</DefaultText>
+      <DefaultText>„Marunn? Sie wird nicht eher ruhen, bis unsere Leichen die Hallen schmücken!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Verräter. Feiglinge."</DefaultText>
+      <DefaultText>„Verräter. Feiglinge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Zoltun ist der einzige mit Verstand! Wer etwas anderes behauptet, ist ein Narr."</DefaultText>
+      <DefaultText>„Zoltun ist der einzige mit Verstand! Wer etwas anderes behauptet, ist ein Narr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Das wäre eine Verbesserung für dich!"</DefaultText>
+      <DefaultText>„Das wäre eine Verbesserung für dich!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

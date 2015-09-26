@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Kümmer dich nicht um Galvino. Er ist immer so."</DefaultText>
+      <DefaultText>„Kümmer dich nicht um Galvino. Er ist immer so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich gehe mit dir nach Stalwart, aber Galvino wird erst noch einiges zu sagen haben."</DefaultText>
+      <DefaultText>„Ich gehe mit dir nach Stalwart, aber Galvino wird erst noch einiges zu sagen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du machst den alten Mann eifersüchtig."</DefaultText>
+      <DefaultText>„Du machst den alten Mann eifersüchtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Aimico, ermutige sie nicht. Sie bringt nichts als Ärger."</DefaultText>
-      <FemaleText>"Aimica, ermutige sie nicht. Sie bringt nichts als Ärger."</FemaleText>
+      <DefaultText>„Aimico, ermutige sie nicht. Sie bringt nichts als Ärger.“</DefaultText>
+      <FemaleText>„Aimica, ermutige sie nicht. Sie bringt nichts als Ärger.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wir könnten ihn einfach töten."</DefaultText>
+      <DefaultText>„Wir könnten ihn einfach töten.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
