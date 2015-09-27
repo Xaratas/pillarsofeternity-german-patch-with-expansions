@@ -6990,17 +6990,17 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie "Weder gefällt von der Axt, noch gebrochen vom Sturm" und Beschwörungen wie "Reny Darets Geist sollte jedoch nicht ruhen" und "Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen". Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
+      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie „Weder gefällt von der Axt, noch gebrochen vom Sturm“ und Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1516</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf offensive Beschwörungen wie "Und Hel-Hyraf krachte auf den Schild", "Der Donner rollte wie Wellen auf schwarzen Meeren", "Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache" und "Weiße Würmer wanden sich in den Bäuchen der Toten". Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
+      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf offensive Beschwörungen wie „Und Hel-Hyraf krachte auf den Schild“, „Der Donner rollte wie Wellen auf schwarzen Meeren“, „Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache“ und „Weiße Würmer wanden sich in den Bäuchen der Toten“. Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1517</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Beschwörungen wie "Reny Darets Geist sollte jedoch nicht ruhen" und "Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen". Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
+      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7060,7 +7060,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1529</ID>
-      <DefaultText>Der Priester setzt Heiliger Glanz ein, sobald jemand in der Gruppe unter 33% Ausdauer fällt oder zwei oder mehr Charakter unter 50% Ausdauer fallen. Wenn Pro Ruhephase aktiviert ist, setzt der Priester seinen Schwerpunkt auf Heilungs- und Unterstützungszauber wie Rüstung des Glaubens, Segen, Heilige Meditation, Geringe Wiederherstellung von Ausdauer, Zurückziehen und so weiter. Die "Gebet gegen"-Zauber werden reaktiv eingesetzt, wenn mehr als 1 Gruppenmitglied mit dem jeweiligen Effekt belegt ist.</DefaultText>
+      <DefaultText>Der Priester setzt Heiliger Glanz ein, sobald jemand in der Gruppe unter 33% Ausdauer fällt oder zwei oder mehr Charakter unter 50% Ausdauer fallen. Wenn Pro Ruhephase aktiviert ist, setzt der Priester seinen Schwerpunkt auf Heilungs- und Unterstützungszauber wie Rüstung des Glaubens, Segen, Heilige Meditation, Geringe Wiederherstellung von Ausdauer, Zurückziehen und so weiter. Die „Gebet gegen“-Zauber werden reaktiv eingesetzt, wenn mehr als 1 Gruppenmitglied mit dem jeweiligen Effekt belegt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

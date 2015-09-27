@@ -124,7 +124,7 @@ Er blickt dich wieder an und macht einen Schritt zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Und danke, vor allem danke. Hier, nimm das. Und sag Haeferic, dass er den Rest für die Woche behalten kann. Ich verschwinde.</DefaultText>
+      <DefaultText>„Und danke, vor allem danke. Hier, nimm das. Und sag Haeferic, dass er den Rest für die Woche behalten kann. Ich verschwinde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@ Mit dem letzten Rest seiner Würde bereitet er sich auf den langen Marsch nach C
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Und danke, vor allem dir. Hier, nimm das. Und sag Haeferic, dass er den Rest für die Woche behalten kann. Ich verschwinde.</DefaultText>
+      <DefaultText>„Und danke, vor allem dir. Hier, nimm das. Und sag Haeferic, dass er den Rest für die Woche behalten kann. Ich verschwinde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@ Schließlich richtet er sich auf und seufzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Ich sehe die Weisheit darin nicht. Ja, sein Leid ist atemberaubend, aber gewiss hat er sich seine Freiheit doch verdient.
+      <DefaultText>„Ich sehe die Weisheit darin nicht. Ja, sein Leid ist atemberaubend, aber gewiss hat er sich seine Freiheit doch verdient.“
 
 „Das Leid eines Sklaven wird zu einem Leid ganz anderer Art, wenn er flieht. Für die Seele ist es aber nicht weniger bewegend.“ Zahua reibt sich gedankenverloren die Handgelenke.</DefaultText>
       <FemaleText />

@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Bei näherer Betrachtung habe ich festgestellt, dass Fearas "Ladung" aus Svef besteht. Ich könnte sie zur Rede stellen. Oder ich könnte sie bei Renengild verpfeifen.</DefaultText>
+      <DefaultText>Bei näherer Betrachtung habe ich festgestellt, dass Fearas „Ladung“ aus Svef besteht. Ich könnte sie zur Rede stellen. Oder ich könnte sie bei Renengild verpfeifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,4 +85,4 @@
       <FemaleText />
     </Entry>
   </Entries>
-</StringTableFile>
+</StringTableFile>

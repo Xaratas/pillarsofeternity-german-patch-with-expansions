@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ihre Oberlippe verzieht sich verächtlich. „Wären wir nicht auf deine Hilfe angewiesen, ich würde dich fortjagen.
+      <DefaultText>Ihre Oberlippe verzieht sich verächtlich. „Wären wir nicht auf deine Hilfe angewiesen, ich würde dich fortjagen.“
 
 „Ihr habt wohl keine Fortschritte mit der Batterie gemacht.“ Sie verschränkt die Arme.</DefaultText>
       <FemaleText />
@@ -284,8 +284,8 @@ Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„[Player Name] kümmert sich auf&#160;… entschlossene Art und Weise um die Dinge.“ Deswegen haben wir ihn hergerufen.“</DefaultText>
-      <FemaleText>„[Player Name] kümmert sich auf&#160;… entschlossene Art und Weise um die Dinge.“ Deswegen haben wir sie hergerufen.“</FemaleText>
+      <DefaultText>„[Player Name] kümmert sich auf&#160;… entschlossene Art und Weise um die Dinge. Deswegen haben wir ihn hergerufen.“</DefaultText>
+      <FemaleText>„[Player Name] kümmert sich auf&#160;… entschlossene Art und Weise um die Dinge. Deswegen haben wir sie hergerufen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>

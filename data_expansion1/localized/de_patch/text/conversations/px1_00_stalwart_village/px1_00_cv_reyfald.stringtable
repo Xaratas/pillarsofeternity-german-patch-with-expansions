@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Ich bezahle dich! Ich schwöre es. Wir teilen meinen Lohn - und die Flasche, wenn du möchtest! Ich will nur sagen können, dass diese Lippen einmal das Beste gekostet haben, was die Ixamitl-Ebenen zu bieten haben.</DefaultText>
+      <DefaultText>„Ich bezahle dich! Ich schwöre es. Wir teilen meinen Lohn – und die Flasche, wenn du möchtest! Ich will nur sagen können, dass diese Lippen einmal das Beste gekostet haben, was die Ixamitl-Ebenen zu bieten haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Ihm die Flasche geben.] „'Hinter Schloss und Riegel' war untertrieben.“</DefaultText>
+      <DefaultText>[Ihm die Flasche geben.] „‚Hinter Schloss und Riegel‘ war untertrieben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,7 +473,7 @@ Du wirst am Boden festgehalten und über der bläst der Wind glühende Asche hin
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>„Hmm? „... Oh.“ Reyfald errötet. „Ja, ja, gut, das habe ich verdient. Weißt du, ich darf das Gasthaus eine Weile nicht betreten, also&#160;… Denk einfach darüber nach, ja? Mehr verlange ich nicht.“</DefaultText>
+      <DefaultText>„Hmm? … Oh.“ Reyfald errötet. „Ja, ja, gut, das habe ich verdient. Weißt du, ich darf das Gasthaus eine Weile nicht betreten, also&#160;… Denk einfach darüber nach, ja? Mehr verlange ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>[Ihm die Schnapsflasche geben.] Hier. Haeferic hat sie mir gegeben, weil ich die Batterie geöffnet habe.“</DefaultText>
+      <DefaultText>[Ihm die Schnapsflasche geben.] „Hier. Haeferic hat sie mir gegeben, weil ich die Batterie geöffnet habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,7 +816,7 @@ Er sticht sich versehentlich mit einem Finger in sein Auge, schreit auf und bede
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>„Wir überleben hier draußen ohnehin kein weiteres Jahr mehr. Wozu sollte ich meine Haut riskieren, um Oger zu vertreiben, wenn - verzeih mir - doch die Gestandenen das Problem sind. Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist&#160;…</DefaultText>
+      <DefaultText>„Wir überleben hier draußen ohnehin kein weiteres Jahr mehr. Wozu sollte ich meine Haut riskieren, um Oger zu vertreiben, wenn – verzeih mir – doch die Gestandenen das Problem sind. Ich weiß nicht, warum Haeferic immer noch sauer auf mich ist&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

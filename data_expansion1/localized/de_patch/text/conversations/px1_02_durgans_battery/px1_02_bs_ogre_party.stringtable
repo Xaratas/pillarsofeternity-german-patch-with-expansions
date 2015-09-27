@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>„Vernichtet ihn!“</DefaultText>
-      <FemaleText>„Vernichtet sie!“/FemaleText>
+	  <FemaleText>„Vernichtet sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -30,4 +30,4 @@
       <FemaleText />
     </Entry>
   </Entries>
-</StringTableFile>
+</StringTableFile>

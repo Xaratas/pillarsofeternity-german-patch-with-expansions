@@ -341,7 +341,7 @@ Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme F�
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Das ist ein&#160;…“, die Priesterin verschränkt die Arme und tritt auf der Stelle, „... häufiger Irrglaube“.</DefaultText>
+      <DefaultText>„Das ist ein&#160;…“, die Priesterin verschränkt die Arme und tritt auf der Stelle, „… häufiger Irrglaube.“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,9 +356,9 @@ Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme F�
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Das hat er. Er hat erkannt, dass nur die Göttin ihm und anderen in seiner Lage solchen Trost spenden kann.
+      <DefaultText>„Das hat er. Er hat erkannt, dass nur die Göttin ihm und anderen in seiner Lage solchen Trost spenden kann.“
 
-„Es wurde ihm erklärt, dass vielen später Zweifel kommen. Dass man aber eine Gabe, die man einer Göttin dargeboten hat, nicht zurücknehmen kann.
+„Es wurde ihm erklärt, dass vielen später Zweifel kommen. Dass man aber eine Gabe, die man einer Göttin dargeboten hat, nicht zurücknehmen kann.“
 
 „Mit der Zeit schwinden die Erinnerungen und die Leute erkennen die Weisheit ihrer Entscheidung.“</DefaultText>
       <FemaleText />
@@ -420,7 +420,7 @@ Sie bemerkt ihren Fauxpas und ihre Stimme nimmt wieder eine weiche, angenehme F�
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Ich gebe es ungern zu, aber Ixtli ist mit Opfergaben an die Göttin aufgebrochen, und nur Gabenbringer wissen, wo diese fortgeworfen werden.“</DefaultText>
+      <DefaultText>„Ich gebe es ungern zu, aber Ixtli ist mit Opfergaben an die Göttin aufgebrochen, und nur Gabenbringer wissen, wo diese fortgeworfen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,7 +474,7 @@ Die Priesterin umklammert das Notizbuch fest mit ihren Händen.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„... Also sollst du es haben.“ Die Miene der Priesterin verhärtet sich und sie wirft dir das Notizbuch achtlos zu.</DefaultText>
+      <DefaultText>„… Also sollst du es haben.“ Die Miene der Priesterin verhärtet sich und sie wirft dir das Notizbuch achtlos zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
