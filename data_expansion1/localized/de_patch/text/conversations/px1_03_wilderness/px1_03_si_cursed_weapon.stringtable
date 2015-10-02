@@ -211,7 +211,7 @@ Als du die Klinge ansiehst, siehst du eine neue Inschrift in dem Metall aufleuch
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Gerade, als der Atem von [Specified 0] sich beruhigt und die Kakophonie nachlässt, wird jedoch der arm von [Specified 0] nach vorne gezogen.
+      <DefaultText>Gerade, als der Atem von [Specified 0] sich beruhigt und die Kakophonie nachlässt, wird jedoch der Arm von [Specified 0] nach vorne gezogen.
 
 Es fühlt sich plötzlich an, als würde [Specified 0] eine schwere - und schmerzhafte - Last tragen.
 
@@ -237,7 +237,7 @@ Es fühlt sich plötzlich an, als würde [Specified 0] eine schwere - und schmer
       <ID>38</ID>
       <DefaultText>Als [Specified 0] aber versucht, den Panzerbrecher loszulassen, bleibt er an der Hand von [Specified 0] kleben. Etwas in der Waffe umklammert die Seele von [Specified 0] und bindet sich an sie.
 
-Auf der Klinge leuchtet eine Inschrift aus.</DefaultText>
+Auf der Klinge leuchtet eine Inschrift auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
