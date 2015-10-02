@@ -18,7 +18,7 @@ Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewo
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Ein Seil um deine Hüften binden und es an einem Anker befestigen.</DefaultText>
+      <DefaultText>[Ein Seil um deine Hüften binden und es an einem Anker befestigen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@ Du suchst dir einen sicheren Fußtritt in der Felswand und steigst weiter hinab.
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Du suchst Schutz in der Nische und bist froh, deine arme kurz ausruhen zu können. Es vergehen mehrere lange Augenblicke, ehe der Wind endlich nachlässt.</DefaultText>
+      <DefaultText>Du suchst Schutz in der Nische und bist froh, deine Arme kurz ausruhen zu können. Es vergehen mehrere lange Augenblicke, ehe der Wind endlich nachlässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@ Du suchst dir einen sicheren Fußtritt in der Felswand und steigst weiter hinab.
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Du packst den Mann und ziehst ihn hoch. Er klammert sich mit seinen Armen um dich. Bröckel von dem Vorsprung fallen in die Tiefe unter euch.</DefaultText>
+      <DefaultText>Du packst den Mann und ziehst ihn hoch. Er klammert sich mit seinen Armen an dich. Bröckel von dem Vorsprung fallen in die Tiefe unter euch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,7 +432,7 @@ In verzweifelter Panik ergreifst du das Seil und bremst damit deinen eigenen Fal
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Du sicherst deinen Mann wieder auf deinem Rücken und kletterst weiter hinauf.</DefaultText>
+      <DefaultText>Du sicherst den Mann wieder auf deinem Rücken und kletterst weiter hinauf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -534,7 +534,7 @@ Es ertönt ein dumpfer Schlag, als er ausrutscht, dann das Knacken von Eis&#160;
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[Slot 0] ergreift das Seil fest und klettert vorsichtig hinab zu dem Vorsprung.</DefaultText>
+      <DefaultText>[Specified 0] ergreift das Seil fest und klettert vorsichtig hinab zu dem Vorsprung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,7 +585,7 @@ Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <DefaultText>[Die Umgebung untersuchen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
