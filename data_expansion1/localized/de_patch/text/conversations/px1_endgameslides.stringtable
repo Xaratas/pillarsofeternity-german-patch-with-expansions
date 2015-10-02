@@ -53,7 +53,7 @@ Als Stalwart seine Minen schließlich eröffnete, waren in der Umgebung schon ei
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Mit ihrer neu gewonnenen Energie sorgte Taena dafür, dass die Minen von Stalwart schneller wieder eröffnet wurden, als man hoffen konnte. Als sich die Kunde von Durgans Batterie verbreitete, kamen Kunsthandwerker und Schmiede von nah und fern, angelockt von den Erzvorräten des Dorfs. Ihr Geld teerte breite Straßen, baute robuste Mauern und schenkte den Bürgern von Stalwart neue Hoffnung.</DefaultText>
+      <DefaultText>Mit ihrer neu gewonnenen Energie sorgte Taena dafür, dass die Minen von Stalwart schneller wieder eröffnet wurden, als man hoffen konnte. Als sich die Kunde von Durgans Batterie verbreitete, kamen Kunsthandwerker und Schmiede von nah und fern, angelockt von den Erzvorräten des Dorfs. Ihr Geld baute breite Straßen, errichtete robuste Mauern und schenkte den Bürgern von Stalwart neue Hoffnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,14 +111,14 @@ Sie nahm ihre Suche nach den Männern und Frauen wieder auf, die Kaltmorg nieder
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>wanderte sie über die Berge, über Readceras hinaus und in die weiten Ebenen von Ixamitl. Sie hatte vergessen, wie es war, ohne ein Ziel im Sinn einfach zu reisen. 
+      <DefaultText>Sie wanderte über die Berge, über Readceras hinaus und in die weiten Ebenen von Ixamitl. Sie hatte vergessen, wie es war, ohne ein Ziel im Sinn einfach zu reisen. 
 
 Zwar spürte sie nichts als das regelmäßige Stampfen ihrer Füße auf der Straße, doch der endlose Horizont und die grünen Wiesen waren ihr neu. Sie maß die Zeit an dem zunehmenden Rost an ihrem Körper und war zufrieden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Doch während sie jagte und tötete lag ihr die Sinnlosigkeit ihres Tuns wie eine immer größer werdende Kugel Blei im Magen. Ihre Bewegungen wurden steif und träge und ihr Eifer verließ sie. 
+      <DefaultText>Doch während sie jagte und tötete, lag ihr die Sinnlosigkeit ihres Tuns wie eine immer größer werdende Kugel Blei im Magen. Ihre Bewegungen wurden steif und träge und ihr Eifer verließ sie. 
 
 Eines Tages wurde sie in Maidenfall von den Dorfbewohnern umzingelt. Während sie versuchte, sich zu wehren, spürte sie plötzlich, wie ihre Arme steif wurden und ihre Beine unter ihr nachgaben. 
 
@@ -127,7 +127,7 @@ Die Dorfbewohner zerrissen ihren Körper und zerschlugen seine einzelnen Teile. 
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Ihre Bewegungen wurden langsamer, aber das wurde auch die Welt um sie herum. Hüfthohes Gras wankte und wogte im Wind, so gemächlich wie die Gezeiten. Spatzen und Elstern ziehen am Himmel entlang, jeder Flügelschlag ein feierlicher Gruß.
+      <DefaultText>Ihre Bewegungen wurden langsamer, aber das wurde auch die Welt um sie herum. Hüfthohes Gras wankte und wogte im Wind, so gemächlich wie die Gezeiten. Spatzen und Elstern zogen am Himmel entlang, jeder Flügelschlag ein feierlicher Gruß.
 
 Sie konnte sich kaum mehr bewegen, als sie etwas fand, was sie noch nie zuvor gesehen hatte - das Meer. Mit letzter Kraft zog sie sich in die Wellen, glücklich, endlich die Bewegungen der Wogen und die Liebkosungen der Wellen zu spüren.</DefaultText>
       <FemaleText />
