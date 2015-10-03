@@ -715,34 +715,34 @@ Er verzieht verächtlich das Gesicht ob dieser schmächlichen Formulierung. Sein
       <DefaultText />
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>248</ID>
-      <DefaultText />
+      <DefaultText>„Gellarde. Du hast endlich die Batterie geöffnet.“ Er hält ein Glas mit Wein und schenkt dir ein schiefes Grinsen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText />
+      <DefaultText>„Ich würde einen Toast auf deinen Erfolg aussprechen, wurde es nicht bedeuten, dass ganz Stalwart an meiner Türschwelle steht.“ Er schüttet den Rest im Glas zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText />
+      <DefaultText>Galvino hält eine offene Weinflasche an ihrem Hals fest. Er steht wackeling auf seinen Beinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText />
+      <DefaultText>„Ich habe einen Krach gehört, als wären Berge eingestürzt. Ich rannte los, um durch's Fenster zu schauen&#160;…“ Er zeigt unsicher auf das weit entfernte Ende seiner Werkstatt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText />
+      <DefaultText>„Großartig. Die Feuer glühen von unten&#160;…“ Er schüttelt seinen Kopf, und Tränen fließen aus seinen Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText />
+      <DefaultText>„Und diese Dorftrottel können jeden Tag hier sein.“ Er nimmt einen weiteren Schluck aus seiner Flasche.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
