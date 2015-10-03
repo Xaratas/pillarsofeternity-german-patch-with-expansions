@@ -1010,9 +1010,11 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
       <DefaultText>Sie nickt dir zu. „Etwas Besseres als Durganstahl gibt es schließlich nicht. Wenn du ihn in deine bestehende Ausrüstung einschmieden kannst, besitzt du wahrlich mächtige Gegenstände.“</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>254</ID>
-      <DefaultText />
+      <DefaultText>"Und hier - ich habe sie gespart. Einige der letzten Edelsteine, die wir gefunden haben, bevor wir die Minen schließen mussten. Mit etwas Glück können wir sie bald wieder öffen." 
+
+Sie gibt dir einen kleinen Beutel. Edelsteine glitzern in ihm.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
