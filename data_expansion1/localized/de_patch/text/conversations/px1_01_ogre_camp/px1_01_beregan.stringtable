@@ -266,7 +266,7 @@ Einer der Oger neben Beregan murmelt ihr etwas ins Ohr.</DefaultText>
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„Träume. Hagelkörner, die wie Kanonenkugeln von den Zinnen fällen. Ein Frostwind, der durch die Turmtür kreischt.“ Ihre Nägel pflügen Furchen durch ihre seildicken Haare, wodruch ein roter Flech auf ihrer Kopfhaut entsteht. 
+      <DefaultText>„Träume. Hagelkörner, die wie Kanonenkugeln von den Zinnen fällen. Ein Frostwind, der durch die Turmtür kreischt.“ Ihre Nägel pflügen Furchen durch ihre seildicken Haare, wodurch ein roter Fleck auf ihrer Kopfhaut entsteht. 
 
 Schließlich verklingt ihr Knurren und ihr Atem wird langsamer. Sie blickt dich mit blutroten Augen an.</DefaultText>
       <FemaleText />
@@ -305,7 +305,7 @@ Die Oger-Matronin beschnüffelt dich mit Nüstern so groß und dunkel wie Pistol
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Und doch kommen sie mit Waffen in den Händen und vergießen das Blut meines Volkes.“ Drahtige schwarze Haare stehen an ihren Armen und ihrem Hals auf.</DefaultText>
+      <DefaultText>„Und doch kommen sie mit Waffen in den Händen und vergießen das Blut meines Volkes.“ Drahtige schwarze Haare richten sich an ihren Armen und ihrem Hals auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Sie schnaubt. „'Umgesehen'. Die einzigen Gestanden, die sich hier 'umsehen', sind Sklavenhändler, Schmuggler und Narren, die nach der alten Zwergenfestung suchen.“</DefaultText>
+      <DefaultText>Sie schnaubt. „'Umgesehen'. Die einzigen Gestandenen, die sich hier 'umsehen', sind Sklavenhändler, Schmuggler und Narren, die nach der alten Zwergenfestung suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

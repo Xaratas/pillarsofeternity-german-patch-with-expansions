@@ -671,7 +671,7 @@ Er spielt den unterbrochenen Hieb vor.</DefaultText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Sie hätten vielleicht großartige Nalpazca-Krieger abgegeben, während sie nur als Tacan geboren worden.“</DefaultText>
+      <DefaultText>„Sie hätten vielleicht großartige Nalpazca-Krieger abgegeben, wären sie nur als Tacan geboren worden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -993,7 +993,7 @@ Er hebt die Augenbraue.</DefaultText>
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>„Ihre Mut reichte letztlich nicht aus.“
+      <DefaultText>„Ihr Mut reichte letztlich nicht aus.“
 
 Er seufzt.</DefaultText>
       <FemaleText />

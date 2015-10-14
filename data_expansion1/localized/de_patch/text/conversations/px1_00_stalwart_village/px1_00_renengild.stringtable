@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_renengild</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>196</EntryCount>
+  <EntryCount>197</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -120,7 +120,7 @@ Einen Augenblick lang flackert ihr Blick zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„So sei es. Obwohl ich vorschlagen wollte, dass du dich zuerst um das Ogerlager kümmerst.“ Sie presst ihre dünnen Lippen eng zusammen.</DefaultText>
+      <DefaultText>„So ist es. Obwohl ich vorschlagen wollte, dass du dich zuerst um das Ogerlager kümmerst.“ Sie presst ihre dünnen Lippen eng zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,7 +289,7 @@ Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Renengild seufzt tief. „Es ist dein Kopf, [Player Name]?“</DefaultText>
+      <DefaultText>Renengild seufzt tief. „Es ist dein Kopf, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@ Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„Es lohnt nicht, darüber nachzudenken. Es rankt sich ohnehin schon zu viel Aberglaube um den Ort.“ Sie beschreibt mit ihrer verkümmerten Hand einen großen Halbkreis, ihrem Blick ausweichend.</DefaultText>
+      <DefaultText>„Es lohnt nicht, darüber nachzudenken. Es rankt sich ohnehin schon zu viel Aberglaube um den Ort.“ Sie beschreibt mit ihrer verkümmerten Hand einen großen Halbkreis und weicht deinem Blick aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,7 +419,7 @@ Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Nicht, weil man es nicht versucht hätte. Ungeahnte Schätze in Durganstahl schlummern darin, von der Weißen Esse selbst ganz abgesehen.“</DefaultText>
+      <DefaultText>„Nicht, weil man es nicht versucht hätte. Ungeahnte Schätze aus Durganstahl schlummern darin, von der Weißen Esse selbst ganz abgesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@ Vor Begeisterung tritt Renengild auf der Stelle. Sie stützt einen Arm auf den a
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„Genug. Sie ist verschwunden.“ Sie hält eine Hand hoch, an der das letzte Glied des Ringfingers fehlt. Aber es ist ihre Stimme, scharf und kalt, die den jungen Mann verstummen lässt.
+      <DefaultText>„Genug. Sie sind verschwunden.“ Sie hält eine Hand hoch, an der das letzte Glied des Ringfingers fehlt. Aber es ist ihre Stimme, scharf und kalt, die den jungen Mann verstummen lässt.
 
 Während er grimmig auf seine Zehen starrt, wendet sie sich dir zu. Sie hat dunkle Ringe unter den Augen und ein steifes Grinsen auf den dünnen Lippen.</DefaultText>
       <FemaleText />
@@ -740,7 +740,7 @@ Sie verschränkt die Arme und wippt auf den Fersen.</DefaultText>
       <ID>198</ID>
       <DefaultText>Du siehst eine Frau mittleren Alters und einen jüngeren Mann, die miteinander streiten. Beide tragen blutige und schmutzige Kleidung.
 
-Der junge Mann wendet sich zu der Frau um. Unter seinem eigenen Auge ist eine frische Platzwunde zu sehen.</DefaultText>
+Der junge Mann wendet sich zu der Frau um. Unter seinem Auge ist eine frische Platzwunde zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -847,7 +847,7 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>„Was für eine Zeit das für die Weißmark gewesen sein muss! “</DefaultText>
+      <DefaultText>„Was für eine Zeit das für die Weißmark gewesen sein muss!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -877,7 +877,7 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>„Wenn man sich daraus eine Rüstung machen lässt, geben die Leute es bestimmt bald auf, einen zu erstechen zu versuchen.“</DefaultText>
+      <DefaultText>„Wenn man sich daraus eine Rüstung machen lässt, geben die Leute es bestimmt bald auf, einen erstechen zu wollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1008,6 +1008,13 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
     <Entry>
       <ID>253</ID>
       <DefaultText>Sie nickt dir zu. „Etwas Besseres als Durganstahl gibt es schließlich nicht. Wenn du ihn in deine bestehende Ausrüstung einschmieden kannst, besitzt du wahrlich mächtige Gegenstände.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Und hier - ich habe sie gespart. Einige der letzten Edelsteine, die wir gefunden haben, bevor wir die Minen schließen mussten. Mit etwas Glück können wir sie bald wieder öffen." 
+
+Sie gibt dir einen kleinen Beutel. Edelsteine glitzern in ihm.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

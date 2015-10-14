@@ -550,8 +550,8 @@ Er räuspert sich. „Aber konzentrieren wir uns auf den Grund deines Besuchs, j
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Haha, der Bursche gefällt mir.“</DefaultText>
-      <FemaleText>„Haha, das Weib gefällt mir.“</FemaleText>
+      <DefaultText>"Haha, das Weib gefällt mir."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>

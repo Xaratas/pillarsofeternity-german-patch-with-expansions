@@ -14,14 +14,18 @@
       <DefaultText>„Keinen Schritt weiter, Aptapo. Du bist kein Pargrun. Gewiss bist du einer dieser Händler und willst mit Zoltun sprechen.“
 
 Es folgt eine Pause, in der die zornige Essenz der Frau sich wie eine Gewitterwolke auf der anderen Seite der Tür zusammenballt. Der gesamte Raum knarzt unter dem Druck ihrer Präsenz.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Keinen Schritt weiter, Aptapo. Du bist keine Pargrun. Gewiss bist du eine dieser Händlerinnen und willst mit Zoltun sprechen.“
+
+Es folgt eine Pause, in der die zornige Essenz der Frau sich wie eine Gewitterwolke auf der anderen Seite der Tür zusammenballt. Der gesamte Raum knarzt unter dem Druck ihrer Präsenz.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>„Keinen Schritt weiter, [Player Race]. Gewiss bist du einer dieser Händler und willst mit Zoltun sprechen.“
 
 Es folgt eine Pause, in der die zornige Essenz der Frau sich wie eine Gewitterwolke auf der anderen Seite der Tür zusammenballt. Der gesamte Raum knarzt unter dem Druck ihrer Präsenz.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Keinen Schritt weiter, [Player Race]. Gewiss bist du eine dieser Händlerinnen und willst mit Zoltun sprechen.“
+
+Es folgt eine Pause, in der die zornige Essenz der Frau sich wie eine Gewitterwolke auf der anderen Seite der Tür zusammenballt. Der gesamte Raum knarzt unter dem Druck ihrer Präsenz.</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>

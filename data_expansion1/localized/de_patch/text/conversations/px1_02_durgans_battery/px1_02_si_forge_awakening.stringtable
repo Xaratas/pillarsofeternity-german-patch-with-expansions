@@ -26,27 +26,27 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Die Steinscheibe in den Hohlraum unter dem Amboss einsetzen.]</DefaultText>
+      <DefaultText>[Die Steinscheibe in den Hohlraum hinter dem Becken einsetzen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Der Drachenschädel blickt mit hohlen Augen auf dich hinab. In beide Augenhöhlen sind goldene Ringe eingelassen. Beide sind leer. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <DefaultText>Der Drachenschädel blickt mit hohlen Augen auf dich hinab. In beide Augenhöhlen sind goldene Ringe eingelassen. Beide sind leer. Im Becken am Fuß des Ofens bemerkst du eine rechteckige Aussparung, als hätte sich dort einmal etwas befunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das rechte, geformt aus einer strahlenden Adrakugel. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das rechte, geformt aus einer strahlenden Adrakugel. Im Becken am Fuß des Ofens bemerkst du eine rechteckige Aussparung, als hätte sich dort einmal etwas befunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das linke, geformt aus einer strahlenden Adrakugel. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <DefaultText>Der Drachenschädel besitzt ein einzelnes Auge, das linke, geformt aus einer strahlenden Adrakugel. Im Becken am Fuß des Ofens bemerkst du eine rechteckige Aussparung, als hätte sich dort einmal etwas befunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Der Drachenschädel sieht mit brennendem roten Blick auf dich hinab, seine Augen sind wiederhergestellt. Am Fuß des Amboss bemerkst du eine Aushöhlung, als hätte sich dort einmal etwas befunden.</DefaultText>
+      <DefaultText>Der Drachenschädel sieht mit brennendem roten Blick auf dich hinab, seine Augen sind wiederhergestellt. Im Becken am Fuß des Ofens bemerkst du eine rechteckige Aussparung, als hätte sich dort einmal etwas befunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Du legst die Steinscheibe in den Amboss. Sie passt perfekt in die Aushöhlung. Vor deinen Augen dreht die Scheibe sich von alleine, hierhin und dorthin, ehe sie schließlich einrastet.</DefaultText>
+      <DefaultText>Du legst die Steinscheibe in das Becken. Sie passt perfekt in die Aussparung. Vor deinen Augen dreht die Scheibe sich von alleine, hierhin und dorthin, ehe sie schließlich einrastet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

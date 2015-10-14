@@ -30,7 +30,7 @@ Es ist ein Relief, das eine Mauer mit Zinnen zeigt - und darüber eine Vertiefun
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[An der Tür drücken.]</DefaultText>
+      <DefaultText>[Gegen die Tür drücken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@ Es ist ein Relief, das eine Mauer mit Zinnen zeigt - und darüber eine Vertiefun
       <ID>17</ID>
       <DefaultText>Als du näher hinsiehst, erkennst du, dass die ambossförmige Vertiefung seltsam stumpf und glatt ist, als wäre sie den Elementen noch nicht lange ausgesetzt gewesen. 
 
-Du vermutest, dass sie bis vor kurzem noch mit etwas gefüllt war.</DefaultText>
+Du vermutest, dass sich bis vor kurzem etwas darin befand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,7 +284,7 @@ Der Zahn der Zeit hat im Laufe der Jahrhunderte an dem Relief genagt, aber das M
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Als du näher hinsiehst, erkennst du, dass die ambossförmige Vertiefung seltsam stumpf und glatt hat, als wäre sie den Elementen noch nicht lange ausgesetzt gewesen. 
+      <DefaultText>Als du näher hinsiehst, erkennst du, dass die ambossförmige Vertiefung seltsam stumpf und glatt ist, als wäre sie den Elementen noch nicht lange ausgesetzt gewesen. 
 
 Der Tiefe der Einkerbung nach zu urteilen scheint es sich um einen Sockel für eine Kachel oder ein Relief zu handeln.
 
@@ -293,7 +293,7 @@ Außerdem siehst du, dass neben dem Ambosssockel mit der Zeit Rillen entstanden 
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Als du näher hinsiehst, erkennst du, dass die ambossförmige Vertiefung seltsam stumpf und glatt hat, als wäre sie den Elementen noch nicht lange ausgesetzt gewesen. 
+      <DefaultText>Als du näher hinsiehst, erkennst du, dass die ambossförmige Vertiefung seltsam stumpf und glatt ist, als wäre sie den Elementen noch nicht lange ausgesetzt gewesen. 
 
 Der Tiefe der Einkerbung nach zu urteilen scheint es sich um einen Sockel für eine Kachel oder ein Relief zu handeln.</DefaultText>
       <FemaleText />
@@ -314,7 +314,7 @@ Der Zahn der Zeit hat im Laufe der Jahrhunderte an dem Relief genagt, aber das M
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[An der Tür drücken.]</DefaultText>
+      <DefaultText>[Gegen die Tür drücken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
