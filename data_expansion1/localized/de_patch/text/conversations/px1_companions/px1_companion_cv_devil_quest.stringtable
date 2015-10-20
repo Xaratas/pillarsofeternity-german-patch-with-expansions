@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-	  <DefaultText>„Eisig kalt und grauenhaft nach Fisch stinkend.“
+      <DefaultText>„Eisig kalt und grauenhaft nach Fisch stinkend.“
 
 „Und das waren nur die Bewohner.“</DefaultText>
       <FemaleText />
@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Alles ist besser als Galvinos Werkstatt. Du hast den alten Bussard noch nicht singen hören.“ 
+      <DefaultText>„Alles ist besser als Galvinos Werkstatt. Du hast den alten Bussard noch nicht singen hören.“
 
 Sie dreht sich wieder weg.</DefaultText>
       <FemaleText />
@@ -308,7 +308,7 @@ Sie schüttelt den Kopf und verstummt.</DefaultText>
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„Dann möchte ich lieber nicht wissen, welches Urteil du mir zudenken würdest.“ 
+      <DefaultText>„Dann möchte ich lieber nicht wissen, welches Urteil du mir zudenken würdest.“
 
 Ein trockenes, metallisches Lachen hallt aus ihrer Kehle.</DefaultText>
       <FemaleText />
