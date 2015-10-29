@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>93</EntryCount>
+  <EntryCount>104</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -468,6 +468,61 @@
       <ID>96</ID>
       <DefaultText>Schaden vs. Flankiert II</DefaultText>
       <FemaleText />
-    </Entry>	
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Schwere Verbrennung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Systemversagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Erfrierung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Schwere Wunde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Bewusstlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Zephyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Gefäß</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Primitiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Wilder</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>
