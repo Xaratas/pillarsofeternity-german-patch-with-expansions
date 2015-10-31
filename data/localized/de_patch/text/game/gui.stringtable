@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2066</EntryCount>
+  <EntryCount>2092</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -8982,7 +8982,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>Alle Kämpfer spezialisieren sich auf eine Waffenkategorie. Jede Waffenspezialisierung-Gruppe deckt ein set von Nahkampf- und Fernkampfwaffen mit unterschiedlichen Schadensarten ab.</DefaultText>
+      <DefaultText>Alle Kämpfer spezialisieren sich auf eine Waffenkategorie. Jede Waffenspezialisierung-Gruppe deckt ein Set von Nahkampf- und Fernkampfwaffen mit unterschiedlichen Schadensarten ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10208,7 +10208,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2204</ID>
-      <DefaultText>{0} des erlittenen Schadens werden als {1} auf den Zauberwirker umgeleitet</DefaultText>
+      <DefaultText>{0} des erlittenen Schadens werden als {1}schaden auf den Zauberwirker umgeleitet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10338,7 +10338,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2243</ID>
-      <DefaultText>{0}, wenn mindestes {1} Schaden erzielt wurde</DefaultText>
+      <DefaultText>{0}, wenn mindestens {1} Schaden erzielt wurde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10408,12 +10408,22 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2257</ID>
-      <DefaultText>TEMP: Mastering a Spell allows an additional use of Once Per Encounter for that spell. For Wizards, Mastered Spells do not need to be in their grimoire in order to be cast.</DefaultText>
+      <DefaultText>Die Meisterung eines Zauberspruchs erlaubt eine freie Nutzung dieses Spruches einmal pro Begegnung. Gemeisterte Sprüche eines Zauberers müssen sich nicht im ihrem Zauberbuch befinden, um eine freie Nutzung zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2258</ID>
+      <DefaultText>Zugriff auf Rastboni Stufe {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2259</ID>
+      <DefaultText>Gewährt Erholung Stufe {0}</DefaultText>
+      <FemaleText />
+    </Entry>	
+    <Entry>
       <ID>2260</ID>
-      <DefaultText>{0}-pt {1} Schadensschild</DefaultText>
+      <DefaultText>{0}-PKT {1} Schadensschild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10430,6 +10440,126 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <ID>2263</ID>
       <DefaultText>Stelle die Deckkraft von Charakteren ein, wenn diese von der Umgebung verdeckt sind.</DefaultText>
       <FemaleText />
-    </Entry>	
+    </Entry>
+    <Entry>
+      <ID>2264</ID>
+      <DefaultText>Verteidigt von:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2267</ID>
+      <DefaultText>Die KI des Charakters wird weder Zaubersprüche noch Fähigkeiten einsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2268</ID>
+      <DefaultText>Tutorial Nachrichten ausschalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2269</ID>
+      <DefaultText>Ladefehler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2270</ID>
+      <DefaultText>Beim Laden der nächsten Karte ist ein Fehler aufgetreten. Kehre zum Hauptmenü zurück, um einen defekten Spielstand zu verhindern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2273</ID>
+      <DefaultText>Stiehlt {1} Zaubersprüche der Stufe {0} oder niedriger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2274</ID>
+      <DefaultText>{0} von {1} gestohlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2279</ID>
+      <DefaultText>Schadensschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2280</ID>
+      <DefaultText>Spielgeschwindigkeit ändern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2281</ID>
+      <DefaultText>Nächstes Menü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2283</ID>
+      <DefaultText>Nächste Fähigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2284</ID>
+      <DefaultText>Vorherige Fähigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2285</ID>
+      <DefaultText>Nächste Fähigkeitenreihe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2286</ID>
+      <DefaultText>Vorherige Fähigkeitenreihe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2287</ID>
+      <DefaultText>Fähigkeit wählen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2288</ID>
+      <DefaultText>Auswahl nach oben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2289</ID>
+      <DefaultText>Auswahl nach unten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2290</ID>
+      <DefaultText>Keine K.-o.-Verletzungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2291</ID>
+      <DefaultText>Wenn aktiviert, erleiden Gefährten keine K.-o.-Verletzungen, sollte ihre Ausdauer während des Kampfes auf 0 reduziert werden.</DefaultText>
+	  <FemaleText />
+    </Entry>	  
+    <Entry>
+      <ID>2294</ID>
+      <DefaultText>Vorheriges Menü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2302</ID>
+      <DefaultText>Durch Rasten erlangen deine Gefährten verlorene Lebensenergie zurück und erhalten einen Rastbonus. Ein Rastvorrat wird dabei aufgebraucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2303</ID>
+      <DefaultText>Hochstufige 'pro Begegnung' Zaubersprüche von Zauberern und Druiden sowie niedrigstufige 'pro Begegnung' Zaubersprüche von Priestern wurden durch Zauberbeherrschung ersetzt. Steigere die Stufe deiner Zauberwirker, um die entsprechenden Sprüche auszuwählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2304</ID>
+      <DefaultText>{1} Angreifer erhalten {0} Genauigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2305</ID>
+      <DefaultText>Entferne {0}</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>
