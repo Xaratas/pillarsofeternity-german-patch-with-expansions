@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px1_00_stalwart_village\px1_00_qst_stalwarts_vengeance</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>16</EntryCount>
+  <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -84,5 +84,10 @@
       <DefaultText>Ich habe Feara an Renengild verpfiffen. Renengild war mir dankbar, dass ich geholfen habe, den Schmugglern in den Bergen das Handwerk zu legen.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>	
   </Entries>
 </StringTableFile>
