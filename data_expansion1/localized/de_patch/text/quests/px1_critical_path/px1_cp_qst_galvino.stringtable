@@ -82,22 +82,54 @@ Das ist zwar recht einfach, aber es könnte unvorhersehbare Folgen für den Dorf
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Ich habe das Festungslied von Gregur gelernt, einem korrupten Wachhauptmann aus Durgans Batterie, dessen Seele in Owynna lebt. Die Erweckung scheint sie bereits verändert zu haben.</DefaultText>
+      <DefaultText>Ich habe das Festungslied von Gregur gelernt, einem korrupten Wachhauptmann aus Durgans Batterie, dessen Seele in Owynna lebt. Die Erweckung scheint sie bereits verändert zu haben.
+
+Die Verse des Liedes lauten:
+
+„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“
+
+„Die Mauern der Batterie schützen unser Werk vor Plünderern und Wildern gleichermassen.“
+
+„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Ich konnte Zenoves Intensität nutzen, ohne Taena zu überwältigen. Die alte Minenaufseherin scheint sogar eine neue Kraft gefunden haben.</DefaultText>
+      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Ich konnte Zenoves Intensität nutzen, ohne Taena zu überwältigen. Die alte Minenaufseherin scheint sogar eine neue Kraft gefunden haben.
+
+Die Verse des Liedes lauten:
+
+„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“
+
+„Die Mauern der Batterie schützen unser Werk vor Plünderern und Wildern gleichermassen.“
+
+„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Leider hat Zenove Taenas Körper übernommen und mich angegriffen&#160;… ich war gezwungen, sie zu töten.</DefaultText>
+      <DefaultText>Ich habe das Festungslied von Zenove gelernt, einer Zwergin, die in Durgans Batterie gelebt hat und gestorben ist. Leider hat Zenove Taenas Körper übernommen und mich angegriffen&#160;… ich war gezwungen, sie zu töten.
+
+Die Verse des Liedes lauten:
+
+„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“
+
+„Die Mauern der Batterie schützen unser Werk vor Plünderern und Wildern gleichermassen.“
+
+„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Die Frau, die ich finden musste, war bereits tot. Ich konnte das Festungslied aber von ihrer verweilenden Seele lernen.</DefaultText>
+      <DefaultText>Die Frau, die ich finden musste, war bereits tot. Ich konnte das Festungslied aber von ihrer verweilenden Seele lernen.
+
+Die Verse des Liedes lauten:
+
+„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“
+
+„Die Mauern der Batterie schützen unser Werk vor Plünderern und Wildern gleichermassen.“
+
+„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
