@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>404</EntryCount>
+  <EntryCount>407</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2022,6 +2022,21 @@
     <Entry>
       <ID>405</ID>
       <DefaultText>Du überzeugtest Iovara, dass ihre lange Haft nicht länger in ihrem Interesse war. Du löstest ihre Seele auf und trugst Sorge, dass sie keine weitere Umdrehung von Beraths Rad mehr erdulden muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Mit der Zeit kam die Zivilisation in die Lande, die du deine Heimat nanntest. Sie veränderte das Land und du wurdest entwurzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Doch alles kam zu einem jähen Ende, als Feuer über das Land fegte und alles zerstörte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Doch die Geduld der Einheimischen hatte Grenzen. So jagten sie dich schließlich aus deinem eigenen Land fort.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

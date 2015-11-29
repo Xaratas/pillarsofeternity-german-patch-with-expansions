@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_renengild</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>197</EntryCount>
+  <EntryCount>198</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1012,9 +1012,14 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>„Und hier - ich habe sie gespart. Einige der letzten Edelsteine, die wir gefunden haben, bevor wir die Minen schließen mussten. Mit etwas Glück können wir sie bald wieder öffen.“ 
+      <DefaultText>„Und hier - ich habe sie gespart. Ein paar der letzten Edelsteine, die wir gefunden haben, bevor wir die Minen schließen mussten. Mit etwas Glück können wir sie bald wieder öffen.“ 
 
 Sie gibt dir einen kleinen Beutel. Edelsteine glitzern in ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>„Die Leute in der Stadt reden. Es heißt, du hast das Tor der Batterie geöffnet.“ Sie nickt dir beeindruckt zu.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

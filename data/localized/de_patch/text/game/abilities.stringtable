@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1426</EntryCount>
+  <EntryCount>1452</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1436,12 +1436,12 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Der Kämpfer stürzt sich in die Schlacht und zieht einen Feind in unmittelbare Nahkampfentfernung.</DefaultText>
+      <DefaultText>Der Kämpfer stürzt sich in die Schlacht und zieht einen Feind in unmittelbare Nahkampfentfernung, fügt dabei Wuchtschaden zu und läßt ihn Benommen zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Stößt einen Feind mit enormer Kraft und zwingt ihn nieder (fügt den Niedergestreckt Effekt zu), wobei jedoch nur wenig Schaden verursacht wird.</DefaultText>
+      <DefaultText>Stößt einen Feind mit enormer Kraft und zwingt ihn nieder (fügt den Niedergestreckt Effekt zu) und teilt dabei zusätzlichen Schaden aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2601,7 +2601,7 @@
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Beschwört einen zerklüfteten Felsen aus dem Boden, der Feinden Stichschaden zufügt und sie zu Boden wirft (fügt den Niedergestreckt Effekt zu).</DefaultText>
+      <DefaultText>Beschwört einen zerklüfteten Felsen aus dem Boden, der Zielen Stichschaden zufügt und sie zu Boden wirft (fügt den Niedergestreckt Effekt zu).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,7 +4166,7 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen „kostenlosen“ Zauber aus dem Zauberbuch des anvisierten Zauberers, wodurch er einen Zauber der Stufe 3 oder niedriger bewirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
+      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen „kostenfreien“ Zauber aus dem Zauberbuch des anvisierten Zauberers, Druiden oder Priesters, wodurch er – für diesen Kampf – einen Zauber der Stufe 3 oder niedriger unbegrenzt wirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4791,7 +4791,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Führt dazu, dass eine Gruppe von Feinden umgehend einschläft und kurzzeitig Niedergestreckt werden.</DefaultText>
+      <DefaultText>Führt dazu, dass eine Gruppe von Feinden umgehend einschläft und kurzzeitig Bewusstlos werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6550,7 +6550,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Das Ziel wird mit der Wirkung Bewegungsunfähig belegt und wird zum Anker eines eiskalten Energiestrahls des Zauberers, der allen Feinden in seinem Pfad Frostschaden zufügt.</DefaultText>
+      <DefaultText>Das Ziel wird mit der Wirkung Bewegungsunfähig belegt und wird zum Anker eines eiskalten Energiestrahls des Zauberers, der allen Kreaturen in seinem Pfad Frostschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7157,6 +7157,136 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <ID>1601</ID>
       <DefaultText>Vernichtet Geister</DefaultText>
       <FemaleText />
-    </Entry>	
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Reserven anzapfen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1655</ID>
+      <DefaultText>Das Ziel kann von diesem Effekt nicht beeinflusst werden, doch andere Aspekte eines Angriffs könnten Wirkung zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1656</ID>
+      <DefaultText>Immunität: Geblendet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1657</ID>
+      <DefaultText>Immunität: Bezaubert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1658</ID>
+      <DefaultText>Immunität: Verwirrt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1659</ID>
+      <DefaultText>Immunität: Benommen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1660</ID>
+      <DefaultText>Immunität: Abgelenkt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1661</ID>
+      <DefaultText>Immunität: Beherrscht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Immunität: Flankiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1663</ID>
+      <DefaultText>Immunität: Verängstigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1664</ID>
+      <DefaultText>Immunität: Humpelnd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1665</ID>
+      <DefaultText>Immunität: Gelähmt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Immunität: Versteinert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Immunität: Niedergestreckt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Immunität: Erkrankt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Immunität: Bewegungsunfähig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Immunität: Betäubt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText>Immunität: Verschreckt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1672</ID>
+      <DefaultText>Immunität: Geschwächt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Immunität: Bewusstlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Immunität: Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Immunität: Krankheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>Heilt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>Der Priester nutzt Heiliger Glanz immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Leute unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
+	  <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1679</ID>
+      <DefaultText>Flinker Rückzug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1680</ID>
+      <DefaultText>Auszehrender Griff</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>

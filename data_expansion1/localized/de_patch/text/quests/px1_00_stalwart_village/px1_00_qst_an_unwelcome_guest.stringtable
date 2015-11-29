@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px1_00_stalwart_village\px1_00_qst_an_unwelcome_guest</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>24</EntryCount>
+  <EntryCount>25</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -125,6 +125,11 @@ Sie hat mich gebeten, ihn zurück auf die Straßen zu locken. Als Belohnung hat 
       <DefaultText>Ailef verdient es vielleicht nicht, als Sklave zu leben - aber er ist ein Mörder. Ich habe beschlossen, ihn als meinen Gefangenen zu nehmen. Zumindest ist er dann aus Haeferics Gasthaus fort.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Defala und Ailef sind beide tot.</DefaultText>
+      <FemaleText />
+    </Entry>	
     <Entry>
       <ID>40001</ID>
       <DefaultText>Der entflohene Sklave Ailef versteckt sich in der Gréfenrast in Stalwart. Er erbittet Hilfe dabei, vor seinen Verfolgern zu fliehen.</DefaultText>
