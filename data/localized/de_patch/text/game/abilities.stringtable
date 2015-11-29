@@ -4166,7 +4166,7 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen „kostenlosen“ Zauber aus dem Zauberbuch des anvisierten Zauberers, Druiden oder Priesters, wodurch er einen Zauber der Stufe 3 oder niedriger bewirken kann, der sich derzeit nicht in seinem Zauberbuch mit unbegrenzter Anzahl befindet.</DefaultText>
+      <DefaultText>Gewährt dem Zauberwirker „kostenfreien“ Zugriff auf einen Zauber aus dem Zauberbuch des anvisierten Zauberers, Druiden oder Priesters, wodurch er – für diesen Kampf – einen Zauber der Stufe 3 oder niedriger unbegrenzt oft wirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7160,7 +7160,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1642</ID>
-      <DefaultText>Erholung</DefaultText>
+      <DefaultText>Reserven anzapfen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7285,7 +7285,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1680</ID>
-      <DefaultText>Draining Touch</DefaultText>
+      <DefaultText>Auszehrender Griff</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

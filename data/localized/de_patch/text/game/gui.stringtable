@@ -10528,12 +10528,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2290</ID>
-      <DefaultText>Keine K.-o.-Verletzungen</DefaultText>
+      <DefaultText>Keine K. o. –Verletzungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>Wenn aktiviert, erleiden Gefährten keine K.-o.-Verletzungen, sollte ihre Ausdauer während des Kampfes auf 0 reduziert werden.</DefaultText>
+      <DefaultText>Wenn aktiviert, erleiden Gefährten keine K. o. –Verletzungen, sollte ihre Ausdauer während des Kampfes auf 0 reduziert werden.</DefaultText>
 	  <FemaleText />
     </Entry>	  
     <Entry>
