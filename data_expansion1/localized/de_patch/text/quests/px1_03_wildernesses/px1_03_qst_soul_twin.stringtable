@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px1_03_wildernesses\px1_03_qst_soul_twin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>11</EntryCount>
+  <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -15,6 +15,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde den jungen Mann aus der Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>10000</ID>
       <DefaultText>Ygadr kam auf der Suche nach seinem Seelenzwilling in die Weißmark, doch er wurde auf den einsamen Bergpässen getötet. Ich habe die letzten Fäden seiner Seele in der Wildnis östlich von Stalwart gefunden.</DefaultText>
       <FemaleText />
@@ -24,6 +29,13 @@
       <DefaultText>Ich habe die Überreste eines jungen Dyrwäldlers gefunden, der in die Weißmark gekommen war, um seinen Seelenzwilling zu suchen.
 
 Wer auch immer ihn getötet hat, hat nicht viel zurückgelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Als ich den Drachen tötete, sah ich eine flüchtige Vision eines jungen Mannes, der durch die Berge zieht.
+
+Wenn er noch dort ist, kann er mir vielleicht erklären, was all das zu bedeuten hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

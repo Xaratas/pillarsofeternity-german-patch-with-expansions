@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>302</EntryCount>
+  <EntryCount>304</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1651,6 +1651,16 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu 
     <Entry>
       <ID>321</ID>
       <DefaultText>Waffen mit der Eigenschaft 'Zauberchance' haben die Chance, die angegebene Fähigkeit bzw. den angegebenen Zauber auszulösen, meist bei einem Treffer oder einem Kritischen Treffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Bewusstlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Bewusstlose Charaktere können keine Aktionen durchführen. Die Gewandtheit ist auf 0 gefallen. Reflexe und Abwehr sind um 40 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

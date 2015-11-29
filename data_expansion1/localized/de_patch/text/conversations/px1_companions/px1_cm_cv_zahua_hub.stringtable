@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_companions\px1_cm_cv_zahua_hub</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>205</EntryCount>
+  <EntryCount>206</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -176,7 +176,7 @@ Unter Zahuas ruhigem Ausdruck beginnt eine tiefe Leidenschaft zu glühen wie ein
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Wir wir uns sehen, wie andere uns sehen, diese Dinge sind nicht real. Sie lassen sich nicht berühren.“</DefaultText>
+      <DefaultText>„Wie wir uns sehen, wie andere uns sehen, diese Dinge sind nicht real. Sie lassen sich nicht berühren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@ Zahuas Mund bewegt sich kaum, während er spricht.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„Du scheinst trotzdem gut zurecht gekommen zu sein.“</DefaultText>
+      <DefaultText>„Du scheinst trotzdem gut zurechtgekommen zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1091,6 +1091,11 @@ Er seufzt.</DefaultText>
     <Entry>
       <ID>224</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[Weggehen] „Das ist alles.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

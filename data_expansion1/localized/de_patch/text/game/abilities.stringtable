@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>213</EntryCount>
+  <EntryCount>276</EntryCount>
   <Entries>
     <Entry>
       <ID>1400</ID>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>1487</ID>
-      <DefaultText>Der Charakter hat einen Teil der intensiven Schmerzenstoleranz und spirituellen Macht erlernt, die Mönche besitzen. Seine unbewaffneten Angriffe richten größeren Schaden an und werden mit der Zeit immer stärker.</DefaultText>
+      <DefaultText>Der Charakter hat einen Teil der intensiven Schmerzenstoleranz und spirituellen Macht erlernt, die Mönche besitzen. Seine unbewaffneten Angriffe richten größeren Schaden an und werden mit der Zeit immer stärker. Hinweis: Novice's Suffering does not apply to a druid's Spiritshift form.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1036,22 +1036,22 @@
     </Entry>
     <Entry>
       <ID>1607</ID>
-	  <DefaultText>Verursacht den Geblendet Effekt für eine kurze Zeit.</DefaultText>
+      <DefaultText>Löst für kurze Zeit die Wirkung Geblendet aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1608</ID>
-	  <DefaultText>Verursacht den Benommen Effekt für eine kurze Zeit.</DefaultText>
+      <DefaultText>Löst für kurze Zeit die Wirkung Benommen aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1609</ID>
-	  <DefaultText>Verursacht den Gelähmt Effekt für eine kurze Zeit.</DefaultText>
+      <DefaultText>Löst für kurze Zeit die Wirkung Gelähmt aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1610</ID>
-	  <DefaultText>Verursacht den Versteinert Effekt für eine kurze Zeit.</DefaultText>
+      <DefaultText>Löst für kurze Zeit die Wirkung Versteinert aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1061,12 +1061,327 @@
     </Entry>
     <Entry>
       <ID>1612</ID>
-	  <DefaultText>Verursacht den Verwirrt Effekt für eine kurze Zeit.</DefaultText>
+	  <DefaultText>Löst für kurze Zeit die Wirkung Verwirrt aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1613</ID>
 	  <DefaultText>Erzeugt einen Strahl zwischen Zauberwirker und Ziel, verursacht dabei kontinuierlich Wuchtschaden an allen Feinden im Strahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1614</ID>
+      <DefaultText>Barbarische Vergeltung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1615</ID>
+      <DefaultText>Dazwischengehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1616</ID>
+      <DefaultText>Gestalt der Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>Der Lange Schmerz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>Abschwörung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>Symbol vom Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Symbol von Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Symbol von Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Symbol von Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>Symbol von Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>Symbol von Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>Schmauchspuren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Aufmerksamer Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Litanei Gegen Große Gebrechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Litanei Gegen Geringe Gebrechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText>Tod vortäuschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Caedebalds Schwarzbogen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Wilting Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>Schulterrempler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Her Embrace, The Walls of our Home</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1634</ID>
+      <DefaultText>Opportunist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1635</ID>
+      <DefaultText>Mauer der Vielen Farben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1636</ID>
+      <DefaultText>Kalakoth's Freezing Rake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1637</ID>
+      <DefaultText>Mercy and Kindness Followed Where'er She Walked</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>With All Your Strength Slay the Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Boil Their Flesh From Skin to Bone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Rejoice, My Comrades! Two Fingers of Daylight!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Called to His Bidding, the Ancient Instruments of Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Erholung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Llengrath's Superior Elemental Bulwark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1644</ID>
+      <DefaultText>Mauer der Vielen Farben - [FF0000]Rot![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>Mauer der Vielen Farben - [FB8000]Orange![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1646</ID>
+      <DefaultText>Mauer der Vielen Farben - [FFFF00]Gelb![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1647</ID>
+      <DefaultText>Mauer der Vielen Farben - [00FF00]Grün![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1648</ID>
+      <DefaultText>Mauer der Vielen Farben - [26b4fc]Blau![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1649</ID>
+      <DefaultText>Mauer der Vielen Farben - [0000FF]Indigo![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1650</ID>
+      <DefaultText>Mauer der Vielen Farben - [9c439f]Violett![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1651</ID>
+      <DefaultText>Ausgelöste Immunität</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1652</ID>
+      <DefaultText>Seht den Märtyrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1653</ID>
+      <DefaultText>Dörrend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1654</ID>
+      <DefaultText>Zephyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1655</ID>
+      <DefaultText>Das Ziel kann von diesem Effekt nicht beeinflusst werden, doch andere Aspekte eines Angriffs könnten Wirkung zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1656</ID>
+      <DefaultText>Immunität: Geblendet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1657</ID>
+      <DefaultText>Immunität: Bezaubert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1658</ID>
+      <DefaultText>Immunität: Verwirrt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1659</ID>
+      <DefaultText>Immunität: Benommen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1660</ID>
+      <DefaultText>Immunität: Abgelenkt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1661</ID>
+      <DefaultText>Immunität: Beherrscht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Immunität: Flankiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1663</ID>
+      <DefaultText>Immunität: Verängstigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1664</ID>
+      <DefaultText>Immunität: Humpelnd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1665</ID>
+      <DefaultText>Immunität: Gelähmt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Immunität: Versteinert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Immunität: Niedergestreckt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Immunität: Erkrankt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Immunität: Bewegungsunfähig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Immunität: Betäubt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText>Immunität: Verschreckt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1672</ID>
+      <DefaultText>Immunität: Geschwächt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Immunität: Bewusstlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>The companion of Concelhaut's skull has the ability to call upon the archmage's shade for assistance. While summoned, Concelhaut's visage will cast spells, but the summoner suffers Raw damage for the duration as the undead wizard drains their lifeforce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Immunität: Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Immunität: Krankheit</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

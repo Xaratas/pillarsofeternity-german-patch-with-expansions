@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_cv_reyfald</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>197</EntryCount>
+  <EntryCount>199</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1004,6 +1004,18 @@ Ich denke, wir können das Dorf retten, nachdem du für die Grundlage gesorgt ha
     <Entry>
       <ID>258</ID>
       <DefaultText>„Scham. Verlegenheit. Verzweiflung. Körperliche Beeinträchtigung. Ich muss nach dem Rezept fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>„Haeferic hatte wohl von Anfang an Recht. Nicht, dass er mir die Chance geben würde, ihm das zu sagen.“
+
+„Ein Jammer. Eigentlich müsste er feiern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>„Er hat da drin eine ganze Kiste voll mit Fennlan-Schnaps! Ich frage ihn immer wieder, ob er sie mir verkaufen will, aber er bleibt stur. Nur für besondere Gelegenheiten. Arschloch.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
