@@ -23,6 +23,10 @@ ScreenSelector.png
 *.tmp
 *.*~
 
+# Pakete unseres Helpers
+*.zip
+*.7z
+
 # wir sind die deutsche Version, und haben einen eigenen Ordner, also ignoriere alle Sprachen
 data/localized/de/
 data/localized/en/
