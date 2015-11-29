@@ -111,7 +111,7 @@ Wird die Verbindung zu einer seelengebundenen Waffe je gekappt, verliert sie all
     </Entry>
     <Entry>
       <ID>322</ID>
-	  <DefaultText>Alle Verteidigungen eines abgelenkten Ziels werden um 6 reduziert. Außerdem verliert es eine Angriffsbindung. Das heißt für die meißten Charactere, dass sie gar keinen Gegner festhalten können solange der Zustand andauert.</DefaultText>
+	  <DefaultText>Alle Verteidigungen eines abgelenkten Ziels werden um 6 reduziert. Außerdem verliert es eine Angriffsbindung. Das heißt für die meisten Charaktere, dass sie gar keinen Gegner festhalten können solange der Zustand andauert.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

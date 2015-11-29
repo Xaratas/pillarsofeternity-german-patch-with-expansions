@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_cv_flagon_innkeeper</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>125</EntryCount>
+  <EntryCount>126</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -675,6 +675,11 @@ Nach einigen Augenblicken wendet sich jeder wieder seinem Getränk zu&#160;… u
     <Entry>
       <ID>145</ID>
       <DefaultText>„Gemeinsam ist man stark, was? Wonach genau suchst du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>„Ich habe mich um Ailef gekümmert.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
