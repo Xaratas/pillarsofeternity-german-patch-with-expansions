@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 CURENT_PATH=$(pwd)
 cd translation_helper/
 rm -rf ./PillarsOfEternity_Data
@@ -7,13 +7,12 @@ cd ..
 # geht nur von eins weiter oben korrekt … versteh einer git
 git checkout-index -a --prefix=translation_helper/PillarsOfEternity_Data/
 cd translation_helper/
-
-# der zip Befehl geht so nicht in bin/bash
-7z a -tzip -mm=ppmd -mmem=256m -mo=16 -mx=9 -xr@exclude.lst with_expansion.zip PillarsOfEternity_Data/
-7z a -tzip -mm=ppmd -mmem=256m -mo=16 -mx=9 -xr@exclude.lst -xr!data_expansion1\* without_expansion.zip PillarsOfEternity_Data/
-
-7z a -t7z -m0=ppmd:mem=28:o=12 -mx=9 -bd -xr@exclude.lst with_expansion.7z PillarsOfEternity_Data/
-7z a -t7z -m0=ppmd:mem=28:o=12 -mx=9 -bd -xr@exclude.lst -xr!data_expansion1\* without_expansion.7z PillarsOfEternity_Data/
+echo "Packing zip:"
+7z a -tzip -mm=Deflate64 -mfb=257 -mpass=15 -mx=9 -xr@exclude.lst with_expansion.zip PillarsOfEternity_Data/ | awk '!/ing  /'
+7z a -tzip -mm=Deflate64 -mfb=257 -mpass=15 -mx=9 -xr@exclude.lst -xr!data_expansion1\* without_expansion.zip PillarsOfEternity_Data/ | awk '!/ing  /'
+echo "Packing 7z:"
+7z a -t7z -m0=ppmd:mem=28:o=12 -mx=9 -bd -xr@exclude.lst with_expansion.7z PillarsOfEternity_Data/ | awk '!/ing  /'
+7z a -t7z -m0=ppmd:mem=28:o=12 -mx=9 -bd -xr@exclude.lst -xr!data_expansion1\* without_expansion.7z PillarsOfEternity_Data/ | awk '!/ing  /'
 
 rm -rf ./PillarsOfEternity_Data
 cd $CURRENT_PATH
