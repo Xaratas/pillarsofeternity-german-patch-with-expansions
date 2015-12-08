@@ -6800,7 +6800,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1376</ID>
-      <DefaultText>Der Zähneknirschen und Brüllen der Nuitanri</DefaultText>
+      <DefaultText>Das Zähneknirschen und Brüllen der Nuitanri</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7035,7 +7035,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Bei diesem Verhalten gestaltwandelt der Druide, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzaubern ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken.</DefaultText>
+      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7050,7 +7050,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1527</ID>
-      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhphase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhephase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7105,7 +7105,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1538</ID>
-      <DefaultText>Wenn Pro Ruhephase aktivier ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
+      <DefaultText>Wenn Pro Ruhephase aktiviert ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7130,7 +7130,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Bliz, der direkt auf ein einzelnes Ziel springt und anschließend auf bis zu sechs Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
+      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Blitz, der direkt auf ein einzelnes Ziel springt und anschließend auf bis zu sechs Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,4 +1,7 @@
 */lib/*
+*/libs/*
+*/META-INF/*
+*/org/*
 */translation_helper/*
 *.gitignore*
 *.gitattributes*
