@@ -2720,7 +2720,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>531</ID>
-      <DefaultText>Du hast niemals Freiheit erfahren. Fesseln und Ketten haben deine Existenz gebunden und jemand hat dir dein ganzen Leben hinweg gesagt, was du zu tun hast.</DefaultText>
+      <DefaultText>Du hast niemals Freiheit erfahren. Fesseln und Ketten haben deine Existenz gebunden und jemand hat dir dein ganzes Leben hinweg gesagt, was du zu tun hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3295,7 +3295,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Durch den Ausbau des botanischen Gartens wird in der Schatzkammer deiner Festung jede Runde eine zufällige Pflanze generiert.Durch den Ausbau des botanischen Gartens wird in der Schatzkammer deiner Festung jede Runde eine zufällige Pflanze generiert.</DefaultText>
+      <DefaultText>Durch den Ausbau des botanischen Gartens wird in der Schatzkammer deiner Festung jede Runde eine zufällige Pflanze generiert. Durch den Ausbau des botanischen Gartens wird in der Schatzkammer deiner Festung jede Runde eine zufällige Pflanze generiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7020,7 +7020,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Fallen und Schlösser können selbst die zähesten Abenteurer vor Schwierigkeiten stellen, ihre Ressourcen leeren und sie sogar verstümmeln oder töten, wenn sie versehentlich auf einen versteckten Auslösemechanismus treten. Die Mechanik-Fähigkeit macht es leichter, Schlösser zu öffnen und Fallen zu finden und zu entschärfen. Darüber hinaus kann jeder Charakter seine Mechanik-Fähigkeit nutzen, um selbst Fallen zu legen. Je höher die Mechanik-Fähigkeit, desto höher die Genauigkeit der Falle. In Dialogen und geskripteten Interaktionen kann die Mechanik dazu dienen, Maschinen zu aktivieren oder zu deaktivieren.</DefaultText>
+      <DefaultText>Fallen und Schlösser können selbst die zähsten Abenteurer vor Schwierigkeiten stellen, ihre Ressourcen leeren und sie sogar verstümmeln oder töten, wenn sie versehentlich auf einen versteckten Auslösemechanismus treten. Die Mechanik-Fähigkeit macht es leichter, Schlösser zu öffnen und Fallen zu finden und zu entschärfen. Darüber hinaus kann jeder Charakter seine Mechanik-Fähigkeit nutzen, um selbst Fallen zu legen. Je höher die Mechanik-Fähigkeit, desto höher die Genauigkeit der Falle. In Dialogen und geskripteten Interaktionen kann die Mechanik dazu dienen, Maschinen zu aktivieren oder zu deaktivieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9022,7 +9022,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>Schurkenfähigkeiten verstärken Angriffe mit Fernkampf- oder Nahkampfwaffen. Viele verursachen Wirkungen, durch die der Schleichangriff des Schurke ermöglicht wird. Andere stärken den Schleichangriff des Schurken oder verleihen taktische Positionierungsfähigkeiten.</DefaultText>
+      <DefaultText>Schurkenfähigkeiten verstärken Angriffe mit Fernkampf- oder Nahkampfwaffen. Viele verursachen Wirkungen, durch die der Schleichangriff des Schurken ermöglicht wird. Andere stärken den Schleichangriff des Schurken oder verleihen taktische Positionierungsfähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9872,7 +9872,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>2018</ID>
-      <DefaultText>Ungenutze Punkte werden in die nächste Stufe übertragen</DefaultText>
+      <DefaultText>Ungenutzte Punkte werden in die nächste Stufe übertragen</DefaultText>
       <FemaleText />
     </Entry>
 	<Entry>
@@ -9968,7 +9968,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2112</ID>
-      <DefaultText>Klasseverhalten</DefaultText>
+      <DefaultText>Klassenverhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

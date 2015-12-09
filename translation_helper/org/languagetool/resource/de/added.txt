@@ -6,6 +6,8 @@ Ausdauerverluste	Ausdauerverlust	SUB:SIN:MAS:DAT
 Reservoiren	Reservoir	SUB:PLU:DRT
 zuzustürmen	zustürmen	VER:INF
 Auren	Aura	SUB:PLU:FEM
+Stoikerin	Stoiker	SUB:SIN:FEM
+Nahkampfangriffe	Nahkampfangriff	SUB:PLU:MAS
 # A POS tag dictionary that's used additionally to german.dict.
 # This does not add words to the spell checker, see hunspell/spelling.txt for that.
 # File Encoding: UTF-8
