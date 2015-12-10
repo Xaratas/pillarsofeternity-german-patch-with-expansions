@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Führt man eine einzige einhändige Nahkampfwaffe ohne Schild, wird auf jeden Angriff ein Genauigkeitbonus angewandt.</DefaultText>
+      <DefaultText>Führt man eine einzige einhändige Nahkampfwaffe ohne Schild, wird auf jeden Angriff ein Genauigkeitsbonus angewandt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Pillars of Eternity wurde in mehrere Sprachen übersetzt. Wenn du das Spiel in einer anderem Sprache spielen willst, kannst du im Optionsmenü die gewünschte Sprache auswählen.</DefaultText>
+      <DefaultText>Pillars of Eternity wurde in mehrere Sprachen übersetzt. Wenn du das Spiel in einer anderen Sprache spielen willst, kannst du im Optionsmenü die gewünschte Sprache auswählen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

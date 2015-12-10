@@ -98,7 +98,7 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
     </Entry>
     <Entry>
       <ID>1910</ID>
-      <DefaultText>Adra-Kugel</DefaultText>
+      <DefaultText>Adrakugel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
     </Entry>
     <Entry>
       <ID>1912</ID>
-      <DefaultText>Adra-Scheibe</DefaultText>
+      <DefaultText>Adrascheibe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,7 +334,7 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>1954</ID>
-      <DefaultText>Trank der Geringen arkanen Reflektion</DefaultText>
+      <DefaultText>Trank der Geringen arkanen Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -729,7 +729,7 @@ Ein Bürger von Guthoffnung, so heißt es, hat diesen Schild aus dem See der ver
     </Entry>
     <Entry>
       <ID>2024</ID>
-      <DefaultText>Dieses Zauberbuch ist voller Zaubersprüche, von denen einige recht neu aussehen, andere dagegen sehr, sehr alt. Eine knöcherne Skeletthand dient als Schließe für das Zauberbuch.</DefaultText>
+      <DefaultText>Dieses Zauberbuch ist voller Zaubersprüche, von denen einige recht neu aussehen, andere dagegen sehr, sehr alt. Eine knöcherne Skeletthand dient als Schließe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@ Am bemerkenswertesten waren vielleicht die 'Golems' - lebende Rüstungen, von Es
 
 Wir wussten, dass unsere Gastgeber uns - oder anderen neugierigen Reisenden - nie wieder gestatten würden, diesen Ort zu besuchen. So machten wir uns umfangreiche Notizen über alles, was wir sahen, und nahmen genauestens Maß. Wir verzichteten auf das Essen und das Schlafen, bis die Arbeit vollbracht war.
 
-Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weitertrieb. Denn wenn ein solcher Ort verlassen im Wald liegt&#160;… wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?“</DefaultText>
+Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weiter trieb. Denn wenn ein solcher Ort verlassen im Wald liegt&#160;… wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@ Antonino wurde zu einem erfolgreichen und gefürchteten Räuber - und zum Gegens
       <ID>2039</ID>
       <DefaultText>Das Elfenkönigreich von Kulklin lag fast zwei Jahrhunderte lang mit dem Reich Aedyr im Krieg, ehe die zwei Mächte sich zusammenschlossen. Während dieser Zeit wurden viele der heftigsten Konflikte am Rand des Cythwalds ausgetragen, wo die zwei Nationen aneinander grenzten.
 
-Die Elfen des Cythwalds nutzten den Urwald zu ihrem Vorteil und waren bald berüchtigt für ihre listenreichen und brutalen Taktiken. Nahkämpfer fällten Bäume hinter den Invasionstrupps der Aedyraner, während Druiden neue in ihrem Pfad wachsen ließen. So verwirrten sie den Feind und verlangsamten seinen Vormarsch. Oft paarten sie diese Manöver mit verheerenden, blitzschnellen Angriffen. Sie umzingelten verirrte Trupps und zerrten Nachzügler in den Wald. Vor allem aber waren sie dafür bekannt, ihre Opfer an den Baumen aufzuhängen, um weitere Angreifer abzuschrecken.
+Die Elfen des Cythwalds nutzten den Urwald zu ihrem Vorteil und waren bald berüchtigt für ihre listenreichen und brutalen Taktiken. Nahkämpfer fällten Bäume hinter den Invasionstrupps der Aedyraner, während Druiden neue in ihrem Pfad wachsen ließen. So verwirrten sie den Feind und verlangsamten seinen Vormarsch. Oft paarten sie diese Manöver mit verheerenden, blitzschnellen Angriffen. Sie umzingelten verirrte Trupps und zerrten Nachzügler in den Wald. Vor allem aber waren sie dafür bekannt, ihre Opfer an den Bäumen aufzuhängen, um weitere Angreifer abzuschrecken.
 
 Die Kulklin des Cythwalds waren schnell und verstanden es, in Windeseile ihre Angriffe zu improvisieren - auch, weil sie Alltagsgegenstände wie Äxte, Messer und Bögen als Kriegswaffen einsetzten. Äxte wie Wodewys wurden sowohl gegen Feinde als auch gegen Bäume eingesetzt.</DefaultText>
       <FemaleText />
@@ -901,7 +901,7 @@ Der Stab hielt die Versprechen des Zauberers. Doch auch nach monatelangen Übung
     </Entry>
     <Entry>
       <ID>2042</ID>
-      <DefaultText>Curoc war ein aedyranischer Adliger in Readceras, dem sechshundert Morgen Vorlas-Felder gehörten. Er hielt sich für einen frommen Mann, und unter seinen Nachbarn und Pächtern war er für seine Hingabe zu Woedica bekannt. Er schuftete an der Seite seiner Pächter und führte genau Buch über den Ernteertrag und den Verkauf. Er war aber auch für sein umbarmherziges Gemüt und seine Gnadenlosigkeit im Umgang mit Faulpelzen bekannt. Er trug einen Stock bei sich und prügelte wild auf jeden Arbeiter ein, den er beim Trödeln oder Ausruhen erwischte.
+      <DefaultText>Curoc war ein aedyranischer Adliger in Readceras, dem sechshundert Morgen Vorlas-Felder gehörten. Er hielt sich für einen frommen Mann, und unter seinen Nachbarn und Pächtern war er für seine Hingabe zu Woedica bekannt. Er schuftete an der Seite seiner Pächter und führte genau Buch über den Ernteertrag und den Verkauf. Er war aber auch für sein unbarmherziges Gemüt und seine Gnadenlosigkeit im Umgang mit Faulpelzen bekannt. Er trug einen Stock bei sich und prügelte wild auf jeden Arbeiter ein, den er beim Trödeln oder Ausruhen erwischte.
 
 Da er aber beim kaiserlichen Statthalter in der Gunst stand, wurde über sein Verhalten hinweggesehen.
 
@@ -926,7 +926,7 @@ Curoc ließ den qualmenden Stab fallen und floh, um dem Statthalter zu berichten
     </Entry>
     <Entry>
       <ID>2043</ID>
-      <DefaultText>Zauberzunge wurde in Rauatai als Duellwaffe geschmiedet und hat seitdem dutzende Male den Besitzer gewechselt. Ihre gespaltene Spitze, die gewellte Klinge und die blaue Farbe machten die Waffe äußerst beliebt bei Novizen, deren Selbstbewusstein oft ihr Können überstieg.
+      <DefaultText>Zauberzunge wurde in Rauatai als Duellwaffe geschmiedet und hat seitdem dutzende Male den Besitzer gewechselt. Ihre gespaltene Spitze, die gewellte Klinge und die blaue Farbe machten die Waffe äußerst beliebt bei Novizen, deren Selbstbewustsein oft ihr Können überstieg.
 
 Zuletzt befand Zauberzunge sich im Besitz von Matapa, einer jungen Frau aus einer der reichen Aumaua-Familien von Tongira. Mit der Klinge in der Hand verkündete sie ihren Eltern, dass sie in Tâkowa ihr Glück als Duellantin versuchen wollte. Ihre Eltern bemühten sich, sie davon abzubringen, doch ihr Entschluss stand fest. Schließlich beglückwünschten ihre Eltern sie zögerlich und gaben ein großes Festmahl zu ihren Ehren.
 
@@ -1000,7 +1000,7 @@ Als die Belagerung immer länger andauerte, ließ der Hafenmeister weitere Bogen
     </Entry>
     <Entry>
       <ID>2055</ID>
-      <DefaultText>Das Adra-Stück wurde in einen Stab gefasst und Fürstin Rügfald überreicht, einer der liebsten Höflinge des Fercönyngs. Fürstin Rügfald war eine talentierte Hobbymagierin und am Hof berüchtigt für ihre raffinierten aber prahlerischen Zauber. Der Grünstein-Stab aber sollte ihr Ende bedeuten - sie beschwor versehentlich eine Fäule. Die Kreatur wurde zwar schnell gebändigt, doch erst, nachdem sie die feinsten Gewänder der Gemahlin des Herrschers ruiniert hatte. Viele Historiker glauben, dass der eigentliche Grund für Fürstin Rügfalds Niedergang das amüsierte Lachen des Fercönyngs war, aber wie dem auch sei - der Schaden war geschehen und der Anstand gebot es, dass sie vom Hof entfernt wurde. Fürst und Fürstin Rügfald wurden in ein entlegenes, aber luxuriöses Anwesen in der jungen Kolonialhauptstadt Neu-Dunryd geschickt. Trotz der Proteste ihres Gemahls weigerte Fürstin Rügfald sich, den Grünstein-Stab abzugeben.</DefaultText>
+      <DefaultText>Das Adrastück wurde in einen Stab gefasst und Fürstin Rügfald überreicht, einer der liebsten Höflinge des Fercönyngs. Fürstin Rügfald war eine talentierte Hobbymagierin und am Hof berüchtigt für ihre raffinierten aber prahlerischen Zauber. Der Grünstein-Stab aber sollte ihr Ende bedeuten - sie beschwor versehentlich eine Fäule. Die Kreatur wurde zwar schnell gebändigt, doch erst, nachdem sie die feinsten Gewänder der Gemahlin des Herrschers ruiniert hatte. Viele Historiker glauben, dass der eigentliche Grund für Fürstin Rügfalds Niedergang das amüsierte Lachen des Fercönyngs war, aber wie dem auch sei - der Schaden war geschehen und der Anstand gebot es, dass sie vom Hof entfernt wurde. Fürst und Fürstin Rügfald wurden in ein entlegenes, aber luxuriöses Anwesen in der jungen Kolonialhauptstadt Neu-Dunryd geschickt. Trotz der Proteste ihres Gemahls weigerte Fürstin Rügfald sich, den Grünstein-Stab abzugeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1063,7 +1063,7 @@ Ich spüre die Gedanken deines Verstandes so genau, wie du eine Unruhe in deinem
     </Entry>
     <Entry>
       <ID>2066</ID>
-      <DefaultText>Ein knorriges Stück Holz umschließt ein leuchtendes Adra-Stück mit wurzelähnlichen Armen. Du weißt nicht warum, aber der Stab hallt in deiner Seele wider. Wenn du ihn in den Händen hältst, hörst du den Wind leise durch die Bäume streifen.</DefaultText>
+      <DefaultText>Ein knorriges Stück Holz umschließt ein leuchtendes Adrastück mit wurzelähnlichen Armen. Du weißt nicht warum, aber der Stab hallt in deiner Seele wider. Wenn du ihn in den Händen hältst, hörst du den Wind leise durch die Bäume streifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1238,7 +1238,7 @@ Deine Mitschüler bekämpfen sich gegenseitig, schmieden Intrigen. Nur du erkenn
       <ID>2095</ID>
       <DefaultText>Der Großteil der wenigen verbleibenden Seiten ist vom Schlamm ruiniert, aber gegen Ende des Tagebuchs kannst du noch einen Eintrag entziffern:
 
-„Folcsdag. Als ich heute morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
+„Folcsdag. Als ich heute Morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
 
 Gestern bin ich an einem Dorf vorbeigekommen und habe überlegt, Halt zu machen. Ein warmes Bett und eine anständige Mahlzeit wären ein Fest gewesen, nach fast einer Woche in diesen Bergen! Aber ich wollte die Fährte meines Seelenzwillings nicht verlieren. Nicht, wo ich ihm so nah bin.
 
@@ -1332,7 +1332,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
     </Entry>
     <Entry>
       <ID>2109</ID>
-      <DefaultText>Ryngr-Beeren</DefaultText>
+      <DefaultText>Ryngrbeeren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1347,7 +1347,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
     </Entry>
     <Entry>
       <ID>2112</ID>
-      <DefaultText>Ryngr-Büsche sind extrem widerstandsfähig und in den Bergen der Weißmark selbst in recht großer Höhe zu finden, wo sonst kaum etwas gedeiht. Die Beeren sind extrem bitter und führen zu Übelkeit und Erbrechen, wenn man zu viele von ihnen zu sich nimmt. Für die Siedler sind sie dennoch wichtig, da sich eine leuchtende und waschechte rote Textilfarbe daraus herstellen lässt.</DefaultText>
+      <DefaultText>Ryngrbüsche sind extrem widerstandsfähig und in den Bergen der Weißmark selbst in recht großer Höhe zu finden, wo sonst kaum etwas gedeiht. Die Beeren sind extrem bitter und führen zu Übelkeit und Erbrechen, wenn man zu viele von ihnen zu sich nimmt. Für die Siedler sind sie dennoch wichtig, da sich eine leuchtende und waschechte rote Textilfarbe daraus herstellen lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1372,7 +1372,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
     </Entry>
     <Entry>
       <ID>2117</ID>
-      <DefaultText>Lagufaeth-Leber</DefaultText>
+      <DefaultText>Lagufaethleber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1670,7 +1670,7 @@ Sommermonate (und Mittjahr)
 Vorsommer - Préëstu
 Mittsommer - Majestu
 
-Mittjahr - Ein Tag der Reflektion und Introspektion. Das Jahr ist zur Hälfte vergangen. Wer an Neujahr ein Versprechen abgegeben hat, der überdenkt an Mittjahr seinen Fortschritt und erneuert seinen Schwur.
+Mittjahr - Ein Tag der Reflexion und Introspektion. Das Jahr ist zur Hälfte vergangen. Wer an Neujahr ein Versprechen abgegeben hat, der überdenkt an Mittjahr seinen Fortschritt und erneuert seinen Schwur.
 
 Vollsommer - Fonestu
 Spätsommer - Tarestu
@@ -1688,7 +1688,7 @@ Winterdämmerung (3 Tage) - Inivèrno - Während der Winterdämmerung wird das L
 
 Wintermonate
 
-Vorwinter - Préivèrno
+Vorwinter - Préïvèrno
 Mittwinter - Majivèrno“</DefaultText>
       <FemaleText />
     </Entry>
@@ -1747,7 +1747,7 @@ Der König gab den Umhang seinen Kindern, wenn diese auf Reisen gingen. Jahre sp
       <ID>2183</ID>
       <DefaultText>Cailatto, besser bekannt als ‚der Bronze-Kantor‘ oder einfach ‚Cai‘, war ein berühmter Sänger und Flötist aus dem alten Reich Groß-Vailia. Er war noch berühmter für seine Erfolge bei den Frauen als für seine Musik. Und obwohl er stets behauptete, dieser Erfolg würde sich durch seinen angeborenen Charme erklären, wurde er nie ohne einen gewissen Silberring gesehen - selbst, wenn er sich alles andere ausgezogen hatte.
 
-Am Ende waren es Cais eigene Indiskretionen, die zu seinem Niedergang führten. Er verlustierte sich mit einer Assassinin namens Faldila Rugia und tröstete dann die Nichte des jüngsten Opfers eben jener Assassinin. Was für Cai nur ein unglücklicher Zufall war, sah für die Assassinin wie eine verdächtige Allianz aus. Sie tötete ihn im Schlaf, damit er ihre Geheimnisse nicht verraten konnte.</DefaultText>
+Am Ende waren es Cais eigene Indiskretionen, die zu seinem Niedergang führten. Er verlustierte sich mit einer Assassine namens Faldila Rugia und tröstete dann die Nichte des jüngsten Opfers eben jener Assassine. Was für Cai nur ein unglücklicher Zufall war, sah für die Assassine wie eine verdächtige Allianz aus. Sie tötete ihn im Schlaf, damit er ihre Geheimnisse nicht verraten konnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1949,7 +1949,7 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2208</ID>
-      <DefaultText>Die Siedlungen in der Weißmark nutzten verschiedene Bronzemünzen als Währung. Diese ‚Zahnräder‘ wurden in Durgans Batterie verwendet, wo sie in einem zweistufigen Verfahren gefertigt wurden. Die charakteristichen zahnradförmigen Rohlinge wurden in Bronze gegossen. Während sie abkühlten, wurden sie in eiserne Pressformen geschlagen. Die Münzen sind aufgrund ihres hohen Kupfergehalts im Östlichen Abschnitt noch immer recht wertvoll.</DefaultText>
+      <DefaultText>Die Siedlungen in der Weißmark nutzten verschiedene Bronzemünzen als Währung. Diese ‚Zahnräder‘ wurden in Durgans Batterie verwendet, wo sie in einem zweistufigen Verfahren gefertigt wurden. Die charakteristischen zahnradförmigen Rohlinge wurden in Bronze gegossen. Während sie abkühlten, wurden sie in eiserne Pressformen geschlagen. Die Münzen sind aufgrund ihres hohen Kupfergehalts im Östlichen Abschnitt noch immer recht wertvoll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
