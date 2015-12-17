@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Dem großen Loch hinter den Kiemen nach zu urteilen wurde dieser Trophäenfisch wohl mit einer Pistole geschossen, nicht mit einem Haken oder einem Netz gefangen.</DefaultText>
+      <DefaultText>Dem großen Loch hinter den Kiemen nach zu urteilen wurde diese Fischtrophäe wohl mit einer Pistole geschossen und nicht mit einem Haken oder Netz gefangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>Unter einem Haufen von Messern und Beilen befindet sich eine verblassende Kohlezeichnung, die wohl ein Gesicht darstellen soll. Jemand war so zuvorkommend, 'Bürgermeister Cyneheod' darunter zu schreiben.</DefaultText>
+      <DefaultText>Unter einem Haufen von Messern und Beilen befindet sich eine verblassende Kohlezeichnung, die wohl ein Gesicht darstellen soll. Jemand war so zuvorkommend, ‚Bürgermeister Cyneheod‘ darunter zu schreiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,7 +884,7 @@ Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz.�
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>Unter dem Schnee liegen einige Knochen, von denen das Fleisch abgenagt wurde. Sie sind mit Beißspuren übersät.</DefaultText>
+      <DefaultText>Unter dem Schnee liegen einige Knochen, von denen das Fleisch abgenagt wurde. Sie sind mit Bissspuren übersät.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
