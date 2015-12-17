@@ -25,7 +25,7 @@ Nach einer ganzen Weile hebt er einen Finger, immer noch nach Atem ringend.</Def
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Du hast etwas über 'gefährliche Kerle' in der Wildnis gesagt.“</DefaultText>
+      <DefaultText>„Du hast etwas über ‚gefährliche Kerle‘ in der Wildnis gesagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,7 +142,7 @@ Er hebt die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Er schüttelt den Kopf. „Aedyraner mit zu viel Zeit und Geld. Sie reisen umher und jagen aus Langeweile Monster.“</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Aedyrer mit zu viel Zeit und Geld. Sie reisen umher und jagen aus Langeweile Monster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +167,7 @@ Er hebt die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Die 'Thermalperle', die du gesehen hast, war in Wahrheit ein Lagufaeth-Ei.“</DefaultText>
+      <DefaultText>„Die ‚Thermalperle‘, die du gesehen hast, war in Wahrheit ein Lagufaeth-Ei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@ Er breitet die Arme aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Ich versuche nur, meine Zahne möglichst lange zu behalten. Immer nur Fisch und Wild, das bekommt nicht jedem.“</DefaultText>
+      <DefaultText>„Ich versuche nur, meine Zähne möglichst lange zu behalten. Immer nur Fisch und Wild, das bekommt nicht jedem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,7 +434,7 @@ Er kratzt sich am Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[Ihm den Lagufaeth zeigen.] „Das hier ist aus der 'Thermalperle' geschlüpft.“</DefaultText>
+      <DefaultText>[Ihm den Lagufaeth zeigen.] „Das hier ist aus der ‚Thermalperle‘ geschlüpft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

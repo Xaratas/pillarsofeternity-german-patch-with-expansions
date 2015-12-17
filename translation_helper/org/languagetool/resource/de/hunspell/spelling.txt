@@ -11,7 +11,7 @@ Heodan
 Calisca
 Odema
 Dyrwald/S
-Dyrwälder
+Dyrwälder/S
 Eora
 Zahua/S
 Thaos
@@ -41,6 +41,8 @@ Rymrgand/S
 Xaurip-Stamm/S
 readceranisch/A
 Teir
+Andreds
+Byrhtwens
 Evron
 Waidwen/S
 Eir
@@ -67,11 +69,16 @@ Ine
 Sycthrúa
 Vasel
 Pargrun
+Massuk
+Itumaak
 Maralina
 Pargrunen-Zwerge
 Ionni
 Brathr
 Senn
+Pand
+Byrht
+Aedyrer
 Beläfa
 Woedica
 Animaten
@@ -141,6 +148,8 @@ Llengraths
 Arkemyrs
 Kalakoths
 Minoletta/S
+Aevar
+Lynam
 Hel-Hyraf
 Reny
 Darets
@@ -205,7 +214,8 @@ Byrhtwen
 Andred
 Murus
 Osgyth
-Haeferic
+Haeferic/S
+Maidenfall
 Reyfald
 Feara
 Owynna
@@ -256,7 +266,7 @@ Galven
 Regd
 Edrang
 Hadret
-Schmelztiegelritter
+Schmelztiegelritter/S
 Dunrydstraße
 Eothasier
 Kaltmorg
@@ -351,6 +361,7 @@ Baelorin
 Galvino
 Kulkin-Prinzessin
 Kulkin-König
+Fennlan-Schnaps
 # Menschennamen
 Ryan
 Torres
@@ -367,6 +378,8 @@ Perez
 Olivia
 # zeugs
 Galawain-Schrein
+Thermalperle
+Ondra-Tempel
 Söldnerveteran
 Leids
 Schankwirts
@@ -395,6 +408,9 @@ Bestienjäger
 Wächtergeist
 Weltenschlund/S
 Untotengeißel
+Ogerangriff/S
+ogertötender
+ogertötende
 hindurchgebrochen
 Wachstränen
 gitterbedeckten
@@ -418,6 +434,7 @@ Wuchtschaden
 zuzustürmen
 Zauberbuch-Slam
 Parasitenstab
+Leb
 Pames
 Masek
 Lleow
@@ -552,12 +569,16 @@ Fokusvorrat
 Angriffszauber/N
 Aura
 Auren
+Stehlereien
+vollsabbert
+Racheballade
 Seelengebundene
 Unterstützungszauber/N
 Chaosfuß
 Mahlstroms
 Belästigungskampagne
 Pssst
+Naja
 # notwendige Besonderheiten in der Übersetzung, Ausnahmen von Groß und Kleinschreibung und sone Sachen, Wortteile die Trennzeichen haben, die beim Extrahieren mit saxon aber normale Leerzeichen werden
 # Die Groß und Kleinschreibung bleibt eh bei DE_CASE hängen und nicht an Hunspell, bringt hier also gar nix.
 reffer
