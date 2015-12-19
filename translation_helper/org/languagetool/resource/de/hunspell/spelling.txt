@@ -12,6 +12,7 @@ Calisca
 Odema
 Dyrwald/S
 Dyrwälder/S
+Dyrwäldern
 Eora
 Zahua/S
 Thaos
@@ -23,6 +24,8 @@ Anamfatha
 Ulmenkap
 Herdlied
 Pargrunen
+Pargrun
+Pargrun-Zwerge
 Marunn
 Lich
 Ailef
@@ -30,8 +33,10 @@ Toma
 Algul
 Darzir
 Felisa
-Zoltun
-Gregur
+Zoltun/S
+Gregur/S
+Raedric
+Einas
 Gréfenrast
 Cyneheod
 Eisenzahnhechten
@@ -68,17 +73,17 @@ Neu-Dunryd
 Ine
 Sycthrúa
 Vasel
-Pargrun
 Massuk
 Itumaak
 Maralina
-Pargrunen-Zwerge
 Ionni
 Brathr
 Senn
 Pand
 Byrht
 Aedyrer
+Aedyrern
+Teanlecg
 Beläfa
 Woedica
 Animaten
@@ -196,8 +201,10 @@ Bittergeist
 Essewächter
 Suldrun
 Ista
-Uldric
+Uldric/S
 Räzken
+Fenwe
+Onda
 Defala
 Beregan
 Taena/S
@@ -216,9 +223,11 @@ Murus
 Osgyth
 Haeferic/S
 Maidenfall
-Reyfald
+Reyfald/S
+Zenove/S
+Exandrus
 Feara
-Owynna
+Owynna/S
 Lafda
 Yduran
 Renengild/S
@@ -286,7 +295,8 @@ Uariki/S
 Ygadrs
 Ulmar/S
 Okrun/S
-Ixtli
+Ixtli/S
+Marrat
 Ixamitl
 Alt-Dunryd-Jagdgesellschaft
 Laenric
@@ -379,7 +389,7 @@ Olivia
 # zeugs
 Galawain-Schrein
 Thermalperle
-Ondra-Tempel
+Ondra-Tempel/S
 Söldnerveteran
 Leids
 Schankwirts
@@ -395,9 +405,15 @@ Söldnerkämpfer
 Söldnerzauberer
 Söldnerpriester
 Akolyth
+Akolythen
 goldgefärbt
 Verlieskanal
 Verlieskrypten
+Beseelerkontakte
+hinaufwagt
+alchemischen
+abzuschwatzen
+Tempelfensters
 Tempellager
 Palisadentor
 Kupferpand
@@ -409,9 +425,13 @@ Wächtergeist
 Weltenschlund/S
 Untotengeißel
 Ogerangriff/S
+Ogerclans
+Ogertöter
+Ogertöterin
 ogertötender
 ogertötende
 hindurchgebrochen
+Pfeifenasche
 Wachstränen
 gitterbedeckten
 fellgesäumte
@@ -541,6 +561,7 @@ Tötungswille
 Skelettzauberer
 Seelenlobotomie
 Oger-Stammesführerin
+Matronin
 eiterähnliche
 psionischen
 Nickhäute
@@ -579,6 +600,19 @@ Mahlstroms
 Belästigungskampagne
 Pssst
 Naja
+naja
+heb
+reinspaziert
+piekt
+Furor
+Gabenbringer/S
+Gabenbringern
+Rußflocken
+Schnute
+flickenbesetzten
+offenhängen
+gerümpfter
+geplärrt
 # notwendige Besonderheiten in der Übersetzung, Ausnahmen von Groß und Kleinschreibung und sone Sachen, Wortteile die Trennzeichen haben, die beim Extrahieren mit saxon aber normale Leerzeichen werden
 # Die Groß und Kleinschreibung bleibt eh bei DE_CASE hängen und nicht an Hunspell, bringt hier also gar nix.
 reffer
@@ -586,6 +620,15 @@ reffer-Schaden
 -Zauber
 # Nicht übersetzes Englisch
 Hotkey/S
+Specified
+DozensGame
+PlayerFinalDesc
+OpponentFinalDesc
+LastOpponentRollDesc
+LastOpponentRollNums
+LastPlayerRollDesc
+LastPlayerRollNums
+Milady
 # Abkürzungen
 Schild-Mod
 Rüstungs-Mod

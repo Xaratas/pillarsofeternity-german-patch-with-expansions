@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Ich wette zehn Pfand, dass er ihnen ein Bein stellt.“</DefaultText>
-      <FemaleText>„Ich wette zehn Pfand, dass sie ihnen ein Bein stellt.“</FemaleText>
+      <DefaultText>„Ich wette zehn Pand, dass er ihnen ein Bein stellt.“</DefaultText>
+      <FemaleText>„Ich wette zehn Pand, dass sie ihnen ein Bein stellt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -26,8 +26,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Was kann ich für dich tun, Oger-Töter? Lust auf ein Würfelspiel?“</DefaultText>
-      <FemaleText>„Was kann ich für dich tun, Oger-Töterin? Lust auf ein Würfelspiel?“</FemaleText>
+      <DefaultText>„Was kann ich für dich tun, Ogertöter? Lust auf ein Würfelspiel?“</DefaultText>
+      <FemaleText>„Was kann ich für dich tun, Ogertöterin? Lust auf ein Würfelspiel?“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>

@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Ich bin Thyrsc. Ich lebe hier schon so lange, dass die Gestandenen mich den 'alten Jäger' nennen. Mehr gibt es über mich kaum zu sagen.“</DefaultText>
+      <DefaultText>„Ich bin Thyrsc. Ich lebe hier schon so lange, dass die Gestandenen mich den ‚alten Jäger‘ nennen. Mehr gibt es über mich kaum zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Ich glaube, ich bin deinem 'Wolf' begegnet. Er ist ein Geisterwandler. Irgendetwas stimmt nicht mit ihm.“</DefaultText>
+      <DefaultText>„Ich glaube, ich bin deinem ‚Wolf‘ begegnet. Er ist ein Geisterwandler. Irgendetwas stimmt nicht mit ihm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +357,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>„Ich habe deinen 'Wolf' gefunden&#160;…“</DefaultText>
+      <DefaultText>„Ich habe deinen ‚Wolf‘ gefunden&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,7 +377,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Thyrscs Schultern werden steif - und dann sackt er zusammen, als wäre er plötzlich allem überdrüssig. „Aha. Ist es es getan? Ist er tot?“</DefaultText>
+      <DefaultText>Thyrscs Schultern werden steif - und dann sackt er zusammen, als wäre er plötzlich allem überdrüssig. „Aha. Ist es getan? Ist er tot?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,7 +437,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Das Totem? All das nur wegen diesem Stück Holz? Wenn ich mir vorstelle, dass ich die Hoffnung aufgegeben hatte, wo ich ihm früher hätte helfen können! Das viele Sterben&#160;…“</DefaultText>
+      <DefaultText>„Das Totem? All das nur wegen dieses Stückes Holz? Wenn ich mir vorstelle, dass ich die Hoffnung aufgegeben hatte, wo ich ihm früher hätte helfen können! Das viele Sterben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -564,7 +564,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>„Was spielst du hier für ein Spielchen? Diese 'Bestie' ist ein Druide.“</DefaultText>
+      <DefaultText>„Was spielst du hier für ein Spielchen? Diese ‚Bestie‘ ist ein Druide.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,7 +609,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>„Er war schon lange fort. Wenn es einen Weg gegeben hätte, zu ihm durchzudringen, ich hätte ihn inzwischen gefunden. „ Thyrsc blickt zu Boden, den Kiefer fest zusammengepresst.</DefaultText>
+      <DefaultText>„Er war schon lange fort. Wenn es einen Weg gegeben hätte, zu ihm durchzudringen, ich hätte ihn inzwischen gefunden. „Thyrsc blickt zu Boden, den Kiefer fest zusammengepresst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@ Thyrsc verzieht das Gesicht und legt sich eine Hand an die Schläfen.</DefaultTe
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Eine Vision? Aber dann musst gesehen haben-“ Thyrsc seufzt. „Es ist nicht, wie du vielleicht glaubst. Ich dachte, du würdest vor der Aufgabe zurückschrecken, wenn du wüsstest, was e einmal war.“</DefaultText>
+      <DefaultText>„Eine Vision? Aber dann musst du gesehen haben-“ Thyrsc seufzt. „Es ist nicht, wie du vielleicht glaubst. Ich dachte, du würdest vor der Aufgabe zurückschrecken, wenn du wüsstest, was er einmal war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1167,7 +1167,7 @@ Ganz ehrlich&#160;… mit der Weißen Esse und Renengilds vielen Plänen haben w
       <ID>251</ID>
       <DefaultText>„Ich hatte nicht den kleinsten Schimmer Hoffnung, dass du die Batterie öffnen würdest. Aber du hast es geschafft. Das ist die beste Chance, die diese Stadt seit Jahren hatte.
 
-Aber ohne Renengild treten wir auf der Stelle. Ich sehe niemanden, der bald das Amt des Bürgermeister übernehmen würde.“</DefaultText>
+Aber ohne Renengild treten wir auf der Stelle. Ich sehe niemanden, der bald das Amt des Bürgermeisters übernehmen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

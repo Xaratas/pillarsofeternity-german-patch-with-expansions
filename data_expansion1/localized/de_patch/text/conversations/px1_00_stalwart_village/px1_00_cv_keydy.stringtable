@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Ich weiß, es war töricht, es zu versuchen. Aber ich wollte unbedingt den Ring meiner Familie retten. Es tut mir leid, dass ich dich in Gefahr gebracht habe.“</DefaultText>
+      <DefaultText>„Ich weiß, es war töricht, es zu versuchen, aber ich wollte unbedingt den Ring meiner Familie retten. Es tut mir leid, dass ich dich in Gefahr gebracht habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Ich weiß, es war töricht, hineinzurennen. Aber dieser Ring ist alles, was ich von meiner Familie habe. Ich habe einfach nicht nachgedacht.“</DefaultText>
+      <DefaultText>„Ich weiß, es war töricht, hineinzurennen, aber dieser Ring ist alles, was ich von meiner Familie habe. Ich habe einfach nicht nachgedacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@ Keydy beißt sich auf die Lippe und tritt nervös auf der Stelle.</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Weißt du .. Haeferic hat mir gezeigt, wie eine der Fallen funktioniert - damit ich nicht zu nah herankomme, wenn ich Vorräte holen gehe. Ich glaube, ich kann sie entschärfen.“</DefaultText>
+      <DefaultText>„Weißt du … Haeferic hat mir gezeigt, wie eine der Fallen funktioniert - damit ich nicht zu nah herankomme, wenn ich Vorräte holen gehe. Ich glaube, ich kann sie entschärfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

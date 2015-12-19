@@ -253,7 +253,7 @@ In diesem Augenblick erweitert sich Zenoves Psyche und erfüllt dich mit einem g
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“
+      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Ambosses erschallen.“
 
 „Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.“
 
@@ -460,12 +460,12 @@ Sie tippt sich gegen den fleckigen, mit schütterem Haar bedeckten Kopf.</Defaul
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Wir wurden zu kolonialen Zeiten von den Aedyranern gegründet. Wir verdienten gutes Geld damit, Erze abzubauen und in das ganze Kaiserreich zu verkaufen.“ Sie nickt. Ihr Kopf bewegt sich, als wäre er an einem rostigen Scharnier befestigt.</DefaultText>
+      <DefaultText>„Wir wurden zu kolonialen Zeiten von den Aedyrern gegründet. Wir verdienten gutes Geld damit, Erze abzubauen und in das ganze Kaiserreich zu verkaufen.“ Sie nickt. Ihr Kopf bewegt sich, als wäre er an einem rostigen Scharnier befestigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Sie runzelt die Stirn. „Dann kam die Rebellion - und den Dyrwäldlern wurde klar, dass es ihnen zu teuer war, die Bergpässe aufrechtzuerhalten.“</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Dann kam die Rebellion - und den Dyrwäldern wurde klar, dass es ihnen zu teuer war, die Bergpässe aufrechtzuerhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +492,7 @@ Sie tippt sich gegen den fleckigen, mit schütterem Haar bedeckten Kopf.</Defaul
       <ID>86</ID>
       <DefaultText>„Ich habe draußen die Oger gehört! Sie reißen Wände ein und ermorden Bürger. Ich weiß nicht, wie es so schlimm werden konnte.“
 
-Die alte Frau ringt die Hände. Ihre Knöchel sind geschwollen, ihre Handflächen voller Schwielen, die hörbar kratzen, als sie die Hände aneinanderreibt.</DefaultText>
+Die alte Frau ringt die Hände. Ihre Knöchel sind geschwollen, ihre Handflächen voller Schwielen, die hörbar kratzen, als sie die Hände aneinander reibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,7 +579,7 @@ Zenove ist mächtig, aber auch gefährlich. Ihr Zorn hat sie an alte und bedrohl
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Endlich! Ein Dyrwäldler, der nicht Aedyr die Schuld an allem gibt.“</DefaultText>
+      <DefaultText>„Endlich! Ein Dyrwälder, der nicht Aedyr die Schuld an allem gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
