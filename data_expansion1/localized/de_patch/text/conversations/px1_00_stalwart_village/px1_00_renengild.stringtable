@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Wir sind eine alte Bergbaustadt. Oder wir waren es, bis die Aedyraner fort sind und uns mit einem halb gegrabenen Minenschacht und so etwas Ähnlichem wie einer Taverne zurückgelassen haben.“ Sie klopft mit der Faust gegen die robuste Holzwand.</DefaultText>
+      <DefaultText>„Wir sind eine alte Bergbaustadt. Oder wir waren es, bis die Aedyrer fort sind und uns mit einem halb gegrabenen Minenschacht und so etwas Ähnlichem wie einer Taverne zurückgelassen haben.“ Sie klopft mit der Faust gegen die robuste Holzwand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@ Einen Augenblick lang flackert ihr Blick zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Sie verdreht die Augen. „'Mestre Galvino' ist der alten Kratzbürste lieber. Er lebt allein und hält die Wilden und Bestien allein durch seine Übellaunigkeit fern.“</DefaultText>
+      <DefaultText>Sie verdreht die Augen. „‚Mestre Galvino‘ ist der alten Kratzbürste lieber. Er lebt allein und hält die Wilden und Bestien allein durch seine Übellaunigkeit fern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,12 +195,12 @@ Einen Augenblick lang flackert ihr Blick zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Elche jagen und sich ansonsten um ihren eigenen Kram kümmern.“ Er wirft sich einen Apfelschnitzen in den Mund und zerkaut ihn kraftvoll.</DefaultText>
+      <DefaultText>„Elche jagen und sich ansonsten um ihren eigenen Kram kümmern.“ Er wirft sich einen Apfelschnitz in den Mund und zerkaut ihn kraftvoll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„'Um ihren eigenen Kram kümmern'. Abgesehen vom Verschwinden der letzten Expedition. Oder der zerstörten Palisade.“ Sie reibt sich die Nasenwurzel und kneift die Augen zusammen.</DefaultText>
+      <DefaultText>„‚Um ihren eigenen Kram kümmern‘. Abgesehen vom Verschwinden der letzten Expedition. Oder der zerstörten Palisade.“ Sie reibt sich die Nasenwurzel und kneift die Augen zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,7 +424,7 @@ Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>„Die Aedyraner, die als erste Siedler nach Stalwart kamen, haben versucht, sie zu öffnen. Genau wie die Vailianer. Und jeder andere selbstbewusste Abenteurer mit mehr Mumm als Verstand.“ Sie verschränkt die Arme und blickt kopfschüttelnd auf die alten Dielen.</DefaultText>
+      <DefaultText>„Die Aedyrer, die als erste Siedler nach Stalwart kamen, haben versucht, sie zu öffnen. Genau wie die Vailianer. Und jeder andere selbstbewusste Abenteurer mit mehr Mumm als Verstand.“ Sie verschränkt die Arme und blickt kopfschüttelnd auf die alten Dielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,7 +434,7 @@ Sie verschränkt die Arme und blickt hinüber zu Uldric.</DefaultText>
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„Weil man Stein damit schneiden kann. Eisen entzwei hauen. Und weil das Zeug ebenso selten wie erstaunlich ist.“ 
+      <DefaultText>„Weil man Stein damit schneiden kann, Eisen entzwei hauen, und weil das Zeug ebenso selten wie erstaunlich ist.“ 
 
 Vor Begeisterung tritt Renengild auf der Stelle. Sie stützt einen Arm auf den anderen und deutet abwesend auf die Giebel des Hauses.</DefaultText>
       <FemaleText />
@@ -589,7 +589,7 @@ Sie hebt die Karte und tippt auf einen Punkt in der Mitte einer großen grau-wei
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Pargrun ist ein Wort in ihrer Sprache. Es heißt 'Reisender'. Sie sind seit Generationen Wandernde, aber mehr kann ich dir nicht sagen.“</DefaultText>
+      <DefaultText>„Pargrun ist ein Wort in ihrer Sprache. Es heißt ‚Reisender‘. Sie sind seit Generationen Wandernde, aber mehr kann ich dir nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -997,7 +997,7 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>„Geht uns auch so. Aber ich hoffe, du wirst auch die Weiße Esse nutzen. Wenn du das nicht schon getan hast.“</DefaultText>
+      <DefaultText>„Geht uns auch so. Aber ich hoffe, du wirst die Weiße Esse auch nutzen, wenn du das nicht schon getan hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,7 +1012,7 @@ Ihre Augen leuchten, und einen Augenblick lang sieht sie viel jünger aus.</Defa
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>„Und hier - ich habe sie gespart. Ein paar der letzten Edelsteine, die wir gefunden haben, bevor wir die Minen schließen mussten. Mit etwas Glück können wir sie bald wieder öffen.“ 
+      <DefaultText>„Und hier - ich habe sie gespart. Ein paar der letzten Edelsteine, die wir gefunden haben, bevor wir die Minen schließen mussten. Mit etwas Glück können wir sie bald wieder öffnen.“ 
 
 Sie gibt dir einen kleinen Beutel. Edelsteine glitzern in ihm.</DefaultText>
       <FemaleText />

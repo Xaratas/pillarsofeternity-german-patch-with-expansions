@@ -38,7 +38,7 @@ Gregur/S
 Raedric
 Einas
 Gréfenrast
-Cyneheod
+Cyneheod/S
 Eisenzahnhechten
 Ydurans
 Hylea/S
@@ -75,6 +75,7 @@ Sycthrúa
 Vasel
 Massuk
 Itumaak
+Naasitaq
 Maralina
 Ionni
 Brathr
@@ -85,7 +86,7 @@ Aedyrer
 Aedyrern
 Teanlecg
 Beläfa
-Woedica
+Woedica/S
 Animaten
 Delemgan
 Bîaŵacs
@@ -226,7 +227,7 @@ Maidenfall
 Reyfald/S
 Zenove/S
 Exandrus
-Feara
+Feara/S
 Owynna/S
 Lafda
 Yduran
@@ -425,6 +426,7 @@ Wächtergeist
 Weltenschlund/S
 Untotengeißel
 Ogerangriff/S
+Ogerlager
 Ogerclans
 Ogertöter
 Ogertöterin
@@ -438,7 +440,7 @@ fellgesäumte
 textintensiv/A
 Durgan-Eisenbarren
 todesliebenden
-Durganstahl
+Durganstahl/S
 Verzauberungsrezepten
 Adrascherbe
 Rußgeschmack
@@ -496,6 +498,10 @@ arkan/A
 Magieblitz
 Regenerationseffekt
 Urzeitkreaturen
+Zwergenfestung
+Zwergenfestungen
+einschmieden
+vorbeisehen
 Oger/N
 Duellwaffe
 Genauigkeitsbonus
@@ -588,6 +594,9 @@ Formationsschaltfläche
 Verzauberungsmenü
 Fokusvorrat
 Angriffszauber/N
+Ausdauerreserven
+aufrechthalten
+vorbeizudrängen
 Aura
 Auren
 Stehlereien
@@ -602,6 +611,7 @@ Pssst
 Naja
 naja
 heb
+hinabdrücken
 reinspaziert
 piekt
 Furor
@@ -621,6 +631,7 @@ reffer-Schaden
 # Nicht übersetzes Englisch
 Hotkey/S
 Specified
+SkillCheck
 DozensGame
 PlayerFinalDesc
 OpponentFinalDesc

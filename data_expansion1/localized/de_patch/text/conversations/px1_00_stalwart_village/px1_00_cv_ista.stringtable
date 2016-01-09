@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Ich versuche, die Instrumente nachzubauen, welche die Pargrun-Zwerge damals zu diesem Berg geführt haben. Das hier&#160;… “ Sie hält die metallische Kiste hoch. „&#160;… ist mein jüngster Prototyp.“</DefaultText>
+      <DefaultText>„Ich versuche, die Instrumente nachzubauen, welche die Pargrun-Zwerge damals zu diesem Berg geführt haben. Das hier“, sie hält die metallische Kiste hoch, „ist mein jüngster Prototyp.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@ Diese Zwergin blickt dich ehrfurchtsvoll an. In ihren Händen hält sie einen gr
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Du kannst dir nicht vorstellen, was das für uns alle bedeutet, die wir die Batteriezwerge erforschen. Ich muss eine zweite Expedition organisieren!
+      <DefaultText>„Du kannst dir nicht vorstellen, was das für uns alle bedeutet, die wir die Batteriezwerge erforschen. Ich muss eine zweite Expedition organisieren!“
 
 „Nun&#160;… falls ich bei der ersten irgendetwas finde.“ Sie blickt stirnrunzelnd auf das Gerät in ihren Händen, das einen hohen Ton von sich gibt.</DefaultText>
       <FemaleText />
