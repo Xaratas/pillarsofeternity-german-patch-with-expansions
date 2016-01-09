@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Panzerbrecher scheint zu summen, als er sich der engwithanischen Maschine nähert. Plötzlich bildet sich ein Bogen zwischen der Stahlklinge und dem Adra-Kern des uralten Geräts.
+      <DefaultText>Der Panzerbrecher scheint zu summen, als er sich der engwithanischen Maschine nähert. Plötzlich bildet sich ein Bogen zwischen der Stahlklinge und dem Adrakern des uralten Geräts.
 
 Die Stimmen in dem Panzerbrecher werden leiser und die Waffe fühlt sich mächtiger an.
 
@@ -24,7 +24,7 @@ Ein weiterer Vers glänzt auf dem Stahl.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Die Adra-Säulen strahlen eine tiefe und mächtige Kraft aus. Sie hallt in dem Grauen Schläfer wider.</DefaultText>
+      <DefaultText>Die Adrasäulen strahlen eine tiefe und mächtige Kraft aus. Sie hallt in dem Grauen Schläfer wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

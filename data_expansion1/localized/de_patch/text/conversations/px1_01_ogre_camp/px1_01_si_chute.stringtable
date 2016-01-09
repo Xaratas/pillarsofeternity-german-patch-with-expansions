@@ -432,7 +432,7 @@ Nach gewaltiger Anstrengung erreichst du das obere Ende.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Einen furchterregenden Augenblick langt befindest du dich im freien Fall, bevor das Seil wieder Halt findet.
+      <DefaultText>Einen furchterregenden Augenblick lang befindest du dich im freien Fall, bevor das Seil wieder Halt findet.
 
 Du siehst zwar nicht bis zum Eingang des Tunnels, aber du vermutest, dass dein Enterhaken seine Klauen gerade noch rechtzeitig in eine Kante im Eis gegraben hat.
 
@@ -585,37 +585,37 @@ Was tust du?</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>['Rüstung des Glaubens' wirken.]</DefaultText>
+      <DefaultText>[‚Rüstung des Glaubens‘ wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[[Slot 0] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <DefaultText>[[Slot 0] auffordern, die Gruppe mit ‚Rüstung des Glaubens‘ zu schützen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>[[Slot 1] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <DefaultText>[[Slot 1] auffordern, die Gruppe mit ‚Rüstung des Glaubens‘ zu schützen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[[Slot 2] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <DefaultText>[[Slot 2] auffordern, die Gruppe mit ‚Rüstung des Glaubens‘ zu schützen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>[[Slot 3] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <DefaultText>[[Slot 3] auffordern, die Gruppe mit ‚Rüstung des Glaubens‘ zu schützen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>[[Slot 4] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <DefaultText>[[Slot 4] auffordern, die Gruppe mit ‚Rüstung des Glaubens‘ zu schützen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[[Slot 5] auffordern, die Gruppe mit 'Rüstung des Glaubens' zu schützen.]</DefaultText>
+      <DefaultText>[[Slot 5] auffordern, die Gruppe mit ‚Rüstung des Glaubens‘ zu schützen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -625,37 +625,37 @@ Was tust du?</DefaultText>
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Während du fällst, kanalisierst du deine göttliche Kraft, um 'Rüstung des Glaubens' zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, kanalisierst du deine göttliche Kraft, um ‚Rüstung des Glaubens‘ zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Während du fällst, gelingt es [Slot 0], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, gelingt es [Slot 0], ‚Rüstung des Glaubens‘ auf die Gruppe zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Während du fällst, gelingt es [Slot 1], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, gelingt es [Slot 1], ‚Rüstung des Glaubens‘ auf die Gruppe zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Während du fällst, gelingt es [Slot 2], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, gelingt es [Slot 2], ‚Rüstung des Glaubens‘ auf die Gruppe zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Während du fällst, gelingt es [Slot 3], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, gelingt es [Slot 3], ‚Rüstung des Glaubens‘ auf die Gruppe zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Während du fällst, gelingt es [Slot 4], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, gelingt es [Slot 4], ‚Rüstung des Glaubens‘ auf die Gruppe zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Während du fällst, gelingt es [Slot 5], 'Rüstung des Glaubens' auf die Gruppe zu wirken.</DefaultText>
+      <DefaultText>Während du fällst, gelingt es [Slot 5], ‚Rüstung des Glaubens‘ auf die Gruppe zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,7 +669,7 @@ Du knallst gegen spitze Felsen und hartes Eis. Du krachst den Tunnel hinab und d
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>['Drachensprung' wirken, um dich selbst zu retten.]</DefaultText>
+      <DefaultText>[‚Drachensprung‘ wirken, um dich selbst zu retten.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

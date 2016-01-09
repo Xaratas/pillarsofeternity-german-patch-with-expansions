@@ -332,7 +332,7 @@ Die anderen Oger knurren und blicken dich zornig an.</DefaultText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Die übrigen zähnefletschenden, knurrenden Oger stimmen in ihr Zornesgeheul ein. Der Raum dröhnt, bis Beregan ihre Stimme über den Lärm erhebt.</DefaultText>
+      <DefaultText>Die übrigen zähnefletschenden und knurrenden Oger stimmen in ihr Zorngeheul ein. Der Raum dröhnt, bis Beregan ihre Stimme über den Lärm erhebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,12 +391,12 @@ Schließlich entspannen sich ihre Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die anderen Oger stimmen in ihr Zornesgeheul ein. Bald bebt der Boden ob der wütenden Schreie und stampfenden Füße von Beregan und ihrem Clan.</DefaultText>
+      <DefaultText>Die anderen Oger stimmen in ihr Zorngeheul ein. Bald bebt der Boden ob der wütenden Schreie und stampfenden Füße von Beregan und ihrem Clan.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Sie schnaubt. „'Umgesehen'. Die einzigen Gestandenen, die sich hier 'umsehen', sind Sklavenhändler, Schmuggler und Narren, die nach der alten Zwergenfestung suchen.“</DefaultText>
+      <DefaultText>Sie schnaubt. „‚Umgesehen‘. Die einzigen Gestandenen, die sich hier ‚umsehen‘, sind Sklavenhändler, Schmuggler und Narren, die nach der alten Zwergenfestung suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

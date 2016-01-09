@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„'Geh zu Galvino', sagen sie! 'Er hilft dir bestimmt!'“</DefaultText>
+      <DefaultText>„‚Geh zu Galvino‘, sagen sie! ‚Er hilft dir bestimmt!‘“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,12 +416,12 @@ Er nickt und wendet sich wieder seinem Schreibtisch zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Die Tür muss mich also 'erkennen'?“</DefaultText>
+      <DefaultText>„Die Tür muss mich also ‚erkennen‘?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Gewiss kommt nun das 'aber'.“</DefaultText>
+      <DefaultText>„Gewiss kommt nun das ‚aber‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

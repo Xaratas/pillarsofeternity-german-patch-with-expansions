@@ -65,7 +65,7 @@ Sie dreht ihren Kopf, um dich anzusehen.</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Dein 'Experiment' kam beim Rest des Dorfes wohl nicht so gut an.“</DefaultText>
+      <DefaultText>„Dein ‚Experiment‘ kam beim Rest des Dorfes wohl nicht so gut an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,7 +425,7 @@ Er klatscht aufgeregt in die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Galvino lacht, hustend und keuchend. „Dieses bezaubernde Exemplar ist eine verurteilte Mörderin. Die 'Teufelin von Caroc' wird sie genannt.“</DefaultText>
+      <DefaultText>Galvino lacht, hustend und keuchend. „Dieses bezaubernde Exemplar ist eine verurteilte Mörderin. Die ‚Teufelin von Caroc‘ wird sie genannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,9 +450,9 @@ Er klatscht aufgeregt in die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>„Ich habe mich an Bürgermeister Cyneheod gewandt und ihn angebettelt. Er erkannte das Potenzial und gestattete mir das Privileg, mein 'kleines Experiment' durchzuführen.“ 
+      <DefaultText>„Ich habe mich an Bürgermeister Cyneheod gewandt und ihn angebettelt. Er erkannte das Potenzial und gestattete mir das Privileg, mein ‚kleines Experiment‘ durchzuführen.“ 
 
-Er verzieht verächtlich das Gesicht ob dieser schmächlichen Formulierung. Seine Schultern sind gebeugt, seine Zähne gefletscht.</DefaultText>
+Er verzieht verächtlich das Gesicht ob dieser schmächvollen Formulierung. Seine Schultern sind gebeugt, seine Zähne gefletscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -572,7 +572,7 @@ Er verzieht verächtlich das Gesicht ob dieser schmächlichen Formulierung. Sein
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>„Mein Lebensziel. Dem 'nützlichen Zweck' von irgendjemandem dienen.“</DefaultText>
+      <DefaultText>„Mein Lebensziel. Dem ‚nützlichen Zweck‘ von irgendjemandem dienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -727,7 +727,7 @@ Er verzieht verächtlich das Gesicht ob dieser schmächlichen Formulierung. Sein
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Galvino hält eine offene Weinflasche an ihrem Hals fest. Er steht wackeling auf seinen Beinen.</DefaultText>
+      <DefaultText>Galvino hält eine offene Weinflasche an ihrem Hals fest. Er steht wackelig auf seinen Beinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -59,7 +59,7 @@ Das Lächeln verschwindet aus ihrem Gesicht wie die Flamme einer Kerze, die vom 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„'Vertragsknecht'? Du meinst Sklave.“</DefaultText>
+      <DefaultText>„‚Vertragsknecht‘? Du meinst Sklave.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@ Ihre Fingerspitzen baumeln wenige Zentimeter über dem Knauf ihrer Waffe. Ihre G
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Angreifen] „Der Ränkeschmieder lässt grüßen, Sklaventreiberin.“</DefaultText>
+      <DefaultText>[Angreifen] „Der Ränkeschmied lässt grüßen, Sklaventreiberin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -408,7 +408,7 @@ Sie zieht ihre Pistole.</DefaultText>
       <ID>71</ID>
       <DefaultText>„Das sieht sein Herr anders.“
 
-Sie enthalftert ihre Pistole.</DefaultText>
+Sie zieht ihre Pistole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@ Sie enthalftert ihre Pistole.</DefaultText>
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Das heißt wohl 'alles davon'.“</DefaultText>
+      <DefaultText>„Das heißt wohl ‚alles davon‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
