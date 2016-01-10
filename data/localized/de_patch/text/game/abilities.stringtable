@@ -1431,12 +1431,12 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Wechselt die Waffenangriffe eines Kämpfer, um auf den Willen des Ziels.</DefaultText>
+      <DefaultText>Wechselt die Waffenangriffe eines Kämpfers auf den Willen des Ziels um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Der Kämpfer stürzt sich in die Schlacht und zieht einen Feind in unmittelbare Nahkampfentfernung, fügt dabei Wuchtschaden zu und läßt ihn Benommen zurück.</DefaultText>
+      <DefaultText>Der Kämpfer stürzt sich in die Schlacht und zieht einen Feind in unmittelbare Nahkampfentfernung, fügt dabei Wuchtschaden zu und lässt ihn Benommen zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3991,7 +3991,7 @@
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>Beschwört zwei Furcht erregende Oger herauf, die für die Dauer für die Gruppe kämpfen.</DefaultText>
+      <DefaultText>Beschwört zwei furchterregende Oger herauf, die für die Dauer für die Gruppe kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4011,7 +4011,7 @@
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Lässt schnell einen Busch gewundener Reben wachsen, die jeden umschlängeln und einfangen, der so viel Pech hat, sich darin zu verfangen. Charaktere, die einen Fuß in den Wirkungsbereich setzen, werden behindert.</DefaultText>
+      <DefaultText>Lässt schnell einen Busch gewundener Reben wachsen, die jeden umschlingen und einfangen, der so viel Pech hat, sich darin zu verfangen. Charaktere, die einen Fuß in den Wirkungsbereich setzen, werden behindert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4451,7 +4451,7 @@
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>Die empathische Verbindung zwischen dem Waldläufer und seinem tierischen Gefährten fördert einen übernatürlichen Sinn für bevorstehende Gefahren, wodurch beide einen erheblichen Bonus auf Verteidigung erhalten, wenn beide einem Angriff im gleichem Wirkungsbereich zum Opfer fallen.</DefaultText>
+      <DefaultText>Die empathische Verbindung zwischen dem Waldläufer und seinem tierischen Gefährten fördert einen übernatürlichen Sinn für bevorstehende Gefahren, wodurch beide einen erheblichen Bonus auf Verteidigung erhalten, wenn beide einem Angriff im gleichen Wirkungsbereich zum Opfer fallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4521,7 +4521,7 @@
     </Entry>
     <Entry>
       <ID>921</ID>
-      <DefaultText>Ermöglicht es dem Schurke, jegliche Kampfhandlung zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen, wobei er außer Reichweite eines bestimmten Ortes springt.</DefaultText>
+      <DefaultText>Ermöglicht es dem Schurken, jegliche Kampfhandlung zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen, wobei er außer Reichweite eines bestimmten Ortes springt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4566,7 +4566,7 @@
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Ermöglicht es dem Schurke, die Position eines Ziels auf dem Schlachtfeld zu schätzen, wodurch Schleichangriffe effektiver werden, wenn das Ziel von zwei oder mehr Zuständen betroffen ist, die einen Schleichangriff zulassen.</DefaultText>
+      <DefaultText>Ermöglicht es dem Schurken, die Position eines Ziels auf dem Schlachtfeld zu schätzen, wodurch Schleichangriffe effektiver werden, wenn das Ziel von zwei oder mehr Zuständen betroffen ist, die einen Schleichangriff zulassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4636,7 +4636,7 @@
     </Entry>
     <Entry>
       <ID>944</ID>
-      <DefaultText>Verbessert die Verbindung des Sänger zu den von ihm genutzten Seelenfragmenten, wodurch die Heilfähigkeit der uralten Erinnerung erhöht wird.</DefaultText>
+      <DefaultText>Verbessert die Verbindung des Sängers zu den von ihm genutzten Seelenfragmenten, wodurch die Heilfähigkeit der uralten Erinnerung erhöht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4996,7 +4996,7 @@
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Antilopen-Gefährten besitzen von Natur aus überlegenere Verteidigungen (Abwehr, Tapferkeit, Reflexe und Wille).
+      <DefaultText>Antilopen-Gefährten besitzen von Natur aus überlegene Verteidigungen (Abwehr, Tapferkeit, Reflexe und Wille).
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
@@ -7275,7 +7275,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>Der Priester nutzt Heiliger Glanz immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Leute unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
+      <DefaultText>Der Priester nutzt Heiliger Glanz, immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Leute unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
 	  <FemaleText />
     </Entry>
     <Entry>
