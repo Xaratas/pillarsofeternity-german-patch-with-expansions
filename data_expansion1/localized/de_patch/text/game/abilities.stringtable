@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>1480</ID>
-      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyranischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
+      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyrischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,7 +641,7 @@
     </Entry>
     <Entry>
       <ID>1527</ID>
-      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhphase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhephase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>1538</ID>
-      <DefaultText>Wenn Pro Ruhephase aktivier ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
+      <DefaultText>Wenn Pro Ruhephase aktiviert ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
