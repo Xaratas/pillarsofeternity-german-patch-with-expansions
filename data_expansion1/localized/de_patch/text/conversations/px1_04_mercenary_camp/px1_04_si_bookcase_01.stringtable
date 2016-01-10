@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Bretter dieses Bücherregals quillen über mit Büchern, losen Seiten und den verschiedensten Artefakten. Auf vielen der Buchrücken sind nicht zu entziffernde Hieroglyphen gekritzelt. Einige sind unbeschriftet.
+      <DefaultText>Die Bretter dieses Bücherregals quellen über mit Büchern, losen Seiten und den verschiedensten Artefakten. Auf vielen der Buchrücken sind nicht zu entziffernde Hieroglyphen gekritzelt. Einige sind unbeschriftet.
 
 Es würde Stunden dauern, dieses Chaos zu durchsuchen.</DefaultText>
       <FemaleText />
@@ -40,7 +40,7 @@ Es würde Stunden dauern, dieses Chaos zu durchsuchen.</DefaultText>
       <ID>8</ID>
       <DefaultText>Nach stundenlangem Suchen tut dir dein Rücken weh und deine Augen brennen.
 
-Du findest nichts weiteres von Wert</DefaultText>
+Du findest nichts Weiteres von Wert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,7 +62,7 @@ Du reißt die Münzen heraus und nimmst sie an dich.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Auf einem Regalbrett sind Federn, Drähte und verschiedene andere Teile verstreut. Du erkennst, das es Bauteile einer Falle sind. Du baust die Falle zusammen und steckst sie ein.</DefaultText>
+      <DefaultText>Auf einem Regalbrett sind Federn, Drähte und verschiedene andere Teile verstreut. Du erkennst, dass es Bauteile einer Falle sind, baust sie zusammen und steckst sie ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

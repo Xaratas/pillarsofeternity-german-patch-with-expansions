@@ -66,7 +66,7 @@ Ein trockenes Krächzen von einem Lachen stolpert aus der Kehle des Lichs.
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Das Fleisch um seinen Mund herum zieht sich zusammen. „Ein Phylakterium ist kein bloßes 'Artefakt'. Es ist das Behältnis einer Seele und das Ergebnis hochkomplexer Magie.“
+      <DefaultText>Das Fleisch um seinen Mund herum zieht sich zusammen. „Ein Phylakterium ist kein bloßes ‚Artefakt‘. Es ist das Behältnis einer Seele und das Ergebnis hochkomplexer Magie.“
 
 Er neigt den Kopf.</DefaultText>
       <FemaleText />
@@ -157,12 +157,12 @@ Er neigt den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Ein Phylakterium ist nicht irgendein Tand, den ich um den Hals trage oder in einer Kiste verstecke. Es ist eine komplexe Schicht Zauberkunst, die mit Runden in meinen Schädel geritzt ist und mit einem Adra-Stopfen versiegelt.“ Das dünne Fleisch, das über seine Wangenknochen gespannt ist, zuckt bei diesen Worten.</DefaultText>
+      <DefaultText>„Ein Phylakterium ist nicht irgendein Tand, den ich um den Hals trage oder in einer Kiste verstecke. Es ist eine komplexe Schicht Zauberkunst, die mit Runen in meinen Schädel geritzt und mit einem Adrastopfen versiegelt ist.“ Seine dünnen Wangen zucken bei dieser Erinnerung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Er lacht. „In meinen Augen oder ihren? Du hast gewiss schon von den großen Erzmagiern von Eora gehört - Ninagauth, Minoletta, Citzal und Kalakoth. Auch Arkemyr und Llengrath.“</DefaultText>
+      <DefaultText>Er lacht. „In meinen Augen oder ihren? Du hast gewiss schon von den großen Erzmagiern von Eora gehört: Ninagauth, Minoletta, Citzal und Kalakoth. Nicht zu vergessen auch Arkemyr und Llengrath.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

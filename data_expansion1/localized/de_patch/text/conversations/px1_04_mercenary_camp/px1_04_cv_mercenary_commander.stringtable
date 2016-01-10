@@ -50,10 +50,10 @@ Seine Männer blicken einander schmunzelnd an.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Nur, wenn du nicht in die Geschichte eingehen willst als 'der Narr, der in unser Lager spaziert ist'.“
+      <DefaultText>„Nur, wenn du nicht in die Geschichte eingehen willst als ‚der Narr, der in unser Lager spaziert ist‘.“
 
 „Aber wie du möchtest. Wir werden es schon aus dir herausholen.“</DefaultText>
-      <FemaleText>„Nur, wenn du nicht in die Geschichte eingehen willst als 'die Närrin, die in unser Lager spaziert ist'.“
+      <FemaleText>„Nur, wenn du nicht in die Geschichte eingehen willst als ‚die Närrin, die in unser Lager spaziert ist‘.“
 
 „Aber wie du möchtest. Wir werden es schon aus dir herausholen.“</FemaleText>
     </Entry>
@@ -142,7 +142,7 @@ Baelorin lacht. „Concelhaut hat in seinem Turm jede Menge Schätze gelagert. A
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Ach, wirklich? Äußerst edelmütig von dir. Du kommst hierher und riskierst, von den Männern des Zerrissenen Banners getötet zu werden, wegen&#160;… was genau eigentlich? Concelhauts Büchern? Seinen Destillierhelmen? Mörser und Stößel?“</DefaultText>
+      <DefaultText>„Ach, wirklich? Äußerst edelmütig von dir. Du kommst hierher und riskierst von den Männern des Zerrissenen Banners getötet zu werden, wegen&#160;… was genau eigentlich? Concelhauts Büchern? Seinen Destillierhelmen? Mörser und Stößel?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@ Baelorin lacht. „Concelhaut hat in seinem Turm jede Menge Schätze gelagert. A
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Bälorin mustert dich einen langen Augenblick lang. Dann zuckt er mit den Schultern.
+      <DefaultText>Baelorin mustert dich einen langen Augenblick lang. Dann zuckt er mit den Schultern.
 
 „Was soll es schaden? Aber ich verspreche nicht, dass ich antworte.“
 
@@ -203,7 +203,7 @@ Er bedeutet dir, weiterzusprechen.</DefaultText>
       <ID>37</ID>
       <DefaultText>„Suchst du taktischen Rat?“
 
-Bälorin grunzt. „Am Anfang lief es gut. Aber kaum hatten wir die äußere Mauer durchbrochen, fingen Concelhauts Schergen an, sich aus den Ruinen zu wühlen.“</DefaultText>
+Baelorin grunzt. „Am Anfang lief es gut. Aber kaum hatten wir die äußere Mauer durchbrochen, fingen Concelhauts Schergen an, sich aus den Ruinen zu wühlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,7 +227,7 @@ Bälorin grunzt. „Am Anfang lief es gut. Aber kaum hatten wir die äußere Mau
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Bälorin lacht leise.
+      <DefaultText>Baelorin lacht leise.
 
 „Du hast wohl nicht viel für Concelhaut übrig, was? Sagen wir einfach, dass unser Auftraggeber viel Kleingeld und hohe Standards hat. Und er legt Wert auf Diskretion.“</DefaultText>
       <FemaleText />
@@ -251,7 +251,7 @@ Bälorin grunzt. „Am Anfang lief es gut. Aber kaum hatten wir die äußere Mau
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Bälorin zuckt mit den Schultern.
+      <DefaultText>Baelorin zuckt mit den Schultern.
 
 „Wir wissen es erst, wenn wir hineingehen und es mit eigenen Augen sehen.“</DefaultText>
       <FemaleText />
@@ -265,19 +265,19 @@ Bälorin grunzt. „Am Anfang lief es gut. Aber kaum hatten wir die äußere Mau
       <ID>49</ID>
       <DefaultText>„Tote Männer, die gehen und kämpfen wie die Lebenden. Ihre Rüstung ist so dick, dass sie unsere Pfeile abwehrt, und sie können Zauber wirken, die einen Mann bei lebendigem Leib verbrennen lassen.“
 
-Er blickt in Richtung des nahgelegenen Hügels.</DefaultText>
+Er blickt in Richtung des nahegelegenen Hügels.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>„Nachts sieht man sie auf der Klippe, wie eine Reihe von Fackeln. Ihre brennenden Augen&#160;…“
 
-Bälorin räuspert sich. „Sie kommen nicht hinunter in unser Lager. Sie warten dort oben, bis wir zu ihnen kommen.“</DefaultText>
+Baelorin räuspert sich. „Sie kommen nicht hinunter in unser Lager. Sie warten dort oben, bis wir zu ihnen kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Bälorin hebt seine Klinge zu einem schnellen Gruß.
+      <DefaultText>Baelorin hebt seine Klinge zu einem schnellen Gruß.
 
 „Ich grüße Concelhaut von dir.“</DefaultText>
       <FemaleText />

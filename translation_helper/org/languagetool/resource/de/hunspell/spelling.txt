@@ -31,7 +31,7 @@ Olarra
 Badrwn
 Ardhel
 Marunn/S
-Lich
+Lich/S
 Ailef
 Toma
 Algul
@@ -39,7 +39,7 @@ Darzir
 Felisa
 Zoltun/S
 Gregur/S
-Raedric
+Raedric/S
 Einas
 Gréfenrast
 Cyneheod/S
@@ -171,7 +171,13 @@ Svefverkäufer
 Svef
 Naeldg
 Galvino/S
-Ninagauths
+Ninagauth/S
+Citzal
+Kalakoth
+Arkemyr
+Llengrath
+Caedebald
+Maura
 Erazmur/S
 Knochenbeißer
 Floru
@@ -191,8 +197,15 @@ Gaderman
 Taragaer
 Grauschnauze
 Qexetl
-Ninagauth
 Bleichelf
+Tacan
+Malcachoa
+Tamin
+Ezli
+Acqui
+Anitlei
+Quechmatl
+Ixepillo/S
 Vamrel
 Silwha
 Makanu
@@ -266,7 +279,7 @@ Purniscs
 Lumdalas
 Admeths
 Kolfecgs
-Doemenel
+Doemenel/S
 Reymont-Herrenhaus
 Icanthas
 Madhmrbrücke
@@ -287,6 +300,7 @@ Regd
 Edrang
 Hadret
 Schmelztiegelritter/S
+Schmelztiegelrittern
 Dunrydstraße
 Eothasier
 Kaltmorg
@@ -310,7 +324,7 @@ Ulmar/S
 Okrun/S
 Ixtli/S
 Marrat
-Ixamitl
+Ixamitl/S
 Alt-Dunryd-Jagdgesellschaft
 Laenric
 Orlaner/S
@@ -324,6 +338,10 @@ Durgan/S
 Admeth
 Clîaban
 Rilag
+Carow
+Golan
+iroccianisch
+iroccianische
 Mittjahr
 Majivèrno
 Préïvèrno
@@ -382,7 +400,8 @@ Exandru
 Florens
 Phylakterium
 Crägholdt
-Baelorin
+Baelorin/S
+Albennas
 Galvino
 Kulkin-Prinzessin
 Kulkin-König
@@ -393,7 +412,9 @@ Xitlac
 Cualla
 Notoc
 Tlocotl
+Barrierezauber
 Essenzfäden
+Essenzquelle
 Ygadr
 Korgrak
 Harmke/S
@@ -588,10 +609,14 @@ Wirtskörper
 Duc/S
 Beseeler/N
 Beseelers
+Trollhäute
 Rehknochen
 hohlgeboren/A
 Trotzes
 Neids
+malmt
+klackernd
+Laboratoriums
 furchterfüllt
 Kultistin
 Kultist
@@ -686,6 +711,7 @@ Rußschicht
 reffer
 reffer-Schaden
 -Zauber
+-Bestie
 # Nicht übersetzes Englisch (z.B. Ersetzungstoken)
 Hotkey/S
 Specified

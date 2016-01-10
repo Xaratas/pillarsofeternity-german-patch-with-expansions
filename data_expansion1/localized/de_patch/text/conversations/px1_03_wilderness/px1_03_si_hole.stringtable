@@ -108,7 +108,7 @@ Irgendetwas ist hier faul. Als Beweis für deine Entdeckung nimmst du eine der l
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Du trittst an das Loch heran, das in die gefrorene Teichoberfläche geschnitten wurde.</DefaultText>
+      <DefaultText>Du trittst an das Loch heran, das in den zugefrorenen Teich geschnitten wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -332,7 +332,7 @@ Du erkennst die Gegenstände als Okruns Erbstücke. Die übrigen Kisten, die Kis
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[Aus Ixtlis Notizbuch lesen, „Notoc Tloctol“.]</DefaultText>
+      <DefaultText>[Aus Ixtlis Notizbuch lesen, „Notoc Tlocotl“.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -57,7 +57,7 @@ Bei näherer Betrachtung entpuppt es sich als Trollhäute.</DefaultText>
       <ID>10</ID>
       <DefaultText>Nach stundenlangem Suchen tut dir dein Rücken weh und deine Augen brennen.
 
-Du findest nichts weiteres von Wert</DefaultText>
+Du findest nichts Weiteres von Wert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Du findest nichts weiteres von Wert</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Die Bretter dieses Bücherregals quillen über mit Büchern, losen Seiten und den verschiedensten Artefakten. Auf vielen der Buchrücken sind nicht zu entziffernde Hieroglyphen gekritzelt. Einige sind unbeschriftet.
+      <DefaultText>Die Bretter dieses Bücherregals quellen über mit Büchern, losen Seiten und den verschiedensten Artefakten. Auf vielen der Buchrücken sind nicht zu entziffernde Hieroglyphen gekritzelt. Einige sind unbeschriftet.
 
 Es würde Stunden dauern, dieses Chaos zu durchsuchen.</DefaultText>
       <FemaleText />

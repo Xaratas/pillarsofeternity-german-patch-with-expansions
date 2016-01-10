@@ -9,6 +9,7 @@ Aura	Aura	SUB:SIN:FEM
 Auren	Aura	SUB:PLU:FEM
 Stoikerin	Stoiker	SUB:SIN:FEM
 Nahkampfangriffe	Nahkampfangriff	SUB:PLU:MAS
+Schlüssel	Schlüssel	SUB:AKK:SIN
 # A POS tag dictionary that's used additionally to german.dict.
 # This does not add words to the spell checker, see hunspell/spelling.txt for that.
 # File Encoding: UTF-8
