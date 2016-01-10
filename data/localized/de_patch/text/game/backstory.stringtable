@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Deine Familie gehört zur gesellschaftlichen Oberschicht, und deine Erziehung gab dir viele Vorteile gegenüber jenen von niederer Geburt. Du hattest Zugang zu einer erstklassiger Ausbildung und kennst dich auf extravaganten Feiern und Tanzveranstaltungen aus. Auch der Jagdsport und die politischen Sorgen des Landadels sind dir nicht fremd.</DefaultText>
+      <DefaultText>Deine Familie gehört zur gesellschaftlichen Oberschicht, und deine Erziehung gab dir viele Vorteile gegenüber jenen von niederer Geburt. Du hattest Zugang zu einer erstklassigen Ausbildung und kennst dich auf extravaganten Feiern und Tanzveranstaltungen aus. Auch der Jagdsport und die politischen Sorgen des Landadels sind dir nicht fremd.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Du erklärtest ihm, dass du mit deiner Familie wegen deiner neuen Überzeugung in Streit geraten warst, und dass sie ihn nicht akzeptierten und nun nicht mehr mir dir sprächen.</DefaultText>
+      <DefaultText>Du erklärtest ihm, dass du mit deiner Familie wegen deiner neuen Überzeugung in Streit geraten warst, und dass sie ihn nicht akzeptierten und nun nicht mehr mit dir sprächen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,7 +586,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Am fernen Ende von Breith Eaman trafst du Iovara, die sich an dich von deinem längst vergangenen Leben erinnerte. Sie sagte, dass du sie einmal nach ihrer Verurteilung besucht hattest, und dass es dabei darum gegangen war, ob ihre Lehren wahr seien, dass es die Götter nicht gäbe. Sie hatte dir eine Antwort, aber keine Beweise gegeben, und aufgrund deiner fortwährenden Unzufriedenheit hattest du in Sonne im Schatten Thaos deswegen konfrontiert. Sie deutete an, dass deine Seele vielleicht immer noch nach einer Auflösung dieser Angelegenheit suche, obwohl Thaos dir dabei wohl nicht helfen würde.</DefaultText>
+      <DefaultText>Am fernen Ende von Breith Eaman trafst du Iovara, die sich an dich von deinem längst vergangenen Leben erinnerte. Sie sagte, dass du sie einmal nach ihrer Verurteilung besucht hattest, und dass es dabei darum gegangen war, ob ihre Lehren wahr seien, dass es die Götter nicht gäbe. Iovara hatte dir eine Antwort, aber keine Beweise gegeben, und aufgrund deiner fortwährenden Unzufriedenheit hattest du in Sonne im Schatten Thaos deswegen konfrontiert. Sie deutete an, dass deine Seele vielleicht immer noch nach einer Auflösung dieser Angelegenheit suche, obwohl Thaos dir dabei wohl nicht helfen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,7 +926,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Wenn man in der Thronfolge aber nicht als Nächster kommt, bringt einem auch königliches Blut nicht viel, weshalb es für dich nicht viel Sinn macht, vor Ort zu bleiben und zu warten.</DefaultText>
+      <DefaultText>Wenn man in der Thronfolge aber nicht als Nächster kommt, bringt einem auch königliches Blut nicht viel, weshalb es für dich nicht viel Sinn ergibt, vor Ort zu bleiben und zu warten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,7 +1066,7 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>Die Gefahren deines Berufs holten dich aber ein, und du wurdest auf einer Mission entdeckt. Die entgingst der Gefangennahme, aber da man deine Identität nun kannte, war es zu Hause nicht mehr sicher für dich.</DefaultText>
+      <DefaultText>Die Gefahren deines Berufs holten dich aber ein, und du wurdest auf einer Mission entdeckt. Du entgingst der Gefangennahme, aber da man deine Identität nun kannte, war es zu Hause nicht mehr sicher für dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,12 +1336,12 @@
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>Der Zugang zu Adelshaushalten brachte dich in direkt Nähe zu zahlreichen Schätzen, unter ihnen ein galanter Ehemann. Kaum hatte seine Ehefrau die Affäre entdeckt, da hatte sie schon ein Kopfgeld auf dich ausgesetzt, und du musstest um deines Lebens willen fliehen.</DefaultText>
+      <DefaultText>Der Zugang zu Adelshaushalten brachte dich in direkte Nähe zu zahlreichen Schätzen, unter ihnen ein galanter Ehemann. Kaum hatte seine Ehefrau die Affäre entdeckt, da hatte sie schon ein Kopfgeld auf dich ausgesetzt, und du musstest um deines Lebens willen fliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Der Zugang zu Adelshaushalten brachte dich in direkt Nähe zu zahlreichen Schätzen, unter ihnen eine elegante Ehefrau. Kaum hatte ihr Ehemann die Affäre entdeckt, da hatte er schon ein Kopfgeld auf dich ausgesetzt, und du musstest um deines Lebens willen fliehen.</DefaultText>
+      <DefaultText>Der Zugang zu Adelshaushalten brachte dich in direkte Nähe zu zahlreichen Schätzen, unter ihnen eine elegante Ehefrau. Kaum hatte ihr Ehemann die Affäre entdeckt, da hatte er schon ein Kopfgeld auf dich ausgesetzt, und du musstest um deines Lebens willen fliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1371,7 +1371,7 @@
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Du bestrittst deinen Lebensunterhalt mit deinem Schwert, und als die Arbeit in deinem Heimatland weniger wurde, musstest du ins Ausland ziehen, um dort ein Auskommen zu suchen.</DefaultText>
+      <DefaultText>Du bestrittest deinen Lebensunterhalt mit deinem Schwert, und als die Arbeit in deinem Heimatland weniger wurde, musstest du ins Ausland ziehen, um dort ein Auskommen zu suchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Trotz all deiner Bemühungen konntest du nicht verhindern, dass Leute verletzt wurden, und im Laufe der Zeit erschien dir deine Mission zunehmend aussichtslos. Zurückzubleiben und zu versuchen, das Unvermeidbare aufzuhalten, machte nicht viel Sinn.</DefaultText>
+      <DefaultText>Trotz all deiner Bemühungen konntest du nicht verhindern, dass Leute verletzt wurden, und im Laufe der Zeit erschien dir deine Mission zunehmend aussichtslos. Zurückzubleiben und zu versuchen, das Unvermeidbare aufzuhalten, ergab nicht viel Sinn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,7 +1896,7 @@
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>An einer Kreuzung in der Wildnis trafst du auf die Jägerin Sagani. Sie war in der Hoffnung aus Naasitaq gekommen, die Reinkarnation eines Ältesten ihrer Dorfes zu finden. Beeindruckt von deiner Fähigkeit, Seelen zu sehen und aufzuspüren, akzeptierte sie dein Angebot, gemeinsam zu reisen.</DefaultText>
+      <DefaultText>An einer Kreuzung in der Wildnis trafst du auf die Jägerin Sagani. Sie war in der Hoffnung aus Naasitaq gekommen, die Reinkarnation eines Ältesten ihres Dorfes zu finden. Beeindruckt von deiner Fähigkeit, Seelen zu sehen und aufzuspüren, akzeptierte sie dein Angebot, gemeinsam zu reisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
