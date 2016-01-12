@@ -236,8 +236,8 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
     </Entry>
     <Entry>
       <ID>1936</ID>
-      <DefaultText>Ein gemeinsamer Bekannter hat mich wissen lassen, dass ich die pünktliche Lieferung meiner Ware dir zu verdanken habe, und darüber hinaus deutlich verbesserte Bedingungen auf den Straßen rund um das Dorf Stalwart. 
-Mit diesem Brief sende ich dir ein kleines Zeichen unserer Dankbarkeit. Außerdem findest du eine kleine Kostprobe unserer letzten Lieferung. Eines Tages können wir jemand mit einem solch einzigartigen Ruf vielleicht eine geeignetere Belohnung anbieten. 
+      <DefaultText>Ein gemeinsamer Bekannter hat mich wissen lassen, dass ich die pünktliche Lieferung meiner Ware dir zu verdanken habe, und darüber hinaus deutlich verbesserte Bedingungen auf den Straßen rund um das Dorf Stalwart.
+Mit diesem Brief sende ich dir ein kleines Zeichen unserer Dankbarkeit. Außerdem findest du eine kleine Kostprobe unserer letzten Lieferung. Eines Tages können wir jemand mit einem solch einzigartigen Ruf vielleicht eine geeignetere Belohnung anbieten.
 
 Ich hoffe, dass wir weiterhin miteinander Geschäfte machen können.
 
@@ -300,7 +300,7 @@ Ich hoffe, dass wir weiterhin miteinander Geschäfte machen können.
 
 Tag 6 - Es kommt ein Schneesturm. Wir bleiben hier, bis er vorüber ist.
 
-Tag 9 - Zwei Oger sind aufgetaucht. Zum Glück haben sie uns nicht gesehen. 
+Tag 9 - Zwei Oger sind aufgetaucht. Zum Glück haben sie uns nicht gesehen.
 
 Tag 11 - Verfolgen einen großen Bären, den Nurin vom Hügel aus gesehen hat. Vielleicht ist es Grauschnauze. Mein Großvater hat mir Geschichten von ihm erzählt. Wäre es nicht toll, wenn wir es sind, die ihn endlich töten?
 
@@ -579,7 +579,7 @@ Auf einer Karte des Rotwalds ist ein wichtiges Gewässer markiert. Daneben stehe
     </Entry>
     <Entry>
       <ID>1998</ID>
-      <DefaultText>Das Herstellersiegel dieses Schildes lässt sich zu einer bescheidenen Schmiede in Dawning zurückverfolgen. Seinen Namen verdiente der Schild sich im Besitz von Poldur Grynt, einem jungen aedyranischen Fürsten. Grynts Vorliebe für Duelle diente als Inspiration für viele anti-aedyranische Volkslieder und Theaterstücke während der Zeit des Widerstandskriegs. 
+      <DefaultText>Das Herstellersiegel dieses Schildes lässt sich zu einer bescheidenen Schmiede in Dawning zurückverfolgen. Seinen Namen verdiente der Schild sich im Besitz von Poldur Grynt, einem jungen aedyrischen Fürsten. Grynts Vorliebe für Duelle diente als Inspiration für viele anti-aedyrische Volkslieder und Theaterstücke während der Zeit des Widerstandskriegs.
 
 Grynt genoss den Ruf, ein unnachgiebiger und unbesiegbarer Feind zu sein - denn wann immer er im Duell zu unterliegen drohte, hob er seinen schwarzen Schild und kämpfte fortan mit neuer Kraft. Grynt setzte den Schild mehrere Jahre lang äußerst wirkungsvoll ein, ehe er gegen einen erfahreneren Rivalen schließlich hoffnungslos unterlegen war. In dem Irrglauben, der Schild könnte ihn auch auf der Schwelle des Todes noch retten, floh Grynt aus dem Duell&#160;… und verblutete kurz darauf am Ufer des Flusses Isce Îen.</DefaultText>
       <FemaleText />
@@ -595,12 +595,12 @@ Während ihre Vettern, die Ungradr, zu den Herrschern der Region Kaltwasser aufs
     </Entry>
     <Entry>
       <ID>2000</ID>
-      <DefaultText>Der Name ihres ursprünglichen Besitzers ist zwar in Vergessenheit geraten, aber die legendäre Weiße Wappenrüstung taucht in vielen Geschichten über einen Zwergen auf, der Ondra verehrte. Seine Schläge trafen seine Feinde mit der überwältigenden Macht der See. Die Rüstung war so schwer, dass der Krieger sich in den Beschreibungen bewegt, als würde er durch seichtes Wasser waten. Glaubten seine Feinde aber, dass sie einen Geschwindigkeitsvorteil hätten, mussten sie oft feststellen, dass sie vor den Blitzzaubern des Kriegers nicht davonlaufen konnten.</DefaultText>
+      <DefaultText>Der Name ihres ursprünglichen Besitzers ist zwar in Vergessenheit geraten, aber die legendäre Weiße Wappenrüstung taucht in vielen Geschichten über einen Zwerg auf, der Ondra verehrte. Seine Schläge trafen seine Feinde mit der überwältigenden Macht der See. Die Rüstung war so schwer, dass der Krieger sich in den Beschreibungen bewegt, als würde er durch seichtes Wasser waten. Glaubten seine Feinde aber, dass sie einen Geschwindigkeitsvorteil hätten, mussten sie oft feststellen, dass sie vor den Blitzzaubern des Kriegers nicht davonlaufen konnten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2001</ID>
-      <DefaultText>Die berühmte zwergische Entdeckerin Katrenn diente als Paradebeispiel für die legendäre Wanderlust ihres Volkes. Sie unternahm Reisen, die sie in Länder beiderseits des Großen Ostozeans führten. Zum Schutz auf ihren Expeditionen gab sie eine Lederrüstung in Auftrag, die es ihr ermöglichen sollte, auch unwegsames Gelände ungehindert durchqueren zu können. Von ihren Geschichten inspiriert verzauberte der Rüstungsschmied das Leder so, dass es seinem Träger ungewöhnliche Ausdauer verleiht. Bald war es ein alltäglicher Anblick, Katrenn ohne den kleinsten Kratzer durch dichtes dorniges Gestrüpp laufen zu sehen. 
+      <DefaultText>Die berühmte zwergische Entdeckerin Katrenn diente als Paradebeispiel für die legendäre Wanderlust ihres Volkes. Sie unternahm Reisen, die sie in Länder beiderseits des Großen Ostozeans führten. Zum Schutz auf ihren Expeditionen gab sie eine Lederrüstung in Auftrag, die es ihr ermöglichen sollte, auch unwegsames Gelände ungehindert durchqueren zu können. Von ihren Geschichten inspiriert verzauberte der Rüstungsschmied das Leder so, dass es seinem Träger ungewöhnliche Ausdauer verleiht. Bald war es ein alltäglicher Anblick, Katrenn ohne den kleinsten Kratzer durch dichtes dorniges Gestrüpp laufen zu sehen.
 
 Katrenns Ruhm und Erfahrung sollen so groß gewesen sein, dass sie gebeten wurde, die Expedition zu begleiten, die letztlich zur Gründung von Durgans Batterie führte. Es ist nicht bekannt, ob das Wahrheit oder Legende ist, denn es existieren keine weiteren Aufzeichnungen über ihre Abenteuer.</DefaultText>
       <FemaleText />
@@ -612,7 +612,7 @@ Katrenns Ruhm und Erfahrung sollen so groß gewesen sein, dass sie gebeten wurde
     </Entry>
     <Entry>
       <ID>2003</ID>
-      <DefaultText>Diese goldene Schuppenrüstung glänzt noch immer so sehr, dass man sich darin spiegeln kann. Sie ist eines der letzten großen Werke des angesehenen Schmiedes Rus Stanclef. Als Inspiration diente Stanclef eine örtliche Fabel von einem goldenen Drachen. Er schuf die Rüstung nach dem Vorbild der legendären Bestie. 
+      <DefaultText>Diese goldene Schuppenrüstung glänzt noch immer so sehr, dass man sich darin spiegeln kann. Sie ist eines der letzten großen Werke des angesehenen Schmiedes Rus Stanclef. Als Inspiration diente Stanclef eine örtliche Fabel von einem goldenen Drachen. Er schuf die Rüstung nach dem Vorbild der legendären Bestie.
 
 Er versah die Goldenen Schuppen mit Schutzzaubern gegen Flammen - und mit denselben spiegelnden Eigenschaften, die ihren Namensgeber vor Angriffen aus der Ferne beschützten. So entstand eine auffällige und wirksame Rüstung, die vor allem bei jenen beliebt waren, die gerne im Mittelpunkt der Aufmerksamkeit standen.</DefaultText>
       <FemaleText />
@@ -649,7 +649,7 @@ Er versah die Goldenen Schuppen mit Schutzzaubern gegen Flammen - und mit densel
     </Entry>
     <Entry>
       <ID>2010</ID>
-      <DefaultText>Dieser graue Umhang ist mit zahlreichen stilisierten Augen bedeckt, dem Symbol des Gottes Wael. Es heißt, dass der Zauberer Göryn ihn geschaffen habe - in der Hoffnung, durch diese gläubige Tat Waels schützende Gunst zu gewinnen. Angesichts der vielen Augen der Hundert Geheimnisse, so hoffte Göryn, würden seine Feinde auf Lügen und Falschheiten hereinfallen&#160;… während er selbst immun gegen die verwirrenden Geheimnisse der Welt wäre. 
+      <DefaultText>Dieser graue Umhang ist mit zahlreichen stilisierten Augen bedeckt, dem Symbol des Gottes Wael. Es heißt, dass der Zauberer Göryn ihn geschaffen habe - in der Hoffnung, durch diese gläubige Tat Waels schützende Gunst zu gewinnen. Angesichts der vielen Augen der Hundert Geheimnisse, so hoffte Göryn, würden seine Feinde auf Lügen und Falschheiten hereinfallen&#160;… während er selbst immun gegen die verwirrenden Geheimnisse der Welt wäre.
 
 Wer den Umhang seitdem sein eigen genannt hat, fand die Verzauberungen durchweg äußerst nützlich. Was aus Göryn selbst geworden ist, ist nicht bekannt. Weder von seinen Werken noch von ihm selbst gibt es irgendeine Spur.</DefaultText>
       <FemaleText />
@@ -661,7 +661,7 @@ Wer den Umhang seitdem sein eigen genannt hat, fand die Verzauberungen durchweg 
     </Entry>
     <Entry>
       <ID>2012</ID>
-      <DefaultText>Irgendwie gelangte das Schwert später nach Gabeltal. Als der Widerstandskrieg begann, befand es sich dort im Besitz des Hauptmanns der örtlichen Miliz. Er verteidigte damit die fliehenden Bürger, als aedyranische Truppen von Nordwesten und Südosten auf die Stadt zumarschierten. Der Hauptmann bewachte die Straße nach Baelreach und fiel, während die Dorfbewohner flohen.</DefaultText>
+      <DefaultText>Irgendwie gelangte das Schwert später nach Gabeltal. Als der Widerstandskrieg begann, befand es sich dort im Besitz des Hauptmanns der örtlichen Miliz. Er verteidigte damit die fliehenden Bürger, als aedyrische Truppen von Nordwesten und Südosten auf die Stadt zumarschierten. Der Hauptmann bewachte die Straße nach Baelreach und fiel, während die Dorfbewohner flohen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@ Wer den Umhang seitdem sein eigen genannt hat, fand die Verzauberungen durchweg 
     </Entry>
     <Entry>
       <ID>2016</ID>
-      <DefaultText>Der Erfinder Galvino schuf den Körper der Teufelin von Caroc aus geschmiedeter Bronze, eingelegt mit silbernen Panelen und verziert mit aufwändigen Gravuren im vailianischen Stil. Zusammengehalten wird der Körper mit unzähligen kleinen Blechbolzen und -scharnieren. Er ist ein wahres Meisterwerk der Handwerkskunst und dient als mobiles Behältnis für ihre Seele.
+      <DefaultText>Der Erfinder Galvino schuf den Körper der Teufelin von Caroc aus geschmiedeter Bronze, eingelegt mit silbernen Paneelen und verziert mit aufwändigen Gravuren im vailianischen Stil. Zusammengehalten wird der Körper mit unzähligen kleinen Blechbolzen und -scharnieren. Er ist ein wahres Meisterwerk der Handwerkskunst und dient als mobiles Behältnis für ihre Seele.
 
 Ob aus ästhetischen oder aus funktionellen Gründen, das Gesicht stattete Galvino mit Onyxaugen aus. Diese Augen sind so glatt poliert, dass sie die Umgebung der Teufelin unbeteiligt widerspiegeln. Gelegentlich aber blitzt ein kleiner Makel im Stein auf&#160;… oder ein tief sitzender Funken der Boshaftigkeit.</DefaultText>
       <FemaleText />
@@ -698,7 +698,7 @@ Ob aus ästhetischen oder aus funktionellen Gründen, das Gesicht stattete Galvi
     </Entry>
     <Entry>
       <ID>2019</ID>
-      <DefaultText>Der Legende nach ist dieser Schild einer von zwölfen, die für eine kleine Gruppe von Paladinen aus dem Orden der Gütigen Wanderer geschmiedet wurden. Diese Paladine nannten sich selbst 'Die Türme'. Sie hatten es sich zur Aufgabe gemacht, die kleinen Dörfer und Städte im Vorgebirge der Weißmark zu beschützen.  
+      <DefaultText>Der Legende nach ist dieser Schild einer von zwölfen, die für eine kleine Gruppe von Paladinen aus dem Orden der Gütigen Wanderer geschmiedet wurden. Diese Paladine nannten sich selbst 'Die Türme'. Sie hatten es sich zur Aufgabe gemacht, die kleinen Dörfer und Städte im Vorgebirge der Weißmark zu beschützen.
 
 Ihre Gruppe war zwar klein, doch die Paladine waren für ihre standhafte Hingabe bekannt, mit der sie ohne zu zögern jede Bedrohung für unschuldige Reisende bekämpften. Alle, die je das Glück hatten, an der Seite dieser Krieger zu kämpfen, berichteten, dass eigentlich tödliche Hiebe harmlos von ihren Rüstungen abprallten. Die Paladine, so sagten sie, hätten ihnen Glück gebracht.
 
@@ -734,7 +734,7 @@ Ein Bürger von Guthoffnung, so heißt es, hat diesen Schild aus dem See der ver
     </Entry>
     <Entry>
       <ID>2025</ID>
-      <DefaultText>Kommandant Baelorin, 
+      <DefaultText>Kommandant Baelorin,
 
 Ihr müsst unverzüglich nach Crägholdt eilen. Concelhaut wird sich nicht freiwillig von dem engwithanischen Phylakterium trennen, doch Ihr müsst es in Euren Besitz bringen, mit allen Mitteln. Seid gewarnt - alle bisherigen Versuche, an das Artefakt zu gelangen sind bitterlich gescheitert. Wir wissen sehr wenig über das Phylakterium. Nur, dass es nahezu unzerstörbar ist. Ich schlage daher vor, dass Ihr Eure beträchtliche Stärke nutzt, um Crägholdt zu belagern. Wenn Concelhaut tot ist, könnt ihr die Überreste seines Turms nach dem Phylakterium durchsuchen. Die Lieferung des Artefakts ist Euer Hauptauftrag. Ein unzweifelhafter Beweis des Ablebens Concelhauts bringt Euch jedoch einen beträchtlichen Bonus ein.
 
@@ -892,7 +892,7 @@ Der Rest der Besatzung ließ das Schiff auf Grund laufen und floh. Auch die Skla
     </Entry>
     <Entry>
       <ID>2041</ID>
-      <DefaultText>Aschfall war eine der am erbittertsten umkämpften aedyranischen Siedlungen im Dyrwald. Für Baldwen Strangbrod war es eine Ehre, zum Thayn des Ortes ernannt zu werden. Er sorgte sich jedoch um seine zwei Kinder, die sein Talent für die Kampfkunst offenbar nicht geerbt hatten.
+      <DefaultText>Aschfall war eine der am erbittertsten umkämpften aedyrischen Siedlungen im Dyrwald. Für Baldwen Strangbrod war es eine Ehre, zum Thayn des Ortes ernannt zu werden. Er sorgte sich jedoch um seine zwei Kinder, die sein Talent für die Kampfkunst offenbar nicht geerbt hatten.
 
 Er beauftragte einen vailianischen Zauberer, die Ausbildung seiner Kinder voranzutreiben. Dieser Zauberer fertigte einen Stab eigens für diesen Zweck. Er versprach, dass die Geschosse des Stabs harmlos genug waren, um die Erben des Thayns nicht ernstlich zu verletzen&#160;… dass die Waffe mit der Zeit aber ihre Schwäche genauesten offenlegen würde.
 
@@ -901,7 +901,7 @@ Der Stab hielt die Versprechen des Zauberers. Doch auch nach monatelangen Übung
     </Entry>
     <Entry>
       <ID>2042</ID>
-      <DefaultText>Curoc war ein aedyranischer Adliger in Readceras, dem sechshundert Morgen Vorlas-Felder gehörten. Er hielt sich für einen frommen Mann, und unter seinen Nachbarn und Pächtern war er für seine Hingabe zu Woedica bekannt. Er schuftete an der Seite seiner Pächter und führte genau Buch über den Ernteertrag und den Verkauf. Er war aber auch für sein unbarmherziges Gemüt und seine Gnadenlosigkeit im Umgang mit Faulpelzen bekannt. Er trug einen Stock bei sich und prügelte wild auf jeden Arbeiter ein, den er beim Trödeln oder Ausruhen erwischte.
+      <DefaultText>Curoc war ein aedyrischer Adliger in Readceras, dem sechshundert Morgen Vorlas-Felder gehörten. Er hielt sich für einen frommen Mann, und unter seinen Nachbarn und Pächtern war er für seine Hingabe zu Woedica bekannt. Er schuftete an der Seite seiner Pächter und führte genau Buch über den Ernteertrag und den Verkauf. Er war aber auch für sein unbarmherziges Gemüt und seine Gnadenlosigkeit im Umgang mit Faulpelzen bekannt. Er trug einen Stock bei sich und prügelte wild auf jeden Arbeiter ein, den er beim Trödeln oder Ausruhen erwischte.
 
 Da er aber beim kaiserlichen Statthalter in der Gunst stand, wurde über sein Verhalten hinweggesehen.
 
@@ -919,14 +919,14 @@ Curoc schnaubte verächtlich. „Du willst seinen Ungehorsam belohnen! Es ist me
 
 Aber Waidwen beharrte: „Folgt nicht auf den stillen Winter der fruchtbare Frühling? Durch Eothas Gnade erleben wir die Wiedergeburt in jedem neuen Leben und die Wiederherstellung mit jedem neuen Morgen. Und es ist Eothas' Jahreszeit, die deine Felder segnet. Ich sage dir erneut: Lasse diesen Mann gehen.“
 
-In seinem Zorn wandte Curoc sich gegen Waidwen, den Stock zum Schlag erhoben. Doch plötzlich wurde der Stab heiß in seiner Hand. Er schrie auf und der Stab entzündete sich. Die Flamme, die hervorschoß, raubte ihm das Augenlicht und ließ sein Gesicht so vernarbt zurück wie das der Verbrannten Königin.
+In seinem Zorn wandte Curoc sich gegen Waidwen, den Stock zum Schlag erhoben. Doch plötzlich wurde der Stab heiß in seiner Hand. Er schrie auf und der Stab entzündete sich. Die Flamme, die hervorschoss, raubte ihm das Augenlicht und ließ sein Gesicht so vernarbt zurück wie das der Verbrannten Königin.
 
 Curoc ließ den qualmenden Stab fallen und floh, um dem Statthalter zu berichten, was er erlebt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2043</ID>
-      <DefaultText>Zauberzunge wurde in Rauatai als Duellwaffe geschmiedet und hat seitdem dutzende Male den Besitzer gewechselt. Ihre gespaltene Spitze, die gewellte Klinge und die blaue Farbe machten die Waffe äußerst beliebt bei Novizen, deren Selbstbewustsein oft ihr Können überstieg.
+      <DefaultText>Zauberzunge wurde in Rauatai als Duellwaffe geschmiedet und hat seitdem dutzende Male den Besitzer gewechselt. Ihre gespaltene Spitze, die gewellte Klinge und die blaue Farbe machten die Waffe äußerst beliebt bei Novizen, deren Selbstbewusstsein oft ihr Können überstieg.
 
 Zuletzt befand Zauberzunge sich im Besitz von Matapa, einer jungen Frau aus einer der reichen Aumaua-Familien von Tongira. Mit der Klinge in der Hand verkündete sie ihren Eltern, dass sie in Tâkowa ihr Glück als Duellantin versuchen wollte. Ihre Eltern bemühten sich, sie davon abzubringen, doch ihr Entschluss stand fest. Schließlich beglückwünschten ihre Eltern sie zögerlich und gaben ein großes Festmahl zu ihren Ehren.
 
@@ -995,7 +995,7 @@ Als die Belagerung immer länger andauerte, ließ der Hafenmeister weitere Bogen
     </Entry>
     <Entry>
       <ID>2054</ID>
-      <DefaultText>Ein aedyranischer Entdecker in Eir Glanfath kam zu einer Reihe von Adra-Säulen in der Nähe des heutigen Trosttals. Nachdem er noch nie eine solche Ansammlung von lebendem Adra gesehen hatte, dachte er sofort an die Ine Sycthrúa, in der die Seelen des aedyranischen Adels beherbergt sind. Und er war sicher, dass diese Säulen etwas ganz Wunderbares enthalten müssten. Er schlug ein Stück Adra davon ab und brachte es nach Dunryd, um es dort zu untersuchen.</DefaultText>
+      <DefaultText>Ein aedyrischer Entdecker in Eir Glanfath kam zu einer Reihe von Adrasäulen in der Nähe des heutigen Trosttals. Nachdem er noch nie eine solche Ansammlung von lebendem Adra gesehen hatte, dachte er sofort an die Ine Sycthrúa, in der die Seelen des aedyrischen Adels beherbergt sind. Und er war sicher, dass diese Säulen etwas ganz Wunderbares enthalten müssten. Er schlug ein Stück Adra davon ab und brachte es nach Dunryd, um es dort zu untersuchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1322,7 +1322,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
     </Entry>
     <Entry>
       <ID>2107</ID>
-      <DefaultText>Fleckenrückenbarsche kommen in den kalten Wassern der Weißmark sehr häufig vor. Ihr mageres Fleisch macht sie perfekt zum Pökeln und Dörren. Die Dyrwäldler salzen ihren Dörrfisch häufig, während man die Fleckenrücken in Stalwart in dünne Streifen schneidet und sie räuchert.</DefaultText>
+      <DefaultText>Fleckenrückenbarsche kommen in den kalten Wassern der Weißmark sehr häufig vor. Ihr mageres Fleisch macht sie perfekt zum Pökeln und Dörren. Die Dyrwälder salzen ihren Dörrfisch häufig, während man die Fleckenrücken in Stalwart in dünne Streifen schneidet und sie räuchert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1434,7 +1434,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
       <ID>2129</ID>
       <DefaultText>Sabra Marie gehörte einem Bogenschützen aus den vailianischen Republiken, der für die Unabhängigkeit des Dyrwalds kämpfte. Als der Widerstandskrieg begann, schlossen sich viele der Republiken - selbst erst seit kurzem unabhängig - dem Kampf im Norden an.
 
-Der Vailianer hatte einen längeren - und melodischeren - Namen für seinen Bogen, aber ‚Sabra Marie‘ wurde rasch zur örtlichen Verballhornung. Es gibt keine Berichte darüber, wie er in den Besitz des Bogens kam&#160;… aber umso mehr Berichte darüber, wie nützlich die Waffe gegen größere Truppen war. Schnelle, starke Schüsse, die aus der Deckung abgefeuert wurden, ließen während des gesamten Krieges unzählige aedyranische Einheiten auseinanderstieben.</DefaultText>
+Der Vailianer hatte einen längeren - und melodischeren - Namen für seinen Bogen, aber ‚Sabra Marie‘ wurde rasch zur örtlichen Verballhornung. Es gibt keine Berichte darüber, wie er in den Besitz des Bogens kam&#160;… aber umso mehr Berichte darüber, wie nützlich die Waffe gegen größere Truppen war. Schnelle, starke Schüsse, die aus der Deckung abgefeuert wurden, ließen während des gesamten Krieges unzählige aedyrische Einheiten auseinanderstieben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1637,15 +1637,15 @@ Tanoss - ich bezweifle, dass du überhaupt lesen kannst, aber ich verfüttere de
 
 „Anni Iroccio: Neujahr
 
-Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
+Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyrischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyrische Kalender hoffnungslos ungenau war.
 
-Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyranischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres - Neujahr und Mittjahr - dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
+Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyrischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres - Neujahr und Mittjahr - dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
 
 Um beim Übergang vom alten auf den neuen Kalender Verwirrung zu vermeiden, behielt Iroccio das Jahr bei. Obwohl der Kalender also erst seit 150 Jahren besteht, schreiben wir bereits das Jahr 2823 AI (Anni Iroccio).
 
 Iroccio gab den Monaten vailianische Namen, doch im Dyrwald und den umliegenden Gebieten werden sie bei ihren übersetzten Namen genannt.
 
-Das Jahr ist wie folgt unterteilt - 
+Das Jahr ist wie folgt unterteilt -
 
 Neujahr - Ein Tag, um die Ankunft des neuen Jahres zu feiern. Von allen Feiertagen ist dies der beliebteste bei den Bewohnern des Dyrwalds und der vailianischen Republiken. Jedes Jahr wird mit dem brennenden Eifer begrüßt, einen Neubeginn zu feiern, ohne Altlasten von vorne zu beginnen.
 
@@ -1728,9 +1728,9 @@ Schließlich warf er diesen Umhang fort und trug stattdessen ein einfacheres, we
     </Entry>
     <Entry>
       <ID>2180</ID>
-      <DefaultText>Der Umhang des Meistermystikers war ein Geschenk an einen Kulklin-König in der Zeit, bevor die Königreiche Kulklin und Aedyr sich zum aedyranischen Reich zusammenschlossen. Er war mit Zaubern und Magie verstärkt, die seinen Besitzer beschützten. Das machte ihn äußerst nützlich, wenn man einige der heiß umkämpften Regionen an der Grenze zu Aedyr bereiste.
+      <DefaultText>Der Umhang des Meistermystikers war ein Geschenk an einen Kulklin-König in der Zeit, bevor die Königreiche Kulklin und Aedyr sich zum aedyrischen Reich zusammenschlossen. Er war mit Zaubern und Magie verstärkt, die seinen Besitzer beschützten. Das machte ihn äußerst nützlich, wenn man einige der heiß umkämpften Regionen an der Grenze zu Aedyr bereiste.
 
-Der König gab den Umhang seinen Kindern, wenn diese auf Reisen gingen. Jahre später nutzten sie ihn wiederum, um ihre eigenen Kinder zu beschützen. Diese Tradition wurde auch Jahre nach der Gründung des aedyranischen Reiches noch fortgesetzt, bis eine Kulklin-Prinzessin, die mit dem Umhang auf Reisen war, mit dem Hauptmann ihrer Leibgarde durchbrannte. Die Prinzessin und ihr Liebhaber wurden nie wieder gesehen, aber der Umhang tauchte Jahrzehnte später im Dyrwald auf.</DefaultText>
+Der König gab den Umhang seinen Kindern, wenn diese auf Reisen gingen. Jahre später nutzten sie ihn wiederum, um ihre eigenen Kinder zu beschützen. Diese Tradition wurde auch Jahre nach der Gründung des aedyrischen Reiches noch fortgesetzt, bis eine Kulklin-Prinzessin, die mit dem Umhang auf Reisen war, mit dem Hauptmann ihrer Leibgarde durchbrannte. Die Prinzessin und ihr Liebhaber wurden nie wieder gesehen, aber der Umhang tauchte Jahrzehnte später im Dyrwald auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1820,10 +1820,10 @@ Ich habe ihn in einem der Tanks versiegelt. Ich muss die Maschinen gegen die fre
       <ID>2192</ID>
       <DefaultText>Dieses Papier enthält eine lose Liste von Personen, nach Datum unterteilt.
 
-„Godandag - 
+„Godandag -
 Langsicht-Fälle. Bandit.
 
-Mecwynsdag, Inprima - 
+Mecwynsdag, Inprima -
 Irgendein Schmuggler
 
 Folcsdag -
