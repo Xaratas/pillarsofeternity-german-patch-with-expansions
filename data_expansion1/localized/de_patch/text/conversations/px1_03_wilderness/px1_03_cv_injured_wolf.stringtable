@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Dieser Wolf liegt im Schnee, vor Erschöpfung und Schmerzen hechelnd. Ein Pfeil hat seinen Vorderlauf durchbohrt und ragt aus der Flanke des Tieres. 
+      <DefaultText>Dieser Wolf liegt im Schnee, vor Erschöpfung und Schmerzen hechelnd. Ein Pfeil hat seinen Vorderlauf durchbohrt und ragt aus der Flanke des Tieres.
 
 Der Wolf knurrt leise, als du dich näherst. Den Schwanz hat er eingezogen.</DefaultText>
       <FemaleText />
@@ -45,7 +45,7 @@ Trotzdem vermutest du, dass du seine Lage noch verschlimmern würdest, wenn du d
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still, während du arbeitest. Es winselt nur gelegentlich. 
+      <DefaultText>Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still, während du arbeitest. Es winselt nur gelegentlich.
 
 Du entfernst vorsichtig den Pfeil und verbindest dann die Wunde.</DefaultText>
       <FemaleText />
@@ -67,7 +67,7 @@ Du entfernst vorsichtig den Pfeil und verbindest dann die Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du packst den Wolf fest am Kragen. Das Tier beginnt, sich panisch zu winden, aber du drückst es mühelos zu Boden. 
+      <DefaultText>Du packst den Wolf fest am Kragen. Das Tier beginnt, sich panisch zu winden, aber du drückst es mühelos zu Boden.
 
 Danach ist es ein Leichtes, dem Wolf ein Messer in das Genick zu stechen. Bald bewegt sich das Tier nicht mehr.</DefaultText>
       <FemaleText />
@@ -94,7 +94,7 @@ Danach ist es ein Leichtes, dem Wolf ein Messer in das Genick zu stechen. Bald b
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Du näherst dich langsam dem Wolf und singst leise zu ihm. Der Wolf legt seine Ohren an, hört aber auf zu knurren. 
+      <DefaultText>Du näherst dich langsam dem Wolf und singst leise zu ihm. Der Wolf legt seine Ohren an, hört aber auf zu knurren.
 
 Langsam beruhigt der Wolf sich, auch wenn er weiterhin verängstigt zu dir aufblickt.</DefaultText>
       <FemaleText />
@@ -106,21 +106,21 @@ Langsam beruhigt der Wolf sich, auch wenn er weiterhin verängstigt zu dir aufbl
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Slot 0] bewegt sich auf das Tier zu, um ihm zu helfen. Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still. Es winselt nur gelegentlich. 
+      <DefaultText>[Slot 0] bewegt sich auf das Tier zu, um ihm zu helfen. Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still. Es winselt nur gelegentlich.
 
 [Slot 0] entfernt vorsichtig den Pfeil und verbindet dann die Wunde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Kaum bist du fertig, steht der Wolf holprig auf. 
+      <DefaultText>Kaum bist du fertig, steht der Wolf holprig auf.
 
 Er betrachtet dich für einen langen Augenblick und verschwindet dann humpelnd in den Bäumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still, während du arbeitest. Es winselt nur gelegentlich. 
+      <DefaultText>Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still, während du arbeitest. Es winselt nur gelegentlich.
 
 Du entfernst vorsichtig den Pfeil und verbindest dann die Wunde.</DefaultText>
       <FemaleText />
