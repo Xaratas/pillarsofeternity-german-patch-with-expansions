@@ -11,14 +11,14 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Hilfe! Bitte, ich bin hier unten!“ 
+      <DefaultText>„Hilfe! Bitte, ich bin hier unten!“
 
 Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewohner und winkt verzweifelt mit den Armen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Bitte hilf mir! Ich bin hier unten gefangen!“ 
+      <DefaultText>„Bitte hilf mir! Ich bin hier unten gefangen!“
 
 Er ist zu weit unten, um ihn direkt zu erreichen.</DefaultText>
       <FemaleText />
@@ -35,7 +35,7 @@ Er ist zu weit unten, um ihn direkt zu erreichen.</DefaultText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du befestigst deinen Enterhaken an einem robusten Stück Stein und wirfst dem Dorfbewohner das Seil hinunter. 
+      <DefaultText>Du befestigst deinen Enterhaken an einem robusten Stück Stein und wirfst dem Dorfbewohner das Seil hinunter.
 
 Es sind einige Versuche nötig, aber es gelingt ihm, sich festzuhalten, als das Seil zu ihm schwingt. Er packt das Seil fest und beginnt, hinaufzuklettern.</DefaultText>
       <FemaleText />
@@ -79,14 +79,14 @@ Du ziehst ihn über den Rand der Schlucht in Sicherheit.</DefaultText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Der Dorfbewohner arbeitet sich stetig an dem Seil hinauf, obwohl er offensichtlich erschöpft ist. 
+      <DefaultText>Der Dorfbewohner arbeitet sich stetig an dem Seil hinauf, obwohl er offensichtlich erschöpft ist.
 
 Als er sich jedoch der Kante nähert, verliert er plötzlich den Halt und rutscht ab. Das Seil wird ihm ruckartig aus den Händen gerissen und er beginnt zu fallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Du konzentrierst schnell deine Energien und spürst die vertraute Kälte um dich herum, als der Zauber gewirkt wird. 
+      <DefaultText>Du konzentrierst schnell deine Energien und spürst die vertraute Kälte um dich herum, als der Zauber gewirkt wird.
 
 Ein plötzlicher starker Windstoß bläst aus der Schlucht nach oben und einen Augenblick lang schwebt der Dorfbewohner in der Luft.</DefaultText>
       <FemaleText />

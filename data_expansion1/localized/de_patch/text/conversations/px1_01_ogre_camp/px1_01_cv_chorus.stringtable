@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Die Welt um dich herum verschwimmt und wird schwarz. Als du wieder etwas siehst, stehst du in einer kleinen Holzhütte, die nur spärlich von der Glut in einer Feuerstelle beleuchtet ist.
- 
+
 Du trägst eine Kettenrüstung, die dir viel zu groß ist. In deinen Händen hältst du das Elfenbeinhorn irgendeiner Meereskreatur, das an einem Ende zugespitzt ist.</DefaultText>
       <FemaleText />
     </Entry>
@@ -37,7 +37,7 @@ Du blickst dich nach Badrwn um. Es ist purer Zufall, dass du den Kopf der Seesch
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Du beißt ob des plötzlichen Schmerzes die Zähne zusammen und schlingst deine Arme um den Hals der Schlange, bevor sie sich umdrehen kann. Sie zuckt und windet sich wie wild, um dich abzuschütteln. 
+      <DefaultText>Du beißt ob des plötzlichen Schmerzes die Zähne zusammen und schlingst deine Arme um den Hals der Schlange, bevor sie sich umdrehen kann. Sie zuckt und windet sich wie wild, um dich abzuschütteln.
 
 Du hältst dich mit aller Kraft fest, doch mit jedem Atemzug verlierst du Blut und wirst schwächer.</DefaultText>
       <FemaleText />
@@ -138,7 +138,7 @@ In einem Kreis um dich herum stehen andere Krieger. Einige gehören zu deinem St
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Du tust das Einzige, was dir in den Sinn kommt: Du rammst deine Faust durch das Auge der Schlange und vergräbst deinen Arm so tief darin, wie er reicht. 
+      <DefaultText>Du tust das Einzige, was dir in den Sinn kommt: Du rammst deine Faust durch das Auge der Schlange und vergräbst deinen Arm so tief darin, wie er reicht.
 
 Die Schlange wirft sich vor Schmerzen unkontrolliert herum. Du kannst dich nicht länger festhalten. Du wirst durch die Luft gewirbelt und verlierst das Bewusstsein.</DefaultText>
       <FemaleText />
@@ -174,7 +174,7 @@ Die Schmerzensschreie deiner Schwester und das Knurren der Kreatur verklingen&#1
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Was sollen wir nur tun, Garodh?“ 
+      <DefaultText>„Was sollen wir nur tun, Garodh?“
 
 Deine Schwester, Caitha, kauert neben dir. Ihre Augen sind weit geöffnet und starren auf die verbarrikadierte Tür der Hütte. Von außen krachen schwere Hiebe gegen die Tür. Sie bebt und splittert. Zorniges Knurren ist von jenseits der Tür zu hören.</DefaultText>
       <FemaleText />
@@ -256,14 +256,14 @@ Er brüllt vor Schmerzen auf, aber du stichst wieder und wieder zu, bis er verst
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Du holst tief Luft, tauchst und bleibst völlig reglos. Die Schlange bemerkt dich nicht. 
+      <DefaultText>Du holst tief Luft, tauchst und bleibst völlig reglos. Die Schlange bemerkt dich nicht.
 
 Nach wenigen Augenblicken färbt sich das tiefblaue Wasser um dich herum trüb rot. Du wartest, bis die Silhouette der Schlange leise davongleitest, ehe du keuchend auftauchst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Von deinen Gefährten ist nichts zu sehen. Du schwimmst ans Ufer. 
+      <DefaultText>Von deinen Gefährten ist nichts zu sehen. Du schwimmst ans Ufer.
 
 Der anfängliche Jubel deines Stammes verstummt, als du von der Begegnung mit der Seeschlange berichtest - und vorgibst, durch bloßes Glück überlebt zu haben.</DefaultText>
       <FemaleText />
@@ -400,7 +400,7 @@ Garodh blickt auf seine Hände. „Ich erinnere mich jetzt, aber ich fühle mich
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Plötzlich hält die Welt um dich herum an. Das Donnern verstummt. 
+      <DefaultText>Plötzlich hält die Welt um dich herum an. Das Donnern verstummt.
 
 Holzsplitter von der Tür schweben reglos in der Luft. Caitha zittert nicht mehr, atmet nicht mehr. Ihre Augen sind starr wie die einer Puppe.</DefaultText>
       <FemaleText />
@@ -417,14 +417,14 @@ Holzsplitter von der Tür schweben reglos in der Luft. Caitha zittert nicht mehr
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Der dünne Faden Essenz, dem du bis zu diesem Punkt in der Erinnerung gefolgt bist, ist fast vollständig verschwunden. 
+      <DefaultText>Der dünne Faden Essenz, dem du bis zu diesem Punkt in der Erinnerung gefolgt bist, ist fast vollständig verschwunden.
 
 Wenn du dich aber darauf konzentrierst, was als nächstes geschehen sein könnte, dann spürst du, ob es wirklich so wahr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Oh!“ Garodh blickt traurig überrascht auf seine eigene geisterhafte Gestalt, die langsam verblasst. 
+      <DefaultText>„Oh!“ Garodh blickt traurig überrascht auf seine eigene geisterhafte Gestalt, die langsam verblasst.
 
 „Aber ich habe es doch gerade erst gesehen! Es war zu kurz, um es zu verstehen.“</DefaultText>
       <FemaleText />

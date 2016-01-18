@@ -386,12 +386,12 @@ Schließlich richtet er sich auf und seufzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>“Ziel hoch.“</DefaultText>
+      <DefaultText>„Ziel hoch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Lügen] “Ich habe mich um sie gekümmert. Du kannst gehen.“</DefaultText>
+      <DefaultText>[Lügen] „Ich habe mich um sie gekümmert. Du kannst gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,7 +401,7 @@ Schließlich richtet er sich auf und seufzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Zahuas Miene verdüstert sich. “Solange ihm Sklavenjäger auf den Fersen sind, kann sein Geist keine Freiheit genießen.“</DefaultText>
+      <DefaultText>Zahuas Miene verdüstert sich. „Solange ihm Sklavenjäger auf den Fersen sind, kann sein Geist keine Freiheit genießen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

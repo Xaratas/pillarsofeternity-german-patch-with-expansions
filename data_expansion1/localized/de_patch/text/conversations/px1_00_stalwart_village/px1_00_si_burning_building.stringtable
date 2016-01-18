@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[Specified 0] springt über die brennende Schwelle und verschwindet hinter einer Wand aus Rauch. 
+      <DefaultText>[Specified 0] springt über die brennende Schwelle und verschwindet hinter einer Wand aus Rauch.
 
 Im Inneren des Hauses hat das Feuer die Wände und Balken zerfressen. Dichter Qualm füllt das ganze Gebäude. Man sieht kaum eine Handbreit vor den Augen, nur gelegentlich lodern irgendwo Funken auf.</DefaultText>
       <FemaleText />
@@ -85,7 +85,7 @@ Die improvisierte Stütze scheint zu halten. Vorerst.</DefaultText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Specified 0] sieht sich eilig um und findet ein Stück herabgefallenes Holz, das vielleicht groß genug ist. 
+      <DefaultText>[Specified 0] sieht sich eilig um und findet ein Stück herabgefallenes Holz, das vielleicht groß genug ist.
 
 Das Holz ist jedoch zu schwer zum Heben, [Specified 0] zieht es mühsam herbei.</DefaultText>
       <FemaleText />
@@ -124,14 +124,14 @@ Rechts liegt eine bewusstlose Frau unter einem Haufen Schutt, der wohl einmal da
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben. 
+      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben.
 
 [Specified 0] ergreift das Ende des Balkens und müht sich mit aller Kraft, ihn anzuheben. Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben. 
+      <DefaultText>Der Balken hat der Frau einen gewissen Schutz vor dem Schutt geboten, der mit ihm zusammen nach unten gekracht ist. Nun aber liegt der Balken halb vergraben.
 
 [Specified 0] ergreift das Ende des Balkens und müht sich mit aller Kraft, ihn anzuheben. Der Balken bewegt sich etwas.</DefaultText>
       <FemaleText />
@@ -216,14 +216,14 @@ Etwas später wacht [Specified 0] auf, nachdem [SkillCheck 1] [Specified 0] ins 
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Der Rauch macht zwar jedes Wort zu einer Qual, aber [Specified 0] kann das Mantra lange genug singen, um die Flammen zu durchqueren. 
+      <DefaultText>Der Rauch macht zwar jedes Wort zu einer Qual, aber [Specified 0] kann das Mantra lange genug singen, um die Flammen zu durchqueren.
 
 Die Frostmagie erstickt das Feuer und bietet gnadenvolle Erholung von der drückenden Hitze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[Specified 0] setzt das Brecheisen gegen einen Teil des Balkens und müht sich mit aller Kraft, ihn anzuheben. 
+      <DefaultText>[Specified 0] setzt das Brecheisen gegen einen Teil des Balkens und müht sich mit aller Kraft, ihn anzuheben.
 
 Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
       <FemaleText />
@@ -235,7 +235,7 @@ Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam,
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Hilfe! Bitte, hilf mir!“ 
+      <DefaultText>„Hilfe! Bitte, hilf mir!“
 
 Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite des Hauses gefangen. Das Feuer hat sich über die Dielen ausgebreitet und blockiert jeden Fluchtweg.</DefaultText>
       <FemaleText />
@@ -259,7 +259,7 @@ An ihrer ausgestreckten Hand siehst du einen Ring aufblitzen.</DefaultText>
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Specified 0] konzentriert sich auf die Folge von Worten, die Frostmagie herbeiruft. 
+      <DefaultText>[Specified 0] konzentriert sich auf die Folge von Worten, die Frostmagie herbeiruft.
 
 Das Feuer zieht sich vor dem Angriff der Kälte zurück, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
       <FemaleText />
@@ -281,7 +281,7 @@ Das Feuer zieht sich vor dem Angriff der Kälte zurück, es entsteht ein schmale
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“ 
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“
 
 Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
@@ -363,7 +363,7 @@ Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Du springst über die brennende Schwelle und verschwindest hinter einer Wand aus Rauch. 
+      <DefaultText>Du springst über die brennende Schwelle und verschwindest hinter einer Wand aus Rauch.
 
 Im Inneren des Hauses hat das Feuer die Wände und Balken zerfressen. Dichter Qualm füllt das ganze Gebäude. Man sieht kaum eine Handbreit vor den Augen, nur gelegentlich lodern irgendwo Funken auf.</DefaultText>
       <FemaleText />
@@ -466,14 +466,14 @@ Die Luft fühlt sich dick und heiß an. Das Gebäude ist ein einziges Labyrinth 
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Die drückende Hitze, der Rauch und die Last auf den Schultern von [Specified 0] erweisen sich als starke Ablenkung. 
+      <DefaultText>Die drückende Hitze, der Rauch und die Last auf den Schultern von [Specified 0] erweisen sich als starke Ablenkung.
 
 [Specified 0] gelingt es jedoch, konzentriert zu bleiben. Bald ist die vertraute Kühle der Frostmagie zu spüren. Das Feuer zieht sich zurück, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>[Specified 0] versucht, sich auf die Folge von Worten zu konzentrieren, die Frostmagie herbeiruft. 
+      <DefaultText>[Specified 0] versucht, sich auf die Folge von Worten zu konzentrieren, die Frostmagie herbeiruft.
 
 Doch die drückende Hitze, der Rauch und die Last auf den Schultern von [Specified 0] erweisen sich als zu starke Ablenkung. Der Zauber schlägt fehl.</DefaultText>
       <FemaleText />
@@ -709,14 +709,14 @@ Rechts liegt eine bewusstlose Frau zwischen einem Haufen Schutt, der wohl einmal
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Du siehst dich eilig um und findest ein Stück herabgefallenes Holz, das vielleicht groß genug ist. Du ergreifst das Holz und stemmst es gegen den herabhängenden Balken. 
+      <DefaultText>Du siehst dich eilig um und findest ein Stück herabgefallenes Holz, das vielleicht groß genug ist. Du ergreifst das Holz und stemmst es gegen den herabhängenden Balken.
 
 Die improvisierte Stütze scheint zu halten. Vorerst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Du siehst dich eilig um und findest ein Stück herabgefallenes Holz, das vielleicht groß genug ist. 
+      <DefaultText>Du siehst dich eilig um und findest ein Stück herabgefallenes Holz, das vielleicht groß genug ist.
 
 Das Holz ist jedoch zu schwer zum Heben, du ziehst es mühsam herbei.</DefaultText>
       <FemaleText />
@@ -733,7 +733,7 @@ Das Holz ist jedoch zu schwer zum Heben, du ziehst es mühsam herbei.</DefaultTe
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„Hilfe! Bitte, hilf mir!“ 
+      <DefaultText>„Hilfe! Bitte, hilf mir!“
 
 Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite des Hauses gefangen. Das Feuer hat sich über die Dielen ausgebreitet und blockiert jeden Fluchtweg.</DefaultText>
       <FemaleText />
@@ -765,7 +765,7 @@ Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite d
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Der Rauch macht zwar jedes Wort zu einer Qual, aber du kannst das Mantra lange genug singen, um die Flammen zu durchqueren. 
+      <DefaultText>Der Rauch macht zwar jedes Wort zu einer Qual, aber du kannst das Mantra lange genug singen, um die Flammen zu durchqueren.
 
 Die Frostmagie erstickt das Feuer und bietet gnadenvolle Erholung von der drückenden Hitze.</DefaultText>
       <FemaleText />
@@ -796,7 +796,7 @@ Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Die drückende Hitze, der Rauch und die Last auf deinen Schultern erweisen sich als starke Ablenkung. 
+      <DefaultText>Die drückende Hitze, der Rauch und die Last auf deinen Schultern erweisen sich als starke Ablenkung.
 
 Es gelingt dir jedoch, konzentriert zu bleiben. Bald ist die vertraute Kühle der Frostmagie zu spüren. Das Feuer zieht sich, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
       <FemaleText />
@@ -810,7 +810,7 @@ Doch die drückende Hitze, der Rauch und die Last auf deinen Schultern erweisen 
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Du konzentrierst dich auf die Folge von Worten, die Frostmagie herbeiruft. 
+      <DefaultText>Du konzentrierst dich auf die Folge von Worten, die Frostmagie herbeiruft.
 
 Das Feuer zieht sich vor dem Angriff der Kälte zurück, es entsteht ein schmaler Fluchtweg für die Wache.</DefaultText>
       <FemaleText />
@@ -913,7 +913,7 @@ Du ergreifst das Ende des Balkens und mühst dich mit aller Kraft, ihn anzuheben
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Du setzt das Brecheisen gegen einen Teil des Balkens und mühst dich mit aller Kraft, ihn anzuheben. 
+      <DefaultText>Du setzt das Brecheisen gegen einen Teil des Balkens und mühst dich mit aller Kraft, ihn anzuheben.
 
 Nach einigen vergeblichen Bemühungen hebt der Balken sich schließlich langsam, Zentimeter für Zentimeter.</DefaultText>
       <FemaleText />
@@ -1066,7 +1066,7 @@ Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“ 
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“
 
 Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
@@ -1085,7 +1085,7 @@ Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“ 
+      <DefaultText>„Mögen die Götter dich segnen. Ich dachte, das wäre mein Ende. Komm - wir müssen hier verschwinden!“
 
 Er läuft an [Specified 0] vorbei Richtung Ausgang.</DefaultText>
       <FemaleText />
