@@ -20,7 +20,7 @@ Es ist ein Relief, das eine Mauer mit Zinnen zeigt - und darüber eine Vertiefun
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“</DefaultText>
+      <DefaultText>„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,12 +45,12 @@ Es ist ein Relief, das eine Mauer mit Zinnen zeigt - und darüber eine Vertiefun
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.“</DefaultText>
+      <DefaultText>„Die Mauern der Batterie schützen unser Werk vor Plünderern und Wildern gleichermassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz.“</DefaultText>
+      <DefaultText>„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,12 +121,12 @@ Die winzigen Figuren bewegen sich und tanzen, zum Leben erweckt durch das Flacke
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Mauern der Batterie, schützt unser Werk vor Räubern und Wilden zugleich.“</DefaultText>
+      <DefaultText>„Die Mauern der Batterie schützen unser Werk vor Plünderern und Wildern gleichermassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz.“</DefaultText>
+      <DefaultText>„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@ Darunter befindet sich eine tiefe Einkerbung. Sie hat die Form eines offenen Dra
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Abydons Treue, sie dienen an Esse und Feuer, sie schmelzen das Erz.“</DefaultText>
+      <DefaultText>„Abydons gewissenhafte Plackerei an der Schmiede und die Feuer, die das Erz erleuchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@ Darunter befindet sich eine tiefe Einkerbung. Sie hat die Form eines offenen Dra
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“</DefaultText>
+      <DefaultText>„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,7 +309,7 @@ Der Zahn der Zeit hat im Laufe der Jahrhunderte an dem Relief genagt, aber das M
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“</DefaultText>
+      <DefaultText>„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -344,7 +344,7 @@ Der Zahn der Zeit hat im Laufe der Jahrhunderte an dem Relief genagt, aber das M
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Hämmer von Durgan, schlagt laut! Möge der dumpfe Klang des Amboss erschallen.“</DefaultText>
+      <DefaultText>„Hämmer von Durgan, erklingt laut! Möge des Ambosses tiefe Musik erschallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
