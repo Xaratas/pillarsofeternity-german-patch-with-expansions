@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>1487</ID>
-      <DefaultText>Der Charakter hat einen Teil der intensiven Schmerzenstoleranz und spirituellen Macht erlernt, die Mönche besitzen. Seine unbewaffneten Angriffe richten größeren Schaden an und werden mit der Zeit immer stärker. Hinweis: Novice's Suffering does not apply to a druid's Spiritshift form.</DefaultText>
+      <DefaultText>Der Charakter hat einen Teil der intensiven Schmerzenstoleranz und spirituellen Macht erlernt, die Mönche besitzen. Seine unbewaffneten Angriffe richten größeren Schaden an und werden mit der Zeit immer stärker. Hinweis: Leid des Novizen betrifft nicht die Gestaltwandelform des Druiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1181,7 +1181,7 @@
     </Entry>
     <Entry>
       <ID>1636</ID>
-      <DefaultText>Kalakoth's Freezing Rake</DefaultText>
+      <DefaultText>Kalakoths eisiger Rechen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
