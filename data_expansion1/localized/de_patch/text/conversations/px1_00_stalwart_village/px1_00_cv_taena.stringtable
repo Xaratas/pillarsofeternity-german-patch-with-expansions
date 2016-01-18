@@ -112,7 +112,7 @@ Die Konturen dieser schlummernden Seele sind scharf. Gezackt. Als du nach der Se
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Du stehst in einem abgedunkelten Festsaal. Robuste Tische und Bänke wurden vor der Tür am anderen Ende des Raumes gestapelt. 
+      <DefaultText>Du stehst in einem abgedunkelten Festsaal. Robuste Tische und Bänke wurden vor der Tür am anderen Ende des Raumes gestapelt.
 
 Du weißt, dass es nicht reichen wird.
 
@@ -160,12 +160,12 @@ Du überlegst, dass du noch andere Seelen erwecken könntest.</DefaultText>
       <ID>28</ID>
       <DefaultText>„Was ist das für ein Spiel, Fremder? Glaubst du, eine Pargrun würde so leicht ihr eigenes Volk verraten?“
 
-Ihre Hände umklammern eine imaginäre Waffe. Zenoves Essenz rührt sich mit demselben kampfbereiten Furor, den du in ihrer Erinnerung aus Durgans Batterie gespürt hast. Sie ist gefährlich. 
+Ihre Hände umklammern eine imaginäre Waffe. Zenoves Essenz rührt sich mit demselben kampfbereiten Furor, den du in ihrer Erinnerung aus Durgans Batterie gespürt hast. Sie ist gefährlich.
 
 Unter Zenove ringt und kämpft Taenas überwältigtes Bewusstsein.</DefaultText>
       <FemaleText>„Was ist das für ein Spiel, Fremde? Glaubst du, eine Pargrun würde so leicht ihr eigenes Volk verraten?“
 
-Ihre Hände umklammern eine imaginäre Waffe. Zenoves Essenz rührt sich mit demselben kampfbereiten Furor, den du in ihrer Erinnerung aus Durgans Batterie gespürt hast. Sie ist gefährlich. 
+Ihre Hände umklammern eine imaginäre Waffe. Zenoves Essenz rührt sich mit demselben kampfbereiten Furor, den du in ihrer Erinnerung aus Durgans Batterie gespürt hast. Sie ist gefährlich.
 
 Unter Zenove ringt und kämpft Taenas überwältigtes Bewusstsein.</FemaleText>
     </Entry>
@@ -305,10 +305,10 @@ Ihr Zorn verschwindet. Verwirrung tritt an seine Stelle. Du überlegst, wie du s
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Sie nickt. 
+      <DefaultText>Sie nickt.
 
 „Dann lass uns die Worte unseres Bundes teilen, Bruder.“</DefaultText>
-      <FemaleText>Sie nickt. 
+      <FemaleText>Sie nickt.
 
 „Dann lass uns die Worte unseres Bundes teilen, Schwester.“</FemaleText>
     </Entry>
