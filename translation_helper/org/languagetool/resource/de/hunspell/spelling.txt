@@ -124,7 +124,7 @@ Gjefa/S
 Durmsey/S
 Aldwyn/S
 Alryn
-Maerwald
+Maerwald/S
 Edér
 Aloth
 Durance
@@ -326,7 +326,7 @@ Ixtli/S
 Marrat
 Ixamitl/S
 Alt-Dunryd-Jagdgesellschaft
-Laenric
+Laenric/S
 Orlaner/S
 Meztla/S
 Galvinos
@@ -419,6 +419,9 @@ Ygadr
 Korgrak
 Harmke/S
 Rotwald/S
+Gnadental
+Halgot
+Tealdort
 # Menschennamen
 Ryan
 Torres
@@ -595,6 +598,7 @@ Schurkenfähigkeiten
 Kuriositätenladen
 Gegenstandstyp
 Gegenstandstypen
+Essenzstrom
 anzuschleichen
 Festungsmenü
 Questfenster
@@ -666,6 +670,7 @@ Stehlereien
 vollsabbert
 Racheballade
 Seelengebundene
+seelengebunden
 Unterstützungszauber/N
 Chaosfuß
 Mahlstroms
@@ -705,9 +710,16 @@ geplärrt
 Ambosssockel
 Ambosstafel
 Zinnenmauer
+Schmiedenaht
+Schmiedenähte
+Schmiedenähten
+heraustrieft
 Rußschicht
+klackert
+pockenzerfressenen
+Bärentotem
 # notwendige Besonderheiten in der Übersetzung, Ausnahmen von Groß und Kleinschreibung und sone Sachen, Wortteile die Trennzeichen haben, die beim Extrahieren mit saxon aber normale Leerzeichen werden
-# Die Groß und Kleinschreibung bleibt eh bei DE_CASE hängen und nicht an Hunspell, bringt hier also gar nix.
+#a Die Groß und Kleinschreibung bleibt eh bei DE_CASE hängen und nicht an Hunspell, bringt hier also gar nix.
 reffer
 reffer-Schaden
 -Zauber
@@ -717,6 +729,7 @@ Hotkey/S
 Specified
 SkillCheck
 Race
+Deity
 DozensGame
 PlayerFinalDesc
 OpponentFinalDesc
