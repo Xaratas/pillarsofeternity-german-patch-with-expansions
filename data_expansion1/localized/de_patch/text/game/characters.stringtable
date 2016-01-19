@@ -521,12 +521,12 @@
     </Entry>
     <Entry>
       <ID>1501</ID>
-      <DefaultText>Fampyr-Nahkämpfer</DefaultText>
+      <DefaultText>Fampir-Nahkämpfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1502</ID>
-      <DefaultText>Fampyr-Berserker</DefaultText>
+      <DefaultText>Fampir-Berserker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@
     </Entry>
     <Entry>
       <ID>1504</ID>
-      <DefaultText>Fampyr-Verführer</DefaultText>
+      <DefaultText>Fampir-Verführer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
