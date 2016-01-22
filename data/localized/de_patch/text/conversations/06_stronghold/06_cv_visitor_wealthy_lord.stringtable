@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_wealthy_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, ich bin froh, Sie anzutreffen. Ich muss einfach mit Ihnen sprechen, mein Fürst."</DefaultText>
+      <FemaleText>"Ah, ich bin froh, Sie anzutreffen. Ich muss einfach mit Ihnen sprechen, meine Fürstin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie Sie sicher wissen, bringt Reichtum wohl immer Feinde mit sich. Meine Festung wird von Dieben belagert! Ich bin mir sicher, dass jemand aus dem niederen Adel es auf meine Schatzkammer abgesehen hat. Es stinkt nach Neid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Also gut. Ich höre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen] "Jetzt nicht, danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du rufst deine Verbündeten herbei und schreitest zu deinem Thron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Und so wende ich mich an Sie, mein Fürst. Können Sie irgendetwas tun?"</DefaultText>
+      <FemaleText>"Und so wende ich mich an Sie, meine Fürstin. Können Sie irgendetwas tun?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wehren Sie sich. Verteidigen Sie Ihre Festung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich werde mich um diese eifersüchtigen Rivalen kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich würde mich dazu gerne kurz mit meinen Leuten beraten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dabei kann ich Ihnen im Moment nicht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"M-mir fehlen die Ressourcen, mein Fürst. Meine Truppen sind arg unterbesetzt. Ich bräuchte eine ganze Armee."</DefaultText>
+      <FemaleText>"M-mir fehlen die Ressourcen, meine Fürstin. Meine Truppen sind arg unterbesetzt. Ich bräuchte eine ganze Armee."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wunderbar! Darf ich, äh, nach Ihren Absichten fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Gewiss."
+
+Mit einer respektvollen Verbeugung tritt Sidroc außer Hörweite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Die Doemenels können Sidroc sicher beschützen. Und sein Geld erst recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Das ist unsere Chance, Teufelin. Wir wiegen ihn in Sicherheit, dann leeren wir seine Schatzkammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sie werden auf meine Warnung hören oder Sie werden vernichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Es ist keine Frage der zahlenmäßigen Überlegenheit. Ich zeige Ihnen, wie Sie Ihre Männer sinnvoll einsetzen können und wo Sie sie postieren müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sie werden die Unterstützung der Schmelztiegelritter haben. Das sollte ausreichen, um diese Diebe zu vertreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich schicke Briefe an alle Adligen in meinen Landen. Jeder, der Ihre Festung bedroht, wird sich mir gegenüber verantworten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Aloth kann sich gewiss um die Angelegenheit kümmern. Diskret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Taktiken des Fürsten von Caed Nua höchstselbst! Bitte sprechen Sie weiter, ich lausche gebannt."
+
+Sidroc hält Wort und schenkt dir seine volle Aufmerksamkeit.</DefaultText>
+      <FemaleText>"Taktiken der Fürstin von Caed Nua höchstselbst! Bitte sprechen Sie weiter, ich lausche gebannt."
+
+Sidroc hält Wort und schenkt dir seine volle Aufmerksamkeit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Danke, Fürst! Das dürfte Erfolg bringen. Ich kann es kaum erwarten, diese Schurken in alle Himmelsrichtungen fliehen zu sehen!"
+
+Sidroc verneigt sich tief.</DefaultText>
+      <FemaleText>"Danke, Fürstin! Das dürfte Erfolg bringen. Ich kann es kaum erwarten, diese Schurken in alle Himmelsrichtungen fliehen zu sehen!"
+
+Sidroc verneigt sich tief.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Briefe, Fürst? Glauben Sie, das reicht aus?"</DefaultText>
+      <FemaleText>"Briefe, Fürstin? Glauben Sie, das reicht aus?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Danke, Fürst. Es ist eine große Erleichterung, diese Last von meinen Schultern zu wissen. Gesegnet sollen Sie sein."</DefaultText>
+      <FemaleText>"Danke, Fürstin. Es ist eine große Erleichterung, diese Last von meinen Schultern zu wissen. Gesegnet sollen Sie sein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh, Fürst. Sie werden sich wenig Freunde machen, wenn Sie Ihre eigenen Untertanen ausrauben, wissen Sie."
+
+Der Burgvogt seufzt leise.</DefaultText>
+      <FemaleText>"Oh, Fürstin. Sie werden sich wenig Freunde machen, wenn Sie Ihre eigenen Untertanen ausrauben, wissen Sie."
+
+Der Burgvogt seufzt leise.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Natürlich. Verzeihen Sie, dass ich je an Ihnen gezweifelt habe! Wir sind gesegnet, einen so vernünftigen Herrscher auf Caed Nua zu haben."</DefaultText>
+      <FemaleText>"Natürlich. Verzeihen Sie, dass ich je an Ihnen gezweifelt habe! Wir sind gesegnet, eine so vernünftige Herrscherin auf Caed Nua zu haben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Bei näherer Überlegung ... lieber nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Kann ich irgendwie helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Wahrscheinlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Nun, ich danke Ihnen natürlich für die Hilfe und Unterstützung."
+
+Sidroc ist zwar beunruhigt, verneigt sich aber höflich und tritt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich hoffe, Sie hatten eine fruchtbare Unterhaltung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Lügen] "Ich habe Kontakte bei den Doemenels. Wer sollte Ihren Besitz besser gegen Diebe schützen können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Lügen] "Die Teufelin von Caroc höchstselbst wird Ihre Festung beschützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Danke, Fürst! Das dürfte Erfolg bringen. Ich kann es kaum erwarten, diese Schurken in alle Himmelsrichtungen fliehen zu sehen!"
+
+Sidroc verneigt sich tief.</DefaultText>
+      <FemaleText>"Danke, Fürstin! Das dürfte Erfolg bringen. Ich kann es kaum erwarten, diese Schurken in alle Himmelsrichtungen fliehen zu sehen!"
+
+Sidroc verneigt sich tief.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ja. Ich habe beschlossen, Sie zu töten und Ihr Vermögen selbst zu rauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"W-was?! Das ist ... sind Sie wahnsinnig? Wenn das ein Scherz sein soll, ist er höchst geschmacklos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Wachen, knüpft ihn vor den Mauern auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sie Monster! Damit kommen sie nicht durch!"
+
+Sidroc wendet sich zum Fliehen, aber deine Wachen packen ihn an den Armen, bevor er es weit geschafft hat. Sie zerren ihn fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Es wird Wochen dauern, bevor ich meinen Besitz sichern kann, und bis dahin ist es zu spät. Und mir fehlen die ... Verbindungen, um kurzfristig Söldner anzuheuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Lassen Sie mich einen Augenblick nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Natürlich ..."
+
+Sidroc sieht ein wenig verwirrt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Bitte, ich muss eine wichtige Angelegenheit besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_war_vet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mein Fürst, ich will Sie nicht belästigen, aber ... ich könnte Hilfe in einer persönlichen Angelegenheit brauchen."</DefaultText>
+      <FemaleText>"Meine Fürstin, ich will Sie nicht belästigen, aber ... ich könnte Hilfe in einer persönlichen Angelegenheit brauchen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Es ist ... schwerer als ich dachte, es auszusprechen. Ich heiße Odeyna. Ich habe wie fast alle meiner Herkunft im Krieg des Heiligen gekämpft. Ich habe Befehle befolgt, mehr nicht, aber eins führte zum anderen und bald hatte ich einen gewissen Ruf weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Also gut. Ich höre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen] "Jetzt nicht, danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Die Dinge, die ich getan habe ... ich schlafe nicht viel. Das Letzte, was ich brauchen kann, ist all diese Aufmerksamkeit. Ich will nur ein wenig Frieden. Bitte. Ich weiß nicht, an wen ich mich sonst wenden soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das klingt, als könntest du ein wenig Ruhe gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du solltest dich nicht vor deiner Vergangenheit verstecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vielleicht kann dir einer meiner Gefährten hier helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dabei kann ich Ihnen im Moment nicht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"In den Wald gehen, meinen Sie? In Trutzbucht werde ich keine Ruhe finden. Die Hälfte meiner Nachbarn ist bei den Dutzenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"So einfach ist es nicht. Ich habe keine Wahl in der Angelegenheit. Jeden Tag erinnert mich jemand an das, was ich getan habe. An Dinge, von denen ich immer noch nicht weiß, ob sie richtig waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ach? Wie meinen Sie das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Edér hat den Krieg erlebt. Er hat gewiss einen Rat für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Maneha ist eine gute Zuhörerin. Sie kann dir helfen, einen Teil dieser Last von deinen Schultern zu nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Ihr 5000 KP geben.] "Außerhalb des Dyrwalds fällst du nicht so auf. Ich gebe dir etwas Geld, damit du anderswo neu anfangen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich werde die Dutzenden bitten, dich in Frieden zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ah. Dann also etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wirklich? Das wäre wunderbar. Ein wenig Zeit der Ruhe würde gewiss schon reichen. Danke, Fürst!"</DefaultText>
+      <FemaleText>"Wirklich? Das wäre wunderbar. Ein wenig Zeit der Ruhe würde gewiss schon reichen. Danke, Fürstin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Das ist ... unglaublich. Ich weiß nicht, was ich sagen soll! Ich kann Ihnen nicht genug danken. Ich sammle meine Sachen zusammen und reise mit dem ersten Wagen ab. Danke, Fürst!"</DefaultText>
+      <FemaleText>"Das ist ... unglaublich. Ich weiß nicht, was ich sagen soll! Ich kann Ihnen nicht genug danken. Ich sammle meine Sachen zusammen und reise mit dem ersten Wagen ab. Danke, Fürstin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ja, das ... das hilft mir. Danke, Fürst. Sie wissen nicht, wie viel mir das bedeutet."</DefaultText>
+      <FemaleText>"Ja, das ... das hilft mir. Danke, Fürstin. Sie wissen nicht, wie viel mir das bedeutet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Woran haben Sie gedacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Du darfst gerne hier bleiben, bis du bereit bist, zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wirklich? Ich kann Ihnen nicht genug danken, Fürst! Sie sind ein guter Mann."
+
+Odeyna verneigt sich. Die Erleichterung steht ihr ins Gesicht geschrieben.</DefaultText>
+      <FemaleText>"Wirklich? Ich kann Ihnen nicht genug danken, Fürstin! Sie sind eine gute Frau."
+
+Odeyna verneigt sich. Die Erleichterung steht ihr ins Gesicht geschrieben.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du leidest darunter, dass die Leute dich loben? Du bist undankbar und feige."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vielleicht. Jedenfalls erscheint mir das Antwort genug zu sein. Danke, dass Sie sich Zeit genommen haben, Fürst."
+
+In Odeynas unlesbarer Miene sind kein Zorn und keine Abscheu zu sehen. Sie neigt kurz den Kopf und wendet sich zum Gehen.</DefaultText>
+      <FemaleText>"Vielleicht. Jedenfalls erscheint mir das Antwort genug zu sein. Danke, dass Sie sich Zeit genommen haben, Fürstin."
+
+In Odeynas unlesbarer Miene sind kein Zorn und keine Abscheu zu sehen. Sie neigt kurz den Kopf und wendet sich zum Gehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du musst das einfach durchstehen. Du bist nicht allein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich ..." Odeyna seufzt. "Ja. Sie haben Recht. Danke, dass Sie sich Zeit genommen haben, Fürst."
+
+Sie neigt den Kopf und wendet sich zum Gehen.</DefaultText>
+      <FemaleText>"Ich ..." Odeyna seufzt. "Ja. Sie haben Recht. Danke, dass Sie sich Zeit genommen haben, Fürstin."
+
+Sie neigt den Kopf und wendet sich zum Gehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Sie nennen mich eine Heldin. Jedes Mal, wenn ich die Straße entlang gehe, muss ich Hände schütteln und werde mit Lob überhäuft. Die Dutzenden tun gerade so, als wäre ich eine Art Gallionsfigur für ihre Pläne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Haben Sie einen Augenblick? Ich würde gerne mit Ihnen sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

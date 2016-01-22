@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_dignitary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Seien Sie gegrüßt, Fürst. Ich heiße Berolt. Hätten Sie Zeit, eine wichtige Angelegenheit zu besprechen?"</DefaultText>
+      <FemaleText>"Seien Sie gegrüßt, Fürstin. Ich heiße Berolt. Hätten Sie Zeit, eine wichtige Angelegenheit zu besprechen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dennoch vielen Dank." Berolt blickt dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nicht, dass ich an Ihren beträchtlichen Ressourcen zweifle, aber ... wie, mein Fürst?"</DefaultText>
+      <FemaleText>"Nicht, dass ich an Ihren beträchtlichen Ressourcen zweifle, aber ... wie, meine Fürstin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh? Mit wem werde ich reisen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Also gut. Ich höre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du rufst nach deinen Verbündeten und bereitest dich darauf vor, die Petition anzuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe die Aufgabe, mich mit Vertretern des Fischerkranich-Stamms in der Nähe des Theinsumpfs zu treffen. Ich hoffe, dass wir eine friedliche Lösung aushandeln können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sie selbst, so höre ich, hatten schon häufiger mit den Glanfathanern zu tun. Ich wäre dankbar für jede Hilfe oder jeden Rat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich kann keine Ressourcen entbehren, aber ich habe einige Ratschläge für die Reise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich werde dafür sorgen, dass Sie ungefährdet durch Eir Glanfath reisen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich stelle Ihnen eine Eskorte zur Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[2000 KP geben.] "Geld, um Führer anzuheuern und notfalls Hände zu schmieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Mein Name hat in Zwillingsulmen Gewicht. Ich sorge dafür, dass Sie einen Passierschein erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich werde darauf bestehen, dass Sie einen Passierschein erhalten. Ich bezweifle, dass man mir den Wunsch abschlägt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Hiravias ist Glanfathaner. Seine Kenntnis der Region dürfte hilfreich sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sagani. Ihre Erfahrung als Jägerin und Reisende dürfte Ihnen nutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Halten Sie sich an die Handelswege. Es ist besser, schnell und im Offenen anzukommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Halten Sie sich so wenig wie möglich in Eir Glanfath auf. Ich rate Ihnen, den Weg durch die Vailianischen Republiken zu nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nun, wenn Sie glauben, dass das ausreicht, dann vertraue ich Ihrem Urteil. Danke. Ich werde Ihren Rat befolgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Das ist ein sehr langer Umweg ... aber ich sehe die Weisheit darin. Es ist ohne Frage besser, in einem Stück anzukommen. Danke. Ich werde Ihren Rat befolgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Das ist äußerst großzügig, mein Fürst! Danke. Das wird mir helfen."</DefaultText>
+      <FemaleText>"Das ist äußerst großzügig, meine Fürstin! Danke. Das wird mir helfen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Danke, mein Fürst! Wir brechen sofort auf."</DefaultText>
+      <FemaleText>"Danke, meine Fürstin! Wir brechen sofort auf."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mein Wildhüter. Er und eine Gruppe von Führern werden Ihnen helfen, die großen glanfathanischen Siedlungen zu umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Dabei kann ich Ihnen im Moment nicht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Bei näherer Überlegung ... lieber nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich verstehe ... können Sie mich irgendwie unterstützen, Fürst? Mein Auftrag ist von größter Wichtigkeit."</DefaultText>
+      <FemaleText>"Ich verstehe ... können Sie mich irgendwie unterstützen, Fürstin? Mein Auftrag ist von größter Wichtigkeit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Leider habe ich nur wenig Übung in der glanfathanischen Sprache. Und die Fischerkraniche sind von Natur aus sehr scheu. Ich fürchte, da könnten Missverständnisse vorherbestimmt sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Seien Sie gegrüßt, Fürst! Dürfen wir sprechen?"</DefaultText>
+      <FemaleText>"Seien Sie gegrüßt, Fürstin! Dürfen wir sprechen?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

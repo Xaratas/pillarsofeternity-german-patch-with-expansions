@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_cruel_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich habe viel von Ihnen gehört, Fürst. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen."</DefaultText>
+      <FemaleText>"Ich habe viel von Ihnen gehört, Fürstin. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Als Herrscher über Caed Nua haben Sie gewiss schon mit vielen Störenfrieden zu tun gehabt. Neidern, die Sie stürzen wollten, in ihr eigenes Leid hinabziehen."</DefaultText>
+      <FemaleText>"Als Herrscherin über Caed Nua haben Sie gewiss schon mit vielen Störenfrieden zu tun gehabt. Neidern, die Sie stürzen wollten, in ihr eigenes Leid hinabziehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Es könnte etwas ... unschön werden. Ich dachte, es wäre besser, Sie zunächst um Rat zu fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"In Gnade liegt Macht, Fürst Brynwigar. Behandeln Sie die Menschen anständig, dann arbeiten sie gerne für Sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"In diesen Angelegenheiten muss man einen Mittelweg finden. Gewähren Sie ihnen einige Freiheiten, so lange sie weiter arbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich würde mich dazu gerne kurz mit meinen Leuten beraten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Natürlich, natürlich."
+
+Brynwigar tritt einige Schritte beiseite, außer Hörweite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Teufelin, beseitige diesen Kerl. Unauffällig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sie werben für Gnade? In ihren eigenen Landen wimmelt es von Räubern und Gesetzlosen. Wenn Sie mit härterer Hand regieren würden, hätten Sie diese Sorgen vielleicht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ach, das Übliche." Brynwigar verschränkt die Arme.
+
+"Dass sie den Lohn für ihre Arbeit nicht erhalten würden. Dass ich sie zu grob behandeln würde. Sie sind faul, Fürst, das ist alles."</DefaultText>
+      <FemaleText>"Ach, das Übliche." Brynwigar verschränkt die Arme.
+
+"Dass sie den Lohn für ihre Arbeit nicht erhalten würden. Dass ich sie zu grob behandeln würde. Sie sind faul, Fürstin, das ist alles."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mein Burgvogt hat mich wissen lassen, dass Sie einen üblen Ruf haben. Dass sie grausam und gnadenlos sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Brynwigar erstarrt.
+
+"Ich weiß um den Wert von Effizienz. Ist das ein Verbrechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Sie sind ein gehässiger, grausamer Mann mit mehr Macht, als er verdient!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sie werden dennoch dafür hängen, Brynwigar. Wachen, ergreift ihn!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[700 KP geben.] "Eine Machtdemonstration wird sie zur Vernunft bringen. Hier. Heuern Sie ein paar Söldner an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sie wagen es, mich zu beleidigen? Sie, ein Emporkömmling, der über eine alte Ruine herrscht? Das werden Sie bereuen!"
+
+Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürst! Ich wusste, ich kann mich auf Ihre Vernunft verlassen."</DefaultText>
+      <FemaleText>"Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürstin! Ich wusste, ich kann mich auf Ihre Vernunft verlassen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Haben Sie eine Entscheidung getroffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Lügen] "Ich heiße Ihre brutalen Taktiken nicht gut. Aber ich werde dieses eine Mal darüber hinwegsehen. Und nun gehen Sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Lügen] "Sie haben meine volle Unterstützung. Gehen Sie diesen Unruhestiftern Gehorsam einprügeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ja. Ich habe vor, Sie zu töten. Ich gebe Ihnen zwei Stunden Vorsprung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Brynwigar starrt dich verständnislos an, bis die Wachen vortreten, um ihn zu packen. Während sie ihn aus dem Saal tragen, flucht und strampelt er unaufhörlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Das erscheint mir ein recht sanftes Vorgehen." Brynwigar rümpft die Nase. "Sie werden glauben, sie hätten gesiegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Was genau sagt dieser Pöbel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Es ist allgemein bekannt, dass Sie großes Verhandlungsgeschick besitzen. Meine Stärke war das nie." Brynwigar seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ohne Untertanen herrscht man nur über Felsen und Bäume. Versuchen Sie, ihnen zumindest ein wenig Respekt zu erweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wenn Sie meine Festung beleidigen wollen, dürfen Sie gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Sehen Sie es als Prüfung Ihres Verständnisses. Es wäre ratsamer, mit Ihren Untertanen zu sprechen, als mit Gewalt zu reagieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Brynwigar öffnet den Mund, um zu protestieren, überlegt es sich aber anders. Er verneigt sich knapp und wendet sich dann kopfschüttelnd zum Gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich muss gestehen, dass ich eher auf ... Ressourcen gehofft hatte denn auf Erlaubnis. Aber ich danke Ihnen für die Unterstützung."
+
+Brynwigar verneigt sich, offenbar zufriedengestellt, und schreitet aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Aloth, du musst zu Brynwigars Festung reisen und die Leute warnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Was?" Brynwigar macht einen Schritt zurück. "Sie ... Sie doppelzüngige Ratte! Für diese Beleidigung werden Sie zahlen!"
+
+Er vergeudet keine Zeit mehr mit Worten. Brynwigar macht auf dem Absatz kehrt und flieht aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Nun, das ging schnell. Haben Sie eine Entscheidung gefällt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Probieren wir etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ja? Jeder Ratschlag ist mir willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wenn Sie darauf bestehen. Mein Fürst."
+
+Brynwigar verneigt sich steif und macht auf dem Absatz kehrt.</DefaultText>
+      <FemaleText>"Wenn Sie darauf bestehen. Meine Fürstin."
+
+Brynwigar verneigt sich steif und macht auf dem Absatz kehrt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Nun, ich danke Ihnen, dass Sie sich die Zeit genommen haben, mit mir zu sprechen, Fürst. Ich werde nach Hause zurückkehren und die Sache überdenken."
+
+Er verneigt sich und schreitet aus dem Saal.</DefaultText>
+      <FemaleText>"Nun, ich danke Ihnen, dass Sie sich die Zeit genommen haben, mit mir zu sprechen, Fürstin. Ich werde nach Hause zurückkehren und die Sache überdenken."
+
+Er verneigt sich und schreitet aus dem Saal.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürst. Ich ... überdenke Ihre Worte auf der Heimreise."</DefaultText>
+      <FemaleText>"Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürstin. Ich ... überdenke Ihre Worte auf der Heimreise."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"In meinen Landen gab es einige Zwischenfälle. Unruhestiftender Pöbel. Es ist etwas aus dem Ruder gelaufen. Sie weigern sich zu arbeiten, sie bedrohen meine Wachen, sie verbreiten diesen ... Unsinn, sie würden ungerecht behandelt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hrm." Brynwigar klingt alles andere als überzeugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Brynwigar runzelt die Stirn, hat aber einen nachdenklichen Blick in den Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst."</DefaultText>
+      <FemaleText>"Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wenn ich einen Moment Ihrer kostbaren Zeit stehlen dürfte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Es ist ja nicht, als würde ich ich sie nicht bezahlen! Jedenfalls fürchte ich, dass Sie nicht nachlassen werden. Die Lage wird nur noch schlimmer, wenn ich ihnen keinen Einhalt gebiete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich würde zur Vorsicht raten, mein Fürst. Fürst Brynwigar hat den Ruf, ein Mann von brutalem Gemüt zu sein. Manche würden ihn grausam nennen."
+
+Du hörst die sanfte Stimme des Burgvogts in deinem Kopf.</DefaultText>
+      <FemaleText>"Ich würde zur Vorsicht raten, meine Fürstin. Fürstin Brynwigar hat den Ruf, ein Mann von brutalem Gemüt zu sein. Manche würden ihn grausam nennen."
+
+Du hörst die sanfte Stimme des Burgvogts in deinem Kopf.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

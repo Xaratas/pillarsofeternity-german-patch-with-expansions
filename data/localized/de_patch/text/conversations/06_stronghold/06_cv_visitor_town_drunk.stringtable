@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_town_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hallo. Äh, ich meine, seien Sie gegrüßt, Fürst. Ich hatte gehofft, mit Ihnen sprechen zu können. Ich stecke ein klein wenig in Schwierigkeiten."
+
+Dieser Mann hat eine üble Bierfahne.</DefaultText>
+      <FemaleText>"Hallo. Äh, ich meine, seien Sie gegrüßt, Fürstin. Ich hatte gehofft, mit Ihnen sprechen zu können. Ich stecke ein klein wenig in Schwierigkeiten."
+
+Dieser Mann hat eine üble Bierfahne.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich habe in Dyrfurt einiges an Schulden gemacht. Und auch an ein paar anderen Orten. Mehr als ein paar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich dachte ... vielleicht wüssten Sie jemanden, der Arbeit hat. Ich bin bereit zu arbeiten!"</DefaultText>
+      <FemaleText>"Ich habe das Geld nicht, Fürstin. Ich würde die Schulden ja begleichen, wenn ich könnte!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Keine Sorge. Ich kann das übernehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich weiß, wie du deine Schulden bezahlen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Warum sollte ich mich mit einem unsteten Vagabunden abgeben? Du vergeudest meine Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"D-das war nicht meine Absicht, Fürst! Ich dachte nur ... ich ... verzeihen Sie mir!"</DefaultText>
+      <FemaleText>"D-das war nicht meine Absicht, Fürstin! Ich dachte nur ... ich ... verzeihen Sie mir!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wachen, schafft mir diese Kreatur aus den Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wachen, knüpft diesen Verschwender auf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Danke, Fürst. Ich hatte schon befürchtet, dass niemand sich einen Dreck scheren würde."</DefaultText>
+      <FemaleText>"Danke, Fürstin. Ich hatte schon befürchtet, dass niemand sich einen Dreck scheren würde."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Ihm 1200 KP geben.] "Das sollte reichen, um deine Schulden zu begleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Materielle Güter, Schulden ... diese Dinge sind nicht wichtig. Zahua kann dir mehr darüber sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich lasse dich von den Dutzenden von Stadt zu Stadt jagen, bis zum Hafen hinunter. Bis auf ein Schiff ins Land der Lebenden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe nie groß ein Handwerk gelernt. An was hatten Sie gedacht?"
+
+Gafol zappelt nervös herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Pallegina kann dich mit Forschern in den Vailianischen Republiken zusammenbringen. Du wirst als Assistent arbeiten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich spreche mit Bellasege im Sanatorium von Farnheim. Du kannst ihr bei ihren Forschungen helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Gafols Augen weiten sich.
+"Aber ja! Möge Gott Sie schützen, Fürst! Ich mache mich auf den Weg nach Einas Rast und bezahle meine Schulden. Die werden sich wundern!"</DefaultText>
+      <FemaleText>Gafols Augen weiten sich.
+"Aber ja! Möge Gott Sie schützen, Fürstin! Ich mache mich auf den Weg nach Einas Rast und bezahle meine Schulden. Die werden sich wundern!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh. Nun ... haben Sie noch eine andere Idee?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Äh. Sie meinen bei Experimenten? Naja, das ist zumindest gut bezahlt, oder?"
+
+Er verneigt sich unbeholfen. "Danke! Ich mache mich sofort auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Die Vailianischen Republiken? Aber das ist so weit weg ... andererseits tut mir ein Ortswechsel vielleicht gut."
+
+Er verneigt sich unbeholfen. "Danke! Ich werde fleißig sein, versprochen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nein, ich wollte nicht-! Ahhh!"
+
+Gafold duckt sich, um einer Wache zu entwischen. Er läuft schluchzend aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Mit einem ängstlichen Schrei läuft Gafol wimmernd aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nein, wartet! Wartet! Es tut mir leid!"
+
+Die Wachen packen Gafol an den Armen und zerren ihn aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Klingt, äh, interessant. Danke, Fürst! Ich wusste, dass Sie mir helfen können!"</DefaultText>
+      <FemaleText>"Klingt, äh, interessant. Danke, Fürstin! Ich wusste, dass Sie mir helfen können!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh, äh, gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Gafol verzieht nervös das Gesicht. Schweiß bildet sich auf seiner Stirn. Er wartet, bis du sprichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"H-he! Ich brauche nur einen Augenblick Ihrer Zeit ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich habe das Geld nicht, Fürst. Ich würde die Schulden ja begleichen, wenn ich könnte!"</DefaultText>
+      <FemaleText>"Ich habe das Geld nicht, Fürstin. Ich würde die Schulden ja begleichen, wenn ich könnte!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

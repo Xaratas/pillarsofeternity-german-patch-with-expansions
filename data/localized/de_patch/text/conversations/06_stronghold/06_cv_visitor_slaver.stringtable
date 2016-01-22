@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_slaver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Endlich! Ich bin froh, dass Sie hier sind, mein Fürst. Ich heiße Solmar. Ich habe eine wichtige Angelegenheit zu besprechen, wenn Sie Zeit haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich komme gleich zur Sache. Ich habe ein Dutzend orlanische Sklaven im Hafen von Girrara. Gute, gesunde Ware, die in Ixamitl einen hohen Preis bringt, wenn ich ein Schiff finde, das sie die Küste hinaufbringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du bedeutest deinen Verbündeten, zu dir zu kommen, und nimmst auf dem Thron Platz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich hatte gehofft, dass Sie helfen können. Sie stammen ursprünglich nicht aus dem Dyrwald, heißt es. Sie verstehen es also sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich denke, du solltest weiter die Küste hinauffahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich helfe dir, diese Sklaven zu verkaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Einfach weiterfahren? Das erscheint mir ... unklug, fürchte ich. Wir haben uns zwar bemüht, schlechtem Wetter auszuweichen, aber wir können wenig gegen übereifrige Beamte im Hafen ausrichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vielen Dank! An was haben Sie gedacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Natürlich, natürlich." 
+
+Solmar neigt höflich den Kopf und tritt einige Schritte zur Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vertrau mir. Es wird keine Schwierigkeiten geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Du wirst feststellen, dass sie in Neu-Heomar weniger Fragen stellen. Wenn du dort anlegst, wird es keine Probleme geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wohl wahr. Vielleicht gibt es einen anderen Weg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hiravias, ich will, dass du nach Girrara gehst und versuchst, diese Sklaven zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich hoffe, die Diskussion war fruchtbar?" Solmar tritt wieder näher heran und lächelt höflich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Haben Sie eine Entscheidung getroffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lügen] "Ich muss einige Erkundungen einholen. Geh zurück nach Girrara, ich sende dann einen Boten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Natürlich. Vielen Dank, dass Sie sich die Zeit nehmen! Ich erwarte Ihren Brief."
+
+Zufrieden verneigt Solmar sich und wendet sich zum Gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich lege ein gutes Wort bei den Schmelztiegelrittern ein. Dein Schiff kann bei Burg Flottenbrecher anlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich bitte die Doemenels um einen Gefallen. Ein Boot wird vor Geirans Griff auf euch warten und euch mit Vorräten versorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich spreche mit meinen Kontakten bei den Dutzenden. In Wegesend wird man dir keine Schwierigkeiten machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Gut! Ohne Risiko kein Gewinn, was? Danke für den Rat, mein Fürst! Ich bin wirklich erleichtert."</DefaultText>
+      <FemaleText>"Gut! Ohne Risiko kein Gewinn, was? Danke für den Rat, meine Fürstin! Ich bin wirklich erleichtert."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wirklich? Dann habe ich gut daran getan, zu Ihnen zu kommen! Ihr Rat hat mich Zeit und Geld gespart. Danke!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Die Dutzenden? Das ist ... nun, das ist, ich bin Ihnen natürlich dankbar! Danke, mein Fürst!"</DefaultText>
+      <FemaleText>"Die Dutzenden? Das ist ... nun, das ist, ich bin Ihnen natürlich dankbar! Danke, meine Fürstin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich wusste, ich kann auf Sie zählen, Fürst. Danke! Richten Sie den, äh, Doemenels natürlich auch meinen Dank aus!"</DefaultText>
+      <FemaleText>"Ich wusste, ich kann auf Sie zählen, Fürstin. Danke! Richten Sie den, äh, Doemenels natürlich auch meinen Dank aus!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Die Ritter? Das hätte ich zwar nicht von ihnen erwartet, aber ... ich bin sehr dankbar, mein Fürst! Ich breche sofort auf!"</DefaultText>
+      <FemaleText>"Die Ritter? Das hätte ich zwar nicht von ihnen erwartet, aber ... ich bin sehr dankbar, meine Fürstin! Ich breche sofort auf!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Mein Fürst! Ich habe eine dringliche Angelegenheit zu besprechen."</DefaultText>
+      <FemaleText>"Meine Fürstin! Ich habe eine dringliche Angelegenheit zu besprechen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ja. Ich habe beschlossen, dich aufzuhängen. Wachen, schafft ihn fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Was? Das können Sie doch nicht-! Das ist Wahnsinn! Halt! Das können Sie nicht tun!"
+
+Solmars Schreie sind weiter zu hören, während die Wachen ihn aus dem Saal zerren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[5000 KP geben] "Verkauf sie mir. Ich nehme sie dir ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wunderbar! Das löst mein Problem! Vielleicht kann ich mich auch für zukünftige Geschäfte an Sie wenden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Mein Fürst? Was haben Sie mit diesen Orlanern vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sie befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich werde sie in Spirento teurer weiterverkaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Es ist unser großer Glück, dass eine gütige Seele auf dem Thron sitzt. Würden doch nur mehr Ihrem Vorbild folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ah. Natürlich. Ich leite alles in die Wege. Es gibt gewiss keinen Mangel an Interessenten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Das ist der, äh, knifflige Teil. Mir fehlt das Geld, um genügend Vorräte für die ganze Reise zu kaufen. Nicht, ohne unterwegs in einem Hafen im Dyrwald anzulegen ... und zu riskieren, dass meine Ware beschlagnahmt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Die Gesetze im Dyrwald sind ein echtes Ärgernis für jeden Kaufmann, der sich außerhalb von Trutzbucht bewegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hm. Sie haben wohl mehr Erfahrung dort. Die Gesetze werden eher lax überwacht, ja?"
+
+Solmar streicht sich nachdenklich über den Schnurrbart.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
