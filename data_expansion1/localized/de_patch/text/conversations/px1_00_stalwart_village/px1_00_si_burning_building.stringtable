@@ -745,12 +745,12 @@ Ein Mann in der dürftigen Rüstung einer örtlichen Wache ist auf einer Seite d
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Den Zauber „Winterwind“ auf die Flammen wirken.</DefaultText>
+      <DefaultText>[Den Zauber „Winterwind“ auf die Flammen wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Den Zauber „Schauernebel“ auf die Flammen wirken.</DefaultText>
+      <DefaultText>[Den Zauber „Schauernebel“ auf die Flammen wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1047,10 +1047,12 @@ Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur ein Plünderer!“ Er lacht erleichtert auf.
 
 „Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an dir vorbeizudrängen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du bist also nicht nur eine Plünderin!“ Er lacht erleichtert auf.
+
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Slot 0] vorbeizudrängen.</FemaleText>
     </Entry>
     <Entry>
       <ID>631</ID>
@@ -1059,10 +1061,12 @@ Er läuft an dir vorbei Richtung Ausgang.</DefaultText>
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>„Du bist also nicht nur zum Plündern hier!“ Er lacht erleichtert auf.
+      <DefaultText>„Du bist also nicht nur ein Plünderer!“ Er lacht erleichtert auf.
 
 „Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Specified 0] vorbeizudrängen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du bist also nicht nur eine Plünderin!“ Er lacht erleichtert auf.
+
+„Danke, was auch deine Beweggründe sein mögen. Komm - wir müssen hier verschwinden.“ Er fängt an, sich an [Slot 0] vorbeizudrängen.</FemaleText>
     </Entry>
     <Entry>
       <ID>633</ID>
