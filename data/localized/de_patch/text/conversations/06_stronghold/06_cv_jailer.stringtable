@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_jailer</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>52</EntryCount>
+  <EntryCount>43</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -50,11 +50,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>10</ID>
-      <DefaultText>„Ich möchte Lucen freilassen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>11</ID>
       <DefaultText>„Lass Aefre frei.“</DefaultText>
       <FemaleText />
@@ -82,34 +77,14 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>„Mein Fürst, diese&#160;… Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>17</ID>
-      <DefaultText>„Eorn.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Meine Fürstin, diese&#160;…  Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>„Zeig ihm, was passiert, wenn man den Fürsten von Caed Nua verärgert.“</DefaultText>
       <FemaleText>„Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert.“</FemaleText>
     </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>„Lucen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>„Aefre.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>„Gramrfel.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
+     <Entry>
       <ID>22</ID>
       <DefaultText>„Zeig ihm, was passiert, wenn man den Fürsten von Caed Nua verärgert.“</DefaultText>
       <FemaleText>„Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert.“</FemaleText>
@@ -150,24 +125,9 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>32</ID>
-      <DefaultText>„Mein Fürst, unter den Gefangenen herrscht große Unruhe. Wie soll ich damit verfahren?“</DefaultText>
-      <FemaleText>„Meine Fürstin, unter den Gefangenen herrscht große Unruhe. Wie soll ich damit verfahren?“</FemaleText>
-    </Entry>
-    <Entry>
       <ID>33</ID>
       <DefaultText>„Drei Peitschenhiebe.“</DefaultText>
       <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>„Das ist genug.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>„Der Gefangene wurde schwer verletzt. Ist das genug, mein Fürst?“</DefaultText>
-      <FemaleText>„Der Gefangene wurde schwer verletzt. Ist das genug, meine Fürstin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -221,11 +181,6 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
-      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>47</ID>
       <DefaultText>„Sofort, mein Fürst.“</DefaultText>
       <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
