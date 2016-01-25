@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Vor einem Tag stellte ich einem Troll nahe der Schwarzauen nach. In diesem Dickicht muss man wirklich aufpassen, wohin man tritt.“</DefaultText>
+      <DefaultText>„Gestern stellte ich einem Troll nahe der Schwarzauen nach. In diesem Dickicht muss man wirklich aufpassen, wohin man tritt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Habe gehört, dass ein Trupp Xaurips drüben beim Kompass sein Lager aufgeschlagen hat. Was für eine Schande. So eine schöne Aussicht dort draußen.“</DefaultText>
+      <DefaultText>„Habe gehört, dass ein Trupp Xaurips drüben beim Kompass ein Lager aufgeschlagen hat. Was für eine Schande. So eine schöne Aussicht dort draußen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Mal sehen&#160;… angeblich hat sich ein großer Waldlauerer in den Schwarzauen niedergelassen, gleich neben der Hauptstraße. Die Kaufleute nennen ihn den Bewohner, und sie wollen ihn fort haben, ehe er anfängt, ihre Karawanen zu zerstören.“</DefaultText>
+      <DefaultText>„Mal sehen&#160;… angeblich hat sich ein großer Waldlauerer in den Schwarzauen niedergelassen, gleich neben der Hauptstraße. Die Kaufleute nennen ihn den Bewohner, und sie wollen ihn loswerden, ehe er anfängt, ihre Karawanen zu zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Liedschmied Roska, eine Sängerin aus Norwaech. Sie und ihre Komplizen haben engwithanische Ruinen geplündert, und die Glanfathaner von Ibrels Brunnen wollen, dass sie für ihre Verbrechen bezahlt. Und sie bezahlen UNS dafür. Roska hat ihr Lager außerhalb von Clîaban Rilag aufgeschlagen.“</DefaultText>
+      <DefaultText>„Liedschmiedin Roska, eine Sängerin aus Norwaech. Sie und ihre Komplizen haben engwithanische Ruinen geplündert, und die Glanfathaner von Ibrels Brunnen wollen, dass sie für ihre Verbrechen bezahlt. Und sie bezahlen UNS dafür. Roska hat ihr Lager außerhalb von Clîaban Rilag aufgeschlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Das hier wird nicht leicht. Galen Dalgard, der Sklaventreiber. Er wurde mit seinen Freunden bei der Madhmrbrücke gesehen. Die örtlichen Behörden weigern sich, gegen ihn vorzugehen, weil er mächtige Freunde in Aedyr hat. Aber irgendeine namenlose Seele, ist bereit, Geld dafür zu bezahlen, dass Galen seinen letzten Atemzug tut. Es ist offenbar etwas Persönliches.“</DefaultText>
+      <DefaultText>„Das hier wird nicht leicht. Galen Dalgard, der Sklaventreiber. Er wurde mit seinen Freunden bei der Madhmrbrücke gesehen. Die örtlichen Behörden weigern sich, gegen ihn vorzugehen, weil er mächtige Freunde in Aedyr hat. Aber irgendeine namenlose Seele ist bereit, Geld dafür zu bezahlen, dass Galen seinen letzten Atemzug tut. Es ist offenbar etwas Persönliches.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Also, was haben wir hier&#160;… Ah. Da hat wohl jemand die Doemenels verärgert. Hocharkanistin Ysly. Sie und ihr Kabal von Zauberern haben sich im Turm in Erbhügel abgeschottet.“</DefaultText>
+      <DefaultText>„Also, was haben wir hier&#160;… Ah. Da hat wohl jemand die Doemenels verärgert. Hocharkanistin Ysly. Sie und ihre Clique von Zauberern haben sich im Turm in Erbhügel verschanzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Er schüttelt den Kopf. „Ich habe dir alles gegeben, was ich habe. Aber das ist schon ein ordentlicher Batzen Geld. Wenn du damit durch bist, ist deine Schatzkammer sicher schön gefüllt.“</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Ich habe dir alle Kopfgeldaufträge gegeben, die ich hatte. Aber das ist schon ein ordentlicher Batzen Geld. Wenn du damit durch bist, ist deine Schatzkammer sicher schön gefüllt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Gut gemacht. Du hast den Palast des Ducs übertrumpft. Nicht, dass das sonderlich schwierig wäre&#160;… Wie dem auch sei, ist deine Belohnung.“</DefaultText>
+      <DefaultText>„Gut gemacht. Du hast den Palast des Ducs übertrumpft. Nicht, dass das sonderlich schwierig wäre&#160;… Wie dem auch sei, hier ist deine Belohnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Es gibt einen Vithrack weniger in der Welt. Sserkal ist tot.“</DefaultText>
+      <DefaultText>„Es gibt einen Vithrack weniger auf der Welt. Sserkal ist tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
