@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Dank Ihnen erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Ihnen die Götter sicherlich wohl gesonnen sein.“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Dank Ihnen erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Ihnen die Götter sicherlich wohl gesonnen sein.“</FemaleText>
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Dank Ihnen erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Ihnen die Götter sicherlich wohlgesonnen sein.“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Dank Ihnen erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Ihnen die Götter sicherlich wohlgesonnen sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich habe alle Schriftrollen gesammelt, die ich finden könnte. Vielleicht werden sie Ihnen auf Ihren Reisen nützlich sein.“</DefaultText>
+      <DefaultText>„Ich habe alle Schriftrollen gesammelt, die ich finden konnte. Vielleicht werden sie Ihnen auf Ihren Reisen nützlich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
