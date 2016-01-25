@@ -12,11 +12,11 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>„Mich zu kennen, mein Freund, kann nicht schaden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Mich zu kennen, meine Freundin, kann nicht schaden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Woanders wirst du keine besseren Angeboten finden.“</DefaultText>
+      <DefaultText>„Woanders wirst du keine besseren Angebote finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
