@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>„Gute Neuigkeiten, mein Fürst. Nach was suchen Sie denn? Ich biete Reisezubehör an. Sicherlich wird ein abgehärteter Reisender wie Ihr bei mir viele nützliche Dinge finden.“</DefaultText>
-      <FemaleText>„Gute Neuigkeiten, meine Fürstin. Nach was suchen Sie denn? Ich biete Reisezubehör an. Sicherlich wird ein abgehärteter Reisender wie Ihr bei mir viele nützliche Dinge finden.“</FemaleText>
+      <FemaleText>„Gute Neuigkeiten, meine Fürstin. Nach was suchen Sie denn? Ich biete Reisezubehör an. Sicherlich wird eine abgehärtete Reisende wie Ihr bei mir viele nützliche Dinge finden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Benötigen Sie Zubehör, mein Fürst? Man kann nie zu sehr vorbereitet sein.“</DefaultText>
-      <FemaleText>„Benötigen Sie Zubehör, meine Fürstin? Man kann nie zu sehr vorbereitet sein.“</FemaleText>
+      <DefaultText>„Benötigen Sie Zubehör, mein Fürst? Man kann nie zu gut vorbereitet sein.“</DefaultText>
+      <FemaleText>„Benötigen Sie Zubehör, meine Fürstin? Man kann nie zu gut vorbereitet sein.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
