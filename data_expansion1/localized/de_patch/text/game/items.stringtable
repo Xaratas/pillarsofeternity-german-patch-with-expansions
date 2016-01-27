@@ -2,8 +2,13 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>311</EntryCount>
+  <EntryCount>315</EntryCount>
   <Entries>
+     <Entry>
+      <ID>0</ID>
+      <DefaultText>Arbalest</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>1890</ID>
       <DefaultText>Abgetrenntes Horn</DefaultText>
@@ -876,7 +881,7 @@ Antonino wurde zu einem erfolgreichen und gefürchteten Räuber - und zum Gegens
       <ID>2039</ID>
       <DefaultText>Das Elfenkönigreich von Kulklin lag fast zwei Jahrhunderte lang mit dem Reich Aedyr im Krieg, ehe die zwei Mächte sich zusammenschlossen. Während dieser Zeit wurden viele der heftigsten Konflikte am Rand des Cythwalds ausgetragen, wo die zwei Nationen aneinander grenzten.
 
-Die Elfen des Cythwalds nutzten den Urwald zu ihrem Vorteil und waren bald berüchtigt für ihre listenreichen und brutalen Taktiken. Nahkämpfer fällten Bäume hinter den Invasionstrupps der Aedyrer, während Druiden neue in ihrem Pfad wachsen ließen. So verwirrten sie den Feind und verlangsamten seinen Vormarsch. Oft paarten sie diese Manöver mit verheerenden, blitzschnellen Angriffen. Sie umzingelten verirrte Trupps und zerrten Nachzügler in den Wald. Vor allem aber waren sie dafür bekannt, ihre Opfer an den Bäumen aufzuhängen, um weitere Angreifer abzuschrecken.
+Die Elfen des Cythwalds nutzten den Urwald zu ihrem Vorteil und waren bald berüchtigt für ihre listenreichen und brutalen Taktiken. Scharmützler fällten Bäume hinter den Invasionstrupps der Aedyrer, während Druiden neue in ihrem Pfad wachsen ließen. So verwirrten sie den Feind und verlangsamten seinen Vormarsch. Oft paarten sie diese Manöver mit verheerenden, blitzschnellen Angriffen. Sie umzingelten verirrte Trupps und zerrten Nachzügler in den Wald. Vor allem aber waren sie dafür bekannt, ihre Opfer an den Bäumen aufzuhängen, um weitere Angreifer abzuschrecken.
 
 Die Kulklin des Cythwalds waren schnell und verstanden es, in Windeseile ihre Angriffe zu improvisieren - auch, weil sie Alltagsgegenstände wie Äxte, Messer und Bögen als Kriegswaffen einsetzten. Äxte wie Wodewys wurden sowohl gegen Feinde als auch gegen Bäume eingesetzt.</DefaultText>
       <FemaleText />
@@ -1740,7 +1745,7 @@ Der König gab den Umhang seinen Kindern, wenn diese auf Reisen gingen. Jahre sp
     </Entry>
     <Entry>
       <ID>2182</ID>
-      <DefaultText>Dieser Ring ist schwer und grob behauen. Er sieht aus, als wäre er aus einem rohen Klumpen Eisen gefertigt worden. Winzige Unreinheiten glitzern noch immer in dem Ring. Die Innenseite ist zwar glatt gerieben, doch die äußere Seite ist zackig und uneben. Der Ring sieht aus, als wäre er von einem Laien gefertigt worden, nicht von einem erfahrenen Goldschmied. Er wurde aber offenbar gut gepflegt.</DefaultText>
+      <DefaultText>Dieser Ring ist schwer und grob gefertigt. Er sieht aus, als wäre er aus einem schlecht gereinigten Silberklumpen gegossen werden. Winzige Unreinheiten glitzern und funkeln noch um den gesamten Ring herum. Angesichts der mit bloßem Auge zu erkennenden Werkzeugspuren muss man vermuten, dass der Ring von einem Amateur gefertigt wurde, nicht von einem erfahrenen Goldschmied.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1965,6 +1970,21 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     <Entry>
       <ID>2211</ID>
       <DefaultText>Galvino hat diese seltsame Apparatur geschaffen, um Seelen aufzuspüren, die in einem früheren Leben in Durgans Batterie lebten. Sie schickt einen Energieimpuls aus, generiert aus Erinnerungen von Seelenfragmenten, die Galvino in der Adrascherbe der Apparatur gesammelt hat. Die schlafenden Leben der Versuchsperson hallen in dem ‚Echo‘ wieder, indem sie vorübergehend die See des Bewusstseins ihres aktuellen Lebens durchdringen. Die Versuchspersonen bemerken nicht, was geschieht, doch die Bewegungen können durch spezielle Linsen oder die Augen eines Wächters beobachtet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2246</ID>
+      <DefaultText>Helm der Weißen Wappenrüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2522</ID>
+      <DefaultText>Iron Flail Infantry Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2524</ID>
+      <DefaultText>This devastating trap unleashes the power of holy fire on all those who are unfortunate enough to be caught in the area, doing terrible Burn damage.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

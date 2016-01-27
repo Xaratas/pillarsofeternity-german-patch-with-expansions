@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>276</EntryCount>
+  <EntryCount>277</EntryCount>
   <Entries>
     <Entry>
       <ID>1400</ID>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>1483</ID>
-      <DefaultText>Dieser Reim imitiert die Fähigkeit des Kantors, Skelette zu beschwören. Er kann jedoch erst eingesetzt werden, wenn einige Zeit im Kampf vergangen ist. Außerdem kann er nur sehr selten eingesetzt werden.</DefaultText>
+      <DefaultText>Dieser Reim imitiert die Fähigkeit des Sängers, Skelette zu beschwören. Er kann jedoch erst eingesetzt werden, wenn einige Zeit im Kampf vergangen ist. Außerdem kann er nur sehr selten eingesetzt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,17 +581,17 @@
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie „Weder gefällt von der Axt, noch gebrochen vom Sturm“ und Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
+      <DefaultText>Der Sänger setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie „Weder gefällt von der Axt, noch gebrochen vom Sturm“ und Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1516</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf offensive Beschwörungen wie „Und Hel-Hyraf krachte auf den Schild“, „Der Donner rollte wie Wellen auf schwarzen Meeren“, „Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache“ und „Weiße Würmer wanden sich in den Bäuchen der Toten“. Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
+      <DefaultText>Der Sänger setzt seinen Schwerpunkt auf offensive Beschwörungen wie „Und Hel-Hyraf krachte auf den Schild“, „Der Donner rollte wie Wellen auf schwarzen Meeren“, „Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache“ und „Weiße Würmer wanden sich in den Bäuchen der Toten“. Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1517</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“.  Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
+      <DefaultText>Der Sänger setzt seinen Schwerpunkt auf Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“.  Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,17 +871,17 @@
     </Entry>
     <Entry>
       <ID>1574</ID>
-      <DefaultText>Die Verbündeten des Kantors erhalten einen Bonus auf ihre Wille-Verteidigung auf den Widerstand gegen die Wirkungen Bezaubert, Verwirrt und Beherrscht.</DefaultText>
+      <DefaultText>Die Verbündeten des Sängers erhalten einen Bonus auf ihre Wille-Verteidigung auf den Widerstand gegen die Wirkungen Bezaubert, Verwirrt und Beherrscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1575</ID>
-      <DefaultText>Schafft eine Barriere, die Schaden absaugt, der gegen die Verbündeten des Kantors gerichtet ist.</DefaultText>
+      <DefaultText>Schafft eine Barriere, die Schaden absaugt, der gegen die Verbündeten des Sängers gerichtet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1576</ID>
-      <DefaultText>Die Verbündeten des Kantors erhalten einen Teil des Schadens, den sie verursachen, als Ausdauer zurück.</DefaultText>
+      <DefaultText>Die Verbündeten des Sängers erhalten einen Teil des Schadens, den sie verursachen, als Ausdauer zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,12 +891,12 @@
     </Entry>
     <Entry>
       <ID>1578</ID>
-      <DefaultText>Der Kantor füllt sich mit manischer Energie, wodurch sich seine Angriffsgeschwindigkeit deutlich erhöht.</DefaultText>
+      <DefaultText>Der Sänger füllt sich mit manischer Energie, wodurch sich seine Angriffsgeschwindigkeit deutlich erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1579</ID>
-      <DefaultText>Beschwört eine Sumpfspore, die für den Kantor kämpft.</DefaultText>
+      <DefaultText>Beschwört eine Sumpfspore, die für den Sänger kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1382,6 +1382,11 @@
     <Entry>
       <ID>1676</ID>
       <DefaultText>Immunität: Krankheit</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>1721</ID>
+      <DefaultText>Indem er durch die Zwischenwelt tritt, kann der Dieb sich einige Augenblicke lang scheinbar über das Schlachtfeld teleportieren. Wenn die Wirkung nachlässt, kehrt er automatisch zu seinem Ausgangspunkt zurück.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

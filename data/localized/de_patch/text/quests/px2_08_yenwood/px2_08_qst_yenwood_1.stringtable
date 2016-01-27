@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_08_yenwood\px2_08_qst_yenwood_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ruf an den Hof</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zum Palast des Ducs im Bezirk Urfeuer in Trutzbucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sprich in der Halle der Urkunden im Palast mit Kanzler Warrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sprich mit dem Boten in deiner Herrenhalle auf Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Bote des Duc-Palasts in Trutzbucht ist auf Caed Nua eingetroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Es wird in Zweifel gezogen, dass ich der rechtmäßige Besitzer von Caed Nua bin. Ich muss Kanzler Warrin im Palast des Ducs in Urfeuer aufsuchen, um die Angelegenheit zu besprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kanzler Warrin wartet in der Halle der Urkunden im Palast des Ducs auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ein Bote des Duc-Palasts wartet in der Herrenhalle von Caed Nua auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Fürst Gathbin hat das Dekret des Grafen von Yenwald abgelehnt. Caed Nua bleibt in meinem Besitz. Mich beschleicht aber das Gefühl, dass Fürst Gathbin noch nicht aufgeben wird ... ich muss wachsam bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

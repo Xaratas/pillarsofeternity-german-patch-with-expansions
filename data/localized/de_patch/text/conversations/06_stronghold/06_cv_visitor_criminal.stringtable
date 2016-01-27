@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_criminal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Man nennt mich Nyry. Ich stör nur ungern, Fürst, aber ich wollte mal mit Ihnen reden."</DefaultText>
+      <FemaleText>"Man nennt mich Nyry. Ich stör nur ungern, Fürstin, aber ich wollte mal mit Ihnen reden."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich hab mich vielleicht ein paar Mal wegen nicht so klugen Sachen verhaften lassen. Jetzt steht mein Name auf Plakaten in ganz Trutzbucht. Das macht es schwer, mich frei zu bewegen, wenn Sie verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich dachte mir, es wäre an der Zeit für einen Tapetenwechsel. Das Todesfeuer-Archipel soll recht hübsch sein. Dann wären mich alle los. Nur ... brauche ich Hilfe, um da hin zu kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich kann dir bei der Flucht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du solltest dich einfach stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du wagst es, dein Gesicht in meiner Festung zu zeigen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich wollte ja niemandem auf dem Schlips treten! Ich hab nur gehört, dass Sie Dinge regeln können, mehr nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wachen, schafft diese Frau aus meiner Festung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Verbrecher werden hier aufgeknüpft. Wachen, ergreift sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich wusste es, Boss! Ich meine Fürst. Wie sieht der Plan aus?"</DefaultText>
+      <FemaleText>"Ich wusste es, Boss! Ich meine Fürstin. Wie sieht der Plan aus?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[1000 KP geben] "Hier. Das sollte für die Reise reichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich spreche mit meinen Kontakten im Haus Doemenel. Das ist ihr Fachgebiet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Lügen] "Ich habe einen Kontakt bei den Schmelztiegelrittern, der dir helfen kann. Er wird dich an der Wache vorbei zum Hafen bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Das meinen Sie doch wohl nicht ernst! Die werden mich aufhängen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich sorge dafür, dass sie dir nur eine milde Strafe geben. Als Gesetzlose leben zu müssen, wäre noch schlimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lügen] "Ich werde ein gutes Wort für dich einlegen. Du wirst bestimmt eine milde Strafe bekommen. Als Gesetzlose leben zu müssen wäre noch schlimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich soll mich also einfach stellen und hoffen, dass sie Gnade walten lassen? Ganz abgesehen davon, dass ich keine Lust auf einen Urlaub hinter Gittern habe ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Bei Hyleas Titten! Das ist wirklich großzügig von Ihnen. Ich mache mich sofort auf den Weg zum Hafen. Ich bin Ihnen was schuldig!"
+
+Nyry legt die Hände zu einer Geste der Dankbarkeit zusammen und läuft fast aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Es geht dich nichts über einflussreiche Freunde, was? Sie werden es nicht bereuen, Fürst. Ich bin Ihnen was schuldig!"</DefaultText>
+      <FemaleText>"Es geht doch nichts über einflussreiche Freunde, was? Sie werden es nicht bereuen, Fürstin. Ich bin Ihnen was schuldig!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Das ist wirklich gerissen. Fast wie eine Verkleidung. Sagen Sie ihm, dass ich da sein werde! Danke, Sie haben mir den Arsch gerettet!"
+
+Grinsend wendet Nyry sich zum Gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"H-he, Moment, ich gehe ja! Kein Grund, die – AU! – ich gehe ja schon!"
+
+Den Hieben ausweichend stolpert Nyry aus dem Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"M-Moment mal! Halt! Ich wollte das doch alles gar nicht! Ich bin unschuldig!"
+
+Nyry wird zappelnd und zeternd aus dem Saal gezerrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ja ... ja, gut. Es war nicht leicht, mich immer verstecken zu müssen. Vielleicht ist es besser, neu anzufangen. Danke, dass Sie mir die Chance dazu geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Kommt nicht in Frage! Sie sind zwar gerissen, aber Sie bringen mich nicht dazu, dem Henker meinen Hals freiwillig anzubieten."
+
+Nyry macht auf dem Absatz kehrt und verlässt schnellen Schrittes den Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Gewiss, gewiss. Haben Sie vielleicht noch eine Idee?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Burgvogt, sorge dafür, dass die Schmelztiegelritter auf Nyry warten. Sag ihnen, sie sollen den Strick bereithalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich sorge dafür, mein Fürst. Geschickt gelöst, muss ich sagen."</DefaultText>
+      <FemaleText>"Ich sorge dafür, meine Fürstin. Geschickt gelöst, muss ich sagen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich werde bei den Schmelztiegelrittern meinen Einfluss spielen lassen. Wenn du dich benimmst, sorge ich dafür, dass sie deine Strafe verringern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du musst mir wohl einfach vertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ja ... ja, gut. Es war nicht leicht, mich immer verstecken zu müssen. Vielleicht ist es besser, neu anzufangen. Danke, dass Sie mir die Chance dazu geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Kommt nicht in Frage! Sie sind zwar gerissen, aber Sie bringen mich nicht dazu, dem Henker meinen Hals freiwillig anzubieten."
+
+Nyry macht auf dem Absatz kehrt und verlässt schnellen Schrittes den Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Kommt nicht in Frage! Sie sind zwar gerissen, aber Sie bringen mich nicht dazu, dem Henker meinen Hals freiwillig anzubieten."
+
+Nyry macht auf dem Absatz kehrt und verlässt schnellen Schrittes den Saal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ja ... ja, gut. Es war nicht leicht, mich immer verstecken zu müssen. Vielleicht ist es besser, neu anzufangen. Danke, dass Sie mir die Chance dazu geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sind Sie [Player Name]? Ich könnte ein wenig Hilfe gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
