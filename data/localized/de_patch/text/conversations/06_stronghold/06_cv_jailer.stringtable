@@ -80,11 +80,6 @@
       <FemaleText>„Meine Fürstin, diese&#160;… Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</FemaleText>
     </Entry>
     <Entry>
-      <ID>17</ID>
-      <DefaultText>"Eorn."</DefaultText>
-      <FemaleText />
-    </Entry>>
-    <Entry>
       <ID>18</ID>
       <DefaultText>„Zeig ihm, was passiert, wenn man den Fürsten von Caed Nua verärgert.“</DefaultText>
       <FemaleText>„Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert.“</FemaleText>
