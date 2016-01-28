@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1820</EntryCount>
+  <EntryCount>1899</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1122,7 +1122,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>N, unser Freund Purnisc ist in letzter Zeit gierig geworden. Ich bin zur Zeit geschäftlich unten im Süden unterwegs und kann mich dieses Problems nicht selbst annehmen. Ich vertraue darauf, dass du ihm den schweren Fehler, den er begangen hat, einprägen kannst. –&#160;A</DefaultText>
+      <DefaultText>N, unser Freund Purnisc ist in letzter Zeit gierig geworden. Ich bin zurzeit geschäftlich unten im Süden unterwegs und kann mich dieses Problems nicht selbst annehmen. Ich vertraue darauf, dass du ihm den schweren Fehler, den er begangen hat, einprägen kannst. –&#160;A</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1568,7 +1568,7 @@ Irgendwo weit weg von hier.“</DefaultText>
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Diese ist die untere Hälfte einer zerbrochenen Klinge. Der Metall ist von guter Qualität, und es ist unklar, weshalb die Klinge im Mittelpunkt so sauber abgebrochen ist.</DefaultText>
+      <DefaultText>Diese ist die untere Hälfte einer zerbrochenen Klinge. Das Metall ist von guter Qualität, und es ist unklar, weshalb die Klinge im Mittelpunkt so sauber abgebrochen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3195,7 +3195,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Das Ende der Trübsal</DefaultText>
+      <DefaultText>Ende des Leids</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4780,7 +4780,7 @@ Zum letzten Mal: Halte dich von Trutzbucht fern. Wenn ich mich nicht einmal dara
     </Entry>
     <Entry>
       <ID>969</ID>
-      <DefaultText>Ondra erhält oft Opfergaben von Leuten, die sie oder das, was sie repräsentieren, vergessen möchten. Man sagt, dass sie sämtliche Erinnerungen mit der Flut wegschwemmt.</DefaultText>
+      <DefaultText>Ondra erhält oft Opfergaben von Leuten, welche die Gaben oder das, was sie repräsentieren, vergessen möchten. Man sagt, dass sie sämtliche Erinnerungen mit der Flut wegschwemmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5349,7 +5349,7 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1092</ID>
-      <DefaultText>Der Name der Mondsteine leitet sich von ihrem dem Mondschein ähnlichen Glanz ab. Mondsteine werden manchmal von Ondras Geschenkebringern gesammelt, die die Gegenwart der Steine in der Welt mit den Legenden um Ondras Affäre mit dem Mond in Verbindung bringen.</DefaultText>
+      <DefaultText>Der Name der Mondsteine leitet sich von ihrem dem Mondschein ähnlichen Glanz ab. Mondsteine werden manchmal von Ondras Gabenbringern gesammelt, die die Gegenwart der Steine auf der Welt mit den Legenden um Ondras Affäre mit dem Mond in Verbindung bringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5644,7 +5644,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Carow Golan wird aus einer heiligen und seltenen Pflanze hergestellt, die tief in Eir&#160;Glanfath wächst. Die Mixtur wird fast ausschließlich für zeremonielle Zwecke oder von Kriegern, die in eine wichtige Schlacht ziehen, verwendet. Sie soll das Bewusstsein der eigenen Position in der Welt schärfen, so dass man Gefahren besser erkennen und kontern kann.</DefaultText>
+      <DefaultText>Carow Golan wird aus einer heiligen und seltenen Pflanze hergestellt, die tief in Eir&#160;Glanfath wächst. Die Mixtur wird fast ausschließlich für zeremonielle Zwecke oder von Kriegern, die in eine wichtige Schlacht ziehen, verwendet. Sie soll das Bewusstsein der eigenen Position auf der Welt schärfen, so dass man Gefahren besser erkennen und kontern kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5970,7 +5970,7 @@ Alle Zauberbücher haben ihre Grenzen, da sie aus einer begrenzten Anzahl an Sei
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln wechselnder Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
+      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,7 +6021,7 @@ Anstatt eine einzelne Person den Bogen besitzen zu lassen, betrachtete der Stamm
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>Das größte aller Omelettes. Wer häufig Dracheneier isst, wird feststellen, dass es nur wenig gibt, was er nicht wagen würde.</DefaultText>
+      <DefaultText>Das größte aller Omeletts. Wer häufig Dracheneier isst, wird feststellen, dass es nur wenig gibt, was er nicht wagen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7446,7 +7446,7 @@ Dieser Umhang ist mit dem Sonnensymbol von Eothas verziert.</DefaultText>
       <ID>1467</ID>
       <DefaultText>Dieses kleine Buch mit Versen und Psalmen sieht recht mitgenommen aus, was darauf schließen lässt, dass jemand es häufig bei sich trug. Die Seiten sind mit Eselsohren versehen und zerknittert. Die Goldfäden, die den Titel des Buchs bildete, lösen sich langsam auf. Das Buch öffnet sich meist auf einer bestimmten Seite, auf der jemand einen Vers mit einem kleinen Tintenfleck markiert hat:
 
-„Eadnung, der helle Stern, sprach, und ihre Stimme war wie ein Fanfarenstoß, der seine Seele fortrief. Er kannte sie als die Rechte Hand des Strahlenden Gottes, und er fürchtete sich.
+„Eadnung, der helle Stern, sprach, und ihre Stimme war wie ein Fanfarenstoß, der seine Seele fort rief. Er kannte sie als die Rechte Hand des Strahlenden Gottes, und er fürchtete sich.
 
 ‚Oh, Wanderer, höre mich an‘, sprach sie. ‚Wir kennen dich, du kannst deiner Taten wegen keine Erlösung erfahren.‘ Und er weinte, denn er wusste, dass seine Sünden vor dieser großen Erleuchtung offenlagen.
 
@@ -8539,7 +8539,7 @@ Es gibt viele Orte in Eir&#160;Glanfath, die für die Glanfathaner „magisch“
 
 Seltsamerweise scheinen die Regeln innerhalb der Grenzen von Zwillingsulmen nicht so streng zu gelten, einer Siedlung, die auf einer großen Konzentration engwithanischer Gebäude errichtet wurde. Dies scheint aber wohl kein selektives Versehen der Glanfathaner zu sein, sondern Teil der ursprünglichen Abmachung.
 
-Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
+Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandtschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
 
 Die Tatsache, dass ihr Fanatismus und Eifer nicht so allumfassend sind, wie manche glauben, macht sie nicht weniger gefährlich. Die Reißzähne sind nicht dafür bekannt zu verhandeln, wenn sie sich im Recht fühlen. Wenn sie der Meinung sind, man habe eine heilige Stätte entweiht, so erfolgen ihr Urteil und ihre Strafe schnell und hart. Berichte über die Angriffe der Reißzähne sind bereits in Unterlagen aus der Zeit der ersten Erkundungen Eir&#160;Glanfath&#x2060;s zu finden. Selbst der kleinste Verstoß rechtfertigt in ihren Augen eine Hinrichtung.
 
@@ -8572,7 +8572,7 @@ Der Orden selbst scheint vor allem aus Jägern zu bestehen. Ob sie als fähige J
 
 „Aber du sagtest gerade, dass niemand dieses Geschöpf fangen könnte! Das Ziel ist nicht erreichbar!“
 
-Galawain lächelte. „Die Menschheit hat uns schon oft überrascht. Vielleicht überrascht sie uns wieder. Ich werde einen großen weißen Hirsch schaffen und ihn in der Welt aussetzen. Er wird Anmut besitzen, Ausdauer und Hartnäckigkeit. Er wird nur existieren, um sein ganzes Leben lang gejagt zu werden, und er wird niemals gefangen werden. Er wird über viele Generationen hinweg die Jagd inspirieren. Alle, die nach Ehre trachten, werden meinen Namen beschwören. Alle, die von dem Hirsch hören, werden mich bitten, ihre Suche zu segnen.“
+Galawain lächelte. „Die Menschheit hat uns schon oft überrascht. Vielleicht überrascht sie uns wieder. Ich werde einen großen weißen Hirsch schaffen und ihn auf der Welt aussetzen. Er wird Anmut besitzen, Ausdauer und Hartnäckigkeit. Er wird nur existieren, um sein ganzes Leben lang gejagt zu werden, und er wird niemals gefangen werden. Er wird über viele Generationen hinweg die Jagd inspirieren. Alle, die nach Ehre trachten, werden meinen Namen beschwören. Alle, die von dem Hirsch hören, werden mich bitten, ihre Suche zu segnen.“
 
 Hylea schüttelte den Kopf und warf Galawain einen amüsierten Blick zu. „Ich glaube nicht, dass das möglich ist. Daher mache auch ich ein Angebot. Ich werde dem, der diesen Hirsch fängt&#160;– und jemand wird diesen Hirsch fangen –, seine Anmut, seine Ausdauer und seine Hartnäckigkeit verleihen. Er wird dreifach gesegnet sein. Er wird auf der Jagd um meinen Segen bitten, damit er meine Gaben empfängt.“
 
@@ -8643,7 +8643,7 @@ Ich öffne die Augen. Ich liege auf dem Boden. Ich sehe zerrissenen Stoff, Felse
 
 Sie steht über mir. Ich sehe gefrorene Tränen auf ihren Wangen. Sie bewegt sich nicht. Sie bedroht mich nicht. Aber ich weiß, dass das Ende gekommen ist. Ihr Mund öffnet sich. Der unmenschliche Schrei, der aus ihr herausbricht, durchschneidet den schwarzen Schleier, der meinen Verstand umhüllt, und ich sehe sie. Das Holz, das unter ihren Füßen zerbarst. Das Wasser, das sie verschlang.
 
-Sie verblasst, an ihrer Statt erscheint das Gesicht des Teufels, der mich verfolgt hat. War er schon immer da? Habe ich ihn in meinem Wahnsinn in einer anderen Gestalt gesehen? Ist in meinem Verstand überhaupt noch etwas wahr? Die Zeit blutet. Meine Augen zittern und verzerren das Gesicht, das sich nähert. Seine dunklen Augen beobachten mich genau. Sein Fell ist verfilzt und schmutzig. Seine Zähne blitzen im schwindenden Licht. Seine gewaltigen Hände, an deren Spitzen zackige Klingen sitzen, erheben sich über meinen Kopf.
+Sie verblasst, an ihrer statt erscheint das Gesicht des Teufels, der mich verfolgt hat. War er schon immer da? Habe ich ihn in meinem Wahnsinn in einer anderen Gestalt gesehen? Ist in meinem Verstand überhaupt noch etwas wahr? Die Zeit blutet. Meine Augen zittern und verzerren das Gesicht, das sich nähert. Seine dunklen Augen beobachten mich genau. Sein Fell ist verfilzt und schmutzig. Seine Zähne blitzen im schwindenden Licht. Seine gewaltigen Hände, an deren Spitzen zackige Klingen sitzen, erheben sich über meinen Kopf.
 
 Ich schließe die Augen.
 
@@ -8854,7 +8854,7 @@ Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu füh
 
 Im Jahr 2654 erlebte der Dyrwald eine Tragödie&#160;– Edrang, dessen Gesundheit immer weiter nachgelassen hatte, verlor die Kraft und kehrte in den Kreislauf zurück. Regd, der im Laufe der Jahre einen widerwilligen Respekt für seinen Widersacher entwickelt hatte, ließ Admeth aus der Gefangenschaft in Neu-Heomar sein ehrliches Beileid aussprechen. Admeth folgte auf den Thron seines Vaters und wurde Gréf des Dyrwalds. Den anderen Grafen missfiel diese Entwicklung. Sie begannen, sich Admeths Dekreten öffentlich zu widersetzen. Im Jahr 2662 AI hatte Admeth genug von den widerspenstigen Grafen. Er konnte auf die Unterstützung der neuen vailianischen Ducs und des einfachen Volks im Dyrwald zählen (schließlich hatte er es vor den Glanfathanern gerettet) und stellte dem Fercönyng von Aedyr ein Ultimatum. Er forderte, dass er zum Gréf-Palatin gemacht werden solle. Damit besäße er die Autorität und Macht über alle Grafen, ihre Besitztümer und ihre Titel. Der Dyrwald würde kein Gréfram mehr sein, sondern ein Palatinat. Der Fercönyng, der sich nicht mit einer Rebellion herumschlagen wollte, während er versuchte, die Kontrolle über den Vorlas-Handel in Readceras zu gewinnen, willigte zähneknirschend in Admeths Forderungen ein. Admeth nutzte seine neue Macht, um die Grafen spuren zu lassen. Im Tausch gegen seine Macht investierte Admeth Zeit und Geld in alle Häfen des Dyrwalds, um den Handelsverkehr zu steigern. Das wiederum erhöhte das Einkommen des Fercönyngs.
 
-Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Jahre. Im Jahr 2662 AI gelang ihm, was schon seit vielen Jahren erfolglos versucht worden war&#160;– er beendete die Sklaverei im Dyrwald. Er handelte die Zehnjahresverträge aus, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung der Sklaven vereinbart. Die Eigentümer sollten für jeden freigelassenen Sklaven mit Geld oder Land entschädigt werden. Weigerten sie sich, ihre Sklaven freizulassen, so sollten sie ihnen weggenommen werden und die Eigentümer mit einer Geldstrafe belegt. Im Gegenzug sollten die Glanfathaner den Handel mit dem Dyrwald eröffnen und einige ihrer Gebiete an die Regierung des Dyrwalds abtreten (was in der Praxis bedeutete, dass sie akzeptieren würden, dass die Dyrwälder dort schon lebten und herrschten). Hunderte von Sklavenbesitzern versuchten zu rebellieren. Admeth hatte diese Reaktion erwartet. Der Aufstand wurde schnell niedergeschlagen. Anschließend ließ Admeth im Volk Propaganda verbreiten, was sowohl die Küferaufstände als auch ihre Anstifter in viel schlechterem Licht darstellte als sie wirklich waren. Diese Taktik ging auf und es gab keine Unruhen mehr.</DefaultText>
+Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Jahre. Im Jahr 2662 AI gelang ihm, was schon seit vielen Jahren erfolglos versucht worden war&#160;– er beendete die Sklaverei im Dyrwald. Er handelte die Zehnjahresverträge aus, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzen Bäume entstanden. Es wurde ein Zeitplan für die Freilassung der Sklaven vereinbart. Die Eigentümer sollten für jeden freigelassenen Sklaven mit Geld oder Land entschädigt werden. Weigerten sie sich, ihre Sklaven freizulassen, so sollten sie ihnen weggenommen werden und die Eigentümer mit einer Geldstrafe belegt. Im Gegenzug sollten die Glanfathaner den Handel mit dem Dyrwald eröffnen und einige ihrer Gebiete an die Regierung des Dyrwalds abtreten (was in der Praxis bedeutete, dass sie akzeptieren würden, dass die Dyrwälder dort schon lebten und herrschten). Hunderte von Sklavenbesitzern versuchten zu rebellieren. Admeth hatte diese Reaktion erwartet. Der Aufstand wurde schnell niedergeschlagen. Anschließend ließ Admeth im Volk Propaganda verbreiten, was sowohl die Küferaufstände als auch ihre Anstifter in viel schlechterem Licht darstellte als sie wirklich waren. Diese Taktik ging auf und es gab keine Unruhen mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8954,7 +8954,7 @@ Der Gréf aber nutzte Mittel, die ihm seine glanfathanischen Verbündeten bereit
       <ID>1595</ID>
       <DefaultText>Im Jahr 2652 AI begann alles zu zerfallen. Es wurde entdeckt, dass mehrere Ruinen geplündert worden waren. Alle Zeichen deuteten darauf hin, dass die Aedyrer den Vertrag gebrochen hatten. Die Glanfathaner hielten sich so lange sie nur konnten mit einem Urteil zurück, doch als die Beweise schließlich erdrückend wurden, schlugen sie mit all ihrer Macht zurück. Regd nahm wieder die Rolle des Anführers an und führte sein Volk in den Kampf gegen die Aedyrer. Anstatt wieder mit Edrang Hadret zu ringen, kreuzte Regd diesmal aber die Schwerter mit Edrangs Sohn Admeth Hadret. Admeth erwies sich also ebenso fähig –&#160;oder fähiger&#160;– wie sein Vater und setzte eine Taktik ein, mit der kein Glanfathaner gerechnet hatte. Um das Schlachtfeld zu räumen und dafür zu sorgen, dass der Feind sich nirgendwo verstecken konnte, ließ Admeth den gesamten Wald beim Fluss Isce Uar in Brand setzen und versperrte allen fliehenden Truppen mit seiner Armee den Weg. Einige überlebten das Gemetzel zwar, doch der Großteil der glanfathanischen Truppen kam um. Regd wurde in dem Chaos gefangen genommen und nach Neu-Heomar gebracht. Es kam zwar zu vielen weiteren Schlachten (in denen Admeth teilweise dieselbe Taktik einsetzte), doch die glanfathanischen Truppen hatten ihre Führung und ihre Entschlossenheit verloren. Sie wurden mühelos zerschlagen und noch vor Ende desselben Jahres war der Krieg der Schwarzen Bäume (wie er heute genannt wird) beendet.
 
-Um das Verhältnis zwischen den beiden Gruppen zu verbessern, führte Admeth neue Gesetze ein, die das Rauben neuer Sklaven aus Eir&#160;Glanfath einschränkten. Die Gesetze gaben Glanfathanern außerdem die Möglichkeit, ihre Verwandten aus der Gefangenschaft freizukaufen. Die Glanfathaner waren zwar nicht vollständig glücklich darüber, ihre Landsleute –&#160;die bereits frei gewesen waren&#160;– kaufen zu müssen, doch sie betrachteten diese Geste des guten Willens als ebensolche und stellten die Feindseligkeiten wieder ein. Sieben Jahre vergingen, in denen der Dyrwald unter Admeths Herrschaft stand. Die Glanfathaner hatten zum ersten Mal das Gefühl, dass wieder wahrer Frieden in ihr Land zurückkehren könnte. Dieser Frieden führte zu den vermutlich bedeutendsten Friedensverhandlungen, die es zwischen Eir&#160;Glanfath und dem Dyrwald je gab. Admeth schuf die Zehnjahresverträge, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung aller glanfathanischen Sklaven festgelegt. Die Bürger von Eir&#160;Glanfath betrachteten den Dyrwald mit einer vorsichtigen Hoffnung. Durch den erweiterten Frieden zwischen den zwei Völkern und durch die neuen Verträge hofften sie, dass der Konflikt tatsächlich überwunden war.
+Um das Verhältnis zwischen den beiden Gruppen zu verbessern, führte Admeth neue Gesetze ein, die das Rauben neuer Sklaven aus Eir&#160;Glanfath einschränkten. Die Gesetze gaben Glanfathanern außerdem die Möglichkeit, ihre Verwandten aus der Gefangenschaft freizukaufen. Die Glanfathaner waren zwar nicht vollständig glücklich darüber, ihre Landsleute –&#160;die bereits frei gewesen waren&#160;– kaufen zu müssen, doch sie betrachteten diese Geste des guten Willens als ebensolche und stellten die Feindseligkeiten wieder ein. Sieben Jahre vergingen, in denen der Dyrwald unter Admeths Herrschaft stand. Die Glanfathaner hatten zum ersten Mal das Gefühl, dass wieder wahrer Frieden in ihr Land zurückkehren könnte. Dieser Frieden führte zu den vermutlich bedeutendsten Friedensverhandlungen, die es zwischen Eir&#160;Glanfath und dem Dyrwald je gab. Admeth schuf die Zehnjahresverträge, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzen Bäume entstanden. Es wurde ein Zeitplan für die Freilassung aller glanfathanischen Sklaven festgelegt. Die Bürger von Eir&#160;Glanfath betrachteten den Dyrwald mit einer vorsichtigen Hoffnung. Durch den erweiterten Frieden zwischen den zwei Völkern und durch die neuen Verträge hofften sie, dass der Konflikt tatsächlich überwunden war.
 
 Im Jahr 2665 brachte Galven Medhra, eine Elfenfrau, die das Amt von Regd übernommen hatte, Kunde zu Admeth. Einige Dyrwälder waren ertappt worden, wie sie Artefakte aus einem Grab geraubt hatten. Während der Ermittlungen wurde festgestellt, dass auch weitere Stätten geplündert worden waren. Da es sich um Einzelfälle handelte, die frühzeitig aufgehalten werden konnten, wollte Medhra keinen neuen Krieg beginnen, nachdem so lange Frieden geherrscht hatte. Admeth war dankbar für diese Geste der Höflichkeit und ließ die Verantwortlichen sofort aufspüren. Medhra stellte Admeth ihre Brîshalgwin („Verstandsjäger“) zur Seite, mit deren Hilfe Beweise gefunden wurden, die direkt zum Fercönyng führten. Admeth und Medhra waren nun Verbündete gegen den aedyrischen Fercönyng. Sie nutzten alle Mittel, die ihnen zur Verfügung standen, um zu verhindern, dass die Agenten des Fercönyngs in die Ruinen gelangten.
 
@@ -9046,7 +9046,7 @@ Er wendet sich ab, gedankenverloren. Die Tür fliegt auf und Torfal betritt den 
 TORFAL: (Pause) Was–
 BELMIS (sofort, eilig, unterbricht ihn): Torfal, mein guter Mann! Welch eine Freude, dir nach so langer Zeit endlich zu begegnen!
 TORFAL: (Pause) Wer–
-BELMIS: Ireby! Gewiss hast du mich erwartet? Hast dich denn die Nachricht nicht erreicht, dass ich heute erscheine?
+BELMIS: Ireby! Gewiss hast du mich erwartet? Hat dich denn die Nachricht nicht erreicht, dass ich heute erscheine?
 TORFAL: (Pause) Wann–
 BELMIS: Ich bin eben erst eingetroffen. Das Wetter hat mich aufgehalten, sonst wäre ich schon früher gekommen.
 TORFAL: Pause) Wie–
@@ -9265,7 +9265,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1632</ID>
-      <DefaultText>Liedschmied Roskas Kopf</DefaultText>
+      <DefaultText>Liedschmiedin Roskas Kopf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9395,7 +9395,7 @@ Raedwulf&#160;– Speerkämpfer
 Stern Halfyur der Gläubige&#160;– Priester
 Kilrath Rotklinge&#160;– Schwertmeister
 John Graham&#160;– Stadtwache
-Krotok&#160;– Preisjäger
+Krotok&#160;– Trophäenjäger
 Valheru&#160;– Archivar
 Edvar Solinarous&#160;– Dichter
 Magistrum&#160;– Taktiker
@@ -9785,7 +9785,7 @@ erinnert ihr euch an eure erste Erlösung? Als ihr euren ersten Missetäter erw�
 
 Woedica lehrt Rache und Erinnerung&#160;– und während sie im Exil weilt, müssen wir ihre Augen und Ohren sein, auf dass keine Unrechtmäßigkeit vergessen wird! Wir müssen die geballte Faust sein, die den verlogenen Atem verstummen lässt. Wenn Woedica ihren Thron zurückerobert, werden alle Unrechtmäßigkeiten, die in den Ritzen der Geschichte verloren gegangen sind, wiedergutgemacht. Die Schurken, die sich ganz offen unter den Unschuldigen verstecken, werden den Würgegriff der Verbrannten Königin spüren. Betet, dass ihr den Tag noch erleben werdet, an dem ihr unserer Königin bei dieser Läuterung des Bösen beistehen könnt.
 
-Aber wisset, meine Schwestern, dass wir darauf vorbereitet sein müssen, das Ende unserer Tage zu erleben, ohne vorher die Rückkehr der Königin gefeiert zu haben&#160;– denn sie wird zwar ihren Thron zurückerobern, doch vielleicht sind es unsere Töchter, die dem wiedergeborenen Hof dienen. Wir müssen weiter leben, wie wir immer gelebt haben&#160;– von den anderen Religionen gehasst, obwohl wir die Gerechtigkeit über unser eigenes Wohlergehen stellen. Zumindest hält das Reich Aedyr unseren Glauben noch in hohem Ansehen. Es ist ein angemessenes Zeichen des Respekt, dass nach kaiserlicher Tradition unser Klerus einen Vertrag bestätigen muss, damit er rechtsgültig ist. Denn wer, wenn nicht Woedicas Anhänger, weiß, wie wichtig es ist, einen geleisteten Schwur einzuhalten? Auch die Unterstützung des Paladinordens der Stahlgarotte genießen wir noch&#160;– auch sie wissen, dass die Gesellschaft durch die Schwüre und Regeln ihrer Mitglieder aufgebaut wird&#160;… und durch sie zerstört.
+Aber wisset, meine Schwestern, dass wir darauf vorbereitet sein müssen, das Ende unserer Tage zu erleben, ohne vorher die Rückkehr der Königin gefeiert zu haben&#160;– denn sie wird zwar ihren Thron zurückerobern, doch vielleicht sind es unsere Töchter, die dem wiedergeborenen Hof dienen. Wir müssen weiter leben, wie wir immer gelebt haben&#160;– von den anderen Religionen gehasst, obwohl wir die Gerechtigkeit über unser eigenes Wohlergehen stellen. Zumindest hält das Reich Aedyr unseren Glauben noch in hohem Ansehen. Es ist ein angemessenes Zeichen des Respekts, dass nach kaiserlicher Tradition unser Klerus einen Vertrag bestätigen muss, damit er rechtsgültig ist. Denn wer, wenn nicht Woedicas Anhänger, weiß, wie wichtig es ist, einen geleisteten Schwur einzuhalten? Auch die Unterstützung des Paladinordens der Stahlgarotte genießen wir noch&#160;– auch sie wissen, dass die Gesellschaft durch die Schwüre und Regeln ihrer Mitglieder aufgebaut wird&#160;… und durch sie zerstört.
 
 Wenn Woedica ihren Thron zurückerobert, wird meine Familie verstehen, dass ich richtig daran tat, mein Leben der Verbannten Königin zu widmen. Wenn Woedica ihren Thron zurückerobert, ist der Würger nicht mehr nur eine Geschichte, mit denen wir unseren Töchtern Angst machen, sondern ein Held, der in Parabeln einfließt, die unsere Kinder Gerechtigkeit lehren. Wenn Woedica ihren Thron zurückerobert, bringt sie ihr makelloses Gedächtnis mit sich&#160;– jeder Fehltritt, jedes Verbrechen, jede Unrechtmäßigkeit wird aufgedeckt werden. Wenn Woedica ihren Thron zurückerobert, werden selbst die Götter nicht von ihrer gerechten Vergeltung verschont bleiben.</DefaultText>
       <FemaleText />
@@ -9847,7 +9847,7 @@ Magran, führe uns zu der Schlacht, die gerecht ist. Lass uns dein Feuer sein, w
     </Entry>
     <Entry>
       <ID>1725</ID>
-      <DefaultText>Meine Mutter lebte jede Note des Lebenslieds&#160;– mich in die Welt zu bringen, war ihre letzte Strophe. Dafür verbannte und verließ mich mein Vater, weshalb die Hebamme und Hylea-Anhängerin meines Dorfs mich wie ihr eigenes Kind großzog. Als ich ins Erwachsenenalter eintrat, lernte ich, dass Hylea uns auf den Schreien von gebärenden Frauen besucht&#160;– und wenn eine Frau stirbt, während sie ihrem Kind das Leben schenkt, wird ihre Seele davongetragen und als Vogeldiener an Hyleas Hof wiedergeboren. Durch das Wunder der Königin der Vögel war meine Mutter mein ganzes Leben lang an meiner Seite und hat über mich gewacht.
+      <DefaultText>Meine Mutter lebte jede Note des Lebenslieds&#160;– mich in die Welt zu bringen, war ihre letzte Strophe. Dafür verbannte und verließ mich mein Vater, weshalb die Hebamme und Hylea-Anhängerin meines Dorfs mich wie ihr eigenes Kind großzog. Als ich ins Erwachsenenalter eintrat, lernte ich, dass Hylea beim Geschrei von gebärenden Frauen anwesend ist&#160;– und wenn eine Frau stirbt, während sie ihrem Kind das Leben schenkt, wird ihre Seele davongetragen und als Vogeldiener an Hyleas Hof wiedergeboren. Durch das Wunder der Königin der Vögel war meine Mutter mein ganzes Leben lang an meiner Seite und hat über mich gewacht.
 
 Ich trage die Glücksbringer des Wolkensingers&#160;– des Vogels, von dem mir träumte, meine Mutter habe sich in ihn verwandelt. Mein gefiederter Schmuck sieht prunkhaft und unkleidsam aus, doch er ist ein Leuchtfeuer für Frauen in Not, dass ich eine ausgebildete Hebamme bin, von Hylea gesegnet und jede Note des Lebenslieds lebend. Die Königin der Vögel wünscht, dass wir neues Leben in die Welt geleiten&#160;– nicht es beenden, wie die anderen Götter es oft begehren.
 
@@ -10813,5 +10813,402 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
       <DefaultText>Siegelring des Arkanen</DefaultText>
       <FemaleText />
     </Entry>
-  </Entries>
+    <Entry>
+      <ID>2243</ID>
+      <DefaultText>Er-trägt-viele-Narbens Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2244</ID>
+      <DefaultText>Helm des Sanguinischen Plattenpanzers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2245</ID>
+      <DefaultText>Argwes Adras Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2255</ID>
+      <DefaultText>Die Nautilus von Or-Grammon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2256</ID>
+      <DefaultText>Stab von Wind und Donner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2261</ID>
+      <DefaultText>Mênpŵgra-Klauen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2262</ID>
+      <DefaultText>Mênpŵgra-Rüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2263</ID>
+      <DefaultText>Hexenhut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2264</ID>
+      <DefaultText>Nachtspiegel-Splitter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2265</ID>
+      <DefaultText>Asche der Erinnerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2266</ID>
+      <DefaultText>Ifens Wiege</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2267</ID>
+      <DefaultText>Handschuhe des Zelebranten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2268</ID>
+      <DefaultText>Gift des blinden Mönchs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2270</ID>
+      <DefaultText>Erinnerung an die Wärme des Lebens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2271</ID>
+      <DefaultText>Asche der Erinnerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2288</ID>
+      <DefaultText>Gyrd Háewanes Sténes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2292</ID>
+      <DefaultText>Ätherischer Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2293</ID>
+      <DefaultText>Die Höllwachs-Form</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2308</ID>
+      <DefaultText>Gyrd Háewanes Sténes, das "Blausteinzepter" ist bemerkenswert, da es aus einem einzigen Saphir geformt wurde. Das einzige andere Teil ist der Griff, der aus Silberbändern gefertigt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2309</ID>
+      <DefaultText>Ine Gyrd ist das berühmteste Zepter in Aedyr und vielleicht in ganz Eora. Es befindet sich im gemeinsamen Besitz der Mecwyn und des Fercönyngs, als Symbol der königlichen Autorität. Man sagt, es trage die Seelen früher Häuptlinge in seinem Adra-Kopf. Obwohl es traditionell als rein symbolisch gilt, kam es im Laufe seiner Geschichte zu mehreren berühmten Gelegenheiten auch tatsächlich zum Einsatz. 
+
+Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn Eleya deren Thron, weil sie die rechtmäßige Erbin sei. Eleya lud sie an ihren Hof ein, auf dass die Leute ihre Argumente mit eigenen Ohren hören und sich selbst ein Urteil bilden könnten. Die Frau sprach lange und legte eine Reihe beeidigter Dokumente vor. Eleya rief sie zum Thron und sagte ihr, dass die Mecwyn abdanken würde, wenn die Häuptlinge von Ine Gyrd die Thronanwärterin für würdig befänden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2310</ID>
+      <DefaultText>Die Frau trat vor Eleya und ward geheißen, sich zu verneigen, um den Kuss von Ine Gyrd zu empfangen. Als sie gehorchte, wurde sie von der Mecwyn prompt durch einen Hagel von wüsten Hieben niedergestreckt. Es war das letzte Mal, dass die Autorität der Mecwyn angezweifelt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2311</ID>
+      <DefaultText>Am Hof anwesend war an jenem Abend auch Tiryc III., ein Gréf-Palatin. Tiryc war so beeindruckt von den vielseitigen Verwendungsmöglichkeiten von Ine Gyrd, dass er sich ein eigenes Zepter fertigen ließ. Dabei gab er die strikte Anweisung, dass es völlig anders auszusehen hatte als Ine Gyrd, auf dass er nicht die Aufmerksamkeit und den Zorn der Mecwyn auf sich ziehe. Obwohl Gyr Háewanes Sténes nicht die Seelen der Blutlinie des Gréfen enthält, stellt es ein eindrucksvolles Machtsymbol dar, genau wie der ursprüngliche Besitzer es erhofft hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2351</ID>
+      <DefaultText>Lavendelkranz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2357</ID>
+      <DefaultText>Die inwärtsblickende Glocke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2391</ID>
+      <DefaultText>Dieses Zepter ist aus einem einzigen Stück Saphir geformt, der Griff ist mit Silberbändern verziert. Im Inneren des Zepters leuchtet ein schwaches Licht, wenn man es in die Hand nimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2394</ID>
+      <DefaultText>Dieser Ring wurde über Generationen hinweg in der Familie Gathbin von Vater zu Sohn weitergereicht. Dank dir ist diese Tradition für immer zerschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2401</ID>
+      <DefaultText>Kampfmagier-Zauberbuch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2402</ID>
+      <DefaultText>Moosiger Fels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2403</ID>
+      <DefaultText>Dieser seltsame Fels kann genutzt werden, um augenblicklich einen Sumpflauerer zu beschwören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2404</ID>
+      <DefaultText>Dieses seltsame Gerät, das von einem wahnsinnigen zwergischen Beseeler geschaffen wurde, kann den Druidenzauber Garten des Lebens wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2405</ID>
+      <DefaultText>Selbst kleine Mengen der Asche aus dieser vailianischen Urne können Wiederbelebende Ermunterung auf einen Verbündeten wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2406</ID>
+      <DefaultText>Ein starkes Gift, mit dem man eine Waffe benetzen kann, um reinen Schaden über Zeit zu verursachen und das Opfer vorübergehend Geblendet und Erkrankt zurückzulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2407</ID>
+      <DefaultText>Kupferner Ring der Geliebten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2408</ID>
+      <DefaultText>Dieser Ring ist schwer und grob gefertigt. Er sieht aus, als wäre er aus einem schlecht gereinigten Kupferklumpen gegossen werden. Winzige Unreinheiten glitzern und funkeln noch um den gesamten Ring herum. Angesichts der mit bloßem Auge zu erkennenden Werkzeugspuren muss man vermuten, dass der Ring von einem Amateur gefertigt wurde, nicht von einem Handwerksmeister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2409</ID>
+      <DefaultText>Diese mit Scharnieren versehene Form besitzt die erstaunliche Fähigkeit, nicht-seelengebundene Waffen, Schilde, Rüstungen und andere Gegenstände vollständig zu duplizieren. Die immense magische Energie, die erforderlich ist, um die Kopie zu fabrizieren, nutzt die Form als Rohmaterial und verbraucht sie dabei vollständig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2410</ID>
+      <DefaultText>Feinde im Wirkungsbereich verstricken sich in Strängen magischer Energie, wodurch positive Effekte für die Wirkungsdauer unterbunden werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2411</ID>
+      <DefaultText>Richterhammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2412</ID>
+      <DefaultText>Henkersaxt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2421</ID>
+      <DefaultText>Amaia's Codex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2441</ID>
+      <DefaultText>Durance's Robe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2442</ID>
+      <DefaultText>Durance's robe is frayed and tattered from heavy use. The lower hem appears to have been singed repeatedly and is caked with the ashes of countless fires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2446</ID>
+      <DefaultText>Kraken Eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2447</ID>
+      <DefaultText>Iverra's Diving Helmet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2465</ID>
+      <DefaultText>Found near the Lake of Drowned Tombs, this fragment from a tombstone contains only a few letters of a person's name: ycg Br. It has been imbued with supernatural powers by the spirit haunting Airana's Tears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2466</ID>
+      <DefaultText>A small, delicate vial attached to a thin golden necklace, it allegedly contains the tears of St. Borragia, a Magranite saint. The relic was lost sometime during the Saint's War when the Church of the Winding Flame was sacked by Readcerans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2467</ID>
+      <DefaultText>Of Glanfathan make, these leather boots were deeply stained with green dye to give them their distinctive appearance. The Twice-Split Arrows tribe gave them to you as a reward for your help tracking down a crazed druid who had stolen one of their sacred bear skins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2468</ID>
+      <DefaultText>Glittering Gauntlets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2469</ID>
+      <DefaultText>This powerful rod was the creation of an aged elven wizard who had trapped herself in the form of a raging storm that drifted over the Dyrwood for some time. While the rod is not as fantastic a demonstration of the wizard's power as her transformation, it contains potent storm magic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2470</ID>
+      <DefaultText>Mourning Gloves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2471</ID>
+      <DefaultText>Of unknown provenance, this ring was found among the belongings of a woman that a Giftbearer of Ondra had dropped in the Blackwyr. You recovered the belongings for the woman's grieving daughter, but she claimed that the ring was not her mothers. Where it came from is a mystery, as are the origins of its powers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2472</ID>
+      <DefaultText>This broad, floppy hat was formerly in the possession of an old druid that you helped protect during a week-long druid processional along an ancient Engwithan trail. Despite your best efforts, the druid died during a mercenary attack. Her brothers and sisters, appreciative that you saved their lives, gave you her hat as a gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2473</ID>
+      <DefaultText>This small piece of tin is all that you retained of the disturbing Night Mirror, an Engwithan artifact that was holding Glanfathans in thrall in the southwest corner of Eir Glanfath. After you helped destroy the mirror, a mysterious group of orlans arrived and whisked the remnants away -- except for the fragment you happened to be standing on. Even this tiny portion of the mirror still exerts a strong pull on your mind each time you gaze into it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2474</ID>
+      <DefaultText>A belt of meditative chimes that were once owned by a monk unfortunate enough to wander into a mob of angry spirits southwest of Gilded Vale. You recovered the belt after helping the spirits resolve their old disputes and put them to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2475</ID>
+      <DefaultText>This diving helmet appears to have been a Vailian experiment in assisting underwater exploration. Though it only holds a small amount of air, a clever magical enchantment pressurizes the bell enough to allow for deeper dives than are normally possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2476</ID>
+      <DefaultText>These gloves were recovered from the animancy cult known as The Mourning Circle, who traveled the Eastern Reach promising to bring back the dead. The promises were a cover for horrific experiments including abductions, murders, and vivisections. Despite the name of the group, the power of the gloves is unleashed after the wearer kills an enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2477</ID>
+      <DefaultText>This grisly neckalace is fashioned from the teeth of a dead orlan, the unfortunate father of a deranged cipher who used her powers to terrorize travelers near the Glanfathan ruins of Ibrel's Well. The cipher's "daughters" (mind-controlled pwgra) made the necklace for her as a gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2478</ID>
+      <DefaultText>This cruel instrument was created by a resident of Helsgate who was pursuing a rumor that promised a cure for the Hollowborn crisis. He intended to use the rope to bind a virgin girl and bury her alive, later pulling the corpse from the ground to harvest some of her hair for the "cure." Despite its nefarious purpose, the binding rope still possesses useful powers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2479</ID>
+      <DefaultText>This fine cloak was a gift from the Spirentan weaver Bonisetta. It was given to you in thanks for your assistance in rescuing her from a ruthless Vailian trading company that abducted and enslaved her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2480</ID>
+      <DefaultText>This dingy, stained cloak was once used as a large swaddling sheet for an unfortunate Hollowborn child that was dropped into the Whitewreath village well. As it sat at the bottom of the well among the foundations of living adra and a clan of wichts, it acquired strange powers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2481</ID>
+      <DefaultText>These were once the gloves of a senior Magranite priest who was killed performing a traditional dirge at Evon Dewr Bridge to commemorate the destruction of St. Waidwen. After you helped root out the Readcerans who were responsible, the remaining priests of Magran gave you his gloves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2482</ID>
+      <DefaultText>Red Reed Wand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2483</ID>
+      <DefaultText>This wand was a gift from a Zochine Monastery philosopher. He created it from one of the beautiful red reeds that grows along the edge of the lake near his monastery. It was given as a gift for your help in tracking down a dangerous memory-eating beetle that was terrorizing locals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2484</ID>
+      <DefaultText>Once worn by Adrem Delfar, elder paladin of the Kind Wayfarers, they were a gift from other members of the order for your help in laying Adrem's body to rest near Redflower Lake. The boots are so incredibly worn from a lifetime of travel that they appear to be on the verge of falling apart. Despite this, they are incredibly strong and comfortable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2485</ID>
+      <DefaultText>Tied to a simple leather cord, this finger once belonged to a notorious Glanfathan murderer. Locals exhumed his body to create sacred objects, but you assisted a Glanfathan anamfatha in recovering it. Despite insisting that the body be buried in a new, secret location, the anamfatha never asked you to return the finger that had been found at the killer's original grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2486</ID>
+      <DefaultText>This dazzling cloak was a gift from two Vailian ducs, a reward for your help in recovering lost Glanfathan astronomical knowledge. Looking at the cloak from different angles produces a variety of shimmering colors and creates the illusion that you are gazing into an impossibly deep expanse of space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2487</ID>
+      <DefaultText>This patch was a gift from a Glanfathan anamfatha, a reward for your help in recovering a precious adra ban eye that was stolen from a sculpture during the Broken Stone War. Like the original eye, the patch features a cross on its surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2488</ID>
+      <DefaultText>This beautiful lavender wreath was a gift from the famed aumauan apothecary Tama Watua. He made it at a feast after you rescued him from Vailian mercenaries in the Deadfire Archipelago. Despite the age of the lavender, it still smells fresh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2489</ID>
+      <DefaultText>This beautiful chime was created by the twelve monks of the Ixtlochi whom you rescued from their mental labyrinths. Each chime possesses the ability to turn the user invisible once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2490</ID>
+      <DefaultText>These beautiful gauntlets are made from a strange form of clear, petrified wood that is as strong as iron. Though you recovered them from the Valley of Glass in the Living Lands, it is unclear who made them, or for what purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2491</ID>
+      <DefaultText>This strange amulet was once in the possession of a cult called the White Flame that was claiming "marked" individuals all over Eora. They believed these marked individals would be instrumental in reincarnating the god Eothas. After you helped raid a stronghold in the Cythwood, the power of the cult was broken, if not completely eradicated. This amulet was left behind on one of their altars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2492</ID>
+      <DefaultText>The Vailian animancer Accetta, formerly of Biageppe, was responsible for enchanting this beautiful brass and adra helmet. Built more for its magical properties than as protective armor, it possesses a curious power. The songretta ducala of Biageppe awarded it to you after you established that Accetta, if not dead, was certainly no longer among the realm of the living.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2493</ID>
+      <DefaultText>These curious coals are not burning, but constantly seem to emanate a dangerous warmth when touched. They were recovered from the Black Hills of Abet, where they were left in the wake of a terrible monster that terrorized the miners there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2494</ID>
+      <DefaultText>This massive book contains an abridged version of the Rauatai scholar Amaia's life's work. Though it will be several years until Amaia's full text is published (in many volumes), she gave you this gift for assisting her in collecting a few key pieces of information from hard to reach places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2504</ID>
+      <DefaultText>Massuk Hunting Bow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2509</ID>
+      <DefaultText>Sagani's hunting bow is made for a dual role. In her home village, the hunters pursue game both to kill and to subdue, often using blunt arrows to stun small quarry. These captured animals are sometimes raised or traded to other villages. As a result, Sagani's Massuk bow can fire arrows that do Pierce or Crush damage, but it has slightly reduced range and damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2513</ID>
+      <DefaultText>Durance's staff appears to be made of a rough-hewn shaft of ever-burning wood. The crook at the end cradles a hovering flame. While many powerful weapons in the Eastern Reach can be enchanted to burn enemies, Durance's is unusual in that the entire force of the quarterstaff can be converted to searing flame at the wielder's will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2516</ID>
+      <DefaultText>Pallegina's Breastplate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2517</ID>
+      <DefaultText>Aloth's leather armor has been lightly enchanted to enhance his spellcasting abilities. It also appears to have custom decorative patterns stitched into the surface. Unlike most Dyrwoodan leather armor, Aloth's has been tailored in "the Aedyre style," meaning that the torso is more heavily reinforced, but it lacks sleeves due to Aedyr's hot and humid climate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2518</ID>
+      <DefaultText>Edér wore this armor during his time in the Saint's War. Its dark color is unusual, as is its power. Though he admits that the armor has pulled him from the brink of death on several occasions, he claims that no one else has ever handled the armor. How it became enchanted is a mystery even to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+	</Entries>
 </StringTableFile>
