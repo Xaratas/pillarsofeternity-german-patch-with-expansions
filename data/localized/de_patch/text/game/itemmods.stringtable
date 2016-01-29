@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>254</EntryCount>
+  <EntryCount>272</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Herald</DefaultText>
+      <DefaultText>Vorbote</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1270,8 +1270,98 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>270</ID>
+      <DefaultText>Einfaltspinsel</DefaultText>
+      <FemaleText />
+    </Entry>
+	    <Entry>
+      <ID>288</ID>
+      <DefaultText>Geistergeißel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Schnelligkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>336</ID>
       <DefaultText>Erfrierung heilen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Bannend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Falsches Leben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Der Donner rollte wie Wellen auf schwarzen Meeren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Aufgeladene Zauberbindung: So singen deine Beißenden Winde oh Alt-Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Sturm der Wiederkehr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Befreiend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Fluch der Mênpŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>der Konzentration +25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Laut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Zauberwirkung: Überwältigende Welle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Zauberverteidigung: Heilige Meditation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Behindernd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Trauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Bindend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Ärgerlich</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
