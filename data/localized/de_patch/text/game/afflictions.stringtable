@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>104</EntryCount>
+  <EntryCount>119</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Schaden vs. Flankiert</DefaultText>
+      <DefaultText>Schaden gegen Flankiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Schaden vs. Flankiert II</DefaultText>
+      <DefaultText>Schaden gegen Flankiert II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Systemversagen</DefaultText>
+      <DefaultText>Systemschock</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Schwere Wunde</DefaultText>
+      <DefaultText>Schwere Verwundung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,6 +522,81 @@
     <Entry>
       <ID>107</ID>
       <DefaultText>Rassen-Genauigkeitsbonus: Wilder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Wilder II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Gefäß II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Geist II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Primitiv II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Bestie II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Weißblatt-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Blacsonn-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Carow-Golan-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Goldrot-Priem-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Rieselschwamm-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Schneekappe-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Svef-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Gravestep-Absturz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Dyrwalds Stolz - Rastbonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Seltsame Krankheit</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
