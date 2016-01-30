@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1333</EntryCount>
+  <EntryCount>1376</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -1061,7 +1061,7 @@
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Aldhem Graeg</DefaultText>
+      <DefaultText>Aldhelm Graeg</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1327,7 +1327,7 @@
     <Entry>
       <ID>308</ID>
       <DefaultText>Süchtiger</DefaultText>
-      <FemaleText>Süchtige</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
@@ -2681,7 +2681,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Ghul</DefaultText>
+      <DefaultText>Gul</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6667,6 +6667,221 @@
     <Entry>
       <ID>1494</ID>
       <DefaultText>Siegelring des Arkanen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>Lord Gathbin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1724</ID>
+      <DefaultText>ycg Br Tomb Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1725</ID>
+      <DefaultText>St. Borragias Tränen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>Stahlholzring</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>Glockengürtel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1733</ID>
+      <DefaultText>Wickellaken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1738</ID>
+      <DefaultText>Fesselseil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>Umhang der Bequemlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>Flickwerk-Stiefel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1757</ID>
+      <DefaultText>Ring der Geliebten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>Umhang der Konstellation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>Kanzler Warrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>Palastbote</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>Hauptmann Emery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>Marschall Forwyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>Bauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Kaufmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Aedyrischer Söldner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Aedyrischer Bogenschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1805</ID>
+      <DefaultText>Aedyrischer Söldner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1806</ID>
+      <DefaultText>Aedyrischer Verzauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Aedyrischer Düsterer Schreiter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Aedyrischer Kampfmagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1817</ID>
+      <DefaultText>Glanfathanischer Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1818</ID>
+      <DefaultText>Aedyrischer Verzauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1819</ID>
+      <DefaultText>Aedyrischer Schildwächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1829</ID>
+      <DefaultText>Familiensiegel der Gathbins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1833</ID>
+      <DefaultText>Caed-Nua-Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1835</ID>
+      <DefaultText>Caed-Nua-Bogenschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1837</ID>
+      <DefaultText>Caed-Nua-Veteran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1850</ID>
+      <DefaultText>Dutzenden-Arkebuseschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1851</ID>
+      <DefaultText>Doemenel-Meuchelmörder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1852</ID>
+      <DefaultText>Readceranischer Pfadfinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1869</ID>
+      <DefaultText>Drache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1871</ID>
+      <DefaultText>Konstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1872</ID>
+      <DefaultText>Lauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText>Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Irrlicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>Spinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1876</ID>
+      <DefaultText>Spore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1877</ID>
+      <DefaultText>Skelett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1878</ID>
+      <DefaultText>Amaias Codex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1880</ID>
+      <DefaultText>Byrnwigar's Forces</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
