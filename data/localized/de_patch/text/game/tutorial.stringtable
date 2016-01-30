@@ -235,11 +235,11 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Einer deiner Charaktere hat sich erschöpft. Erschöpfung steht für die körperlichen und psychologischen Auswirkungen anstrengender Aktivitäten auf einen Charakter. Die Erschöpfung baut sich mit der Zeit auf, während der Charakter reist, Gebiete erforscht und vor allem kämpft. Einige geskriptete Interaktionen führen auch zu Erschöpfung, wenn sie besonders anstrengend sind. Die Athletik-Fähigkeit verlangsamt automatisch die Entstehung von Erschöpfung aus allen Quellen.
+      <DefaultText>Einer deiner Charaktere ist erschöpft. Erschöpfung steht für die körperlichen und psychologischen Auswirkungen anstrengender Aktivitäten auf einen Charakter. Am häufigsten wird sie als Verletzung erlitten, wenn ein Charakter das Bewusstsein verliert. Aber auch einige geskriptete Interaktionen haben Erschöpfung zur Folge, wenn sie besonders aufreibend sind.
 
- Erschöpfung durchläuft mehrere Phasen. Anfänglich wird der Charakter nur mit kleinen Mali belegt, doch mit der Zeit werden diese immer ernster.
+Erschöpfung durchläuft mehrere Phasen. Anfänglich wird der Charakter nur mit kleinen Mali belegt, doch mit der Zeit werden diese immer ernster.
 
- Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Charakter rastet. Einige Verbrauchsgegenstände können die Erschöpfung eines Charakters aber auch verringern.</DefaultText>
+Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Charakter rastet. Einige Verbrauchsgegenstände können die Erschöpfung eines Charakters aber auch verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
