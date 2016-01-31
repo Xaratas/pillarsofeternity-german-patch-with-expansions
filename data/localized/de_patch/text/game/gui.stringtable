@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2092</EntryCount>
+  <EntryCount>2155</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2286,7 +2286,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Zauber Wirken geblockt</DefaultText>
+      <DefaultText>Zauberwirken geblockt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2376,12 +2376,12 @@
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Orlaner sind die Kleinste der Rassen der Gestandenen, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir&#160;Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwalds. Sie sind bekannt für ihre mentale Stärke und ihre Schnelligkeit.</DefaultText>
+      <DefaultText>Orlaner sind die kleinste der Rassen der Gestandenen, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir&#160;Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwalds. Sie sind bekannt für ihre mentale Stärke und ihre Schnelligkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>Die mächtigen Aumaua sind die größten der Rassen der Gestandenen und können gewöhnlich in oder in der Nähe von Ozeanen gefunden werden. Auch wenn nicht wirklich aquatisch, haben sie eine Affinität zu Wasser, und viele ihrer Zivilisationen, wie die Rauatai, basieren auf der Herrschaft über die See. Sie sind bekannt für ihre beispiellose Stärke.</DefaultText>
+      <DefaultText>Die mächtigen Aumaua sind die größte der Rassen der Gestandenen und können gewöhnlich in oder in der Nähe von Ozeanen gefunden werden. Auch wenn nicht wirklich aquatisch, haben sie eine Affinität zu Wasser, und viele ihrer Zivilisationen, wie die Rauatai, basieren auf der Herrschaft über die See. Sie sind bekannt für ihre beispiellose Stärke.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2449,7 +2449,7 @@ Kampfgestählt: Wenn ihre Ausdauer auf unter 50&#160;% fällt, leuchten Feuer-Go
     </Entry>
     <Entry>
       <ID>490</ID>
-      <DefaultText>Natur-Gottähnliche erscheinen als eine Verschmelzung der Eigenschaften von Mensch und Tier. Sie sind oftmals mit Pflanzen, Moos oder Pilzen bedeckt. Dies führte zu dem verbreitetem Stigma, sie seien krank, weshalb viele bei der Geburt getötet werden. Viele Druiden-Orden verfolgen ein eifriges Interesse an den Natur-Gottähnlichen, aufgrund der den Druiden eigenen Neugier gegenüber dem Phänomen, wie Seelen Tiere, Pflanzen und Steine besetzen.
+      <DefaultText>Natur-Gottähnliche erscheinen als eine Verschmelzung der Eigenschaften von Mensch und Tier. Sie sind oftmals mit Pflanzen, Moos oder Pilzen bedeckt. Dies führte zu dem verbreiteten Stigma, sie seien krank, weshalb viele bei der Geburt getötet werden. Viele Druiden-Orden verfolgen ein eifriges Interesse an den Natur-Gottähnlichen, aufgrund der den Druiden eigenen Neugier gegenüber dem Phänomen, wie Seelen Tiere, Pflanzen und Steine besetzen.
 
 Quelle des Lebens: Verleiht einen Bonus auf Macht, Verfassung und Gewandtheit, wenn die Ausdauer unter 50&#160;% liegt.</DefaultText>
       <FemaleText />
@@ -2477,7 +2477,7 @@ Trotzige Entschlossenheit: Nachdem sie einem Willensangriff ausgesetzt waren, er
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Die Küsten-Aumaua werden als kriegerische Rasse angesehen und leben in einer Festlandregion entlang der Küsten der nördlichen Hemisphäre&#160;– Ländereien, die sie eroberten, indem sie Thyrtaner (Weidevolk), Natlaner (Savannenvolk) und Orlaner vertrieben. Ihre Kultur ist zentralisierter und urbaner als die ihrer Insel-Vetter, auch wenn sich beide Gruppen der Seefahrt widmen. Küsten-Aumaua sind im Dyrwald sehr selten, doch jene, die die Reise auf sich nehmen, tun dies normalerweise als Söldner, Leibwächter oder Soldaten.
+      <DefaultText>Die Küsten-Aumaua werden als kriegerische Rasse angesehen und leben in einer Festlandregion entlang der Küsten der nördlichen Hemisphäre&#160;– Ländereien, die sie eroberten, indem sie Thyrtaner (Weidevolk), Natlaner (Savannenvolk) und Orlaner vertrieben. Ihre Kultur ist zentralisierter und urbaner als die ihrer Insel-Vettern, auch wenn sich beide Gruppen der Seefahrt widmen. Küsten-Aumaua sind im Dyrwald sehr selten, doch jene, die die Reise auf sich nehmen, tun dies normalerweise als Söldner, Leibwächter oder Soldaten.
 
 Turmhohe Statur: Küsten-Aumaua erhalten Boni auf die Verteidigung gegen die Wirkungen Niedergestreckt und Betäubt.</DefaultText>
       <FemaleText />
@@ -2491,7 +2491,7 @@ Bis an die Zähne bewaffnet: Alle Insel-Aumaua erhalten ein zusätzliches Waffen
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>Im gesamten östlichen Abschnitt bilden Kämpfer die vorderste Front disziplinierter Armeen. Obwohl sie am häufigsten in Kulturen anzutreffen sind, die eine organisierte Kriegsstruktur aufweisen, können Kämpfer auch als Söldner, Leibwächter und bei anderen Söldneraufgaben gesichtet werden. Das gemeinsame Element, dass Kämpfer vereint, ist ihr starker Fokus auf Ausdauer und Nahkampfverteidigung.
+      <DefaultText>Im gesamten östlichen Abschnitt bilden Kämpfer die vorderste Front disziplinierter Armeen. Obwohl sie am häufigsten in Kulturen anzutreffen sind, die eine organisierte Kriegsstruktur aufweisen, können Kämpfer auch als Söldner, Leibwächter und bei anderen Söldneraufgaben gesichtet werden. Das gemeinsame Element, das Kämpfer vereint, ist ihr starker Fokus auf Ausdauer und Nahkampfverteidigung.
 
 Anfängliche Fähigkeit:
 
@@ -2540,7 +2540,7 @@ Blutbad: Wenn der Barbar mit einem Nahkampfangriff trifft, führt er automatisch
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>Waldläufer sind Kämpfer aus dem Waldland und Meister der Jagd. Immer in Begleitung von seelengebundenen tierischen Gefährten findet man sie in wilden Gebieten auf der ganzen Welt. Da ihr Lebensstil oftmals in Richtung Unabhängigkeit und Isolation tendiert, ist es selten, dass Waldläufer zu einem integralem Bestandteil großer Streitkräfte werden, auch wenn sie oft als Aufklärer und Führer eingesetzt werden.
+      <DefaultText>Waldläufer sind Kämpfer aus dem Waldland und Meister der Jagd. Immer in Begleitung von seelengebundenen tierischen Gefährten findet man sie in wilden Gebieten auf der ganzen Welt. Da ihr Lebensstil oftmals in Richtung Unabhängigkeit und Isolation tendiert, ist es selten, dass Waldläufer zu einem integralen Bestandteil großer Streitkräfte werden, auch wenn sie oft als Aufklärer und Führer eingesetzt werden.
 
 Anfängliche Fähigkeit:
 
@@ -2593,7 +2593,7 @@ Kräfte: Medien können Verbündete und Feinde unmittelbar mit mächtigen Seelen
 
 Anfängliche Fähigkeiten:
 
-Phrasen/Gesänge: Alle Sänger können kontinuierlich Gesänge sprechen, die aus magischen Phrasen bestehen. Phrasen lösen passive Effekte aus und helfen, die Energie eines Sängers aufzubauen, bis er eine Beschwörung einsetzen kann.
+Phrasen/Gesänge: Alle Sänger können kontinuierlich Gesänge anstimmen, die aus magischen Phrasen bestehen. Phrasen lösen passive Effekte aus und helfen, die Energie eines Sängers aufzubauen, bis er eine Beschwörung einsetzen kann.
 
 Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn sie durch ihre Gesänge die benötigte Anzahl an Phrasen gesprochen haben.</DefaultText>
       <FemaleText />
@@ -2605,7 +2605,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Todesfeuer setzt sich zusammen aus der Nation von Naasitaq, Dutzenden von Aumaua-Siedlungen und Hunderten von gesetzlosen, piratenverseuchten Inseln, die sich entlang der südlichen See erstrecken. Das Gebiet ist die Heimat der Nordzwerge, der Aumaua und einiger anderer Rassen. Das Todesfeuer-Archipel ist der „letzte Halt“ für jeden, der Richtung Osten reist&#160;– eine Vielzahl monströser Seekreaturen haben den Ozean befallen und das Reisen praktisch unmöglich gemacht.</DefaultText>
+      <DefaultText>Todesfeuer setzt sich zusammen aus der Nation von Naasitaq, Dutzenden von Aumaua-Siedlungen und Hunderten von gesetzlosen, piratenverseuchten Inseln, die sich entlang der südlichen See erstrecken. Das Gebiet ist die Heimat der Nordzwerge, der Aumaua und einiger anderer Rassen. Der Todesfeuer-Archipel ist der „letzte Halt“ für jeden, der Richtung Osten reist&#160;– eine Vielzahl monströser Seekreaturen haben den Ozean befallen und das Reisen praktisch unmöglich gemacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2675,7 +2675,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>522</ID>
-      <DefaultText>Du hast dein Leben mit dem Studium deines Handwerks verbracht. Du hast trainiert und dich vorbereitet, in der Hoffnung, deine Fertigkeiten zu verfeinern und deinem Gewerbe nachgehen zu können.</DefaultText>
+      <DefaultText>Du hast dein Leben mit dem Studium deines Handwerks verbracht. Du hast gelernt und dich vorbereitet, in der Hoffnung, deine Fertigkeiten zu verfeinern und deinem Gewerbe nachgehen zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2705,7 +2705,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Du hast dein Leben auf der falschen Seite des Gesetzes verbracht. Was du willst, nimmst du dir, und was ihnen war, hat die Tendenz, deines zu werden.</DefaultText>
+      <DefaultText>Du hast dein Leben auf der falschen Seite des Gesetzes verbracht. Was du willst, nimmst du dir, und was anderen gehört, hat die Tendenz, deines zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3735,7 +3735,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>740</ID>
-      <DefaultText>Die Darcozzi-Paladine, der älteste bekannte Paladin-Orden der Welt, wurden vor über 2000&#160;Jahren als Wächter der Darcozzi-Herrenhalle in Groß-Vailia gegründet. Seit der Zersplitterung von Groß-Vailia wurden die Darcozzi-Paladine zu Beschützern und Botschaftern der riesigen Darcozzi-Familie sowie der Kultur von Alt-Vailia. Die Darcozzi-Paladine sind weit verbreitet und gelegentlich bricht, aufgrund von Intrigen der Darcozzi-Familie, sogar Streit unter ihnen aus. Paladine des Ordens sind bekannt für ihren klugen Verstand und ihre Liebe für das Leben.</DefaultText>
+      <DefaultText>Die Darcozzi-Paladine, der älteste bekannte Paladin-Orden der Welt, wurden vor über 2000&#160;Jahren als Wächter der Darcozzi-Herrenhalle in Groß-Vailia gegründet. Seit der Zersplitterung von Groß-Vailia wurden die Darcozzi-Paladine zu Beschützern und Botschaftern der riesigen Darcozzi-Familie sowie der Kultur von Alt-Vailia. Die Darcozzi-Paladine sind weit verbreitet und gelegentlich bricht aufgrund von Intrigen der Darcozzi-Familie sogar Streit unter ihnen aus. Paladine des Ordens sind bekannt für ihren klugen Verstand und ihre Liebe für das Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3745,7 +3745,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Der am weitesten verbreitete Paladin-Orden, die Gütigen&#160;Wanderer, sind Führer und Beschützer für Reisende, die oftmals begrenzte Mittel haben und in gefährlichen Gegenden reisen. Den Gütigen Wanderern mangelt es zwar an dem edlem Prestige anderer Paladin-Orden, doch werden sie für ihren Edelmut und ihr Mitgefühl von vielen Bürgern respektiert. Den Gütigen Wanderern mangelt es an einer zentralisierten Struktur, und viele Mitglieder agieren selbstständig in abgelegenen Gegenden. Auch wenn der Orden dafür bekannt ist, nicht sonderlich reich zu sein, haben sie ihre Finanzen dadurch aufgebessert, indem sie Kartographie betrieben und zusammen mit Gruppen wie der Okkulten&#160;Hand Reiseführer für weniger bekannte Gegenden in Eora entwickelten.</DefaultText>
+      <DefaultText>Der am weitesten verbreitete Paladin-Orden, die Gütigen&#160;Wanderer, sind Führer und Beschützer für Reisende, die oftmals begrenzte Mittel haben und in gefährlichen Gegenden reisen. Den Gütigen Wanderern mangelt es zwar an dem edlen Prestige anderer Paladin-Orden, doch werden sie für ihren Edelmut und ihr Mitgefühl von vielen Bürgern respektiert. Den Gütigen Wanderern mangelt es an einer zentralisierten Struktur, und viele Mitglieder agieren selbstständig in abgelegenen Gegenden. Auch wenn der Orden dafür bekannt ist, nicht sonderlich reich zu sein, haben sie ihre Finanzen dadurch aufgebessert, indem sie Kartographie betrieben und zusammen mit Gruppen wie der Okkulten&#160;Hand Reiseführer für weniger bekannte Gegenden in Eora entwickelten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4195,7 +4195,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Eine kleine Gruppe Trolle und Modder hat einen Weg aus Od&#160;Nua gefunden und wird bald in der Großen&#160;Halle sein!</DefaultText>
+      <DefaultText>Eine kleine Gruppe Trolle und Schleime hat einen Weg aus Od&#160;Nua gefunden und wird bald in der Großen&#160;Halle sein!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4465,7 +4465,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>886</ID>
-      <DefaultText>Eine Bande Dutzender Söldner hat die Waldend-Ebenen überschritten und macht sich auf den Weg nach Caed&#160;Nua!</DefaultText>
+      <DefaultText>Eine Söldnerbande der Dutzenden hat die Waldend-Ebenen überschritten und macht sich auf den Weg nach Caed&#160;Nua!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4570,7 +4570,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>eine kleine Gruppe Trolle und Modder</DefaultText>
+      <DefaultText>eine kleine Gruppe Trolle und Schleime</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4625,7 +4625,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Trolle und Modder</DefaultText>
+      <DefaultText>Trolle und Schleime</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4635,7 +4635,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Dutzende Söldner</DefaultText>
+      <DefaultText>Söldner der Dutzenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4680,7 +4680,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Trygils Lederei</DefaultText>
+      <DefaultText>Trygils Gerberei</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4845,7 +4845,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>962</ID>
-      <DefaultText>Zur Tempel-Sängerei</DefaultText>
+      <DefaultText>Zur Tempel-Kantorei</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4855,7 +4855,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>964</ID>
-      <DefaultText>Leuchthöhle Instandsetzung</DefaultText>
+      <DefaultText>Instandsetzung von Leuchthöhle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4875,12 +4875,12 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>968</ID>
-      <DefaultText>Leuchthöhle Feuerstelle</DefaultText>
+      <DefaultText>Feuerstelle in Leuchthöhle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>969</ID>
-      <DefaultText>Leuchthöhle Labor</DefaultText>
+      <DefaultText>Labor in Leuchthöhle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4890,7 +4890,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>971</ID>
-      <DefaultText>Leuchthöhle Hofbecken</DefaultText>
+      <DefaultText>Hofbecken in Leuchthöhle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4945,7 +4945,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>982</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, erscheint jedes mal ein Pop-up, wenn sich der Status einer Quest ändert.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, erscheint jedes Mal ein Pop-up, wenn sich der Status einer Quest ändert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,7 +4960,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Cean Gŵlas und Geister.</DefaultText>
+      <DefaultText>Cean Gŵlas und Geister</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6300,7 +6300,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1255</ID>
-      <DefaultText>Verzögerung von Bewusstlosigkeit um {0} Sekunden</DefaultText>
+      <DefaultText>Verzögerung der Bewusstlosigkeit um {0} Sekunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6440,7 +6440,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1283</ID>
-      <DefaultText>Sturmwall Gorge Wildnis</DefaultText>
+      <DefaultText>Sturmwallschlucht Wildnis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6470,7 +6470,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1289</ID>
-      <DefaultText>Kleiner Gegenstand</DefaultText>
+      <DefaultText>Geringerer Gegenstand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6480,7 +6480,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1291</ID>
-      <DefaultText>Großer Gegenstand</DefaultText>
+      <DefaultText>Guter Gegenstand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6490,7 +6490,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>Kleine Gegenstände</DefaultText>
+      <DefaultText>Geringere Gegenstände</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6500,7 +6500,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1295</ID>
-      <DefaultText>Große Gegenstände</DefaultText>
+      <DefaultText>Gute Gegenstände</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6835,7 +6835,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1362</ID>
-      <DefaultText>Muss Gesang sprechen</DefaultText>
+      <DefaultText>Muss Gesang anstimmen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7010,7 +7010,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Die Abenteurerei kann anstrengend sein. Das Reisen, das Kämpfen, das Klettern auf umgefallene Statuen kosten Kraft. Die Athletik-Fähigkeit wirkt gegen die Effekte angesammelter Erschöpfung, so dass Charaktere weiter wandern und länger kämpfen können, ehe sie mit einem Malus belegt werden. In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
+      <DefaultText>Die Abenteurerei ist harte Arbeit. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen. Einmal pro Begegnung können Charaktere mit Athletik die Fähigkeit Reserven anzapfen einsetzen, um aufgebrauchte Ausdauer zu regenerieren. Je höher der Athletik-Wert, desto stärker die Wirkung von Reserven anzapfen. In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7025,7 +7025,18 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Die Überleben-Eigenschaft ermöglicht es dem Charakter, Nahrung und Tränke effektiver zu nutzen. Je höher die Überleben-Fähigkeit des Charakters, desto länger hält die Wirkung solcher Gegenstände an. Überleben kann auch in Dialogen und geskripteten Interaktionen verwendet werden, in denen es um Wildnis-Herausforderungen oder Spezialisierungsinformationen geht.</DefaultText>
+      <DefaultText>Die Überleben-Eigenschaft ermöglicht es dem Charakter, aus einer Reihe von langfristigen Boni zu wählen, wann immer er rastet. Die ersten sechs Ränge verleihen die folgenden Boni:
+
+1 – Schadensreduzierung
+2 – Erhaltener Heilungsmultiplikator
+3 – Bonusbewegung
+4 – Genauigkeitsbonus gegen Kreaturen-Typ
+5 – Erhöhte Dauer von Verbrauchsgegenständen
+6 – Bonusschaden gegen Flankierte Feinde
+
+Nach dem sechsten Rang werden die zuvor erhaltenen Boni mächtiger, in derselben Reihenfolge, in der sie empfangen wurden.
+
+Überleben kann auch in Dialogen und geskripteten Interaktionen verwendet werden, in denen es um Wildnis-Herausforderungen oder Fachwissen im Bereich der Natur geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7340,7 +7351,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Alle Sänger können kontinuierlich Gesänge sprechen, die aus magischen Phrasen bestehen. Phrasen lösen passive Effekte aus und helfen, die Energie eines Sängers aufzubauen, bis er eine Beschwörung einsetzen kann.</DefaultText>
+      <DefaultText>Alle Sänger können kontinuierlich Gesänge anstimmen, die aus magischen Phrasen bestehen. Phrasen lösen passive Effekte aus und helfen, die Energie eines Sängers aufzubauen, bis er eine Beschwörung einsetzen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7712,7 +7723,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Beschwört: {0}</DefaultText>
+      <DefaultText>Beschwören</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8310,7 +8321,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>{0}&#160;% Verbrauchsgegenstanddauer</DefaultText>
+      <DefaultText>{0} Verbrauchsgegenstanddauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8330,7 +8341,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1663</ID>
-      <DefaultText>Leerer Hotkey</DefaultText>
+      <DefaultText>Hotkey nicht belegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8535,7 +8546,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1704</ID>
-      <DefaultText>Dietrich gescheitert. Erfordert {0} Mechanik oder {1} Mechanik und {2} Dietriche.</DefaultText>
+      <DefaultText>Schlossknacken gescheitert. Erfordert {0} Mechanik oder {1} Mechanik und {2} Dietriche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10038,7 +10049,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2148</ID>
-      <DefaultText>Beschwörung {0} von: {1}</DefaultText>
+      <DefaultText>Beschwörung {0} von</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10098,12 +10109,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2164</ID>
-      <DefaultText>Schloss knacken gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}. Benötigte Dietriche: {3}</DefaultText>
+      <DefaultText>Schlossknacken gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}. Benötigte Dietriche: {3}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2165</ID>
-      <DefaultText>Schloss knacken gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}.</DefaultText>
+      <DefaultText>Schlossknacken gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10303,17 +10314,17 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>	
     <Entry>
       <ID>2235</ID>
-      <DefaultText>{0} zerstörte {1}!</DefaultText>
+      <DefaultText>{1} hat {0} vernichtet!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2236</ID>
-      <DefaultText>Anzahl automatischer Spielstände</DefaultText>
+      <DefaultText>Anzahl der automatischen Spielstände</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2237</ID>
-      <DefaultText>Legt die maximale Anzahl an automatisch gespeicherten Spielständen fest, die für jeden Spieldurchgang behalten werden.</DefaultText>
+      <DefaultText>Legt fest, wie viele rotierende automatische Spielstände für jedes Spiel angelegt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10323,7 +10334,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2239</ID>
-      <DefaultText>Sofortige Erholung</DefaultText>
+      <DefaultText>Sofort erholen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10333,7 +10344,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2242</ID>
-      <DefaultText>entfernt alle {0}</DefaultText>
+      <DefaultText>{0} restlos entfernen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10358,12 +10369,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2247</ID>
-      <DefaultText>gewähre {0} vom zugefügten Schaden als Fokus für {1}</DefaultText>
+      <DefaultText>{0} des verursachten Schadens werden {1} als Fokus gewährt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2248</ID>
-      <DefaultText>Story Time</DefaultText>
+      <DefaultText>Märchenstunde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10373,7 +10384,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Platzhalterbeschreibung für Story Time Schwierigkeitsgrad.</DefaultText>
+      <DefaultText>Der Märchenstunde-Modus ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben. Die Stufen der Feinde, ihre Schadenswirkung, ihre Erholungszeit und die Dauer von feindlichen Wirkungen sind allesamt schlechter als gewöhnlich. Außerdem ist es für Feinde sehr viel schwerer, Kritische Treffer zu landen. Gruppenmitglieder landen dagegen leichter Kritische Treffer gegen Feinde mit niedriger Ausdauer. Zusätzlich kann die Gruppe eine unbegrenzte Menge an Rastvorräten mit sich führen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10393,7 +10404,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2254</ID>
-      <DefaultText>Herbeigerufene Kreaturen</DefaultText>
+      <DefaultText>Beschworene Kreatur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10418,7 +10429,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2259</ID>
-      <DefaultText>Gewährt Erholung Stufe {0}</DefaultText>
+      <DefaultText>Gewährt Reserven anzapfen Stufe {0}</DefaultText>
       <FemaleText />
     </Entry>	
     <Entry>
@@ -10463,7 +10474,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2270</ID>
-      <DefaultText>Beim Laden der nächsten Karte ist ein Fehler aufgetreten. Kehre zum Hauptmenü zurück, um einen defekten Spielstand zu verhindern.</DefaultText>
+      <DefaultText>Beim Laden der nächsten Karte ist ein Fehler aufgetreten. Das Spiel ist ins Hauptmenü zurückgekehrt, um zu verhindern, dass Spielstände beschädigt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10533,7 +10544,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>Wenn aktiviert, erleiden Gefährten keine K. o. –Verletzungen, sollte ihre Ausdauer während des Kampfes auf 0 reduziert werden.</DefaultText>
+      <DefaultText>Wenn aktiviert, erleiden Gefährten keine K. o. –Verletzungen, sollte ihre Ausdauer während des Kampfes auf 0 sinken.</DefaultText>
 	  <FemaleText />
     </Entry>	  
     <Entry>
@@ -10558,7 +10569,322 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2305</ID>
-      <DefaultText>Entferne {0}</DefaultText>
+      <DefaultText>{0} entfernen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2306</ID>
+      <DefaultText>{0} Charaktere von {1} getroffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2307</ID>
+      <DefaultText>{0} Charaktere treffen {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2308</ID>
+      <DefaultText>Charaktere von {1} getroffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2309</ID>
+      <DefaultText>Charaktere treffen {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2311</ID>
+      <DefaultText>Rezitationszeit {0}-Phrase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2313</ID>
+      <DefaultText>Drachenatem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2314</ID>
+      <DefaultText>Mindestschaden gegen Verwirrte, Bezauberte, Dominierte Charaktere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2315</ID>
+      <DefaultText>Wenn erfolgreich: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2316</ID>
+      <DefaultText>Wendet denselben Effekt an wie {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2319</ID>
+      <DefaultText>Erleide {0} Schaden von {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2320</ID>
+      <DefaultText>Erleide {0} {2} Schaden von {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2321</ID>
+      <DefaultText>Füge {1} {0} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2322</ID>
+      <DefaultText>Füge {1} {0} {2}-Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2323</ID>
+      <DefaultText>{0} Wirkungsdauer von Arzneien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2324</ID>
+      <DefaultText>{0} bei Kill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2325</ID>
+      <DefaultText>Gekoppelter Charakter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2326</ID>
+      <DefaultText>{0} Ausdauer vom Wirker übertragen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2327</ID>
+      <DefaultText>Schleierdurchbohrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2328</ID>
+      <DefaultText>{0} {1} gestohlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2329</ID>
+      <DefaultText>Besitze mindestens {0} {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2330</ID>
+      <DefaultText>{0} männlich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2331</ID>
+      <DefaultText>{0} weiblich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2332</ID>
+      <DefaultText>Willst du {0} wirklich duplizieren? {1} wird dadurch unwiderruflich verbraucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2333</ID>
+      <DefaultText>Das Duplikat von {0} wurde im Lager abgelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2334</ID>
+      <DefaultText>Nur Ausrüstung kann dupliziert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2335</ID>
+      <DefaultText>{0} kann nicht dupliziert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2336</ID>
+      <DefaultText>Ausgerüstete Gegenstände können nicht dupliziert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2361</ID>
+      <DefaultText>Rüstungseffizienz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2366</ID>
+      <DefaultText>Spähmodus kann im Kampf nicht aktiviert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2367</ID>
+      <DefaultText>Resistenzen: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2368</ID>
+      <DefaultText>Immun gegen {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2369</ID>
+      <DefaultText>Netz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2370</ID>
+      <DefaultText>{0} alle {1} Stufen zwischen {2} und {3}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2371</ID>
+      <DefaultText>{0} alle {1} Stufen nach {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2372</ID>
+      <DefaultText>Gruppen-KI ist aktiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2373</ID>
+      <DefaultText>Gruppen-KI ist inaktiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2386</ID>
+      <DefaultText>von {1} auf {0} festgelegt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2388</ID>
+      <DefaultText>Boden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2389</ID>
+      <DefaultText>Yenwald-Feld</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2391</ID>
+      <DefaultText>{0} Verwendung von {1} wiederherstellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2392</ID>
+      <DefaultText>{0} Verwendungen von {1} wiederherstellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2399</ID>
+      <DefaultText>Abydon-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2400</ID>
+      <DefaultText>Schmiede</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2401</ID>
+      <DefaultText>Kaserne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2402</ID>
+      <DefaultText>Übungsraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2403</ID>
+      <DefaultText>Krisenraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2404</ID>
+      <DefaultText>Archiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2405</ID>
+      <DefaultText>{0} erbittet eine Audienz auf der Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2406</ID>
+      <DefaultText>springt bis zu {0} Mal nach oben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2407</ID>
+      <DefaultText>Beim Springen: {0} Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2415</ID>
+      <DefaultText>Aktionssymbole auf Porträts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2416</ID>
+      <DefaultText>Wenn diese Option aktiviert ist, wird im Kampf die aktuelle Aktion jedes Gruppenmitglieds auf dessen Porträt angezeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2417</ID>
+      <DefaultText>Aktuelle Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2418</ID>
+      <DefaultText>Halle der Urkunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2419</ID>
+      <DefaultText>Magran-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2420</ID>
+      <DefaultText>{0} ist {1} lang beschäftigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2423</ID>
+      <DefaultText>Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2430</ID>
+      <DefaultText>{0} {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2432</ID>
+      <DefaultText>{0} mit mindestens {1} Ausdauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2433</ID>
+      <DefaultText>{0} mit weniger als {1} Ausdauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2434</ID>
+      <DefaultText>Verhindere {1} ({0} Mal)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2435</ID>
+      <DefaultText>Lord Byrnwigars Streitkräfte nähern sich der Festung. Sie werden bald da sein!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2436</ID>
+      <DefaultText>Byrnwigars Streitkräfte</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
