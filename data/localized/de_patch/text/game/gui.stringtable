@@ -8681,7 +8681,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1731</ID>
-      <DefaultText>({0})</DefaultText>
+      <DefaultText> ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
