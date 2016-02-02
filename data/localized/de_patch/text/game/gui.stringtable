@@ -9886,7 +9886,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <DefaultText>Ungenutzte Punkte werden in die nächste Stufe übertragen</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>2025</ID>
       <DefaultText>Benötigt mindestens {0} im Kampf</DefaultText>
       <FemaleText />
@@ -9896,12 +9896,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <DefaultText>, </DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>2039</ID>
       <DefaultText>Universell</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>2043</ID>
       <DefaultText>Zerstört</DefaultText>
       <FemaleText />
@@ -9957,12 +9957,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <DefaultText>Fallensteller</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>2104</ID>
       <DefaultText>Tierischer Gefährte</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>2109</ID>
       <DefaultText>{0} KI-Script ist aktiv</DefaultText>
       <FemaleText />
@@ -10545,8 +10545,8 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2291</ID>
       <DefaultText>Wenn aktiviert, erleiden Gefährten keine K. o. –Verletzungen, sollte ihre Ausdauer während des Kampfes auf 0 sinken.</DefaultText>
-	  <FemaleText />
-    </Entry>	  
+     <FemaleText />
+    </Entry>
     <Entry>
       <ID>2294</ID>
       <DefaultText>Vorheriges Menü</DefaultText>
