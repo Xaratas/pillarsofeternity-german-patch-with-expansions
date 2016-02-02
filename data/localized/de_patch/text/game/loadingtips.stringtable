@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Seelengebundene Waffen erhalten zusätzliche Kräfte, wenn der Besitzer bestimmte Voraussetzungen erfüllt. Die Beschreibung der Waffe führt immer die jeweils nächste Voraussetzung auf.</DefaultText>
+      <DefaultText>Seelengebundene Gegenstände erhalten zusätzliche Kräfte, wenn der Besitzer bestimmte Voraussetzungen erfüllt. Die Beschreibung des Gegenstandes führt immer die jeweils nächste Voraussetzung auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
