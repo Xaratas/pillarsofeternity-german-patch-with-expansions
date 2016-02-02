@@ -2376,7 +2376,7 @@
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Orlaner sind die kleinste der Rassen der Gestandenen, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir&#160;Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwalds. Sie sind bekannt für ihre mentale Stärke und ihre Schnelligkeit.</DefaultText>
+      <DefaultText>Orlaner sind die kleinste der Rassen der Gestandenen, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir&#160;Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwalds. Sie sind bekannt für ihre mentale Stärke und ihre Sinnesschärfe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10879,7 +10879,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2435</ID>
-      <DefaultText>Lord Byrnwigars Streitkräfte nähern sich der Festung. Sie werden bald da sein!</DefaultText>
+      <DefaultText>Lord Byrnwigars Streitkräfte wurden gesichtet wie sie sich der Festung nähern. Sie werden bald da sein!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
