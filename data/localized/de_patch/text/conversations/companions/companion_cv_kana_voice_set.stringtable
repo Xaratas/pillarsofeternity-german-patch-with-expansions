@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_kana_voice_set</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>86</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -361,27 +361,27 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>„A ulu thenn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText />
+      <DefaultText>„Moeith ixi anath.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText />
+      <DefaultText>„Lavaru bion sik.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText />
+      <DefaultText>„Brith u lichna.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText />
+      <DefaultText>„Athek werthan roth.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,37 +401,67 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText />
+      <DefaultText>„Craeft afyllath thyr lim&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText />
+      <DefaultText>„Cwethe sealmes mihtum&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText />
+      <DefaultText>„Werde byldan sawel&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText />
+      <DefaultText>„Cro ak ten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText />
+      <DefaultText>„Sak ri thu!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText />
+      <DefaultText>„Ix maru!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText />
+      <DefaultText>[Unverständliches, vielschichtiges Geflüstere]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>„Sagani ist verletzt!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>„Hiravias! Halte durch!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>„Pallegina liegt am Boden!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>„Sie haben Durance!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>„Helft Aloth, irgendwer!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>„Edér! Halte aus!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

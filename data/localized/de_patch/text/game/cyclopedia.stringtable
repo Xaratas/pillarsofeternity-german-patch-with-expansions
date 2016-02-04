@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>304</EntryCount>
+  <EntryCount>314</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -695,7 +695,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Charaktere mit geprellten Rippen werden mit einem Malus auf ihre Tapferkeit und ihre Verfassung belegt.</DefaultText>
+      <DefaultText>Charaktere mit geprellten Rippen werden mit einem Malus auf ihre Verfassung belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -705,7 +705,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie den [g]Wille[/g]n des Charakters mit einem Malus.</DefaultText>
+      <DefaultText>Gehirnerschütterungen belegen den Charakter mit einem Malus auf Entschlossenheit und Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -715,7 +715,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Ein verstauchtes Handgelenk führt zu einem Malus auf Abwehr und Genauigkeit.</DefaultText>
+      <DefaultText>Ein verstauchtes Handgelenk führt zu einem Malus auf Abwehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -725,7 +725,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Charaktere mit einem geschwollenen Auge werden mit einem Malus auf Genauigkeit und Wahrnehmung belegt.</DefaultText>
+      <DefaultText>Charaktere mit einem geschwollenen Auge werden mit einem Malus auf Wahrnehmung belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -735,7 +735,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Ein verstauchter Knöchel reduziert die Reflexe und die Gewandtheit</DefaultText>
+      <DefaultText>Ein verstauchter Knöchel reduziert die Reflexe-Verteidigung eines Charakters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -745,7 +745,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Charaktere mit einem verstauchten Knie werden mit einem Malus auf Bewegungsgeschwindigkeit und Gewandtheit belegt.</DefaultText>
+      <DefaultText>Charaktere mit einem verstauchten Knie werden mit einem Malus auf Bewegung belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1153,7 +1153,7 @@ Wirkungen (z.&#160;B. Betäubt, Niedergestreckt) gelten im Allgemeinen als aktiv
 
 Erschöpfung durchläuft mehrere Phasen. Anfänglich wird der Charakter nur mit kleinen Mali belegt, doch mit der Zeit werden diese immer ernster.
 
-Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Charakter rastet. Einige Verbrauchsgegenstände können die Erschöpfung eines Charakters aber auch verringern.</DefaultText>
+Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Charakter rastet. Einige Verbrauchsgegenstände können die Erschöpfung eines Charakters aber auch aufheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1660,7 +1660,57 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu 
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Bewusstlose Charaktere können keine Aktionen durchführen. Die Gewandtheit ist auf 0 gefallen. Reflexe und Abwehr sind um 40 reduziert.</DefaultText>
+      <DefaultText>Bewusstlose Charaktere können keinerlei Aktionen durchführen. Die Gewandtheit ist auf 0 gefallen. Reflexe und Abwehr sind um 40 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Erfrierungen senken Frost-SR und die Tapferkeit-Verteidigung des Charakters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Eine schwere Verbrennung senkt die Verbrennung-SR und die Gewandtheit des Charakters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Eine schwere Wunde reduziert die Heilung, die ein Charakter erhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Systemschock reduziert die Schock-SG eines Charakters und seine Resistenz gegen Betäubt und Niedergestreckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Seltsame Krankheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>This is the illness you contracted near the ruins of Cilant Lîs. It is characterized by simultaneous chills and intense flashes of warmth as well as shortness of breath. The caravan master, Odema, identified it as a common illness, the Rumbling Rot, but there's something strange about it. In spite of the symptoms, it doesn't feel like any sickness you've ever had before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Any attack marked as "Ground" is one that affects the ground itself or creates a hazard immediately above it. Spells like Slicken or Tanglefoot are both classified as Ground attacks. Some creatures, especially flying monsters or spirits, are immune to attacks classified as Ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Spellstamina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Items with the spellstamina property will automatically trigger the associated effect when the user hits the listed percentage of Endurance.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

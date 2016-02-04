@@ -92,11 +92,11 @@ Man schätzt, dass es für jedes wirklich beseelte Konstrukt dutzende - wenn nic
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Seelengebundene Waffen sind einzigartige Gegenstände, die sich auf magische Weise mit der Seele eines einzelnen Charakters verbinden können. Ist eine solche Bindung einmal entstanden, kann die Waffe nur noch von diesem Charakter eingesetzt werden&#160;… bis die Bindung gekappt wird. Eine seelengebundene Waffe wird stärker, wenn ihr Besitzer gewisse Anforderungen erfüllt, die in der Beschreibung der Waffe angegeben sind.
+      <DefaultText>Seelengebundene Gegenstände sind einzigartige Gegenstände, die sich auf magische Weise mit der Seele eines einzelnen Charakters verbinden können. Ist eine solche Bindung einmal entstanden, kann der Gegenstand nur noch von diesem Charakter eingesetzt werden&#160;… bis die Bindung gekappt wird. Ein seelengebundener Gegenstand wird stärker, wenn ihr Besitzer gewisse Anforderungen erfüllt, die in der Beschreibung des Gegenstandes angegeben sind.
 
-Die meisten seelengebundenen Waffen können sich nur mit Charakteren einer bestimmten Klasse verbinden. Unabhängig von der Art der Waffe sind seelengebundene Waffen aber immer für alle Talente oder Fähigkeiten des Charakters empfänglich, beispielsweise Waffenschwerpunkt und -spezialisierung. Wenn ein Kämpfer als Waffenschwerpunkt und -spezialisierung beispielsweise Raufbold besitzt, erhält er seine Vorteile auch dann, wenn er ein seelengebundenes Großschwert oder einen seelengebundenen Zauberstab einsetzt. Vorteile aus verschiedenen Talenten oder Fähigkeiten desselben Typs (z.B. Waffenschwerpunkt Raufbold und Bauer) werden nicht addiert.
+Die meisten seelengebundenen Gegenstände können sich nur mit Charakteren einer bestimmten Klasse verbinden. Unabhängig von der Art des Gegenstandes sind seelengebundene Gegenstände aber immer für alle Talente oder Fähigkeiten des Charakters empfänglich, beispielsweise Waffenschwerpunkt und -spezialisierung. Wenn ein Kämpfer als Waffenschwerpunkt und -spezialisierung beispielsweise Raufbold besitzt, erhält er seine Vorteile auch dann, wenn er ein seelengebundenes Großschwert oder einen seelengebundenen Zauberstab einsetzt. Vorteile aus verschiedenen Talenten oder Fähigkeiten desselben Typs (z.B. Waffenschwerpunkt Raufbold und Bauer) werden nicht addiert.
 
-Wird die Verbindung zu einer seelengebundenen Waffe je gekappt, verliert sie alle Fähigkeiten, die sie mit der Zeit gewonnen hatte.</DefaultText>
+Wird die Verbindung zu einem seelengebundenen Gegenstand je gekappt, verliert sie alle Fähigkeiten, die er mit der Zeit gewonnen hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

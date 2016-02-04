@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1452</EntryCount>
+  <EntryCount>1475</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Zauberschlag</DefaultText>
+      <DefaultText>Zaubergeschoss</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1286,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Spinnt ein belastbares, teuflisches Netz durch den Wirkungsbereich, wodurch die Bewegung aller Betroffenen verringert wird.</DefaultText>
+      <DefaultText>Spinnt ein belastbares, teuflisches Netz durch den Wirkungsbereich, das alle darin gefangenen Opfer mit der Wirkung Bewegungsunfähig belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen und fügt Feinden den Niedergestreckt Effekt zu.</DefaultText>
+      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen und fügt Feinden Wuchtschaden sowie den Niedergestreckt Effekt zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,7 +1431,7 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Wechselt die Waffenangriffe eines Kämpfers auf den Willen des Ziels um.</DefaultText>
+      <DefaultText>Modifiziert die Waffenangriffe eines Kämpfers, um den Willen des Ziels anzugreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1596,7 +1596,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Flammenwand verbrennende Falle</DefaultText>
+      <DefaultText>Flammenwand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Kraftwand Fallenschaden</DefaultText>
+      <DefaultText>Kraftwand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,7 +2226,7 @@
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>Stählt den Verstand von Verbündeten im Wirkungsbereich gegen alle äußeren Ängste, gewährt einen Bonus auf die Resistenz gegen Angriffe mit verängstigender oder verschreckender Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Stählt den Verstand von Verbündeten im Wirkungsbereich gegen alle äußeren Ängste und verleiht dadurch Immunität gegen die Wirkungen Verängstigt und Verschreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,7 +2246,7 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Stärkt die Gesundheit von Verbündeten im Wirkungsbereich, gewährt einen Bonus gegen Angriffe mit erkrankender oder schwächender Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Stärkt die Gesundheit von Verbündeten im Wirkungsbereich und verleiht Immunität gegenüber den Wirkungen Erkrankt und Geschwächt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Befreit Verbündete im Wirkungsbereich von Einschränkungen, gewährt einen Bonus gegen Angriffe mit behindernder oder bewegungsunfähiger Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Befreit Verbündete im Wirkungsbereich von empfundenen Fesseln und verleiht dadurch Immunität gegenüber den Wirkungen Humpelnd und Bewegungsunfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Stärkt den Verstand von Verbündeten im Wirkungsbereich mit Eifer und gewährt so einen Bonus gegen Angriffe, die Verwirrung oder Benommenheit verursachen und verringert die Dauer bestehender Effekte dieser Art.</DefaultText>
+      <DefaultText>Schenkt Verbündeten im Wirkungsbereich geistige Klarheit und verleiht dadurch Immunität gegenüber den Wirkungen Verwirrt und Benommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2371,7 +2371,7 @@
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>Flößt Verbündeten im Wirkungsbereich einen Sinn für Befreiung ein, gewährt einen Bonus gegen Angriffe mit lähmender oder versteinernder Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Erfüllt Verbündete im Wirkungsbereich mit einem Gefühl der Befreiung und verleiht ihnen dadurch Immunität gegenüber den Wirkungen Gelähmt und Versteinert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>Entfacht plötzlich Hingabe und Leidenschaft der Gruppe, wodurch diese Bezauberungen und Beherrschungen leichter widersteht. Außerdem wird die Dauer bereits vorhandener Wirkungen dieser Art reduziert.</DefaultText>
+      <DefaultText>Entfacht die Hingabe der Gruppe und verleiht dadurch Immunität gegenüber den Wirkungen Bezaubert und Beherrscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>Reinigt das Ziel von allen Giften im Körper, wodurch es einen Bonus gegen Gift und Krankheit erhält und die Dauer dieser Effekte verringert wird.</DefaultText>
+      <DefaultText>Reinigt das Ziel von allen Giften im Körper, wodurch es Immunität gegen die Effekte Gift und Krankheit erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2726,7 +2726,7 @@
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Rotende Schädel</DefaultText>
+      <DefaultText>Rottende Schädel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Verbrennt alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell Direktschaden erleidet. Zielen, deren Ausdauer auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
+      <DefaultText>Verbrennt alle ätherischen Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell Direktschaden erleidet. Zielen, deren Ausdauer auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2956,7 +2956,7 @@
     </Entry>
     <Entry>
       <ID>608</ID>
-      <DefaultText>Imp Verbrennungsangriff</DefaultText>
+      <DefaultText>Imp-Verbrennungsangriff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3046,7 +3046,7 @@
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>Wail</DefaultText>
+      <DefaultText>Heulen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4051,7 +4051,7 @@
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Erzeugt eine dicke Rindenschicht über Verbündeten im Wirkungsbereich, wodurch diese einen Bonus auf ihre Schadensreduktion gegen Stich-, Brand- und Schockschaden erhalten.</DefaultText>
+      <DefaultText>Erzeugt eine dicke Rindenschicht über Verbündeten im Wirkungsbereich, wodurch diese einen Bonus auf ihre Schadensreduktion gegen Stich-, Hieb-, Brand- und Schockschaden erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,7 +4166,7 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Gewährt dem Zauberwirker „kostenfreien“ Zugriff auf einen Zauber aus dem Zauberbuch des anvisierten Zauberers, Druiden oder Priesters, wodurch er – für diesen Kampf – einen Zauber der Stufe 3 oder niedriger unbegrenzt oft wirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
+      <DefaultText>Verleiht dem Zauberwirker Zugang zu bis zu drei „kostenfreien“ Zaubern der Stufe 3 oder niedriger aus der Zauberliste des Ziels (Zauberer, Druide oder Priester). Anschließend kann der Zauberer diese Zauber für eine begrenzte Zeit beliebig oft wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4186,7 +4186,7 @@
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Entzieht dem Ziel Entschlossenheit und Intellekt und erzeugt zwei schwächere Ausführungen des Effekts, die auf umstehende Feinde überspringen, sobald der erste Effekt endet.</DefaultText>
+      <DefaultText>Entzieht dem Ziel Entschlossenheit, Intellekt und Wahrnehmung und erzeugt zwei schwächere Ausführungen des Effekts, die auf umstehende Feinde überspringen, sobald der erste Effekt endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4251,7 +4251,7 @@
     </Entry>
     <Entry>
       <ID>867</ID>
-      <DefaultText>Führt dazu, dass der Barbar vor Schmerz ausschlägt, wodurch er einen Bonus auf Schaden erhält, solange seine Ausdauer geringer als 50&#160;% beträgt.</DefaultText>
+      <DefaultText>Führt dazu, dass der Barbar vor Schmerz ausschlägt, wodurch er einen Bonus auf Schaden erhält, solange seine Ausdauer weniger als 50&#160;% beträgt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Der Kämpfer erlangt einen besonderen Vorteil gegenüber Feinden, die versuchen, die Kampfhandlung zu vereiteln, indem er auf die Beine zielt. Führt dazu, dass Ziele von Treffern oder Kritischen Treffern durch Absetzangriffe behindert werden.</DefaultText>
+      <DefaultText>Die Absetzangriffe des Kämpfers besitzen eine höhere Genauigkeit und richten größeren Schaden an. Außerdem werden die Feinde Niedergestreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4531,7 +4531,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, wodurch er weiteren Schadensbonus auf seine Angriffe erhält, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
+      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, fügt Waffenschaden auf seine Angriffe hinzu, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4561,7 +4561,7 @@
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Der Schurke wechselt in einer schnellen Bewegung die Position mit einem Ziel innerhalb von 1 m, wodurch jegliche Kampfhandlung aufgelöst wird. Automatisch, wenn ein Verbündeter anvisiert wird, ansonsten muss gegen die Reflexe eines Feindes gerichtet sein.</DefaultText>
+      <DefaultText>Der Schurke wechselt in einer schnellen Bewegung die Position mit einem Ziel innerhalb von 1 m, wodurch jegliche Kampfhandlung aufgelöst wird. Automatisch, wenn ein Verbündeter anvisiert wird, muss ansonsten gegen die Reflexe eines Feindes erfolgreich sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5400,7 +5400,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1092</ID>
-      <DefaultText>Die Flammen der Hingabe des Paladins richten zusätzlichen Zersetzungsschaden an.</DefaultText>
+      <DefaultText>Benannt nach einer legendären Schlacht, in der über zweitausend Düstere Schreiter und sechstausend ihrer Feinde ihr Leben ließen. Die Flammen der Hingabe des Paladins verursachen zusätzlichen Zersetzungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>Groll des Bildnisses Edér</DefaultText>
+      <DefaultText>Groll des Bildnisses: Edér</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5920,37 +5920,37 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1196</ID>
-      <DefaultText>Groll des Bildnisses Aloth</DefaultText>
+      <DefaultText>Groll des Bildnisses: Aloth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>Groll des Bildnisses Durance</DefaultText>
+      <DefaultText>Groll des Bildnisses: Durance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>Groll des Bildnisses Trauernde Mutter</DefaultText>
+      <DefaultText>Groll des Bildnisses: Trauernde Mutter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1199</ID>
-      <DefaultText>Groll des Bildnisses Hiravias</DefaultText>
+      <DefaultText>Groll des Bildnisses: Hiravias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>Groll des Bildnisses Kana</DefaultText>
+      <DefaultText>Groll des Bildnisses: Kana</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>Groll des Bildnisses Pallegina</DefaultText>
+      <DefaultText>Groll des Bildnisses: Pallegina</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Groll des Bildnisses Sagani</DefaultText>
+      <DefaultText>Groll des Bildnisses: Sagani</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6010,7 +6010,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>Wenn der Paladin Befreiende Ermunterung auf einen Verbündeten einsetzt, erhält der Verbündete einen großen Verteidigungsbonus gegen die Wirkungen Bezaubert, Verwirrt und Beherrscht.</DefaultText>
+      <DefaultText>Wenn der Paladin Befreiende Ermunterung auf einen Verbündeten einsetzt, erhält der Verbündete vorübergehende Immunität gegen die Wirkungen Bezaubert, Verwirrt und Beherrscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6040,7 +6040,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>Die treuen Anhänger von Magran erhalten einen Genauigkeitsbonus wen sie ein Schwert oder ein Arkebuse benutzen und können eine besondere Version von Explosion der Sommerflamme wirken.</DefaultText>
+      <DefaultText>Die treuen Anhänger von Magran erhalten einen Genauigkeitsbonus, wenn sie ein Schwert oder eine Arkebuse benutzen und können eine besondere Version von Explosion der Sommerflamme wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6285,7 +6285,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>Ermöglicht dem Anwender, einen geringen Teil seiner Gesundheit zu heilen.</DefaultText>
+      <DefaultText>Ermöglicht dem Anwender, einen bescheidenen Teil seiner Gesundheit zu heilen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6615,7 +6615,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1339</ID>
-      <DefaultText>In der traditionellen Heimat der Nordzwerge machen Urzeitkreaturen (Schlämme, empfindsame Pilze und Pflanzen) und Wilde (Oger, Skuldr, Trolle, Vithracks und Xaurips) schon immer Jagd auf allein reisende Jäger. Generationen der Konflikte mit diesen Kreaturen haben den Nordzwergen einen angeborenen Genauigkeitsbonus gegen sie verliehen.</DefaultText>
+      <DefaultText>In der traditionellen Heimat der Nordzwerge machen Urzeitkreaturen (Schleime, empfindsame Pilze und Pflanzen) und Wilde (Oger, Skuldr, Trolle, Vithracks und Xaurips) schon immer Jagd auf allein reisende Jäger. Generationen der Konflikte mit diesen Kreaturen haben den Nordzwergen einen angeborenen Genauigkeitsbonus gegen sie verliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6990,17 +6990,17 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie „Weder gefällt von der Axt, noch gebrochen vom Sturm“ und Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
+      <DefaultText>Der Sänger setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie „Weder gefällt von der Axt, noch gebrochen vom Sturm“ und Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1516</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf offensive Beschwörungen wie „Und Hel-Hyraf krachte auf den Schild“, „Der Donner rollte wie Wellen auf schwarzen Meeren“, „Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache“ und „Weiße Würmer wanden sich in den Bäuchen der Toten“. Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
+      <DefaultText>Der Sänger setzt seinen Schwerpunkt auf offensive Beschwörungen wie „Und Hel-Hyraf krachte auf den Schild“, „Der Donner rollte wie Wellen auf schwarzen Meeren“, „Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache“ und „Weiße Würmer wanden sich in den Bäuchen der Toten“. Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1517</ID>
-      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
+      <DefaultText>Der Sänger setzt seinen Schwerpunkt auf Beschwörungen wie „Reny Darets Geist sollte jedoch nicht ruhen“ und „Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen“. Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7286,6 +7286,121 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1680</ID>
       <DefaultText>Auszehrender Griff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Trinken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Mênpŵgras Fluch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Schnelle Rezitation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Groll des Bildnisses: Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText>Groll des Bildnisses: Teufelin von Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Groll des Bildnisses: Maneha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>Der Sänger kann Phrasen schneller rezitieren, wodurch er Beschwörungen früher im Kampf einsetzen kann und die Überlappung zwischen den Phrasen erhöht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>Immunität: Boden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>Angriffe oder Wirkungen mit diesem Schlüsselwort haben keinen Effekt auf das Ziel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>Immunität: Drachenatem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Resistenz: Niedergestreckt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Erhöhte Verteidigung gegen die angegebene Wirkung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Verwandelt den Benutzer in eine Mênpŵgra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Sumpflauerer beschwören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Der moosbewachsene Felsen entlässt gefangene Seelenmagie, die sich zur physischen Gestalt eines Sumpflauerers vereint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Regenfäule beschwören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Gift des blinden Mönchs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Zorn der Fünf Sonnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Wann immer der Paladin Eingeschworener Feind einsetzt, springen fünf Flammenkugeln aus seiner Hand und fliegen auf das Ziel zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Vielo Vidòrio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>"Vielo vidòrio!" ist ein Kampfschrei der Frermàs mes Canc Suolias, der so viel bedeutet wie "schneller Sieg". Wenn der Paladin Flammen der Hingabe einsetzt, erhalten Verbündete in der Nähe eine erhöhte Angriffsgeschwindigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Gréf's Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

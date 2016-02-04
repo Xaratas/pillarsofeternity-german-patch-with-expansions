@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>2032</ID>
-      <DefaultText>Willst du {0} wirklich an {1} seelenbinden? Wenn die Bindung hergestellt ist, kann diese Waffe nicht mehr von einem anderen Charakter verwendet werden.</DefaultText>
+      <DefaultText>Willst du {0} wirklich an {1} seelenbinden? Wenn die Bindung hergestellt ist, kann dieser Gegenstand nicht mehr von einem anderen Charakter verwendet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

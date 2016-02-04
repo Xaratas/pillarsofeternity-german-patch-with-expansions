@@ -48,7 +48,7 @@ Kaum war ihm dieser Titel verliehen worden, verließ Hiravias seelenruhig das Do
       <ID>9</ID>
       <DefaultText>Nach der Geburt seines hohlgeborenen Kindes verlor Fürst Raedric vollends den Verstand. Seine Frau bekam seinen Zorn als erstes zu spüren.
 
-Mit einer Festung, die ihm Schutz bot, und einer Garnison treuer Soldaten, die ihm aufs Wort gehorchten, schlug er weiter jeden aufkeimenden Widerstand von den Bürgern von Goldtal nieder- auch, wenn er ihn sich nur einbildete. Schließlich hingen sie alle von den Bäumen des Dorfes und überblickten mit leeren Augen ihre tote Stadt.</DefaultText>
+Mit einer Festung, die ihm Schutz bot, und einer Garnison treuer Soldaten, die ihm aufs Wort gehorchten, schlug er weiter jeden aufkeimenden Widerstand von den Bürgern von Goldtal nieder - auch, wenn er ihn sich nur einbildete. Schließlich hingen sie alle von den Bäumen des Dorfes und überblickten mit leeren Augen ihre tote Stadt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@ Fürst Raedric kehrte zu Raedrics Festung zurück, wo er ewige Wache über sein 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Ermordung des Ducs, mutmaßlich durch die Hand eines Beseelers, hatte zu verheerenden Aufständen auf den Straßen von Trutzbucht gesorgt. Wer aber dem Nahkampf in den Palastanhörungen entkommen war, der erinnerte sich an die Aussagen des seltsamen Gastes, der an jenem Tag plötzlich aufgetaucht war, die Beseelung von der Schuld freigesprochen hatte&#160;– und stattdessen den Bleiernen Schlüssel als Drahtzieher identifiziert.
+      <DefaultText>Die Ermordung des Ducs, mutmaßlich durch die Hand eines Beseelers, hatte zu verheerenden Aufständen auf den Straßen von Trutzbucht gesorgt. Wer aber dem Nahkampf in den Palastanhörungen entkommen war, der erinnerte sich an die Aussagen des seltsamen Gastes, der an jenem Tag plötzlich aufgetaucht war, die Beseelung von der Schuld freigesprochen hatte&#160;– und stattdessen den Bleiernen Schlüssel als Drahtzieher identifizierte.
 
 Das Gerücht verbreitete sich rasch, und bald war der Großteil des Volkes überzeugt, dass der Mörder ein Spion des Bleiernen Schlüssels gewesen war.</DefaultText>
       <FemaleText />
@@ -100,14 +100,14 @@ Die Doemenels machten sich ihren Ruf der dreisten Furchtlosigkeit zunutze, den s
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Nachdem die Dutzenden sich nach den Aufständen aber wieder gefangen hatten, bereiteten sie den kriminellen Machenschaften aber rasch ein Ende. Sie patrouillierten die Straßen in Scharen und bestraften jedes mutmaßliche Vergehen mit ihrer oft eigenwilligen Auslegung des Gesetzes.
+      <DefaultText>Nachdem die Dutzenden sich nach den Aufständen wieder gefangen hatten, bereiteten sie den kriminellen Machenschaften aber rasch ein Ende. Sie patrouillierten die Straßen in Scharen und bestraften jedes mutmaßliche Vergehen mit ihrer oft eigenwilligen Auslegung des Gesetzes.
 
 Zudem nutzten sie die Gelegenheit, um die geschwächten Schmelztiegelritter aus ihrer Machtposition zu verdrängen, indem sie sie für ihre Rolle während der Aufstände als Volksverräter brandmarkten. Die wenigen Ritter, die nicht vor ihrer Burg zu Tode gesteinigt wurden, wurden ins Exil gezwungen. Das externe Kontingent der Ritter auf Burg Flottenbrecher verblieb dort und sein Hochritter schmiedete Pläne zur Wiedereroberung der Stadt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Die Ordnung wurde jedoch bald durch die Schmelztiegelritter wiederhergestellt. Die Ritter hatten zwar hohe Verluste erlitten, genossen in den Augen der Öffentlichkeit ein hohes Ansehen für ihre Rolle bei der Aufdeckung der Verschwörung rund um Waidwens Vermächtnis. Bald war auch ihre volle Mannstärke wiederhergestellt, denn sie erhielten Verstärkung durch Truppen, die von Burg Flottenbrecher zurückkehrten.</DefaultText>
+      <DefaultText>Die Ordnung wurde jedoch bald durch die Schmelztiegelritter wiederhergestellt. Die Ritter hatten zwar hohe Verluste erlitten, genossen aber in den Augen der Öffentlichkeit ein hohes Ansehen für ihre Rolle bei der Aufdeckung der Verschwörung rund um Waidwens Vermächtnis. Bald war auch ihre volle Mannstärke wiederhergestellt, denn sie erhielten Verstärkung durch Truppen, die von Burg Flottenbrecher zurückkehrten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,7 +594,7 @@ Auch, wenn ihre vorsichtige Vorgehensweise nach dem Ende des Vermächtnisses ihn
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Nachdem die Dutzenden sich nach den Aufständen aber wieder gefangen hatten, bereiteten sie den kriminellen Machenschaften aber rasch ein Ende. Sie patrouillierten die Straßen in Scharen und bestraften jedes mutmaßliche Vergehen mit ihrer oft eigenwilligen Auslegung des Gesetzes.
+      <DefaultText>Nachdem die Dutzenden sich nach den Aufständen wieder gefangen hatten, bereiteten sie den kriminellen Machenschaften aber rasch ein Ende. Sie patrouillierten die Straßen in Scharen und bestraften jedes mutmaßliche Vergehen mit ihrer oft eigenwilligen Auslegung des Gesetzes.
 
 Dabei handelte es sich jedoch nicht um die willkürliche Selbstjustiz des Mobs. Die Dutzenden hatten sich die Stärken ihrer Widersacher, der Schmelztiegelritter, zu eigen gemacht und wurden zu einer sehr viel organisierteren und disziplinierteren Gruppierung. Da die anderen Mächte in Trutzbucht zusehends an Stärke verloren, nutzte die Führung der Dutzenden die Gelegenheit, um ihre eigene Organisation als die vorherrschenden Friedenshüter in der Stadt zu etablieren.</DefaultText>
       <FemaleText />
@@ -611,7 +611,7 @@ Dabei handelte es sich jedoch nicht um die willkürliche Selbstjustiz des Mobs. 
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Die Ordnung wurde jedoch bald durch die Schmelztiegelritter wiederhergestellt. Die Ritter hatten zwar hohe Verluste erlitten, genossen in den Augen der Öffentlichkeit ein hohes Ansehen für ihre Rolle bei der Aufdeckung der Verschwörung rund um Waidwens Vermächtnis. Bald war auch ihre volle Mannstärke wiederhergestellt, denn sie erhielten Verstärkung durch Truppen, die von Burg Flottenbrecher zurückkehrten.
+      <DefaultText>Die Ordnung wurde jedoch bald durch die Schmelztiegelritter wiederhergestellt. Die Ritter hatten zwar hohe Verluste erlitten, genossen aber in den Augen der Öffentlichkeit ein hohes Ansehen für ihre Rolle bei der Aufdeckung der Verschwörung rund um Waidwens Vermächtnis. Bald war auch ihre volle Mannstärke wiederhergestellt, denn sie erhielten Verstärkung durch Truppen, die von Burg Flottenbrecher zurückkehrten.
 
 Nachdem die Ritter sowohl die Gefahren als auch das Potenzial der Beseelung gesehen hatten, erkundeten sie die neue Wissenschaft intern zwar weiter, aber mit sehr viel größerer Vorsicht. In ihrer Mannstärke durch Verluste geschwächt, dank ihrer neu geschmiedeten seelenverstärkten Waffen und eines kleinen Kontingents an Schmiederittern aber gleichzeitig erstarkt, wurden die Schmelztiegelritter bald zu einem Orden, dem sich nur wenige in Trutzbucht zu widersetzen wagten.</DefaultText>
       <FemaleText />
@@ -670,7 +670,9 @@ Des Nachts waren seltsame Geräusche aus dem Bezirk zu hören, kehlige Sprechlau
       <DefaultText>Sagani und der Wächter fanden Persoq nicht gemeinsam. Das Adra-Figürchen war dunkel geworden, als sie aus Sonne im Schatten heraustraten, und es dauerte einen weiteren Monat, ehe Sagani schließlich akzeptierte, dass Persoqs Spur wieder erkaltet war.
 
 Ihre Suche führte sie über den Dyrwald hinaus und sogar bis in das Land der Lebenden. Sie sah die großen Küstenstädte von Rauatai und die Ruinen von Alt-Vailia, und sie saugte die Details dieser seltsamen und fernen Lande auf.</DefaultText>
-      <FemaleText />
+      <FemaleText>Sagani und die Wächterin fanden Persoq nicht gemeinsam. Das Adra-Figürchen war dunkel geworden, als sie aus Sonne im Schatten heraustraten, und es dauerte einen weiteren Monat, ehe Sagani schließlich akzeptierte, dass Persoqs Spur wieder erkaltet war.
+
+Ihre Suche führte sie über den Dyrwald hinaus und sogar bis in das Land der Lebenden. Sie sah die großen Küstenstädte von Rauatai und die Ruinen von Alt-Vailia, und sie saugte die Details dieser seltsamen und fernen Lande auf.</FemaleText>
     </Entry>
     <Entry>
       <ID>125</ID>
@@ -717,7 +719,7 @@ Es wurde zu einem beliebten Reiseziel für Wohlhabende, die von der Dorfleitung 
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Im Moment aber konnte man nur wenig tun, und die Angelegenheit würde warten müssen. Eine schwere Reise stand bevor, die durch deine Entscheidung, ein Kind nach Sonne im Schatten zu bringen, nicht einfacher machte.</DefaultText>
+      <DefaultText>Im Moment aber konnte man nur wenig tun, und die Angelegenheit würde warten müssen. Eine schwere Reise stand bevor, die durch deine Entscheidung, ein Kind nach Sonne im Schatten zu bringen, nicht einfacher wurde.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
