@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>"Also gut. Ich höre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,8 +133,8 @@ Nyry legt die Hände zu einer Geste der Dankbarkeit zusammen und läuft fast aus
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Es geht dich nichts über einflussreiche Freunde, was? Sie werden es nicht bereuen, Fürst. Ich bin Ihnen was schuldig!"</DefaultText>
-      <FemaleText>"Es geht doch nichts über einflussreiche Freunde, was? Sie werden es nicht bereuen, Fürstin. Ich bin Ihnen was schuldig!"</FemaleText>
+      <DefaultText>"Es geht doch nichts über einflussreiche Freunde, was? Sie werden es nicht bereuen, Fürst [Player Name]. Ich bin Ihnen was schuldig!"</DefaultText>
+      <FemaleText>"Es geht doch nichts über einflussreiche Freunde, was? Sie werden es nicht bereuen, Fürstin [Player Name]. Ich bin Ihnen was schuldig!"</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -171,7 +171,7 @@ Nyry macht auf dem Absatz kehrt und verlässt schnellen Schrittes den Saal.</Def
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>"Bei näherer Überlegung ... lieber nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,17 +235,17 @@ Nyry macht auf dem Absatz kehrt und verlässt schnellen Schrittes den Saal.</Def
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>"Ich bitte Sie natürlich nicht, das umsonst zu tun. Ich habe hier ein paar Sachen abgeholt von einem ... Bekannten. Sie nutzen mir nicht viel, wenn ich erwischt werde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>"Burgvogt, bitte die Schmelztiegelritter, Gnade walten zu lassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>"Burgvogt, lass die Ritter wissen, dass ich ihnen ihre Flüchtige als Geschenk verpackt liefere."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
