@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich habe viel von Ihnen gehört, Fürst. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen."</DefaultText>
-      <FemaleText>"Ich habe viel von Ihnen gehört, Fürstin. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen."</FemaleText>
+      <DefaultText>"Ich habe viel von Ihnen gehört, Fürst [Player Name]. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen."</DefaultText>
+      <FemaleText>"Ich habe viel von Ihnen gehört, Fürstin [Player Name]. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>"Also gut. Ich höre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@ Brynwigar tritt einige Schritte beiseite, außer Hörweite.</DefaultText>
       <ID>16</ID>
       <DefaultText>Brynwigar erstarrt.
 
-"Ich weiß um den Wert von Effizienz. Ist das ein Verbrechen?"</DefaultText>
+"Ich weiß ganz einfach um den Wert von Effizienz. Diese Bauern müssen ihren Platz kennen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,8 +116,8 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürst! Ich wusste, ich kann mich auf Ihre Vernunft verlassen."</DefaultText>
-      <FemaleText>"Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürstin! Ich wusste, ich kann mich auf Ihre Vernunft verlassen."</FemaleText>
+      <DefaultText>"Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürst [Player Name]! Ich wusste, ich kann mich auf Ihre Vernunft verlassen."</DefaultText>
+      <FemaleText>"Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürstin [Player Name]! Ich wusste, ich kann mich auf Ihre Vernunft verlassen."</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -141,7 +141,7 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>"He, ich muss mich eben ein wenig amüsieren." Sie verlässt geräuschvoll den Saal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>"Dabei kann ich Ihnen im Moment nicht helfen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@ Brynwigar verneigt sich, offenbar zufriedengestellt, und schreitet aus dem Saal.
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>"Ich werde schnell handeln." Aloth verlässt den Saal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@ Er vergeudet keine Zeit mehr mit Worten. Brynwigar macht auf dem Absatz kehrt un
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Probieren wir etwas anderes."</DefaultText>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,8 +268,8 @@ Er verneigt sich und schreitet aus dem Saal.</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürst. Ich ... überdenke Ihre Worte auf der Heimreise."</DefaultText>
-      <FemaleText>"Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürstin. Ich ... überdenke Ihre Worte auf der Heimreise."</FemaleText>
+      <DefaultText>"Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürst [Player Name]. Ich ... überdenke Ihre Worte auf der Heimreise."</DefaultText>
+      <FemaleText>"Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürstin [Player Name]. Ich ... überdenke Ihre Worte auf der Heimreise."</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -288,8 +288,8 @@ Er verneigt sich und schreitet aus dem Saal.</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst."</DefaultText>
-      <FemaleText>"Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin."</FemaleText>
+      <DefaultText>"Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst [Player Name]."</DefaultText>
+      <FemaleText>"Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin [Player Name]."</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
