@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>"Also gut. Ich höre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>"Ich würde mich dazu gerne kurz mit meinen Leuten beraten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>"Dabei kann ich Ihnen im Moment nicht helfen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@ Geyda tritt höflich ein wenig zur Seite, wo sie euch nicht hören kann.</Defaul
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@ Geyda tritt höflich ein wenig zur Seite, wo sie euch nicht hören kann.</Defaul
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>"Bei näherer Überlegung ... lieber nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,17 +123,17 @@ Geyda tritt höflich ein wenig zur Seite, wo sie euch nicht hören kann.</Defaul
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>"Eine weise Entscheidung, [Player Name].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>"Ich regle das." Sie geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@ Sie ringt nervös die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Edér kann dir helfen. Er kann gut mit Tieren umgehen."</DefaultText>
+      <DefaultText>"Edér kann helfen. Er ist gut in solchen Dingen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@ Sie ringt nervös die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>"Meine Eltern sind sehr stolz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
