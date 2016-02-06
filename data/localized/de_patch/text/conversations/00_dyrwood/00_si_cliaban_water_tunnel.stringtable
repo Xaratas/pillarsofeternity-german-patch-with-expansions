@@ -291,12 +291,12 @@ Dann, endlich, durchbricht dein Kopf die Wasseroberfläche. Hastig würgst du Lu
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Put on Iverra's Diving Helmet and swim into the tunnel.]</DefaultText>
+      <DefaultText>[Iverras Taucherhelm anziehen und in den Tunnel schwimmen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>You place the helmet over your head, and press forward. It does little to ward off the chill of the stream, but air, at least, is in plentiful supply. </DefaultText>
+      <DefaultText>Du ziehst dir den Helm über den Kopf und schwimmst weiter. Er hält zwar die Kälte des Wassers kaum ab, aber zumindest hast du ausreichend Luftvorräte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,9 +311,9 @@ Dann, endlich, durchbricht dein Kopf die Wasseroberfläche. Hastig würgst du Lu
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>You keep your hands in front of yourself and focus on avoiding the jagged rocks that appear suddenly in the darkness, jutting from the walls. 
+      <DefaultText>Du hältst deine Hände vor dich und konzentrierst dich darauf, den spitzen Felsen auszuweichen, die aus der Wand hervorragen und immer wieder plötzlich aus der Dunkelheit auftauchen.
 
-A light winks at you up ahead. You're approaching it fast, but it looks to be the mouth of a second, smaller tunnel. You might be able to reach it.</DefaultText>
+Vor dir blinzelt ein Licht. Du näherst dich ihm schnell, aber es scheint der Eingang zu einem zweiten, kleineren Tunnel zu sein. Vielleicht kannst du ihn erreichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,24 +323,24 @@ A light winks at you up ahead. You're approaching it fast, but it looks to be th
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>You rush past the side tunnel and see a corkscrew turn up ahead. You angle your body with the current just in time to avoid the onrushing wall.</DefaultText>
+      <DefaultText>Du rauschst an dem Nebentunnel vorbei und siehst vor dir eine scharfe Kurve. Gerade im rechten Augenblick drehst du deinen Körper mit der Strömung, um der heranrauschenden Wand auszuweichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>The last of the light disappears behind you. You can no longer see the walls around you. You extend your feet outwards and hope for the best.</DefaultText>
+      <DefaultText>Das letzte Licht verschwindet hinter dir. Du siehst die Wände um dich herum nicht mehr. Du streckst deine Füße aus und hoffst das Beste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Your foot strikes an outcropping. Your arm grazes another. The pain has you gritting your teeth, but it's not as bad as you'd feared. Either the cold waters have numbed your skin or you've slowed.</DefaultText>
+      <DefaultText>Dein Fuß schlägt gegen einen Vorsprung. Dein Arm streift einen weiteren. Du beißt vor Schmerz die Zähne zusammen, aber es ist weniger schlimm, als du erwartet hast. Entweder hat das kalte Wasser deine Haut betäubt oder du bist langsamer geworden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>A halo of light appears above you. The current is no longer pushing you toward it, so you kick, push, and twist your body up, the surface always seeming just out of reach.
- 
-At last, your head breaks the surface. Crawling out of the water, you look at the cavern around you as you massage feeling back into your aching, cold-numbed limbs.</DefaultText>
+      <DefaultText>Über dir erscheint ein kreisrunder Lichtschein. Die Strömung treibt dich nicht mehr auf ihn zu, daher trittst, drückst und windest du dich nach oben. Dennoch wirkt es, als würde die Oberfläche immer gerade außer Reichweite bleiben.
+
+Endlich durchbricht dein Kopf die Oberfläche. Du kriechst aus dem Wasser und blickst dich in der Höhle um, während du deine schmerzenden, tauben Glieder reibst, um wieder etwas spüren zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,19 +350,19 @@ At last, your head breaks the surface. Crawling out of the water, you look at th
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>You wrap your fingers around the rocks lining the tunnel and peer inside. The tunnel comes to a dead end, but something glints among the rocks at the far side.</DefaultText>
+      <DefaultText>Du klammerst dich mit den Fingern an den Felsen fest, die den Eingang zum Tunnel säumen und blickst hinein. Der Tunnel endet in einer Sackgasse, aber zwischen den Felsen an seinem Ende glitzert etwas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>You pull yourself into the tunnel, which narrows as you progress. At the end, you find a skeleton with a handle protruding from its ribs. You pull it free and push off from the wall, propelling yourself back toward the main tunnel.</DefaultText>
+      <DefaultText>Du ziehst dich in den Tunnel, der sich immer weiter verengt. Am Ende des Tunnels findest du ein Skelett, aus dessen Rippen ein Griff ragt. Du ziehst den Griff heraus und stößt dich von der Wand ab, um dich wieder zum Haupttunnel zu bewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Swirling and tumbling through the darkness of the tunnel, you at last see a halo of light above, and you swim and kick toward it.
+      <DefaultText>Du wirbelst und taumelst durch die Dunkelheit des Tunnels. Endlich siehst du über dir einen kreisrunden Lichtschein. Du schwimmst strampelnd darauf zu.
 
-At last, your head breaks the surface. Crawling out of the water, you look at the cavern around you as you massage feeling back into your aching, cold-numbed limbs.</DefaultText>
+Endlich durchbricht dein Kopf die Oberfläche. Du kriechst aus dem Wasser und blickst dich in der Höhle um, während du deine schmerzenden, tauben Glieder reibst, um wieder etwas spüren zu können.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
