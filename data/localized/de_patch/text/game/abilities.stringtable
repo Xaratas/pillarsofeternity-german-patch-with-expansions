@@ -4561,7 +4561,7 @@
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Der Schurke wechselt in einer schnellen Bewegung die Position mit einem Ziel innerhalb von 1 m, wodurch jegliche Kampfhandlung aufgelöst wird. Automatisch, wenn ein Verbündeter anvisiert wird, muss ansonsten gegen die Reflexe eines Feindes erfolgreich sein.</DefaultText>
+      <DefaultText>Der Schurke wechselt in einer schnellen Bewegung die Position mit einem Ziel innerhalb von 1&#160;m, wodurch jegliche Kampfhandlung aufgelöst wird. Automatisch, wenn ein Verbündeter anvisiert wird, muss ansonsten gegen die Reflexe eines Feindes erfolgreich sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7276,7 +7276,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1678</ID>
       <DefaultText>Der Priester nutzt Heiliger Glanz, immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Leute unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
-	  <FemaleText />
+    <FemaleText />
     </Entry>
     <Entry>
       <ID>1679</ID>
@@ -7390,7 +7390,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1804</ID>
-      <DefaultText>"Vielo vidòrio!" ist ein Kampfschrei der Frermàs mes Canc Suolias, der so viel bedeutet wie "schneller Sieg". Wenn der Paladin Flammen der Hingabe einsetzt, erhalten Verbündete in der Nähe eine erhöhte Angriffsgeschwindigkeit.</DefaultText>
+      <DefaultText>„Vielo vidòrio!“ ist ein Kampfschrei der Frermàs mes Canc Suolias, der so viel bedeutet wie „schneller Sieg“. Wenn der Paladin Flammen der Hingabe einsetzt, erhalten Verbündete in der Nähe eine erhöhte Angriffsgeschwindigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
