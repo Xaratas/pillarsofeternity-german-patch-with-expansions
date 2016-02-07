@@ -6,217 +6,223 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>„Nun, da die Schafe von ihrer Weide geführt wurden, können wir unsere Geschäfte tätigen, so unangenehm sie auch sein mögen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>„Ich werde dafür sorgen, dass Caed Nua in deiner Abwesenheit sicher bleibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>„Ich lasse dich nicht gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>„Ich lasse dich gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>[Angreifen] „Dann stirbst du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>„Ich erinnere mich an dich. Du warst mit Fürst Gathbin im Palast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>„Und ich mich an dich.“ Sie grinst. „Ich muss gestehen, du wirkst recht&#160;… interessant. Leider ruft die Pflicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>„Du hast wohl Angst, du könntest Gäste verletzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>Sie schnaubt verächtlich. „Ich bin Profi. Tote Bürger ziehen meist unerwünschte Aufmerksamkeit nach sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>„Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>„Oh, ich denke, das weißt du. Fürst Gathbin hat deinen Tod angeordnet.“ Sie runzelt die Stirn. „Wirklich ein Jammer. Ich bewundere die Geschichten über dich, selbst wenn nur die Hälfte davon wahr ist. Leider habe ich meine Befehle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>„Ich habe eigentlich keine Lust, gegen dich zu kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>„Leider gibt es keinen anderen Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>„Wenn du wusstest, dass du nicht gewinnst, warum hast du dann gegen mich gekämpft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>„Fürst Gathbins Befehl. Man wagt es nicht, sich zu widersetzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>„Gathbin scheint ein grauenhafter Arbeitgeber zu sein. Warum arbeitest du weiter für ihn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>„Ich kann nicht weg.“ Sie schüttelt den Kopf. „Fürst Gathbin würde sich an meiner Familie rächen. Meinen Freunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>Emery warnt den Spieler vor einem Angriff auf Caed Nua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>„Dann beenden wir es wie Krieger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>„Gathbin wird verlieren. Du solltest für mich arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>„Eines sollst du wissen&#160;… schon bald kommt der Tag, an dem du dich Gathbin stellen musst. Ich habe so lange überlebt, weil ich immer weiß, auf wessen Seite ich mich schlagen muss.“
+
+„Wenn du dich auf dem Schlachtfeld beweist, wer weiß&#160;…“
+
+„Auf bald, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>„Der Mann ist ein Schwein. Wenn auch ein adliges, wohlhabendes Schwein.“ Ihre Lippen kräuseln sich angewidert. „Stünde ich erneut vor der Wahl, ich bezweifle, dass ich in seinen Dienst eintreten würde. Aber was geschehen ist, ist geschehen. Und Fürst Gathbin ist ebenso gnadenlos wie er arrogant ist. Er scheut vor nichts zurück, um Verräter zu bestrafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>„Ein besseres Leben im Dienst eines ehrenhaften Fürsten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>„Dann lüg Gathbin an. Sag ihm, du hättest mich konfrontiert, aber es wäre mir gelungen, durch die Hintertür zu fliehen. Du hast mich nicht verfolgt, weil du Sorge hättest, ein Aufruhr könnte die Schmelztiegelritter anlocken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>„Sehr viel weniger Schmerzen. Greife mich an und ich lasse dich leiden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>[Angreifen] „Dann bringen wir es zu Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>„Wird Gathbin dir ein ordentliches Begräbnis gewähren, nachdem ich dich und deine Männer im ganzen Verkohlten Fass verteilt habe? Das ist deine letzte Chance, diese Taverne unversehrt zu verlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>„Ich habe solche Geschichten über dich gehört. Sie können doch nicht alle wahr sein, oder doch?“ Sie schweigt einen Augenblick lang. „Geschichten deiner Wohltätigkeit&#160;… deiner Güte. Aber ich sehe auch Stärke in dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>„Verlockend, aber deine 'Ehre' ist dem Zorn von Fürst Gathbin nicht gewachsen. Bringen wir es hinter uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>„Gefällt mir. Niemandem wird wehgetan, vor allem mir nicht, und alle bekommen, was sie wollen. Also gut. Ich stimme deinem Vorschlag zu.“ Sie halftert ihre Pistole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>„Eine ziemlich dünne Geschichte, aber bei deinem Ruf bin ich bereit, das Risiko einzugehen.“ Sie halftert ihre Pistole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>„Also gut, du hast mich überzeugt. Ich wusste ohnehin, dass ich kaum eine Chance gegen dich hätte.“ Sie halftert ihre Pistole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>„Ich glaube, ich habe bessere Chancen gegen dich, als du denkst. Aber mein Bauchgefühl sagt mir, dass ich deinen Vorschlag annehmen sollte. Vorerst.“ Sie halftert ihre Pistole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>[2.500 KP geben.] „Ganz altmodische Bestechung. Geh und tu so, als hätte diese Unterhaltung niemals stattgefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText>„Eine großzügige Summe. Ich werde sie sinnvoll zu nutzen wissen. Ich kann nicht versprechen, dass ich dich bei unserer nächsten Begegnung nicht töte, aber heute gehen wir ohne Kampf auseinander.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>„Was könntest du mir anzubieten haben, damit ich ein solches Risiko eingehe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>„Ich dachte, die Geschichten über deine Grausamkeit wären übertrieben. Gathbin ist vielleicht ein Schwein, aber seine Grausamkeit ist durch Ehrgeiz getrieben. Wenn ich in deine Augen blicke, sehe ich eine andere Dunkelheit&#160;… tiefer, gefährlicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>„Ha! Ich habe nicht so lange überlebt, indem ich vor leeren Drohungen eingeknickt bin. Tu dein Schlimmstes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>„Die junge Frau, die offensichtlich die Anführerin der bewaffneten Gruppe ist, nimmt mit einer Hand ihre Kutte ab, während die andere auf einer Pistole in ihrem Gürtel ruht.
+
+Du erkennst in ihr sofort Gathbins Hauptmann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>„Und ich mich an dich.“ Sie grinst. „Ich muss gestehen, bei deinem Ruf hätte ich jemanden&#160;… Größeres erwartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>„Und ich mich an dich.“ Sie grinst. „Diese ganze 'Essenz eines Gottes'-Sache vergisst man nicht so leicht. Ich muss sagen, es steht dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>„Aber reicht das aus, um Fürst Gathbin zu besiegen? Dieses Risiko ist mir zu hoch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>„Dennoch, ich glaube, ich kann Gathbin sagen, dass du den Köder nicht geschluckt hast und niemals hier aufgetaucht bist. Heute muss doch niemand sterben, oder?“ Sie blickt zu ihren Truppen, die zustimmend nicken.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
