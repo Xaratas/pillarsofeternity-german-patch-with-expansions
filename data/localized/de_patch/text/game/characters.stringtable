@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1376</EntryCount>
+  <EntryCount>1382</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -6715,6 +6715,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1742</ID>
+      <DefaultText>Nîdhens Finger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1757</ID>
       <DefaultText>Ring der Geliebten</DefaultText>
       <FemaleText />
@@ -6737,6 +6742,11 @@
     <Entry>
       <ID>1781</ID>
       <DefaultText>Hauptmann Emery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>Markiertes Amulett</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6765,6 +6775,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1800</ID>
+      <DefaultText>Magmafäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1805</ID>
       <DefaultText>Aedyrischer Söldner</DefaultText>
       <FemaleText />
@@ -6786,7 +6801,7 @@
     </Entry>
     <Entry>
       <ID>1817</ID>
-      <DefaultText>Glanfathanischer Berserker</DefaultText>
+      <DefaultText>Rauatai-Berserker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6812,6 +6827,11 @@
     <Entry>
       <ID>1835</ID>
       <DefaultText>Caed-Nua-Bogenschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1838</ID>
+      <DefaultText>Silberner Ring der Geliebten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6882,6 +6902,16 @@
     <Entry>
       <ID>1880</ID>
       <DefaultText>Byrnwigars Streitkräfte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1898</ID>
+      <DefaultText>Grüngefleckte Stiefel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Vaters Zähne</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
