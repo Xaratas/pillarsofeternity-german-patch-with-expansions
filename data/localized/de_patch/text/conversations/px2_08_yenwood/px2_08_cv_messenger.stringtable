@@ -6,152 +6,152 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Ich bringe eine Eilbotschaft von Kanzler Warrin aus Trutzbucht. Er bittet Sie, ihn sobald als möglich im Palast des Ducs aufzusuchen.“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Ich bringe eine Eilbotschaft von Kanzler Warrin aus Trutzbucht. Er bittet Sie, ihn sobald als möglich im Palast des Ducs aufzusuchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>„Caed Nua gehört mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>„Die Familie Gathbin ist anderer Meinung. Da Ihr Anspruch nicht auf Abstammung beruht, ist ein offizielles Urteil vonnöten, um diesen Disput beizulegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>„Dann werde ich mich mit ihm treffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>„Wer ist Kanzler Warrin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>„Er ist ein Rechtsbeamter von Graf Bademar aus dem Griff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>„Der Kanzler erwartet Sie in der Halle der Urkunden im Palast des Ducs in Urfeuer.“ Der Bote verneigt sich und schreitet davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Verzeihen Sie die Störung, mein Fürst. Kanzler Warrin erbittet ein dringliches Treffen im Verkohlten Fass in Farnheim.“</DefaultText>
+      <FemaleText>„Verzeihen Sie die Störung, meine Fürstin. Kanzler Warrin erbittet ein dringliches Treffen im Verkohlten Fass in Farnheim.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>„Geht es wieder um Caed Nua?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>„Ich treffe mich mit dem Kanzler, sobald ich die Zeit dazu habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Das weiß ich nicht. Bitte verzeihen Sie, mein Fürst. Ich bin lediglich ein einfacher Bote.“</DefaultText>
+      <FemaleText>„Das weiß ich nicht. Bitte verzeihen Sie, meine Fürstin. Ich bin lediglich ein einfacher Bote.“</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>Der Bote verneigt sich und geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>„Warum trifft sich der Kanzler nicht im Palast mit mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>„Vielleicht erbittet er dieses Treffen nicht in seiner offiziellen Funktion. Das kommt gelegentlich vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>„Ihr Anspruch auf Caed Nua wird von der Familie Gathbin angezweifelt. Graf Bademar hat ein Urteil in der Angelegenheit gefällt, aber sowohl Sie als auch Fürst Gathbin müssen anwesend sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>„Was weißt du über diesen Fürst Gathbin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>„Eine alte aedyranische Familie, meine ich.“ Er blickt sich in der Herrenhalle um. „Der ehemalige Fürst dieser Festung, ein entfernter Verwandter von Fürst Gathbin, hat sich im Widerstandskrieg mit der unterlegenen Seite verbündet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>„Er ist der Rechtsbeamte von Graf Bademar, dem Fürsten des Griffs. Ich glaube, Sie haben im Palast des Ducs seine Bekanntschaft gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>„Wer war doch gleich Kanzler Warrin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>„Der Griff?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>„Ah, richtig. Sie kommen aus dem Ausland. Bitte verzeihen Sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>„Der Griff ist die Grafschaft, in welcher sich diese Festung befindet. Eine von sieben Grafschaften des Dyrwalds, genauer gesagt. Graf Bademar ist der regierende Herrscher über den Griff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>„Kanzler Warrin ist bedeutend besser über solche Dinge informiert. Er kann gewiss alle Ihre Fragen beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>Du bemerkst, wie dem Boten ein kleines Rinnsal Schweiß von der Braue tropft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>Der Bote starrt zu Boden, um dir nicht in die Augen blicken zu müssen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>Der Bote verneigt sich steif. Als er den Raum verlässt, seufzt er erleichtert auf, sobald die Türen hinter ihm zuschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>„Du siehst nervös aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Verzeihen Sie, mein Fürst. Ich bin nur etwas kränklich.“</DefaultText>
+      <FemaleText>„Verzeihen Sie, meine Fürstin. Ich bin nur etwas kränklich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Die&#160;… Dekorationen vor der Festung sind ein klein wenig furchterregend, mein Fürst. Bitte verzeihen Sie.“</DefaultText>
+      <FemaleText>„Die&#160;… Dekorationen vor der Festung sind ein klein wenig furchterregend, meine Fürstin. Bitte verzeihen Sie.“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>„Ich bringe eine Nachricht aus dem Palast des Ducs.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
