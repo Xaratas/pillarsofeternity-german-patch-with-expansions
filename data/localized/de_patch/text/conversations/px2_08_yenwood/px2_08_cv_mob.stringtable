@@ -6,152 +6,152 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>„Ich habe mich geweigert zu zahlen, also haben sie meine Ernte in Brand gesteckt. Als mein Junge sie aufhalten wollte, haben sie ihm eine über den Kopf gezogen. Er lebt, aber er ist nicht mehr richtig im Kopf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>„Dein Junge hatte Glück. Meine Wachen – beide gute Männer – wurden mit dem Schwert erstochen, nachdem sie sich ergeben hatten. Ich habe diesen Verbrechern gezahlt, was sie wollten, aber sie haben mir dennoch ALLES genommen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Da ist er!“ Eine Frau deutet auf dich und alle Augen in der Menge richten ihre feindseligen Blicke auf dich.</DefaultText>
+      <FemaleText>„Da ist sie!“ Eine Frau deutet auf dich und alle Augen in der Menge richten ihre feindseligen Blicke auf dich.</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>„Was geht hier vor sich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>„Kann ich euch irgendwie helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>„Wir wollen Gerechtigkeit! Sie haben uns terrorisiert, und das lassen wir uns nicht länger gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>„Wir brauchen keine Hilfe, wir wollen einfach nur, dass Sie uns in Frieden lassen! Wir wollen Gerechtigkeit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>„Sprich weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>„Sie haben Ihre Männer zu meinem Hof geschickt, um eine 'Erntesteuer' einzutreiben, weil wir angeblich im Rückstand waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>„Bei mir war es ein Wegezoll. Ich bereise diesen Weg seit Jahren in beide Richtungen, aber ich habe noch nie von etwas Derartigem gehört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>„Warum glaubt ihr, dass ich diese Männer geschickt hätte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>Andere in der Menge tragen ähnliche Geschichten bei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>„Das waren nicht meine Männer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>„Sie sagten, sie würden auf Befehl des Fürsten von Caed Nua handeln. Das sind Sie!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>„Wer waren Sie dann? Es waren keine einfachen Banditen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>[500 KP geben.] „Hier, für euch alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>„Wenn das wieder geschieht, es erfolgt nicht auf meinen Befehl. Das versichere ich euch persönlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>„Sagen wir, wir glauben Ihnen&#160;… was ist mit dem, was wir verloren haben? Was ist mit meiner Ernte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>„Und mit meinen Waren? Und mit den Familien meiner Wachen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>[100 KP geben] „Nehmt das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>„Danke, mein Fürst.“ Die Münzen werden eilig unter den Dorfbewohnern aufgeteilt. Die Leute verneigen sich vor dir, dann löst sich die Menge auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>[1000 KP geben.] „Teilt das unter euch auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>„Verschwindet, bevor ich euch Pack an Caed Nuas Mauern aufhängen lasse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>„Ich sorge dafür, dass diese Männer gerecht bestraft werden. Verlasst euch darauf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>Die Menge murmelt zwar, löst sich aber auf&#160;… ohne dir in die Augen zu blicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>„Dein zurückgebliebener Sohn und deine Waren scheren mich einen Dreck. Verschwindet aus meiner Festung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>„Äußerst großzügig von Ihnen, mein Fürst.“ Die Dorfbewohner nicken und lächeln und bedanken sich, während sie die Münzen untereinander aufteilen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>[Weggehen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>Er sieht aus, als würde er etwas sagen wollen, überlegt es sich aber anders und verneigt sich nur knapp. Die Münzen werden rasch verteilt und die Menge löst sich ohne ein weiteres Wort auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>„Das wissen wir zu schätzen, aber&#160;… können Sie uns irgendeine Entschädigung bieten? Nur ein wenig, um über die Runden zu kommen, natürlich.“ Er räuspert sich und blickt dich erwartungsvoll an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>„Wähle deine nächsten Worte mit Bedacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>Die Gruppe blickt dich misstrauisch an. Nach einigen Augenblicken stupst ein Mann in der Gruppe einen anderen an. Der zweite Mann atmet tief ein und stellt sich breitbeinig hin, ehe er spricht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
