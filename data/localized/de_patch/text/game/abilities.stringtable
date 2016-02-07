@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1475</EntryCount>
+  <EntryCount>1481</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -4531,7 +4531,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, fügt Waffenschaden auf seine Angriffe hinzu, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
+      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, wodurch er zusätzlichen Waffenschaden auf seine Angriffe erhält, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7134,8 +7134,18 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1548</ID>
+      <DefaultText>So singen deine Beißenden Winde oh Alt-Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1550</ID>
       <DefaultText>Störer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Vernichtet Feinde mit einem mächtigen Wind kalter Luft, der die Bewegung verlangsamt und Frostschaden anrichtet (wobei er eine große Menge SR ignoriert).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7304,6 +7314,16 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1700</ID>
+      <DefaultText>Erhabene Hände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Ausdauer tauschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1717</ID>
       <DefaultText>Groll des Bildnisses: Zahua</DefaultText>
       <FemaleText />
@@ -7321,6 +7341,11 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1781</ID>
       <DefaultText>Der Sänger kann Phrasen schneller rezitieren, wodurch er Beschwörungen früher im Kampf einsetzen kann und die Überlappung zwischen den Phrasen erhöht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Märtyrer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7395,12 +7420,17 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1815</ID>
-      <DefaultText>Gréf's Authority</DefaultText>
+      <DefaultText>Autorität des Gréfen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1816</ID>
-      <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
+      <DefaultText>Präziser Nahkampfangriff, der Hiebschaden verursacht, eine gewisse Menge an Schadensreduktion umgeht und das Ziel Betäubt zurücklassen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1870</ID>
+      <DefaultText>Ätherischer Mantel</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
