@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_yenwood\15_qst_yenwood_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rückkehr an den Hof</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich auf Caed Nua mit dem Palastboten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Triff dich im Verkohlten Fass in Farnheim mit Kanzler Warrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Besiege Emery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre nach Caed Nua zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sprich mit dem Mob vor deiner Herrenhalle auf Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Triff dich in deiner Herrenhalle auf Caed Nua mit Marschall Forwyn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Es ist erneut ein Bote vom Palast des Ducs auf Caed Nua eingetroffen. Kanzler Warrin sagte, er würde einen weiteren Boten schicken, wenn es Neuigkeiten zu der Frage gibt, wer der rechtmäßige Besitzer von Caed Nua ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kanzler Warrin scheint einen weiteren Boten aus dem Palast des Ducs in Trutzbucht geschickt zu haben. Der Bote erwartet mich in der Herrenhalle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kanzler Warrin hat um ein weiteres Treffen mit mir gebeten. Dieses Mal will er im Verkohlten Fass im Bezirk Farnheim in Trutzbucht mit mir sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das Treffen mit Kanzler Warrin war eine Falle von Fürst Gathbin. Er hat eine Gruppe seiner Soldaten unter der Führung von Hauptmann Emery geschickt, um mich zu ermorden. Selbstverständlich wird das nicht passieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ein Mob einfacher Leute aus dem Volk hat sich vor der Herrenhalle auf Caed Nua versammelt. Sie scheinen äußerst erzürnt über etwas zu sein ... gewiss ist das Fürst Gathbins Werk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Das fingierte Treffen mit Kanzler Warrin und der Angriff von Hauptmann Emery waren beides Ablenkungsmanöver, um mich eine Weile von Caed Nua fernzuhalten. Ich muss dorthin zurückkehren, um herauszufinden, was in meiner Abwesenheit geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ein Mob einfacher Leute aus dem Volk hat sich vor der Herrenhalle auf Caed Nua versammelt. Sie scheinen äußerst erzürnt über etwas zu sein ... gewiss ist das Fürst Gathbins Werk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Marschall Forwyn hat gesagt, dass er Neuigkeiten zu Fürst Gathbins Aktivitäten hat. Er will in der Herrenhalle auf Caed Nua mit mir sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Fürst Gathbin hat es noch nicht aufgegeben, mir Caed Nua wegnehmen zu wollen. Er hat versucht, mich töten zu lassen, hat in den Landen um Caed Nua herum Unruhen angezettelt und nun versammelt er eine Armee gegen mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
