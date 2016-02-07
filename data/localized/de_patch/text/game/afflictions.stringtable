@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>119</EntryCount>
+  <EntryCount>130</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -586,7 +586,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Gravestep-Absturz</DefaultText>
+      <DefaultText>Grabesschritt-Absturz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,6 +597,61 @@
     <Entry>
       <ID>123</ID>
       <DefaultText>Seltsame Krankheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Schadensreduktion III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Heilungsmultiplikator III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Bewegung III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Bestie III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Primitiv III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Geist III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Gefäß III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Rassen-Genauigkeitsbonus: Wilder III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Verbrauchsdauer III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Schaden gegen Flankiert III</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
