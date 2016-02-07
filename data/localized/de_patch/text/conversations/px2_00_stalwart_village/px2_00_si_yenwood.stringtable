@@ -6,452 +6,478 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>Als du den Gipfel eines kleinen Hügels erreichst, der das Yenwald-Feld überblickt, siehst du dort die Armee von Fürst Gathbin geschäftig hin- und hereilen. Selbst aus dieser Entfernung hörst du den gleichmäßigen Rhythmus der Kriegstrommeln, der den Feind einschüchtern und gleichzeitig die eigenen Reihen zu Kampfformationen organisieren soll.
+
+Marschall Forwyn nähert sich. „Sie kommen gerade rechtzeitig. Fürst Gathbins Truppen setzen sich in Bewegung. Ein Angriff steht unmittelbar bevor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Der Tag kann noch immer mein sein, wenn ich Ihren Kopf erbeute. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>[Deine Truppen inspizieren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText />
+      <DefaultText>Deine Truppen bestehen zu einem Großteil aus lokaler Miliz. Als du durch die schlecht organisierten Reihen schreitest, blicken junge Gesichter voller Hoffnung und Entschlossenheit zu dir auf. Die Furcht in der Luft ist spürbar. Viele deiner Männer bewegen sich unter der Last ungewohnter Waffen und Rüstungen unruhig hin und her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText />
+      <DefaultText>„Lassen Sie das Horn ertönen, Marschall Forwyn. Bringen wir es zu Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText />
+      <DefaultText>Der Großteil deiner Armee besteht aus lokaler Miliz. Erfahrene Soldaten haben die Reihen aber organisiert, schreiten hindurch und geben den jungen, unerfahrenen Kriegern Ratschläge mit auf den Weg, manchmal scherzen sie auch. Sie jubeln und schlagen in donnernder Ehrerbietung ihre Schwerter gegen ihre Schilde, als du an ihnen vorbeigehst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText />
+      <DefaultText>„Wissen Sie, was Gathbin vorhat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText />
+      <DefaultText>Marschall Forwyn reibt sich das Kinn. „Sein eigentliches Ziel ist, Ihnen im Kampf gegenüberzustehen und dabei gesehen zu werden, wie er sie besiegt. Ich bezweifle natürlich, dass er töricht genug ist, sie zu einem Duell herauszufordern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText />
+      <DefaultText>„Hier bin ich! Bringen wir es zu Ende!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText />
+      <DefaultText>[Auf Gathbin deuten und mit dem Finger symbolisch deine Kehle durchtrennen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText />
+      <DefaultText>[Gathbin mit deiner Waffe grüßen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText />
+      <DefaultText>Das Schnalzen von Dutzenden von Bogensehnen ertönt hinter dir, als deine Bogenschützen einen Hagel aus Pfeilen auf Gathbins Armee niedersausen lassen. Die Geschosse zischen mit tödlicher Präzision durch die Luft und lassen unzählige Feinde zu Boden gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText />
+      <DefaultText>Deine Infanterie stürmt auf die feindliche Infanterie in der Mitte des Feldes zu. Als die beiden Truppen aufeinanderkrachen, ertönt eine ohrenbetäubende metallische Kakophonie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText />
+      <DefaultText>Es wird erbittert gekämpft. Todesschreie hallen über das Schlachtfeld. Deine Truppen kämpfen mutig und entschlossen, doch ihre Unerfahrenheit führt zu schweren Verlusten. Nach wenigen Augenblicken ist klar, dass Gathbins Truppen im Vorteil sind. Deine Armee wird langsam zurückgedrängt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText />
+      <DefaultText>Es wird erbittert gekämpft. Todesschreie hallen über das Schlachtfeld. Angeführt von erfahrenen Kriegern kämpfen deine Truppen mutig und entschlossen und weichen nicht zurück. Die Schlacht scheint vorerst ein Patt zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText />
+      <DefaultText>Dann erscheint von hinter den feindlichen Linien eine Gruppe aedyranischer Kampfmagier. Sie beginnen, mit geübter Präzision ihre Hände synchron zu bewegen. Plötzlich schießen zwischen deinen Truppen Wellen arkanen Feuers auf. Der beißende Gestank von Rauch und brennendem Fleisch ist fast überwältigend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText />
+      <DefaultText>Von der linken Flanke aus beginnt eine Einheit von Rauatai-Berserkern in Plattenrüstungen und mit Großschwertern die Schlachtlinie nach vorne zu treiben. Sie rücken gnadenlos vor und pflastern den Boden mit Leichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText />
+      <DefaultText>Währenddessen gehen Paladine der Düsteren Schreiter in dunklen Rüstungen und mit Schwertern und Schilden bewaffnet hinter Gathbins Linien auf und ab. Sie stacheln seine Krieger an, noch entschlossener zu kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText />
+      <DefaultText>„Rufen Sie unsere Oger-Verbündeten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText />
+      <DefaultText>Die Felsoger stürmen furchtlos auf die feindlichen Berserker zu. Es entwickelt sich ein brutaler Kampf, denn weder die Rauatai noch die Oger sind gewillt, auch nur einen Zentimeter zurückzuweichen. Doch die kleineren Rauatai sind der Größe und Stärke der Oger-Krieger nicht gewachsen. Als der Rauch sich legt, steht kein einziger Berserker mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText />
+      <DefaultText>„Schicken Sie die Schmelztiegelritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText />
+      <DefaultText>Die Schmelztiegelritter bilden einen Schildwall, um die bröckelnde linke Flanke zu verstärken. Rauatai-Berserker werfen sich ohne Rücksicht auf Verluste gegen den Wall. Jedes Mal, wenn ein Ritter fällt, schließt ein weiterer die Lücke, den Schild hoch erhoben und den Speer zum Angriff bereit. Viele Berserker fallen und nach wenigen Minuten ist klar, dass der Wall halten wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText />
+      <DefaultText>„Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText />
+      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve auf die anstürmenden Berserker ab. Kugeln durchfetzen deren Plattenrüstung und es fallen unzählige Berserker. Als die Berserker die Gefahr endlich erkennen und versuchen, auf die Schützen zu stürmen, reißt eine weitere Salve sie fast alle in Stücke. Die wenigen, die noch am Leben sind, ziehen sich hastig zurück. Die Linie hat gehalten&#160;… du siehst jedoch, das auch Dutzende deiner eigenen Truppen durch die Schüsse getötet wurden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText />
+      <DefaultText>„Rufen Sie die Saboteure der Doemenels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText />
+      <DefaultText>Die Saboteure der Doemenels zeigen sich in Gathbins Reihen. Sie schalten blitzschnell den Anführer der Berserker aus und überraschen die ahnungslosen Rauatai mit arkanen Fallen. Führungslos und zwischen zwei Feinden gefangen werden die Berserker rasch in die Flucht geschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText />
+      <DefaultText>„Schalten Sie die glanfathanischen Berserker aus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText />
+      <DefaultText>„Welche Einheit soll ich schicken?“, brüllt Forwyn über den Lärm der Schlacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText />
+      <DefaultText>„Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText />
+      <DefaultText>Die readceranischen Bogenschützen feuern Salven in die anstürmenden Berserker. Die Präzision der Bogenschützen schockiert die schwer bewaffneten Krieger – die Readceraner finden Schwachstellen zwischen den dicken Rüstungsplatten. Durch die Verluste der Berserker kann deine Infanterie die Linie sichern&#160;… zumindest vorübergehend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText />
+      <DefaultText>[Vorerst nichts tun.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText />
+      <DefaultText>„Wir müssen uns um diese Kampfmagier kümmern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Wie lautet Ihr Plan, Fürst [Player Name]?“</DefaultText>
+      <FemaleText>„Wie lautet Ihr Plan, Fürstin [Player Name]?“</FemaleText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText />
+      <DefaultText>„Die Düsteren Schreiter müssen sterben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText />
+      <DefaultText>Marschall Forwyn weicht einem feindlichen Pfeil aus, ehe er antwortet: „Und wie wollen Sie das bewerkstelligen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText />
+      <DefaultText>„Alle zu mir. Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText />
+      <DefaultText>„Schicken Sie die Schmelztiegelritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText />
+      <DefaultText>„Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText />
+      <DefaultText>„Rufen Sie die Saboteure der Doemenels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText />
+      <DefaultText>„Rufen Sie unsere Oger-Verbündeten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText />
+      <DefaultText>„Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText />
+      <DefaultText>Die Ritter heben ihre Schilde und rücken in Keilformation durch die feindlichen Linien vor. So kommen sie schnell voran, erleiden aber auch schwere Verluste. Als sie die Kampfmagier erreichen, zerfällt die Formation. Die Kampfmagier beenden ihren magischen Angriff gegen deine Reihen, als die übrigen Ritter sie mit ihren Schwertern angreifen. Du fürchtest jedoch, dass das Manöver für die verbleibenden Ritter ein düsteres Schicksal besiegelt hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText />
+      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve in die Reihen der Kampfmagier ab. Kugeln durchfetzen deren magische Verteidigung und es fallen unzählige Magier. Aus Furcht vor den Schüssen zieht die Einheit sich vom Schlachtfeld zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText />
+      <DefaultText>Die Saboteure der Doemenels zeigen sich in Gathbins Reihen. Sie schalten blitzschnell den Anführer der Kampfmagier aus. Einer nach dem anderen fallen die Magier durch einen Dolch im Rücken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText />
+      <DefaultText>Die Felsoger stürmen in einem wilden Blutrausch in Gathbins Reihen. Dank ihrer Größe springen viele der Oger über die feindliche Linie und ignorieren dabei selbst schwerste Verwundungen. Viele fallen zwar, doch etwa ein Dutzend erreicht die Kampfmagier.
+
+Ein schriller Schrei durchdringt den Kampflärm, als ein unbewaffneter Oger einen der Magier in die Luft hebt und in zwei Stücke zerreißt. Bald darauf enden die magischen Angriffe gegen deine Armee.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText />
+      <DefaultText>Präzise Schüsse der Readceraner lassen viele der Kampfmagier zu Boden gehen. Einige der Pfeile werden aber durch arkane Verteidigung abgelenkt.
+
+Die Überlebenden ziehen sich aus der Schlacht zurück und begeben sich außer Reichweite&#160;… allerdings nicht, bevor sie eine Salve Feuerbälle in die Reihen deiner Bogenschützen abgeschossen haben. Die Schreie der brennenden und sterbenden Readceraner hallen in deinen Ohren wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText />
+      <DefaultText>„Schicken Sie die Schmelztiegelritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText />
+      <DefaultText>„Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText />
+      <DefaultText>„Rufen Sie die Saboteure der Doemenels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText />
+      <DefaultText>„Rufen Sie unsere Oger-Verbündeten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText />
+      <DefaultText>Das Geräusch von Marschall Forwyns Horn ertönt. Der Anführer der Schmelztiegelritter – ein Justiziar mit einem langen, langsam ergrauenden Bart – fordert den Hauptmann der Düsteren Schreiter heraus. Die in Stahlrüstungen gekleideten Formationen krachen aufeinander und bekämpfen einander erbittert. Die Schmelztiegelritter scheinen die Oberhand zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText />
+      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve in die Reihen der Düsteren Schreiter ab. Kugeln durchfetzen deren Plattenrüstung und Verteidigung und es fallen unzählige Paladine. Die verbleibenden Düsteren Schreiter ziehen sich zurück und bilden einen schützenden Kreis um Fürst Gathbin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText />
+      <DefaultText>Einige von Gathbins Infanteristen in der Nähe wenden sich plötzlich gegen die Düsteren Schreiter und rammen ihre Klingen in ahnungslose Rücken. Die Paladine sammeln sich nach dem anfänglichen Schock zwar, doch ohne ihre Anführer beginnt die mittlere Linie von Gathbins Armee zu bröckeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText />
+      <DefaultText>Die Felsoger stürmen in einem wilden Blutrausch in Gathbins Reihen. Dank ihrer Größe springen viele der Oger über die feindliche Linie und ignorieren dabei selbst schwerste Verwundungen. Viele fallen zwar, doch etwa ein Dutzend erreicht die Düsteren Schreiter.
+
+Nachdem die Paladine nun mit den Ogern beschäftigt sind, können sie die mittlere Linie von Gathbins Armee nicht länger unterstützen. Innerhalb weniger Augenblicke drängen deine eigenen Truppen nach vorne, als Gathbins Linie zu bröckeln beginnt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText />
+      <DefaultText>„Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText />
+      <DefaultText>Die readceranischen Bogenschützen feuern Salven in die Reihen der Düsteren Schreiter. Die Präzision der Bogenschützen schockiert die schwer bewaffneten Krieger – die Readceraner finden Schwachstellen zwischen den dicken Rüstungsplatten.
+
+Gathbins Elitewache befindet sich hinter ihnen, die Linie vor ihnen&#160;… die Düsteren Schreiter sind zum Anstürmen gezwungen.
+
+Das hält die Pfadfinder aber nicht davon ab, Salve um Salve sowohl in die Ritter als auch in deren Verbündete in der Frontlinie abzufeuern. Jede Salve landet mit verheerender Wirkung. Dutzende von Feinden fallen mit tödlichen Pfeilwunden auf die blutgetränkte Erde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText />
+      <DefaultText>Die Schlacht tobt weiter und deine Truppen kämpfen tapfer. Sie rücken immer weiter vor. Beide Seiten haben viele Opfer zu beklagen, niemand zeichnet sich als Sieger ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText />
+      <DefaultText>Die Schlacht tobt weiter und deine Truppen sind deutlich überlegen. Gathbins Armee beginnt zu zerfallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText />
+      <DefaultText>Als deine verbleibenden Truppen ihren Ansturm beginnen, ertönt in der Ferne ein Horn. Ein neues Kontingent von Kriegern erscheint auf einem Hügel in der Nähe. Als Gathbins Verstärkung auf das Schlachtfeld stürmt, brechen seine übrigen Truppen in Siegesgeschrei aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText />
+      <DefaultText>Die Neuankömmlinge schließen sich rasch Gathbins Armee an.
+
+Du erkennst Hauptmann Emery, die in ihrer dunklen Rüstung den Ansturm anführt. Sie tötet einen deiner Männer mit einem gut gezielten Pistolenschuss und durchbohrt kurz darauf einen zweiten mit einem glänzenden Säbel.
+
+Sie tötet Feind um Feind. Während sich um sie herum die Leichen türmen, wendet sie sich plötzlich in deine Richtung und scheint über das Schlachtfeld hinweg mit der Schulter zu zucken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText />
+      <DefaultText>Freudenrufe verwandeln sich in Schreie des Entsetzens, als die Neuankömmlinge anfangen, Gathbins Infanterie anzugreifen.
+
+Du erkennst Hauptmann Emery, die in ihrer dunklen Rüstung den Ansturm anführt. Sie tötet einen von Gathbins Männern mit einem gut gezielten Pistolenschuss und durchbohrt kurz darauf einen zweiten mit einem glänzenden Säbel.
+
+Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlachtfeld hinweg mit ihrem Schwert zu grüßen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText />
+      <DefaultText>Die Schlacht tobt weiter und Marschall Forwyn blickt zu dir, um deinen Befehl zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText />
+      <DefaultText>[Das Schlachtfeld studieren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText />
+      <DefaultText>Deine Truppen kämpfen tapfer und halten vorerst die Linien. Gathbins Armee drängt deine Männer jedoch langsam zurück und deine Verluste nehmen zu. Du wirst die Schlacht vermutlich verlieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText />
+      <DefaultText>Die schweren Verluste, die Gathbins Truppen hinnehmen mussten, haben die Moral deiner Männer gehoben. Deine Truppen drängen mit neuer Kraft vor, während Gathbins Armee langsam Boden verliert. Der Sieg ist zum Greifen nah.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText />
+      <DefaultText>Fürst Gathbins Armee ist ins Chaos verfallen. Das Schlachtfeld ist übersät mit den Leichen deiner Feinde. Die noch lebenden Feinde scheinen kurz vor dem Zusammenbruch zu stehen. Der Sieg scheint unausweichlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText />
+      <DefaultText>Der Verrat durch ihre Verstärkung bricht den Willen von Gathbins Soldaten. Sie lassen Schwerter und Schilde fallen und fliehen in vollem Lauf vom Schlachtfeld.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText />
+      <DefaultText>Umgeben von den Schreien der Toten und völlig erschöpft wanken deine Truppen. Die meisten lassen ihre Waffen fallen und fliehen in vollem Lauf vom Schlachtfeld.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText />
+      <DefaultText>Gathbins Armee ist der deinen deutlich überlegen. Deine Männer können ihre Linien kaum halten und scheinen kurz davor zu stehen, in Panik auszubrechen. Ohne eine neue Taktik oder eine glückliche Wendung des Schicksals ist die Schlacht wohl verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText />
+      <DefaultText>Aus den Truppen sticht eine kleine Gruppe Krieger hervor. Schmelztiegelritter, die in glänzenden Plattenrüstungen und mit Speer und Schild bewaffnet hoch erhobenen Hauptes auf dem Schlachtfeld stehen. Als du sie passierst, nehmen sie Haltung an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText />
+      <DefaultText>Einige Schützen der Dutzenden treffen letzte Vorkehrungen für die bevorstehende Schlacht. Sie singen ein obszönes Wirtshauslied, während sie ihre mannshohen Arkebusen sorgfältig putzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>Ein Mann nähert sich. Er neigt sich zu dir und umklammert deine Hand mit festem Griff.
+
+„Fürchten Sie sich nicht, mein Fürst. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee. /</DefaultText>
+      <FemaleText>Ein Mann nähert sich. Er neigt sich zu dir und umklammert deine Hand mit festem Griff.
+
+„Fürchten Sie sich nicht, meine Fürstin. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee. /</FemaleText>
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText />
+      <DefaultText>Du passierst eine Gruppe von Felsogern, die gerade dabei ist, sich in eine Raserei zu steigern. Sie schneiden einander zackige Wunden in die Brust und den Rücken. Ihre Kriegsschreie hallen im gesamten Lager wider. Deine Truppen machen einen weiten Bogen um sie herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText />
+      <DefaultText>Ein Trupp von readceranischen Pfadfindern rüstet sich für die kommende Schlacht. Kriegsbögen werden mit neuen Sehnen versehen und Köcher mit Pfeilen gefüllt. Einer der Bogenschützen sieht dich und pfeift. Stumm legt jeder einzelne der Männer zum Gruß eine geschlossene Faust über sein Herz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText />
+      <DefaultText>Fürst Gathbin liegt tot vor dir. Seine Armee ist zerschlagen. Blutverschmiert und erschöpft blicken deine verbleibenden Truppen zu dir, die Schwert im Triumph erhoben, und skandieren deinen Namen.
+
+„[Player Name]! [Player Name]! [Player Name]!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText />
+      <DefaultText>Marschall Forwyn beginnt, Befehle zu bellen. Deine Truppen formieren sich eilig. Gathbins Armee tut es ihnen gleich, als aedyranische Kriegstrommeln über das Schlachtfeld hallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText />
+      <DefaultText>Nach wenigen Augenblicken hebt der Marschall ein Horn in der Form eines mächtigen Ebers an seine Lippen. Er blickt dich erwartungsvoll an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText />
+      <DefaultText>„Für Caed Nua!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText />
+      <DefaultText>„Schickt diese aedyranischen Hunde zu Berath!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText />
+      <DefaultText>„Heute Nacht werden die Raben die Leichen unserer Feinde zerpicken, während wir im glorreichen Sieg trinken, feiern und ficken!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText />
+      <DefaultText>[Nicken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText />
+      <DefaultText>Deine Truppen stürmen über das Feld, die Waffen gegen die Schilde schlagend, als das Horn des Marschalls ertönt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText />
+      <DefaultText>[Deine Waffe über deinen Kopf heben und schreien, so laut du kannst.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText />
+      <DefaultText>Kühn deutet Gathbin mit seinem Schwert auf deine Stellung und erteilt einen Befehl, den du nicht hören kannst. Mit erhobenen Schilden stürmt seine Infanterie auf das Feld.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText />
+      <DefaultText>[Mit deiner Waffe auf Gathbin zeigen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText />
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Ich lasse mir diesen Sieg nicht nehmen. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText />
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Wir wussten beide, dass es so kommen würde. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText />
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Mit diesem Gesindel wollten Sie mich besiegen? Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText />
+      <DefaultText>Marschall Forwyn schüttelt den Kopf. „Wir haben keine Verbündeten, die wir ihnen entgegenschicken könnten! Unsere einzige Hoffnung ist es, Gathbins Linie zu durchbrechen und ihn zu töten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText />
+      <DefaultText>Die Neuankömmlinge schließen sich schnell Gathbins Truppen auf dem Feld an.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
