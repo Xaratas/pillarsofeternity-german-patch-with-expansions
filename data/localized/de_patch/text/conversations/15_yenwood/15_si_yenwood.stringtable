@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Als du den Gipfel eines kleinen Hügels erreichst, der das Yenwald-Feld überblickt, siehst du dort die Armee von Fürst Gathbin geschäftig hin- und hereilen. Selbst aus dieser Entfernung hörst du den gleichmäßigen Rhythmus der Kriegstrommeln, der den Feind einschüchtern und gleichzeitig die eigenen Reihen zu Kampfformationen organisieren soll.
 
-Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins Truppen setzen sich in Bewegung. Ein Angriff steht unmittelbar bevor."</DefaultText>
+Marschall Forwyn nähert sich. „Sie kommen gerade rechtzeitig. Fürst Gathbins Truppen setzen sich in Bewegung. Ein Angriff steht unmittelbar bevor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"[Player Name]!" Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. "Der Tag kann noch immer mein sein, wenn ich Ihren Kopf erbeute. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!"</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Der Tag kann noch immer mein sein, wenn ich Ihren Kopf erbeute. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,7 +28,7 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Lassen Sie das Horn ertönen, Marschall Forwyn. Bringen wir es zu Ende."</DefaultText>
+      <DefaultText>„Lassen Sie das Horn ertönen, Marschall Forwyn. Bringen wir es zu Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,17 +38,17 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Wissen Sie, was Gathbin vorhat?"</DefaultText>
+      <DefaultText>„Wissen Sie, was Gathbin vorhat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Marschall Forwyn reibt sich das Kinn. "Sein eigentliches Ziel ist, Ihnen im Kampf gegenüberzustehen und dabei gesehen zu werden, wie er sie besiegt. Ich bezweifle natürlich, dass er töricht genug ist, sie zu einem Duell herauszufordern."</DefaultText>
+      <DefaultText>Marschall Forwyn reibt sich das Kinn. „Sein eigentliches Ziel ist, Ihnen im Kampf gegenüberzustehen und dabei gesehen zu werden, wie er sie besiegt. Ich bezweifle natürlich, dass er töricht genug ist, sie zu einem Duell herauszufordern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Hier bin ich! Bringen wir es zu Ende!"</DefaultText>
+      <DefaultText>„Hier bin ich! Bringen wir es zu Ende!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Rufen Sie unsere Oger-Verbündeten."</DefaultText>
+      <DefaultText>„Rufen Sie unsere Oger-Verbündeten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Schicken Sie die Schmelztiegelritter."</DefaultText>
+      <DefaultText>„Schicken Sie die Schmelztiegelritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,17 +118,17 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!"</DefaultText>
+      <DefaultText>„Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve auf die anstürmenden Berserker ab. Kugeln durchfetzen deren Plattenrüstung und es fallen unzählige Berserker. Als die Berserker die Gefahr endlich erkennen und versuchen, auf die Schützen zu stürmen, reißt eine weitere Salve sie fast alle in Stücke. Die wenigen, die noch am Leben sind, ziehen sich hastig zurück. Die Linie hat gehalten ... du siehst jedoch, das auch Dutzende deiner eigenen Truppen durch die Schüsse getötet wurden.</DefaultText>
+      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve auf die anstürmenden Berserker ab. Kugeln durchfetzen deren Plattenrüstung und es fallen unzählige Berserker. Als die Berserker die Gefahr endlich erkennen und versuchen, auf die Schützen zu stürmen, reißt eine weitere Salve sie fast alle in Stücke. Die wenigen, die noch am Leben sind, ziehen sich hastig zurück. Die Linie hat gehalten&#160;… du siehst jedoch, das auch Dutzende deiner eigenen Truppen durch die Schüsse getötet wurden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Rufen Sie die Saboteure der Doemenels!"</DefaultText>
+      <DefaultText>„Rufen Sie die Saboteure der Doemenels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,22 +138,22 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Schalten Sie die glanfathanischen Berserker aus!"</DefaultText>
+      <DefaultText>„Schalten Sie die glanfathanischen Berserker aus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Welche Einheit soll ich schicken?", brüllt Forwyn über den Lärm der Schlacht.</DefaultText>
+      <DefaultText>„Welche Einheit soll ich schicken?“, brüllt Forwyn über den Lärm der Schlacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!"</DefaultText>
+      <DefaultText>„Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Die readceranischen Bogenschützen feuern Salven in die anstürmenden Berserker. Die Präzision der Bogenschützen schockiert die schwer bewaffneten Krieger – die Readceraner finden Schwachstellen zwischen den dicken Rüstungsplatten. Durch die Verluste der Berserker kann deine Infanterie die Linie sichern ... zumindest vorübergehend.</DefaultText>
+      <DefaultText>Die readceranischen Bogenschützen feuern Salven in die anstürmenden Berserker. Die Präzision der Bogenschützen schockiert die schwer bewaffneten Krieger – die Readceraner finden Schwachstellen zwischen den dicken Rüstungsplatten. Durch die Verluste der Berserker kann deine Infanterie die Linie sichern&#160;… zumindest vorübergehend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,52 +163,52 @@ Marschall Forwyn nähert sich. "Sie kommen gerade rechtzeitig. Fürst Gathbins T
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Wir müssen uns um diese Kampfmagier kümmern."</DefaultText>
+      <DefaultText>„Wir müssen uns um diese Kampfmagier kümmern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Wie lautet Ihr Plan, Fürst [Player Name]?" /</DefaultText>
-      <FemaleText>"Wie lautet Ihr Plan, Fürstin [Player Name]?" /</FemaleText>
+      <DefaultText>„Wie lautet Ihr Plan, Fürst [Player Name]?“</DefaultText>
+      <FemaleText>„Wie lautet Ihr Plan, Fürstin [Player Name]?“</FemaleText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Die Düsteren Schreiter müssen sterben!"</DefaultText>
+      <DefaultText>„Die Düsteren Schreiter müssen sterben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Marschall Forwyn weicht einem feindlichen Pfeil aus, ehe er antwortet: "Und wie wollen Sie das bewerkstelligen?"</DefaultText>
+      <DefaultText>Marschall Forwyn weicht einem feindlichen Pfeil aus, ehe er antwortet: „Und wie wollen Sie das bewerkstelligen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Alle zu mir. Angriff!"</DefaultText>
+      <DefaultText>„Alle zu mir. Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Schicken Sie die Schmelztiegelritter."</DefaultText>
+      <DefaultText>„Schicken Sie die Schmelztiegelritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!"</DefaultText>
+      <DefaultText>„Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Rufen Sie die Saboteure der Doemenels!"</DefaultText>
+      <DefaultText>„Rufen Sie die Saboteure der Doemenels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Rufen Sie unsere Oger-Verbündeten."</DefaultText>
+      <DefaultText>„Rufen Sie unsere Oger-Verbündeten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!"</DefaultText>
+      <DefaultText>„Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,27 +237,27 @@ Ein schriller Schrei durchdringt den Kampflärm, als ein unbewaffneter Oger eine
       <ID>166</ID>
       <DefaultText>Präzise Schüsse der Readceraner lassen viele der Kampfmagier zu Boden gehen. Einige der Pfeile werden aber durch arkane Verteidigung abgelenkt.
 
-Die Überlebenden ziehen sich aus der Schlacht zurück und begeben sich außer Reichweite ... allerdings nicht, bevor sie eine Salve Feuerbälle in die Reihen deiner Bogenschützen abgeschossen haben. Die Schreie der brennenden und sterbenden Readceraner hallen in deinen Ohren wider.</DefaultText>
+Die Überlebenden ziehen sich aus der Schlacht zurück und begeben sich außer Reichweite&#160;… allerdings nicht, bevor sie eine Salve Feuerbälle in die Reihen deiner Bogenschützen abgeschossen haben. Die Schreie der brennenden und sterbenden Readceraner hallen in deinen Ohren wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Schicken Sie die Schmelztiegelritter."</DefaultText>
+      <DefaultText>„Schicken Sie die Schmelztiegelritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!"</DefaultText>
+      <DefaultText>„Die Arkebuseschützen der Dutzenden sollen das Feuer eröffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Rufen Sie die Saboteure der Doemenels!"</DefaultText>
+      <DefaultText>„Rufen Sie die Saboteure der Doemenels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Rufen Sie unsere Oger-Verbündeten."</DefaultText>
+      <DefaultText>„Rufen Sie unsere Oger-Verbündeten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,14 +284,14 @@ Nachdem die Paladine nun mit den Ogern beschäftigt sind, können sie die mittle
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!"</DefaultText>
+      <DefaultText>„Befehlen Sie den readceranischen Pfadfindern, ihnen ein paar Salven zu verpassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
       <DefaultText>Die readceranischen Bogenschützen feuern Salven in die Reihen der Düsteren Schreiter. Die Präzision der Bogenschützen schockiert die schwer bewaffneten Krieger – die Readceraner finden Schwachstellen zwischen den dicken Rüstungsplatten.
 
-Gathbins Elitewache befindet sich hinter ihnen, die Linie vor ihnen ... die Düsteren Schreiter sind zum Anstürmen gezwungen.
+Gathbins Elitewache befindet sich hinter ihnen, die Linie vor ihnen&#160;… die Düsteren Schreiter sind zum Anstürmen gezwungen.
 
 Das hält die Pfadfinder aber nicht davon ab, Salve um Salve sowohl in die Ritter als auch in deren Verbündete in der Frontlinie abzufeuern. Jede Salve landet mit verheerender Wirkung. Dutzende von Feinden fallen mit tödlichen Pfeilwunden auf die blutgetränkte Erde.</DefaultText>
       <FemaleText />
@@ -383,10 +383,10 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
       <ID>195</ID>
       <DefaultText>Ein Mann nähert sich. Er neigt sich zu dir und umklammert deine Hand mit festem Griff.
 
-"Fürchten Sie sich nicht, mein Fürst. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei." Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee. /</DefaultText>
+„Fürchten Sie sich nicht, mein Fürst. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee.</DefaultText>
       <FemaleText>Ein Mann nähert sich. Er neigt sich zu dir und umklammert deine Hand mit festem Griff.
 
-"Fürchten Sie sich nicht, meine Fürstin. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei." Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee. /</FemaleText>
+„Fürchten Sie sich nicht, meine Fürstin. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee.</FemaleText>
     </Entry>
     <Entry>
       <ID>196</ID>
@@ -402,7 +402,7 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
       <ID>199</ID>
       <DefaultText>Fürst Gathbin liegt tot vor dir. Seine Armee ist zerschlagen. Blutverschmiert und erschöpft blicken deine verbleibenden Truppen zu dir, die Schwert im Triumph erhoben, und skandieren deinen Namen.
 
-"[Player Name]! [Player Name]! [Player Name]!"</DefaultText>
+„[Player Name]! [Player Name]! [Player Name]!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,17 +417,17 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Für Caed Nua!"</DefaultText>
+      <DefaultText>„Für Caed Nua!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Schickt diese aedyranischen Hunde zu Berath!"</DefaultText>
+      <DefaultText>„Schickt diese aedyranischen Hunde zu Berath!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Heute Nacht werden die Raben die Leichen unserer Feinde zerpicken, während wir im glorreichen Sieg trinken, feiern und ficken!"</DefaultText>
+      <DefaultText>„Heute Nacht werden die Raben die Leichen unserer Feinde zerpicken, während wir im glorreichen Sieg trinken, feiern und ficken!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,22 +457,22 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"[Player Name]!" Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. "Ich lasse mir diesen Sieg nicht nehmen. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!"</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Ich lasse mir diesen Sieg nicht nehmen. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"[Player Name]!" Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. "Wir wussten beide, dass es so kommen würde. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!"</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Wir wussten beide, dass es so kommen würde. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"[Player Name]!" Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. "Mit diesem Gesindel wollten Sie mich besiegen? Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!"</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Mit diesem Gesindel wollten Sie mich besiegen? Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Marschall Forwyn schüttelt den Kopf. "Wir haben keine Verbündeten, die wir ihnen entgegenschicken könnten! Unsere einzige Hoffnung ist es, Gathbins Linie zu durchbrechen und ihn zu töten!"</DefaultText>
+      <DefaultText>Marschall Forwyn schüttelt den Kopf. „Wir haben keine Verbündeten, die wir ihnen entgegenschicken könnten! Unsere einzige Hoffnung ist es, Gathbins Linie zu durchbrechen und ihn zu töten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
