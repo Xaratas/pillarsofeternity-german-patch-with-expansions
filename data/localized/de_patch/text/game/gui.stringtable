@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2155</EntryCount>
+  <EntryCount>2160</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2376,7 +2376,7 @@
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Orlaner sind die kleinste der Rassen der Gestandenen, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir&#160;Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwalds. Sie sind bekannt für ihre mentale Stärke und ihre Sinnesschärfe.</DefaultText>
+      <DefaultText>Orlaner sind die kleinste der gestandenen Rassen, auch wenn viele Kulturen sie überhaupt nicht als zivilisiert ansehen. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir&#160;Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwalds. Sie sind für ihre mentale Stärke und ihre Sinnesschärfe bekannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9923,6 +9923,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2051</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2052</ID>
+      <DefaultText>Erfahren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2053</ID>
       <DefaultText>Auswahl folgen</DefaultText>
       <FemaleText />
@@ -10120,6 +10130,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2171</ID>
       <DefaultText>{0} zum Inventar hinzugefügt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2175</ID>
+      <DefaultText>{0} mit Kritischen Treffern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10384,7 +10399,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Der Märchenstunde-Modus ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben. Die Stufen der Feinde, ihre Schadenswirkung, ihre Erholungszeit und die Dauer von feindlichen Wirkungen sind allesamt schlechter als gewöhnlich. Außerdem ist es für Feinde sehr viel schwerer, Kritische Treffer zu landen. Gruppenmitglieder landen dagegen leichter Kritische Treffer gegen Feinde mit niedriger Ausdauer. Zusätzlich kann die Gruppe eine unbegrenzte Menge an Rastvorräten mit sich führen.</DefaultText>
+      <DefaultText>Der Märchenstunde-Modus ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben. Zusätzlich kann die Gruppe eine unbegrenzte Menge an Rastvorräten mit sich führen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10854,7 +10869,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2423</ID>
-      <DefaultText>Eyeless</DefaultText>
+      <DefaultText>Augenloser</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10874,17 +10889,27 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2434</ID>
-      <DefaultText>Verhindere {1} ({0} Mal)</DefaultText>
+      <DefaultText>{1} verhindern ({0} Mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2435</ID>
-      <DefaultText>Lord Byrnwigars Streitkräfte wurden gesichtet wie sie sich der Festung nähern. Sie werden bald da sein!</DefaultText>
+      <DefaultText>Lord Byrnwigars Truppen wurden gesichtet wie sie sich der Festung nähern. Sie werden bald eintreffen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2436</ID>
-      <DefaultText>Byrnwigars Streitkräfte</DefaultText>
+      <DefaultText>Byrnwigars Truppen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2451</ID>
+      <DefaultText>{0} feindliche Nahkämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2452</ID>
+      <DefaultText>Drachen oder Jungdrachen</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
