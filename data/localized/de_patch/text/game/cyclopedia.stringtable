@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>314</EntryCount>
+  <EntryCount>315</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1654,6 +1654,11 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>322</ID>
+      <DefaultText>Die Wirkung Abgelenkt verringert alle Verteidigungen des Ziels um 6 und senkt die Anzahl ihrer Angriffsbindungsziele um 1. Bei den meisten Charakteren heißt das, dass sie keine Feinde in Angriffsbindung halten können, während sie Abgelenkt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>323</ID>
       <DefaultText>Bewusstlos</DefaultText>
       <FemaleText />
@@ -1690,27 +1695,27 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu 
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>This is the illness you contracted near the ruins of Cilant Lîs. It is characterized by simultaneous chills and intense flashes of warmth as well as shortness of breath. The caravan master, Odema, identified it as a common illness, the Rumbling Rot, but there's something strange about it. In spite of the symptoms, it doesn't feel like any sickness you've ever had before.</DefaultText>
+      <DefaultText>Mit dieser Krankheit hast du dich bei den Ruinen von Cilant Lîs angesteckt. Symptome sind Schüttelfrost mit gleichzeitigen Hitzewallungen sowie Kurzatmigkeit. Der Karawanenmeister, Odema, identifizierte sie als einen häufigen Infekt, die Grollfäule. Irgendetwas ist aber seltsam daran. Trotz der Symptome fühlt sich die Krankheit anders an, als jede andere, die du bisher erlebt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>Ground</DefaultText>
+      <DefaultText>Boden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Any attack marked as "Ground" is one that affects the ground itself or creates a hazard immediately above it. Spells like Slicken or Tanglefoot are both classified as Ground attacks. Some creatures, especially flying monsters or spirits, are immune to attacks classified as Ground.</DefaultText>
+      <DefaultText>Jeder Angriff, der als „Boden“ gekennzeichnet ist, wirkt sich auf den Boden selbst aus oder schafft unmittelbar über dem Boden eine Gefahr. Zauber wie Einölen oder Chaosfuß werden beide als Boden-Angriffe klassifiziert. Einige Kreaturen, insbesondere fliegende Monster oder Geister, sind immun gegen Angriffe, die als „Boden“ klassifiziert sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Spellstamina</DefaultText>
+      <DefaultText>Zauberausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>Items with the spellstamina property will automatically trigger the associated effect when the user hits the listed percentage of Endurance.</DefaultText>
+      <DefaultText>Gegenstände mit der Eigenschaft Zauberausdauer lösen automatisch den jeweiligen Effekt aus, wenn der Benutzer den angegebenen Prozentsatz an Ausdauer erreicht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
