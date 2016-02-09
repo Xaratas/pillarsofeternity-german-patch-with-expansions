@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>765</EntryCount>
+  <EntryCount>766</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -998,7 +998,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Obwohl dieses Wandgemälde uralt sein muss, sehen die Farben immer noch glänzend und kräftig aus. It shows a procession of Engwithans from all the kith races: aumaua, elf, orlan, dwarf, and human. They walk among pillars similar to the ones that span this chamber, each one topped with a flame.</DefaultText>
+      <DefaultText>Diese Wandmalerei muss uralt sein, doch die Farben sind noch immer kräftig und strahlend. Die Malerei zeigt eine Prozession von Engwithanern aus allen gestandenen Rassen: Aumaua, Elfen, Orlaner, Zwerge und Menschen. Sie schreiten durch Säulen ähnlich wie die in dieser Kammer. Oben auf jeder Säule befindet sich eine Flamme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
