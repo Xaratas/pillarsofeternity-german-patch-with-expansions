@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1899</EntryCount>
+  <EntryCount>1903</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -3802,7 +3802,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>770</ID>
-      <DefaultText>Cladhalíath</DefaultText>
+      <DefaultText>Cladhaliath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10346,7 +10346,7 @@ Yngmar wird „IING-mar“ gesprochen, mit einem langen Vokallaut zu Beginn.</De
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>Befreit Verbündete im Wirkungsbereich von Einschränkungen, gewährt eine Bonus gegen Angriffe mit behindernder oder bewegungsunfähig Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Befreit Verbündete im Wirkungsbereich von Einschränkungen, gewährt einen Bonus gegen Angriffe mit behindernder oder bewegungsunfähig Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10670,7 +10670,7 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1866</ID>
-      <DefaultText>Obwohl die meisten Dyrwälder aus dem Aedyr-Reich stammen, hat sich die dyrwälderischer Kleidung seit den ersten Kolonisierungswellen stark verändert. Dyrwälder bevorzugen grobe Kleidung, die oft aus Wolle und Hirschleder gefertigt wird. Aufgrund des instabilen Wetter des Östlichen Abschnitts trägt man im Alltag des Dyrwalds gerne Westen und andere Überbekleidungen.</DefaultText>
+      <DefaultText>Obwohl die meisten Dyrwälder aus dem Aedyr-Reich stammen, hat sich die dyrwälderischer Kleidung seit den ersten Kolonisierungswellen stark verändert. Dyrwälder bevorzugen grobe Kleidung, die oft aus Wolle und Hirschleder gefertigt wird. Aufgrund des instabilen Wetters des Östlichen Abschnitts trägt man im Alltag des Dyrwalds gerne Westen und andere Überbekleidungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10814,6 +10814,11 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2182</ID>
+      <DefaultText>Dieser Ring ist schwer und grob gefertigt. Er sieht aus, als wäre er aus einem schlecht gereinigten Silberklumpen gegossen werden. Winzige Unreinheiten glitzern und funkeln noch um den gesamten Ring herum. Angesichts der mit bloßem Auge zu erkennenden Werkzeugspuren muss man vermuten, dass der Ring von einem Amateur gefertigt wurde, nicht von einem Handwerksmeister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2243</ID>
       <DefaultText>Er-trägt-viele-Narben Helm</DefaultText>
       <FemaleText />
@@ -10826,6 +10831,11 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     <Entry>
       <ID>2245</ID>
       <DefaultText>Argwes Adras Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2254</ID>
+      <DefaultText>Dieser große, edelsteinbesetzte Nautilus besitzt die Fähigkeit, eine Regenfäule zu beschwören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10936,13 +10946,18 @@ Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2368</ID>
+      <DefaultText>Verfaulte Kohlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2391</ID>
       <DefaultText>Dieses Zepter ist aus einem einzigen Stück Saphir geformt, der Griff ist mit Silberbändern verziert. Im Inneren des Zepters leuchtet ein schwaches Licht, wenn man es in die Hand nimmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2394</ID>
-      <DefaultText>Dieser Ring wurde über Generationen hinweg in der Familie Gathbin von Vater zu Sohn weitergereicht. Dank dir ist diese Tradition für immer zerschlagen.</DefaultText>
+      <DefaultText>Dieser Ring wurde über Generationen hinweg in der Familie Gathbin von Vater zu Sohn weitergereicht. Dank dir ist diese Tradition für immer zerschlagen. Der Ring wurde zwar für die Gathbins gefertigt, doch seine Macht ist mit der Herrschaft über Caed Nua verbunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11007,207 +11022,212 @@ Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn
     </Entry>
     <Entry>
       <ID>2421</ID>
-      <DefaultText>Amaia's Codex</DefaultText>
+      <DefaultText>Amaias Codex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2426</ID>
+      <DefaultText>Kreuzbinde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2441</ID>
-      <DefaultText>Durance's Robe</DefaultText>
+      <DefaultText>Durances Robe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2442</ID>
-      <DefaultText>Durance's robe is frayed and tattered from heavy use. The lower hem appears to have been singed repeatedly and is caked with the ashes of countless fires.</DefaultText>
+      <DefaultText>Durances Robe ist zerfetzt und zerschlissen. Der untere Saum scheint schon mehrfach angesengt worden zu sein und trägt eine dicke Kruste Asche von unzähligen Feuern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2446</ID>
-      <DefaultText>Kraken Eye</DefaultText>
+      <DefaultText>Krakenauge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2447</ID>
-      <DefaultText>Iverra's Diving Helmet</DefaultText>
+      <DefaultText>Iverras Taucherhelm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2465</ID>
-      <DefaultText>Found near the Lake of Drowned Tombs, this fragment from a tombstone contains only a few letters of a person's name: ycg Br. It has been imbued with supernatural powers by the spirit haunting Airana's Tears.</DefaultText>
+      <DefaultText>Dieses Fragment eines Grabsteins wurde am See der versenkten Gräber gefunden. Es enthält nur wenige Buchstaben eines Namens: ycg Br. Es wurde durch den Geist, der Airanas Tränen heimsucht, mit übernatürlichen Kräften getränkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2466</ID>
-      <DefaultText>A small, delicate vial attached to a thin golden necklace, it allegedly contains the tears of St. Borragia, a Magranite saint. The relic was lost sometime during the Saint's War when the Church of the Winding Flame was sacked by Readcerans.</DefaultText>
+      <DefaultText>Eine kleine, delikate Phiole, die an einer dünnen, goldenen Halskette hängt, enthält angeblich die Tränen von St. Borragia, einer magranitischen Heiligen. Das Relikt ging irgendwann während des Kriegs des Heiligen verloren, als die Kirche der Windenden Flamme von Readceranern geplündert wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2467</ID>
-      <DefaultText>Of Glanfathan make, these leather boots were deeply stained with green dye to give them their distinctive appearance. The Twice-Split Arrows tribe gave them to you as a reward for your help tracking down a crazed druid who had stolen one of their sacred bear skins.</DefaultText>
+      <DefaultText>Diese Lederstiefel aus glanfathanischer Fertigung wurden grün gefärbt und haben daher ein einzigartiges Aussehen. Der Stamm der Zweimal Gespaltenen Pfeile hat sie dir als Belohnung überlassen, weil du geholfen hast, einen verrückten Druiden zu finden, der eines ihrer heiligen Bärenfelle gestohlen hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2468</ID>
-      <DefaultText>Glittering Gauntlets</DefaultText>
+      <DefaultText>Glitzernde Handschuhe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2469</ID>
-      <DefaultText>This powerful rod was the creation of an aged elven wizard who had trapped herself in the form of a raging storm that drifted over the Dyrwood for some time. While the rod is not as fantastic a demonstration of the wizard's power as her transformation, it contains potent storm magic.</DefaultText>
+      <DefaultText>Dieser mächtige Stab wurde von einer alten Elfenzauberin geschaffen, die sich in in einen tosenden Sturm verwandelt, sich aber nicht zurückverwandeln konnte. So trieb sie lange Zeit über den Dyrwald. Verglichen damit stellt der Stab zwar eine weniger fantastische Demonstration ihres Zauberkönnens dar, aber er enthält mächtige Sturmmagie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2470</ID>
-      <DefaultText>Mourning Gloves</DefaultText>
+      <DefaultText>Handschuhe der Trauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2471</ID>
-      <DefaultText>Of unknown provenance, this ring was found among the belongings of a woman that a Giftbearer of Ondra had dropped in the Blackwyr. You recovered the belongings for the woman's grieving daughter, but she claimed that the ring was not her mothers. Where it came from is a mystery, as are the origins of its powers.</DefaultText>
+      <DefaultText>Dieser Ring von unbekannter Herkunft wurde bei den Besitztümern einer Frau gefunden, die ein Gabenbringer Ondras im Schwarzwyr abgelegt hatte. Du hast ihre Besitztümer für die trauernde Tochter der Frau zurückgeholt. Die Tochter sagte jedoch, der Ring hätte nicht ihrer Mutter gehört. Woher er gekommen ist, ist ein Rätsel&#160;… ebenso wie die Quelle seiner Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2472</ID>
-      <DefaultText>This broad, floppy hat was formerly in the possession of an old druid that you helped protect during a week-long druid processional along an ancient Engwithan trail. Despite your best efforts, the druid died during a mercenary attack. Her brothers and sisters, appreciative that you saved their lives, gave you her hat as a gift.</DefaultText>
+      <DefaultText>Dieser breite Schlapphut befand sich früher im Besitz einer alten Druidin. Du hast dieser Druidin geholfen, eine sieben Tage währende Prozession auf einem uralten engwithanischen Pfad zu beschützen. Trotz deiner Bemühungen ist die Druidin bei einem Söldnerangriff ums Leben gekommen. Ihre Brüder und Schwestern gaben dir ihren Hut als Dank, dass du ihre Leben gerettet hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2473</ID>
-      <DefaultText>This small piece of tin is all that you retained of the disturbing Night Mirror, an Engwithan artifact that was holding Glanfathans in thrall in the southwest corner of Eir Glanfath. After you helped destroy the mirror, a mysterious group of orlans arrived and whisked the remnants away -- except for the fragment you happened to be standing on. Even this tiny portion of the mirror still exerts a strong pull on your mind each time you gaze into it.</DefaultText>
+      <DefaultText>Dieses kleine Stück Zinn ist alles, was du von dem verstörenden Nachtspiegel behalten hast – einem engwithanischen Artefakt, das in der südwestlichen Ecke von Eir Glanfath einige Glanfathaner in seinen Bann gezogen hatte. Nachdem du geholfen hast, den Spiegel zu zerstören, ist eine mysteriöse Gruppe von Orlanern erschienen und hat eilig die Überreste des Spiegels weggeschafft&#160;… abgesehen von dem Splitter, der sich zufällig unter deinem Fuß befand. Selbst dieser winzige Splitter des Spiegels übt noch immer eine starke Anziehungskraft auf deinen Verstand aus, sobald du hineinblickst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2474</ID>
-      <DefaultText>A belt of meditative chimes that were once owned by a monk unfortunate enough to wander into a mob of angry spirits southwest of Gilded Vale. You recovered the belt after helping the spirits resolve their old disputes and put them to rest.</DefaultText>
+      <DefaultText>Ein Gürtel aus meditativen Glocken, der sich einst im Besitz eines Mönchs befand. Der Mönch hatte das Pech, südwestlich von Goldtal auf einen Mob wütender Geister zu treffen. Du hast den Gürtel zurückgeholt, nachdem du den Geistern geholfen hast, ihre alten Streitigkeiten beizulegen und ihren Frieden zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2475</ID>
-      <DefaultText>This diving helmet appears to have been a Vailian experiment in assisting underwater exploration. Though it only holds a small amount of air, a clever magical enchantment pressurizes the bell enough to allow for deeper dives than are normally possible.</DefaultText>
+      <DefaultText>Dieser Taucherhelm scheint ein vailianisches Experiment zur Erforschung von Unterwasserwelten gewesen zu sein. Er enthält zwar nur eine geringe Menge an Luft, aber eine ausgeklügelte magische Verzauberung setzt die Glocke unter solchen Druck, dass man damit deutlich tiefer tauchen kann als gewöhnlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2476</ID>
-      <DefaultText>These gloves were recovered from the animancy cult known as The Mourning Circle, who traveled the Eastern Reach promising to bring back the dead. The promises were a cover for horrific experiments including abductions, murders, and vivisections. Despite the name of the group, the power of the gloves is unleashed after the wearer kills an enemy.</DefaultText>
+      <DefaultText>Diese Handschuhe gehörten einst dem als 'Trauerzirkel' bekannten Beseelungskult, der durch den Östlichen Abschnitt reiste und den Leuten versprach, ihre Toten zurückzuholen. Diese Versprechen waren jedoch nur die Tarnung für grauenhafte Experimente, Entführungen, Morde und Vivisektionen. Die Macht der Handschuhe wird entfesselt, nachdem der Träger damit einen Feind getötet hat&#160;… was den Namen der Gruppe wie Spott und Hohn wirken lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2477</ID>
-      <DefaultText>This grisly neckalace is fashioned from the teeth of a dead orlan, the unfortunate father of a deranged cipher who used her powers to terrorize travelers near the Glanfathan ruins of Ibrel's Well. The cipher's "daughters" (mind-controlled pwgra) made the necklace for her as a gift.</DefaultText>
+      <DefaultText>Diese grauenhafte Halskette besteht aus den Zähnen eines toten Orlaners – dem unglückseligen Vater eines wahnsinnigen Mediums. Seine Tochter nutzte ihre Kräfte, um Reisende in der Nähe der glanfathanischen Ruinen von Ibrels Brunnen zu terrorisieren. Die „Töchter“ des Mediums (gedankenkontrollierte Pwgra) fertigten die Kette als Geschenk für sie an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2478</ID>
-      <DefaultText>This cruel instrument was created by a resident of Helsgate who was pursuing a rumor that promised a cure for the Hollowborn crisis. He intended to use the rope to bind a virgin girl and bury her alive, later pulling the corpse from the ground to harvest some of her hair for the "cure." Despite its nefarious purpose, the binding rope still possesses useful powers.</DefaultText>
+      <DefaultText>Dieses grausame Instrument wurde von einem Bewohner von Helstor gefertigt, der glaubte, eine Lösung für das Problem der Hohlgeburten gefunden zu haben. Er wollte mit dem Seil eine Jungfrau fesseln und sie bei lebendigem Leibe vergraben&#160;… um später ihre Leiche auszugraben und ihre Haare als „Heilmittel“ zu verwenden. Trotz seines schändlichen Zwecks besitzt das Seil nützliche Kräfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2479</ID>
-      <DefaultText>This fine cloak was a gift from the Spirentan weaver Bonisetta. It was given to you in thanks for your assistance in rescuing her from a ruthless Vailian trading company that abducted and enslaved her.</DefaultText>
+      <DefaultText>Dieser edle Umhang war ein Geschenk der Weberin Bonisetta aus Spirento. Sie hat ihn dir als Dank überreicht, weil du sie aus den Fängen einer skrupellosen vailianischen Handelsgesellschaft gerettet hast, die sie entführt und versklavt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2480</ID>
-      <DefaultText>This dingy, stained cloak was once used as a large swaddling sheet for an unfortunate Hollowborn child that was dropped into the Whitewreath village well. As it sat at the bottom of the well among the foundations of living adra and a clan of wichts, it acquired strange powers.</DefaultText>
+      <DefaultText>Dieser schäbige, fleckige Umhang wurde einst als großes Wickeltuch verwendet&#160;… für ein unglückseliges hohlgeborenes Kind, das in den Brunnen des Dorfes Weißkranz geworfen worden war. Als es am Grund des Brunnens lag, zwischen den Fundamenten aus lebendem Adra und einem Clan aus Wichten, gewann das Tuch seltsame Kräfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2481</ID>
-      <DefaultText>These were once the gloves of a senior Magranite priest who was killed performing a traditional dirge at Evon Dewr Bridge to commemorate the destruction of St. Waidwen. After you helped root out the Readcerans who were responsible, the remaining priests of Magran gave you his gloves.</DefaultText>
+      <DefaultText>Diese Handschuhe gehörten einst einem hochrangigen Priester Magrans. Er wurde getötet, als er bei der Brücke von Evon Dewr ein traditionelles Trauerlied als Erinnerung an die Auslöschung von St. Waidwen sang. Nachdem du geholfen hast, die Readceraner aufzuspüren, die für seinen Tod verantwortlich waren, gaben die übrigen Magran-Priester dir die Handschuhe des Toten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2482</ID>
-      <DefaultText>Red Reed Wand</DefaultText>
+      <DefaultText>Roter Schilfstab</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2483</ID>
-      <DefaultText>This wand was a gift from a Zochine Monastery philosopher. He created it from one of the beautiful red reeds that grows along the edge of the lake near his monastery. It was given as a gift for your help in tracking down a dangerous memory-eating beetle that was terrorizing locals.</DefaultText>
+      <DefaultText>Dieser Stab war ein Geschenk eines Philosophen aus dem Zochine-Kloster. Er hat ihn aus dem wunderschönen roten Schilf gefertigt, der am Ufer des Sees in der Nähe seines Klosters wächst. Du hast den Stab als Dank erhalten, weil du geholfen hast, einen gefährlichen erinnerungsfressenden Käfer aufzuspüren, der die Einheimischen terrorisiert hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2484</ID>
-      <DefaultText>Once worn by Adrem Delfar, elder paladin of the Kind Wayfarers, they were a gift from other members of the order for your help in laying Adrem's body to rest near Redflower Lake. The boots are so incredibly worn from a lifetime of travel that they appear to be on the verge of falling apart. Despite this, they are incredibly strong and comfortable.</DefaultText>
+      <DefaultText>Diese Stiefel wurden einst von Adrem Delfar getragen, einem hochrangigen Paladin der Gütigen Wanderer. Sie waren ein Geschenk von anderen Mitgliedern des Ordens, weil du geholfen hast, Adrems Leiche am Rotblumensee zur Ruhe zu betten. Die Stiefel sind von einem Leben voller Reisen so abgewetzt, dass sie aussehen, als würden sie bald auseinanderfallen. Dennoch sind sie unglaublich stark, robust und bequem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2485</ID>
-      <DefaultText>Tied to a simple leather cord, this finger once belonged to a notorious Glanfathan murderer. Locals exhumed his body to create sacred objects, but you assisted a Glanfathan anamfatha in recovering it. Despite insisting that the body be buried in a new, secret location, the anamfatha never asked you to return the finger that had been found at the killer's original grave.</DefaultText>
+      <DefaultText>Dieser an einer einfachen Lederkordel befestigte Finger gehörte einst einem berüchtigten glanfathanischen Mörder. Die Einheimischen haben seine Leiche ausgegraben, um heilige Relikte daraus zu fertigen. Du hast jedoch einer glanfathanischen Anamfatha geholfen, sie zurückzubeschaffen. Die Anamfatha bestand zwar darauf, dass die Leiche an einem neuen, geheimen Ort wieder bestattet wird, hat dich jedoch nie gebeten, den Finger zurückzugeben, der im ursprünglichen Grab des Mörders gefunden wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2486</ID>
-      <DefaultText>This dazzling cloak was a gift from two Vailian ducs, a reward for your help in recovering lost Glanfathan astronomical knowledge. Looking at the cloak from different angles produces a variety of shimmering colors and creates the illusion that you are gazing into an impossibly deep expanse of space.</DefaultText>
+      <DefaultText>Dieser blendende Umhang war ein Geschenk von zwei vailianischen Ducs – eine Belohnung dafür, dass du geholfen hast, glanfathanisches Wissen um die Astronomie wiederzufinden, das als verloren galt. Wenn man den Umhang aus verschiedenen Blickwinkeln betrachtet, leuchtet und glänzt er in den unterschiedlichsten Farben. Es entsteht die Illusion, man würde in die unendlichen Weiten des Weltalls blicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2487</ID>
-      <DefaultText>This patch was a gift from a Glanfathan anamfatha, a reward for your help in recovering a precious adra ban eye that was stolen from a sculpture during the Broken Stone War. Like the original eye, the patch features a cross on its surface.</DefaultText>
+      <DefaultText>Diese Augenbinde war ein Geschenk einer glanfathanischen Anamfatha. Eine Belohnung für deine Hilfe bei der Wiederbeschaffung eines wertvollen Auges aus Adra, das während des Kriegs der Zerbrochenen Steine von einer Statue gestohlen wurde. Wie das ursprüngliche Auge ist die Binde mit einem Kreuz verziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2488</ID>
-      <DefaultText>This beautiful lavender wreath was a gift from the famed aumauan apothecary Tama Watua. He made it at a feast after you rescued him from Vailian mercenaries in the Deadfire Archipelago. Despite the age of the lavender, it still smells fresh.</DefaultText>
+      <DefaultText>Dieser wunderschöne Lavendelkranz war ein Geschenk des berühmten aumauischen Apothekers Tama Watua. Nachdem du ihn vor vailianischen Söldnern im Todesfeuer-Archipel gerettet hattest, fertigte er ihn während eines Festmahls an. Obwohl der Lavendel schon alt ist, riecht er noch immer frisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2489</ID>
-      <DefaultText>This beautiful chime was created by the twelve monks of the Ixtlochi whom you rescued from their mental labyrinths. Each chime possesses the ability to turn the user invisible once.</DefaultText>
+      <DefaultText>Dieses wunderschöne Glockenspiel wurde von den zwölf Mönchen der Ixtlochi angefertigt, die du aus ihren mentalen Labyrinthen befreit hast. Jede Glocke besitzt die Fähigkeit, den Besitzer des Glockenspiels einmal unsichtbar zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2490</ID>
-      <DefaultText>These beautiful gauntlets are made from a strange form of clear, petrified wood that is as strong as iron. Though you recovered them from the Valley of Glass in the Living Lands, it is unclear who made them, or for what purpose.</DefaultText>
+      <DefaultText>Diese wunderschönen Handschuhe bestehen aus einem seltsamen, versteinerten Holz, das so stark wie Eisen ist. Du hast sie im Tals aus Glas im Land der Lebenden gefunden, doch es ist nicht bekannt, wer sie gefertigt hat oder zu welchem Zweck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2491</ID>
-      <DefaultText>This strange amulet was once in the possession of a cult called the White Flame that was claiming "marked" individuals all over Eora. They believed these marked individals would be instrumental in reincarnating the god Eothas. After you helped raid a stronghold in the Cythwood, the power of the cult was broken, if not completely eradicated. This amulet was left behind on one of their altars.</DefaultText>
+      <DefaultText>Dieses seltsame Amulett befand sich einst im Besitz eines Kults mit dem Namen 'die Weiße Flamme'. Dieser Kult entführte in ganz Eora Personen, die seiner Ansicht nach ein „Mal“ trugen. Die Mitglieder der Weißen Flamme glaubten, diese Personen wären entscheidend, um den Gott Eothas wiederzubeleben. Nachdem du geholfen hast, im Cythwald eine Festung des Kults zu räumen, war seine Macht gebrochen&#160;… wenn auch nicht vollständig ausgelöscht. Dieses Amulett blieb auf einem der Altare zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2492</ID>
-      <DefaultText>The Vailian animancer Accetta, formerly of Biageppe, was responsible for enchanting this beautiful brass and adra helmet. Built more for its magical properties than as protective armor, it possesses a curious power. The songretta ducala of Biageppe awarded it to you after you established that Accetta, if not dead, was certainly no longer among the realm of the living.</DefaultText>
+      <DefaultText>Die vailianische Beseelerin Accetta, ursprünglich aus Biageppe stammend, hat diesen wunderschönen Helm aus Kupfer und Adra verzaubert. Er zeichnet sich mehr durch seine magischen Eigenschaften als durch seinen Nutzen als Rüstung aus, denn er besitzt eine seltsame Kraft. Die Songretta Ducala von Biageppe hat ihn dir vermacht, nachdem du festgestellt hast, dass Accetta zwar nicht tot war&#160;… aber sicherlich nicht mehr im Reich der Lebenden weilte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2493</ID>
-      <DefaultText>These curious coals are not burning, but constantly seem to emanate a dangerous warmth when touched. They were recovered from the Black Hills of Abet, where they were left in the wake of a terrible monster that terrorized the miners there.</DefaultText>
+      <DefaultText>Diese seltsamen Kohlen brennen nicht, scheinen aber ständig eine gefährliche Wärme abzugeben, wenn man sie berührt. Sie wurden in den Schwarzen Hügeln von Abet gefunden, wo ein schreckliches Monster sie zurückgelassen hat, das die dortigen Bergarbeiter terrorisiert hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2494</ID>
-      <DefaultText>This massive book contains an abridged version of the Rauatai scholar Amaia's life's work. Though it will be several years until Amaia's full text is published (in many volumes), she gave you this gift for assisting her in collecting a few key pieces of information from hard to reach places.</DefaultText>
+      <DefaultText>Dieses gewaltige Buch enthält eine gekürzte Fassung des Lebenswerk der rauataischen Gelehrten Amaia. Es wird noch mehrere Jahre dauern, bis Amaias vollständige Schriften (in zahlreichen Bänden) veröffentlicht werden. Sie hat dir diese gekürzte Fassung aber schon als Geschenk überreicht, weil du ihr geholfen hast, einige wichtige Informationen an schwer zu erreichenden Orten einzuholen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2504</ID>
-      <DefaultText>Massuk Hunting Bow</DefaultText>
+      <DefaultText>Massuk-Jagdbogen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2509</ID>
-      <DefaultText>Sagani's hunting bow is made for a dual role. In her home village, the hunters pursue game both to kill and to subdue, often using blunt arrows to stun small quarry. These captured animals are sometimes raised or traded to other villages. As a result, Sagani's Massuk bow can fire arrows that do Pierce or Crush damage, but it has slightly reduced range and damage.</DefaultText>
+      <DefaultText>Saganis Jagdbogen dient zwei Zwecken. Die Jäger in ihrem Heimatdorf jagen Wild, um es zu töten oder um es zu überwältigen. Oft setzen sie stumpfe Peile ein, um kleinere Beute außer Gefecht zu setzen. Diese gefangenen Tiere werden manchmal großgezogen oder zum Tauschhandel mit anderen Dörfern verwendet. Saganis Massuk-Bogen kann daher Feuerpfeile abfeuern, die Stich- oder Wuchtschaden verursachen. Seine Reichweite und sein Schaden sind dafür jedoch etwas geringer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2513</ID>
-      <DefaultText>Durance's staff appears to be made of a rough-hewn shaft of ever-burning wood. The crook at the end cradles a hovering flame. While many powerful weapons in the Eastern Reach can be enchanted to burn enemies, Durance's is unusual in that the entire force of the quarterstaff can be converted to searing flame at the wielder's will.</DefaultText>
+      <DefaultText>Durances Stab scheint aus einem grob gehauenen Stock aus ewig brennendem Holz geschnitzt worden zu sein. In der Mulde an der Spitze brennt eine schwebende Flamme. Zwar können viele mächtige Waffen im Östlichen Abschnitt verzaubert werden, um Feinde zu verbrennen – doch Durances Waffe ist ungewöhnlich. Die gesamte Macht des Kampfstabs kann durch den bloßen Willen des Besitzers in gleißende Flammen umgewandelt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2516</ID>
-      <DefaultText>Pallegina's Breastplate</DefaultText>
+      <DefaultText>Palleginas Brustpanzer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2517</ID>
-      <DefaultText>Aloth's leather armor has been lightly enchanted to enhance his spellcasting abilities. It also appears to have custom decorative patterns stitched into the surface. Unlike most Dyrwoodan leather armor, Aloth's has been tailored in "the Aedyre style," meaning that the torso is more heavily reinforced, but it lacks sleeves due to Aedyr's hot and humid climate.</DefaultText>
+      <DefaultText>Aloths Lederrüstung wurde mit einer leichten Verzauberung versehen, um seine Zauberfähigkeiten zu verstärken. In die Oberfläche wurden zudem einzigartige Ziermuster gestickt. Anders als die meisten Lederrüstungen aus dem Dyrwald wurde Aloths Rüstung „im aedyrischen Stil“ gefertigt, das heißt der Oberkörper ist besonders verstärkt, die Rüstung ist jedoch aufgrund des heißen und feuchten Klimas in Aedyr ärmellos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2518</ID>
-      <DefaultText>Edér wore this armor during his time in the Saint's War. Its dark color is unusual, as is its power. Though he admits that the armor has pulled him from the brink of death on several occasions, he claims that no one else has ever handled the armor. How it became enchanted is a mystery even to him.</DefaultText>
+      <DefaultText>Edér trug diese Rüstung während des Kriegs des Heiligen. Ihre dunkle Farbe ist ebenso ungewöhnlich wie ihre Macht. Obwohl Edér zugibt, dass die Rüstung ihn mehrmals aus den Klauen des Todes gerettet hat, behauptet er, dass niemand anderer sie jemals angerührt habe. Wie sie daher verzaubert werden konnte, ist selbst ihm ein Rätsel.</DefaultText>
       <FemaleText />
     </Entry>
 	</Entries>
