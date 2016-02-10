@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>272</EntryCount>
+  <EntryCount>311</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1290,6 +1290,21 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>342</ID>
+      <DefaultText>Säuberung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Einsam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Schadensgeschützt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>368</ID>
       <DefaultText>Bannend</DefaultText>
       <FemaleText />
@@ -1355,13 +1370,193 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>382</ID>
+      <DefaultText>Leugnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Zorn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Verhandeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Depression</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Akzeptanz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Verfallene Schädel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>der Tapferkeit +18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>389</ID>
       <DefaultText>Bindend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>390</ID>
+      <DefaultText>Annehmlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Großer Max. Ausdauer-Bonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Starke Zauberbindung: Erhabene Hände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Belebend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Starke Zauberbindung: Verstandslanze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Immunität gegen Blenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Ungenau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Zauberwirkung: Ausdauer tauschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Beruhigend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>399</ID>
       <DefaultText>Ärgerlich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Starke Zauberbindung: Dimensionswandel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Blendend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Märtyrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Beschwörung des Weltenschlunds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Zwillingsstein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Säule des Glaubens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Angstexorzismus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Wesenhaftes Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Einölen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Immunität: Festgesetzt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Letzte Riten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Luftdicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Zauberbindung: Ätherischer Mantel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Reparieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Immunität: Verwirren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Mein Sohn, erblickst du deine Schwestern hinter dem Moor?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Schrecken der Natur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Schwache Zauberbindung: Ätzende Wolke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Starke Zauberbindung: Rückruf der Agonie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Zauberwirkung: Wanderung der Natur</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
