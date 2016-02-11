@@ -2841,7 +2841,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch alle im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
+      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch alle Feinde im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,7 +2921,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Zerstört die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er verwirrt und benommen wird, bevor es schnell auf bis zu fünf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Zerstört die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er Verwirrt und Benommen wird, bevor es schnell auf bis zu fünf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7035,7 +7035,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken.</DefaultText>
+      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken. Additionally, the druid may cast healing spells and party support spells.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7050,7 +7050,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1527</ID>
-      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhephase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7090,12 +7090,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Rücksichtsloser Angriff ist standardmäßig automatisch deaktiviert. Wird es aktiviert, dann wird es zu Beginn des nächsten Kampfes wieder deaktiviert. Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
+      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Rücksichtsloser Angriff ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert. Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
+      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
