@@ -526,7 +526,7 @@ Die meisten der Leichen konnten wieder in ihre Gräber gebracht werden, aber nic
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Gegen Ende des Kriegs des Heiligen mussten die Dyrwäldler in der Schlacht im Gnadental eine schreckliche Niederlage gegen ihre Nachbarn aus dem Norden hinnehmen, die Readceraner. Viele Relikte von magranitischen Heiligen gingen verloren, als Plünderer die Kirche der Windenden Flamme ausraubten.
+      <DefaultText>Gegen Ende des Kriegs des Heiligen mussten die Dyrwälder in der Schlacht im Gnadental eine schreckliche Niederlage gegen ihre Nachbarn aus dem Norden hinnehmen, die Readceraner. Viele Relikte von magranitischen Heiligen gingen verloren, als Plünderer die Kirche der Windenden Flamme ausraubten.
 
 Nach Kriegsende waren die Relikte nach und nach wieder aufgetaucht und man glaubte, sie seien alle wieder gefunden worden. Erst vor kurzem erkannten Magrans Anhänger, dass drei Gegenstände fälschlicherweise als wiedergefunden eingetragen worden waren: Die Hand von St. Igradh, eine Haarlocke von St. Dadwn und die Tränen von St. Borragia.
 
@@ -577,7 +577,7 @@ Seit einigen Monaten wurde die Zauberin nun nicht mehr gesehen, aber Bauern beri
       <ID>110</ID>
       <DefaultText>Bei der Suche nach dem seltsamen Sturm entdeckte {0}, dass die alte Zauberin sich irgendwie in einen einzigartigen magischen Gifthauch verwandelt hatte. In dieser sturmähnlichen Gestalt war sie weiter durch den Dyrwald geschwebt, nicht länger in der Lage, sich in ihren ursprünglichen Elfenkörper zurückzuverwandeln.
 
-{0} gelang es, durch Beobachtung einer vewirrenden Folge von Donnerschlägen und Blitzen auf mühsame Weise mit ihr zu kommunizieren. Die Zauberin führte {0} zu ihrem Labor am Rande von Goldtal. Mittels einiger einfacher Experimente in dem Labor konnte {0} die dankbare Zauberin wieder in ihre ursprüngliche Gestalt verwandeln. Die Zauberin schenkte {0} zum Dank einen sturmerzeugenden Stab.</DefaultText>
+{0} gelang es, durch Beobachtung einer verwirrenden Folge von Donnerschlägen und Blitzen auf mühsame Weise mit ihr zu kommunizieren. Die Zauberin führte {0} zu ihrem Labor am Rande von Goldtal. Mittels einiger einfacher Experimente in dem Labor konnte {0} die dankbare Zauberin wieder in ihre ursprüngliche Gestalt verwandeln. Die Zauberin schenkte {0} zum Dank einen sturmerzeugenden Stab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@ Die Dunrydstraße und das Sanatorium von Farnheim haben versucht, Überlebende d
 
 In einer langgezogenen Schlacht konnten {0} und das Medium den Spiegel zertrümmern und damit den Zauber brechen, der über seinen Schergen lag.
 
-Kaum hatte der Staub sich gelegt, tauchten einige der "Geschäftspartner" des Mediums auf, offenbar Agenten irgendeiner unbekannten Organisation. Der Orlaner entschuldigte sich verschämt bei {0}, erklärte aber, dass die Überreste des Nachtspiegels an einen sicheren Ort gebracht werden müssten. Er war so stolz, wie alles ausgegangen war, dass ihm entging, dass {0} während seiner gesamten Rede auf einer Scherbe des Spiegels stand. Natürlich brachte {0} die Scherbe als Erinnerungsstück nach Caed Nua.</DefaultText>
+Kaum hatte der Staub sich gelegt, tauchten einige der „Geschäftspartner“ des Mediums auf, offenbar Agenten irgendeiner unbekannten Organisation. Der Orlaner entschuldigte sich verschämt bei {0}, erklärte aber, dass die Überreste des Nachtspiegels an einen sicheren Ort gebracht werden müssten. Er war so stolz, wie alles ausgegangen war, dass ihm entging, dass {0} während seiner gesamten Rede auf einer Scherbe des Spiegels stand. Natürlich brachte {0} die Scherbe als Erinnerungsstück nach Caed Nua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -653,7 +653,7 @@ Die Einheimischen haben sich schnell angewöhnt, die Adra-Säulen weitläufig zu
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>{0} war darauf vorbereitet im dem Kreis aus Adra-Säulen einen Pulk zorniger Geister zu bekämpfen, stellte aber schnell fest, dass die Schatten lediglich einige alte Dispute klären wollten. Für Geister legten sie erstaunliches Bewusstsein an den Tag und trugen ihre Fälle oft über mehrere Stunden lang vor. {0} fungierte als Schiedsrichter für die Gruppe, traf Entscheidungen und bettete die Geister zur Ruhe. 
+      <DefaultText>{0} war darauf vorbereitet in dem Kreis aus Adra-Säulen einen Pulk zorniger Geister zu bekämpfen, stellte aber schnell fest, dass die Schatten lediglich einige alte Dispute klären wollten. Für Geister legten sie erstaunliches Bewusstsein an den Tag und trugen ihre Fälle oft über mehrere Stunden lang vor. {0} fungierte als Schiedsrichter für die Gruppe, traf Entscheidungen und bettete die Geister zur Ruhe.
 
 Nachdem das letzte Paar streitender Schatten ins Jenseits verschwunden war, entdeckte {0} die Überreste früherer Eindringlinge, darunter auch einen edlen Gürtel aus meditativen Glocken, der einem bedauernswerten Mönch gehört hatte.</DefaultText>
       <FemaleText />
@@ -686,14 +686,14 @@ Dem jungen Mann zufolge war sein Großvater Opfer einer Verleumdung und wurde un
       <ID>127</ID>
       <DefaultText>Eine Serie von Morden hat die Schreiber der Weißfelsinsel in Angst und Schrecken versetzt. Durch die abgeschiedene Lage ihres Inselklosters im Stiefel Ondras hatten sie Mühe, Hilfe vom Festland anzufordern.
 
-Die Schreiber sind zwar für ihre Integrität und Kunstfertigkeit berühmt, haben jedoch vielleicht unwissentlich jemandem Unterschlupf geboten, der ihre Arbeit an "verbotenen" Büchern zu sabotieren versucht.</DefaultText>
+Die Schreiber sind zwar für ihre Integrität und Kunstfertigkeit berühmt, haben jedoch vielleicht unwissentlich jemandem Unterschlupf geboten, der ihre Arbeit an „verbotenen“ Büchern zu sabotieren versucht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Erst nach zwei weiteren Morden gelang es {0} und den Mönchen, den Mörder aufzuspüren – einen verschlossenen Schreiber des Ordens, von dem die anderen Mönche geglaubt hatten, er wäre vor Jahren gestorben. 
+      <DefaultText>Erst nach zwei weiteren Morden gelang es {0} und den Mönchen, den Mörder aufzuspüren – einen verschlossenen Schreiber des Ordens, von dem die anderen Mönche geglaubt hatten, er wäre vor Jahren gestorben.
 
-In Wahrheit hatte der Schreiber sich in den Katakomben unter dem Kloster versteckt gehalten und nach und nach "ketzerische" Werke vernichtet, die seiner Ansicht nach Lügen über die Herkunft der Götter verbreiteten. Als die Mönche Verdacht schöpften, tötete er jeden, der ihm gefährlich zu werden drohte.
+In Wahrheit hatte der Schreiber sich in den Katakomben unter dem Kloster versteckt gehalten und nach und nach „ketzerische“ Werke vernichtet, die seiner Ansicht nach Lügen über die Herkunft der Götter verbreiteten. Als die Mönche Verdacht schöpften, tötete er jeden, der ihm gefährlich zu werden drohte.
 
 Anstatt sich seiner Strafe zu stellen, sprang der Schreiber vom höchsten Turm des Klosters in den Tod. In seinem unterirdischen Labor entdeckte {0} mehrere verdächtige Phiolen mit einer dicken braunen Flüssigkeit darin. Der Kräuterkundler des Klosters identifizierte sie als ein starkes Gift, mit dem vermutlich auch die Mönche ermordet worden waren.</DefaultText>
       <FemaleText />
@@ -726,16 +726,16 @@ Am Ende gelang es {0}, über die Hälfte des Diebesguts zurückzubeschaffen. Ein
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Apahuillo-Bauern in den Ixamitl-Ebenen entdeckten in einem abgeschiedenen Tal im Süden einen großen und aufwändigen Ring aus kleinen Adra-Säulen. 
+      <DefaultText>Apahuillo-Bauern in den Ixamitl-Ebenen entdeckten in einem abgeschiedenen Tal im Süden einen großen und aufwändigen Ring aus kleinen Adra-Säulen.
 
 Es wird vermutet, dass die Säulen in irgendeiner Weise engwithanischer Herkunft sind. Sie scheinen aber mit keinen Ruinen verbunden zu sein. Seit die Stätte aber entdeckt wurde, verschwinden in einem Umkreis von bis zu 50 Meilen immer wieder Bauern. Tage oder Wochen später tauchen sie in dem Steinkreis wieder auf&#160;… für immer versteinert. 
 
-Da die Apahuillo wenig Erfahrung mit Adra-Säulen haben, bitten sie Readceraner, Dyrwäldler und Glanfathaner um Hilfe.</DefaultText>
+Da die Apahuillo wenig Erfahrung mit Adra-Säulen haben, bitten sie Readceraner, Dyrwälder und Glanfathaner um Hilfe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Die Reise in die Ixamitl-Ebenen war größtenteils ereignislos, aber bei der Ankunft im Adra-Kreis von Apahuillo entdeckte {0} einen grauenhaften Anblick. Über 50 versteinerte Einheimische befanden sich in dem Kreis. 
+      <DefaultText>Die Reise in die Ixamitl-Ebenen war größtenteils ereignislos, aber bei der Ankunft im Adra-Kreis von Apahuillo entdeckte {0} einen grauenhaften Anblick. Über 50 versteinerte Einheimische befanden sich in dem Kreis.
 
 Nach einigen Tagen der Nachforschungen entdeckte {0}, dass die Entführungen alle zu bestimmten Nachtzeiten und in einem bestimmten Muster einige Meilen um die Steine herum geschahen. Mit der Hilfe eines Mathematikers und Philosophen aus Apahuillo konnte {0} den Mörder enttarnen – eine extrem mächtige Adragan, die den Adra-Kreis seit Jahrhunderten beschützte. Als Gestandene den geheimen Ort entdeckten, begann sie, systematisch jeden zu jagen und zu versteinern, der in der Nähe der Stätte lebte und sie zu Fuß erreichen könnte.
 
@@ -772,7 +772,7 @@ Einige Mitglieder der Gruppe konnten zwar entkommen, doch die Gräfin von Helsto
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Irgendwo tief in den Ruinen von Ibrels Brunnen macht ein Paar Pŵgra Jagd auf Reisende und bietet seiner "Mutter" Opfer dar.
+      <DefaultText>Irgendwo tief in den Ruinen von Ibrels Brunnen macht ein Paar Pŵgra Jagd auf Reisende und bietet seiner „Mutter“ Opfer dar.
 
 Früher wussten Reisende einfach, dass sie alle Wege in der Nähe des Brunnens meiden mussten. In den letzten Jahren aber haben die Pŵgra ihr Jagdgebiet erweitert. Auch auf den Straßen zwischen dem Trosttal und Mittelwald werden Reisende entführt oder getötet.
 
@@ -785,7 +785,7 @@ Für die Glanfathaner haben die Ruinen bei Ibrels Brunnen eine tiefe religiöse 
 
 Die Pŵgra waren zwar immer feindselig gegenüber Fremden gewesen, aber {0} konnte mit ihnen sprechen und erkannte, dass jemand anderes sie mental kontrollierte. Verantwortlich für die vermehrten Angriffe war ein orlanisches Medium – eine Frau, die von ihrem Vater enterbt und daraufhin von den Zweimal Gespaltenen Pfeilen verstoßen worden war.
 
-Das Medium verstand sich besonders gut auf die mentale Beherrschung und nutzte die Pŵgra (ihre "Kinder"), um ein kleines Vermögen an bemitleidenswerten Reisenden zu verdienen. Nachdem {0} sie aber aus ihrem Versteck gelockt hatte, war die übermäßig selbstbewusste Orlanerin schnell besiegt. 
+Das Medium verstand sich besonders gut auf die mentale Beherrschung und nutzte die Pŵgra (ihre „Kinder“), um ein kleines Vermögen an bemitleidenswerten Reisenden zu verdienen. Nachdem {0} sie aber aus ihrem Versteck gelockt hatte, war die übermäßig selbstbewusste Orlanerin schnell besiegt.
 
 Im Versteck des Mediums im Herzen von Ibrels Brunnen entdeckte {0} einen gruseligen Schatz: Eine Halskette, die die Pŵgra aus den Zähnen des ermordeten Vaters der Orlanerin gefertigt hatten.</DefaultText>
       <FemaleText />
@@ -839,16 +839,16 @@ Als Dank für ihre Rettung webte Bonisetta einen verzauberten Umhang, den {0} be
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Im gesamten Östlichen Abschnitt werden Tote auf Friedhöfen vergraben und kehren dann als Fampyre zurück. Nachforschungen der örtlichen Behörden haben ergeben, dass Beseeler mehrere Gräber vor der Bestattung manipuliert hatten.
+      <DefaultText>Im gesamten Östlichen Abschnitt werden Tote auf Friedhöfen vergraben und kehren dann als Fampire zurück. Nachforschungen der örtlichen Behörden haben ergeben, dass Beseeler mehrere Gräber vor der Bestattung manipuliert hatten.
 
-Die örtlichen Fürsten haben Kopfgelder auf den Unbekannten ausgesetzt, der verantwortlich ist. Die rasante Ausbreitung von Zwischenfällen mit Fampyren lässt aber viele glauben, dass keine Einzelperson hinter den Experimenten steht, sondern eine ganze Gruppe.</DefaultText>
+Die örtlichen Fürsten haben Kopfgelder auf den Unbekannten ausgesetzt, der verantwortlich ist. Die rasante Ausbreitung von Zwischenfällen mit Fampiren lässt aber viele glauben, dass keine Einzelperson hinter den Experimenten steht, sondern eine ganze Gruppe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>{0} reiste aus dem Henkerskloster zur Kronenbucht, um den zahlreichen Berichten über Fampyre nachzugehen. Bei jedem einzelnen Fall stellte {0} fest, dass neben den Grabstätten komplexe Apparaturen aus Glas, Kupfer und Adra vergraben waren. 
+      <DefaultText>{0} reiste aus dem Henkerskloster zur Kronenbucht, um den zahlreichen Berichten über Fampire nachzugehen. Bei jedem einzelnen Fall stellte {0} fest, dass neben den Grabstätten komplexe Apparaturen aus Glas, Kupfer und Adra vergraben waren. 
 
-Die charakteristische Konstruktion der Geräte führte zu einem vailianischen Zwerg, der in Selona und Ancenze wegen seiner unerfreulichen Praktiken verbannt worden war. Bei seiner Gefangennahme gab der Zwerg an, er habe nicht Fampyre erschaffen, sondern Leben wiederherstellen wollen. Die Fampyre entstanden, weil es dem Zwerg nicht gelungen war, ein grundlegendes Problem seiner Maschinen zu löschen. Die unglaubliche Frequenz der Aktivitäten des Zwergs lag nicht etwa daran, dass er Mitverschwörer hatte&#160;… sondern an seinem ausschweifenden Konsum von Drogen, die ihn tagelang wachhielten und vor Energie übersprudeln ließen. 
+Die charakteristische Konstruktion der Geräte führte zu einem vailianischen Zwerg, der in Selona und Ancenze wegen seiner unerfreulichen Praktiken verbannt worden war. Bei seiner Gefangennahme gab der Zwerg an, er habe nicht Fampire erschaffen, sondern Leben wiederherstellen wollen. Die Fampire entstanden, weil es dem Zwerg nicht gelungen war, ein grundlegendes Problem seiner Maschinen zu löschen. Die unglaubliche Frequenz der Aktivitäten des Zwergs lag nicht etwa daran, dass er Mitverschwörer hatte&#160;… sondern an seinem ausschweifenden Konsum von Drogen, die ihn tagelang wachhielten und vor Energie übersprudeln ließen.
 
 Als er aufgespürt wurde, widersetzte der Zwerg sich nicht, sondern ließ sich widerstandslos verhaften. Als {0} ihn verließ, wartete er gerade darauf, dass ihm in Telaneir der Prozess gemacht wird.</DefaultText>
       <FemaleText />
@@ -871,7 +871,7 @@ In ihrer Verzweiflung haben die Priester sich hilfesuchend an Söldner und Abent
       <ID>152</ID>
       <DefaultText>In Ymyrgal hat {0} sich mit den Priestern Abydons getroffen, um über das Geheimnis zu beraten, wer die Artefakte aus der Halle der Schmiede gestohlen haben könnte&#160;… und zu welchem Zweck.
 
-Im Verlauf der Ermittlungen bot ein sonderbarer Wael-Priester der Gruppe seine bizarre Vorstellung von "Hilfe" an: Antworten auf die Rätsel des Diebes&#160;… in Form neuer Rätsel. Nachdem sie jedes einzelne der gestohlenen Artefakte durch eine Reihe weiterer Hinweise wiedergefunden hatten, erkannten {0} und die Priester Abydons, dass der Wael-Priester der Dieb war.
+Im Verlauf der Ermittlungen bot ein sonderbarer Wael-Priester der Gruppe seine bizarre Vorstellung von „Hilfe“ an: Antworten auf die Rätsel des Diebes&#160;… in Form neuer Rätsel. Nachdem sie jedes einzelne der gestohlenen Artefakte durch eine Reihe weiterer Hinweise wiedergefunden hatten, erkannten {0} und die Priester Abydons, dass der Wael-Priester der Dieb war.
 
 Äußerst zufrieden mit sich selbst protestierte der Dieb nicht, als er festgenommen und zum Grafen von Ymyr gebracht wurde, auf dass dieser über ihn richte. Als {0} die Priester Abydons verließ, rätselten sie immer noch über den Sinn des Diebstahls.</DefaultText>
       <FemaleText />
@@ -885,7 +885,7 @@ Im Verlauf der Ermittlungen bot ein sonderbarer Wael-Priester der Gruppe seine b
       <ID>154</ID>
       <DefaultText>Wenige Meilen nördlich von Flackertal liegt ein winziges Dorf namens Weißkranz. Es ist so klein, dass es auf Karten und in Steuerlisten häufig nicht zu finden ist. Mit dem Rest des Dyrwalds hat es wenig Kontakt. Trotz seiner bescheidenen Größe hat das Dorf aber eine lange Geschichte, die über dreihundert Jahre zurückreicht. Damals diente es als glanfathanisches Stammeslager.
 
-Am bemerkenswertesten an Weißkranz ist wohl ein tiefer Brunnen, dessen oberer Rand aus engwithanischem Adra gefertigt ist. Obwohl er keine religiöse Bedeutung für die Glanfathaner hat, erkennt jeder, der den Brunnen sieht, dass er uralt sein muss. In den letzten Jahren berichten die Dorfbewohner immer wieder von seltsamen Geräuschen, die aus dem Brunnen kommen. Einige beschreiben sie als tierisch, andere glauben, es wären Worte in einer fremden Sprache. Niemand hat es bisher gewagt, in den Brunnen zu steigen&#160;… und nun trauen die Dorfbewohner sich kaum mehr, Wasser daraus zu holen. 
+Am bemerkenswertesten an Weißkranz ist wohl ein tiefer Brunnen, dessen oberer Rand aus engwithanischem Adra gefertigt ist. Obwohl er keine religiöse Bedeutung für die Glanfathaner hat, erkennt jeder, der den Brunnen sieht, dass er uralt sein muss. In den letzten Jahren berichten die Dorfbewohner immer wieder von seltsamen Geräuschen, die aus dem Brunnen kommen. Einige beschreiben sie als tierisch, andere glauben, es wären Worte in einer fremden Sprache. Niemand hat es bisher gewagt, in den Brunnen zu steigen&#160;… und nun trauen die Dorfbewohner sich kaum mehr, Wasser daraus zu holen.
 
 Obwohl die Gemeinde es sich kaum leisten kann, eine Belohnung zu bezahlen, hat sie die Fürsten der Umgebung um Hilfe gebeten.</DefaultText>
       <FemaleText />
@@ -894,7 +894,7 @@ Obwohl die Gemeinde es sich kaum leisten kann, eine Belohnung zu bezahlen, hat s
       <ID>155</ID>
       <DefaultText>{0} stieg in die Tiefen des Brunnens von Weißkranz und stellte fest, dass das Fundament des Brunnens aus lebendem Adra bestand&#160;… die Geräusche aber stammten von Wichten, die von ihren Müttern in den Brunnen geworfen worden waren.
 
-Insgesamt hatten ein Dutzend Frauen aus Weißkranz und den umliegenden Wäldern ihre Kinder in den Brunnen geworfen, nachdem sie erfuhren, dass sie sich zu Wichten verwandeln würden. Einige waren gestorben, andere aber hatten den Sturz überlebt und sich von kleinen Nagetieren und anderen Kreaturen ernährt, die durch die zerstörten engwithanischen Tunnel unter dem Brunnen huschten. 
+Insgesamt hatten ein Dutzend Frauen aus Weißkranz und den umliegenden Wäldern ihre Kinder in den Brunnen geworfen, nachdem sie erfuhren, dass sie sich zu Wichten verwandeln würden. Einige waren gestorben, andere aber hatten den Sturz überlebt und sich von kleinen Nagetieren und anderen Kreaturen ernährt, die durch die zerstörten engwithanischen Tunnel unter dem Brunnen huschten.
 
 {0} war gezwungen, die aggressiven Wichte zu bekämpfen, kam jedoch schließlich wieder aus dem Brunnen geklettert und berichtete dem Dorf, was vorgefallen war. Einige der Mütter gestanden sofort, was sie getan hatten. Andere flohen aus dem Dorf. Letztlich hatte niemand das Verlangen, jemanden für das zu bestrafen, was geschehen war.</DefaultText>
       <FemaleText />
@@ -906,7 +906,7 @@ Insgesamt hatten ein Dutzend Frauen aus Weißkranz und den umliegenden Wäldern 
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Seit dem Ende des Kriegs des Heiligen versammeln Dyrwäldler sich an der Brücke von Evon Dewr, um der zwölf Helden zu gedenken, die ihr Leben gaben, um St. Waidwen zu besiegen. Dabei ist der Brauch entstanden, dass die Magran-Priester, welche die Prozession anführen, zum Abschluss ein Trauerlied singen.
+      <DefaultText>Seit dem Ende des Kriegs des Heiligen versammeln Dyrwälder sich an der Brücke von Evon Dewr, um der zwölf Helden zu gedenken, die ihr Leben gaben, um St. Waidwen zu besiegen. Dabei ist der Brauch entstanden, dass die Magran-Priester, welche die Prozession anführen, zum Abschluss ein Trauerlied singen.
 
 Als der Priester dieses Jahr versuchte, das Trauerlied zu singen, schwoll seine Zunge in seinem Hals an und er starb vor der versammelten Menge einen qualvollen Tod. Als einen Monat später ein anderer Priester versuchte, das Trauerlied zu singen, erlitt er dasselbe Schicksal. Manche glauben, die Götter seien Schuld an dem Tod der Priester. Andere verdächtigen rachsüchtige Readceraner.
 
@@ -984,7 +984,7 @@ Die Anamfatha verbieten die Herstellung von Reliquien aus Nîdhens Leiche und be
       <ID>167</ID>
       <DefaultText>Die Jagd nach Nîdhens Überresten erwies sich als schwierig, denn die Glanfathaner logen unaufhörlich, um die Drahtzieher zu decken. Ein orlanischer Brîshalgwin half {0}, die Wahrheit in Erfahrung zu bringen und schließlich jedes einzelne Teil der Leiche des Mörders zu finden.
 
-Obwohl die Glanfathaner keine Scheu hatten, zu lügen, was ihre Taten anging, wurde keiner von ihnen gewalttätig, als {0} und der Brîshalgwin sie zur Rede stellten. Eine Anamfath befahl dem Brîshalgwin, die Leiche an einem neuen Ort zu begraben, der weniger häufig frequentiert wird als die Pfade bei Clîaban Rilag. 
+Obwohl die Glanfathaner keine Scheu hatten, zu lügen, was ihre Taten anging, wurde keiner von ihnen gewalttätig, als {0} und der Brîshalgwin sie zur Rede stellten. Eine Anamfath befahl dem Brîshalgwin, die Leiche an einem neuen Ort zu begraben, der weniger häufig frequentiert wird als die Pfade bei Clîaban Rilag.
 
 Wieder auf Caed Nua angekommen bemerkte {0}, dass die Anamfath Nîdhens Ringfinger nie zurückgefordert hatte&#160;…</DefaultText>
       <FemaleText />
@@ -1000,7 +1000,7 @@ Wieder auf Caed Nua angekommen bemerkte {0}, dass die Anamfath Nîdhens Ringfing
 
 Jahrzehnte nach dem Krieg entdeckten die Stämme die Arbeit der Astronomen wieder. Leider waren alle ursprünglichen Astronomen längst verstorben und ihre Schriften waren zu weiten Teilen in einem unbekannten Code verfasst.
 
-Zwei vailianische Ducs haben einen Belohnung für den ausgesetzt, der den Code der Glanfathaner knacken kann. Die Stämme gewähren zwar nur ungern Einblick in die Unterlagen&#160;… aber sie halten es für besser, das Wissen zu teilen, als es für immer unentschlüsselt zu lassen.</DefaultText>
+Zwei vailianische Ducs haben eine Belohnung für den ausgesetzt, der den Code der Glanfathaner knacken kann. Die Stämme gewähren zwar nur ungern Einblick in die Unterlagen&#160;… aber sie halten es für besser, das Wissen zu teilen, als es für immer unentschlüsselt zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,7 +1023,7 @@ Letztlich waren die vailianischen Ducs etwas enttäuscht, da sie gehofft hatten,
 
 Der natürliche Lauf der Zeit hat der Statue zwar etwas zugesetzt, aber die Glanfathaner erinnern sich auch an einen Akt des Vandalismus aus der frühen Kolonialzeit. Im Chaos des Kriegs des Zerbrochenen Steins drangen aedyrische Entdecker tief nach Eir Glanfath vor, verschafften sich Zugang zum Hof der verneigenden Eschen und kletterten auf die Statue, um ein einziges Auge auszubrechen – so groß wie der Kopf eines Aumaua und aus purem Adra. Der Großteil dieser Bande wurde von den Glanfathanern geschnappt und getötet, aber das Auge wurde nie gefunden.
 
-Seit einigen Jahren gibt es Gerüchte im Östlichen Abschnitt, dass ein neuer "Besitzer" des Auges versucht, es auf dem Schwarzmarkt zu verkaufen. Die Anamfatha von mindestens drei Stämmen wären bereit, eine Belohnung zu bezahlen, wenn jemand das Auge zurückbeschafft.</DefaultText>
+Seit einigen Jahren gibt es Gerüchte im Östlichen Abschnitt, dass ein neuer „Besitzer“ des Auges versucht, es auf dem Schwarzmarkt zu verkaufen. Die Anamfatha von mindestens drei Stämmen wären bereit, eine Belohnung zu bezahlen, wenn jemand das Auge zurückbeschafft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1076,7 +1076,7 @@ Vor kurzem begann ein anonymer Gönner, im Östlichen Abschnitt Helfer für die 
 
 Die Zauberer waren über den gesamten Östlichen Abschnitt verteilt. Sie waren zwar durchaus freundlich, aber nicht willens, sich von ihren eigenen umfangreichen Notizen zu trennen. Nachdem {0} dem Diener des Gönners Bericht erstattet hatte, sagte dieser, der Auftrag sei damit beendet. Erst zurück auf Caed Nua erfuhr {0}, dass alle drei Zauberer unter verdächtigen Umständen grausam zu Tode gekommen waren.
 
-Kurze Zeit später überbrachte ein Kurier ein Paket. Es war an {0} adressiert und die beiliegende Nachricht lautete schlicht "Ein Geschenk", verfasst in einer altmodischen Handschrift.</DefaultText>
+Kurze Zeit später überbrachte ein Kurier ein Paket. Es war an {0} adressiert und die beiliegende Nachricht lautete schlicht „Ein Geschenk“, verfasst in einer altmodischen Handschrift.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1086,7 +1086,7 @@ Kurze Zeit später überbrachte ein Kurier ein Paket. Es war an {0} adressiert u
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Auf einer entlegenen Insel im Todesfeuer-Archipel stellt der berühmte Apotheker Tama Watua Tränke und Salben her, die von Naasitaq bis an den Südrand des Östlichen Abschnitts bekannt sind. 
+      <DefaultText>Auf einer entlegenen Insel im Todesfeuer-Archipel stellt der berühmte Apotheker Tama Watua Tränke und Salben her, die von Naasitaq bis an den Südrand des Östlichen Abschnitts bekannt sind.
 
 Er sagt, das Geheimnis seines Erfolgs sei sein Standort innerhalb des Archipels, von wo aus er nicht nur Zugang zu einer riesigen Auswahl an einheimischen Kreaturen und Pflanzen habe, sondern auch zu Kaufleuten aus allen besiedelten Teilen der Welt.
 
@@ -1097,7 +1097,7 @@ Seit kurzem werden Tamas Haus und Laboratorium immer wieder von Piraten überfal
       <ID>182</ID>
       <DefaultText>Gemeinsam mit fünf anderen Söldnern aus dem Östlichen Abschnitt begab sich {0} als Passagier an Bord eines aumauischen Langschiffs. Schnell und voller bewaffneter Seeleute geriet das Schiff bei der Jagd nach Tamas Entführern regelmäßig in Konflikte mit Piraten.
 
-Schließlich entdeckten {0} und die Besatzung die vailianische Karavelle, an deren Bord Tama sich befand. Sie konnten das Schiff überholen, bevor es das offene Meer erreichte. Mit Enterhaken und einer gehörigen Portion Akrobatik enterten die Söldner und aumauischen Seeleute die Karavelle, mit {0} im Schlepptau. Der Kampf an Deck des Schiffs war so intensiv, dass man vor lauter Pistolenrauch Freund und Feind nicht auseinanderhalten konnte. 
+Schließlich entdeckten {0} und die Besatzung die vailianische Karavelle, an deren Bord Tama sich befand. Sie konnten das Schiff überholen, bevor es das offene Meer erreichte. Mit Enterhaken und einer gehörigen Portion Akrobatik enterten die Söldner und aumauischen Seeleute die Karavelle, mit {0} im Schlepptau. Der Kampf an Deck des Schiffs war so intensiv, dass man vor lauter Pistolenrauch Freund und Feind nicht auseinanderhalten konnte.
 
 In dem verwirrenden Nahkampf stand {0} plötzlich dem Piratenkapitän gegenüber. Sie begannen zu ringen, doch in diesem Moment stieß das Langschiff gegen die Karavelle und brachte sie zum Schwanken. Der Kapitän rutschte das Deck hinab und wurde von einer schlecht gesicherten Kanone über Bord geworfen. Als sie sahen, wie ihr Anführer in den Wellen versank, ergaben die übrigen Piraten sich rasch oder tauchten ins Wasser, um zu einer nahegelegenen Insel zu fliehen.
 
@@ -1122,7 +1122,7 @@ Sie haben den verschiedenen Fürsten in Readceras und im Dyrwald Nachrichten zuk
       <ID>185</ID>
       <DefaultText>{0} bereiste den ganzen Östlichen Abschnitt und stellte Nachforschungen an, um die verschwundenen Mönche zu finden. Einer nach dem anderen kreuzten die Mönche den Pfad von {0} als unterschiedlichste Gestalten&#160;… manche als Gestandene, manche als Bestien, manche in ganz einzigartiger Form.
 
-Nachdem sie offenbar vergessen hatten, warum sie zu ihrer Meditation aufgebrochen waren, verwickelten die Mönche {0} in eine Reihe philosophischer Diskussionen. Letztlich reiste jeder der Mönche zurück durch das mentale Labyrinth, dass er erschaffen hatte. Dadurch wurde eine spontane Erkenntnis ausgelöst und sie "verschmolzen" wieder zu ihrer ursprünglichen Gestalt.
+Nachdem sie offenbar vergessen hatten, warum sie zu ihrer Meditation aufgebrochen waren, verwickelten die Mönche {0} in eine Reihe philosophischer Diskussionen. Letztlich reiste jeder der Mönche zurück durch das mentale Labyrinth, dass er erschaffen hatte. Dadurch wurde eine spontane Erkenntnis ausgelöst und sie „verschmolzen“ wieder zu ihrer ursprünglichen Gestalt.
 
 Nachdem sie alle in ihr Kloster zurückgekehrt waren, überreichten sie {0} ein Glockenspiel. Jeder Mönch hatte eine der insgesamt zwölf Glocken beigesteuert.</DefaultText>
       <FemaleText />
@@ -1146,7 +1146,7 @@ Viele der Legenden beschreiben einen atemberaubenden, gewaltigen Glasbaum mit Ä
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Drei Expeditionen von der Südküste des Lands der Lebenden waren nötig, ehe {0} das sagenumwobene Tal aus Glas erreichte. Die Legenden hatten zwar etwas übertrieben, aber das Tal war in der Tat atemberaubend. Es enthielt Flora und Fauna, die nie zuvor in einem anderen Teil Eoras gesehen worden waren. Große, taumelnde Bestien und furchterregende geflügelte Kreaturen, die so hoch flogen, dass sie in den Wolken zu verschwinden schienen. Und im Herzen des Ganzen stand der große Baum aus "Glas".
+      <DefaultText>Drei Expeditionen von der Südküste des Lands der Lebenden waren nötig, ehe {0} das sagenumwobene Tal aus Glas erreichte. Die Legenden hatten zwar etwas übertrieben, aber das Tal war in der Tat atemberaubend. Es enthielt Flora und Fauna, die nie zuvor in einem anderen Teil Eoras gesehen worden waren. Große, taumelnde Bestien und furchterregende geflügelte Kreaturen, die so hoch flogen, dass sie in den Wolken zu verschwinden schienen. Und im Herzen des Ganzen stand der große Baum aus „Glas“.
 
 Als {0} ihn untersuchte, wurde klar, dass er gar nicht aus Glas bestand, sondern aus einem faszinierenden durchsichtigen Holz mit transparentem Harz. Obwohl der berühmte Krieger mit seinem markanten Helm nirgendwo zu sehen war, fand {0} tatsächlich ein Paar glitzernde Handschuhe aus durchsichtigem Holz am Fuß des Baumes. Es ist unklar, wer sie gefertigt hat, ob sie aus dem Holz dieses Baumes gefertigt wurden&#160;… und warum sie dort zurückgelassen wurden.
 
@@ -1169,7 +1169,7 @@ Einige weit gereiste Vailianer sagen, eine nicht ganz so geheime Geheimgesellsch
       <ID>192</ID>
       <DefaultText>Es war nicht leicht für {0}, den Kult aufzuspüren, der ein besonderes Interesse an den gekennzeichneten Personen in einem so großen Gebiet entwickelt hatte. Schließlich aber gelang es {0}, eine kleine Zelle der Kultanhänger auszuheben&#160;… und bei dieser Gelegenheit eine Vielzahl belastender Dokumente zu finden.
 
-Die Gruppe nannte sich die Weiße Flamme und glaubte, dass die gekennzeichneten Personen als Wirtskörper für eine "Reinkarnation" von Eothas dienen sollten. Der Kult hatte begonnen, Personen mit dem Mal zu entführen und sie in Geheimverstecke zu bringen, um sie zu beobachten und Experimente an ihnen durchzuführen. Eine Karte, die {0} entdeckte, zeigte mehrere dieser Zellen sowie neue Orte, die ihre nächsten Ziele sein sollten.
+Die Gruppe nannte sich die Weiße Flamme und glaubte, dass die gekennzeichneten Personen als Wirtskörper für eine „Reinkarnation“ von Eothas dienen sollten. Der Kult hatte begonnen, Personen mit dem Mal zu entführen und sie in Geheimverstecke zu bringen, um sie zu beobachten und Experimente an ihnen durchzuführen. Eine Karte, die {0} entdeckte, zeigte mehrere dieser Zellen sowie neue Orte, die ihre nächsten Ziele sein sollten.
 
 Mit Hilfe der Schildträger von St. Elcga konnte {0} eine ihrer Festungen im Cythwald überfallen. Es ist ungewiss, ob die Macht der Weißen Flamme wirklich gebrochen ist, aber die Entführungen endeten kurz nach dem Eingreifen von {0}.</DefaultText>
       <FemaleText />
@@ -1229,7 +1229,7 @@ Durch das Schlagen einer Reihe von Glocken in den Ruinen der Stadt konnte {0} da
       <ID>200</ID>
       <DefaultText>Die berühmte und wohlhabende rauataische Gelehrte Amaia hat im Lauf ihres langen Lebens einen gewaltigen Codex zu Eoras vielfältigen Legenden angesammelt. Das Werk basiert auf aumauischen Quellen ebenso wie auf solchen aus Aedyr, Alt-Vailia, den Ixamitl-Ebenen und Naasitaq. Es ist wahrlich gewaltig und umfasst tausende von Seiten.
 
-Seit zwei Jahrzehnten sind Schreiber damit beschäftigt, das bisherige Werk zu kopieren, aber einige Volkssagen fehlen Amaia noch in ihrem Kompendium. Sie hat bereits versucht, die ältesten Glamfellen aus dem Ewigen Weiß zu kontaktieren, ein Treffen mit den aedyrischen Ine Sycthrúa zu vereinbaren und unter den angesehensten Rîow von Eir Glanfath zu sitzen. All diese Versuche waren jedoch erfolglos, da ihr unterschiedliche Gefahren im Weg standen. 
+Seit zwei Jahrzehnten sind Schreiber damit beschäftigt, das bisherige Werk zu kopieren, aber einige Volkssagen fehlen Amaia noch in ihrem Kompendium. Sie hat bereits versucht, die ältesten Glamfellen aus dem Ewigen Weiß zu kontaktieren, ein Treffen mit den aedyrischen Ine Sycthrúa zu vereinbaren und unter den angesehensten Rîow von Eir Glanfath zu sitzen. All diese Versuche waren jedoch erfolglos, da ihr unterschiedliche Gefahren im Weg standen.
 
 Diese letzten Sagen sollen ihr Lebenswerk vervollständigen und sie ist auf der Suche nach erfahrenen Abenteurern, die ihr dabei behilflich sind.</DefaultText>
       <FemaleText />
@@ -1467,7 +1467,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>In dem Chaos des Überfalls plünderten die Doemenels Schatzkammern und Lagerhäuser. Die Dieben konnten entkommen, aber {1} und seine Wachen wurden getötet.</DefaultText>
+      <DefaultText>In dem Chaos des Überfalls plünderten die Doemenels Schatzkammern und Lagerhäuser. Die Diebe konnten entkommen, aber {1} und seine Wachen wurden getötet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
