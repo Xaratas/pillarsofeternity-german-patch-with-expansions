@@ -3884,5 +3884,10 @@ Zum Salzigen Mast im Süden</DefaultText>
       <DefaultText>Laden</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>Eine Falle</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>

@@ -10444,7 +10444,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2259</ID>
-      <DefaultText>Gewährt Reserven anzapfen Stufe {0}</DefaultText>
+      <DefaultText>Gewährt Reserven anzapfen ({0} Ausdauer)</DefaultText>
       <FemaleText />
     </Entry>	
     <Entry>
