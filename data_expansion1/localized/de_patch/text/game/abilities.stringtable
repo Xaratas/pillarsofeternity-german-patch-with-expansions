@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>212</EntryCount>
+  <EntryCount>211</EntryCount>
   <Entries>
     <Entry>
       <ID>1400</ID>
@@ -877,11 +877,6 @@
     <Entry>
       <ID>1576</ID>
       <DefaultText>Die Verbündeten des Sängers erhalten einen Teil des Schadens, den sie verursachen, als Ausdauer zurück.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1577</ID>
-      <DefaultText>Vernichtet Feinde mit einem mächtigen Wind kalter Luft, der die Bewegung verlangsamt und Frostschaden anrichtet (wobei er eine große Menge SR ignoriert).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
