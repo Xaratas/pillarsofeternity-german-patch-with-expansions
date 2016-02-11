@@ -646,14 +646,14 @@ Kaum hatte der Staub sich gelegt, tauchten einige der „Geschäftspartner“ de
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Südwestlich von Goldtal haben Reisende von einer Ansammlung zorniger Geister berichtet, die sich bei einem Kreis aus brüchigen Adra-Säulen versammeln. Einige Mutige haben sich in die Nähe der Geister gewagt und sagen, sie würden offenbar über längst vergessene Rechtsangelegenheiten diskutieren.
+      <DefaultText>Südwestlich von Goldtal haben Reisende von einer Ansammlung zorniger Geister berichtet, die sich bei einem Kreis aus brüchigen Adrasäulen versammeln. Einige Mutige haben sich in die Nähe der Geister gewagt und sagen, sie würden offenbar über längst vergessene Rechtsangelegenheiten diskutieren.
 
-Die Einheimischen haben sich schnell angewöhnt, die Adra-Säulen weitläufig zu umgehen, aber es sind schon mehrere ausländische Händler, die in Wegesend landeten, den Schatten zum Opfer gefallen.</DefaultText>
+Die Einheimischen haben sich schnell angewöhnt, die Adrasäulen weitläufig zu umgehen, aber es sind schon mehrere ausländische Händler, die in Wegesend landeten, den Schatten zum Opfer gefallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>{0} war darauf vorbereitet in dem Kreis aus Adra-Säulen einen Pulk zorniger Geister zu bekämpfen, stellte aber schnell fest, dass die Schatten lediglich einige alte Dispute klären wollten. Für Geister legten sie erstaunliches Bewusstsein an den Tag und trugen ihre Fälle oft über mehrere Stunden lang vor. {0} fungierte als Schiedsrichter für die Gruppe, traf Entscheidungen und bettete die Geister zur Ruhe.
+      <DefaultText>{0} war darauf vorbereitet in dem Kreis aus Adrasäulen einen Pulk zorniger Geister zu bekämpfen, stellte aber schnell fest, dass die Schatten lediglich einige alte Dispute klären wollten. Für Geister legten sie erstaunliches Bewusstsein an den Tag und trugen ihre Fälle oft über mehrere Stunden lang vor. {0} fungierte als Schiedsrichter für die Gruppe, traf Entscheidungen und bettete die Geister zur Ruhe.
 
 Nachdem das letzte Paar streitender Schatten ins Jenseits verschwunden war, entdeckte {0} die Überreste früherer Eindringlinge, darunter auch einen edlen Gürtel aus meditativen Glocken, der einem bedauernswerten Mönch gehört hatte.</DefaultText>
       <FemaleText />
@@ -726,11 +726,11 @@ Am Ende gelang es {0}, über die Hälfte des Diebesguts zurückzubeschaffen. Ein
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Apahuillo-Bauern in den Ixamitl-Ebenen entdeckten in einem abgeschiedenen Tal im Süden einen großen und aufwändigen Ring aus kleinen Adra-Säulen.
+      <DefaultText>Apahuillo-Bauern in den Ixamitl-Ebenen entdeckten in einem abgeschiedenen Tal im Süden einen großen und aufwändigen Ring aus kleinen Adrasäulen.
 
 Es wird vermutet, dass die Säulen in irgendeiner Weise engwithanischer Herkunft sind. Sie scheinen aber mit keinen Ruinen verbunden zu sein. Seit die Stätte aber entdeckt wurde, verschwinden in einem Umkreis von bis zu 50 Meilen immer wieder Bauern. Tage oder Wochen später tauchen sie in dem Steinkreis wieder auf&#160;… für immer versteinert. 
 
-Da die Apahuillo wenig Erfahrung mit Adra-Säulen haben, bitten sie Readceraner, Dyrwälder und Glanfathaner um Hilfe.</DefaultText>
+Da die Apahuillo wenig Erfahrung mit Adrasäulen haben, bitten sie Readceraner, Dyrwälder und Glanfathaner um Hilfe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
