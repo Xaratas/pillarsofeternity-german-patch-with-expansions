@@ -846,7 +846,7 @@ Die örtlichen Fürsten haben Kopfgelder auf den Unbekannten ausgesetzt, der ver
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>{0} reiste aus dem Henkerskloster zur Kronenbucht, um den zahlreichen Berichten über Fampire nachzugehen. Bei jedem einzelnen Fall stellte {0} fest, dass neben den Grabstätten komplexe Apparaturen aus Glas, Kupfer und Adra vergraben waren. 
+      <DefaultText>{0} reiste aus dem Henkerskloster zur Kronenbucht, um den zahlreichen Berichten über Fampire nachzugehen. Bei jedem einzelnen Fall stellte {0} fest, dass neben den Grabstätten komplexe Apparaturen aus Glas, Kupfer und Adra vergraben waren.
 
 Die charakteristische Konstruktion der Geräte führte zu einem vailianischen Zwerg, der in Selona und Ancenze wegen seiner unerfreulichen Praktiken verbannt worden war. Bei seiner Gefangennahme gab der Zwerg an, er habe nicht Fampire erschaffen, sondern Leben wiederherstellen wollen. Die Fampire entstanden, weil es dem Zwerg nicht gelungen war, ein grundlegendes Problem seiner Maschinen zu löschen. Die unglaubliche Frequenz der Aktivitäten des Zwergs lag nicht etwa daran, dass er Mitverschwörer hatte&#160;… sondern an seinem ausschweifenden Konsum von Drogen, die ihn tagelang wachhielten und vor Energie übersprudeln ließen.
 
@@ -961,7 +961,7 @@ Als der älteste Paladin Adrem Delfar starbt, machten sich seine Brüder und Sch
       <ID>164</ID>
       <DefaultText>Der Weg zum Rotblumensee erwies sich als noch gefährlicher, als die Ältesten der Gütigen Wanderer erwartet hatten. Sie glaubten, dass Adrem Delfars Grabprozession von Ogern angegriffen worden war. Stattdessen fanden {0} und die Novizen der Gütigen Wanderer Eotens vor, missgebildete zweiköpfige Oger von gewaltiger Größe und Brutalität.
 
-Die Leichname der Paladine zu bergen forderte einen hohen Preis&#160;… fünf weitere Novizen starben dabei. Letztlich erreichte {0} mit sieben Gütigen Wanderern den Rotblumensee, wo sie eine Zeremonie für Adrem Delfar und die anderen abhielten, die auf dem Weg zum Gipfel ihr Leben gelassen hatten.
+Die Leichen der Paladine zu bergen forderte einen hohen Preis&#160;… fünf weitere Novizen starben dabei. Letztlich erreichte {0} mit sieben Gütigen Wanderern den Rotblumensee, wo sie eine Zeremonie für Adrem Delfar und die anderen abhielten, die auf dem Weg zum Gipfel ihr Leben gelassen hatten.
 
 Beim Abstieg platzierten die Novizen Steinhügel entlang des Weges, als Zeichen dafür, wann er von den Gütigen Wanderern angelegt worden war&#160;… und zu welchem Preis.</DefaultText>
       <FemaleText />
@@ -1028,7 +1028,7 @@ Seit einigen Jahren gibt es Gerüchte im Östlichen Abschnitt, dass ein neuer �
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Eine erschöpfende Suche und Nachforschung in drei Ländern war nötig, aber schließlich fand {0} eine Spur des gestohlenen Adra-Auges. Nach dem Krieg des Zerbrochenen Steins reiste der aumauische Dieb nach Süden, nach Abet, von dort weiter nach Naasitaq. Unter den Nordzwergen fand der Dieb einen reichen Käufer, den Anführer eines wohlhabenden Stammes. Eine Generation später wendete sich das Schicksal des Stammes und er wurde sowohl von Piraten aus dem Todesfeuer-Archipel als auch von Bleichelfen aus dem Ewigen Weiß überfallen. Die Bleichelfen verkauften das gestohlene Auge an Kaufmänner aus Alt-Vailia. Diese brachten es nach Norden, zum Prinzen von Darcozzi, wo es zwei Generationen lang verblieb.
+      <DefaultText>Eine erschöpfende Suche und Nachforschung in drei Ländern war nötig, aber schließlich fand {0} eine Spur des gestohlenen Adra-Auges. Nach dem Krieg des Zerbrochenen Steins reiste der aumauische Dieb nach Süden, nach Abet, von dort weiter nach Naasitaq. Unter den Nordzwergen fand der Dieb einen reichen Käufer, den Anführer eines wohlhabenden Stammes. Eine Generation später wendete sich das Schicksal des Stammes und er wurde sowohl von Piraten aus dem Todesfeuer-Archipel als auch von Bleichelfen aus dem Ewigen Weiß überfallen. Die Bleichelfen verkauften das gestohlene Auge an Kaufleute aus Alt-Vailia. Diese brachten es nach Norden, zum Prinzen von Darcozzi, wo es zwei Generationen lang verblieb.
 
 Als der Darcozzi-Palast geplündert wurde, nahm einer der Invasoren das Auge als Kriegsbeute an sich und brachte es über das Meer nach Ozia in den Vailianischen Republiken. Dort befand es sich noch immer, als {0} eintraf. Der reiche Patriach, in dessen Besitz sich das Auge befand, verlangte zwar eine dreiste Summe, aber die glanfathanischen Anamfatha zögerten nicht, diesen hohen Preis zu bezahlen.</DefaultText>
       <FemaleText />
@@ -1181,7 +1181,7 @@ Mit Hilfe der Schildträger von St. Elcga konnte {0} eine ihrer Festungen im Cyt
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Die vailianische Beseelerin Accetta ist für ihre umfangreichen Arbeiten zu den Eigenschaften lebenden Adras bekannt. Kürzlich sorgte sie mit einer Aussage gegenüber Kollegen für einen gewaltigen Aufruhr in Biageppe: Sie sei überzeugt, dass alles lebende Adra mit dem Herzen Eoras selbst verbunden sei. Diese Aussage allein war nicht übermäßig skandalös&#160;… aber Accetta prahlte, sie habe ein Gerät geschaffen, mit dem sie die Pfade lebenden Adras entlang zu deren Quelle reisen könne. 
+      <DefaultText>Die vailianische Beseelerin Accetta ist für ihre umfangreichen Arbeiten zu den Eigenschaften lebenden Adras bekannt. Kürzlich sorgte sie mit einer Aussage gegenüber Kollegen für einen gewaltigen Aufruhr in Biageppe: Sie sei überzeugt, dass alles lebende Adra mit dem Herzen Eoras selbst verbunden sei. Diese Aussage allein war nicht übermäßig skandalös&#160;… aber Accetta prahlte, sie habe ein Gerät geschaffen, mit dem sie die Pfade lebenden Adras entlang zu deren Quelle reisen könne.
 
 Die Dinge, die sie angeblich gesehen haben will, sorgten für einen Aufruhr unter religiös veranlagten Beseelern, die sie sofort der Blasphemie bezichtigten. Wenige Tage später war Accetta plötzlich verschwunden und ihr Haus war auf den Kopf gestellt worden.
 
