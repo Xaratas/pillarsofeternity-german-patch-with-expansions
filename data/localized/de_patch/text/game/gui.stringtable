@@ -2465,7 +2465,7 @@ Silberflut: In jeder Begegnung generieren Mond-Gottähnliche, wenn sie auf unter
       <ID>492</ID>
       <DefaultText>Sesshafte Orlaner sind in Readceras und in den Vailianischen Republiken oftmals Sklaven. Eine der Vertragsbedingungen zwischen dem Dyrwald und dem Volk aus Eir&#160;Glanfath war die Befreiung der orlanischen Sklaven, und obwohl diese eingehalten wurde, leben im Dyrwald noch immer viele sesshafte Orlaner als Schuldknechte.
 
-Geringe Bedrohung: Greift ein sesshafter Orlaner ein Ziel an, das von einem Gruppenmitglied ebenfalls als Ziel ausgewählt worden ist, verwandelt der sesshafte Orlaner einen Teil seiner T&#x2060;reffer in Kritische Treffer.</DefaultText>
+Geringe Bedrohung: Greift ein sesshafter Orlaner ein Ziel an, das von einem Gruppenmitglied ebenfalls als Ziel ausgewählt worden ist, verwandelt der sesshafte Orlaner einen Teil seiner Treffer in Kritische Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3620,7 +3620,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>Meiste T&#x2060;reffer</DefaultText>
+      <DefaultText>Meiste Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
