@@ -291,7 +291,7 @@ Dann, endlich, durchbricht dein Kopf die Wasseroberfläche. Hastig würgst du Lu
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Iverras Taucherhelm anziehen und in den Tunnel schwimmen.]</DefaultText>
+      <DefaultText>[Iverras Taucherhelm aufsetzen und in den Tunnel schwimmen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@ Dann, endlich, durchbricht dein Kopf die Wasseroberfläche. Hastig würgst du Lu
       <ID>62</ID>
       <DefaultText>Du hältst deine Hände vor dich und konzentrierst dich darauf, den spitzen Felsen auszuweichen, die aus der Wand hervorragen und immer wieder plötzlich aus der Dunkelheit auftauchen.
 
-Vor dir blinzelt ein Licht. Du näherst dich ihm schnell, aber es scheint der Eingang zu einem zweiten, kleineren Tunnel zu sein. Vielleicht kannst du ihn erreichen.</DefaultText>
+Vor dir blinkt ein Licht. Du näherst dich ihm schnell, aber es scheint der Eingang zu einem zweiten, kleineren Tunnel zu sein. Vielleicht kannst du ihn erreichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

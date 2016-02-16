@@ -72,7 +72,7 @@
     <Entry>
       <ID>14</ID>
       <DefaultText>„Sie sagten, sie würden auf Befehl des Fürsten von Caed Nua handeln. Das sind Sie!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sie sagten, sie würden auf Befehl der Fürstin von Caed Nua handeln. Das sind Sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Wenn das wieder geschieht, es erfolgt nicht auf meinen Befehl. Das versichere ich euch persönlich.“</DefaultText>
+      <DefaultText>„Wenn das wieder geschieht, erfolgt es nicht auf meinen Befehl. Das versichere ich euch persönlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,13 +101,13 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[100 KP geben] „Nehmt das.“</DefaultText>
+      <DefaultText>[100 KP geben.] „Nehmt das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>„Danke, mein Fürst.“ Die Münzen werden eilig unter den Dorfbewohnern aufgeteilt. Die Leute verneigen sich vor dir, dann löst sich die Menge auf.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke, meine Fürstin.“ Die Münzen werden eilig unter den Dorfbewohnern aufgeteilt. Die Leute verneigen sich vor dir, dann löst sich die Menge auf.</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -137,7 +137,7 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>„Äußerst großzügig von Ihnen, mein Fürst.“ Die Dorfbewohner nicken und lächeln und bedanken sich, während sie die Münzen untereinander aufteilen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Äußerst großzügig von Ihnen, meine Fürstin.“ Die Dorfbewohner nicken und lächeln und bedanken sich, während sie die Münzen untereinander aufteilen.</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
