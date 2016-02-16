@@ -123,7 +123,7 @@ Marschall Forwyn nähert sich. „Sie kommen gerade rechtzeitig. Fürst Gathbins
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve auf die anstürmenden Berserker ab. Kugeln durchfetzen deren Plattenrüstung und es fallen unzählige Berserker. Als die Berserker die Gefahr endlich erkennen und versuchen, auf die Schützen zu stürmen, reißt eine weitere Salve sie fast alle in Stücke. Die wenigen, die noch am Leben sind, ziehen sich hastig zurück. Die Linie hat gehalten&#160;… du siehst jedoch, das auch Dutzende deiner eigenen Truppen durch die Schüsse getötet wurden.</DefaultText>
+      <DefaultText>Die Arkebuseschützen bilden schnell eine Reihe und feuern eine Salve auf die anstürmenden Berserker ab. Kugeln durchfetzen deren Plattenrüstung und es fallen unzählige Berserker. Als die Berserker die Gefahr endlich erkennen und versuchen, auf die Schützen zu stürmen, reißt eine weitere Salve sie fast alle in Stücke. Die wenigen, die noch am Leben sind, ziehen sich hastig zurück. Die Linie hat gehalten&#160;… du siehst jedoch, dass auch einige deiner eigenen Truppen durch die Schüsse getötet wurden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@ Nachdem die Paladine nun mit den Ogern beschäftigt sind, können sie die mittle
 
 Gathbins Elitewache befindet sich hinter ihnen, die Linie vor ihnen&#160;… die Düsteren Schreiter sind zum Anstürmen gezwungen.
 
-Das hält die Pfadfinder aber nicht davon ab, Salve um Salve sowohl in die Ritter als auch in deren Verbündete in der Frontlinie abzufeuern. Jede Salve landet mit verheerender Wirkung. Dutzende von Feinden fallen mit tödlichen Pfeilwunden auf die blutgetränkte Erde.</DefaultText>
+Das hält die Pfadfinder aber nicht davon ab, Salve um Salve sowohl gegen die Ritter als auch gegen deren Verbündete an der Frontlinie abzufeuern. Jede Salve landet mit verheerender Wirkung. Dutzende von Feinden fallen mit tödlichen Pfeilwunden auf die blutgetränkte Erde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -383,10 +383,10 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
       <ID>195</ID>
       <DefaultText>Ein Mann nähert sich. Er neigt sich zu dir und umklammert deine Hand mit festem Griff.
 
-„Fürchten Sie sich nicht, mein Fürst. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee. /</DefaultText>
+„Fürchten Sie sich nicht, mein Fürst. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee.</DefaultText>
       <FemaleText>Ein Mann nähert sich. Er neigt sich zu dir und umklammert deine Hand mit festem Griff.
 
-„Fürchten Sie sich nicht, meine Fürstin. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee. /</FemaleText>
+„Fürchten Sie sich nicht, meine Fürstin. Die anderen sind schon in Position. Deuten Sie einfach auf jeden, den Sie tot sehen wollen. Das Haus Doemenel steht Ihnen bei.“ Er nickt mit einem verschmitzten Lächeln in Richtung Gathbins Armee.</FemaleText>
     </Entry>
     <Entry>
       <ID>196</ID>
@@ -400,7 +400,7 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Fürst Gathbin liegt tot vor dir. Seine Armee ist zerschlagen. Blutverschmiert und erschöpft blicken deine verbleibenden Truppen zu dir, die Schwert im Triumph erhoben, und skandieren deinen Namen.
+      <DefaultText>Fürst Gathbin liegt tot vor dir. Seine Armee ist zerschlagen. Blutverschmiert und erschöpft blicken deine verbleibenden Truppen zu dir, die Schwerter im Triumph erhoben, und skandieren deinen Namen.
 
 „[Player Name]! [Player Name]! [Player Name]!“</DefaultText>
       <FemaleText />
@@ -457,17 +457,17 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Ich lasse mir diesen Sieg nicht nehmen. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Ich lasse mir diesen Sieg nicht nehmen. Ich werde Sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Wir wussten beide, dass es so kommen würde. Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Wir wussten beide, dass es so kommen würde. Ich werde Sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Mit diesem Gesindel wollten Sie mich besiegen? Ich werde sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
+      <DefaultText>„[Player Name]!“ Fürst Gathbin schreitet durch das Gemetzel, begleitet von seiner Elitewache. „Mit diesem Gesindel wollten Sie mich besiegen? Ich werde Sie töten wie einen räudigen Straßenköter. Mehr sind Sie nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
