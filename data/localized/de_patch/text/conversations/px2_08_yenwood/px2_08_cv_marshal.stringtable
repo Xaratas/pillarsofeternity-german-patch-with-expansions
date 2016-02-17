@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Es ist eine delikate Situation. Rechtlich gesehen ist Fürst Gathbins Forderung berechtigt&#160;… und er weiß es. Einer Adelsfamilie Land und Titel zu nehmen, ist gefährlich. Vielleicht gefährlicher, als den Mann einfach zu töten.“</DefaultText>
+      <DefaultText>„Es ist eine heikle Situation. Rechtlich gesehen ist Fürst Gathbins Forderung zulässig&#160;… und er weiß es. Einer Adelsfamilie Land und Titel zu nehmen, ist gefährlich. Vielleicht gefährlicher, als den Mann einfach zu töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,7 +194,7 @@
     <Entry>
       <ID>38</ID>
       <DefaultText>„Ah, wütende Mobs. Der unvermeidliche Dorn im Auge eines jeden Herrschers, was, [Player Name]?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ah, wütende Mobs. Der unvermeidliche Dorn im Auge einer jeden Herrscherin, was, [Player Name]?“</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -219,7 +219,7 @@
     <Entry>
       <ID>43</ID>
       <DefaultText>„Ihre Untertanen haben Glück, einen Herrscher zu haben, der die mitfühlende Seite des Adels versteht. Aber vorerst werden sie warten müssen.“</DefaultText>
-      <FemaleText />
+       <FemaleText>„Ihre Untertanen haben Glück, eine Herrscherin zu haben, welche die mitfühlende Seite des Adels versteht. Aber vorerst werden sie warten müssen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -253,13 +253,13 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Aber einen Familienanspruch auf Land und einen Titel zu verlieren? Solche Dispute wecken den Hass eines gesamten Clans und seiner politischen Verbündeten. Ganz abgesehen davon, dass sie Unruhe bei den übrigen Adligen hervorrufen. Es wurden schon weniger nichtigeren Dingen Kriege geführt.“</DefaultText>
+      <DefaultText>„Aber einen Familienanspruch auf Land und einen Titel zu verlieren? Solche Dispute wecken den Hass eines gesamten Clans und seiner politischen Verbündeten. Ganz abgesehen davon, dass sie Unruhe bei den übrigen Adligen hervorrufen. Es wurden schon aus nichtigeren Gründen Kriege geführt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>„Nein. Wenn Gathbins Anspruch abgewiesen werden soll, dann liegt es an Ihnen, die Rechtmäßigkeit Ihres Besitzes zu beweisen – dem Erl gegenüber und allen anderen, die Caed Nua beanspruchen. Diese Pflicht hat man als Adliger im Dyrwald.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nein. Wenn Gathbins Anspruch abgewiesen werden soll, dann liegt es an Ihnen, die Rechtmäßigkeit Ihres Besitzes zu beweisen – dem Erl gegenüber und allen anderen, die Caed Nua beanspruchen. Diese Pflicht hat man als Adlige im Dyrwald.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>

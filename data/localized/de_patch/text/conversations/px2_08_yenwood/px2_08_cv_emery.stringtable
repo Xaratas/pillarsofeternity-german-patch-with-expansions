@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie schnaubt verächtlich. „Ich bin Profi. Tote Bürger ziehen meist unerwünschte Aufmerksamkeit nach sich.“</DefaultText>
+      <DefaultText>Sie schnaubt verächtlich. „Ich bin Profi. Tote Bürger haben meist unerwünschte Aufmerksamkeit zur Folge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     <Entry>
       <ID>24</ID>
       <DefaultText>„Ein besseres Leben im Dienst eines ehrenhaften Fürsten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ein besseres Leben im Dienst einer ehrenhaften Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -195,12 +195,12 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Ha! Ich habe nicht so lange überlebt, indem ich vor leeren Drohungen eingeknickt bin. Tu dein Schlimmstes.“</DefaultText>
+      <DefaultText>„Ha! Ich habe nicht so lange überlebt, indem ich vor leeren Drohungen eingeknickt bin. Tu, was du nicht lassen kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Die junge Frau, die offensichtlich die Anführerin der bewaffneten Gruppe ist, nimmt mit einer Hand ihre Kutte ab, während die andere auf einer Pistole in ihrem Gürtel ruht.
+      <DefaultText>Die junge Frau, die offensichtlich die Anführerin der bewaffneten Gruppe ist, nimmt mit einer Hand ihre Kutte ab, während die andere auf einer Pistole in ihrem Gürtel ruht.
 
 Du erkennst in ihr sofort Gathbins Hauptmann.</DefaultText>
       <FemaleText />

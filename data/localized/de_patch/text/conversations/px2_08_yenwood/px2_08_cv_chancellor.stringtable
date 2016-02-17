@@ -143,7 +143,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Wie dem auch sei, Caed Nua gehört nun offiziell Ihnen, nachdem Fürst Gathbin das Urteil des Grafen zurückgewiesen hat.“ Er überreicht dir ein dunkelblaues Zepter, das aussieht, als wäre es vollständig aus Saphir geschnitzt wurden. „Hier&#160;… das gehört einem der früheren Fürsten von Caed Nua. Rechtmäßig gehört es nun Ihnen.“</DefaultText>
+      <DefaultText>„Wie dem auch sei, Caed Nua gehört nun offiziell Ihnen, nachdem Fürst Gathbin das Urteil des Grafen zurückgewiesen hat.“ Er überreicht dir ein dunkelblaues Zepter, das aussieht, als wäre es vollständig aus Saphir geschnitzt worden. „Hier&#160;… das gehörte einem der früheren Fürsten von Caed Nua. Rechtmäßig gehört es nun Ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     <Entry>
       <ID>35</ID>
       <DefaultText>„Ich weiß nicht, aus welchen fernen Landen Sie kommen, aber Ihr Titel hat im Dyrwald wenig Gewicht. Kanzler, verlesen Sie das Urteil. Ich verliere meine Geduld mit diesem Narren von Hinterwäldler.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich weiß nicht, aus welchen fernen Landen Sie kommen, aber Ihr Titel hat im Dyrwald wenig Gewicht. Kanzler, verlesen Sie das Urteil. Ich verliere meine Geduld mit dieser närrischen Hinterwäldlerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -203,7 +203,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Der Graf erkennt jedoch die Rolle von [Player Name] bei der Rettung und dem Wiederaufbau von Caed Nua an, einer Festung, die über ein Jahrhundert lang verlassen gelegen hatte und nach Meinung einiger sogar verflucht war. Bevor Caed Nua an die Familie Gathbin zurückgegeben wird, verfügt der Graf daher, dass Fürst Gathbin eine Entschädigung in Form von-“</DefaultText>
+      <DefaultText>„Der Graf erkennt jedoch die Rolle von [Player Name] bei der Rettung und dem Wiederaufbau von Caed Nua an, einer Festung, die über ein Jahrhundert lang verlassen gelegen hatte und nach Meinung einiger sogar verflucht war. Bevor Caed Nua an die Familie Gathbin zurückgegeben wird, verfügt der Graf daher, dass Fürst Gathbin eine Entschädigung in Form von&#160;-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Meine Fürstschaften, bitte! Es gibt keinen Grund für Gewalt!“</DefaultText>
+      <DefaultText>„Meine Fürsten, bitte! Es gibt keinen Grund für Gewalt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,8 +318,8 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Einfaltspinsel! Ich hoffe, Sie haben Ihre Zeit als Besetzer meines Landes genossen. Wenn Sie mich weiter provozieren, hänge ich sie von der höchsten Wand auf Caed Nua, sobald diese Angelegenheit geklärt ist. Kanzler, verlesen Sie das Urteil des Grafen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Einfaltspinsel! Ich hoffe, Sie haben Ihre Zeit als Besetzer meines Landes genossen. Wenn Sie mich weiter provozieren, hänge ich sie von der höchsten Mauer auf Caed Nua, sobald diese Angelegenheit geklärt ist. Kanzler, verlesen Sie das Urteil des Grafen.“</DefaultText>
+      <FemaleText>„Närrin! Ich hoffe, Sie haben Ihre Zeit als Besetzerin meines Landes genossen. Wenn Sie mich weiter provozieren, hänge ich sie von der höchsten Mauer auf Caed Nua, sobald diese Angelegenheit geklärt ist. Kanzler, verlesen Sie das Urteil des Grafen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
@@ -497,7 +497,7 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Als der Dyrwald noch eine bloße Kolonie Aedyrs war, war er in neun Grafschaften unterteilt. Als die Aedyraner besiegt und schließlich vertrieben wurden, gingen zwei der Grafschaften in anderen auf und die Grenzen wurden neu gezogen. Der Yenwald war eine dieser Grafschaften.“</DefaultText>
+      <DefaultText>„Als der Dyrwald noch eine bloße Kolonie Aedyrs war, war er in neun Grafschaften unterteilt. Als die Aedyrer besiegt und schließlich vertrieben wurden, gingen zwei der Grafschaften in anderen auf und die Grenzen wurden neu gezogen. Der Yenwald war eine dieser Grafschaften.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -512,12 +512,12 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Er stammt aus einem alten aedyranischen Geschlecht, das bis in die Zeit vor dem Widerstandskrieg zurückreicht. Sein Urgroßvater, Rännig Gathbin, war während des Kriegs der Graf von Yenwald. Bis ihm sein Land weggenommen wurde und er aus dem Dyrwald verjagt wurde.“</DefaultText>
+      <DefaultText>„Er stammt aus einem alten aedyrischen Geschlecht, das bis in die Zeit vor dem Widerstandskrieg zurückreicht. Sein Urgroßvater, Rännig Gathbin, war während des Kriegs der Graf von Yenwald. Bis ihm sein Land weggenommen wurde und er aus dem Dyrwald verjagt wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Ohne Druckmittel musste der Graf hinnehmen, dass ihm seine Ländereien fast vollständig entzogen wurden und die Grafschaft Yenwald in die heute als 'der Griff' bekannte Grafschaft aufging.“</DefaultText>
+      <DefaultText>„Ohne Druckmittel musste der Graf hinnehmen, dass ihm seine Ländereien fast vollständig entzogen wurden und die Grafschaft Yenwald in der heute als 'der Griff' bekannten Grafschaft aufging.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,13 +609,13 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>„Dann scheint meine Arbeit getan. Besuchen Sie gerne den Palast, wenn-“ Er tritt mit einem nassen Schmatzen auf einen Haufen Gedärme, als er sich zum Gehen wendet. „Vielleicht komme ich lieber sie besuchen. Ja, ja. Vielleicht in einem Jahr&#160;… oder drei.“</DefaultText>
+      <DefaultText>„Dann scheint meine Arbeit getan. Besuchen Sie gerne den Palast, wenn&#160;-“ Er tritt mit einem nassen Schmatzen auf einen Haufen Gedärme, als er sich zum Gehen wendet. „Vielleicht komme ich lieber sie besuchen. Ja, ja. Vielleicht in einem Jahr&#160;… oder drei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
       <DefaultText>„Fürst [Player Name], es war mir eine Ehre, Ihnen zu dienen. Ich begebe mich zurück nach Geirans Griff, der Graf hat dort dringende Aufgaben für mich, fürchte ich.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Fürstin [Player Name], es war mir eine Ehre, Ihnen zu dienen. Ich begebe mich zurück nach Geirans Griff, der Graf hat dort dringende Aufgaben für mich, fürchte ich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
@@ -675,7 +675,7 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     <Entry>
       <ID>142</ID>
       <DefaultText>„Derjenige, der im Auftrag des Grafen von Yenwald über Caed Nua herrscht, wird traditionell Straßenwächter genannt. Ihre Stellung mag noch nicht vollständig offiziell sein, aber der Titel ist eine angemessene Anrede.“ Der Marschall nickt und lächelt.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Diejenige, die im Auftrag des Grafen von Yenwald über Caed Nua herrscht, wird traditionell Straßenwächterin genannt. Ihre Stellung mag noch nicht vollständig offiziell sein, aber der Titel ist eine angemessene Anrede.“ Der Marschall nickt und lächelt.</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
