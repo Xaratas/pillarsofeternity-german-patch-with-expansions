@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\tutorial</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>49</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -250,6 +250,13 @@ Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Char
     <Entry>
       <ID>47</ID>
       <DefaultText>Verwende die Tab-Taste, um interaktive Gegenstände in der Umgebung zu markieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Weiße Esse steht dir jetzt zur Verfügung. Sie besitzt die einzigartige Fähigkeit, Durgan-Eisenbarren zu veredeln. Es sind mehrere Eisenbarren nötig, um einen einzigen veredelten Barren herzustellen.
+
+Nach der Veredelung können diese Barren jederzeit in Verzauberungsrezepten verwendet werden, um Waffen, Schilde und Rüstungen mit Durganstahl zu verbessern.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
