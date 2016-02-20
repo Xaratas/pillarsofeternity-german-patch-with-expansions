@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2160</EntryCount>
+  <EntryCount>2421</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7085,6 +7085,16 @@ Nach dem sechsten Rang werden die zuvor erhaltenen Boni mächtiger, in derselben
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1412</ID>
       <DefaultText>Klub der kultivierten und angesehenen Ehrenmänner</DefaultText>
       <FemaleText />
@@ -8303,8 +8313,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>{0}&#160;% Max. Erschöpfung,
-{1}&#160;% Erschöpfungszuwachs im Kampf</DefaultText>
+      <DefaultText>{0}&#160;% Max. Erschöpfung, {1}&#160;% Erschöpfungszuwachs im Kampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8314,9 +8323,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1658</ID>
-      <DefaultText>Stufe {0} Fallen entschärfen,
-Stufe {1} Schlösser knacken,
-{2} Fallengenauigkeit</DefaultText>
+      <DefaultText>Stufe {0} Fallen entschärfen, Stufe {1} Schlösser knacken, {2} Fallengenauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9537,6 +9544,41 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1903</ID>
+      <DefaultText>Ondra-Tempel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Gréfenrast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>Fischerei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText>Renengilds Haus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1907</ID>
+      <DefaultText>Thyrscs Haus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Taenas Haus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1909</ID>
+      <DefaultText>Ydurans Wagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1910</ID>
       <DefaultText>Schatzkammer</DefaultText>
       <FemaleText />
@@ -9544,6 +9586,11 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1911</ID>
       <DefaultText>Burgvogtin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1912</ID>
+      <DefaultText>Die Teufelin von Caroc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9682,6 +9729,16 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1940</ID>
+      <DefaultText>Rotwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1941</ID>
+      <DefaultText>Höhle der Flammen-die-flüstern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1942</ID>
       <DefaultText>Automatischer langsamer Kampf</DefaultText>
       <FemaleText />
@@ -9727,6 +9784,11 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1951</ID>
+      <DefaultText>Durgans Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1952</ID>
       <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Ziele mit niedriger Ausdauer</DefaultText>
       <FemaleText />
@@ -9739,6 +9801,26 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1954</ID>
       <DefaultText>Dyrwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1956</ID>
+      <DefaultText>Gefrorener Lagerraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1957</ID>
+      <DefaultText>Wachquartier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1958</ID>
+      <DefaultText>Krisenraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1959</ID>
+      <DefaultText>Festsaal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9764,6 +9846,66 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1964</ID>
       <DefaultText>Lässt Gefährten bei Beitritt zur Gruppe automatisch aufsteigen. Deaktivieren, um Gefährten manuell von Stufe 1 aufsteigen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1965</ID>
+      <DefaultText>See</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1966</ID>
+      <DefaultText>Waffenkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1967</ID>
+      <DefaultText>Mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1968</ID>
+      <DefaultText>Kammer der Hellseherei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1969</ID>
+      <DefaultText>Eistunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1970</ID>
+      <DefaultText>Schlafquartier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1971</ID>
+      <DefaultText>Speisesaal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1972</ID>
+      <DefaultText>Zum Rotwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1973</ID>
+      <DefaultText>Zur Unteren Höhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1974</ID>
+      <DefaultText>Rotwaldteich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1975</ID>
+      <DefaultText>Holzfällerlichtung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1976</ID>
+      <DefaultText>Jägerlager</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9804,6 +9946,11 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1984</ID>
       <DefaultText>Legt fest, mit welcher Häufigkeit Gruppenmitglieder akustisches Feedback auf Befehle geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1986</ID>
+      <DefaultText>Erdrutsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9852,6 +9999,11 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1996</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1997</ID>
       <DefaultText>Max. Bildwiederholungsrate</DefaultText>
       <FemaleText />
@@ -9872,6 +10024,46 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2001</ID>
+      <DefaultText>Halle der Erinnerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2002</ID>
+      <DefaultText>Werkstatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2003</ID>
+      <DefaultText>Lorentunnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2006</ID>
+      <DefaultText>Kampfkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2008</ID>
+      <DefaultText>Tor der Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2009</ID>
+      <DefaultText>Halle der Brüder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2012</ID>
+      <DefaultText>Kammer von Durgans Stolz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2014</ID>
+      <DefaultText>Die Weißmark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2015</ID>
       <DefaultText>Untersuchen</DefaultText>
       <FemaleText />
@@ -9882,8 +10074,33 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2017</ID>
+      <DefaultText>Wolfshöhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2018</ID>
       <DefaultText>Ungenutzte Punkte werden in die nächste Stufe übertragen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2021</ID>
+      <DefaultText>Höhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2022</ID>
+      <DefaultText>Durgans Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2023</ID>
+      <DefaultText>Galvinos Hütte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2024</ID>
+      <DefaultText>Karawane</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9892,8 +10109,68 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2026</ID>
+      <DefaultText>Zur Oberen Höhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2027</ID>
+      <DefaultText>Galawain-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2028</ID>
+      <DefaultText>Rotwald-Krater</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2029</ID>
+      <DefaultText>Verlassenes Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2030</ID>
+      <DefaultText>Seele binden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2031</ID>
+      <DefaultText>Bindung kappen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2032</ID>
+      <DefaultText>Willst du {0} wirklich an {1} seelenbinden? Wenn die Bindung hergestellt ist, kann dieser Gegenstand nicht mehr von einem anderen Charakter verwendet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2033</ID>
+      <DefaultText>Willst du die Bindung zwischen {0} und {1} wirklich kappen? Alle Fähigkeiten, die bei {1} erweckt wurden, gehen verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2034</ID>
+      <DefaultText>Bindet an: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2035</ID>
+      <DefaultText>Diese Waffe kann nur an Charaktere der folgenden Klassen gebunden werden: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2036</ID>
       <DefaultText>, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2037</ID>
+      <DefaultText>Gebunden an: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2038</ID>
+      <DefaultText>{0} ist seelengebunden an {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9902,8 +10179,48 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2040</ID>
+      <DefaultText>Durgans Übergang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2041</ID>
+      <DefaultText>Batterie-Wachturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2042</ID>
+      <DefaultText>Taragaers Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2043</ID>
       <DefaultText>Zerstört</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2044</ID>
+      <DefaultText>Seelengebunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2045</ID>
+      <DefaultText>{0} um die nächste Stufe freizuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2046</ID>
+      <DefaultText>Töte {0} {1} mit {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2047</ID>
+      <DefaultText>Füge {1} mit {2} {0} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2048</ID>
+      <DefaultText>Diese Waffe binden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9968,8 +10285,248 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2060</ID>
+      <DefaultText>Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2061</ID>
+      <DefaultText>Diebe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2062</ID>
+      <DefaultText>Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2063</ID>
+      <DefaultText>Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2064</ID>
+      <DefaultText>Barbaren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2065</ID>
+      <DefaultText>Waldläufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2066</ID>
+      <DefaultText>Druiden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2067</ID>
+      <DefaultText>Paladine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2068</ID>
+      <DefaultText>Mönche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2069</ID>
+      <DefaultText>Medien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2070</ID>
+      <DefaultText>Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2071</ID>
+      <DefaultText>Trolle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2072</ID>
+      <DefaultText>Oger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2073</ID>
+      <DefaultText>Wölfe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2074</ID>
+      <DefaultText>Spinnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2075</ID>
+      <DefaultText>Schleime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2076</ID>
+      <DefaultText>Stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2077</ID>
+      <DefaultText>Imps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2078</ID>
+      <DefaultText>Feuchtsporen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2079</ID>
+      <DefaultText>Sumpflauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2080</ID>
+      <DefaultText>Eoten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2081</ID>
+      <DefaultText>Xaurips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2082</ID>
+      <DefaultText>Vithrack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2083</ID>
+      <DefaultText>Irrlichter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2084</ID>
+      <DefaultText>Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2085</ID>
+      <DefaultText>Pŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2086</ID>
+      <DefaultText>Lindwürmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2087</ID>
+      <DefaultText>Skuldrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2088</ID>
+      <DefaultText>Jungdrachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2089</ID>
+      <DefaultText>Flugdrachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2090</ID>
+      <DefaultText>Adra-Drachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2091</ID>
+      <DefaultText>Fäulen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2092</ID>
+      <DefaultText>Animate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2093</ID>
+      <DefaultText>Fleischkonstrukte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2094</ID>
+      <DefaultText>Schatten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2095</ID>
+      <DefaultText>Phantome</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2096</ID>
+      <DefaultText>Cean Gŵla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2097</ID>
+      <DefaultText>Skelette</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2098</ID>
+      <DefaultText>Wiedergänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2099</ID>
+      <DefaultText>Guls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2100</ID>
+      <DefaultText>Darguls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2101</ID>
+      <DefaultText>Fampire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2102</ID>
+      <DefaultText>Wichte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2103</ID>
+      <DefaultText>Käfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2104</ID>
       <DefaultText>Tierischer Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2105</ID>
+      <DefaultText>Schwache Feinde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2106</ID>
+      <DefaultText>Woedica-Boten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2107</ID>
+      <DefaultText>Woedica-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2108</ID>
+      <DefaultText>Lagufaeth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9995,6 +10552,21 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2113</ID>
       <DefaultText>Kein KI-Script gewählt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2114</ID>
+      <DefaultText>Die Weißmark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2115</ID>
+      <DefaultText>Die Burgvogtin von Caed Nua hat einen Brief für dich erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2116</ID>
+      <DefaultText>Alle seelengebundenen Ausbauten sind abgeschlossen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10028,6 +10600,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2124</ID>
       <DefaultText>Auto-Angriff tierischer Gefährte</DefaultText>
       <FemaleText />
@@ -10053,13 +10630,108 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2129</ID>
+      <DefaultText>Bauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2130</ID>
+      <DefaultText>Der Heilige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2131</ID>
+      <DefaultText>Zeuge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2132</ID>
+      <DefaultText>Turm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2133</ID>
+      <DefaultText>Götterhammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2134</ID>
+      <DefaultText>Das Dutzend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2135</ID>
+      <DefaultText>nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2136</ID>
+      <DefaultText>das Fell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2137</ID>
+      <DefaultText>die Haut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2138</ID>
+      <DefaultText>das Ohr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2139</ID>
+      <DefaultText>den Mund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2140</ID>
+      <DefaultText>das Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2141</ID>
+      <DefaultText>die Nase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2142</ID>
+      <DefaultText>{0}, Wert {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2143</ID>
       <DefaultText>Beschreibung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2144</ID>
+      <DefaultText>Concelhauts Kammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2145</ID>
+      <DefaultText>Tanoss' Labor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2146</ID>
+      <DefaultText>Peldens Labor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2147</ID>
+      <DefaultText>Sabels Labor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2148</ID>
       <DefaultText>Beschwörung {0} von</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2149</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -10085,6 +10757,21 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2154</ID>
       <DefaultText>KI-Verhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2155</ID>
+      <DefaultText>Uarikis Labor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2156</ID>
+      <DefaultText>Zu den Crägholdt-Klippen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2157</ID>
+      <DefaultText>Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10128,8 +10815,48 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2166</ID>
+      <DefaultText>Werkstatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2167</ID>
+      <DefaultText>Laboratorium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2168</ID>
+      <DefaultText>Versuchsgelände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2169</ID>
+      <DefaultText>Arbeitszimmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2170</ID>
+      <DefaultText>Heiße Quelle von Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2171</ID>
       <DefaultText>{0} zum Inventar hinzugefügt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2172</ID>
+      <DefaultText>Löse die Wirkung {1} {0} mal aus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2173</ID>
+      <DefaultText>Werde im Kampf {0} mal wiederbelebt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2174</ID>
+      <DefaultText>Füge {1} mit {3} {0} {2} Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10168,6 +10895,31 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2182</ID>
+      <DefaultText>Zerrissenes Päckchen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2183</ID>
+      <DefaultText>Heiße Quelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2184</ID>
+      <DefaultText>Zwergenruine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2185</ID>
+      <DefaultText>Zwergenwachturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2186</ID>
+      <DefaultText>Gestandenen-{0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2187</ID>
       <DefaultText>Imm.</DefaultText>
       <FemaleText />
@@ -10175,6 +10927,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2188</ID>
       <DefaultText>Immun!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2189</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -10200,6 +10957,21 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2194</ID>
       <DefaultText>{0} Einzelwaffe-Geschwindigkeitsmalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2195</ID>
+      <DefaultText>Festsaal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2196</ID>
+      <DefaultText>Seelengebundene Waffe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2197</ID>
+      <DefaultText>Seelengebunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10250,6 +11022,51 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2207</ID>
       <DefaultText>Erfordert Ausdauer über {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2208</ID>
+      <DefaultText>Verflucht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2209</ID>
+      <DefaultText>Befehlszelt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2210</ID>
+      <DefaultText>Höhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2211</ID>
+      <DefaultText>Feldlazarett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2212</ID>
+      <DefaultText>Übungsgelände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2213</ID>
+      <DefaultText>Versuchsgelände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2214</ID>
+      <DefaultText>Laboratorium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2215</ID>
+      <DefaultText>Werkstatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2216</ID>
+      <DefaultText>Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10318,6 +11135,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2231</ID>
+      <DefaultText>Leiter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2233</ID>
       <DefaultText>Kundschaften</DefaultText>
       <FemaleText />
@@ -10350,6 +11177,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2239</ID>
       <DefaultText>Sofort erholen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2240</ID>
+      <DefaultText>Resonanz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10473,6 +11305,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2265</ID>
+      <DefaultText>Cayrons Narbe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2266</ID>
+      <DefaultText>Kristall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2267</ID>
       <DefaultText>Die KI des Charakters wird weder Zaubersprüche noch Fähigkeiten einsetzen.</DefaultText>
       <FemaleText />
@@ -10493,6 +11335,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2271</ID>
+      <DefaultText>Cayrons Narbe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2272</ID>
+      <DefaultText>Weißmark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2273</ID>
       <DefaultText>Stiehlt {1} Zaubersprüche der Stufe {0} oder niedriger</DefaultText>
       <FemaleText />
@@ -10500,6 +11352,26 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2274</ID>
       <DefaultText>{0} von {1} gestohlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2275</ID>
+      <DefaultText>Ondriten-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2276</ID>
+      <DefaultText>Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2277</ID>
+      <DefaultText>Lager der Ondriten-Fanatiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2278</ID>
+      <DefaultText>Eisschollen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10515,6 +11387,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2281</ID>
       <DefaultText>Nächstes Menü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2282</ID>
+      <DefaultText>Eisloch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10563,8 +11440,53 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
      <FemaleText />
     </Entry>
     <Entry>
+      <ID>2292</ID>
+      <DefaultText>Minen von Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2293</ID>
+      <DefaultText>Abydon-Tempel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2294</ID>
       <DefaultText>Vorheriges Menü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2295</ID>
+      <DefaultText>Kommandoposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2296</ID>
+      <DefaultText>Zwinger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2297</ID>
+      <DefaultText>Übungshof</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2298</ID>
+      <DefaultText>Belagerungsgeräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2299</ID>
+      <DefaultText>Westtor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2300</ID>
+      <DefaultText>Grabstätte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2301</ID>
+      <DefaultText>Haupttor</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10608,8 +11530,18 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2310</ID>
+      <DefaultText>Eisenflegel-Festung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2311</ID>
       <DefaultText>Rezitationszeit {0}-Phrase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2312</ID>
+      <DefaultText>Hamonds Warenhaus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10723,8 +11655,143 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2337</ID>
+      <DefaultText>Abtei des Gefallenen Mondes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2338</ID>
+      <DefaultText>Hallen der Präsenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2339</ID>
+      <DefaultText>Riesenskelett-Hüfte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2340</ID>
+      <DefaultText>Becken der Auserwählten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2341</ID>
+      <DefaultText>Kammer der Tränen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2342</ID>
+      <DefaultText>Wasserweg des Anstiegs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2343</ID>
+      <DefaultText>Halle des Schweigens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2344</ID>
+      <DefaultText>Kammer des Gefallenen Mondes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2345</ID>
+      <DefaultText>Halle der Flutwelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2346</ID>
+      <DefaultText>Quartier des Abtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2347</ID>
+      <DefaultText>Quartier des Wellenkamms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2348</ID>
+      <DefaultText>Halle des Wellenkamms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2349</ID>
+      <DefaultText>Die Bibliothek</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2350</ID>
+      <DefaultText>Gewölbe der Vergessenen Gedanken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2351</ID>
+      <DefaultText>Schleier der Tränen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2352</ID>
+      <DefaultText>Das Reliquiar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2353</ID>
+      <DefaultText>Riesenskelett-Brustkorb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2354</ID>
+      <DefaultText>Riesenskelett-Hand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2355</ID>
+      <DefaultText>Riesenskelett-Bein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2356</ID>
+      <DefaultText>Ondras Passagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2357</ID>
+      <DefaultText>Weißsteinsenke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2358</ID>
+      <DefaultText>Versinkende Ruine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2359</ID>
+      <DefaultText>Uralter Turm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2360</ID>
+      <DefaultText>Kultsiedlung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2361</ID>
       <DefaultText>Rüstungseffizienz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2363</ID>
+      <DefaultText>Fragment von Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2364</ID>
+      <DefaultText>Fragment von Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2365</ID>
+      <DefaultText>Eingefrorene Augenlosen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10768,8 +11835,73 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2374</ID>
+      <DefaultText>Quartier des Vorarbeiters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2375</ID>
+      <DefaultText>Schwefelminen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2376</ID>
+      <DefaultText>Sameths Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2377</ID>
+      <DefaultText>Minenschacht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2378</ID>
+      <DefaultText>Einsturzstelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2379</ID>
+      <DefaultText>Weißsteinsee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2380</ID>
+      <DefaultText>Haddis Haus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2381</ID>
+      <DefaultText>Verbrannte Scheune</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2382</ID>
+      <DefaultText>Lawine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2383</ID>
+      <DefaultText>Isoliertes Podest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2384</ID>
+      <DefaultText>Höhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2385</ID>
+      <DefaultText>Plündererlager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2386</ID>
       <DefaultText>von {1} auf {0} festgelegt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2387</ID>
+      <DefaultText>Stapel Baumstämme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10783,6 +11915,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2390</ID>
+      <DefaultText>Geröll von Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2391</ID>
       <DefaultText>{0} Verwendung von {1} wiederherstellen</DefaultText>
       <FemaleText />
@@ -10790,6 +11927,36 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2392</ID>
       <DefaultText>{0} Verwendungen von {1} wiederherstellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2393</ID>
+      <DefaultText>Lichtung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2394</ID>
+      <DefaultText>Vithrack-Gemeinschaftshaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2395</ID>
+      <DefaultText>Schlägerquartier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2396</ID>
+      <DefaultText>Vithrack-Nester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2397</ID>
+      <DefaultText>Seltsame Pilze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2398</ID>
+      <DefaultText>Zellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10838,6 +12005,41 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2408</ID>
+      <DefaultText>Zwergenarchiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2409</ID>
+      <DefaultText>Kanonenkugelschmiede</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2410</ID>
+      <DefaultText>Artillerieaufzug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2411</ID>
+      <DefaultText>Patinationskammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2412</ID>
+      <DefaultText>Quartier des Trankmeisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2413</ID>
+      <DefaultText>Wartungsraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2414</ID>
+      <DefaultText>Eisenflegel-Festung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2415</ID>
       <DefaultText>Aktionssymbole auf Porträts</DefaultText>
       <FemaleText />
@@ -10868,13 +12070,53 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2421</ID>
+      <DefaultText>Wund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2422</ID>
+      <DefaultText>Die Weißmark: Teil 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2423</ID>
       <DefaultText>Augenloser</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2424</ID>
+      <DefaultText>Spitze der Abtei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2425</ID>
+      <DefaultText>Zinnen der Abtei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2426</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2427</ID>
+      <DefaultText>Pillars of Eternity – Die Weißmark: Teil 2 wurde veröffentlicht!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2428</ID>
+      <DefaultText>Hol es dir noch heute!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2430</ID>
       <DefaultText>{0} {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2431</ID>
+      <DefaultText>Klippen der Abtei</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10900,6 +12142,66 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2436</ID>
       <DefaultText>Byrnwigars Truppen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2438</ID>
+      <DefaultText>Du hast Pillars of Eternity – Die Weißmark: Teil 2 installiert. Es steht zur Verfügung, sobald du die Hauptstory von Teil 1 abgeschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2439</ID>
+      <DefaultText>Du hast Pillars of Eternity – Die Weißmark: Teil 1 abgeschlossen. Um das nächste Kapitel der Geschichte zu beginnen, raste an einem beliebigen Ort außerhalb der Weißmark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2440</ID>
+      <DefaultText>Pfad nach Norden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2441</ID>
+      <DefaultText>Gemeinschaftsraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2442</ID>
+      <DefaultText>Treppen zum Wehrgang der Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2444</ID>
+      <DefaultText>Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2445</ID>
+      <DefaultText>Ritueller Kreis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2446</ID>
+      <DefaultText>Du kannst die Felsoger zur Hilfe rufen, indem du in Cayrons Narbe Beregans Schlachthorn erschallen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2447</ID>
+      <DefaultText>Du kannst die Kanonen von Durgans Batterie abfeuern lassen, indem du in Cayrons Narbe die Fähigkeit 'Schwerer Kanonenbeschuss' einsetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2448</ID>
+      <DefaultText>Du kannst die Readceraner zur Hilfe rufen, indem du in Cayrons Narbe die Fähigkeit 'Katapult mit brennendem Pech' einsetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2449</ID>
+      <DefaultText>Zum Westturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2450</ID>
+      <DefaultText>Gravierter Heizkessel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
