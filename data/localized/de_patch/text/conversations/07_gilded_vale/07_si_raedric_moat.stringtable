@@ -271,12 +271,12 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[Put on Iverra's diving helmet and swim through.]</DefaultText>
+      <DefaultText>[Iverras Taucherhelm aufsetzen und hindurchschwimmen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Wearing the diving helmet has the added benefit of warding off the worst of the acrid stench around you. You slip forward into the flooded tunnel. The walls soon fade from view as you plunge into a foreboding darkness.</DefaultText>
+      <DefaultText>Der Taucherhelm hat den zusätzlichen Vorteil, dass er den Gestank um dich herum größtenteils abhält. Du gleitest nach vorne in den überfluteten Tunnel. Schon bald sind die Wände nicht mehr zu sehen und du tauchst in eine bedrohliche Dunkelheit ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

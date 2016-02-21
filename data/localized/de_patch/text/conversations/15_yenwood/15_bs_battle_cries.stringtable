@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_08_yenwood\px2_08_bs_battle_cries</Name>
+  <Name>conversations\15_yenwood\15_bs_battle_cries</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>3</EntryCount>
   <Entries>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Sterbt, ihr aedyranischen Bastarde!“</DefaultText>
+      <DefaultText>„Sterbt, ihr aedyrischen Bastarde!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

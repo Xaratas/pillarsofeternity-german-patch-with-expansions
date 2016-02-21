@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich grüße Sie, mein Fürst! Ich bin Azzuro, der berühmte Kaufmann. Ich handle mit wertvollen und seltenen Objekten."</DefaultText>
-      <FemaleText>"Ich grüße Sie, meine Fürstin! Ich bin Azzuro, der berühmte Kaufmann. Ich handle mit wertvollen und seltenen Objekten."</FemaleText>
+      <DefaultText>„Ich grüße Sie, mein Fürst! Ich bin Azzuro, der berühmte Kaufmann. Ich handle mit wertvollen und seltenen Objekten.“</DefaultText>
+      <FemaleText>„Ich grüße Sie, meine Fürstin! Ich bin Azzuro, der berühmte Kaufmann. Ich handle mit wertvollen und seltenen Objekten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Es sind diese Banditen, mein Fürst. Auf den Straßen wimmelt es von ihnen. Die örtlichen Kaufleute leben in Angst."</DefaultText>
-      <FemaleText>"Es sind diese Banditen, meine Fürstin. Auf den Straßen wimmelt es von ihnen. Die örtlichen Kaufleute leben in Angst."</FemaleText>
+      <DefaultText>„Es sind diese Banditen, mein Fürst. Auf den Straßen wimmelt es von ihnen. Die örtlichen Kaufleute leben in Angst.“</DefaultText>
+      <FemaleText>„Es sind diese Banditen, meine Fürstin. Auf den Straßen wimmelt es von ihnen. Die örtlichen Kaufleute leben in Angst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -21,42 +21,42 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>„Also gut. Ich höre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wenn ich keine Waren zu verkaufen habe, kann ich mir meinen Lebensunterhalt nicht verdienen. Und ich kann Ihnen nicht wie üblich viele hochwertige Dinge anbieten."</DefaultText>
+      <DefaultText>„Wenn ich keine Waren zu verkaufen habe, kann ich mir meinen Lebensunterhalt nicht verdienen. Und ich kann Ihnen nicht wie üblich viele hochwertige Dinge anbieten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich werde dem ein Ende setzen."</DefaultText>
+      <DefaultText>„Ich werde dem ein Ende setzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Banditen werden ihre geringste Sorge sein, wenn diese Kaufleute die Warenlieferungen nicht wieder aufnehmen."</DefaultText>
+      <DefaultText>„Banditen werden ihre geringste Sorge sein, wenn diese Kaufleute die Warenlieferungen nicht wieder aufnehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Einer meiner Verbündeten wird dir zur Seite stehen."</DefaultText>
+      <DefaultText>„Einer meiner Verbündeten wird dir zur Seite stehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>„Dabei kann ich Ihnen im Moment nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,91 +71,91 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ja, mein Fürst? Was haben Sie geplant?"
+      <DefaultText>„Ja, mein Fürst? Was haben Sie geplant?“
 
 Azzuro blickt dich gespannt an, die Hände begierig vor sich verschränkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich-ich, äh, bin sicher, sie werden einlenken, mein Fürst! Danke für Ihre Intervention! Sobald alles in Ordnung ist, kann ich Ihnen gewiss mehr Waren anbieten!"</DefaultText>
+      <DefaultText>„Ich-ich, äh, bin sicher, sie werden einlenken, mein Fürst! Danke für Ihre Intervention! Sobald alles in Ordnung ist, kann ich Ihnen gewiss mehr Waren anbieten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wunderbar! Das wäre eine große Hilfe."</DefaultText>
+      <DefaultText>„Wunderbar! Das wäre eine große Hilfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Nur einen Augenblick Ihrer Zeit, mein Fürst!"</DefaultText>
-      <FemaleText>"Nur einen Augenblick Ihrer Zeit, meine Fürstin!"</FemaleText>
+      <DefaultText>„Nur einen Augenblick Ihrer Zeit, mein Fürst!“</DefaultText>
+      <FemaleText>„Nur einen Augenblick Ihrer Zeit, meine Fürstin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Edér reist mit dir und beschützt deine Karawanen."</DefaultText>
+      <DefaultText>„Edér reist mit dir und beschützt deine Karawanen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Pallegina kann mit deinen Karawanen reisen. Sie wird dich beschützen."</DefaultText>
+      <DefaultText>„Pallegina kann mit deinen Karawanen reisen. Sie wird dich beschützen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sagani begleitet dich. Sie kann den Weg auskundschaften und Gefahren frühzeitig erkennen."</DefaultText>
+      <DefaultText>„Sagani begleitet dich. Sie kann den Weg auskundschaften und Gefahren frühzeitig erkennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>„Bei näherer Überlegung&#160;… lieber nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ah. Vielleicht haben Sie noch eine andere Idee?"</DefaultText>
+      <DefaultText>„Ah. Vielleicht haben Sie noch eine andere Idee?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Besser ich als [Player Name]. Er ist nicht unbedingt ein Glücksbringer für Karawanen.“</DefaultText>
+      <FemaleText>„Besser ich als [Player Name]. Sie ist nicht unbedingt eine Glücksbringerin für Karawanen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>„Und wieder ein illustrer Eintrag für meine umfangreichen Memoiren über die Überwachung vailianischer Kaufleute.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>„Wir halten die Ohren offen, nicht wahr, Itumaak?“ Sie krault den Fuchs am Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich danke Ihnen beiden! Ich sage es sofort den anderen. Eine solch fähige Wache dürfte ihre Ängste lindern."
+      <DefaultText>„Ich danke Ihnen beiden! Ich sage es sofort den anderen. Eine solch fähige Wache dürfte ihre Ängste lindern.“
 
-Azzuro verbeugt sich höflich..</DefaultText>
+Azzuro verbeugt sich höflich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[10.000 KP geben] "Mein Name ist in dieser Gegend etwas wert. Ich werde die Lieferung persönlich versichern und alle entstandenen Schäden bezahlen. Das dürfte die Ängste lindern."</DefaultText>
+      <DefaultText>[5.000 KP geben] „Mein Name ist in dieser Gegend etwas wert. Ich werde die Lieferung persönlich versichern und alle entstandenen Schäden bezahlen. Das dürfte die Ängste lindern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Durchaus! Ein großzügigeres Angebot haben diese Lieferanten gewiss noch nie gehört. Danke! Gewiss kann ich Ihnen schon bald neue Ware anbieten!"</DefaultText>
+      <DefaultText>„Durchaus! Ein großzügigeres Angebot haben diese Lieferanten gewiss noch nie gehört. Danke! Gewiss kann ich Ihnen schon bald neue Ware anbieten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Und so soll es auch bleiben! Ich habe eine wichtige Angelegenheit mit Ihnen zu besprechen. Etwas, was Sie gewiss möglichst bald beheben wollen."</DefaultText>
+      <DefaultText>„Und so soll es auch bleiben! Ich habe eine wichtige Angelegenheit mit Ihnen zu besprechen. Etwas, was Sie gewiss möglichst bald beheben wollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Ich habe Schwierigkeiten, meine Lager zu füllen. Meine Lieferanten sagen, das Risiko sei zu hoch. Niemand will hören, dass die bestellten edlen Stoffe von ungewaschenen Räubern gestohlen wurden."</DefaultText>
+      <DefaultText>Ich habe Schwierigkeiten, meine Lager zu füllen. Meine Lieferanten sagen, das Risiko sei zu hoch. Niemand will hören, dass die bestellten edlen Stoffe von ungewaschenen Räubern gestohlen wurden.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

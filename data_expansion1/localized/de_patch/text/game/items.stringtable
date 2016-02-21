@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>315</EntryCount>
+  <EntryCount>314</EntryCount>
   <Entries>
      <Entry>
       <ID>0</ID>
@@ -1744,11 +1744,6 @@ Der König gab den Umhang seinen Kindern, wenn diese auf Reisen gingen. Jahre sp
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2182</ID>
-      <DefaultText>Dieser Ring ist schwer und grob gefertigt. Er sieht aus, als wäre er aus einem schlecht gereinigten Silberklumpen gegossen werden. Winzige Unreinheiten glitzern und funkeln noch um den gesamten Ring herum. Angesichts der mit bloßem Auge zu erkennenden Werkzeugspuren muss man vermuten, dass der Ring von einem Amateur gefertigt wurde, nicht von einem erfahrenen Goldschmied.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2183</ID>
       <DefaultText>Cailatto, besser bekannt als ‚der Bronze-Kantor‘ oder einfach ‚Cai‘, war ein berühmter Sänger und Flötist aus dem alten Reich Groß-Vailia. Er war noch berühmter für seine Erfolge bei den Frauen als für seine Musik. Und obwohl er stets behauptete, dieser Erfolg würde sich durch seinen angeborenen Charme erklären, wurde er nie ohne einen gewissen Silberring gesehen - selbst, wenn er sich alles andere ausgezogen hatte.
 
@@ -1979,12 +1974,12 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2522</ID>
-      <DefaultText>Iron Flail Infantry Helm</DefaultText>
+      <DefaultText>Helm eines Eisenflegel-Infanteristen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2524</ID>
-      <DefaultText>This devastating trap unleashes the power of holy fire on all those who are unfortunate enough to be caught in the area, doing terrible Burn damage.</DefaultText>
+      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Verbrennungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

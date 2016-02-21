@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_08_yenwood\px2_08_cv_mob</Name>
+  <Name>conversations\15_yenwood\15_cv_mob</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>33</EntryCount>
+  <EntryCount>32</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -152,11 +152,6 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>„Das wissen wir zu schätzen, aber&#160;… können Sie uns irgendeine Entschädigung bieten? Nur ein wenig, um über die Runden zu kommen, natürlich.“ Er räuspert sich und blickt dich erwartungsvoll an.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>31</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>

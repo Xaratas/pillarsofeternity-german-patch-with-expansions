@@ -15,7 +15,7 @@ Er ist so auf seine Arbeit konzentriert, dass er dich erst bemerkt, als dein Sch
       <ID>2</ID>
       <DefaultText>Er zuckt zusammen, bemüht sich aber, höflich zu lächeln. Seine zerklüfteten Lippen und seine großen Zähne lassen seine Bemühungen jedoch scheitern.
 
-„Kann ich helfen? Ich muss mich konzentrieren.“ Er greift nach der Adra-Säule. „Muss mich konzentrieren.“</DefaultText>
+„Kann ich helfen? Ich muss mich konzentrieren.“ Er greift nach der Adrasäule. „Muss mich konzentrieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -69,7 +69,7 @@ Er ist so auf seine Arbeit konzentriert, dass er dich erst bemerkt, als dein Sch
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Er zischt. „Das versuche ich herauszufinden!“ Er schlägt mit der Faust gegen die Adra-Säule. Seine Hand macht ein knackendes Geräusch, blutet jedoch nicht.</DefaultText>
+      <DefaultText>Er zischt. „Das versuche ich herauszufinden!“ Er schlägt mit der Faust gegen die Adrasäule. Seine Hand macht ein knackendes Geräusch, blutet jedoch nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@ Er reibt sich mit den Fäusten die Augen. „Nein. Konzentriere dich auf diese h
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Er schließt die Augen und hält sich die Schläfen. „Fünfzehn Jahre in Farnheim. Sieben Expeditionen zu den Ruinen jenseits des Trosttals.“ Seine Augen öffnen sich blitzartig wieder. „Ich bin ein Beseeler. Immer noch ein Beseeler.“ Sein Blick fällt mit plötzlicher Klarheit auf die Adra-Säule. Er wendet sich wieder den Kupferrädern zu.</DefaultText>
+      <DefaultText>Er schließt die Augen und hält sich die Schläfen. „Fünfzehn Jahre in Farnheim. Sieben Expeditionen zu den Ruinen jenseits des Trosttals.“ Seine Augen öffnen sich blitzartig wieder. „Ich bin ein Beseeler. Immer noch ein Beseeler.“ Sein Blick fällt mit plötzlicher Klarheit auf die Adrasäule. Er wendet sich wieder den Kupferrädern zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

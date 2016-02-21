@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>765</EntryCount>
+  <EntryCount>1095</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -888,7 +888,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>„Vergebung liegt nicht in unseren Natur. Jene, die nach Erlösung streben, haben einen langen und verschlungenen Weg vor sich. Einen Weg, der uns bis ganz nach unten in die tiefsten Gefilde unserer Seele führt, und uns auffordert, über die zerbrochenen Aspekte unseres Selbst nachzudenken.“</DefaultText>
+      <DefaultText>„Vergebung liegt nicht in unserer Natur. Jene, die nach Erlösung streben, haben einen langen und verschlungenen Weg vor sich. Einen Weg, der uns bis ganz nach unten in die tiefsten Gefilde unserer Seele führt, und uns auffordert, über die zerbrochenen Aspekte unseres Selbst nachzudenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -998,7 +998,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Obwohl dieses Wandgemälde uralt sein muss, sehen die Farben immer noch glänzend und kräftig aus. It shows a procession of Engwithans from all the kith races: aumaua, elf, orlan, dwarf, and human. They walk among pillars similar to the ones that span this chamber, each one topped with a flame.</DefaultText>
+      <DefaultText>Diese Wandmalerei muss uralt sein, doch die Farben sind noch immer kräftig und strahlend. Die Malerei zeigt eine Prozession von Engwithanern aus allen gestandenen Rassen: Aumaua, Elfen, Orlaner, Zwerge und Menschen. Sie schreiten durch Säulen ähnlich wie die in dieser Kammer. Oben auf jeder Säule befindet sich eine Flamme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1753,7 +1753,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Der grobe Sand wirkt einigermaßen dämpfend. Er verrutscht und säuselt unter den Fußen.</DefaultText>
+      <DefaultText>Der grobe Sand wirkt einigermaßen dämpfend. Er verrutscht und säuselt unter den Füßen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2986,7 +2986,7 @@ Abrecan“</DefaultText>
       <ID>686</ID>
       <DefaultText>Auf einer neuen Flasche Wein ist eine Notiz befestigt:
 
-„Zu Ehren unseres neuen Bündnisses schicke ich Ihnen einen der besten Weine aus dem Keller meines untauglichen Sohn. Auf eine erfolgreiche Zukunft!
+„Zu Ehren unseres neuen Bündnisses schicke ich Ihnen einen der besten Weine aus dem Keller meines untauglichen Sohns. Auf eine erfolgreiche Zukunft!
 
 Hochachtungsvoll,
 G. Doemenel“</DefaultText>
@@ -3633,7 +3633,7 @@ G. Doemenel“</DefaultText>
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Das Bett schaukelt mit dem sanftem Schwanken des Baumes.</DefaultText>
+      <DefaultText>Das Bett schaukelt mit dem sanften Schwanken des Baumes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3876,12 +3876,1675 @@ Zum Salzigen Mast im Süden</DefaultText>
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Eine Adra-Scheibe ist in eine flache Vertiefung im Stein verkeilt. Runen blitzen auf ihrer Oberfläche.</DefaultText>
+      <DefaultText>Eine Adrascheibe ist in eine flache Vertiefung im Stein verkeilt. Runen blitzen auf ihrer Oberfläche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>867</ID>
       <DefaultText>Laden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>Fischerei von Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>Geheimfach</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>Flaschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>Gasthaus zur Gréfenrast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>Die Mine sieht aus, als wäre sie absichtlich zum Einsturz gebracht worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>Diese Schmelzen wurden schon sehr lange nicht verwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Ydurans Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Gréfenrast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>Die Schafte der Speere sind zersplittert und gebrochen. Sie werden nur durch eng gewickelte Lederstreifen zusammengehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>Diese Halsketten wurden aus den Zähnen und Klauen von verschiedenen Raubtieren gefertigt - Wölfen, Bären und Löwen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>Dem großen Loch hinter den Kiemen nach zu urteilen wurde diese Fischtrophäe wohl mit einer Pistole geschossen und nicht mit einem Haken oder Netz gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>Diese Tür scheint von innen verbarrikadiert zu sein. Sie lässt sich nicht bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>Die toten Augen von Fleckenrückenbarschen, Eisenzahnhechten und Frosttauchern starren zu dir hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>Diese röstenden Fische sind der Grund für den beißenden Geruch in der Fischerei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>Dieses zerfetzte Netz wurde wohl beiseite gelegt, um geflickt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>In dieses große Stück Stein sind ein Hammer und ein Meißel eingraviert. Die Schrift darunter ist aber zu verwittert, um sie noch zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>Unter einem Haufen von Messern und Beilen befindet sich eine verblassende Kohlezeichnung, die wohl ein Gesicht darstellen soll. Jemand war so zuvorkommend, ‚Bürgermeister Cyneheod‘ darunter zu schreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>Die Regale sind voller verstaubter Flaschen. Viele stammen aus der Zeit vor dem Widerstandskrieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>Kupferfisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>Silberwels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>Goldwal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>Der versteinerte Schädel ist so kalt und hart wie Stein. Wachstränen tropfen aus den Augenhöhlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>Dieser Kristall leuchtet mit einem rauchigen bernsteinfarbenen Licht. Er strahlt eine schwache Wärme aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>Dieser Schild hat auf der Vorderseite eine große Delle in der Form einer Kanonenkugel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>Diese Karte zeigt den Gipfel des Berges. Markierungen geben die Höhe an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>Diese Zähne wurden glatt geschliffen, als Vorbereitung für das Schnitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>Tische, Schilde und eingefallene Steine wurden zu einer undurchdringlichen Barrikade aufgetürmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>Hohler Stamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>Diese Steine fühlen sich seltsam warm an. Die meisten Runen sind zwar nicht zu entziffern, einige sehen aber aus wie Namen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>Die Innenseite dieser Lore ist voller angebranntem Fett - und stinkt entsprechend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>Auf einem Zettel an der Tür steht: „Beschäftigt. Kommt später. Wenn es sich nicht verhindern lässt. - Galvino“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>Rattennest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>Gefrorene Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>Im zertrampelten, blutigen Schlamm rund um diesen umgeworfenen Wagen findest du Spuren, die auf dem Pfad nach Süden führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>Diese Kiste ist leer, riecht aber stark nach Fisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>Nische</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>Die Straße steigt noch ein kurzes Stück an, bevor sie eine scharfe Kurve hinab in den Pass macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>Als du eine Ecke der Plane anhebst, siehst du neben dem Brennholz einen Haufen rostiges Metall liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>„Entfernen von Ausrüstung aus der Waffenkammer nur mit Genehmigung von Waffenwächterin Marunn oder Hauptmann Gregur.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>Francesca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>Kohle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>Vielen dieser gefrorenen Leichen fehlen Finger oder es wurde ihnen Fleisch aus den Oberschenkeln und Oberkörpern geschnitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>Diese Schriftrollen katalogisieren die Mengen an Erz und Mineralien, die aus den Minen entnommen wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>Hitze steigt flackernd aus gitterbedeckten Gängen unter dir auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>Skelette liegen zertrümmert unter gewaltigen Steinplatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>Nur einige wenige Knochen ragen aus dem Schutt auf - zerbrochen wie dünne Äste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>Eiskalte Zugluft pfeift durch die eingestürzte Mauer. Offenbar ist etwas von außen hindurchgebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>Hitze aus dem Stockwerk unter dir kitzelt deine Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>Unter dir brennt etwas. Du kannst jedoch nicht sehen, was es ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>Eine bronzene Abydon-Statue steht über Weihrauchasche und verrosteten metallenen Götzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>Die Oberfläche des Ambosses vibriert vor Macht. Sie ist warm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>Das Innere der Esse ist mit einer Kruste aus dunklem, gekräuseltem Stein überzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>Aus dem Mund der Weißen Esse strömt eine Hitze, die einem die Augen tränen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>Auf diesem Globus sind die verschiedenen Pargrunen-Siedlungen in Eora eingezeichnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>Bücher und Seiten voller Gleichungen und Essenzmengen sind über diesen Tisch verstreut, als hätte sie jemand eilig durchwühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>Gefrorene Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>Wasserbecken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>Schneehaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Gebüsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>Hohler Baum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>Schneehügel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>Steinhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Felshaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>Knochenhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>Pilzhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Erzader</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>Lore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>Bergbauwerkzeug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Vitrine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Hirsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>An der Seite des Turms ist ein oberer Abschnitt eingestürzt und blockiert den Zugang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>Ein Loch ist in den Stein gebohrt worden. Seine Ränder sind schwarz und schmutzig mit Ruß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>Unter einem blutgetränkten Tuch liegt eine Leiche. Sie stinkt nach Fäulnis und Krankheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Ein kalter Wind aus dem Süden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>Erreichte Alt-Vailia im Westen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>Und trug unsere Eltern nach Osten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>Um die Weiße Esse zu suchen im Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>Die Kreatur in dem Tank bleibt still, doch ihre Augen verfolgen dich, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>Die Kreatur in diesem Tank bewegt sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>Dieser Turm sieht aus, als wäre er aus dem Stein der Klippe geschlagen worden. Der Eingang ist eingestürzt und von Eis versiegelt. Du nimmst aber an, dass der Turm ein beeindruckendes Panorama über das Tal darunter bietet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>Die Klippe stürzt dreihundert Meter tief in das Tal hinab. Stalwart ist nur ein kleiner Fleck zwischen den Bäumen in der Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>Schriftrollenstapel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>Maschine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>Gitter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>Puppe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>Blasen steigen aus den Tiefen eines dunklen, trüben Gebräus auf. Die wenigen Knochen in dem Topf sind abgenagt und schwimmen zwischen Fettaugen umher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>Diese Schilde sind allesamt mit Kampfspuren übersät, von Blutflecken über tiefe Kerben im Holz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>Auf diesem Schreibtisch liegt ein chaotischer Haufen mechanischer Fingergelenke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>Diese Kisten enthalten unzählige verworfene mechanische Scharniere, Gesichtsplatten und Gliedmaßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>Diese einfache Zeichnung scheint die Berge rund um Durgans Batterie zu zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>Diese riesige Maschine brummt vor Energie. Als du dich ihr bis auf wenige Schritte näherst, beginnen deine Zähne auf merkwürdige Art zu summen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>Der Kopf dieser Puppe wurde durch einen unbekannten Zauber fast vollständig weggebrannt. Das Holz ist verzogen und voller Kerben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>Eine gallertartige Schicht hat sich am Fuß dieser zertrümmerten Maschine gebildet und ist dann getrocknet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>Dieser Teller ist nahezu unberührt geblieben, das verlockende Essen darauf wurde den Fliegen überlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>Eine beeindruckende Sammlung an Weinflaschen säumt diese Regale. Die meisten Weine scheinen vailianischer Herkunft zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>Auf diesem Arbeitstisch wurden verschiedene Altmaterialien zurückgelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>Eine dicke Staubschicht bedeckt diese leeren Regale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>Eine Kreatur in der Größe eines Aumaua schwimmt in diesem Tank. Ihr Fleisch ist verschrumpelt und grau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>Die Haut der Leiche ist abgezogen worden und wird durch ein dickes, zähes Netz festgehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>Die Gläser auf den Regalen enthalten Gehirne verschiedener Größen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>Werkstatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>Wasser tropft glänzende Säulen und Speere aus Eis hinunter. Dazwischen blitzen einige wenige Felsen hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>Ein beißender, schwefliger Geruch steigt mit dem Dampf auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>Diese Feuerschale scheint groß genug zu sein, um einst ein Leuchtfeuer beherbergt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>Die Eisen und Kupferablagerungen sind voller Blutflecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>Die steifen Finger der Frau graben sich noch immer in die Erde. Ihre zertrümmerte Rüstung quetscht sich um ihre angeschwollenen Glieder. Maden und Würmer wuseln in einer klaffenden Wunde in ihrem Rücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>Ein blutiger Hammer ruht dort, wo der Kopf der Leiche sein sollte. Knochensplitter und getrocknete Fetzen Gehirnmasse kleben im Gras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>Die verbleibende Hand der Leiche umklammert ihre eigenen heraushängenden Gedärme. Der Verwesungsgeruch ist fast unerträglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>Dieses Katapult riecht nach frischer Kiefer und Hanf. Die Balken sind noch klebrig vom Harz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>Mücken schwirren über trübem, veralgtem Wasser. Knapp unter der Oberfläche glitzert etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>Kohle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>Das Buch enthält eine Liste mit Namen, von denen die meisten durchgestrichen sind. Die vier noch unberührten Namen erkennst du: Sabel, Pelden, Tanoss und Uariki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>Die Tontafel ist uralt. Die meisten Symbole darauf sind nicht zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>Diese Karte zeigt die Minen. Verschiedene Tunnel und Engpässe sind mit Pfeilen und Kreuzen versehen. Es scheint sich um einen eilig ersonnenen Schlachtplan zu handeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>Jeder Knochen dieses Skelettes ist an zwei oder mehr Stellen gebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>Zertrümmerte Skelette liegen vor dem Schrein am Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>Vor dieser Statue wurden Schwerter und Helme abgelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>Etwas Schweres ist durch das Geländer gebrochen und hat ein großes Loch in die Brücke geschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText>Die Mauer wurde in große, gezackte Splitter zertrümmert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>Diese Steinplatten sind zersplittert wie Keramik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Die Brustplatten und Harnische sind allesamt so zertrümmert oder zerbeult, dass sie nicht mehr zu gebrauchen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>Eine schwere Bronzerüstung wurde offenbar auseinandergerissen, die Teile auf dem Boden verteilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>Felsen verengen den Eingang des Tunnels, als wäre er vor einiger Zeit eingestürzt - oder absichtlich zum Einsturz gebracht worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>Viele dieser Knochen sind zu Staub gemahlen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>Der Brustkorb dieses Skelettes wurde völlig zertrümmert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>Verbeulte Loren und große Schutthaufen blockieren diesen Tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>Die meisten dieser Kisten und Fässer sind leer. Einige liegen auf dem Kopf. Offenbar wurden sie überstürzt ausgeleert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>Die Oberfläche dieses großen, rechteckigen Amboss ist vollkommen glatt. Die Adrasäule in der Mitte scheint an deiner Essenz zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>Uralte Schriftrollen wurden aus den Regalen gerissen und einfach am Boden liegen gelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>Abhandlungen über die Geschichte der Pargrunen liegen offen und verlassen da. Aus einigen wurden Seiten gerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>Irgendetwas hat dieses Konstrukt zerrissen wie ein Kinderspielzeug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>Diese Mauer war einen Meter dick und aus massivem Stein. Und doch hat etwas sie durchbrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>Felsen und Steine sind aus der zerstörten Wand gefallen. Man bräuchte mindestens ein Dutzend Aumaua, um auch nur einen einzigen davon zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>Diese Zangen, Picken und Ahlen wurden dazu gefertigt, Metall zu schärfen. Getrocknetes Blut bröckelt von ihnen ab wie Rost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>Ein sternförmiger Riss strahlt von der Mitte dieses Tischs aus, als hätte jemand einen Hammer oder Streitkolben darauf geschlagen. Unter dem Tisch ragen die zwei Hände eines Skelettes hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>Zerrissene Schriftrollen und Bücher mit zerbrochenem Rücken bedecken den Boden vor den Regalen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>Zersplitterte Schädel und gebrochene Knochen liegen zerstreut auf dem Boden. Die meisten Gebeine sind zu Staub zerfallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>Knochen - mit Kerben, aber noch intakt - wurden zu einem Haufen zusammengekehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>Es sieht aus, als wären diese Skelette einmal gestapelt gewesen. Sie sind jedoch zerfallen, als das Bindegewebe verfaulte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>In diesem Knochenhaufen liegen einige schmutzige Münzen und zerfetzte Bänder verteilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>Mehrere Skelette wurden nebeneinander gelegt. Ihre Beine und Rippen sind gebrochen, doch zwischen ihnen wurde eine verbeulte kleine Abydon-Statue zurückgelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>Dieser Felsen scheint durch den Turm gekracht zu sein und hat dabei offenbar einen Teil der Mauer eingerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>Dieses verblichene Banner zeigt zwei verschlungene Kreise über einem schneebedeckten Berggipfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>Schlote aus festem, gefrorenen Schlamm ragen aus dem Boden. Als du hineinblickst, strömt dir warme Luft entgegen. Du siehst glänzende, zackige Scherben darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>Du fährst mit den Fingern die verblichenen Umrisse und Formen in diesen Tafeln nach. Offenbar waren sie einst eine Folge von Reliefs, aber die Bilder sind im Laufe der Zeit abgeschliffen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>Diese Tafeln sind mit der Zeit glatt geworden. Auf einer kannst du gerade noch die Form eines Schwertes erkennen, auf einer anderen den stämmigen Körper eines Zwergs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText>Dieses Regal ist auf seiner gesamten Länge voller Kerben und Macken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>Flüssiges Metall tropft von dem hängenden Skelett herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>In diesem Kessel kocht und blubbert und zischt etwas. Seine metallenen Seiten sind so heiß, dass sie dir die Haut verbrennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>Dieses Buch verbrennt deine Hand, als du es berührst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>Der dicke Stoff ist so glatt wie Lammfell und weicher als die meisten Betten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>Als du dich näherst, verblassen die Worte auf dieser Schriftrolle und verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>Die rostroten Figuren auf dieser Schriftrolle sehen aus, als seien sie in Blut geschrieben worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText>Trotz der jahrelangen Verwitterung, durch welche die Helme der übrigen Rüstungen in diesem Raum matt und glanzlos geworden sind, strahlt dieser eine Helm noch und spiegelt seine Umgebung wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>Diese Rüstung wurde hinter einem breiten Schild platziert, so dick und robust wie ein Stadttor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>Das Schwert, das diese Rüstung trägt, ist mit feinen Verzierungen versehen, weitaus filigraner als die der Rüstung selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>Von diesen Regalen geht der beißende Geruch eines unbekannten Konservierungsmittels aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>„Sinne nach über die, die vor dir kamen,
+und die, die nach dir kommen.
+Erinnere dich zuerst an deinen Vater,
+zuletzt an deinen jüngeren Bruder,
+doch wisse alle Pargrunen als deine Verwandten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText>Diese Steintafel ist von Rissen durchzogen. Die Ränder sind durch die Hände vieler Jahrhunderte glatt geschliffen. Die Inschrift auf der Tafel lautet:
+
+„Wir, die wir Schulter an Schulter mit den ältesten Reichen der Gestandenen stehen, senden dich aus.
+Ehre uns, so wie wir uns an dich erinnern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>Die Ecken dieser Tafel sind abgeschlagen, ansonsten ist sie aber in gutem Zustand. Die Inschrift auf der Tafel lautet:
+
+„Wir lassen uns in einem fremden und wilden Land nieder, doch wir erinnern uns unserer Wurzeln.
+Wir mögen weit entfernt sein, doch wisse uns als Verwandte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>Die Lettern auf dieser Tafel sind tief und klar, als wären sie erst kürzlich eingemeißelt worden. Die Inschrift auf der Tafel lautet:
+
+„Unsere Türme aus Stein mögen umgeben sein von Toren aus Koralle.
+Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>Operationstisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>Tagebuch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>Funken knistern auf den Drähten und Platten dieser Maschine und beleuchten das Innenleben mit jedem Flackern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>Am Metall dieses Helms hängen noch immer Haarbüschel. An den Rändern der Fesseln sind dunkle Flecken zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>Aus einem Riss in diesem Glastank fließt eine zähe grüne Flüssigkeit. Sie sondert einen starken chemischen Geruch ab, der beim Einatmen fast schmerzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>Verkohlte Überreste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText>Diese Kisten sind von oben nach unten mit immer komplizierteren Schlössern versehen. Einige zerbrochene Dietriche liegen auf den Regalen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>Unter dem Schnee liegen einige Knochen, von denen das Fleisch abgenagt wurde. Sie sind mit Bissspuren übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>Diese Abydon-Statue ist zwar mit Rost übersät, doch die Nieten und Bolzen sind meisterlich gefertigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>Du glaubst, in diesem trüben, wolkigen Spiegel Bewegungen zu erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>Frisches Grab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText>Winzige Spinnen haben sich in dieser Gussform für Kanonenkugeln eingenistet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1050</ID>
+      <DefaultText>Eine Karte zeigt die Gipfel und Pässe rund um Durgans Batterie. Ausgeblichene Kreise aus roter Tinte markieren Engstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1051</ID>
+      <DefaultText>Ein Blick durch den Ritz zeigt einen langen, steilen Weg nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>Diese Kanonen sind überzogen mit dickem, stinkendem Schleim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>Diese zerstörte Tafel ist hoffnungslos verrostet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>Die Kanonen sind eiskalt und mit rechteckigen Mustern und Gebeten zu Abydon verziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>Diese stinkenden Nester sind voller Zweige, Lumpen und abgenagter Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Luntenspieße, Ansetzer, Ladestücke und anderes Kanonenzubehör säumt die Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Hamonds Warenhaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>Gravuren zeigen die Reise der Pargrunen in die Weißmark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>Hitze steigt von den Rohren weiter unten auf. Die Kanone fühlt sich warm an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>Die Kanone ist eingefroren und unbeweglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>Durch die Lücke siehst du eine Wendeltreppe und den Stahl weiterer Kanonen schwach aufblitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>Die Regale sind vollgestopft mit Schriftrollen und Papieren, die den Verkauf von Eisenerz und Schwefel dokumentieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1063</ID>
+      <DefaultText>Die Schienen liegen zerquetscht unter dem eingestürzten Tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1064</ID>
+      <DefaultText>Die Einstürze haben Öffnungen nach draußen entstehen lassen. Schnee ist auf die Felsen gefallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1065</ID>
+      <DefaultText>Ein Blick in diese flachen Tunnel offenbart unzählige blitzende Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1066</ID>
+      <DefaultText>Die Stalagmiten funkeln im Schein irgendeiner unbekannten Lichtquelle weiter unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1067</ID>
+      <DefaultText>Der schwere, beißende Gestank von Schweiß und Schwefel steigt von irgendwo weiter unten auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1068</ID>
+      <DefaultText>Die Stalagmiten funkeln im Schein irgendeiner unbekannten Lichtquelle weiter unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>Ansammlungen von unverarbeitetem Eisen glitzern im Lampenschein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>Bei diesem alten Fischerboot wurden am Bug die Planken entfernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>Nest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>Die Jurte ist leer, von ein paar schweren Schlafmatten abgesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>Kaltes Wasser tropft vom Dach dieser Jurte und sammelt sich in der Feuerstelle zu einer Pfütze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>Das scheint Stalwart zu sein, von der Straße zum Dyrwald aus gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>Diese identischen Figuren Abydons sind alle von derselben schlechten Qualität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>Ein blutiger Daumenabdruck weist darauf hin, dass jemand ein Stück Brot abgerissen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>Jemand hat mehrere Seiten herausgerissen, das Papier ist blutverschmiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>Das Feuer ist fast erloschen, nur eine kleine Glut glimmt noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>Kissenbezug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>Dieser Abydon-Schrein ist glatt und glänzt, als wäre er erst kürzlich gebaut worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText>Diese erst kürzlich geschmiedeten Schwerter müssen noch geschärft werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>Ertrunkener Ebbe-Ondrit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>Eine dünne Schicht leuchtenden Staubs schwimmt auf der ruhigen Wasseroberfläche und verdeckt den Blick in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>Der Zapfhahn an diesem Fass sondert einen schweren chemischen Gestank ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>Dieses Katapult ist zwar demontiert, aber intakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>In diesem tiefen Kessel brodelt heißes Pech bedrohlich vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>Ein sanftes Klopfen lässt ein hohles Geräusch erklingen. Das Fass ist beinahe leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText>Wie die umstehenden Steine trägt auch dieser Grabstein nur einen eilig hingekritzelten Namen als einzige Inschrift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>Zerfetzte Schaffelle und Stroh dienen in diesem Zwinger als weiche Unterlage. Sie stinken nach Hund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>Diese Pritschen wurden kürzlich gewaschen. Der Dreck und der Schlamm darunter sind mit dunkleren Flecken durchzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>Ein kurzer Blick unter die Plane offenbart Fässer, die als Pulverfässer markiert sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>Einige kreative Zeitgenossen haben grobe Figuren in die Holzbalken der Latrine geschnitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>Ein einfaches Mahl aus Fleisch und Karotten, zu einer suppenähnlichen Konsistenz gekocht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>In den Zelten ist wenig zu finden. Du siehst Stiefel, Waffenröcke und ganz gelegentlich ein Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>Die Zerstörung im umliegenden Wald erstreckt sich fast bis zum Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>Du siehst die dunkle Wasseroberfläche nicht weit unter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>Ein gewaltiger Kristall, dessen zackige Kanten unheimlich leuchten, ragt durch die Kuppel. Mosaike und Teile wurden sorgfältig um den seltsamen Stein herum angeordnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Wasser fließt aus einem dünnen Schlitz entlang der Bodenkacheln nach oben. Das Wasser schwillt an und verdichtet sich, wenn man es berührt. So bildet es eine elastische Barriere, die sich jedem Versuch widersetzt, sie zu durchqueren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>Du kannst hinter dem Eis undeutlich die Silhouette eines Augenlosen ausmachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>Getreidesack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>Zelt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>Die gewaltigen, kupferartigen Knochen, die im Eis eingeschlossen sind, scheinen zu den Hüften eines riesigen Skelettes zu gehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>Eine dünne Schicht, Frost glitzert über diesem Vorrat an Brot und Kohlköpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>Ein scharfer, beißender Geruch steigt aus den Tiefen dieser Grube auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>Trotz des eisigen Glitzerns, das diese Netze bedeckt, vibrieren seine Fäden bei der sanftesten Berührung leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>Skelette in zerfetzten blauen Kleidern liegen unter mehreren Eisschichten begraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>Klumpen aus Moos, eingefroren unter einer Schicht aus glattem, grünem Schleim, wachsen zwischen den geschnittenen Steinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>Jenseits der Tür kannst du Gestalten in der Dunkelheit erkennen. Flüstern und Klagen, schwach und chaotisch, hallt aus dem Inneren der versiegelten Hallen wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>Ein turbulentes Murmeln hallt schwach aus den Tiefen dieser Schlucht wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText>Toter Schlittenhund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>Diese Tür ist versiegelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>Kein einziger Tropfen verschütteter Tinte befleckt die Steine dieser Kanzel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>Strohhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText>Das Innere dieses Kessels ist mit den Überresten von abgekühltem Teer überzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Lore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Abgesehen von ein paar Rußflecken scheint das Material in dieser Lore unberührt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>In diesen schwarzen Ruinen leuchten noch immer kleine Glutherde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>Eine Ansammlung von Karten auf dem Tisch zeigt die Pässe in der Nähe, die zu Durgans Batterie führen. Du siehst ausgeblichene Kreise aus Tinte über Engstellen und offenen Flächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>Dieser blasse, raue Stein sieht anders aus als die übrigen Gesteinsformationen in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>Der seichte Wasserrest in diesem Trog ist zu Eis gefroren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>„Wymarc-Hof – Betreten verboten!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>„Zu den Langsicht-Fällen und nach Stalwart“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>Sameths Leiche liegt ausgebreitet da. Du siehst, dass seine Kehle herausgerissen wurde und sein Gesicht von tiefen Kratzern übersät ist. Seine Hände sind leicht gelblich gefärbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText>Sameths Leiche liegt ausgebreitet da. Du siehst, dass seine Kehle herausgerissen wurde und sein Gesicht von tiefen Kratzern übersät ist. Seine Hände sind leicht gelblich gefärbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>Diese Steinformationen fühlen sich warm an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>Hohles Podest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>Die obere Kante dieses gravierten Steins ist glatt und abgewetzt von den Händen glücksuchender Reisender.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText>Schnee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText>Die Wurzeln des Strahlenpilzes sind in diesen Tunnel gewachsen und versperren den Zugang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText>Die Kehle des Vithrack wurde herausgerissen und sein Gesicht ist schwer zerkratzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText>Das Licht dieser Pilze beleuchtet den Staub in der Luft, so dass die dicken Sporenwolken zu sehen sind. Du spürst jeden Atemzug schwer in deiner Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText>Mineralien aus dem Stalaktiten über diesem kleinen Netz sind darauf kondensiert. Sauberes Wasser fällt aus dem Netz und sammelt sich darunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText>Winzige Spinnen krabbeln in Scharen über das Netz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText>In ein Bündel aus Netzen eingehüllt siehst du kleine, stachelige Vithrack-Eier. Gelegentlich sind darin pulsierende Bewegungen zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>Kleine Nester hängen von dem dünnen Turm, getragen durch Netzfäden. Du siehst einige zusammengekauerte dunkle Gestalten darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>So groß diese Pilze auch sind, du siehst noch größere Umrisse im Sumpf jenseits der Bäume.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>Lücken zwischen den Steinen geben den Blick auf einen Hohlraum frei, der voller Vogelnester ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText>Unter der trüben Oberfläche des Wassers liegen abgewetzte Gravuren und uralte Steine, die im Schlick vergraben sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>Diese Plattformen und Hütten sind einfach, aber robust gebaut. Sie scheinen durch Seilleitern miteinander verbunden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>Die Gaswolken, die aus diesen Lüftungsschächten kommen, riechen stark beißend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>Zahnräder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>Gelbe, gallertartige Rückstände bedecken den Boden des zerbrochenen Glases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>Eine gewaltige Menge Schnee ist auf die Handelsstraße gefallen und verhindert jedes Durchkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>Dieses krude Arrangement aus Geweihen, Knochen und Ästen sondert einen starken Fischgestank ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>Als du vor dem Podest stehst, hörst du ein tiefes, hohles Geräusch, als würde der Stein über einem Brunnen stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>Steinhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>Wie ein lebendes Gefängnis sind dicke Korallenarme um eine Ansammlung alter, verwitterter Relikte herumgewachsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>Trotz der Wärme der Feuer in der Nähe sind diese Vorräte mit einer dünnen Frostschicht überzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>Die Handwerkskunst, die dieser Statue Gestalt verliehen hat, scheint zu filigran und aufwändig, um durch die Hände eines bloßen Sterblichen geschaffen worden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>Erzadern zeichnen Muster auf den Wänden der Minenschächte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>Verstreute Flecken von gelbem Puder bedecken die Oberfläche der Fässer. Der Gestank von Schwefel hängt in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>Eine Barriere liegt über dieser Tür. Sie summt vor seltsamer Energie. Du siehst keinen offensichtlichen Weg daran vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>Ein gelblicher Dampf steigt aus diesen Schächten auf und hinterlässt einen beißenden Geruch in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText>Herlas Ausrüstungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>Ungestört von den hohen Winden darüber bedeckt ein Nebel die Tiefen dieser Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>Windböen prallen von den zackigen Felsen ab und steigen auf, um dein Gesicht mit eisigen Fingern zu streifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1158</ID>
+      <DefaultText>Als wären sie in die Schlucht geworfen worden, ruhen Skelettknochen unsicher auf den Kanten dieser Klippe, soweit das Auge reicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>Ein zorniger Wind rauscht pfeifend durch die gefrorenen Finger dieser riesigen Skeletthand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>Zwischen den Knochen dieser Skeletthand hat sich Eis gebildet, so dass ein glattes Gefälle hinunter zu den schroffen Klippen entstanden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>Aus der Klippe ragt seitlich etwas heraus, was wie ein gewaltiger Hüftknochen aussieht, gefangen in einem Kerker aus Felsen und Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>Ein kupferner Glanz leuchtet in den Farben des Regenbogens unter den Eisschichten, die diesen riesigen Oberschenkelknochen umschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>Dieser riesige Handgelenksknochen endet ohne einen Hinweis darauf, wo sich die dazugehörige Hand befinden könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>Das Gebäude hinter diesem riesigen Brustkorb scheint um diesen herum gebaut worden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>Die seltsamen kristallinen Formationen dieses Felsens sind auch nach ihrem Zusammenstoß mit den dicken Knochen dieses riesigen Schädels noch intakt. Die Kristalle scheinen eine eigene Wärme auszustrahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>Der Entfernung zu dem nahegelegenen Schädel nach zu urteilen muss eine gewaltige Kraft diese Wirbelknochen von dem Rest des riesigen Körpers getrennt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText>Die Risse in diesem Kieferknochen lassen darauf schließen, dass ein mächtiger Hieb ihn von seinem Schädel abgerissen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>Korbals Ausrüstungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>Diese Glyphen ähneln denen, die in der Batterie zu sehen sind. Sie sind jedoch zu verwittert, um sie noch zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>Schwere Steine blockieren den Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText>Mit kaltem Fett verkrustete Töpfe und schmutzige Becher sind neben einer Nachricht gestapelt: „ICH KOCHE, IHR WASCHT AB.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>Zwischen roten Handabdrücken baumelt ein Klumpen Haare aus einem Fleck von dickem, geronnenem Blut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>Baumwurzel mit austretender Flüssigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>Du erkennst diese steife, bläuliche Leiche als die des Bergarbeiters Gamel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText>Amboss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>Unter dem Kissen liegen die einfachen Kohlezeichnungen eines Kindes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>Diese Pritsche riecht nach Rauch. Sie trägt Flecken von Schwarzpulver und Asche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>Warmes Bratenfett köchelt am Boden dieses Topfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>Räder und Hebel von Loren liegen zerstreut herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>Schwarzpulver – Vorsicht!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>Zwischen der Kohle liegen Fischgräten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>Jemand hat einen Halbmond in die Bank geritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>Diese Jurte riecht nach kaltem Schweiß. Es liegt nur eine Schlafmatte darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>Dieser verbogene Brustpanzer ist noch warm von der Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>Dieser glatte Amboss sieht aus, als wäre er kaum je verwendet worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>In diesen Schilden siehst du dein eigenes Spiegelbild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>Auf dem untersten Regalbrett stehen billige Parfüms aufgereiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>Die Lore ist gefüllt mit Klumpen von Eisenerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText>Am Boden des Schmelzers liegt frische Kohle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>Winzige, perfekte Schneeflocken werden von einer unsichtbaren Brise aufgewirbelt und davongetragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1192</ID>
+      <DefaultText>Das Gras kräuselt sich und hebt und senkt sich wie die Flanke eines atmenden Tieres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1193</ID>
+      <DefaultText>Kleine Fische huschen zwischen den Steinen hin und her, winzige Farbflecken, die kurz auftauchen und sofort wieder verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1194</ID>
+      <DefaultText>Du blickst auf die Oberfläche des Steins und siehst dort ein Spiegelbild. Deine Augen leuchten hell wie Sterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1195</ID>
+      <DefaultText>Das Totem murmelt, als du daran vorbeigehst&#160;… allerdings zu leise, um es zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>Jeder Baumstamm dieses Hauses ist mit feinen Härchen bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>Du begibst dich näher an die Glut heran und stellst fest, dass die Luft kalt ist. Gänsehaut kribbelt auf deinen Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>Wind heult durch die Bäume, flötend und fast wie Musik. Du spürst jedoch keine Brise auf deiner Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>Irgendwo unter deinen Füßen hörst du ein tiefes, hohles Trommeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>Eine Falle</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

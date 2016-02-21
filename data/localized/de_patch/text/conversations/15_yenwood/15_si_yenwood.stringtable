@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_00_stalwart_village\px2_00_si_yenwood</Name>
+  <Name>conversations\15_yenwood\15_si_yenwood</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>90</EntryCount>
   <Entries>
@@ -138,7 +138,7 @@ Marschall Forwyn nähert sich. „Sie kommen gerade rechtzeitig. Fürst Gathbins
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>„Schalten Sie die Berserker aus!“</DefaultText>
+      <DefaultText>„Schalten Sie die glanfathanischen Berserker aus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@ Nachdem die Paladine nun mit den Ogern beschäftigt sind, können sie die mittle
 
 Gathbins Elitewache befindet sich hinter ihnen, die Linie vor ihnen&#160;… die Düsteren Schreiter sind zum Anstürmen gezwungen.
 
-Das hält die Pfadfinder aber nicht davon ab, Salve um Salve sowohl gegen die Ritter als auch gegen deren Verbündete an der Frontlinie abzufeuern. Jede Salve landet mit verheerender Wirkung. Dutzende von Feinden fallen mit tödlichen Pfeilwunden auf die blutgetränkte Erde.</DefaultText>
+Das hält die Pfadfinder aber nicht davon ab, Salve um Salve sowohl in gegen Ritter als auch gegen deren Verbündete an der Frontlinie abzufeuern. Jede Salve landet mit verheerender Wirkung. Dutzende von Feinden fallen mit tödlichen Pfeilwunden auf die blutgetränkte Erde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

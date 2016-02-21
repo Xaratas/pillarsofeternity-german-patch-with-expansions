@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_08_yenwood\px2_08_cv_messenger</Name>
+  <Name>conversations\15_yenwood\15_cv_messenger</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>30</EntryCount>
   <Entries>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Eine alte aedyranische Familie, meine ich.“ Er blickt sich in der Herrenhalle um. „Der ehemalige Fürst dieser Festung, ein entfernter Verwandter von Fürst Gathbin, hat sich im Widerstandskrieg mit der unterlegenen Seite verbündet.“</DefaultText>
+      <DefaultText>„Eine alte aedyrische Familie, meine ich.“ Er blickt sich in der Herrenhalle um. „Der ehemalige Fürst dieser Festung, ein entfernter Verwandter von Fürst Gathbin, hat sich im Widerstandskrieg mit der unterlegenen Seite verbündet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

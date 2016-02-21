@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_08_yenwood\px2_08_cv_emery</Name>
+  <Name>conversations\15_yenwood\15_cv_emery</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>43</EntryCount>
+  <EntryCount>25</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -12,16 +12,6 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>„Ich werde dafür sorgen, dass Caed Nua in deiner Abwesenheit sicher bleibt.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>„Ich lasse dich nicht gehen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>„Ich lasse dich gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,16 +30,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>9</ID>
-      <DefaultText>„Du hast wohl Angst, du könntest Gäste verletzen?“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>10</ID>
-      <DefaultText>Sie schnaubt verächtlich. „Ich bin Profi. Tote Bürger haben meist unerwünschte Aufmerksamkeit zur Folge.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>11</ID>
       <DefaultText>„Was willst du?“</DefaultText>
       <FemaleText />
@@ -57,46 +37,6 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>„Oh, ich denke, das weißt du. Fürst Gathbin hat deinen Tod angeordnet.“ Sie runzelt die Stirn. „Wirklich ein Jammer. Ich bewundere die Geschichten über dich, selbst wenn nur die Hälfte davon wahr ist. Leider habe ich meine Befehle.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>13</ID>
-      <DefaultText>„Ich habe eigentlich keine Lust, gegen dich zu kämpfen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>14</ID>
-      <DefaultText>„Leider gibt es keinen anderen Weg.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>15</ID>
-      <DefaultText>„Wenn du wusstest, dass du nicht gewinnst, warum hast du dann gegen mich gekämpft?“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>16</ID>
-      <DefaultText>„Fürst Gathbins Befehl. Man wagt es nicht, sich zu widersetzen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>17</ID>
-      <DefaultText>„Gathbin scheint ein grauenhafter Arbeitgeber zu sein. Warum arbeitest du weiter für ihn?“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>18</ID>
-      <DefaultText>„Ich kann nicht weg.“ Sie schüttelt den Kopf. „Fürst Gathbin würde sich an meiner Familie rächen. Meinen Freunden.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>Emery warnt den Spieler vor einem Angriff auf Caed Nua.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>„Dann beenden wir es wie Krieger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,11 +64,6 @@
       <FemaleText>„Ein besseres Leben im Dienst einer ehrenhaften Fürstin.“</FemaleText>
     </Entry>
     <Entry>
-      <ID>25</ID>
-      <DefaultText>„Dann lüg Gathbin an. Sag ihm, du hättest mich konfrontiert, aber es wäre mir gelungen, durch die Hintertür zu fliehen. Du hast mich nicht verfolgt, weil du Sorge hättest, ein Aufruhr könnte die Schmelztiegelritter anlocken.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>26</ID>
       <DefaultText>„Sehr viel weniger Schmerzen. Greife mich an und ich lasse dich leiden!“</DefaultText>
       <FemaleText />
@@ -139,11 +74,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>28</ID>
-      <DefaultText>„Wird Gathbin dir ein ordentliches Begräbnis gewähren, nachdem ich dich und deine Männer im ganzen Verkohlten Fass verteilt habe? Das ist deine letzte Chance, diese Taverne unversehrt zu verlassen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>29</ID>
       <DefaultText>„Ich habe solche Geschichten über dich gehört. Sie können doch nicht alle wahr sein, oder doch?“ Sie schweigt einen Augenblick lang. „Geschichten deiner Wohltätigkeit&#160;… deiner Güte. Aber ich sehe auch Stärke in dir.“</DefaultText>
       <FemaleText />
@@ -151,26 +81,6 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>„Verlockend, aber deine 'Ehre' ist dem Zorn von Fürst Gathbin nicht gewachsen. Bringen wir es hinter uns.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>31</ID>
-      <DefaultText>„Gefällt mir. Niemandem wird wehgetan, vor allem mir nicht, und alle bekommen, was sie wollen. Also gut. Ich stimme deinem Vorschlag zu.“ Sie halftert ihre Pistole.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>32</ID>
-      <DefaultText>„Eine ziemlich dünne Geschichte, aber bei deinem Ruf bin ich bereit, das Risiko einzugehen.“ Sie halftert ihre Pistole.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>33</ID>
-      <DefaultText>„Also gut, du hast mich überzeugt. Ich wusste ohnehin, dass ich kaum eine Chance gegen dich hätte.“ Sie halftert ihre Pistole.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>„Ich glaube, ich habe bessere Chancen gegen dich, als du denkst. Aber mein Bauchgefühl sagt mir, dass ich deinen Vorschlag annehmen sollte. Vorerst.“ Sie halftert ihre Pistole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

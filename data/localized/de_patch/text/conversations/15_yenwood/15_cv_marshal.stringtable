@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_08_yenwood\px2_08_cv_marshal</Name>
+  <Name>conversations\15_yenwood\15_cv_marshal</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>67</EntryCount>
+  <EntryCount>65</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -142,11 +142,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>28</ID>
-      <DefaultText>„Caed Nua fehlt das Prestige, um weitere Freiwillige anzulocken. Noch sieht kaum jemand einen Sinn darin, für diese Festung zu kämpfen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>29</ID>
       <DefaultText>„Ich habe einen Brief von den Schmelztiegelrittern erhalten. Sie haben von der Situation gehört und schicken einen Trupp ihrer besten Ritter, wenn die Zeit der Schlacht gekommen ist.“</DefaultText>
       <FemaleText />
@@ -234,11 +229,6 @@
     <Entry>
       <ID>46</ID>
       <DefaultText>Seine Augen weiten sich. „Es wird vollbracht werden.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>47</ID>
-      <DefaultText>Er schüttelt den Kopf. „Hätten Sie sich nicht alle größeren Gruppierungen in Trutzbucht zum Feind gemacht, hätten Sie eine von ihnen um Hilfe bitten können. Ein Jammer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

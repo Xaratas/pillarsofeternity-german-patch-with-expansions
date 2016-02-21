@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_yenwood\15_qst_yenwood_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Schlacht auf dem Yenwald-Feld</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hilf Marschall Forwyn bei Caed Nua eine Armee auszuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Stoße auf dem Yenwald-Feld auf deine Armee und besiege Fürst Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Besiege Fürst Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Fürst Gathbin versammelt eine Armee von Söldnern, um mir Caed Nua gewaltsam zu entreißen. Ich muss selbst auch eine Armee ausheben, um ihn aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Um Fürst Gathbins Truppen zu bekämpfen, brauche ich eine eigene Armee. Marschall Forwyn hilft mir bei der Logistik, wir koordinieren alles von der Herrenhalle auf Caed Nua aus. Er wartet dort, bis ich meiner Armee befehle, zum Yenwald-Feld zu marschieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Deine Armee versammelt sich auf dem Yenwald-Feld. Stoße dort zu ihr, um sie gegen Fürst Gathbins Truppen in den Kampf zu führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Fürst Gathbin und seine Elitetruppen greifen dich frontal an. Das ist deine Gelegenheit, ihn zu töten und seine Armee ein für alle Mal zu zerschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Meine Verbündeten bei den Schmelztiegelrittern werden einige ihrer erfahrensten Ritter schicken, um meine Infanterie zu unterstützen&#160;… falls ich bis zum Beginn der Schlacht weiter in ihrer Gunst stehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Meine Verbündeten bei den Dutzenden werden einige ihrer erfahrensten Arkebuseschützen schicken, um meine Bogenschützen zu unterstützen&#160;… falls ich bis zum Beginn der Schlacht weiter in ihrer Gunst stehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Meine Verbündeten bei den Doemenels werden einige ihrer erfahrensten Meuchelmörder schicken, um meine Infanterie zu unterstützen&#160;… falls ich bis zum Beginn der Schlacht weiter in ihrer Gunst stehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Matronin Beregan hat versprochen, einige ihrer Oger zu schicken, um meine Infanterie zu unterstützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Adaryc schickt einige Langbogenschützen, um meine Bogenschützen in der Schlacht gegen Fürst Gathbin zu unterstützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Fürst Gathbin ist tot, sein Versuch, Caed Nua an sich zu reißen, ist beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

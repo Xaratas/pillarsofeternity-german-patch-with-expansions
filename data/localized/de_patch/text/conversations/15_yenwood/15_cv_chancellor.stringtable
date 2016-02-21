@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\px2_08_yenwood\px2_08_cv_chancellor</Name>
+  <Name>conversations\15_yenwood\15_cv_chancellor</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>135</EntryCount>
+  <EntryCount>125</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -40,11 +40,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>8</ID>
-      <DefaultText>Nach dem Griff fragen.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>9</ID>
       <DefaultText>„Was wissen Sie über Gathbin?“</DefaultText>
       <FemaleText />
@@ -62,11 +57,6 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>„Ich habe keine weiteren Fragen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>13</ID>
-      <DefaultText>Warrin spricht über den Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,16 +87,6 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>19</ID>
-      <DefaultText>[Schweigen.]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>„Seien Sie sich nicht so sicher, dass Caed Nua Ihnen gehört. Der Graf könnte zu meinen Gunsten entscheiden.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>21</ID>
       <DefaultText>„Dieser Mann hier? Das ist der Fürst von Caed Nua? Ich dachte, er würde zur Dienerschaft gehören. Vielleicht ein Kammerdiener oder Gepäckträger.“</DefaultText>
       <FemaleText>„Diese Frau hier? Das ist die Fürstin von Caed Nua? Ich dachte, sie würde zur Dienerschaft gehören. Vielleicht eine Kammerzofe oder Köchin.“</FemaleText>
@@ -124,11 +104,6 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     <Entry>
       <ID>24</ID>
       <DefaultText>„Ich habe schon deutlich Schlimmeres erlebt.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>25</ID>
-      <DefaultText>„Alle meine Feinde sind tot oder werden es bald sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,11 +134,6 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     <Entry>
       <ID>31</ID>
       <DefaultText>„Eigentlich bin ich selbst Teil des Hochadels.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>32</ID>
-      <DefaultText>„Eigentlich bin ich selbst Teil des niederen Adels.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,11 +326,6 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>70</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>71</ID>
       <DefaultText>„Oh weh.“ Der Kanzler versteckt sich schnell unter dem Tisch.</DefaultText>
       <FemaleText />
@@ -448,11 +413,6 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     <Entry>
       <ID>88</ID>
       <DefaultText>„Mehr muss ich nicht wissen.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>89</ID>
-      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -593,11 +553,6 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>122</ID>
-      <DefaultText>„Vielleicht sollte ich mir noch ein oder zwei Festungen zulegen&#160;… immerhin habe ich hier eine Armee&#160;…“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>123</ID>
       <DefaultText>„Sagen Sie Graf Bademar, dass ich für seine Hilfe dankbar bin. Ich sorge dafür, dass seine Steuern regelmäßig eingetrieben werden.“</DefaultText>
       <FemaleText />
@@ -620,11 +575,6 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     <Entry>
       <ID>127</ID>
       <DefaultText>„Hervorragend. Ich lasse Graf Bademar wissen, dass alles in Ordnung ist.“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>128</ID>
-      <DefaultText>Der Kanzler hofft eigentlich, dass der Spieler nur scherzt. Graf Bademar würde solches Gerede nicht gutheißen, auch im Scherz nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -758,24 +758,24 @@ Das Blutbecken ruht.</FemaleText>
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>„Ich war es diesmal nicht!“</DefaultText>
+      <DefaultText>„Diesmal war ich es nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>„I'd be lying if I said I didn't wanna learn how to do that.“</DefaultText>
+      <DefaultText>„Ich würde zu gerne lernen, wie das geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>„In all my years, I've never seen-" She swallows, hiding the hitch in her voice. "Don't make us stay any longer, [Player Name].“</DefaultText>
+      <DefaultText>„In all meinen Jahren habe ich noch nie gesehen –“, sie schluckt, um zu verbergen, dass ihre Stimme bricht. „Zwing uns nicht, noch länger zu bleiben, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>You feel a jolt of power jump from you to Zahua. He blinks, his eyes turning to you for just a moment.
+      <DefaultText>Du spürst, wie ein Funken von Energie von dir auf Zahua überspringt. Er blinzelt und richtet seine Augen für einen kurzen Moment auf dich.
 
-He falls to his knees, choking and coughing. Blood gushes from his open mouth to the paving stones, running into the pool in a steady stream. Zahua tries to cry out, but the blood filling his throat strangles the sound.</DefaultText>
+Er fällt auf die Knie, würgend und hustend. Blut schießt aus seinem offenen Mund auf die Pflastersteine und sammelt sich in einer Pfütze. Zahua versucht zu schreien, aber das Blut in seiner Kehle erstickt das Geräusch.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

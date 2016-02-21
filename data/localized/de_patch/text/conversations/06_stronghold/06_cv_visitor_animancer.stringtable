@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich bin Geyda. Ich forsche auf dem Gebiet der Beseelung. Ich könnte ein wenig Hilfe gebrauchen, wenn Sie bereit sind, mich anzuhören."</DefaultText>
+      <DefaultText>„Ich bin Geyda. Ich forsche auf dem Gebiet der Beseelung. Ich könnte ein wenig Hilfe gebrauchen, wenn Sie bereit sind, mich anzuhören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich untersuche das Bîaŵac-Problem. Also Mächte, die Seelen aus ihren Behältern "entwurzeln" können. Ich versuche, eine Verteidigung gegen diese Mächte zu entwickeln."</DefaultText>
+      <DefaultText>„Ich untersuche das Bîaŵac-Problem. Also Mächte, die Seelen aus ihren Behältern ‚entwurzeln‘ können. Ich versuche, eine Verteidigung gegen diese Mächte zu entwickeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,42 +21,42 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>„Also gut. Ich höre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich brauche Ihre Hilfe. Wir haben schon so viele Leute an diese Bîaŵacs verloren. Stellen Sie sich vor, wir könnten verhindern, dass so etwas je wieder geschieht."</DefaultText>
+      <DefaultText>„Ich brauche Ihre Hilfe. Wir haben schon so viele Leute an diese Bîaŵacs verloren. Stellen Sie sich vor, wir könnten verhindern, dass so etwas je wieder geschieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Vielleicht kannst du für diese Versuche etwas anderes verwenden als Gestandene."</DefaultText>
+      <DefaultText>„Vielleicht kannst du für diese Versuche etwas anderes verwenden als Gestandene.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich habe ein ganzes Verlies voller Gefangener. Bedien dich."</DefaultText>
+      <DefaultText>„Ich habe ein ganzes Verlies voller Gefangener. Bedien dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>„Ich würde mich dazu gerne kurz mit meinen Leuten beraten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>„Dabei kann ich Ihnen im Moment nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,209 +71,209 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich wäre bereit, es mit anderen Versuchsobjekten zu probieren, wenn Sie einen Vorschlag haben."</DefaultText>
+      <DefaultText>„Ich wäre bereit, es mit anderen Versuchsobjekten zu probieren, wenn Sie einen Vorschlag haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Oh! Nun ja, das würde wohl gehen ... welche Entschädigung hätten Sie gerne für diese ... Versuchsobjekte?"</DefaultText>
+      <DefaultText>„Oh! Nun ja, das würde wohl gehen&#160;… welche Entschädigung hätten Sie gerne für diese&#160;… Versuchsobjekte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Oh, natürlich! Ich warte hier drüben."
+      <DefaultText>„Oh, natürlich! Ich warte hier drüben.“
 
 Geyda tritt höflich ein wenig zur Seite, wo sie euch nicht hören kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Teufelin, du gehst mit Geyda zurück zu ihrem Laboratorium. Dort tötest du sie und vernichtest ihre Forschungen."</DefaultText>
+      <DefaultText>„Teufelin, du gehst mit Geyda zurück zu ihrem Laboratorium. Dort tötest du sie und vernichtest ihre Forschungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Aloth, du folgst Geyda zu ihrem Laboratorium. Vernichte ihre Forschungen ... aber tu ihr selbst nichts."</DefaultText>
+      <DefaultText>„Aloth, du folgst Geyda zu ihrem Laboratorium. Vernichte ihre Forschungen&#160;… aber tu ihr selbst nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Im Esternwald gibt es Besessene. Kannst du nicht die verwenden?"</DefaultText>
+      <DefaultText>„Im Esternwald gibt es Besessene. Kannst du nicht die verwenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Tiere funktionieren ebenso gut. Probier es bei Magrans Gabelung oder in den Schwarzauen."</DefaultText>
+      <DefaultText>„Tiere funktionieren ebenso gut. Probier es bei Magrans Gabelung oder in den Schwarzauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>„Bei näherer Überlegung&#160;… lieber nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Das hat ja nicht sehr lange gedauert. Haben Sie eine Entscheidung gefällt?"</DefaultText>
+      <DefaultText>„Das hat ja nicht sehr lange gedauert. Haben Sie eine Entscheidung gefällt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>„Eine weise Entscheidung, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>„Ich regle das.“ Sie geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>[Deinem Gast bedeuten, er solle zurückkehren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Haben Sie eine Entscheidung getroffen?"</DefaultText>
+      <DefaultText>„Haben Sie eine Entscheidung getroffen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Die Teufelin von Caroc wird dich begleiten. Sie kann dir gewiss helfen, einige Versuchsobjekte zu finden."</DefaultText>
+      <DefaultText>„Die Teufelin von Caroc wird dich begleiten. Sie kann dir gewiss helfen, einige Versuchsobjekte zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Aloth wird dich begleiten. Er kann dir gewiss helfen, einige Versuchsobjekte zu finden."</DefaultText>
+      <DefaultText>„Aloth wird dich begleiten. Er kann dir gewiss helfen, einige Versuchsobjekte zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Hervorragend! Dank Ihrer Hilfe werde ich gewiss bald ein Gegenmittel gefunden haben! Ich danke Ihnen!"</DefaultText>
+      <DefaultText>„Hervorragend! Dank Ihrer Hilfe werde ich gewiss bald ein Gegenmittel gefunden haben! Ich danke Ihnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ja, aber ... die Arbeit mit Besessenen kann sehr gefährlich sein."
+      <DefaultText>„Ja, aber&#160;… die Arbeit mit Besessenen kann sehr gefährlich sein.“
 
 Sie ringt nervös die Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Mit Tieren ist es meist etwas schwierig ... nun ja, die Dinger zu treiben."</DefaultText>
+      <DefaultText>„Mit Tieren ist es meist etwas schwierig&#160;… nun ja, die Dinger zu treiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[2000 KP geben.] "Heuer ein paar starke Männer an. Das sollte helfen."</DefaultText>
+      <DefaultText>[2000 KP geben.] „Heuer ein paar starke Männer an. Das sollte helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Edér kann dir helfen. Er kann gut mit Tieren umgehen."</DefaultText>
+      <DefaultText>„Edér kann helfen. Er ist gut in solchen Dingen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Haben Sie vielleicht noch eine andere Idee?"</DefaultText>
+      <DefaultText>„Haben Sie vielleicht noch eine andere Idee?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[2000 KP geben.] "Hier. Heuer ein paar Wildhüter an. Das dürfte helfen."</DefaultText>
+      <DefaultText>[2000 KP geben.] „Hier. Heuer ein paar Wildhüter an. Das dürfte helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Wer forschen will, muss kühn sein. Du schaffst das schon."</DefaultText>
+      <DefaultText>„Wer forschen will, muss kühn sein. Du schaffst das schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>„Meine Eltern sind sehr stolz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"S-Sie haben natürlich Recht. Es ist sicher weniger brutal als die Alternative ... ich werde sehen, was ich finden kann. Danke, Fürst! Sie waren eine große Hilfe."</DefaultText>
-      <FemaleText>"S-Sie haben natürlich Recht. Es ist sicher weniger brutal als die Alternative ... ich werde sehen, was ich finden kann. Danke, Fürstin! Sie waren eine große Hilfe."</FemaleText>
+      <DefaultText>„S-Sie haben natürlich Recht. Es ist sicher weniger brutal als die Alternative&#160;… ich werde sehen, was ich finden kann. Danke, Fürst! Sie waren eine große Hilfe.“</DefaultText>
+      <FemaleText>„S-Sie haben natürlich Recht. Es ist sicher weniger brutal als die Alternative&#160;… ich werde sehen, was ich finden kann. Danke, Fürstin! Sie waren eine große Hilfe.“</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Oh ja! Danke! Ich werde das Geld sinnvoll einsetzen. Mit einem guten Trupp können wir einige Versuchsobjekte versammeln. Wir werden bald ein Gegenmittel haben!"</DefaultText>
+      <DefaultText>„Oh ja! Danke! Ich werde das Geld sinnvoll einsetzen. Mit einem guten Trupp können wir einige Versuchsobjekte versammeln. Wir werden bald ein Gegenmittel haben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Hervorragend! Dank Ihrer Hilfe werde ich gewiss bald ein Gegenmittel gefunden haben! Ich danke Ihnen!"</DefaultText>
+      <DefaultText>„Hervorragend! Dank Ihrer Hilfe werde ich gewiss bald ein Gegenmittel gefunden haben! Ich danke Ihnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Eintausend Pand sollten reichen."</DefaultText>
+      <DefaultText>„Eintausend Pand sollten reichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Fünfhundert Pand sind genug."</DefaultText>
+      <DefaultText>„Fünfhundert Pand sind genug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich bin froh, wenn ich sie los bin."</DefaultText>
+      <DefaultText>„Ich bin froh, wenn ich sie los bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Dann nehme ich an! Sie waren eine große Hilfe. Ich kann Ihnen nicht genug danken."
+      <DefaultText>„Dann nehme ich an! Sie waren eine große Hilfe. Ich kann Ihnen nicht genug danken.“
 
-Sie beißt sich auf die Lippe. "Jetzt müssen wir diese ... gefährlichen Gefangenen nur noch ins Laboratorium transportieren."</DefaultText>
+Sie beißt sich auf die Lippe. „Jetzt müssen wir diese&#160;… gefährlichen Gefangenen nur noch ins Laboratorium transportieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"D-das ist etwas mehr als ich erwartet hatte. Vielleicht können wir verhandeln?"</DefaultText>
+      <DefaultText>„D-das ist etwas mehr als ich erwartet hatte. Vielleicht können wir verhandeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Das kriege ich hin. Danke, Fürst! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!"</DefaultText>
-      <FemaleText>"Das kriege ich hin. Danke, Fürstin! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!"</FemaleText>
+      <DefaultText>„Das kriege ich hin. Danke, Fürst! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!“</DefaultText>
+      <FemaleText>„Das kriege ich hin. Danke, Fürstin! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Das ist mein letztes Angebot."</DefaultText>
+      <DefaultText>„Das ist mein letztes Angebot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich habe wohl keine Wahl. Ich brauche Versuchsobjekte. Und ich danke Ihnen für die Geste, mein Fürst! Ich werde diese Gelegenheit nutzen ... sobald ich mir überlegt habe, wie ich die Gefangenen transportiere ..."</DefaultText>
+      <DefaultText>„Ich habe wohl keine Wahl. Ich brauche Versuchsobjekte. Und ich danke Ihnen für die Geste, mein Fürst! Ich werde diese Gelegenheit nutzen&#160;… sobald ich mir überlegt habe, wie ich die Gefangenen transportiere&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"[Player Name]? Ich könnte Ihre Hilfe brauchen."</DefaultText>
+      <DefaultText>„[Player Name]? Ich könnte Ihre Hilfe brauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Das Problem ist nur: Um herauszufinden, wodurch Seelen überhaupt entwurzelt werden, brauche ich ... nun ja, Seelen. Es ist mir nicht gelungen, Versuchsobjekte zu finden."</DefaultText>
+      <DefaultText>„Das Problem ist nur: Um herauszufinden, wodurch Seelen überhaupt entwurzelt werden, brauche ich&#160;… nun ja, Seelen. Es ist mir nicht gelungen, Versuchsobjekte zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"In ganz Erbhügel wimmelt es von Besessenen. Die Bürger von Trutzbucht wären wir dir sicher dankbar, wenn du ihre Zahl etwas ausdünnst."</DefaultText>
+      <DefaultText>„In ganz Erbhügel wimmelt es von Besessenen. Die Bürger von Trutzbucht wären wir dir sicher dankbar, wenn du ihre Zahl etwas ausdünnst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Das kriege ich hin. Danke, Fürst! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!"</DefaultText>
-      <FemaleText>"Das kriege ich hin. Danke, Fürstin! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!"</FemaleText>
+      <DefaultText>„Das kriege ich hin. Danke, Fürst! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!“</DefaultText>
+      <FemaleText>„Das kriege ich hin. Danke, Fürstin! Sie waren mir eine große Hilfe. Ich mache mich gleich wieder an die Arbeit!“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

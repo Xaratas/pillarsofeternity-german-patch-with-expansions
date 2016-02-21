@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\areanotifications</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>5</EntryCount>
+  <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -58,6 +58,37 @@ Inmitten des Chaos steht das Sanatorium von Farnheim und brennt lichterloh. Ein 
 
 Du hast das Stadttor hinter dir gelassen und bist vorerst in Sicherheit. Dein Pfad führt dich ostwärts, nach Zwillingsulmen. Thaos ist an diesen Ort gebunden, aus Gründen, die so geheimnisvoll sind wie der Bleierne Schlüssel selbst.</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du brichst nach Stalwart auf. Die Weißmark erhebt sich in der Ferne. Sie erstreckt sich soweit das Auge sehen kann nach Norden und Süden. Sie winkt dich herbei mit Gipfeln wie gebrochenen Fingern.
+
+Die Straße verengt sich zu einem zerfledderten Band und der Schatten der Berge fällt auf deinen Weg. Du hast den Aufstieg kaum begonnen, als der immer dunkler werdende Himmel Hagelkörner auf dich herabwirft und den Boden unter deinen Füßen zu Eis werden lässt.
+
+Du stapfst weiter.
+
+Die Luft wird dünn und die engen Gebirgspässe peitschen die beißenden Winde wie Trichter an deinen Ohren vorbei. Ein Schneesturm zwingt dich, drei Tage lang zusammengekauert zu kampieren, während der Schnee sich um dein Lager sammelt.
+
+Endlich bessert sich das Wetter und du näherst dich Stalwart unter einem klaren, blauen Himmel. Aus dem Dorf ertönt ein Geräusch, hoch und scharf. Zunächst klingt es wie ein weiterer Eissturm. Als du aber an der Spitze der Kuppe anlangst und die Holztore des Dorfs erreichst, siehst du, was hinter ihnen liegt&#160;…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du aus Durgans Batterie in den neuen Schnee tratst, hatte sich die Kunde bereits verbreitet, dass seltsame Lichter aus der Festung aufsteigen und der Himmel vor Energie knistert.
+
+Die Überlebenden von Stalwart drängten sich zu Durgans Batterie, vereint in der Hoffnung, endlich Frieden und Wohlstand zu erleben. Sie reparierten die Mauern, sammelten Kraft und bereiteten ihre Stadt auf die neuen Gelegenheiten vor, die gewiss kommen würden.
+
+Und nachdem die Stimmen von Durgans Batterie endlich verstummt waren, hörte niemand das weit entfernte Stöhnen von etwas, das sich zwischen den Gipfeln rührte&#160;… so gewaltig und gnadenlos wie eine Lawine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Augenlosen verschwanden unter dem See, ihre Verbindung zu Ondra endlich gekappt. Nachdem dieser Bedrohung ein Ende gesetzt war, kehrte die Hoffnung in die Weißmark zurück.
+
+Jäger wagten sich wieder in die Wildnis, Reisende wieder auf die Straßen. Geschichten von Monstern in den Wäldern wichen Geschichten vom Mut des Wächters. Die Dorfbewohner von Stalwart beschäftigten sich mit Arbeit und sangen Lieder, begierig, das Versprechen des Friedens voll auszukosten.</DefaultText>
+      <FemaleText>Die Augenlosen verschwanden unter dem See, ihre Verbindung zu Ondra endlich gekappt. Nachdem dieser Bedrohung ein Ende gesetzt war, kehrte die Hoffnung in die Weißmark zurück.
+
+Jäger wagten sich wieder in die Wildnis, Reisende wieder auf die Straßen. Geschichten von Monstern in den Wäldern wichen Geschichten vom Mut der Wächterin. Die Dorfbewohner von Stalwart beschäftigten sich mit Arbeit und sangen Lieder, begierig, das Versprechen des Friedens voll auszukosten.</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

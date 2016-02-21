@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>„Sei gegrüßt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>„Schön, dich zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>„Darf ich bitten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>„Abstand halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>„Ich bin sehr beschäftigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
+      <DefaultText>„Niemand weiß, was er von dir halten soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>„Hast du schon einmal überlegt, dich hier niederzulassen?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

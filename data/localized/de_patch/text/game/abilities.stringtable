@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1475</EntryCount>
+  <EntryCount>1852</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2841,7 +2841,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch alle im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
+      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch alle Feinde im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,7 +2921,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Zerstört die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er verwirrt und benommen wird, bevor es schnell auf bis zu fünf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Zerstört die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er Verwirrt und Benommen wird, bevor es schnell auf bis zu fünf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4531,7 +4531,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, fügt Waffenschaden auf seine Angriffe hinzu, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
+      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, wodurch er zusätzlichen Waffenschaden auf seine Angriffe erhält, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6913,9 +6913,509 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <DefaultText />
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText>Drachensprung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Heilungskette</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Radschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Totschläger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Entzweiender Hieb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Stasishülle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Zeitparasit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1407</ID>
+      <DefaultText>Ruf der Urzeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Geißel der Natur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Sturmtrotzer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Geringer Avatar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Wiederbelebung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>Sturm des Heiligen Feuers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Verzögerter Feuerball</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Llengraths Schutzstab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Ninagauths Todesbolzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Starkes Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Tayns Chaoskugel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Wall der Schwächung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Tot spielen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Eisenrad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>Der Schmerz seiner Wunden ermöglicht es dem Mönch, Schadensreduktion gegen erlittene Angriffe aufzubauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>Entführung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1423</ID>
+      <DefaultText>Kampfschrei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1424</ID>
+      <DefaultText>Eisgischt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1425</ID>
+      <DefaultText>Frostatem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1426</ID>
+      <DefaultText>Feueratem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1427</ID>
+      <DefaultText>Schutzflammen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1428</ID>
+      <DefaultText>Heulen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1429</ID>
+      <DefaultText>Unsichtbarkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1430</ID>
+      <DefaultText>Regeneration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1431</ID>
+      <DefaultText>Feuer der Vergeltung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1432</ID>
+      <DefaultText>Kränkender Atem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1433</ID>
+      <DefaultText>Glatteis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1434</ID>
+      <DefaultText>Seelenbindung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1435</ID>
+      <DefaultText>Teleportieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText>Test Edit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText>Zwillingspfeil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1438</ID>
+      <DefaultText>Zwiespalt der Seele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Heilige Einäscherung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Treffer hinnehmen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1441</ID>
+      <DefaultText>Rauchwolke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1442</ID>
+      <DefaultText>Ihr Held stellte sich allein der Horde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1443</ID>
+      <DefaultText>Sie schützten ihre Augen gegen den Blick des Fampirs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1444</ID>
+      <DefaultText>Glanz des Akolythen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1445</ID>
+      <DefaultText>Verwundender Schuss des Läufers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1446</ID>
+      <DefaultText>Erholung des Veteranen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1447</ID>
+      <DefaultText>Fokus des Galans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1448</ID>
+      <DefaultText>Schleichangriff des Lehrlings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1449</ID>
+      <DefaultText>Mal des Aspiranten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1450</ID>
+      <DefaultText>Leid des Novizen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1451</ID>
+      <DefaultText>Reiz des Enigmas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1452</ID>
+      <DefaultText>Raserei des Fremden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1453</ID>
+      <DefaultText>Geschosse des Taschenspielers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1454</ID>
+      <DefaultText>Beschwörung des Dichters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1455</ID>
+      <DefaultText>Wächtergeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1456</ID>
+      <DefaultText>Strahl der Schmerzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1457</ID>
+      <DefaultText>Gefäß zerstören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1458</ID>
+      <DefaultText>Blind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1459</ID>
+      <DefaultText>Der Barbar kann nicht von Feinden angriffsgebunden werden, die mehr als 1 Stufe unter ihm stehen. Es wird aber nicht verhindert, dass der Barbar im Nahkampf angegriffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1460</ID>
+      <DefaultText>Barbaren können ihre Reserven an spiritueller Kraft anzapfen, um hoch in die Luft zu springen und auf ihre Feinde herabzustürzen, die dadurch benommen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1461</ID>
+      <DefaultText>Das Medium kann einen einzelnen Feind von der Welt isolieren. Der Feind wird dadurch handlungsunfähig, äußere Faktoren können aber auch nicht mehr auf ihn einwirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1462</ID>
+      <DefaultText>Das Medium saugt Kraft aus den Seelen seiner Feinde. So kann es sie verlangsamen und gleichzeitig seine eigene Geschwindigkeit erhöhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1463</ID>
+      <DefaultText>Der Druide zieht die rohe spirituelle Energie der Natur zusammen und manifestiert sie in Form von 2 oder 3 zufälligen Schleimen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1464</ID>
+      <DefaultText>Alle nicht besetzten Schnellauswahl-Plätze der Gruppe werden mit wundersamem Nektar belegt, der Kampfboni und Heilung verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1465</ID>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Verbrennungs-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1466</ID>
+      <DefaultText>Der Kämpfer stellt sich zwischen feindliche Angriffe und seine Verbündeten. Der endgültige Gesamtschaden aller Angriffe auf Verbündete in der Nähe wird halbiert - der Kämpfer erleidet die andere Hälfte als reinen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1467</ID>
+      <DefaultText>Der Jäger führt einen Primärangriff aus, der zusätzlichen Schaden verursacht und die grundlegende Schadensreduktion des Ziels verringert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1468</ID>
+      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn die Fähigkeit pulsiert, erleidet der Paladin eine geringe Menge an rohem Schaden - Feinde im Wirkungsbereich aber erleiden Verbrennungsschaden. Verbündete erhalten eine geringe Menge an Ausdauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1469</ID>
+      <DefaultText>Der Paladin wählt einen einzelnen Verbündeten als Ziel zum Heilen aus. Die Wirkung springt jedoch bis zu sechs Mal (einschließlich des ursprünglichen Treffers) zwischen Verbündeten hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1470</ID>
+      <DefaultText>Der Priester wird von einer göttlichen Macht erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er Boni auf alle Attribute, auf die Ausdauer, die Gesundheit und den Waffenschaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1471</ID>
+      <DefaultText>Ein einzelner Verbündeter wird wiederbelebt und geheilt. Er wird mit der Wirkung von ‚Gnadenfrist‘ belegt und Verbündete in der Nähe werden geheilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1472</ID>
+      <DefaultText>Ein schrecklicher Feuerregen prasselt auf den Wirkungsbereich nieder und fügt jedem, der sich darin befindet, wiederholt Verbrennungsschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1473</ID>
+      <DefaultText>Wenn der Waldläufer einen Jagdbogen oder Kriegsbogen einsetzt, kann er bei jedem Wurf entscheiden, ob er einen oder zwei Pfeile abschießen will. Jeder Schuss hat dabei eine verringerte Genauigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1474</ID>
+      <DefaultText>Der tierische Gefährte des Waldläufers fällt zu Boden und spielt für eine begrenze Zeit tot (das heißt, er kann nicht als Ziel ausgewählt werden). Während er tot spielt, regeneriert der Gefährte Ausdauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1475</ID>
+      <DefaultText>Der Dieb schafft eine kleine Rauchwolke, die Feinde in der Nähe für kurze Zeit ablenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1476</ID>
+      <DefaultText>Der Zauberer schleudert einen winzigen Feuerball los, der für einen festgelegten Zeitraum liegen bleibt, bevor er explodiert und dabei schweren Verbrennungsschaden verursacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1477</ID>
+      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Abwehr hinzufügt und Feinde bei jedem erfolgreichen Angriff mit einem Humpelnd-Effekt fortschubst. Die Beschwörung selbst schubst ebenfalls jeden (auch Verbündete) aus der Nähe des Zauberwirkers fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1478</ID>
+      <DefaultText>Dieser Zauber fügt dem Ziel eine große Menge an reinem Schaden zu. Jeder Nicht-Geist, der durch den Angriff fällt, beschwört einen Geist, der unter der Kontrolle des Zauberwirkers steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1479</ID>
+      <DefaultText>Starkes Phantom ist eine komplexere Version von Wesenhaftes Phantom. Es wird eine unabhängige Kopie des Zauberers geschaffen, die eine Gruppe einfacher Zauber wirken kann (z.B. Minolettas kleine Fluggeschosse, Nekrotische Lanze, Bewegungsverzögerung der Mühsal). Aufgrund des komplexen Wesens des Zaubers ist die durch Starkes Phantom geschaffene Kopie robuster als die von Wesenhaftes Phantom geschaffene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1480</ID>
+      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyrischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1481</ID>
+      <DefaultText>Feinde, die diese Wand durchdringen oder darin stehen, verlieren Zeit von allen zeitlich begrenzten positiven Statuseffekten, mit denen sie belegt sind. Für jede verlorene Sekunde gewinnt der Zauberer Zeit für seine eigenen positiven Statuseffekte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1482</ID>
+      <DefaultText>Kanalisiert eine Kraft, der der geballten Zorns eines Barbaren ähnelt. Angriffsgeschwindigkeit, Macht und Verfassung werden erhöht. Die Abwehr wird geschwächt, die Ausdauer und Gesundheit des Charakters werden getarnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1483</ID>
+      <DefaultText>Dieser Reim imitiert die Fähigkeit des Sängers, Skelette zu beschwören. Er kann jedoch erst eingesetzt werden, wenn einige Zeit im Kampf vergangen ist. Außerdem kann er nur sehr selten eingesetzt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1484</ID>
+      <DefaultText>Mit der Macht eines heranwachsenden Mediums kann der Charakter vorübergehend einen Gegner bezaubern. Es dauert jedoch einige Zeit, die Psyche des Opfers zu berühren, so dass die Fähigkeit nicht zu Beginn des Kampfes eingesetzt werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1485</ID>
+      <DefaultText>Der Charakter verbindet sich wie ein Druide mit der natürlichen Welt. Er kann seine Kraft auf einen Feind konzentrieren und dabei die Wirkungen des Zaubers Mal der Natur einsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1486</ID>
+      <DefaultText>Indem er die strenge Disziplin eines Kämpfers annimmt, kann der Charakter seine Ausdauerreserven im Kampf einteilen - er regeneriert mit der Zeit langsam seine Ausdauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1487</ID>
+      <DefaultText>Der Charakter hat einen Teil der intensiven Schmerzenstoleranz und spirituellen Macht erlernt, die Mönche besitzen. Seine unbewaffneten Angriffe richten größeren Schaden an und werden mit der Zeit immer stärker. Hinweis: Leid des Novizen betrifft nicht die Gestaltwandelform des Druiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1488</ID>
+      <DefaultText>Der tiefe Glaube des Charakters manifestiert sich als eine Aura mit ähnlichen Eigenschaften wie der Eifrige Fokus eines Paladins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText>Der Glaube an die Götter erlaubt es diesem Charakter, eine Welle spiritueller Energie zu entfesseln, die dem Heiligen Glanz eines Priesters ähnelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1490</ID>
+      <DefaultText>Waldläufer lernen, wo sie einen Feind treffen müssen, um lähmende Wunden zu verursachen. Diese Technik kann von anderen Charakteren als schwächere Form von Verwundender Schuss imitiert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1491</ID>
+      <DefaultText>Ermöglicht es dem Charakter, die brutalen, opportunistischen Schläge des Schleichangriffs eines Diebs zu imitieren. Er trifft seine Feinde dann, wenn sie am verwundbarsten sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1492</ID>
+      <DefaultText>Als Kräuterhexer hat der Charakter gelernt, einen der beliebtesten Zauber im Östlichen Abschnitt zu imitieren: Minolettas kleine Fluggeschosse. Da der Charakter im Gegensatz zu einem Zauberer kein Zauberbuch einsetzt, ist die Wirkung jedoch etwas schwächer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText>Concelhauts verheerender Niedergang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText>Unsichtbarkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>Elektroschock-SR-Reduzierung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
 	<Entry>
       <ID>1497</ID>
       <DefaultText>Aggressiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -7035,7 +7535,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken.</DefaultText>
+      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken. Additionally, the druid may cast healing spells and party support spells.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7050,7 +7550,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1527</ID>
-      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhephase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7090,12 +7590,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Rücksichtsloser Angriff ist standardmäßig automatisch deaktiviert. Wird es aktiviert, dann wird es zu Beginn des nächsten Kampfes wieder deaktiviert. Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
+      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Rücksichtsloser Angriff ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert. Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
+      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7134,8 +7634,263 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1544</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>Ninagauths Todesstrahl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1546</ID>
+      <DefaultText>Segen der Vergessenen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1547</ID>
+      <DefaultText>Der alte Siec rastete nicht, ehe sein Hunger gestillt war</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1548</ID>
+      <DefaultText>So singen deine Beißenden Winde oh Alt-Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>Ihr Mut so dick wie Stahl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1550</ID>
       <DefaultText>Störer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1551</ID>
+      <DefaultText>Was Rou Naka in der Tiefe fand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>Gedörrter Fleckenrückenbarsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText>Fauliger Gestank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>Schock der Vergeltung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>Weiße Ynefer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText>Stalwart-Haseneintopf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>Selbstzerstörung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>Tötungsbolzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>Flügelsturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>Seelenbrand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>Bewegung des Handgelenks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>Es zahlt sich aus, dass du in der Gréfenrast Orlanerkopf spielst. Du erhältst einen Bonus auf deine Genauigkeit mit allen Dolchen und Stiletten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>Glück der Dutzenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>Wie wird aus Glück in einem Würfelspiel Erfolg auf dem Schlachtfeld? Ist es ein Segen der Götter? Ein kosmischer Schicksalsstreich? Niemand weiß es&#160;… und doch profitierst du davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>Der Mönch meditiert kurz über seinen Schmerz. Dabei beschwört er zwei physische Manifestierungen des Leids, eine aus Flamme, die andere aus Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText>Der Dieb führt einen Primärangriff aus, der zusätzlichen Schaden verursacht und das Ziel betäuben kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>Diese mächtigere Variante des einfachen Feuerstrahl-Zaubers verursacht reinen Schaden. Sie greift die Tapferkeit des Ziels an und wirkt sich nur auf Feinde aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>Ninagauths Schattenflamme ist eine ungewöhnliche Variante des beliebten Feuerballs. Sie verursacht Frostschaden und lähmt jeden, der sich im Wirkungsbereich aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht reinen Schaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Ausdauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>Concelhauts verheerender Niedergang ist ein wahrlich einzigartiger Zauber. Er ruft einen gewaltigen magischen Hammer herbei, der wiederholt auf das Ziel niedersaust. Dabei wird dem Ziel Wuchtschaden zugefügt und es wird Niedergestreckt. Der Hammer schlägt wiederholt zu und wird dabei immer größer, genauer und schädlicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>Die Verbündeten des Sängers erhalten einen Bonus auf ihre Wille-Verteidigung auf den Widerstand gegen die Wirkungen Bezaubert, Verwirrt und Beherrscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>Schafft eine Barriere, die Schaden absaugt, der gegen die Verbündeten des Sängers gerichtet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>Die Verbündeten des Sängers erhalten einen Teil des Schadens, den sie verursachen, als Ausdauer zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Vernichtet Feinde mit einem mächtigen Wind kalter Luft, der die Bewegung verlangsamt und Frostschaden anrichtet (wobei er eine große Menge SR ignoriert).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>Der Sänger füllt sich mit manischer Energie, wodurch sich seine Angriffsgeschwindigkeit deutlich erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText>Beschwört eine Sumpfspore, die für den Sänger kämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText>Schrapnell des Verstandes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>Seelenentzug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText>Strahl der Leere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
+      <DefaultText>Ninagauths Schattenflamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1584</ID>
+      <DefaultText>Concelhauts entziehende Geschosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1585</ID>
+      <DefaultText>Concelhauts Visage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1586</ID>
+      <DefaultText>Hinterhalt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1587</ID>
+      <DefaultText>Benommenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>Beherrschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1589</ID>
+      <DefaultText>Belegt ein einzelnes Ziel für kurze Zeit mit der Wirkung Beherrscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1590</ID>
+      <DefaultText>Geißel der Natur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1591</ID>
+      <DefaultText>Lebende Maschine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1592</ID>
+      <DefaultText>Die Teufelin von Caroc ist ein außergewöhnliches Wesen. Ihr künstlicher Körper ist immun gegen die Wirkungen von Gift und Krankheit, kann aber keine Nahrung, Getränke oder Arzneien verarbeiten. Laut Galvino wirkt die Magie von Tränken trotz ihrer seltsamen Physiologie auf die Teufelin. Die Maßnahmen eines gewöhnlichen Feldlazaretts sind jedoch nutzlos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1593</ID>
+      <DefaultText>Galvinos Resonanzverstärker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1594</ID>
+      <DefaultText>Spürt Seelen auf, die in einem früheren Leben in Durgans Batterie gelebt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1595</ID>
+      <DefaultText>Der Träger dieses Umhangs enthält Frost-SR. Jeder, der den Träger im Nahkampf angreift, erleidet Verbrennungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7149,6 +7904,16 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1598</ID>
+      <DefaultText>Löscht jedes Gefäß aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1599</ID>
+      <DefaultText>Schneeball</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1600</ID>
       <DefaultText>Löscht jeden Geist aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
       <FemaleText />
@@ -7159,8 +7924,263 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1602</ID>
+      <DefaultText>Geister verlangsamen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1603</ID>
+      <DefaultText>Lähmen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1604</ID>
+      <DefaultText>Gefäße rufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Beschwört mehrere zufällige Gefäße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1606</ID>
+      <DefaultText>Versteinern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1607</ID>
+      <DefaultText>Löst für kurze Zeit die Wirkung Geblendet aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1608</ID>
+      <DefaultText>Löst für kurze Zeit die Wirkung Benommen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1609</ID>
+      <DefaultText>Löst für kurze Zeit die Wirkung Gelähmt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1610</ID>
+      <DefaultText>Löst für kurze Zeit die Wirkung Versteinert aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1611</ID>
+	  <DefaultText>Verwirren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1612</ID>
+	  <DefaultText>Löst für kurze Zeit die Wirkung Verwirrt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1613</ID>
+      <DefaultText>Erzeugt einen Strahl zwischen dem Zauberwirker und dem Ziel, der allen Feinden, die von ihm berührt werden, anhaltenden Wuchtschaden zufügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1614</ID>
+      <DefaultText>Barbarische Vergeltung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1615</ID>
+      <DefaultText>Zwischenschritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1616</ID>
+      <DefaultText>Form der Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>Die lange Pein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>Entsagung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>Symbol von Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Symbol von Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Symbol von Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Symbol von Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>Symbol von Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>Symbol von Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>Pulververbrennungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Aufmerksamer Wächter</DefaultText>
+      <FemaleText>Aufmerksame Wächterin</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Litanei gegen starke Wirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Litanei gegen schwache Wirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText>Tod vortäuschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Welkender Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>Ansturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Ihre Umarmung, die Wände unseres Heims</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1634</ID>
+      <DefaultText>Dauerhafte Ablenkung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1635</ID>
+      <DefaultText>Wand aus vielen Farben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1636</ID>
+      <DefaultText>Kalakoths Frostrechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1637</ID>
+      <DefaultText>Gnade und Güte folgten ihr, wohin sie auch ging</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>Mit all deiner Stärke töte die Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Koche ihr Fleisch, von der Haut bis zu den Knochen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Frohlocket, Kameraden! Zwei Finger Tageslicht!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>In seinen Dienst gerufen, die uralten Werkzeuge des Todes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1642</ID>
       <DefaultText>Reserven anzapfen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Llengraths überlegenes Bollwerk der Elemente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1644</ID>
+      <DefaultText>Wand aus vielen Farben – [FF0000]Rot![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>Wand aus vielen Farben – [FB8000]Orange![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1646</ID>
+      <DefaultText>Wand aus vielen Farben – [FFFF00]Gelb![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1647</ID>
+      <DefaultText>Wand aus vielen Farben – [00FF00]Grün![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1648</ID>
+      <DefaultText>Wand aus vielen Farben – [26b4fc]Blau![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1649</ID>
+      <DefaultText>Wand aus vielen Farben – [0000FF]Indigo![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1650</ID>
+      <DefaultText>Wand aus vielen Farben – [9c439f]Violett![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1651</ID>
+      <DefaultText>Ausgelöste Immunität</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1652</ID>
+      <DefaultText>Sehet den Märtyrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1653</ID>
+      <DefaultText>Austrocknend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1654</ID>
+      <DefaultText>Zephyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7259,6 +8279,11 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1674</ID>
+      <DefaultText>Der Begleiter von Concelhauts Schädel hat die Fähigkeiten den Schatten eines Erzmagiers zu Hilfe zu rufen. Solange die Beschwörung andauert wird das untote Gesicht des Schädels Zauber wirken, die der Beschwörer mit Direktschaden an seiner Lebensessenz bezahlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1675</ID>
       <DefaultText>Immunität: Gift</DefaultText>
       <FemaleText />
@@ -7276,7 +8301,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1678</ID>
       <DefaultText>Der Priester nutzt Heiliger Glanz, immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Leute unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
-    <FemaleText />
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1679</ID>
@@ -7289,8 +8314,78 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1681</ID>
+      <DefaultText>Tornado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1682</ID>
+      <DefaultText>Hilflose Bestiengestalt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>Rachsüchtige Trauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>Gestalt der hilflosen Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1685</ID>
+      <DefaultText>Rächender Sturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText>Große Zauberbuch-Prägung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1687</ID>
+      <DefaultText>Einsam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1688</ID>
+      <DefaultText>Klarheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText>Ägide der Treue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1690</ID>
       <DefaultText>Trinken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText>Ein Schnellauswahl-Platz wird mit einem Getränk belegt, das Kampfboni verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText>Furchteinflößende Präsenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText>So singen deine Beißenden Winde oh Alt-Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText>Heulen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText>Gedankennetz der Verteidigung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7301,6 +8396,101 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1697</ID>
       <DefaultText>Schnelle Rezitation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1698</ID>
+      <DefaultText>Schattenschritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1699</ID>
+      <DefaultText>Blutdurst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1700</ID>
+      <DefaultText>Erhabene Hände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1701</ID>
+      <DefaultText>Erntende Klingen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Widerhallende Berührung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Ausdauer tauschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1704</ID>
+      <DefaultText>Widerhallender Ruf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1705</ID>
+      <DefaultText>Feuerhirsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1706</ID>
+      <DefaultText>Überwältigender Schutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1707</ID>
+      <DefaultText>Himmelstritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1708</ID>
+      <DefaultText>Die lange Pein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>Hand von Wohl und Weh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1710</ID>
+      <DefaultText>Symbol von Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText>Gefährten wiederbeleben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>Gefährten heilen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Mauras sich windende Tentakeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Minolettas durchbohrendes Siegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
+      <DefaultText>Eoras Anziehung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -7319,8 +8509,323 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1720</ID>
+      <DefaultText>Der Dieb fällt zu Boden und täuscht vor, dass er außer Gefecht ist. Er regeneriert seine Ausdauer und wartet ab, bis der rechte Augenblick gekommen ist, wieder in den Kampf einzusteigen. Wenn der Dieb aufsteht, wird er für kurze Zeit unsichtbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>1721</ID>
+      <DefaultText>Indem er durch die Zwischenwelt tritt, kann der Dieb sich einige Augenblicke lang scheinbar über das Schlachtfeld teleportieren. Wenn die Wirkung nachlässt, kehrt er automatisch zu seinem Ausgangspunkt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1722</ID>
+      <DefaultText>Der Zauberer beschwört eine schwarze Kugel, die alle Feinde in der Nähe zu sich zieht, wenn sie pulsiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>Der Zauberer beschwört das Siegel der legendären vailianischen Zauberin Minoletta. Wenn er im Nahkampf getroffen wird, rächt das Siegel sich mit Stichschaden, wirft das Ziel zurück und hinterlässt es Betäubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1724</ID>
+      <DefaultText>Der Barbar kanalisiert seinen Zorn in eine Energiewelle, die jedem, der in ihrem Weg steht, Wuchtschaden zufügt und ihn benommen zurücklässt. Wenn der Ruf eine feste Oberfläche trifft, prallt er einmal ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1725</ID>
+      <DefaultText>Der Barbar greift reflexartig jeden an, der ihn im Nahkampf trifft. Wer das Pech hat, von diesem Angriff des Barbaren getroffen zu werden, erleidet reinen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1726</ID>
+      <DefaultText>Der Sänger beschwört eine Ansammlung uralter Waffen, die seine Feinde angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>Diese gruselige Beschwörung führt dazu, dass die Leichen und Seelen der Opfer sich rasch auflösen. Feinde im Wirkungsbereich erleiden reinen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1729</ID>
+      <DefaultText>Nachdem er einen Feind getötet hat, ist der Barbar auf keine Erholung angewiesen, sondern kann sofort wieder angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1730</ID>
+      <DefaultText>Der Sänger erschafft zwei reflektierende Strahlen aus purem Licht. Verbündete, die von ihnen getroffen werden, regenerieren Ausdauer und erhalten Immunität gegen die Wirkungen Verängstigt und Geschockt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1731</ID>
+      <DefaultText>Der Sänger erhöht die Genauigkeit und den Schaden von Verbündeten gegen alle Feinde des Typs Wildtier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>Alle Verbündeten erhalten mehr Ausdauer durch Heileffekte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1733</ID>
+      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“aus purer Energie zu schaffen, die aus beiden Händen wachsen. Die Klingen verursachen reinen Schaden und generieren Fokus für das Medium, das sie geschaffen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1734</ID>
+      <DefaultText>Der Wirker verbindet seinen Verstand mit dem von Verbündeten in der Nähe. So schafft er eine Kette von Schutzgliedern zwischen ihnen. Alle Verbündeten in dem Gedankennetz nutzen die beste Verteidigung unter allen Mitgliedern des Netzes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1735</ID>
+      <DefaultText>Ein Verbündeter nimmt dem Anschein nach die Gestalt eines Geistes an. Seine Bewegungsfähigkeiten verbessern sich und viele erlittene Kritische Treffer, Treffer und Leichte Treffer werden zu schwächeren Ergebnissen abgeschwächt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1736</ID>
+      <DefaultText>Der Druide verwandelt sich in einen Ableiter für die Gewalt eines Gewitters. Jedes Ziel, das er im Nahkampf trifft oder von dem er im Nahkampf getroffen wird, wird von einem Blitz angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1737</ID>
+      <DefaultText>Der Druide vereint winzige Naturgeister zu der Gestalt eines gewaltigen Hirsches aus Flammen. Der Hirsch hinterlässt eine Feuerspur, wohin er auch rennt. Die Geister, aus denen er besteht, können sich auf Befehl gewaltsam zerstreuen. Der Hirsch wird dabei vernichtet, aber jeder, der von den Geistern getroffen wird, erleidet Feuer- oder Stichschaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1738</ID>
+      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Verbrennungsschaden zufügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner „Haut“ und bekommen die Eigenschaften von Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen die Wirkung Bewegungsunfähig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>Der Kämpfer sprintet blitzschnell über das Schlachtfeld und fügt jedem, der ihm im Weg steht, Wuchtschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1741</ID>
+      <DefaultText>Wenn der Kämpfer von Schaden getroffen wird, der mindestens 10% seiner Gesamt-Ausdauer abzieht, erhält er für kurze Zeit Immunität gegen diesen Schadenstyp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1742</ID>
+      <DefaultText>Der Mönch wirft ein Ziel in die Luft, schmettert es wieder zu Boden und lässt es niedergestreckt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1743</ID>
+      <DefaultText>Die Schläge des Mönchs erzeugen eine schwingende Resonanz zwischen dem Mönch und seinem Ziel. Nachfolgende Schläge erhöhen die Intensität der Resonanz. Der Mönch kann den Zeitpunkt bestimmen, zu dem die Resonanz jedem, der momentan mit ihr verbunden ist, verheerenden reinen Schaden zufügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1744</ID>
+      <DefaultText>Der Mönch kann Kraft aus seinen Fäusten schießen lassen, die auf große Entfernung Schaden zufügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1745</ID>
+      <DefaultText>Durch pure Willenskraft kann der Paladin jeden Geist und jede beschworene Kreatur unter der Stufe des Paladins zerstören. Geister und beschworene Kreaturen mit gleicher oder höherer Stufe erleiden reinen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1746</ID>
+      <DefaultText>Der Paladin entzündet über einem gefallenen Verbündeten ein pulsierendes Leuchtfeuer. Dieses erhöht die Geschwindigkeit und die Schadensreduktion von Verbündeten in der Nähe – und verringert sie bei Feinden. Das Leuchtfeuer verschwindet, wenn der Verbündete wiederbelebt wird. Wenn der Paladin im Kampf das Bewusstsein verliert, wird diese Fähigkeit automatisch auf ihn selbst angewendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1747</ID>
+      <DefaultText>Charaktere, die unter den Wirkungen Bezaubert, Verwirrt oder Beherrscht stehen, werden mit einem schweren Malus auf ihre Genauigkeit belegt, wenn sie den Paladin angreifen. Außerdem verursachen die Angriffe des Paladins gegen solche Charaktere nur minimalen Schaden und heben die Wirkung immer auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1748</ID>
+      <DefaultText>Der Priester beschwört einen Lichtstrahl, der Verbündete heilt und Feinde verbrennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1749</ID>
+      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Feinden Zersetzungsschaden zufügt und sie Geschwächt zurücklässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1750</ID>
+      <DefaultText>Zeichnet das Symbol von Eothas auf den Boden, das Feinden in regelmäßigen Abständen Verbrennungsschaden zufügt und Verbündeten Verteidigungsboni verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1751</ID>
+      <DefaultText>Zeichnet das Symbol von Magran auf den Boden, das Feinden in regelmäßigen Abständen Verbrennungsschaden zufügt und sie Geblendet zurücklässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1752</ID>
+      <DefaultText>Zeichnet das Symbol von Ondra auf den Boden, das Feinden in regelmäßigen Abständen Wuchtschaden zufügt und Verbündeten Schadensreduktion verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1753</ID>
+      <DefaultText>Zeichnet das Symbol von Skaen auf den Boden, das Feinden in regelmäßigen Abständen Stichschaden zufügt und sie Humpelnd zurücklässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1754</ID>
+      <DefaultText>Zeichnet das Symbol von Wael auf den Boden, das Feinden in regelmäßigen Abständen Frostschaden zufügt und Verbündeten Resistenz gegen die Wirkungen Bezaubert, Verwirrt oder Beherrscht verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1755</ID>
+      <DefaultText>Zeichnet das Symbol von Woedica auf den Boden, das Feinden in regelmäßigen Abständen Hiebschaden zufügt und Verbündeten Bonus-Genauigkeit verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1756</ID>
+      <DefaultText>Der Glaube des Priesters wird zu einem Quell der Unbesiegbarkeit für seine Verbündeten. Wenn ein Verbündeter unter diesem Einfluss steht und im Kampf das Bewusstsein verliert, wird er sofort wiederbelebt und ein Teil seiner Ausdauer wird geheilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1757</ID>
+      <DefaultText>Verleiht einem einzigen Verbündeten vorübergehende Immunität gegen die Wirkungen Geblendet, Verwirrt, Benommen, Abgelenkt, Verängstigt, Humpelnd, Niedergestreckt, Erkrankt und Bewegungsunfähig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1758</ID>
+      <DefaultText>Verleiht einem einzigen Verbündeten vorübergehende Immunität gegen die Wirkungen Bezaubert, Beherrscht, Gelähmt, Versteinert, Betäubt, Geschockt und Geschwächt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1759</ID>
+      <DefaultText>Der Waldläufer füllt seine Feuerwaffe bei allen Schüssen mit zu viel Pulver. Die daraus resultierende Explosion erzeugt einen mächtigen Flammenkegel, lässt den Waldläufer aber vorübergehend Geblendet zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1760</ID>
+      <DefaultText>Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verlieren, erleidet der Partner die normalen Auswirkungen von Verbundene Trauer. Zusätzlich wird er aber für kurze Zeit von konzentriertem Zorn erfüllt. Während dieser Zeit erhöhen sich seine Geschwindigkeit, seine Bewegung und sein Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1761</ID>
+      <DefaultText>Der Waldläufer kann seinen tierischen Gefährten wiederbeleben und eine geringe Menge an Ausdauer heilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1762</ID>
+      <DefaultText>Der Waldläufer kann seinen tierischen Gefährten heilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1763</ID>
+      <DefaultText>Immer, wenn der Dieb dazu beiträgt, dass ein Ziel unter der Wirkung Flankiert steht, wird das Opfer zusätzlich auch Abgelenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1764</ID>
+      <DefaultText>Der Zauberer beschwört einen furchterregenden Bogen, der Feinden Zersetzungschaden zufügt und sie Geschockt zurücklässt. Jeder Energiebolzen, den der Zauberer abfeuert, springt zu einem zusätzlichen Ziel weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1765</ID>
+      <DefaultText>Eine geisterhafte Skeletthand fegt durch das Gebiet und fügt allen Feinden darin Frostschaden zu und lässt sie Geschwächt oder Humpelnd zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1766</ID>
+      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Verbrennungs-, Zersetzungs-, Frost- und Elektroschockschaden bewahren, bis er überwältigt wird oder die Dauer abgelaufen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1767</ID>
+      <DefaultText>Ermöglicht es dem Zauberer, vorübergehend Zauber der Stufe 7 oder niedriger von Druiden, Priestern oder Zauberern „auszuleihen“. Für kurze Zeit kann der Zauberer die gestohlenen Zauber frei wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1768</ID>
+      <DefaultText>Beschwört eine schillernde Wand aus mehreren Farben. Feinde, die diese Wand durchqueren, erleiden unterschiedliche Schadensarten und werden mit unterschiedlichen Wirkungen belegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1769</ID>
+      <DefaultText>Ein trockener Wind bläst über das Schlachtfeld und fügt jedem im Zielgebiet reinen Schaden zu und lässt ihn Geschwächt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1770</ID>
+      <DefaultText>Verwandelt einen einzigen Feind eines Gestandenen-Volks (Aumaua, Zwerg, Elfe, Gottähnlicher, Mensch oder Orlaner) in ein Schwein. Das Schwein besitzt eine sehr schlechte Verteidigung, kann sich aber schnell bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1771</ID>
+      <DefaultText>Beschwört ein Trio mächtiger Tentakeln, die sich nicht bewegen können – dafür aber jedem, den sie treffen, Wucht- oder Zersetzungsschaden zufügen und ihn mit der Wirkung Bewegungsunfähig belegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1772</ID>
+      <DefaultText>Lähmendes Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1773</ID>
+      <DefaultText>Mondspinnen-Glanz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1774</ID>
+      <DefaultText>Mondspinnen-Essenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1775</ID>
+      <DefaultText>Wilder Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1776</ID>
+      <DefaultText>Skuldrak-Giftatem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>Augenlosen-Schrei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>Augenlosen-Feuerstrahl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1779</ID>
+      <DefaultText>Augenlosen-Tritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>Augenlosen-Bodenbeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1781</ID>
       <DefaultText>Der Sänger kann Phrasen schneller rezitieren, wodurch er Beschwörungen früher im Kampf einsetzen kann und die Überlappung zwischen den Phrasen erhöht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Märtyrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1783</ID>
+      <DefaultText>Die Parade der Seelen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1784</ID>
+      <DefaultText>Das Rad bricht alle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7346,6 +8851,36 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1789</ID>
       <DefaultText>Erhöhte Verteidigung gegen die angegebene Wirkung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>Schneebär-Verängstigungsschrei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>Schneebär-Wischer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>Lässt einen schauderhaften Schrei los, der alle Feinde im Wirkungsbereich verängstigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>Führt einen psychischen Angriff auf Feinde in der Umgebung des Wirkers aus. Jeder im Wirkungsradius erleidet direkten Schaden und wird mit der Wirkung Benommen belegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>Illusionswaffen beschwören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>Beschwört einen zerstörerischen Wirbelwind, der Personen in die Luft werfen kann, Opfer niederstrecken und jedem, den er berührt, Wuchtschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7394,13 +8929,365 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1805</ID>
+      <DefaultText>Säureatem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1806</ID>
+      <DefaultText>Peitschenschweif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1807</ID>
+      <DefaultText>Zerstört Augenlose</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1808</ID>
+      <DefaultText>Löscht jeden Augenlosen vollständig aus, der von dem Effekt getroffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1809</ID>
+      <DefaultText>Abydons Arbeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1810</ID>
+      <DefaultText>Entfesselt eine spirituelle Projektion der Macht des Hammers. Sie fügt Feinden Wuchtschaden zu und drängt sie zurück. Die Waffe zu führen ist äußerst erschöpfend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1811</ID>
+      <DefaultText>Ring der antiken Esse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1812</ID>
+      <DefaultText>Das Dröhnen von Abydons Hammer ist so stark, dass es Feinde in der Nähe des Charakters, der ihn führt, unterbricht und Betäubt zurücklässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1813</ID>
+      <DefaultText>Verängstigt Gefäße um den Charakter herum, der die Waffe führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1814</ID>
+      <DefaultText>Streckt Gefäße bei einem kritischen Treffer nieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1815</ID>
-      <DefaultText>Gréf's Authority</DefaultText>
+      <DefaultText>Autorität des Gréfen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1816</ID>
-      <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
+      <DefaultText>Präziser Nahkampfangriff, der Hiebschaden verursacht, eine gewisse Menge an Schadensreduktion umgeht und das Ziel Betäubt zurücklassen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1817</ID>
+      <DefaultText>Verängstigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1818</ID>
+      <DefaultText>Gestaltwandlung wiederherstellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1819</ID>
+      <DefaultText>Wurfspeer schleudern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1820</ID>
+      <DefaultText>Bodenrammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1821</ID>
+      <DefaultText>Lähmender Schuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1822</ID>
+      <DefaultText>Todesfeuer-Shanty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1823</ID>
+      <DefaultText>Drachenatem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1824</ID>
+      <DefaultText>Beraths Kuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1825</ID>
+      <DefaultText>Grabesschritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1826</ID>
+      <DefaultText>Wit-Dyr-Dörrfleisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1827</ID>
+      <DefaultText>Hirnmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1828</ID>
+      <DefaultText>Giftwolke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1829</ID>
+      <DefaultText>Llengraths Nebel des Grauens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1830</ID>
+      <DefaultText>Wyrthoneg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1831</ID>
+      <DefaultText>Steinwurf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1832</ID>
+      <DefaultText>Todessporen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1833</ID>
+      <DefaultText>Furchtlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1834</ID>
+      <DefaultText>Der Kämpfer ist immun gegen die Wirkungen Verängstigt und Geschockt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1835</ID>
+      <DefaultText>Brutaler Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1836</ID>
+      <DefaultText>Llengraths mentale Schilde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1837</ID>
+      <DefaultText>Llengraths körperliche Schilde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1838</ID>
+      <DefaultText>Mentale Stärke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1839</ID>
+      <DefaultText>Seele durchtrennen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1840</ID>
+      <DefaultText>Wurfspeer-Stich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1841</ID>
+      <DefaultText>Dein Waffenstillstand mit Llengrath wurde durch einen Austausch besiegelt, der beiden Seiten nutzt. Du hast das Treffen ein wenig weiser verlassen, als du es begonnen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1842</ID>
+      <DefaultText>Der Wächter zielt mit seinem nächsten Angriff auf die Essenz einer Kreatur. So umgeht er die Verteidigung des Ziels und lässt es Geschwächt zurück.</DefaultText>
+      <FemaleText>Die Wächterin zielt mit dem nächsten Angriff auf die Essenz einer Kreatur. So umgeht sie die Verteidigung des Ziels und lässt es Geschwächt zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1843</ID>
+      <DefaultText>Felsoger zusammenrufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1844</ID>
+      <DefaultText>Schwerer Kanonenbeschuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1845</ID>
+      <DefaultText>Katapult mit brennendem Pech</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1846</ID>
+      <DefaultText>Deine Begegnung mit dem Wächter Adaryc hat deine Fähigkeiten verstärkt. Du kannst die Verteidigung deiner Feinde durchdringen und sie Geschwächt zurücklassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1847</ID>
+      <DefaultText>Seele durchtrennen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1848</ID>
+      <DefaultText>Strahlenpilz-Sekret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1849</ID>
+      <DefaultText>Infiziert Ziele mit einer schweren Krankheit, die sie Erkrankt zurücklässt und es ihnen unmöglich macht, ihre Ausdauer zu ermitteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1850</ID>
+      <DefaultText>Der Wirker erhält Immunität gegen die Wirkungen Bezaubert, Verwirrt, Benommen, Abgelenkt, Beherrscht, Verängstigt, Betäubt und Geschockt. Die Schilde negieren zwei Angriffe von jedem Wirkungstyp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1851</ID>
+      <DefaultText>Der Wirker erhält Immunität gegen die Wirkungen Geblendet, Gelähmt, Versteinert, Niedergestreckt, Erkrankt, Bewegungsunfähig und Geschwächt. Die Schilde bieten Schutz vor zwei Angriffen von jedem Wirkungstyp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1852</ID>
+      <DefaultText>Llengraths stumpfe Weisheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1853</ID>
+      <DefaultText>Der Zauberer beschwört einen Stab, der einen Ball magischer Energie verschleudert. Wenn der Ball sein Ziel erreicht, schwebt er einige Augenblicke in der Luft, bevor er explodiert. Dabei fügt er Feinden in der Nähe reinen Schaden in schrecklichem Ausmaß zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1854</ID>
+      <DefaultText>Zerfleischen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1855</ID>
+      <DefaultText>Adarycs readceranische Truppen feuern Katapulte auf deine Feinde in Cayrons Narbe ab. Sie fügen ihnen Verbrennungszeitschaden zu und lassen sie Humpelnd zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1856</ID>
+      <DefaultText>Deine Verbündeten in Durgans Batterie feuern die schweren Kanonen auf Cayrons Narbe ab. Sie fügen Feinden gewaltigen Wuchtschaden zu und lassen sie Niedergestreckt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1857</ID>
+      <DefaultText>Ein Trio von Matronin Beregans Ogern erscheint unverzüglich bei Cayrons Narbe, um deine Feinde anzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1858</ID>
+      <DefaultText>Giftige Welle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1859</ID>
+      <DefaultText>Autorität des Fürsten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1860</ID>
+      <DefaultText>Zauberdiebstahl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1861</ID>
+      <DefaultText>Anitlei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1862</ID>
+      <DefaultText>Anitlei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1863</ID>
+      <DefaultText>Befriedigter Verstand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1864</ID>
+      <DefaultText>Reines Gewissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1865</ID>
+      <DefaultText>Befriedigter Verstand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1866</ID>
+      <DefaultText>Reines Gewissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1867</ID>
+      <DefaultText>Als unangefochtener Herrscher über Caed Nua kannst du durch dieses Erbstück der Familie Gathbin deine Macht, deine Entschlossenheit und deine Schadensreduktion erhöhen und erhältst gleichzeitig Immunität gegen die Wirkungen Bezaubert und Beherrscht.</DefaultText>
+      <FemaleText>Als unangefochtene Herrscherin über Caed Nua kannst du durch dieses Erbstück der Familie Gathbin deine Macht, deine Entschlossenheit und deine Schadensreduktion erhöhen und erhältst gleichzeitig Immunität gegen die Wirkungen Bezaubert und Beherrscht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1868</ID>
+      <DefaultText>Spinnenbefall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1869</ID>
+      <DefaultText>Opfer dieser Falle erleiden zunächst gewaltigen Stichschaden und werden durch dieses Erlebnis Verängstigt. Anschließend erleiden sie reinen Zeitschaden, auch noch lange nachdem die Falle ausgelöst wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1870</ID>
+      <DefaultText>Ätherischer Mantel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1871</ID>
+      <DefaultText>Llengraths absaugendes Bild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1872</ID>
+      <DefaultText>Nachdem die Erinnerung an ihr Verbrechen aus ihrem Verstand getilgt wurde, hat Maneha endlich Frieden gefunden. Sie kann sich auf die Schlachten konzentrieren, die vor ihr liegen, wodurch sich ihre Geschicklichkeit erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText>Maneha hat gelernt, mit der Erinnerung zu leben, die ihr solche Pein bereitet hatte. Durch diese Entscheidung hat sie neue Entschlossenheit gewonnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Verstärkter schwerer Kanonenbeschuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>Deine Verbündeten in Durgans Batterie feuern die schweren Kanonen auf Cayrons Narbe ab – verstärkt durch die Seelen, die an sie gebunden wurden. Sie fügen Feinden gewaltigen Wuchtschaden zu und lassen sie Niedergestreckt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1876</ID>
+      <DefaultText>Wenn ein Nalpazca-Krieger gelernt hat, sich von den Fesseln zu befreien, die ihn an die materielle Welt binden, wird er der Legende nach zum Anitlei.
+
+Zu den vielen Gaben des Anitlei gehört auch ein übernatürliches Verständnis des Leids aller Wesen. Dank dieser Einsicht kann er die Absichten eines Gegners vorausahnen und auf sie reagieren, ehe der Gegner sie überhaupt in die Tat umsetzt. Der Anitlei weiß daher genau, wo und wann er zuschlagen muss, und kann dies mit Zuversicht und großer Geschwindigkeit tun.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
