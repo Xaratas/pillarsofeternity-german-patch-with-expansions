@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_elevator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Vielleicht nehmen wir lieber die Treppe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Vielleicht sollte Durance es erst einmal ausprobieren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Die Pargrunen haben Wunder errichtet, die über Jahrhunderte hinweg Bestand hatten und haben. Ich glaube nicht, dass dieses Ding dazugehört.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Nimm das Ding, wenn du willst. Ich suche lieber eine Treppe. Oder halb aufgefressene Ranken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Welch wunderbare Maschine! Solide zwergische Handwerkskunst ... wir setzen aber keinen Fuß auf das Ding, oder?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„In den Bastionen von Ozian verwenden sie solche Aufzüge, um Kanonen zu befördern. Da sollte er uns doch mühelos tragen können, oder?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Mein Volk bleibt aus gutem Grund in der Tundra.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ich wusste nicht, dass ein Aufzug überhaupt Leiden erleben kann. Aber ich sehe den Beweis vor mir.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Weißt du, was ich am Reisen so liebe? Neues über mich selbst zu lernen. Zum Beispiel, dass ich Höhenangst habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

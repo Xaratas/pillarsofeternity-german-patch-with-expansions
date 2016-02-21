@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_04_eyeless_stronghold\px2_04_si_moon_escape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>288</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein gewaltiger Kristall ragt aus der Wand wie eine Speerspitze, die in einer Wunde steckt.
+
+Eine Armee von Spiegelbildern starrt euch aus den perfekten Facetten des Kristalls heraus an. Sie lässt den Klang eurer Schritte mit weichen, klingenden Summtönen widerhallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Jemand muss Abydons Hammer ergreifen und gegen den Kristall schlagen.
+
+Und Ondra hat gewarnt, dass derjenige, der dies tut, gemeinsam mit den Augenlosen an diesem Ort begraben werden wird.
+
+Wen wählst du?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Alles ist still, als du dich [Specified 0] näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Auslosen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du sammelst eine Handvoll kleiner Steine, mehrere graue und einen weißen. Du verteilst sie blind.
+
+Jeder öffnet seine Hand, um zu sehen, wer den weißen Stein gezogen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er liegt in der Handfläche von [Specified 0]. [Specified 0] blickt von dem Stein zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Beregans Oger rufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Zurücktreten und nachdenken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du lässt das Kriegshorn ertönen. Sein tiefer Klang grollt durch die Höhle.
+
+Wie Beregan es versprochen hat, eilen drei Krieger an deine Seite.
+
+Der größte von ihnen nimmt den Hammer – und die damit verbundene düstere Pflicht – mit stoischer Würde an.
+
+Er schlägt gegen den Kristall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du gibst [Specified 0] den Tauchhelm. Nur zur Sicherheit.
+
+[Specified 0] schenkt dir ein dankbares grimmiges Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 0] packt den Hammer und schlägt ihn gegen den Kristall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Der Rest der Gruppe eilt aus der überfluteten Höhle und flieht zurück durch die Tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] schlägt weiter gegen den Kristall. Jeder neue Schlag erzeugt ein größeres Echo. Die Echos bauen sich zu physischen Erschütterungen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die anderen biegen um eine Ecke und sehen eine Reihe von Augenlosen auf sich zukommen.
+
+Die Kreaturen taumeln im Rhythmus der von unten heraufdröhnenden Hammerschläge vorwärts. Sie recken jedoch die Hälse nach der Gruppe und ziehen ihre Kolbenarme nach hinten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0] schlägt mit gleichbleibendem Tempo wieder und wieder gegen den Kristall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Gruppe flieht durch dunkle, dröhnende Gänge.
+
+Es kommen weitere gebannte Augenlose angetaumelt. Sie sind aber von der anschwellenden Kadenz zu verzaubert, um mehr zu tun, als im Vorbeitaumeln einmal kurz der Form halber nach der Gruppe zu schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Aus jedem Tunnel und jeder Nische kommen weiter Augenlose in die Höhle geströmt. Die Ohren von [Specified 0] dröhnen ob der immer weiter anschwellenden Kakophonie von zerberstendem Stein und zersplitterndem Kristall.
+
+Das Wasser steigt währenddessen unaufhörlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du schlägst in dem dunklen Wasser wild um dich, bis deine Muskeln wegen der Kälte nicht mehr reagieren. Du weißt nicht mehr, wo oben oder unten ist. Überall um dich herum fühlst du die scharfen, glitschigen Kanten von Steinen.
+
+Du bist gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die anderen sprinten über den See. Das Eis knarzt und knackt und wackelt unter ihren Füßen gefährlich.
+
+Der sinkende Mond stöhnt. Lange Risse schießen über die Eisfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Endlich haben alle das sichere Ufer erreicht.
+
+In der Mitte des Sees ist nur noch die Spitze des Mondes über dem Eis zu sehen.
+
+Die Überlebenden sehen schweigend zu, wie der Mond in die Tiefe sinkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Teufelin von Caroc stapft über den Grund des Sees. Sie fühlt weder die Kälte noch den Mangel an Luft. Wäre da nicht das trübe Wasser, wäre es für sie fast ein angenehmer Spaziergang.
+
+So aber macht das Wasser ihre Bewegungen quälend langsam. Als der vierte Fleckenrücken vorbeigeschwommen kommt, um an ihren glänzenden Fingern zu knabbern, ist sie bereit, jemanden zu ermorden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 0] stapft durch das Geröll am Grund des Sees. Das Wasser ist eiskalt, die Luft in dem Taucherhelm ist beißend und das Geräusch der Atemzüge von [Specified 0] ist ein gedämpftes Brüllen.
+
+Aber es ist besser, als zu ertrinken.
+
+[Specified 0] bahnt sich einen Weg aus dem absinkenden Geröll und sieht das gespenstische Licht der Oberfläche über sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Endlich erreicht [Specified 0] das seichte Wasser.
+
+[Specified 0] schlägt durch eine dünne Kruste aus Eis und kriecht an Land ... zitternd, aber am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Welt scheint in Zeitlupe zu zerfallen.
+
+[Specified 0] sinkt zusammen mit den dunklen Formen von Mondfragmenten und zertrümmerten Augenlosen in den See hinab.
+
+Die Lungen von [Specified 0] brennen. Funken fliegen vor den Augen von [Specified 0] hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du schlägst in dem dunklen Wasser wild um dich, bis deine Muskeln wegen der Kälte nicht mehr reagieren. Du weißt nicht mehr, wo oben oder unten ist. Überall um dich herum fühlst du die scharfen, glitschigen Kanten von Steinen.
+
+Du bist gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Und ich habe immer gesagt, ich werde nie bei irgendetwas ausgewählt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Ich ... dachte nicht, dass ich noch einmal die Gelegenheit bekommen würde, die Meinen zu beschützen.“
+
+„Es wäre mir eine Ehre, das für dich zu tun.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Als ich Gabenbringerin wurde, hätte ich nie geglaubt, dass es mein eigener Leichnam sein würde, der in Ondras Tiefen zurückgelassen wird.“
+
+„Aber es wird mir gut tun, etwas zu tun, was ich nicht bereue.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Äh ... drei Runden, wer zweimal verliert?“
+
+Er blickt einen Augenblick zur Decke, atmet tief ein und blickt dann wieder zu dir zurück. Er nickt resigniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, mein Freund. Das ist alles, worum ich dich bitte.“</DefaultText>
+      <FemaleText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, meine Freundin. Das ist alles, worum ich dich bitte.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Ich habe zu viele Befehle befolgt, ohne sie zu verstehen. Aber diesen Befehl werde ich mit Stolz ausführen.“
+
+„Leb wohl, [Player Name].“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Als wir uns in Ondras Geschenk begegnet sind, war mir nicht klar, dass ich mich auf so etwas einlasse ...“
+
+Ein trauriges Lächeln spielt um ihre Lippen, weicht aber unmittelbar einem entschlossenen Ausdruck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Betrachte das nicht als deine Absolution. Deine Seele wird noch in das Feuer geworfen werden, auch wenn ich es nicht mehr mitansehen werde.“
+
+„Am besten lernt man durch Nachahmung. Betrachte das als eine Lektion.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Ich sagte, ich wäre hier, um dir zu helfen, Wächter. Nicht um an deiner statt angeklagt zu werden.“</DefaultText>
+      <FemaleText>„Ich sagte, ich wäre hier, um dir zu helfen, Wächterin. Nicht um an deiner statt angeklagt zu werden.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Sie nickt. „Sendet einen Boten zu Kallu und den Kindern. Und kümmert euch um Itumaak.“
+
+Sie will Itumaak zu dir schicken, aber der Fuchs legt sich vor ihre Füße. Sie seufzt resigniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Du weißt, dass ich dir überall hin folgen würde, aber ich habe meine Pflichten Massuk gegenüber noch nicht erfüllt. Es tut mir leid, [Player Name].“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Wenn mein Opfer eine sicherere Welt für die Kinder des Östlichen Abschnitts schafft, dann nehme ich es an.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Es war eine gute Reise. Kürzer, als ich gehofft hatte.“
+
+„Aber Wael hat sie interessant gestaltet, und das war mehr, als ich mir erträumt hätte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>„Vergib mir. Ich wurde bereits von einem Stelgaer verstümmelt. Ich habe meinen Tribut an das Unglück bereits entrichtet.“
+
+„Nun ist jemand anderes an der Reihe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ein perfekter, klarer Ton schwingt durch die Luft und hallt in deinen Zähnen wider.
+
+Wenige Sekunden später schaukeln Wellen durch das Wasser. Etwas Großes kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du packst den Hammer und schlägst ihn gegen den Kristall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 0] hebt den Hammer wieder und nickt dir ein letztes Mal zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du nickst den anderen ein letztes Mal zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du eilst aus der überfluteten Höhle und fliehst zurück durch die Tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du schlägst weiter gegen den Kristall. Jeder neue Schlag erzeugt ein größeres Echo. Die Echos bauen sich zu physischen Erschütterungen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du biegst um eine Ecke und siehst eine Reihe von Augenlosen auf dich zukommen.
+
+Die Kreaturen taumeln im Rhythmus der von unten heraufdröhnenden Hammerschläge vorwärts. Sie recken jedoch die Hälse nach dir und ziehen ihre Kolbenarme nach hinten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Spiegelbild wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Abstoßendes Siegel wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Anführer wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Nach anderen Optionen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Eure Spiegelbilder erscheinen in dem Tunnel.
+
+Die Augenlosen brüllen und stürzen vergeblich auf die Spiegelbilder zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Spiegelbilder von [Specified 1] erscheinen in dem Tunnel.
+
+Die Augenlosen brüllen und stürzen vergeblich auf die Spiegelbilder zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Ein leuchtendes Siegel erwächst aus dem Boden. Die ersten zwei Augenlosen steigen darauf und fallen zurück, wobei sie die meisten anderen mit sich reißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Eine kleine Gruppe von Augenlosen in der Mitte der Prozession brüllt und wendet sich gegen ihre Kameraden neben sich.
+
+Chaos geht durch die Reihen, als die Augenlosen sich nach dem Aufruhr umdrehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Der Gruppe mit Sturmangriff der Begeisterung befehlen, weiterzugehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[„Gesegnet ward Wengridh, Schnellster seines Stammes“ singen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Rauchwolke wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[An den Augenlosen vorbeihuschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Die Gruppe sprintet an den abgelenkten Monstern vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Die Gruppe stürmt durch die Monster hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du sprintest an den abgelenkten Monstern vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Du stürmst durch die Monster hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Eines der Monster erwischt dich im Vorbeigehen jedoch mit einer Faust wie ein Streitkolben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Glücklicherweise sind die Kreaturen zu sehr auf das Hämmern konzentriert, um die Verfolgung aufzunehmen.
+
+Sie gehen weiter in Richtung der Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Eines der Monster erwischt im Vorbeigehen aber [SkillCheck 0] mit einer Faust wie ein Streitkolben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Eine Rauchwolke taucht plötzlich in der Mitte des Tunnels auf. Die Augenlosen stolpern mit lauten metallischen Geräuschen ineinander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Augenlose versammeln sich in der Höhle, wo sie im Takt mit den rhythmischen Schlägen des Hammers gegen die Wände schlagen.
+
+Der Boden bebt. Gesteinsbrocken und Kristallsplitter fallen zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Du schlägst mit gleichbleibendem Tempo wieder und wieder gegen den Kristall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Du fliehst durch dunkle, dröhnende Gänge.
+
+Es kommen weitere gebannte Augenlose angetaumelt. Sie sind aber von der anschwellenden Kadenz zu verzaubert, um mehr zu tun, als im Vorbeitaumeln einmal kurz der Form halber nach dir zu schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Der Tunnel wird enger. Es ist ein Licht zu sehen.
+
+Der Ausgang muss hinter der nächsten Biegung liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Es ist aber alles voller Schutt.
+
+Währenddessen stürzt der Boden plötzlich mehrere Meter auf einmal hinab und der Tunnel beginnt, sich um seine eigene Achse zu drehen.
+
+Das Geräusch von rasant fließendem Wasser hallt aus der Höhle wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Mit der Picke durch den Schutt brechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Zwillingsstein wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Mit Raserei durch den Schutt brechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Am oberen Ende des Haufens befindet sich etwas weniger Schutt. Dort könnte man vielleicht einen Durchgang graben.
+
+Aber es wird extrem anstrengende Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Wer räumt den Weg frei?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Nach anderen Optionen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[Den Schutt mit einem Brecheisen lösen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Es muss eine Schwachstelle geben, aber nur ein geübtes Auge kann sie identifizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Wer räumt den Weg frei?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Überlege, wer es tun soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Mit bloßen Händen durch den Schutt graben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Alle attackieren gemeinsam den Schutt und zerren mit verzweifelter Kraft an den Felsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Du attackierst den Schutt und zerrst mit verzweifelter Kraft an den Felsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Das Brüllen von zersplitterndem Stein steigt aus den Tiefen auf und der Mond sackt wieder mehrere Meter ab.
+
+Nach einigen Minuten der hektischen Arbeit ist der Gang endlich freigelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Aber [SkillCheck 0] ist verwundet und erschöpft.
+
+[SkillCheck 0] atmet mit kurzen, schmerzverzerrten Zügen und hält sich einen Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Aber du hast dich überanstrengt und Schmerzen schießen durch deinen Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Der Mond erzittert wieder. Die Gruppe rettet sich vom Eis, als gerade wieder ein donnernder Krach von unten ertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Der Mond erzittert wieder. Du rettest dich vom Eis, als gerade wieder ein donnernder Krach von unten ertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Als du endlich einen Ausgang geschaffen hast, zittern deine Arme und dein Rücken fühlt sich an, als wäre er doppelt gebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Du arbeitest schnell, während der Mond um dich herum ächzt.
+
+Als du einen Ausgang geschaffen hast, bist du noch nicht einmal richtig ins Schwitzen gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Specified 1] arbeitet schnell und schafft einen Ausgang, während der Mond ächzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Als [Specified 1] endlich einen Ausgang geschaffen hat, sehen die Arme und der Rücken von [Specified 1] aus, als wären sie doppelt gebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Du beschwörst zwei Felsen und wirfst sie gegen den Schutt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Specified 1] beschwört zwei Felsen und wirft sie gegen den Schutt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Sie krachen laut dagegen und der Schutt rollt den Tunnel hinab.
+
+Durch die Lücke strahlt offener Himmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Zorn überkommt dich und füllt deinen Körper mit verzweifelter, brutaler Stärke.
+
+Du schlägst einen Weg durch den Schutt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Zorn überkommt den Körper von [Specified 1] und erfüllt ihn mit verzweifelter, brutaler Stärke.
+
+[Specified 1] schlägt einen Weg durch den Schutt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Du bemerkst einen losen Stein und klemmst das Brecheisen darunter.
+
+Mit einer sanften Bewegung löst du den Stein vollends und der Schutt beginnt davonzurollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Du setzt das Brecheisen an verschiedenen Stellen an, findest aber keinen guten Hebel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Specified 1] bemerkt einen losen Stein und klemmt das Brecheisen darunter.
+
+Mit einer sanften Bewegung ist der Stein vollends gelöst und der Schutt beginnt davonzurollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[Specified 1] setzt das Brecheisen an verschiedenen Stellen an, findet aber keinen guten Hebel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Aus jedem Tunnel und jeder Nische kommen weiter Augenlose in die Höhle geströmt. Deine Ohren dröhnen ob der immer weiter anschwellenden Kakophonie von zerberstendem Stein und zersplitterndem Kristall.
+
+Das Wasser steigt währenddessen unaufhörlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Ein schädelspaltendes Krachen zerreißt die Luft und ein Wasserschwall fegt [Specified 0] von den Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Ein schädelspaltendes Krachen zerreißt die Luft und ein Wasserschwall fegt dich von den Füßen.
+
+Die gesamte Höhle dreht sich und taucht dich in eine eisige Suppe aus spitzem Metall, zerrissenem Fleisch und Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Deine Lungen beginnen zu brennen und deine Glieder werden taub. Zumindest wird dein Tod den Rest von Eora vor den Augenlosen retten.
+
+Eines Tages wird man Lieder über dich singen. Vielleicht Festmahle zu deinen Ehren abhalten. Vielleicht ...
+
+Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll eisigem Wasser. Du stirbst qualvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Nach einer sichereren Stelle für den Übergang suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>[Kalakoths Frostrechen wirken, um das Eis zusammenzuhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Weiterlaufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Die Eisoberfläche ist von Rissen durchzogen. Nur wer weiß, worauf er achten muss, kann einen sicheren Weg hinüber finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Wer soll gehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[Nach anderen Optionen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Überlege, wer es tun soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[Specified 1] wählt einen sorgfältigen Weg über das Eis, der Risse und dünne Stellen umgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[Specified 1] geht voran.
+
+Alles scheint gut zu gehen, bis die Gruppe etwa die Hälfte des Weges zum Ufer zurückgelegt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Der Rest der Gruppe folgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Du folgst dem Weg von [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Das Eis bricht ohne Vorwarnung und lässt alle in den eisigen See stürzen.
+
+Sie klettern heraus, taub und zitternd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Das Eis bricht ohne Vorwarnung und lässt dich in den eisigen See stürzen.
+
+Du kletterst heraus, taub und zitternd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Endlich hast du das sichere Ufer erreicht.
+
+In der Mitte des Sees ist nur noch die Spitze des Mondes über dem Eis zu sehen.
+
+Du siehst schweigend zu, wie der Mond in die Tiefe sinkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Du sprintest über den See. Das Eis knarzt und knackt und wackelt unter deinen Füßen gefährlich.
+
+Der sinkende Mond stöhnt. Lange Risse schießen über die Eisfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Du wählst einen sorgfältigen Weg über das Eis, der Risse und dünne Stellen umgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Du beginnst, über das Eis zu gehen und dabei die Risse und Schwachstellen zu umgehen.
+
+Alles scheint gutzugehen, bis du etwa den halben Weg zum Ufer zurückgelegt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Eine geisterhafte Hand wischt vor [Specified 1] über das Eis. Das Eis verbindet sich wieder und hält gerade lang genug, dass ihr es sicher überqueren könnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Eine geisterhafte Hand wischt vor dir über das Eis. Das Eis verbindet sich wieder und hält gerade lang genug, dass du es sicher überqueren kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Die Worte erfüllen die Gruppe mit Energie. Alle stürmen voran, während das Eis hinter ihnen harmlos zerbricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Die Worte erfüllen dich mit Energie. Du stürmst voran, während das Eis hinter dir harmlos zerbricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Alle laufen so schnell sie können, während um sie herum Eis zerbricht und zersplittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Du läufst so schnell du kannst, während um dich herum Eis zerbricht und zersplittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[SkillCheck 0] tritt aber auf einen Riss und taucht in das eiskalte Wasser ein.
+
+[SkillCheck 0] rettet sich heftig zitternd wieder auf das Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Du trittst aber auf einen Riss und tauchst in das eiskalte Wasser ein.
+
+Du rettest dich heftig zitternd wieder auf das Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Endlich erreichst du das seichte Wasser.
+
+Du schlägst durch eine dünne Kruste aus Eis und kriechst an Land ... zitternd, aber am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Du stapfst durch das Geröll am Grund des Sees. Das Wasser ist eiskalt, die Luft in dem Taucherhelm ist beißend und das Geräusch deines eigenen Atems dröhnt in deinen Ohren.
+
+Aber es ist besser, als zu ertrinken.
+
+Du bahnst dir einen Weg aus dem absinkenden Geröll und siehst das gespenstische Licht der Oberfläche über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Sie kriecht aus dem See, flucht und schüttelt sich das Wasser aus den Gelenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[Specified 0] kämpft sich durch die Überreste des zerbröckelnden Mondes und spürt die Kälte nur entfernt. Es ist mühsame Arbeit, aber die geschmeidigen Muskeln und mächtigen Lungen von [Specified 0] sind ihr gewachsen.
+
+[Specified 0] findet das gespenstische Licht der Oberfläche und schwimmt darauf zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Du kämpfst dich durch die Überreste des zerbröckelnden Mondes und spürst die Kälte nur entfernt. Es ist mühsame Arbeit, aber deine geschmeidigen Muskeln und mächtigen Lungen sind ihr gewachsen.
+
+Du findest das gespenstische Licht der Oberfläche und schwimmst darauf zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Die Welt scheint in Zeitlupe zu zerfallen.
+
+Du sinkst zusammen mit den dunklen Formen von Mondfragmenten und zertrümmerten Augenlosen in den See hinab.
+
+Deine Lungen und Glieder brennen. Funken fliegen vor deinen Augen hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Lagufaeth versammeln sich vor [Specified 0]. [Specified 0] bemerkt etwas Ungewöhnliches in ihren leuchtenden Augen. Ein Flackern außerordentlicher Intelligenz.
+
+[Specified 0] hört ein Flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>„Ihr habt uns aus unserem Gefängnis in Durgans Batterie befreit. Hiermit ist unsere Schuld beglichen.“
+
+Die Lagufaeth, besessen von den Geistern Marunns und der anderen Pargrunen, tragen [Specified 0] an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Lagufaeth versammeln sich vor dir und du bemerkst etwas Ungewöhnliches in ihren leuchtenden Augen. Ein Flackern außerordentlicher Intelligenz.
+
+Du hörst ein Flüstern in deinem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>„Du hast uns aus unserem Gefängnis in Durgans Batterie befreit. Hiermit ist unsere Schuld beglichen.“
+
+Die Lagufaeth, besessen von den Geistern Marunns und einigen der anderen Pargrunen, tragen dich an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>„Ich habe dir schon einmal gesagt, dass es besser wäre, wenn alles, was du gesehen hast, vergessen werden würde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Bank Node 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>„Du hast uns mutig geführt, [Player Name]. Es war eine Ehre, dir zu folgen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>„Die Götter meinen es wahrlich nicht gut mit dir. Ich wünschte, sie würden dich so kennen, wie ich es tue.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>„So lange ich lebe, wird Massuk deinen Namen neben dem von Persoq singen, [Player Name].“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>„Ich ... jeder wird erfahren, was du für uns getan hast. Ich werde es jedem sagen, den ich kenne. Nicht einmal die Seekönigin selbst könnte mich aufhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>„Ich hoffe nur, du tust das nicht für all die Nichtsnutze in Stalwart. Selbst die Neuankömmlinge sind das nicht wert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>„Ein großer Akt der Freiheit. Dein Körper wird leiden, doch deine Seele wird aufblühen.“
+
+„Ich werde mich immer an dein Vorbild erinnern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>„Dein Opfer wird viele Leben retten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>„Geradewegs ins Feuer. Deine Chancen stehen nicht gut, doch zumindest hast du gelernt, die Prüfung bereitwillig anzunehmen.“
+
+„Ich habe dir doch gesagt, dass ich dir gut tun würde, Wächter.“</DefaultText>
+      <FemaleText>„Geradewegs ins Feuer. Deine Chancen stehen nicht gut, doch zumindest hast du gelernt, die Prüfung bereitwillig anzunehmen.“
+
+„Ich habe dir doch gesagt, dass ich dir gut tun würde, Wächterin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>„Du bist eine mutige Seele, [Player Name]. Ich wünschte, ich wäre dir früher begegnet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>„Was du heute tust, wirkt sich auf den ganzen Östlichen Abschnitt aus, weit über die Weißmark hinaus. Ich werde dafür sorgen, dass die Republiken wissen, welches Opfer du gebracht hast.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>„Wael lehrt uns, dass alles aus einem Grund geschieht. Oder manchmal auch völlig ohne Grund. Deswegen hat er wahrscheinlich so wenige Anhänger.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>[Specified 0] nickt und nimmt Abydons Hammer von dir in Empfang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Er ruht in deiner Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Du nimmst den Taucherhelm und steckst ihn ein. Nur zur Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>„Ich habe in deiner Gesellschaft Frieden gefunden. Meine Seele klammert sich nicht länger an diese Existenz.“
+
+„Erlaube mir, diesen Gefallen zu erwidern. Erlaube mir, zurückzubleiben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Währenddessen pulsiert ein schwerer Rhythmus durch die Höhle. Schritte. Dutzende von Schritten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Ein schädelspaltendes Krachen zerreißt die Luft und ein Wasserschwall fegt [Specified 0] von den Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Die gesamte Höhle dreht sich und taucht [Specified 0] in eine eisige Suppe aus spitzem Metall, zerrissenem Fleisch und Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Plötzlich spürst du eine warme Strömung in deinem Rücken.
+
+Eine Stimme wie sanft schwappende Wellen flüstert in deinem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>„Vergiss auch das. Götter intervenieren nicht um Sterblicher willen.“
+
+Das Wasser drückt dich wie eine Hand in Richtung des gespenstischen Lichts der Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Keine Funken. Schuppen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Keine Funken. Schuppen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Du erkennst zu spät, dass nur [Specified 0] dazu in der Lage gewesen wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Die Gruppe erkennt zu spät, dass nur du dazu in der Lage gewesen wärest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Du erkennst zu spät, dass nur [Specified 0] dazu in der Lage gewesen wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Die Gruppe erkennt zu spät, dass nur du dazu in der Lage gewesen wärest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Du erkennst zu spät, dass nur [Specified 0] dazu in der Lage gewesen wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Die Gruppe erkennt zu spät, dass nur du dazu in der Lage gewesen wärest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>„Die Götter haben es wirklich auf dich abgesehen. In deinem nächsten Leben sind sie dir etwas schuldig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>„Ich wusste, dass meine Tage gezählt sind. Nun habe ich wenigstens einen guten Grund.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>„Aber wenn das verhindert, dass die Augenlosen den Östlichen Abschnitt überrennen, dann tue ich, was getan werden muss. Ado vidòrio.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>„Sorge du dafür, dass du die Sache lebend überstehst. Sie zu Ende bringst.“
+
+„Verlier nicht den Verstand. Vielleicht komme ich wieder und suche dich heim, um der alten Zeiten willen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>„Wenn du den Hammer eines Gottes ergreifst, erweise ihm wenigstens die Höflichkeit, die Arbeit selbst zu Ende zu bringen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

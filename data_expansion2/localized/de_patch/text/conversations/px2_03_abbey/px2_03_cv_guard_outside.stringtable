@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_guard_outside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Halt! Wer ist da?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Möge Ondra dich segnen, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Möge Ondra dich segnen, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Du bist am falschen Ort. Niemand darf ohne den Segen des Oberabtes passieren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Eindringling!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Wachmann bemerkt Ondras Zeugen und verneigt sich vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Du hättest die Tore nicht öffnen sollen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Möge Ondra dich schützen, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Möge Ondra dich schützen, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Lügen] „Kaoto wartet auf mich. Ich bin der Gezeitenbringer.“</DefaultText>
+      <FemaleText>[Lügen] „Kaoto wartet auf mich. Ich bin die Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Angreifen] „Ich bin nicht zum Plaudern aufgelegt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Ich suche nur den Ausgang.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Du darfst nicht hier sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Wie kann ich dir helfen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Verzeih meine Vorsicht. Uns wurde gesagt, dass du kommen würdest. Der Oberabt wartet drinnen auf dich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Wachmann entspannt sich und wirkt erleichtert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Wachmann kneift seine Augen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Wie kann ich sichergehen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Ich bin hier, um den Oberabt abzulösen. Wenn du mich nicht passieren lässt, werde ich dafür sorgen, dass dein Bett in Zukunft hier draußen steht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ihr bekommt selten Besuch, oder? Wer außer dem Gezeitenbringer sollte sich hierher verirren?“</DefaultText>
+      <FemaleText>„Ihr bekommt selten Besuch, oder? Wer außer der Gezeitenbringerin sollte sich hierher verirren?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Du musst mir wohl einfach glauben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Wir befinden uns in den letzten Tagen der Gezeit der Mecwyn. Eine Zeit des Übergangs für unsere Kirche. Meine Anwesenheit ist kein Zufall.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Augen des Wachmanns treten hervor. Er hebt entschuldigend die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Geh weiter, Reisender. Ich weiß nicht, woher du dein Wissen nimmst, aber wenn du hier verweilst, werden wir nicht zögern, dich zu töten.“</DefaultText>
+      <FemaleText>„Geh weiter, Reisende. Ich weiß nicht, woher du dein Wissen nimmst, aber wenn du hier verweilst, werden wir nicht zögern, dich zu töten.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Geh jetzt. Ich sage es nicht noch einmal.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Ich weiß nicht, wer du bist. Aber du darfst nicht hier sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Kaoto hat mir genehmigt, mich frei zu bewegen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Es beginnt also. Du darfst passieren, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Es beginnt also. Du darfst passieren, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Willkommen in der Abtei, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Willkommen in der Abtei, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_worried_neighbors</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Es kommen schlimme Zeiten, sage ich dir.“
+
+Das Paar blickt auf, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Wer ist da- ... oh. Verzeihung.“
+
+Der Dorfbewohner wendet sich dir zu.</DefaultText>
+      <FemaleText>„Wer ist da- ... oh. Verzeihung.“
+
+Der Dorfbewohner wendet sich dir zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Ja? Was willst du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Die Welt wird in Flammen aufgehen, ich schwöre es.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Vielleicht sollten wir hineingehen und nachsehen ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Dann mal los.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Brauchst du Hilfe?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Hey, Brys, er ist ein führender Paladin ...“</DefaultText>
+      <FemaleText>„Hey, Brys, sie ist ein führender Paladin ...“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Kein sonderlich guter.“</DefaultText>
+      <FemaleText>„Keine sonderlich gute.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er wendet sich dir zu. „Aber vielleicht kannst du wirklich helfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Was ist hier passiert?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Verflucht, noch einer! Hast du nicht schon genug getan?“</DefaultText>
+      <FemaleText>„Verflucht, noch eine! Hast du nicht schon genug getan?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Worum geht es überhaupt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Wenn du zum Plündern gekommen bist, bist du zu spät! Diese räudigen Hunde haben sicher schon alles mitgenommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Ich glaube nicht, dass man Haddi noch helfen kann.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Vielleicht ist es noch nicht zu spät! Weißt du, wir haben gesehen, wie ein paar verdächtige Gestalten aus Haddis Haus gekommen sind. Die Scheune hatten sie schon niedergebrannt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Warum steht ihr dann hier draußen herum?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Wir hatten Angst, dass vielleicht noch einer von ihnen da drin ist. Wir sind Ziegenhirten, keine Krieger!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Verdächtige Gestalten?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Nicht nur Plünderer, meine ich. Sie waren bewaffnet, als würden sie in die Schlacht ziehen. Und sie sahen grimmig aus.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Bestimmt hat Kern etwas damit zu tun. Ganz bestimmt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Er ist ein Zwerg, lebt jetzt in Stalwart. Haddi und er streiten sich andauernd über die Grundstücksrechte. Seit Jahren schon.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Kern?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Ich sehe mir das mal an.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Ich suche nach einem jungen Mädchen namens Mylla.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Hier gibt es keine Kinder! Nur Banditen und Lagufaeth.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Und zwar hungrige. Im Nordosten liegen jede Menge toter Rehe. Sei also vorsichtig, wenn du in die Gegend willst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Äh. Hunde?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Au! ... Ich meine, wir glauben, dass etwas Schlimmes passiert ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Pass auf!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der zweite Dorfbewohner stößt dem ersten einen Ellenbogen in die Rippen. Hart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Er meint die Männer, die Haddi einen Besuch abgestattet haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Ich glaube, ich weiß, was hier vor sich geht ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Wir haben ein paar von Haddis Ziegen frei herumlaufen sehen. Als wir hier hoch gekommen sind, haben wir einige verdächtige Gestalten aus Haddis Haus kommen sehen. Anscheinend haben sie die Scheune niedergebrannt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Ich kann es mir denken. Wir haben hier oben jede Menge Banditen. Es ist nur ein Jammer, dass es Haddi passieren musste.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Ich glaube immer noch nicht, dass es Banditen sind. Aber sieh dich ruhig um, dann weißt du es sicher.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Haddi ist tot.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Ich wusste, dass es übel sein muss ... danke, dass du es uns hast wissen lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Großartig. Hoffentlich täuschen wir uns.“</DefaultText>
+      <FemaleText>„Großartig. Hoffentlich täuschen wir uns.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Vielleicht ist er es nicht. Du solltest nicht einfach Leute beschuldigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Du hast herumgeschnüffelt, was?“
+
+Er blickt dich vorwurfsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Was ist hier passiert?“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

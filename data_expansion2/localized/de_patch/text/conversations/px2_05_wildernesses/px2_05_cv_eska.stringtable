@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_eska</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eska starrt auf die gefallenen Paladine. Der Dolch zittert in seiner Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Sie ... sie haben mir gesagt, dass sie meine Eltern getötet haben. Stimmt das?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Es tut mir leid, Eska.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Zumindest hast du überlebt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Hoffentlich stehst du im Testament.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich hätte nie gedacht, dass Kern so tief sinken würde. Dieser dreckige Bastard!“
+
+Eska wendet sich mit geballten Fäusten ab. Du hörst ein unterdrücktes Schluchzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Diese dyrwäldischen Fehden sind wirklich nervtötend.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Kern hat mich geschickt. Er hat nicht beabsichtigt, dass jemand getötet wird.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Kern ist tot.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Was tust du jetzt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Wen schert es, was er beabsichtigt hat?! Dieser Bas- ... ich werde dafür sorgen, dass er alles bereut, was er getan hat!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Mit Rache hat all das überhaupt erst begonnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Schön für dich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Und damit wird es enden. Hier ... ich bin dir dankbar, dass du mich gerettet hast. Wirklich. Ich wünschte nur, du wärest früher aufgetaucht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Tut mir leid. Hier ... ich bin dir dankbar, dass du mich gerettet hast. Wirklich. Ich wünschte nur, du wärest früher aufgetaucht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Ich bereue es langsam, dich gerettet zu haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Wirklich? ... Gut.“ Der Zorn weicht aus Eskas Gesicht. Zurück bleibt Trauer.
+
+„Ich gehe nach Hause, um meine Mutter und meinen Vater zu beerdigen. Hier ... es ist nicht viel, aber es ist alles, was ich habe. Du hast es verdient.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ich sollte nach Hause gehen. Meine Mutter und meinen Vater beerdigen. Hier ... es ist nicht viel, aber es ist alles, was ich habe. Abgesehen von meinem Leben. Danke noch einmal.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Es ist schlimm, diesen Ort so zu sehen. Leer.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Was tust du jetzt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Ich sollte nach Hause gehen. Meine Mutter und meinen Vater beerdigen. Hier ... es ist nicht viel, aber es ist alles, was ich habe. Abgesehen von meinem Leben. Danke noch einmal.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Ich spüre, wie sein Herz bricht. Das ist eine Wunde, die nicht verheilt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„So lobe ich mir das.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

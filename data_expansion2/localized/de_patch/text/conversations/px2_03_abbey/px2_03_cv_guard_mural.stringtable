@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_guard_mural</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Hier ist kein Zutritt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Der Oberabt hat mir versichert, dass ich nach Abschluss der Rezitation seinen Segen haben würde, die Werke der Abtei zu besichtigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Du bist also hier, um die Wandmalerei zu sehen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Sehr wohl. Aber du darfst nicht darüber hinausgehen. Du wirst stets beobachtet, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Sehr wohl. Aber du darfst nicht darüber hinausgehen. Du wirst stets beobachtet, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Lügen] „Ich bin der Gezeitenbringer. Der Oberabt hat mich gerufen.“</DefaultText>
+      <FemaleText>[Lügen] „Ich bin die Gezeitenbringerin. Der Oberabt hat mich gerufen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Verzeih, Gezeitenbringer, aber ich bin nicht befugt, dich passieren zu lassen. Das bedarf der Zustimmung des Oberabts.“</DefaultText>
+      <FemaleText>„Verzeih, Gezeitenbringerin, aber ich bin nicht befugt, dich passieren zu lassen. Das bedarf der Zustimmung des Oberabts.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Angreifen] „Ich gehe, wohin ich will.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen] „Ich gehe dann jetzt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Du verstehst das nicht. Niemand außerhalb des Ordens darf hier sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen] „Mein Fehler. Ich gehe jetzt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Bleib, wo du bist!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Willkommen in der Abtei, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Willkommen in der Abtei, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Sonst noch etwas?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Du wurdest gewarnt! Geh. Sofort.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Wache ist ob des Anblicks von Ondras Zeuge völlig überrascht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Verräterischer Hund!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Es ist uns eine große Ehre, unseren Platz in der Ebbe einzunehmen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Kaoto hat mir genehmigt, mich frei zu bewegen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Es beginnt also. Du darfst passieren, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Es beginnt also. Du darfst passieren, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

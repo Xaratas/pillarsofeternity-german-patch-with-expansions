@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_bs_stalwart_reactive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„In den Minen soll es einen Mord gegeben haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„In den Minen ist alles wieder normal, dank dir.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Die Abydonier haben Ondras Tempel übernommen. Stalwart braucht jetzt dringend fähige Schmiede.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Gerade, als es für Stalwart aufwärts geht, müssen wir uns um eine verdammte readceranische Armee sorgen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Ich habe gehört, dass du den readceranischen Kommandanten getötet hast. Das wird ihnen eine Lehre sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Readceranern kann man nicht trauen. Es wäre besser gewesen, du hättest sie einfach getötet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Wengra wird es nicht schaffen, die Kanonen der Batterie zu reparieren. Sie sind seit Jahrhunderten eingefroren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Du hast die Kanonen der Batterie repariert? Die hätten wir brauchen können, als die Oger angegriffen haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Warst du schon in Hamonds Warenhaus? Da, wo früher Keydys Haus stand.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Wenn du nach Mylla suchst, sag Royse, dass ich sie nicht gesehen habe. Irgendjemand muss das Mädchen besser im Auge behalten!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ich bin froh, dass es Mylla gut geht, aber wer hindert sie daran, einfach wieder davonzulaufen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Tarfos ist kein übler Bürgermeister, aber ich fand es besser, als Renengild noch das Sagen hatte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Es wäre wirklich ein Jammer, wenn die Fischerei schließt. Sie hat Stalwart die letzten Jahre am Leben gehalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Wir brauchen die Schmelztiegelritter nicht als Wächter für die Minen. Stalwart kann auf sich allein aufpassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Was können uns verweichlichte Schmiede aus Trutzbucht schon über die Weiße Esse lehren?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Danke, dass du dich für unsere Miliz in den Minen einsetzt. Stalwart kann auf sich allein aufpassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Danke, dass du dafür sorgst, dass die Fischerei nicht geschlossen wird. Sie hat Stalwart durch die mageren Jahre gebracht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Hoffentlich hattest du einen verdammt guten Grund, diesen Schmieden aus Trutzbucht die Weiße Esse zu übertragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Hast du Kern gesehen? Er sieht aufgebracht aus.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Haddi und Elwyna wurden ermordet! Und ich dachte, wir hätten die meisten Räuber verjagt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Masca wird ihre Stellung im Tempel verlieren, wenn sie ihr Temperament nicht kontrollieren kann. Und ihren Schmiedehammer.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Hast du schon gehört? Engrim hat Masca aus dem Abydon-Tempel geworfen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Masca arbeitet seit einiger Zeit besonders fleißig. Was wohl in sie gefahren ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

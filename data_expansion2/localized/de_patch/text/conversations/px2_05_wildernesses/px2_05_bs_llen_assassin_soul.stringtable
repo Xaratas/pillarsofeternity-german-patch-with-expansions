@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_llen_assassin_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die kalte Leiche einer Frau liegt halb vergraben im Schnee. Die Todesursache ist offenkundig ... eine schmale Wunde unter ihrem Hals.
+
+Die Essenz hier ist bereits schwach und schwindet schnell immer weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Hand ausstrecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du tauchst in eine kalte Dunkelheit ein. Unvollständige Bilder gleiten an dir vorbei, ehe du mehr als ein Echo erfassen kannst.
+
+Dann, plötzlich ... Licht –</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sonnenlicht scheint durch Lücken im Blätterdach und erhellt kleine Flecken des Sumpfs. Schlamm und knieftiefes Wasser erschweren jeden Schritt. Deine Beine sind jetzt schon müde, obwohl du gerade erst begonnen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Erinnerung verblasst und du kehrst zu dem vertrauten Anblick von Stalwart zurück. Vielleicht durch deine Erkundung aufgeschreckt beginnt die Seelenessenz sich aufzulösen, bis du sie nicht mehr sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Erinnerung verblasst und du kehrst zu dem vertrauten Anblick von Stalwart zurück. Vielleicht durch deine Erkundung aufgeschreckt beginnt die Seelenessenz sich aufzulösen, bis du sie nicht mehr sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du musst dich mit dem Unbehagen abfinden. Du wirst schon bald den Fluss erreichen. Folge seiner Biegung nach Norden.
+
+Es ist ein Mantra in deinen Gedanken. Erreiche Stalwart. Finde den Wächter. Folge ihm. Finde das Phylakterium.</DefaultText>
+      <FemaleText>Du musst dich mit dem Unbehagen abfinden. Du wirst schon bald den Fluss erreichen. Folge seiner Biegung nach Norden.
+
+Es ist ein Mantra in deinen Gedanken. Erreiche Stalwart. Finde die Wächtern. Folge ihr. Finde das Phylakterium.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Concelhauts Mörder wird nicht leicht zu besiegen sein. Aber wenn du vorsichtig bist, fällt dir diese Aufgabe nicht alleine zu. Dein Meister wird sich um den Wächter kümmern. Es ist nur eine Frage der Zeit.</DefaultText>
+      <FemaleText>Concelhauts Mörder wird nicht leicht zu besiegen sein. Aber wenn du vorsichtig bist, fällt dir diese Aufgabe nicht alleine zu. Dein Meister wird sich um die Wächterin kümmern. Es ist nur eine Frage der Zeit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Erinnerungen der Reise der toten Frau bleiben jedoch in dir zurück. Im Südwesten, jenseits der Weißmark, liegt ein Sumpf ... und dort wartet ein Feind auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Erinnerungen der Reise der toten Frau bleiben jedoch in dir zurück. Im Südwesten, jenseits der Weißmark, liegt ein Sumpf ... und dort wartet ein Feind auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Ihre Taschen durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Deine Suche produziert nur eine kleine, unscheinbare Phiole, die mit einer dunklen Flüssigkeit gefüllt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

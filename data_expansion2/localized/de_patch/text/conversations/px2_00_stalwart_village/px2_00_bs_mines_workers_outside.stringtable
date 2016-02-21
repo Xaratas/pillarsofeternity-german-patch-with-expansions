@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_bs_mines_workers_outside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Ich schwöre, dass in der Mine seltsame Dinge vor sich gehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Wenn du nach Arbeit suchst, hat Ismey vielleicht etwas für dich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Die Leute sagen immer wieder, sie würden in den Tunneln Stimmen hören. Derselbe Aberglaube, den wir auch schon bei der Batterie hatten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Gute Arbeit in der Batterie. Dank dir können wir uns weiter unseren Lebensunterhalt verdienen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Unglaublich, dass Gamel ungeschoren davonkommt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Es war in letzter Zeit nicht leicht in der Mine.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Es geht doch nichts über frische Luft. Wenn man zu lange in den Tunneln ist, wird man wahnsinnig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ich will keinen Ärger. Ich kümmere mich nur um meinen eigenen Kram.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Du hast Nerven, hier herumzuhängen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

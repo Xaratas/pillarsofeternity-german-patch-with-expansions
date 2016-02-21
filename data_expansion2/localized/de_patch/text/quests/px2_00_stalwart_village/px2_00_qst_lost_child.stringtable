@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_lost_child</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wilde Mylla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Mylla.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Royse in Stalwart zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Royse findet ihre Tochter Mylla nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mylla gerät neuerdings immer wieder in Schwierigkeiten in Stalwart. Ihre Mutter Royse hat sie nicht gesehen, hat aber erwähnt, dass sie den neuen Kaufmann Hamond geärgert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Mylla unbeschadet aus der Wicht-Höhle gerettet. Royse wird in Stalwart schon sehnsüchtig auf sie warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Hamond hat Mylla nicht gesehen. Er hat aber gesehen, wie Asca sie kürzlich getadelt hat. Asca findet man meistens bei der Jurte südlich von Hamonds Laden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Asca hat gesagt, dass Mylla offenbar kaum beaufsichtigt wird. Ihr Vater Lödgar arbeitet in Durgans Batterie und verliert regelmäßig seine Arbeit. Mylla ist kürzlich in Schwierigkeiten geraten, weil sie ihn besucht hat. Seitdem treibt sie sich beim Dorftempel herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Im Tempel sagte Engrim, dass Mylla gerne am Feuer sitzt und malt. Er macht sich Sorgen, dass sie einsam sein könnte, ohne Freunde in ihrem Alter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe die Weißsteinsenke gefunden. Die Höhle, die Mylla gemalt hat, muss in der Nähe sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Bauern der Weißsteinsenke haben keine Kinder gesehen. Sie haben aber gewarnt, dass irgendetwas in letzter Zeit viele Rehe getötet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Lödgar von Myllas Verschwinden erzählt. Er ist sofort losgerannt, um nach ihr zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe eine von Myllas Zeichnungen im Tempel gefunden. Sie zeigt Kinder, die in der Nähe einer Höhle spielen. Ich sollte jemanden fragen, der Mylla gut kennt, ob er weiß, wo sich dieser Ort befinden könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Der Ort, den Mylla gemalt hat, liegt irgendwo in der Weißsteinsenke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe Lödgar von Myllas Verschwinden erzählt. Ich konnte ihn aber überzeugen, in Durgans Batterie zu bleiben und mich nach ihr suchen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Royse hat mir gesagt, dass ihr Gemahl Lödgar in Durgans Batterie stationiert ist. Sie hat mich geben, ihm gegenüber nichts von Myllas Verschwinden zu erwähnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Hamond ist tot und nicht länger von Nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Asca ist tot und nicht länger von Nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Engrim ist tot und nicht länger von Nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Mylla hatte sich mit einer Gruppe von Wichten angefreundet und trieb sich bei deren Höhle herum. Ich habe sie zurück nach Stalwart gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Mylla hatte sich mit einer Gruppe von Wichten angefreundet. Ich habe sie zurück nach Stalwart gebracht, aber Lödgar hat seine Stelle verloren, weil er nach ihr suchen gegangen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Mylla hatte sich mit einer Gruppe von Wichten angefreundet. Leider haben sie Lödgar getötet, als er nach ihr suchen wollte. Ich habe das Mädchen sicher zurück nach Stalwart gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Mylla hatte sich mit einer Gruppe von Wichten angefreundet und trieb sich bei deren Höhle herum. Ich habe sie zurück nach Stalwart gebracht. Bevor ich ging, hat sie mir von einer „Blasenmütze“ erzählt, die in der Weißsteinsenke bei irgendwelchen großen Wurzeln versteckt sein soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

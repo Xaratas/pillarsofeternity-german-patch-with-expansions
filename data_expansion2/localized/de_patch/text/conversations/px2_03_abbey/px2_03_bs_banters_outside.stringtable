@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_bs_banters_outside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Kaoto wusste, dass Saman uns heimsuchen würde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Der Gezeitenbringer. Es ist so lange her.“</DefaultText>
+      <FemaleText>„Die Gezeitenbringerin. Es ist so lange her.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Meine Seele ist bereit, Bruder.“</DefaultText>
+      <FemaleText>„Meine Seele ist bereit, Schwester.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Selbst unser Besucher soll fortgeschickt werden, sagte er.“</DefaultText>
+      <FemaleText>„Selbst unsere Besucherin soll fortgeschickt werden, sagte er.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Was soll es in unseren Quartieren Interessantes geben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Unsere Quartiere sind nicht die Sorge. Sondern unsere Brüder und Schwestern unter uns.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Du siehst blass aus, Schwester. Finde jemanden, der deinen Platz einnimmt. Ich halte Wache.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ich hatte gehofft, diese Krankheit hinter mir zu haben, aber das habe ich wohl nicht. Ich werde deinem Rat folgen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ich hätte nicht über den Rand blicken sollen. Ich konnte keinen Boden sehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Ha. Wenn du betest, erlaubt die Fürstin dir vielleicht zu vergessen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ich habe gesehen, dass sie dich passieren ließen. Du musst unser Besucher sein. Der Oberabt wartet drinnen auf dich, einfach geradeaus.“</DefaultText>
+      <FemaleText>„Ich habe gesehen, dass sie dich passieren ließen. Du musst unser Besucher sein. Der Oberabt wartet drinnen auf dich, einfach geradeaus.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Das war vor langer Zeit. Ich habe gesehen, wie der Abt den Zeugen hielt und der Schleier der Tränen sich für ihn öffnete.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Ich wünschte, ich hätte es auch sehen können. Nur einen kleinen Blick in das Reliquiarium unserer Fürstin erhaschen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

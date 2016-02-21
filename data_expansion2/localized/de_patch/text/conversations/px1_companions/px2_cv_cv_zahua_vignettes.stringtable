@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px2_cv_cv_zahua_vignettes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine alte Schamanin ist über einen durchscheinenden Tisch gebeugt. Beiderseits ihrer Augen sind Flammen aufgemalt.
+
+Sie wirft eine Reihe seltsamer Gegenstände auf den Tisch: Einen Fingerknochen, einen Stelgaer-Zahn, einen Schildkrötenpanzer, einige mit Symbolen bemalte Steine. Wieder und wieder studiert sie sie mit ungläubigem Blick.
+
+Schließlich blickt sie auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Es ist kein Irrtum. Die Omen lügen nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Zahua, du wirst unser Häuptling sein. Du wirst Ixepillo nachfolgen und uns zum Sieg über die Quechmatl führen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Ich sage Ixepillo, dass er dich annehmen muss.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ixepillo meditiert. Er öffnet seine Augen und blickt zu Zahua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Hallo, Schüler. Du kommst mit einer Frage zu mir, nicht wahr?“
+
+Er hustet, trocken wie Wüstensand. Zahua starrt ihn mit leicht zitterndem Mund an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Ja, Ixepillo. Ich habe in vielen Landen über viele Jahre hinweg deine Weisheit gesucht. Bist du hier, um sie mir zu gewähren?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ja, Schüler. Ich bin deinetwegen gekommen.“
+
+Zahua nickt und atmet tief ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Wir, unser Volk, wir sind Gefangene der Quechmatl. Ich muss die Geheimnisse der Anitlei kennen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Natürlich. Du hast die Antwort all die Zeit in dir getragen, Schüler. Du bist blind, dass du nicht -“
+
+Ixepillo bricht in einen Hustenanfall aus. Als er heftig hustet, fliegen Staubpartikel in Schwaden aus seinem Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Meister, bitte. Ich kann dich nicht hören.“
+
+Zahua hält ihn an den Schultern, doch Ixepillos Husten wird nur noch schlimmer. Staub quillt aus seinen Lippen hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Antworte mir!“
+
+Zahuas umklammert Ixepillos gebrechlichen Körper fester. Er schüttelt Ixepillo, aber der Hustenanfall geht weiter.
+
+Er schüttelt ihn erneut und in Zahuas Händen zerfällt Ixepillo zu Staub, der augenblicklich vom Winde verweht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ein ungewöhnlich großer Mann mit gebräunter, ledriger Haut und majestätischer Haltung verneigt sich vor Zahua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Häuptling Ehuilia, warum bist du hier?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Ich komme im Namen der Quechmatl, um dir Tribut zu zollen, großer Häuptling.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sehnen treten an Zahuas Hals hervor und seine Fäuste sind geballt.
+
+Zum ersten Mal, seit du ihn kennst, scheint er kurz davor zu stehen, die Beherrschung zu verlieren. Er spricht mit zusammengekniffenen Zähnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Du bist gekommen, um zu sehen, ob ich bereit bin, mein Volk zu beschützen.“
+
+Der Häuptling der Quechmatl lächelt mit blitzenden Zähnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Nun? Bist du es?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Du musst sofort mit mir kommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Zahua, du solltest nicht hier sein. Wenn sie dich entdecken, richten sie dich hin. Und sie werden kein zweites Mal scheitern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Mein Leben ist mir gleichgültig, Nahualtia. Ich bin gekommen, um die Tacan zu befreien. Wir werden uns vereinen und uns erheben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Und wen willst du vereinen? Unsere Männer sind tot oder gebrochen. Sie mussten zu hart und grausam arbeiten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Unsere Frauen sind jetzt Mütter von Quechmatl-Kindern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Die Tacan leben nur noch in deinem Verstand.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Der Pfad für deine Herrschaft muss freigeräumt werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

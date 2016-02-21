@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px2_cm_cv_zahua_waterfall_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Gesicht dieses Mannes ist vom Wetter gegerbt. Seine Augen sind tief in seinen Schädel eingesunken. Sein Körper ist kaum mehr als eine Kette aus Knochen.
+
+Er spricht mit großer Mühe, seine Stimme ist trocken und staubig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Du ... hilfst du mir?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Wasser ... vom Wasserfall. Bitte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Warum vom Wasserfall? Warum nicht vom Teich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Es scheint identisch zu sein, aber es verschlimmert meinen Durst nur noch.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich kann dich zum Wasserfall tragen. Dann kannst du direkt von der Quelle trinken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Ich werde sehen, was ich tun kann.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Es geht nur das Wasser aus dem Wasserfall. Ich wünschte, es wäre nicht so.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ich habe es versucht, aber ich kann das Wasser nicht trinken. Ich öffne meinen Mund, aber es tropft nur an beiden Seiten daran vorbei. Ich halte meine Hände darunter und ziehe sie trocken wieder weg.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Nur das erste Mal konnte ich es schmecken. Noch niemals habe ich etwas derart Reines geschmeckt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Seitdem kann ich einfach nicht von hier fortgehen. Ich will nichts weiter, als es noch ein einziges Mal schmecken zu können. Das würde mir reichen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Ich habe bessere Dinge zu tun.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„In Visionen wie diesen findet man oft eine Bedeutung an einem unwahrscheinlichen Ort. Dieser Mann ist hier, weil er uns etwas zeigen soll.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Wir helfen nicht ihm, wir helfen Zahua.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Er nickt dankbar und zeigt auf einen Wasserschlauch, der neben ihm liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Hattet ihr Erfolg?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Ihm das Wasser geben.] „Wir konnten etwas Wasser sammeln, ja.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Noch nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Mann nickt niedergeschlagen und sackt wieder zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Wunderbar! Ich habe so lange gewartet ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Seine Finger zittern vor Aufregung, als er die Hand an den Korken legt und ihn langsam herauszieht.
+
+Der Korken löst sich plötzlich und fliegt aus seinen Händen, von einem starken Dampfstrahl herausgedrückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Oh nein. Nein, nein.“
+
+Er dreht den Wasserschlauch um und hält ihn sich über die Lippen, aber kein einziger Tropfen fällt heraus. Er schüttelt ihn, dreht ihn, drückt hin, alles vergeblich. Das Wasser ist fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Bei seiner Vorgeschichte bin ich überrascht, dass er diese Möglichkeit nicht vorhergesehen hat.“
+
+„Er sehnt sich nicht nach dem Wasser, sondern nach der Erfahrung, es zum ersten Mal zu kosten. Er kann nur enttäuscht werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„ein Leid ist wirklich hübsch anzusehen. Aber es fühlt sich leer an. Welchen Wert hat es, wenn er sich weigert, daraus zu lernen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Sieht er denn nicht, dass er sich nach etwas sehnt, was er nie zurückgewinnen kann?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der Mann schüttelt traurig den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Das braucht ihr, um das Wasser zu sammeln.“
+
+„Ich werde euch ewig dankbar sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_asca</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine gut gebaute Zwergin steht vor dir, eine Hand auf ihren Kopf gelegt, in der anderen einen Stapel Papiere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Mit den Ogern ist es zwar etwas ruhiger geworden, aber es gibt jede Menge neuen Ärger. Oder Arbeit, falls jemand Interesse hätte. Nur so nebenbei.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Suchst du Arbeit? Bei uns gibt es im Moment einiges zu tun.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Verflucht. Was mache ich nur damit?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Es sind keine Ziele mehr übrig. Du hast hier wirklich aufgeräumt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Du hast etwas von Fäulen erwähnt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Wer sind 'Magrans Anhänger'?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ich nehme es mit den Lagufaeth auf.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Erzähl mir mehr über diesen Piraten, Brynlod.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„'Der Schrecken der Weißsteinsenke'. Eine große Fäule, die nach der Lawine aufgetaucht ist. Das war eine wahre Katastrophe ... ein gewaltiger Schneehaufen, mitten auf einer unserer wichtigsten Handelsrouten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Banditen und Pferdediebe, wenn du mich fragst. Die Anführerin ist eine Frau namens Roedwith. Das Problem ist, dass ihre kleine Gruppe immer größer wird. Sie haben sogar schon einige kleinere Dörfer geplündert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Sie haben sich einen kleinen Spitznamen verdient. 'Rotwasser-Lagufaeth'. Weil die kleinen Racker ihre Beute unter Wasser zerren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Ein Medium aus dem Todesfeuer-Archipel. Die Art von Medium, die sich auf ein Schiff schwingt und die gesamte Besatzung 'überzeugt', sich zu ertränken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Es sind ein paar neue Berichte eingegangen. Ich dachte, vielleicht hättest du Interesse. Naja, ich habe es gehofft.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Der Schrecken der Weißsteinsenke ist Geschichte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Ich bin hier, um das Kopfgeld für Roedwith abzuholen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Die Rotwasser-Lagufaeth werden niemanden mehr unter Wasser zerren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Brynlod ist erledigt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Schön, dass das vorbei ist. Ein Jammer, dass wir so viele Leute verloren haben, aber zumindest können wir jetzt Arbeiter losschicken, um die Lawine zu räumen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Den Göttern sei Dank. Vielleicht waren sie nicht auf dem Weg nach Stalwart, aber ich wollte kein Risiko eingehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Ich sage unseren Bauern, dass sie ruhig schlafen können.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Ich will verdammt sein. Ich hätte nicht gedacht, dass du dazu fähig bist. Ich gebe den Reißzähnen Bescheid.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Weißt du, es freut mich, dass du uns so bereitwillig helfen möchtest. Und ich danke dir dafür. Aber ich weiß nicht, ob du schon bereit dafür bist, dich mit dieser Bande zu messen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Weißt du, es freut mich, dass du uns so bereitwillig helfen möchtest. Und ich danke dir dafür. Aber ich weiß nicht, ob du schon bereit dafür bist, dich mit dieser Bande zu messen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Das entscheide ich selbst. Gib mir das Kopfgeld.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Vielleicht hast du Recht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Das entscheide ich selbst. Gib mir das Kopfgeld.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Vielleicht hast du Recht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Weißt du, Tarfos hat einige Schwierigkeiten mit einer kleinen Orlanerin, wenn du immer noch helfen willst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Ich will dich nur nicht auf die Liste der Opfer setzen müssen, das ist alles.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Du hast Royses Tochter ausgeschimpft, heißt es.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Asca neigt den Kopf zur Seite und denkt einen Augenblick nach. Dann beginnt sie zu lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Weißt du, was das Gör getan hat? Hat ein ganzes Hühnchen aus der Gréfenrast gestohlen. Roh.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Ich habe ihr gesagt, ich will sie nie wieder beim Stehlen erwischen, aber ich musste mir Mühe geben, nicht zu lachen. Lustiges Mädchen.“ Sie wischt sich eine Träne aus dem Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Aber es ist sicher nicht leicht für sie, weißt du? Ihr Vater arbeitet in der Batterie, und wenn er noch einmal unentschuldigt fehlt, wird er gefeuert ... wieder mal.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Scheiße, Lödgar hat nur deswegen noch Arbeit, weil Wengra unter dem ganzen Ruß ein weiches Herz hat. Aber Mylla ist neulich in der Batterie aufgetaucht und hätte ihn fast seine Stellung gekostet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Seitdem ist sie immer allein unterwegs. Wobei sie häufig im Tempel ist, fällt mir gerade ein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Ihr die Zeichnung zeigen.] „Weißt du, wo das ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sie kneift die Augen zusammen. „Berge und eine Höhle? Davon gibt es hier in der Gegend jede Menge.“ Sie runzelt die Stirn. „Diese Striche da könnten Menhire sein, wie die in der Weißsteinsenke.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Nimm's mir nicht übel, aber das mit der Perspektive musst du noch ein wenig üben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Hier ist die versprochene Belohnung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>„Hier ist die versprochene Belohnung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Hier ist die versprochene Belohnung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Hier ist die versprochene Belohnung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Gut, aber sag nicht, ich hätte dich nicht gewarnt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Wir können nicht anfangen, die Straßen zu reparieren, solange die Fäule ihr Unwesen treibt. Ich kann dich schlecht bitten, mir ihren Kopf zu bringen, aber angeblich war das letzte Opfer des Schreckens ein Karawanenmeister.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>„Anscheinend hat Brynlod Geschichten gehört, was sich in engwithanischen Ruinen für Schätze finden lassen, und ist ins Landesinnere gezogen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>„Die Reißzähne haben ihre besten Krieger auf Brynlod gehetzt, nachdem er einige Tempel geplündert hatte. Aber sie haben ihm nicht einmal einen Kratzer verpasst. Zuletzt wurde Brynlod wohl irgendwo bei der Dyrfurt-Flusskreuzung gesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>„In der Weißsteinsenke macht ein Rudel von Lagufaeth Ärger. Als wäre die Lawine noch nicht schlimm genug, was? Und dann gibt es noch einen Piraten, Brynlod, den die Reißzähne tot sehen wollen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Sie wurden zuletzt bei den Feuerfällen gesehen und sind angeblich unterwegs in unsere Richtung. Stalwart ist gerade erst wieder am Aufblühen. Wir können so einen Ärger nicht gebrauchen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>„Drei Beschwerden über Fäulen in der Weißsteinsenke. Und wer sind diese Leute? 'Magrans Anhänger'? Na klasse. Wieder so eine Bande von religiösen Fanatikern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>„Gut, aber sag nicht, ich hätte dich nicht gewarnt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>„Bring mir Roedwiths Kopf, es soll sich für dich lohnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>„Bring mir Roedwiths Kopf, es soll sich für dich lohnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>„Bring mir Brynlods Kopf und du bekommst die Belohnung, die die Reißzähne ausgesetzt haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>„Und zuletzt ... Lafda, eine Diebin, die aus Stalwart geflohen ist und kürzlich im Hafenviertel von Trutzbucht gesehen wurde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>„Was weißt du über Lafda?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>„Ich habe mich um Lafda und ihre Diebe gekümmert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>„Schwer zu übersehen ... 'ne Bleichelfin. Sie ist nach Stalwart gekommen und hat einen kleinen Tempel gegründet, angeblich im Dienst von Ondra.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>„Lafda mag teilweise zur Priesterin ausgebildet sein, aber sie ist ganz gewiss keine heilige Frau. Sie und ihre Freunde haben sich einfach nur aus den Opfergaben bedient.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>„Jedenfalls sind Lafda und ihre Komplizen geflohen, nachdem die Wahrheit ans Licht kam. Anscheinend sind sie auf dem Weg nach Trutzbucht. Ich glaube, sie wollen im Hafen ein Boot nehmen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>„Das wird die Leute freuen. Und vielleicht stehst du nun auch in Ondras Gunst, was?“
+
+Sie lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>„Hier ist die versprochene Belohnung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>„Sie schießen einfach aus dem Schnee hervor.“
+
+Sie blickt zu dir auf. „Oh. Tut mir leid, [Player Name]. Ich bin ein wenig beschäftigt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>„Sie sind kürzlich in der Weißsteinsenke aufgetaucht und bedrohen die Leute. Wer sie ausschaltet, der kriegt eine saftige Belohnung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>„Der Kerl hat immer eine bestimmte Brosche getragen. Die muss irgendwo im Bauch dieses Monsters liegen. Bring mir die Brosche, dann werte ich sie als Beweis, dass du die Fäule erledigt hast. Einverstanden?“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_thaos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Thaos betrachtet Maneha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>„Und die verirrte Gabenbringerin. Du bist in diesem Leben schon in viele Rollen geschlüpft. Und nur, weil du fürchtest, was du wirklich bist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Sie runzelt zornig die Stirn. „Soweit ich weiß, haben die Engwithaner dich nicht zu einem Gott gemacht. Willst du etwa sagen, du würdest selbst nicht auch einiges bereuen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>„Es gibt keine größere Bestimmung, als unseren Glauben zu verbreiten und zu bewahren. Ich bereue nichts, was ich im Dienste dieser Sache getan habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>„Dann hast du vielleicht nicht gründlich genug gesucht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>„Oder vielleicht habe ich lediglich die Alternative gesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>„Ich weiß, was ich bin, und es ist die Suche, die mich dorthin geführt hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>„Aber es war die Verheißung der Erlösung, die dich diesen Pfad hat einschlagen lassen. Wo wärest du, wenn du geglaubt hättest, alles wäre verloren?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>„Welch ein Jammer. Du hast wohl keine gute Meinung von allen Sterblichen, wenn du glaubst, wir wären alle so hoffnungslos verloren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

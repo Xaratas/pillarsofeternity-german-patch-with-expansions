@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_bs_banters_inside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Du bist unser Gast, nehme ich an? Du findest den Abt jenseits der Kammer des Gefallenen Mondes hinter mir.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Er schien beschäftigt zu sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Das wäre ich wohl auch, in seiner Position.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Trotz aller Anstrengungen wankt deine Geistesgegenwart niemals. Ich weiß nicht, wie dir das gelingt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Vielleicht würden deine Gedanken tiefer schwimmen, wenn deine Zunge nicht so oft auftauchen müsste, um nach Luft zu schnappen, lieber Bruder.“</DefaultText>
+      <FemaleText>„Vielleicht würden deine Gedanken tiefer schwimmen, wenn deine Zunge nicht so oft auftauchen müsste, um nach Luft zu schnappen, liebe Schwester.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich hatte ja keine Ahnung. Hast du dich danach in der Weißmark versteckt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„So weit entfernt, wie ich nur konnte. Die Doemenels hat es nicht geschert, dass ich Gabenbringer war. Beweis ist Beweis.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Das sind die Aufzeichnungen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ja. Sorge dafür, dass sie mit den anderen weggeworfen werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Der Oberabt hat mir anvertraut, dass ich nicht alleine bin. Dass auch er manchmal Albträume hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Wirklich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Es überrascht mich, das zu hören. Er hat so eine friedliche Ausstrahlung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Sie rufen manchmal. Selbst die Wachen unten halten es für seltsam.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Nach Ondra, vermutlich. Sie sehnen sich gewiss nach ihrer Umarmung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Sorge dafür, dass sie eine größere Portion bekommen. Ich werde sie nicht mit leerem Magen in die Umarmung der Göttin fallen lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Sie haben von allem genug, Schwester. Dafür habe ich gesorgt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Finde deine Mitte. Du wusstest immer, dass diese Zeit kommen würde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ich habe die andere Seite gesehen, Bruder. Ich finde ihre Wasser wieder, warm und sanft.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

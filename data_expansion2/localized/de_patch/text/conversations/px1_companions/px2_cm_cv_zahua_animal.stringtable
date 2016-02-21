@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px2_cm_cv_zahua_animal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Antilope steht auf dem schlammigen Gras. Ihr Fell ist rund um eine tiefe Wunde an ihrer linken Lende nass und dunkel gefärbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Wir sind nicht hier, um dich zu essen. Aber du bist eine leichte Beute. Kannst du dich nirgendwo verstecken?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Die Bestien hier würden meine Spur wittern. Ich würde nicht weit kommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Seid ihr gekommen, um mich zu essen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Ja, sind wir! Zahua, ich glaube, ich verstehe jetzt, was das alles bedeutet! Schnell, wir müssen sie essen.“
+
+Zahua blickt zu Hiravias und schüttelt den Kopf. Hiravias neigt traurig den Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Aber vielleicht gibt es eine Möglichkeit, mich zu schützen. Im Norden wächst ein großer Baum, dessen Saft Raubtiere abschreckt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Wenn ihr diesen Saft sammelt und mein Fell damit einreibt, bin ich in Sicherheit. Meine Wunden könnten heilen und ich könnte zu meiner Herde zurückkehren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Durance, bitte heile dieses Tier.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ich könnte dieses Tier heilen, Wächter, aber nicht so, wie der Mönch es wollen würde.“</DefaultText>
+      <FemaleText>„Ich könnte dieses Tier heilen, Wächterin, aber nicht so, wie der Mönch es wollen würde.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Ich würde dich um keine der beiden Heilungsarten bitten, denn keine der beiden mag eine Lektion zu vermitteln. Bleibe du bei deiner eigenen Prüfung, Durance, ich bleibe bei der meinen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Oh, ich würde nicht im Traum daran denken, mich einzumischen. Ich erwarte den Klang gebrochener Bande oder eines gebrochenen Rückens. Beiden wohnt Musik inne, wenn man aufmerksam lauscht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Wo befindet sich dieser Baum?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Im Norden, neben einer Höhle. Einen größeren Baum gibt es im ganzen Wald nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Ihr seid zurück. Habt ihr den Saft gesammelt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Noch nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ich halte so lange durch, wie ich kann.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Wir sind zu spät. Die Wölfe sind gekommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Es war ein Fehler, das Tier hier ungeschützt zurückzulassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Wir hätten nicht ewig bleiben können. Es war nur eine Frage der Zeit, bis es stirbt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Wir hätten es eine Weile länger beschützen können. Wir hätten es nicht zurücklassen dürfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Wir haben getan, wovon wir glaubten, es würde ihm die besten Überlebenschancen sichern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Das ist schwer zu akzeptieren. In meinem Herzen spüre ich, dass wir mehr hätten tun können.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Vielleicht hast du Recht. Aber wir werden es niemals sicher wissen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Aber am Ende wären die Wölfe ohnehin gekommen. Sie riechen Schwäche auch aus großer Entfernung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Vielleicht war unser Vorhaben von Anfang an zum Scheitern verurteilt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Möge Galawain deine Schritte beschleunigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Wo doch gleich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Im Norden, neben einer Höhle. Einen größeren Baum gibt es im ganzen Wald nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

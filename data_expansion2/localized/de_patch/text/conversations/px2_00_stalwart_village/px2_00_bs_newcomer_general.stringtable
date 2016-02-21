@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_bs_newcomer_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Ich bin gerade erst hergezogen. Keine Ahnung, was ich mir dabei gedacht habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Wie die Leute hier reden. Ich verstehe kein einziges Wort.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Ich hatte gehört, dass es in Stalwart Arbeit geben soll. Aber die Einheimischen scheinen uns nicht zu mögen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Eine Armee vor den Toren! Ist es in Stalwart immer so übel?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Jederzeit vor der Kampfvorbereitung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich verstehe nicht, warum die Leute glauben, dass wir irgendwie die Schuld an der readceranischen Armee hätten!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Manche hier glauben, dass Deryan diese Gesandten in den Tod geschickt hat. Unsinn.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ich wünschte, die Leute hier würden Deryan eine echte Chance geben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Die Leute hier sind sowas von abergläubisch! Ein schwerer Schneefall und sie glauben sofort, die Götter wären zornig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ich habe Heimweh. Ich habe seit Wochen nichts anderes als Fisch gegessen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Zuhause hat man wenigstens guten vailianischen Wein bekommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Es ist nur eine Frage der Zeit, bevor die Einheimischen uns auch für die Kälte verantwortlich machen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

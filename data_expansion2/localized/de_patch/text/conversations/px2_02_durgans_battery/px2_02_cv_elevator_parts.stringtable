@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_cv_elevator_parts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Schlitz sieht aus, als würde hier ein Hebel fehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Getriebe sieht seltsam leer aus, als würde ein Zahnrad fehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Kette ist so verrostet, dass sie sich kaum bewegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den Hebel ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Den Pargrun-Rostlöser auftragen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Das neue Zahnrad einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du schüttest den Inhalt der Phiole auf die Kette. Die Lösung zischt und lässt den Rost zu einer schmierigen braunen Pfütze schmelzen.
+
+Die schwere Kette bewegt sich quietschend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der ganze Aufzug erzittert. Du hörst ein knarrendes Geräusch von der Winde an der Nordseite des Aufzugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Plattform hebt sich nur wenige Zentimeter, ehe du ein kreischendes Geräusch von der Kette am Westrand hörst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Aufzug setzt sich endlich ruckelnd in Bewegung und hebt dich nach oben in Richtung der Wolken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du setzt das neue Zahnrad ein. Der Mechanismus scheint jetzt betriebsbereit zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Eine Fackel in den Schlitz stecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Eine Picke in den Schlitz stecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Ein Brecheisen in den Schlitz stecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Den Ersatzhebel in den Schlitz stecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Mit ein wenig Gefühl gelingt es dir, den neuen Hebel anzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du bemühst dich, den neuen Hebel anzubringen. Deine ungeschickten Hände sind dafür aber nicht geeignet.
+
+Mit einem Krachen bricht der Schaft entzwei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Mit ein wenig Gefühl gelingt es dir, den neuen Hebel anzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du bemühst dich, den neuen Hebel anzubringen. Deine ungeschickten Hände sind dafür aber nicht geeignet.
+
+Mit einem Krachen bricht der Schaft entzwei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du bemühst dich, den neuen Hebel anzubringen. Deine ungeschickten Hände sind dafür aber nicht geeignet.
+
+Mit einem Krachen bricht der Schaft entzwei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Mit ein wenig Gefühl gelingt es dir, den neuen Hebel anzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Mit ein wenig Gefühl gelingt es dir, den neuen Hebel anzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Bei näherem Hinsehen erkennst du, dass das Getriebe von einer dünnen Schicht gelbem Schleim überzogen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Dein neuer Hebel ragt aus dem Schlitz.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

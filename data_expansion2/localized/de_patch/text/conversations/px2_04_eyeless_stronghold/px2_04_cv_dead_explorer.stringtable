@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_04_eyeless_stronghold\px2_04_cv_dead_explorer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Wer auch immer das war, er ist schon lange tot. Die letzten Überreste des Fleischs sind schwarz und gefroren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dieser Krater beunruhigt dich und deine drei Gefährten. Er fühlt sich ungut an, verdorben. Aber die Verlockung möglicher Reichtümer ist stärker. Der riesige Felsen in der Mitte des Sees könnte Gold in sich tragen, Edelsteine, noch mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Der Lagufaeth macht wieder dieses Geräusch. „Warte“, beginnst du zu sagen, aber die Kreatur rammt ihren Speer tief in deine Brust. Zumindest ist der Schmerz nur von kurzer Dauer, ehe die Welt zu verblassen beginnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Leiche berühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nach einer ganzen Woche voller Knochenarbeit ist das Boot endlich fertig. Es ist vielleicht nicht vollständig wasserdicht, aber es wird ausreichen, um dich über den See und zurück zu tragen.
+
+Ihr steigt am Ufer in das Boot. Der eisige Wind bläht die Segel. Sadon grinst dich an – er hatte die größten Zweifel, ob das Boot schwimmen würde. Einen Augenblick später ist er verschwunden. Er kann gerade noch einen Schrei ausstoßen, als ihn ein gigantisches Tentakel aus dem Boot reißt und unter Wasser zerrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Weitere Tentakel tauchen aus dem Wasser auf. Die Luft füllt sich mit den Geräuschen von krachendem und splitterndem Holz, als das Boot auseinandergerissen wird.
+
+Du tauchst ohne zu zögern in das Wasser und beginnst, panisch in Richtung Ufer zu schwimmen. Du hoffst, dass deine Gefährten dasselbe tun. Deine schweren Felle ziehen dich hinab, aber wie durch ein Wunder erreichst du das Land.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du hörst ein blubberndes Geräusch und blickst auf. Du siehst ein Mitglied des Fischvolks über dir, einen Lagufaeth, seinen Speer angriffsbereit. Du kniest dich mit erhobenen Händen hin, um zu zeigen, dass du keine Waffen besitzt, dass du keine Gefahr darstellst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

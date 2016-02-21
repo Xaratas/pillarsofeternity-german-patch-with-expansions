@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_05_wildernesses\px2_05_tsk_bogged_down</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Versumpft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Benno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Weg, Benno zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Händlerpaar wurde getrennt, nachdem ihr Karren im Sumpf steckengeblieben ist. Ihre Reise nach Stalwart muss warten, bis die beiden wieder vereint sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Herla wartet auf ihren Partner Benno, damit sie ihren Warentransport nach Stalwart fortsetzen können. Offenbar ist er beleidigt in den Sumpf gerannt. Sie will, dass ich ihn finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Benno scheint in eine Art Zauberfalle getappt zu sein. Er glaubt offenbar, dass sie etwas mit den Einheimischen zu tun hat. Vielleicht finde ich in der Nähe Hinweise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einen Brief gefunden, der von einem rituellen Kreis im Sumpf spricht. Offenbar weiß dieser 'Badrwn', wie der Kreis wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe bei der Leiche eines Zauberers eine Notiz gefunden, die einige der Symbole um den Kreis herum beschreibt. Vielleicht hilft mir das dabei, Benno aus dieser Falle zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich konnte Benno aus dem rituellen Kreis befreien, nachdem ich mich um einige wütende Geister gekümmert habe. Benno blieb von ihrer Magie unbeeinflusst und ist immer noch derselbe alte Charmeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Benno wurde aus dem rituellen Kreis befreit, nachdem ein Kader gebundener Geister versucht hat, seine Persönlichkeit zu 'verbessern'. Er scheint nun zumindest etwas höflicher zu sein. Mit etwas Glück macht er das Beste aus seiner neuen Sicht auf das Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ein verirrter Händler hat sich in einer Art magischen Barriere fangen lassen. Er bittet verzweifelt darum, befreit zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

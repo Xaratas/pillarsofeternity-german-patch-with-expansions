@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_si_skel_hand_swing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nur das bedrohliche Knarzen der Spalte stört deine Gedanken. Du wägst deine Optionen ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deinen Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Über die Schlucht schwingen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wenn man die Breite der Schlucht und die Position der Skeletthand in Betracht zieht, glaubst du, dass du mit einem gut platzierten Enterhaken auf die andere Seite gelangen können müsstest.
+
+Den Haken richtig zu positionieren könnte zwar schwierig werden, aber der Wind ist nicht so stark, dass er deinen Versuch zur Überquerung der Schlucht gefährden würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Mittelfinger ist ein großes Ziel, sitzt aber genau in den Winden, die drohen, das Seil und den Haken fortzuwehen.
+
+Derjenige, der den Haken wirft, braucht geschickte Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Während du darüber nachdenkst, wie schwer der Wurf ist, lässt der Wind plötzlich nach und verkommt zu einem etwas unheimlichen Murmeln, das tief unter dir leise flüsternd zu hören ist.
+
+Wer soll den Haken werfen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du packst das Seil mit festem Griff und schwingst dich über die Schlucht. Obwohl der Wind stark weht und die gewaltigen eisbedeckten Finger beängstigend knarzen, erreichst du sicher die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du stehst am Rand einer Schlucht, die du mit der Hilfe eines Enterhakens und einer günstig gelegenen riesigen Skeletthand überquert hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Du wirfst den Enterhaken selbst.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[[Slot 0] soll den Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[[Slot 1] soll den Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[[Slot 2] soll den Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[[Slot 3] soll den Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[[Slot 4] soll den Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[[Slot 5] soll den Enterhaken werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du wirfst den Haken genau im richtigen Moment, als gerade keine chaotischen Windstöße aus der Schlucht aufsteigen. Der Haken fliegt mit einer seltsamen Kurve durch die weite, unruhige Luft. Das daran befestigte Seil beschreibt eine bizarre Spirale.
+
+Trotz der ungewöhnlichen Flugkurve segelt der Haken schließlich über den Mittelfinger und das Seil windet sich sicher um den gefrorenen Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du lässt den Haken vorsichtig baumeln, während du auf den richtigen Augenblick wartest, in dem die Winde kurz nachlassen. Als der Moment gekommen zu sein scheint, schwingst du den Haken nach hinten und setzt zum Wurf an.
+
+Als du gerade loslassen willst, schießt ein Luftstoß aus der Schlucht. Du zuckst und wirfst den Haken im falschen Winkel. Er knallt mit einem krachenden Geräusch gegen die riesige Elle des Skeletts ... auch wenn der laut heulende Wind das Geräusch fast übertönt.
+
+Du ziehst das Seil schnell aus der Tiefe, um den Haken zurückzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] wirft den Haken genau im richtigen Moment, als gerade keine chaotischen Windstöße aus der Schlucht aufsteigen. Der Haken fliegt mit einer seltsamen Kurve durch die weite, unruhige Luft. Das daran befestigte Seil beschreibt eine bizarre Spirale.
+
+Trotz der ungewöhnlichen Flugkurve segelt der Haken schließlich über den Mittelfinger und das Seil windet sich sicher um den gefrorenen Knochen.
+
+[Slot 0] zieht zweimal daran, um sich zu überzeugen, dass es nicht abrutscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] lässt den Haken vorsichtig baumeln und wartet auf den richtigen Augenblick, in dem die Winde kurz nachlassen. 
+
+Als der Moment gekommen zu sein scheint, schwingt [Slot 0] den Haken nach hinten und setzt zum Wurf an. Als [Slot 0] gerade loslassen will, schießt ein Luftstoß aus der Schlucht. [Slot 0] zuckt und wirft den Haken im falschen Winkel. Er knallt mit einem krachenden Geräusch gegen die riesige Elle des Skeletts ... auch wenn der laut heulende Wind das Geräusch fast übertönt.
+
+[Slot 0] zieht das Seil schnell aus der Tiefe, um den Haken zurückzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du stehst am Abgrund einer Schlucht, die der Zahn der Zeit in den Berg gerissen hat, auf welchem die Abtei steht. Aus den Tiefen der Schlucht heulen Winde empor, traurige Lieder, die einen erahnen lassen, welch gewaltiger Sturz hinab in die einsame Dunkelheit führen würde.
+
+Umhüllt von Jahrhunderten des Frosts hängt eine riesige Skeletthand bedrohlich über der Schlucht. Ihre Finger sind in einer schmerzlichen Haltung festgefroren. Das Eis bewahrt die Todesumstände dieses unbekannten Opfers lange, nachdem das Fleisch verfault ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du kehrst zum Abgrund einer Schlucht zurück, die tief in den Berg hinabreicht.
+
+Wind pfeift aus den Tiefen hervor und eine gewaltige, eisüberzogene Skeletthand hängt noch immer bedrohlich über der Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

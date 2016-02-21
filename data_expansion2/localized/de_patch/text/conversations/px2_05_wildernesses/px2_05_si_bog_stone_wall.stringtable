@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_bog_stone_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese sinkenden Mauern sind mit Schmutz und Pflanzen überzogen. Der Zahn der Zeit hat die Steine auseinandergestemmt.
+
+Dicke Ranken winden sich um den unteren Teil der Mauer, mit Dornen besetzt. Es gibt aber ein Stück, genau hier, wo die Ranken weniger dicht wuchern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du kletterst die Mauer hinab. Hier und da drohen die rutschigen Steine deinen Fortschritt aufzuhalten, doch du kannst dich lang genug festklammern, um unbeschadet unten anzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zunächst geht alles gut. Nach einem kurzen Stück aber, rutscht [SkillCheck 0] an einem glatten Stein ab und stürzt hinab.
+
+Mit einem scharfen Schrei landet [SkillCheck 0] unsanft auf einem Dornengestrüpp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ein Seil zur Hilfe nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du kletterst die Mauer hinab. Hier und da drohen die rutschigen Steine deinen Fortschritt aufzuhalten, doch du kannst dich lang genug festklammern, um unbeschadet unten anzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Zunächst geht alles gut. Nach einem kurzen Stück aber, rutscht [SkillCheck 0] an einem glatten Stein ab und stürzt hinab.
+
+Mit einem scharfen Schrei landet [SkillCheck 0] unsanft auf einem Dornengestrüpp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Einige der Ranken weghacken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du beginnst, die schlimmsten Ranken vom oberen Teil der Mauer zu entfernen. Das vergrößert zwar den grünen Stachelteppich, der unten auf dich wartet, aber dafür ist der Weg hinab leichter zu bewältigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Ranken sind fest mit der Mauer verwachsen, die Dornen sitzen wie Widerhaken in den Steinen. So sehr du dich auch bemühst, es gelingt dir nicht, die Ranken zu entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Eine freie Stelle ausmachen und hinunterspringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du suchst dir eine geeignete Stelle aus, wappnest dich ... und springst. Du landest hart, rollst dich aber gekonnt ab, um den Aufprall zu mindern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du suchst dir eine geeignete Stelle aus, wappnest dich ... und springst. Du scheinst die Kraft deines Sprungs jedoch falsch eingeschätzt zu haben, denn du verfehlst dein Ziel und landest unsanft in einem Gewirr aus Ranken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Deine Gefährten folgen dir und stoßen zu dir, ohne mehr als einige kleine Kratzer erlitten zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Deine Gefährten folgen dir ... oder versuchen es zumindest. [SkillCheck 0] landet unglücklich, verdreht sich den Knöchel und fällt mit schmerzverzerrtem Gesicht zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du gelangst ohne Zwischenfall nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du findest dich vor einer großen, runden Kammer wieder, die mit Wasser überflutet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Diese bröckelnde Wand führt zurück zum oberen Gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Hinaufklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du kletterst die feuchten, unebenen Steine hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du findest dich vor einer großen, runden Kammer wieder, die mit Wasser überflutet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Deine Gefährten folgen dir ... oder versuchen es zumindest. [SkillCheck 1] landet unglücklich, verdreht sich den Knöchel und fällt mit schmerzverzerrtem Gesicht zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

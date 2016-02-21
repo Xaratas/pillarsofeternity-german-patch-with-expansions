@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_cv_adaryc_solo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Adaryc schüttelt den Kopf. Seine Hände sind zu Fäusten geballt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Sie hören einfach nicht auf mich! Ich versuche sie zu warnen! Warum begreifen sie es nicht?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Worum geht es überhaupt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Als du das letzte Mal hier warst, warst du nicht unbedingt um gute Nachbarschaft bemüht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Sie sind Narren, die einfach die Köpfe in den Sand stecken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich hatte die Träume wieder. Die Visionen.“
+
+Adaryc stockt, es ist ihm offenbar unangenehm. „Wir wissen beide, dass es nicht nur Träume sind.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Unsere kollektiven Sünden würden uns alle begraben. Wir müssen nach vorne blicken! Auf das, was kommt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Adaryc schnaubt verächtlich. „Sie haben es also selbst gesehen. Verdammt sollen sie sein. Wir können nicht einfach herumsitzen und darauf warten, dass sie zu Sinnen kommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Die Maegfolc kommen. Sie interessieren sich nicht für unsere Grenzen, unsere Dispute. Wir müssen uns ihnen mit vereinten Kräften entgegenstellen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Sie haben bei der Festung bewiesen, dass Sie vernünftig sind. Ich sichere Ihnen die Treue des Eisenflegels zu. Meine Männer werden Ihnen zur Seite stehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Und es wäre mir eine Ehre. Macht euch bereit, Cayrons Narbe anzugreifen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Also gut. Wir treffen uns bei Cayrons Narbe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Nein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Adarycs Gesicht färbt sich, seine Miene versteinert sich.
+
+„Es ist ein Jammer. Ich hatte gedacht, wenigstens Sie wären anders. Weiser. Ich habe mich getäuscht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Tun Sie es allein, wenn Sie müssen. Aber um unser aller willen, halten Sie diese Monster auf. Bevor sie uns alle auslöschen.“
+
+Damit macht Adaryc auf dem Absatz kehrt und geht davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Wir versammeln uns bei Cayrons Narbe und erwarten deine Befehle. Mach dich bereit, mein Freund. Es wird eine große Schlacht.“
+
+Adaryc verneigt sich leicht und geht davon.</DefaultText>
+      <FemaleText>„Wir versammeln uns bei Cayrons Narbe und erwarten deine Befehle. Mach dich bereit, meine Freundin. Es wird eine große Schlacht.“
+
+Adaryc verneigt sich leicht und geht davon.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Das habe ich doch schon einmal gehört.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Adaryc wirft dir einen bösen Blick zu. Er seufzt und fährt sich mit der Hand durch die Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

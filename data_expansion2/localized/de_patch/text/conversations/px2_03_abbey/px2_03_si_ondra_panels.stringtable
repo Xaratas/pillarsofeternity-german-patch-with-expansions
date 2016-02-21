@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_si_ondra_panels</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Unterschiedliche Szenen einer Meeresküste sind in vier Steintafeln graviert, die fast willkürlich auf unterschiedlichen Höhen an einem Netzwerk aus Schienen angebracht sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Was willst du mit den Tafeln tun?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Tafeln untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Tafeln anordnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Tafel der brennenden Stadt verschieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Tafel der Flutwelle verschieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Tafel der öden Küste verschieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Die Tafel der blühenden Stadt verschieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Das Zeichen der Gezeit über der verborgenen Gravur ausführen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Den eingelassenen Steinknopf drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Offenbar kann über das Schienennetzwerk jede Tafel in jede Vertiefung geschoben werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Welche Tafel willst du in die erste leere Vertiefung schieben?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Tafeln sind an Schienen befestigt, die kreuz und quer in verschlungenen Mustern verlaufen, welche dich an Seetang erinnern.
+
+In der Wand hinter den Schienen befinden sich vier Vertiefungen, die aussehen, als würden die Tafeln genau hineinpassen.
+
+Die vier Tafeln zeigen eine öde Küste, eine brennende Stadt, eine blühende Stadt und eine Flutwelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du ergreifst die Tafel und schiebst sie auf den Schienen in die erste verfügbare Vertiefung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du vervollständigst die Sequenz mit der letzten Tafel, doch sie lässt sich nicht in die letzte Vertiefung schieben.
+
+Plötzlich beginnen die Steintafeln, sich von alleine zu bewegen. Sie kehren zu ihren ursprünglichen Positionen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du vervollständigst die Sequenz mit der letzten Tafel. Sie gleitet sanft in ihre Vertiefung in der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du ergreifst die Tafel und schiebst sie auf den Schienen in die erste verfügbare Vertiefung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du ergreifst die Tafel und schiebst sie auf den Schienen in die erste verfügbare Vertiefung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du ergreifst die Tafel und schiebst sie auf den Schienen in die erste verfügbare Vertiefung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Tafeln bewegen sich von alleine zurück auf ihre ursprünglichen Positionen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du krümmst deine Hand so, wie Kaoto es getan hat, und bewegst sie über die Gravur der Welle.
+
+Dann beschreibst du mit dem Zeigefinger und dem kleinen Finger deiner anderen Hand den Bogen des Halbmonds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als die Tafel mit der Vertiefung an der Wand ausgerichtet ist, drückst du sanft dagegen. Sie gleitet ohne Widerstand in die Vertiefung und rastet ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die verbleibenden Tafeln ziehen sich zurück und rasten ein.
+
+Hinter den schweren Steinen ertönt ein metallisches Ächzen, gefolgt von einem gleichmäßigen Surren.
+
+Eine kleine Kachel etwa in Hüfthöhe gleitet nach hinten. Darunter befindet sich eine Gravur. Sie zeigt eine Meereswelle, die um einen Halbmond gekrümmt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Tafeln sind alle an Ort und Stelle. Ein gleichmäßiges Surren ertönt von hinter der Wand.
+
+In der Mitte des Ganzen ist ein Bild in den Stein graviert – eine Meereswelle, die um einen Halbmond gekrümmt ist. Das Bild war zuvor von einer falschen Kachel verborgen gewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du stehst wieder vor den vier Steintafeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ein tiefes Grollen lässt den Boden erzittern und du hörst aus allen Richtungen das Geräusch von rauschendem Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du krümmst deine Hand so, wie Kaoto es in seinem Tagebuch beschrieben hat, und bewegst sie über die Gravur der Welle.
+
+Dann beschreibst du mit dem Zeigefinger und dem kleinen Finger deiner anderen Hand den Bogen des Halbmonds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Die Geste ausführen, die du Kaoto bei der versteckten Gravur hast ausführen sehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du stehst wieder vor den vier Steintafeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

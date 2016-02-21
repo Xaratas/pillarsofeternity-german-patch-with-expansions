@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_iovara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Sie blickt Maneha eindringlich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>„Was, wenn kein Gott die Autorität besitzt, uns von unseren Lasten zu befreien oder unsere Sünden zu vergeben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>„Sind die Götter weniger wichtig, weil wir sie geschaffen haben?“ Maneha neigt den Kopf und verzieht das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>„Dann müssten wir diese Dinge wohl bei Sterblichen suchen.“ Sie verschränkt die Arme und legt den Kopf schräg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Sie schüttelt den Kopf. „Ich habe lange Zeit nach einer wundersamen Lösung gesucht.“
+
+„Aber man kann die Vergangenheit ebenso wenig ungeschehen machen, wie man ein vergossenes Glas Wein wieder unvergossen machen kann. Man kann nur weitermachen und versuchen, es besser zu machen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>„Unzählig sind die Namen derer, die in Verzweiflung gestorben sind, während sie auf die Hilfe der Götter warteten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>„Und das ist das Schwere daran, nicht wahr? Es ist leicht, die Augen zu schließen und zu einem Gott zu beten. Aber es ist schwer, sie zu öffnen und jemandem, den man verletzt hat, ins Gesicht zu blicken. Oder jemandem, der einen selbst verletzt hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>„Wenn es stimmt, was du sagst, haben die Sterblichen die Götter geschaffen, weil sie sich nach Vergebung, Führung, Gnade sehnten. Weil wir nicht gut darin sind, uns diese Dinge gegenseitig zu geben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Sie schlägt sich auf die Brust. „Zum ersten Mal seit Jahrzehnten fühle ich mich ganz. Und es war die Macht eines Gottes, die das bewirkt hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Maneha nickt. „Es ist leichter, etwas zu ertragen, wenn man zumindest weiß, womit man es zu tun hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>„Macht mag es gewesen sein. Aber nicht die Macht eines Gottes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

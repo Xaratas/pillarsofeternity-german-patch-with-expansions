@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_cv_lodgar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Sei gegrüßt, Fremder.“
+
+Er kratzt sich am Kopf.
+
+„Moment, ich kenn dich doch. Du hast dieses Marmeladenglas überhaupt erst zerbrochen.“ Er lacht und schlägt dir auf den Rücken.</DefaultText>
+      <FemaleText>„Sei gegrüßt, Fremde.“
+
+Er kratzt sich am Kopf.
+
+„Moment, ich kenn dich doch. Du hast dieses Marmeladenglas überhaupt erst zerbrochen.“ Er lacht und schlägt dir auf den Rücken.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Hast du Mylla gefunden?“ Er blickt dich mit rot umrandeten Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Ich darf nicht lange reden, sonst kriege ich was zu hören.“ Er blickt sich über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Wenn das so ist, dann herzlichen Dank.“
+
+Er beugt sich vor, um dir die Hand zu schütteln. Du bemerkst, dass er dabei nur sein rechtes Bein belastet. Seine linke Hand ist dick verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Was ist mit dir geschehen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Bist du nicht Myllas Vater?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er strahlt. „Ja, das bin ich! Was hat meine kleine Störenfriedin diesmal angestellt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Nichts. Reine Neugier.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Sie ist verschwunden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Wenn du sie siehst, sag ihr, Papa bringt Karamell mit, wenn er nach Hause kommt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Was?“ Er blinzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Wo ist sie? Was ist passiert?“ Er packt dich an den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Kaputte Hüfte, die durch eine Nacht mit Culmars Rachenputzer noch schlimmer geworden ist.“ Er lacht, verzieht aber auch schmerzverzerrt das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Das wird schon wieder. Ich muss nur hier alles in Ordnung bringen, bevor noch etwas auseinanderfällt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ich glaube, sie ist zur Weißsteinsenke gegangen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Ihm die Zeichnung zeigen.] „Weißt du, wo das ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Ich weiß es nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Bleib du hier. Ich finde sie.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Ich muss sie suchen gehen.“ Er stolpert an dir vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Das ist ...“ Zunächst ist er verwirrt, dann grinst er aber, während er die gekritzelten Linien betrachtet. „Die Weißsteinsenke? He.“ Er tappt mit einem schwieligen Finger auf einen Punkt der Zeichnung. „Ich glaube, das sollen die Menhire sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Sieh dir das an! Meine Tochter ist eine Künstlerin.“ Er lächelt, als er das Bild betrachtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Danke, dass du mir das gebracht hast. Ich hänge es neben meiner Pritsche auf.“ Er nimmt das Bild und steckt es vorsichtig ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Viel Glück.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bevor du noch etwas sagen kannst, hinkt er davon, die Fragen und Rufe der anderen Arbeiter ignorierend. Er nimmt sich nicht einmal die Zeit, Vorräte oder Material zu sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Seine Augen sind wild. „Ich muss nach ihr suchen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Nun gut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Dazu bist du nicht in der Verfassung. Überlass das mir.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Beruhige dich. Du verlierst deine Arbeit, wenn du jetzt gehst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Scheiß auf die Arbeit! Ich muss meine Tochter finden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Er blickt auf sein krankes Bein und seine verbundene Hand und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Bitte beeil dich. Bitte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Leben Sie wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Ja, sie ist in Stalwart.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Noch nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Was tust du dann noch hier? Bitte, wir dürfen keine Zeit verlieren!“ Er rauft sich die fettigen, ungekämmten Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Hm. Keine Ahnung, was sie dort wollen könnte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er seufzt und sackt gegen die Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Danke. Ich weiß nicht, was ich tun würde, wenn ...“
+
+Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Ich werde nur einmal die Woche bezahlt, aber ich schicke es alles zu Royce. In Stalwart.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Bitte, geh zu ihr. Wir werden dir nie gebührend danken können, aber lass uns dir zumindest das bisschen geben, was wir haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Mylla! Wo bist du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>„Ich darf nicht lange reden, sonst kriege ich was zu hören.“ Er blickt sich über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Wir haben es jetzt vielleicht nicht ganz leicht, aber wir werden das durchstehen. Danke, dass du Mylla gefunden hast.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Ein verdammtes Rudel von Monstern ist mit Mylla da drin! Sie haben mich angefallen, sobald ich dort war!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Bleib du hier. Ich finde sie.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

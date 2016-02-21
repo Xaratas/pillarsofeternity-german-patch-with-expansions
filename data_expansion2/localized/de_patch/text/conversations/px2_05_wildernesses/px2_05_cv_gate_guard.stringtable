@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_gate_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Geh zurück und sag diesen verfrorenen Bastarden in Stalwart, dass ihre Tricks sie nicht retten werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Ich komme, um die Delegierten aus Stalwart zu holen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Tricks?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Dann wirst du mit leeren Händen zurückkehren müssen. Dem Kommandanten haben ihre Drohungen nicht geschmeckt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Durch ein paar Geschichten lassen wir uns nicht vom Pass verjagen. Der Kommandant wird nicht wanken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Wir werden uns gewiss auf bessere Bedingungen einigen können.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Adaryc hat uns aufgetragen, alle Fremden fernzuhalten. Wenn du vor den Toren herumlungerst, müssen wir feuern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ich gehe nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Dann komm näher und wir sehen mal, wie dir unsere Pfeile schmecken!“ Der Bogenschütze lacht.
+
+„Nur zu. Ihr werdet ohnehin schon bald alle die Schwerter mit dem Eisenflegel kreuzen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Halt!“
+
+Ein Mann mit eingefallenem Gesicht ruft von einem der flankierenden Wachtürme zu dir hinab. Ein Pfeil ist lose in seinen Langbogen eingespannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Dachten deine Meister, wir würden uns durch den Anblick von Magrans Günstling einschüchtern lassen? Oder haben sie dich für eine gehässige kleine Beleidigung vergeudet?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Du hast einen Fehler gemacht, Gottähnlicher. Kehre um.“</DefaultText>
+      <FemaleText>„Du hast einen Fehler gemacht, Gottähnliche. Kehre um.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Ich muss mit eurem Kommandanten sprechen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Du bist zu spät. Stalwart hatte seine Chance und hat sie vergeudet. Wir verhandeln nicht mehr.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ich habe keine Ahnung, wovon du redest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Nein? Nun, dann geh die verlogenen Teufel in Stalwart fragen, falls es dir gelingt, ihnen eine ehrliche Antwort zu entlocken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Sie haben ihn bedroht?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Falsche Prophezeiungen und Omen. Eine seltsame Art zu verhandeln, findest du nicht?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Weggehen] „Ich komme wieder.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Geh nach Hause, Fürst! Sonst findest du dich in einem sehr kalten Grab wieder.“</DefaultText>
+      <FemaleText>„Geh nach Hause, Fürstin! Sonst findest du dich in einem sehr kalten Grab wieder.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Du wärest ein Narr, es zu versuchen. Die Gesandten haben dem Kommandanten die Laune verdorben.“
+
+Der Bogenschütze blickt hinab in die Festung, als wollte er sichergehen, dass niemand seine Bemerkung gehört hat.</DefaultText>
+      <FemaleText>„Du wärest eine Närrin, es zu versuchen. Die Gesandten haben dem Kommandanten die Laune verdorben.“
+
+Der Bogenschütze blickt hinab in die Festung, als wollte er sichergehen, dass niemand seine Bemerkung gehört hat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

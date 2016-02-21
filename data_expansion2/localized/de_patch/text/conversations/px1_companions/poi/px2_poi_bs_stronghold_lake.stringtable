@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px2_poi_bs_stronghold_lake</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Sie regen sich tief unten ... grauenhafte, unermüdliche Diener.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Langsam glaube ich, du hast Galvino nicht genug für mich bezahlt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Warte nur, bis ich den Kindern erzähle, wie ihre Mutter in einen gefrorenen See voller riesiger Golems gesprungen ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich hatte gehofft, ich würde bei der Paarung mit einem Bär sterben. Das hätte deutlich mehr Spaß gemacht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Und wieder einmal muss ich die Fehltritte der Götter zurückrechtrücken. Es ist ermüdend.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Durgan hat die Batterie gebaut, ohne zu wissen, dass das hier in der Nähe schlummert. Ich frage mich, welche anderen Überraschungen dem Östlichen Abschnitt noch bevorstehen ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„All das liegt nur an uns. Los. Beenden wir es.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

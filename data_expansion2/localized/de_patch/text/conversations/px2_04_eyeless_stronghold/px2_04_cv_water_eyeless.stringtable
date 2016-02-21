@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_04_eyeless_stronghold\px2_04_cv_water_eyeless</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Wassersäulen steigen aus dem Becken vor dir auf, sich windend und zuckend, und wirbeln Luft umher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Dass du es so weit geschafft hast, ist beachtlich. Ich muss gestehen, ich war mir nicht sicher.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Aber ich will dir keine falsche Hoffnung machen. Die größere Herausforderung liegt noch vor dir.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Ich bin bereit.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Die Augenlosen müssen aufgehalten werden, für das Wohl des Dyrwalds.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich hatte nicht erwartet, dass es leicht wird.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Ist das ein Wetttrinken?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Wehe, jetzt kommt eine unangenehme Überraschung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Durch den Kern dieses Felsens verläuft eine große Kristallader. Du erkennst sie, wenn du sie siehst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ein Schlag gegen den Kristall würde durch die Mauern hier hallen. Schlägt man hart und oft genug dagegen ... zerbröckelt das ganze Gebilde. Die Augenlosen würden begraben werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Natürlich würde es Jahre dauern, ausreichend Schaden anzurichten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Aber nicht mit der Hilfe der Augenlosen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Was steht dir im Sinn?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Dann weißt du, was zu tun ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Schlage mit dem Hammer gegen Abydons Kristall. Die Augenlosen werden erwachen und seinem Ruf folgen ... und ebenfalls gegen den Kristall schlagen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Worauf warten wir dann noch?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Moment. Ich soll noch mehr von ihnen aufwecken?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Was verschweigst du mir?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Sie werden sich zusammenrotten und sich selbst begraben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Ein einziger Schlag gegen den Kristall wird nicht ausreichen. Die Augenlosen antworten nur, solange der Hammer schlägt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Sie greifen nicht an, so lange sie auf das Geräusch von Abydons Hammer fixiert sind. Aber genau da liegt das Problem.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Du wirst bleiben müssen, bis ihre Arbeit getan ist ... und den Hammer schwingen, bis die Wände einzustürzen beginnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Alles hat ein Ende.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Das hättest du auch FRÜHER erwähnen können!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Ich schwöre vor dir und allen anderen Göttern, dass du dafür bezahlen wirst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Wenn die Augenlosen nicht aufhören, bis ich tot bin, kann ich den Gefallen ebensogut erwidern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Ich vertraue darauf, dass das nun einmal das ist, was getan werden musste.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Was getan werden muss, das hat sich nicht geändert. Dass du so kurz davorstehst, macht es wahrscheinlicher, dass du es akzeptierst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Ich wollte dich nicht täuschen, sondern lediglich zu Eile und Akzeptanz ermutigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>„Es ist schwer zu akzeptieren, dass der eigene Todestag bereits feststeht. Es ist gut, dass du keinerlei Illusionen hast, was den deinen angeht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Man kann die Augenlosen weder zur Vernunft bringen, noch vor ihnen fliehen. Eines nicht allzu fernen Tages würden sie dich töten und den Dyrwald dem Erdboden gleich machen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Du hast gesehen, was sie tun werden. Auf diese Weise kannst du sie aufhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Und die Wahrheit ist, dass die Augenlosen dich nicht ohne Grund zum Ziel auserkoren haben. Es wäre für alle besser, wenn die Dinge, die du gesehen hast, vergessen werden würden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Wassersäule fällt mit einem kleinen Platschen plötzlich wieder in das Becken zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Ich hatte nicht bedacht, welche Gefahren es mit sich bringt, sie gewähren zu lassen ... bis ein Wächter in meiner Abtei erschien.“</DefaultText>
+      <FemaleText>„Ich hatte nicht bedacht, welche Gefahren es mit sich bringt, sie gewähren zu lassen ... bis eine Wächterin in meiner Abtei erschien.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Ich habe erkannt, dass es am besten ist, ihnen ein Ende zu setzen. Denn jeder von ihnen trägt ein kleines Stück von Abydon selbst in sich.
+
+„Bei ihrem Tod werden diese Fragmente und die darin enthaltenen Erinnerungen ohne Gefahr zerstreut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„JAHRE?!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>„Unter gewöhnlichen Umständen. Aber du wirst nicht alleine handeln.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Hey, wer sagt, dass die Götter starre Ideologen wären?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Ich soll hier sterben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Man wird dein Opfer würdigen und um dich trauern. Aber dein Schicksal ist bereits besiegelt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>„Was? Aber das würde bedeuten ... oh.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Pah ... ein jämmerliches Ende für die Meereskönigin! Aber wir werden unser eigenes schreiben! Nicht wahr?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Wenn es doch nur so einfach wäre.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Die Ideale bleiben. Nur meine Methoden haben sich verändert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>„Zerdrückt zu werden ist kein schöner Tod. Vielleicht sollten wir uns einfach erhängen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>„Wie ungemein praktisch.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>„Ein großes Opfer für eine größere Sache.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Ein Neuanfang für uns und die Welt? Vielleicht ist das gar nicht verkehrt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Das kann nur Ondras Haar sein – wenn auch deutlich kleiner als Seeleute es berichten, die das Pech hatten, diesem Phänomen auf dem offenen Meer zu begegnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Wassersäulen fallen mit einem kleinen Platschen plötzlich wieder in das Becken zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Eine Wassersäule steigt aus dem Becken vor dir auf, sich windend und zuckend, und wirbelt Luft umher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Das Becken beruhigt sich. Als du hineinblickst, siehst du nur die Gesichter von dir und deinen Gefährten, allein und verdammt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Das Becken beruhigt sich. Als du hineinblickst, siehst du nur dein Gesicht, allein und verdammt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

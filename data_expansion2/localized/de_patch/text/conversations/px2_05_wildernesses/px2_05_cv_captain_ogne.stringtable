@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_captain_ogne</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Du hast ein untrügliches Gespür für den rechten Zeitpunkt, Fürst [Player Name]. Die Dame hier war den ganzen Tag hinter dir her.“</DefaultText>
+      <FemaleText>„Du hast ein untrügliches Gespür für den rechten Zeitpunkt, Fürstin [Player Name]. Die Dame hier war den ganzen Tag hinter dir her.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Verzeihung?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„So bin ich. Äußerst beliebt bei den Toten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Wie kannst du dir so sicher sein?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Nennen wir es eine Ahnung.“ Ognes Mund zuckt, als sie ein Lächeln unterdrückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich breche dir ungern das Herz, aber es gibt in Stalwart nicht übermäßig viele vermögende Orlaner. Da behält man leicht den Überblick.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Die düsteren Blicke, die dir manche Einheimischen zuwerfen, zum Beispiel. Kaum zu übersehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Tja, wer dieses spezielle Exemplar auch war, sie hat dich ziemlich gut beschrieben. Und die halbe Stadt fängt an zu flüstern, wenn du vorbeikommst. Das hilft.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Diese Frau hat in der Stadt nach dir gefragt. Aber nicht auf höfliche Art und Weise.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Äh, ja ...“ Ogne sieht dich verwirrt an und zuckt dann mit den Schultern.
+
+„Also 'beliebt' würde ich nicht unbedingt sagen. Sie hat es offenbar irgendwie auf dich abgesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Sie sind wohl nicht die einzigen, die du verärgert hast.“
+
+Ogne stupst die Leiche vor sich mit der Stiefelspitze an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Sie ist ganz schnell nervös geworden, als wir vorbeigekommen sind. Sie hätte Roylan fast den Kopf abgehauen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Ich habe sie noch nie gesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Assassinen sind in meinem Leben nichts Ungewöhnliches.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Hm.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Tut mir leid, dass ihr Ärger hattet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Nicht mein Problem.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Du hast wohl nicht viel verpasst. Aber du solltest dir ansehen, was sie alles bei sich hatte. Vielleicht erkennst du etwas.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Ach, iwo. Sie hat nur Roylan tüchtig erschreckt.“ Ogne deutet auf die Leiche. 
+
+„Du solltest dir ansehen, was sie alles bei sich hatte. Vielleicht erkennst du etwas.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ogne sieht ein wenig enttäuscht aus. 
+
+„... Du solltest dir wohl ansehen, was sie alles bei sich hatte. Vielleicht erkennst du etwas.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Nicht mehr, meinst du.“ Ogne zuckt mit den Schultern.
+
+„Ich dachte nur, du hättest eine Warnung verdient. Offenbar hat es irgendjemand auf dich abgesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Das will ich wetten. Naja, du solltest dir wohl ansehen, was sie alles bei sich hatte. Vielleicht erkennst du etwas.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Alles in Ordnung? Immer noch auf der Flucht vor Assassinen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Gibt es zwischen hier und Eir Glanfath irgendwelches Sumpfland? Mit alten Ruinen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Ogne blinzelt. „Seltsame Frage.“
+
+„Wenn du dem Fluss zurück Richtung Caed Nua folgst, kommst du zu einem großen Sumpf. Etwas Besseres fällt mir nicht ein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ein paar Stadtwachen stehen um eine Leiche herum, die auf dem Boden liegt. Eine von ihnen dreht sich zu dir um, als du dich näherst. Sie nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Das kommt mir bekannt vor.“ Aloth wendet langsam seinen Kopf, um dich anzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Maneha hebt eine Augenbraue. „Vielleicht hast du das einmal erwähnt ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sagani blickt mit zusammengekniffenen Augen die Leiche an. „Sieht größer aus als die letzte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Amateur.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

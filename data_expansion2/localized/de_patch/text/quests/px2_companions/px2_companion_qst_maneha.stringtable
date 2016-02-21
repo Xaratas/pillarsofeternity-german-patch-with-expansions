@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_companions\px2_companion_qst_maneha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Last der Erinnerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise in die Abtei des Gefallenen Mondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Salzbrunnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Maneha, eine Gabenbringerin Ondras, sucht eine verborgene Abtei, in der Ondriten Dinge ablegen, die vergessen werden sollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich bin einer Gabenbringerin namens Maneha begegnet. Sie sucht nach der Abtei des Gefallenen Mondes, einem geheimen Ondriten-Tempel, in dem sie mehrere Erinnerungsstücke ablegen soll.
+
+Sie hat sich mir in der Hoffnung angeschlossen, dass wir diesen Ort auf unseren Reisen finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Wir haben die Abtei des Gefallenen Mondes erreicht. Maneha glaubt, dass der Salzbrunnen hier irgendwo ist.
+
+Wenn wir ihn finden, kann sie die Erinnerung fortwaschen, die sie plagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Maneha hat zugegeben, dass sie die Abtei sucht, um ihre eigenen schmerzlichen Erinnerungen loszuwerden. In der Abtei befindet sich ein Brunnen, in dem die Gläubigen sich von ihrer Vergangenheit reinwaschen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Als ich erwachte, steckte Maneha gerade mitten in einem Albtraum. Ich sollte sie danach fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Maneha ist gestorben, ohne die Erlösung zu finden, nach der sie sich so gesehnt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Wir haben den Salzbrunnen gefunden und Maneha hat ihre schmerzliche Vergangenheit in die Obhut von Ondra übergeben. Es ist aber wohl noch zu früh, um zu verstehen, inwieweit sich das wirklich auf sie auswirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Wir haben den Salzbrunnen gefunden. Maneha hat sich jedoch entschieden, mit der Erinnerung des Massakers zu leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

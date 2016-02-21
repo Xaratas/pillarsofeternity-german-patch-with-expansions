@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_abydon_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Abydon-Schrein liegt vor dir. Er riecht nach Metall und Öl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Mascas Schmiedehammer segnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du legst Mascas Schmiedehammer vor den Fuß des Schreins. Einen Augenblick lang passiert nichts, dann hörst du das ferne Dröhnen von Hämmern, die auf Ambosse schlagen ... zehn, dann hundert, dann tausend, alle im Einklang.
+
+Mascas Schmiedehammer beginnt plötzlich zu glühen und der dröhnende Hammerchor verstummt. Du nimmst den Hammer wieder an dich. Er hat sich äußerlich nicht verändert, fühlt sich aber schwerer an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

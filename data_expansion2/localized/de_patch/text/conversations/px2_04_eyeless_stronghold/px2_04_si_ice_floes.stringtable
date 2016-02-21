@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_04_eyeless_stronghold\px2_04_si_ice_floes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Reihe kleiner Eisschollen trennt zwei größere Schollen voneinander. Sie heben und senken sich im Wasser und krachen immer wieder gegeneinander.
+
+Trotz ihrer Instabilität liegen die Eisschollen so eng aneinander, dass du sie nutzen könntest, um auf die andere Seite zu gelangen.
+
+Wem allerdings zu wenig Eleganz und Gleichgewichtssinn in die Wiege gelegt wurde, der hat gute Chancen, auf dem Eis auszurutschen und im eiskalten Wasser zu landen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Über die Eisschollen springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Durch sorgfältige Planung und vorsichtige Bewegungen gelangst du sicher auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[„Reif und Frost folgten auf des Karthes Schritte“ wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Slot 0] gelangt sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet. [Slot 0] landet im See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Slot 1] gelangt sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet. [Slot 1] landet im See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Slot 2] gelangt sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet. [Slot 2] landet im See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Den Zauber „Winterwind“ auf die Eisschollen wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Als du deine Magie wirkst, kristallisiert das Wasser zwischen den Eisschollen zu einem robusten Gitter aus durchsichtigem Eis.
+
+Aufgrund der Größe der Schollen wird dein Zaubereis die Reihe jedoch nicht lange stabilisieren. Schon jetzt hörst du, wie einige der größeren Schollen knarzend an ihren vorübergehenden Befestigungen reiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Dein Gewicht lässt zwar einige der Eisschollen gefährlich ächzen und wanken, als du sie überquerst, aber der Zauber reicht aus, um zu verhindern, dass du im Wasser landest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Slot 3] gelangt sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet. [Slot 3] landet im See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Eiszauber, den du vorhin genutzt hast, um das Wasser zwischen den Schollen einzufrieren, ist verflogen. Die Brücke aus schwankendem Eis ist nun wieder so gefährlich wie bei deiner Ankunft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 4] gelangt sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet. [Slot 4] landet im See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 0] paddelt zum Rand der Eisscholle und klettert nass und zitternd aus dem Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du gelangst sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet, sobald du dein Gewicht darauf setzt. Dein Bein landet im Wasser und der Rest deines Körpers folgt.
+
+Du kannst gerade noch verhindern, dass du von einem weiteren Eisbrocken zerdrückt wirst, wirst dabei aber kurz unter Wasser getaucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Deine Finger werden augenblicklich taub. Du mühst dich, den Rand der nächsten Eisscholle zu erreichen. Nass und zitternd ziehst du dich aus dem Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 5] gelangt sicher über die ersten zwei Schollen, doch die dritte dreht sich plötzlich und unerwartet. [Slot 5] landet im See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte bist du zäh genug, um ihrer lähmenden Wirkung zu widerstehen. Du ziehst dich rasch auf die nächste Eisscholle und steigst aus dem Wasser. Die kalte Luft beißt zwar in deine nasse Haut, aber du ignorierst den Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte ist [Slot 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte ist [Slot 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte bist du zäh genug, um ihrer lähmenden Wirkung zu widerstehen. Du ziehst dich rasch auf die nächste Eisscholle und steigst aus dem Wasser. Die kalte Luft beißt zwar in deine nasse Haut, aber du ignorierst den Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Den Zauber „Frostexplosion“ auf die Eisschollen wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte bist du zäh genug, um ihrer lähmenden Wirkung zu widerstehen. Du ziehst dich rasch auf die nächste Eisscholle und steigst aus dem Wasser. Die kalte Luft beißt zwar in deine nasse Haut, aber du ignorierst den Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte bist du zäh genug, um ihrer lähmenden Wirkung zu widerstehen. Du ziehst dich rasch auf die nächste Eisscholle und steigst aus dem Wasser. Die kalte Luft beißt zwar in deine nasse Haut, aber du ignorierst den Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Trotz der gnadenlosen Kälte ist [Slot 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

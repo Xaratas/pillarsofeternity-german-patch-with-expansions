@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_mines_worker_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Brauchst du etwas? Wir versuchen, hier aufzuräumen.“
+
+Er blickt dich mit zusammengekniffenen Augen an. „Was tust du überhaupt hier?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Kann ich dir helfen? Ich muss wieder an die Arbeit.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Du hast Gamel gefunden, heißt es. Ich habe ein paar Fragen an dich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Ich untersuche das Verschwinden der Arbeiter. Kann ich dir ein paar Fragen stellen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Einer deiner Arbeiter hat sich ein wenig seltsam benommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Hmm. Schön, dass sich endlich mal jemand dafür interessiert, was hier in letzter Zeit vor sich geht. Nur zu, frag.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Wenn ich raten müsste? Irgendein Gas kommt von unten mit dem Schwefel hochgestiegen und macht die Leute kirre.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ich sehe mich um.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Wo hast du Gamel gefunden?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Ist sonst noch jemand aus deinem Trupp verschwunden?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Sameths Hände waren voller gelber Flecken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen] „Das ist alles.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Äh, klar. Nicht unbedingt der beste Ausblick der Stadt oder so. Außer, man ist verrückt nach Steinen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Kein einziger. Wir hatten wohl einfach Glück.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Ich habe ihn im Osten gefunden, über Sameths Leiche gebeugt. Wie er aussah! Ich dachte, er wäre wild geworden oder sowas.“
+
+Teryc schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Sameth hat in der Schwefelmine im östlichen Teil gearbeitet. Hatte wahrscheinlich die ganzen Hände voll von dem Zeug.“
+
+Er grinst schief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Wir hatten vor kurzem einen Einsturz und räumen seitdem auf. Es geht langsam voran, aber es muss getan werden.“
+
+Er wischt sich die Stirn, vielleicht nur um zu unterstreichen, wie anstrengend die Arbeit ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Ich weiß nicht, was Ismey und du gemacht haben, aber es ist plötzlich Leben in alle gekommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Das hast du gemerkt, ja? Ich glaube, es hat mit dem Schwefel zu tun. Jeder, der geschickt wird, das Zeug aus den östlichen Minen zu holen, kommt etwas seltsam zurück.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Sei vorsichtig, wenn du da hingehst. Cillan setzt Konstrukte zum Graben ein und sie dienen auch als Wachen. Du solltest ihr lieber sagen, dass du auf dem Weg bist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Na los, Leute, Bewegung! Wir müssen endlich fertig werden!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„In den östlichen Minen scheint es jede Menge Ärger zu geben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Was geht hier vor sich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Wir haben sie gefunden, wie sie einfach nur im Kreis gehen und vor sich hin murmeln.“
+
+Er zuckt mit den Schultern. „Nachdem sie aus der Mine waren, hat es aufgehört.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Ich kannte mal einen Kerl, der eine Lunge voll eingeatmet hat. Er hat sich alle Kleider vom Leib gerissen und ist grölend durch die Tunnel gerannt. Ein grauenhafter Anblick, aber zumindest hat er niemanden verletzt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Was ist Cillans Aufgabe hier?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>„Im Moment lasse ich sie nach möglichen Stellen für neue Tunnel suchen. Sonst ist sie hauptsächlich damit beschäftigt, die Konstrukte zu bändigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Ihr Ziel ist es, die gefährlichsten Arbeiten durch die Konstrukte ausführen zu lassen. Aber da müsstest du sie selbst fragen, wie es vorangeht. Ich mag diese Dinger nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_guard_vault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Nur der Oberabt darf eintreten. Bitte tritt beiseite.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Ich habe dich gewarnt. Geh. Jetzt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Du hast es so gewollt!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Eindringling! Zum Gewölbe!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Du darfst eintreten, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Du darfst eintreten, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Verzeih, Gezeitenbringer, aber ich bin nicht befugt, dich passieren zu lassen. Das bedarf der Zustimmung des Oberabts.“</DefaultText>
+      <FemaleText>„Verzeih, Gezeitenbringerin, aber ich bin nicht befugt, dich passieren zu lassen. Das bedarf der Zustimmung des Oberabts.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

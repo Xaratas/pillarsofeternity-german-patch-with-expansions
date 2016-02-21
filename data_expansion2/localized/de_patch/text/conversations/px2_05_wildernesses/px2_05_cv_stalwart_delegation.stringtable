@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_stalwart_delegation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>100</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Oh, danke! Ich dachte schon, wir würden hier nie wieder herauskommen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Abydon segne deine Klinge! Ich dachte, dieser Wahnsinnige würde uns alle töten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Ich weiß nicht, wie es dir gelungen ist, diesen Mann zur Vernunft zu bringen. Er hatte schon fast Schaum vor dem Mund.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Der Kommandant war nicht das Problem.“
+
+Einer der Gesandten deutet vorwurfsvoll auf eine andere Gesandte, die einige Schritte abseits vom Rest der Gruppe steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Frau ist in bescheidene Roben gekleidet. Sie erduldet die Vorwürfe stumm, die Augen wie zum Gebet geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Seid ihr verletzt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Lasst einfach alle wissen, wie froh ihr seid, am Leben zu sein, dann sind wir quitt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ihr habt Glück, dass ich in der Gegend war.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„N-nein. Ein wenig mitgenommen, vielleicht. Die Kälte war das Schlimmste.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Oh ja. Ich weiß nicht, ob ich noch eine Nacht in dieser Grube aushalten würde ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Ich warte auf eine Erklärung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Wer seid ihr?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Und jetzt schleichen er und seine Männer immer noch durch die Berge. Ich weiß nicht, ob es die beste Entscheidung war, ihn am Leben zu lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Gute Arbeit. Du hast Adaryc verunsichert und abgelenkt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Mit der Geschwindigkeit der Verzweiflung hechtet die Frau plötzlich zu einem Regal und packt einen Dolch, der dort lag.
+
+Sie setzt sich die Klinge an die eigene Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„W-was ist gerade passiert?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Verdammt! Jetzt kriegen wir nie eine Antwort aus ihr heraus!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Die Seele der Frau lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Haben sie eure Namen aus einem Hut gezogen, als sie diese Delegation gebildet haben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Was ist passiert?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Glaubt mir, ich war nicht wegen euch hier.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Oh. Naja, trotzdem ... verdanken wir dir unsere Leben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Die Verhandlungen nahmen einen guten Anfang. Der Kommandant war sogar höflich.“
+
+Einer der Gesandten deutet vorwurfsvoll auf eine andere Gesandte, die einige Schritte abseits vom Rest der Gruppe steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Du weißt ja, wie abergläubisch die Readceraner sind! Der Kommandant ist so weiß wie ein Laken geworden. Sie hat das Treffen sabotiert!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Sei dir da mal nicht zu sicher. Aus dem Weg.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Du hast ganz Stalwart in Gefahr gebracht. Warum?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Wir haben uns alle freiwillig gemeldet. Sie schien völlig normal zu sein! Ein wenig angespannt, vielleicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du greifst mit deinen Sinnen nach der Seele und stemmst dich gegen das plötzliche Auflodern von Schmerz und Furcht. Du gräbst nach älteren Ereignissen. Du spürst einen kupfernen Geschmack im Mund und Schmerzen wie Feuer im Rachen.
+
+Unter dem nackten Grauen des Todes findest du einen tröstlichen Faden der Entschlossenheit, der Zufriedenheit über eine erfüllte Pflicht. Du folgst ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ein plötzlicher ohrenbetäubender Lärm draußen schreckt die Gesandten auf. Es folgt ein Grollen wie von Donner. Du hörst weitere Geräusche von zerberstendem Holz ... und panische Schreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Oh nein. Was ist da los? Ich dachte, du hättest die Soldaten ausgeschaltet!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Mögen die Götter Gnade mit uns haben. Was jetzt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Bleibt hier. Ich kümmere mich darum.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Aus dem Weg. Ich muss kämpfen gehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Mit den Achseln zucken und weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Wenn Adaryc mich verraten hat, wird er es bereuen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>„Habe ich auch. Das ist etwas anderes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Von allen außer dir unbemerkt windet die Seelenessenz der sterbenden Frau sich in dünnen Schwaden um ihren Körper. Sie wird nur ein wenig heller, als ihre Leiche sich nicht mehr bewegt.
+
+Die übrigen Gesandten starren entsetzt auf die Blutlache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Der Gezeitenbringer ist in einer Woche hier. Solltest du dich auf deiner Reise verspäten, erstattest du ihm Bericht, wie du es mir tätest. Er wird an meiner Stelle das Reliquiar betreten und die Armee der Augenlosen zurückrufen.“</DefaultText>
+      <FemaleText>„Die Gezeitenbringerin ist in einer Woche hier. Solltest du dich auf deiner Reise verspäten, erstattest du ihr Bericht, wie du es mir tätest. Sie wird an meiner Stelle das Reliquiar betreten und die Armee der Augenlosen zurückrufen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Worte reißen dich aus der Erinnerung und werfen dich zurück zu dem Augenblick, in dem die Frau stirbt ... und dann wieder in deine eigene Haut.
+
+Spuren ihrer Erinnerung verbleiben aber in der deinen zurück. Du kennst den Weg zu der Abtei, zu der sie zurückkehren sollte. Sie liegt tief in den Bergen im Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Weiß jemand, was ein Gezeitenbringer ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>„Sie wurde geschickt, um die Readceraner zu vertreiben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Ich hoffe es. Ich nehme an, dass die Abtei schwer bewach-“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Deine Umgebung erkunden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Vortreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Erinnerung verschwimmt. Als du wieder klar siehst, stehst du vor Kaoto und er lächelt sanft auf dich herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Sie war eine Anhängerin Ondras. Eine Fanatikerin.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>„Wenn du enttarnt wirst, Schwester ... weißt du, was du tun musst.“
+
+Er legt dir eine Hand auf die Schulter. „Ich bete für deine Rückkehr. Aber wir werden Trost in dem Wissen finden, dass du dich Ondras Günstlingen in ihrer Obhut angeschlossen hast.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du befindest dich in einer breiten, runden Kammer. Die Kacheln unter deinen Füßen sind mit fremdartigen, geschwungenen Symbolen versehen. Du erkennst sie als die Zeichen Ondras, der Göttin des Meeres und der Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>„Ja, äh, wir warten hier! Dr-drinnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>„Kennst du einen Kaoto?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>„Wir hätten eine Einigung erzielen können, wenn SIE ihn nicht gereizt hätte! Von 'Omen' und 'Flüchen' hat sie gezetert und verlangt, dass sie die Weißmark verlassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>„Nun, ihr bekommt bestimmt noch genug Gelegenheit zum Kämpf-“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du wirst stolpernd in eine weitere Erinnerung geführt, so vollständig und lebendig wie die erste. Du schreitest durch die Gänge einer Abtei, nur düster erleuchtet und völlig still. Deine Schritte hallen laut wider.
+
+Deine Sicht verschwimmt ... und du stehst in einem kaum beleuchteten Raum. Dir gegenüber befindet sich ein in Roben gehüllter Aumaua. Du erkennst ihn als Kaoto, den Oberabt. Er bedeutet dir, vorzutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Maneha kniet sich neben die sterbende Frau und untersucht ihre Roben. Sie studiert ein halbmondförmiges Medaillon, das um ihren Hals hängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>„Herumschleichen ist eigentlich nicht mein Stil.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>„Sie hatte irgendetwas Verdächtiges an sich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>„Bitte. Du bist genauso überrascht wie wir alle.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>„Nun, gewiss. Waren wir das nicht alle?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>„Ich glaube nicht, dass er das meint.“
+
+Sie blickt dich an. „Von wem geschickt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>„Von jemandem namens Kaoto.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>„Gezeitenbringer? Davon haben sie im Ondra-Tempel immer gesprochen, glaube ich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>„Es ist eine Person. Ein Titel, meine ich. Er wird in den eher, nun, frommen Kreisen verwendet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>„Kaoto? ... Oh, ja. Er ist vor einer Weile durch die Stadt gekommen. Hat im Tempel von Stalwart Halt gemacht. Das war kurz nachdem die Stadt entschieden hatte, ihn umzuweihen ... ihn Abydon zu weihen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>„Er schien nicht sehr erfreut darüber zu sein. Er war gekleidet wie ein Priester. Vielleicht nahm er Anstoß an der Entscheidung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>„Weißt du etwas über eine Abtei im Norden?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>„Ich habe davon gehört. Eine Festung der Ondriten, in der Besucher nicht gerne gesehen werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>„Kam sie von dort?“
+
+Der Gesandte deutet auf die tote Frau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>„Sie hat es nicht zurück geschafft, um den Angriff abzublasen, den sie geplant haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>„Diese Ondriten haben anscheinend auch eine Armee.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>„Was, noch jemand? Bei den Göttern, man hat das Gefühl, dass ganz Eora es auf die Batterie abgesehen hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>„Unwichtig. Weiß jemand, was ein Gezeitenbringer ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>„Vielleicht seid ihr nächstes Mal etwas vorsichtiger, wen ihr als Freiwillige auswählt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>„Warum sollten diese Ondriten die Readceraner vertreiben wollen? Wohl kaum, weil sie sich so um das Wohl Stalwarts sorgen. Vielleicht aus Angst vor Konkurrenz?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>„N-nächstes Mal? Hoffentlich gibt es kein nächstes Mal.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>„Ich gehe sie lieber fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>„Wer braucht schon einen Grund?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>„Jedenfalls habe ich ihre Pläne wohl durchkreuzt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>„Falls du meinst, du willst zu dieser Abtei gehen ... sei vorsichtig. Es gibt Geschichten von Händlern, die nach Norden ziehen und von seltsamen Bewachern verjagt oder sogar getötet werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>„Sie sind sehr geheimniskrämerisch. Du könntest natürlich versuchen, dich hineinzuschleichen? Ich bezweifle, dass du sonst willkommen wärest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>„Es klingt, als wäre dieser Gezeitenbringer es. Willkommen, meine ich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>„Sie führen irgendwas im Schilde, und ich werde herausfinden was.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>„Dann wollen wir mal ein paar Schädel einschlagen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>„Vielleicht kann ich sie überzeugen, dass ich derjenige bin, auf den sie gewartet haben.“</DefaultText>
+      <FemaleText>„Vielleicht kann ich sie überzeugen, dass ich diejenige bin, auf die sie gewartet haben.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>„Ich habe ihnen wohl ihre Arbeit abgenommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>„Ich werde unbemerkt hineingelangen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>„Ja ... und dort werde ich das 'Reliquiar' finden, mit dem ich ihre Armee zurückpfeifen kann.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>„Er ist ein Aumaua wie du. Und sehr höflich, wenn man bedenkt, dass er offenbar der Anführer einer fanatischen Sekte ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>„Wir haben uns in letzter Zeit wohl nicht als sonderlich gute Menschenkenner erwiesen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>„Er ist ein Aumaua. Großer Kerl. Sehr höflich, wenn man bedenkt, dass er offenbar der Anführer einer fanatischen Sekte ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Manehas Augen weiten sich. „Das klingt wie die Abtei des Gefallenen Mondes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>„Ja, das ist sie.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>„Ich mache mir mehr Sorgen darum, wer die 'Augenlosen' sind.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>„Die Augenlosen? Sie sind nur eine Redewendung. Wenn einem etwas nicht mehr einfällt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>„Dann sagt man 'die Augenlosen haben es mir wohl genommen'.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>„Ja, ja, aber es steckt eine Geschichte dahinter. Angeblich gehorchen sie der Fürstin der Klagen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>„Ondra befiehlt und sie erscheinen. Aus dem Nichts! Sie löschen Dinge vom Angesicht der Welt aus.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>„Wenn also etwas einfach verschwindet oder zerstört wird, ohne dass jemand es sieht, soll man immer Ondra danken, dass die Augenlosen nicht auch einen selbst geholt haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>„Was ist mit den Augenlosen? Hast du schon einmal von ihnen gehört?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>„Kennt jemand den Namen 'die Augenlosen'?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>„Wenn du die Readceraner aus diesen Bergen vertreibst, rettest du vielleicht viele Leben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

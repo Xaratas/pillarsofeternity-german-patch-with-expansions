@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_galawain_coalition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Außerdem spürst du die Essenz der Augenlosen in ihm brodeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>In Abydons grober, aber effizienter Gestalt erkennst du eine frappierende Ähnlichkeit zu den Augenlosen. Seine Glieder sind jedoch feiner gefertigt, seine Gelenke beweglicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>In Abydons grober, aber effizienter Gestalt erkennst du eine frappierende Ähnlichkeit zu den Augenlosen. Seine Glieder sind jedoch feiner gefertigt, seine Gelenke beweglicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Außerdem spürst du die Essenz der Augenlosen in ihm brodeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>„Warum hilfst du mir, Abydon? Ich dachte, du würdest zornig sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>„Ich dachte, du dienst der Bewahrung, Abydon.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>„Zornig? Du bist nicht mitschuldig an den Taten von Thaos. Deswegen wenden wir uns nun an dich.“
+
+Du spürst Abydons Verwirrung und, ja, auch die der anderen Götter. Wo die Essenz der Augenlosen auch verstreut wurde, du spürst nichts davon in Abydon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Sagani führt mit der Hand eine abschneidende Bewegung aus und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>„Sagen wir einfach, es ist gut, dass er sich nicht an dieses Zerfetzen von Seelen erinnert ... und belassen wir es dabei.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>„Essenz kann ebenso wenig in einem toten Körper verbleiben wie Öl in einem zerbrochenen Gefäß.“
+
+„Die gestohlenen Leben können zwar nicht bewahrt werden, aber ihre Essenz kann dazu dienen, das Überleben des dyrwäldischen Überrestes zu sichern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>„So leben die Erinnerungen und Visionen der Toten vielleicht weiter. Das ist die Natur der Bewahrung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

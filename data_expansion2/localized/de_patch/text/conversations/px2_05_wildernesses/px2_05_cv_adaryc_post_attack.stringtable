@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_adaryc_post_attack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Adaryc scheint einige Hiebe abbekommen zu haben. Auf seiner Schläfe prangt ein grün-violetter Bluterguss und seine Rüstung ist an mehreren Stellen verbeult.
+
+Er sieht recht benommen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Diese Dinger ... sie kamen von allen Seiten! Die Gesandten ... nein, DU hattest Recht. Die Visionen sind wahr.“
+
+Adaryc mustert dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Wir können sie besiegen, wenn wir zusammenarbeiten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Viel Glück, Kommandant.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Dann los. Flieh.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Ich führe den Rest unserer Truppen ... jedenfalls die, die bereit sind, mir zu folgen ... weiter den Berg hinauf. Wir müssen vorbereitet sein, falls ... wenn diese Monster zurückkehren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Ich habe schon gesehen, dass es kaum etwas gibt, was du nicht bewerkstelligen kannst.“
+
+Adaryc verneigt sich leicht und wendet sich der Straße zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Du hast gut gekämpft. Und es freut mich, dass du überlebt hast. Nicht vielen meiner Männer war dieses Glück gegönnt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Geh mir einfach aus dem Weg, Readceraner.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Überraschte Verwirrung zieht über Adarycs Gesicht. Seine Augen verhärten sich.
+
+Adaryc neigt steif den Kopf und macht wortlos auf dem Absatz kehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ebenfalls. Wenn diese Visionen wirklich wahr werden, dann steht uns das Schlimmste noch bevor.“
+
+Adaryc verneigt sich und wendet sich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Du hast gut gekämpft. Und es freut mich, dass du überlebt hast ... auch wenn ich den Verlust meiner Männer bedauere.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Sei auf der Hut. Wenn diese Visionen wirklich wahr werden, dann steht uns das Schlimmste noch bevor.“
+
+Adaryc verneigt sich und wendet sich zur Straße um.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

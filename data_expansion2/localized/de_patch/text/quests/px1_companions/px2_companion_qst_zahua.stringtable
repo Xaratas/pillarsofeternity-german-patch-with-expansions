@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_companions\px2_companion_qst_zahua</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Geheimnisse der Tacan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Folge dem Geisterlöwen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Beschaffe den Edelstein des Geistes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ernte Saft, um zu helfen, die Antilope zu beschützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fülle den Wasserschlauch mit Wasser aus dem Wasserfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erkunde die Insel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Reise in die Weißsteinsenke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Zahua hat darum gebeten, dass wir in der Weißsteinsenke gemeinsam einige „besondere Kräuter“ konsumieren, damit wir einen Geisterlöwen verfolgen können. Er glaubt, dass der Löwe für seinen verstorbenen Meister Ixepillo steht.
+
+Das Geheimnis, wie man zu einem erleuchteten Nalpazca-Krieger wird, dem Anitlei, ist mit Ixepillo gestorben. Wenn Zahua dieses Wissen retten kann, kann er sein Volk vielleicht doch noch aus der Sklaverei befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Löwe scheint uns an einen unbekannten Ort führen zu wollen. Wir müssen ihn einholen, wenn wir Antworten finden wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Löwe hat uns zu einem Geist geführt, der versucht, einen Edelstein an sich zu nehmen, den er auf einem Podest abgelegt hat.
+
+Die Leichen um das Podest herum scheinen alle von dem Geist zu stammen ... was vermuten lässt, dass die Aufgabe nicht so leicht ist, wie sie scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Wir sind auf eine verwundete Antilope gestoßen, die leichte Beute für Raubtiere abgeben würde.
+
+Im Norden steht ein großer Baum, dessen Saft einen Geruch absondert, der andere Tiere angeblich abhält.
+
+Wenn sie mit diesem Saft eingerieben wird, kann die Antilope vielleicht überleben, bis ihre Wunden verheilt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ein Mann, der unter großem Durst leidet, hat uns gebeten, ihm Wasser aus einem Wasserfall in der Nähe zu bringen. Er sagt, kein anderes Wasser könne seinen Durst stillen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Der Teich in der Mitte der Weißsteinsenke hat sein Wasser verloren und eine kleine Insel in seiner Mitte offenbart. Wir sollten sehen, was Zahua dort erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Zahua hat einen Ort östlich von Stalwart erwähnt, von dem er glaubt, dass er eine spirituelle Bedeutung für ihn hat ... die sogenannte Weißsteinsenke.
+
+Er hat darum gebeten, dass wir sie erforschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe den Edelstein von dem Podest geholt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich konnte den Saft ernten, um den die Antilope gebeten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Wasserfall schien mein Fleisch zu kochen, als ich versucht habe, den Wasserschlauch zu füllen. Das erwies sich aber als Illusion. Ich habe das Wasser, um das der Mann gebeten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Zahua scheint sich von den Fesseln der Vergangenheit befreit zu haben, die er jahrelang geleugnet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Zahua hat die Gruppe verlassen, um seine Suche fortzusetzen. Ich kann ihm nicht länger helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Zahua ist gestorben, ohne dass er seine Suche beenden konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Zahua hat mich gebeten, dass wir in die Wildnis östlich von Stalwart reisen. Er hat dort einen Ort gefunden, der in seiner Seele widerhallt. Nun hofft er, dort Antworten zu finden ... Antworten, die ihm helfen, sein Volk aus der Sklaverei zu befreien, wie er es geschworen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

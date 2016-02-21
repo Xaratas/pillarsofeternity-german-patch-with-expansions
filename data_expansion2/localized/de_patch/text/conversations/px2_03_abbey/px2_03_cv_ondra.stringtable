@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_ondra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>179</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Luft um dich herum ist plötzlich turbulent, gehässig. Ein kalter, feuchter Wind peitscht über dein Gesicht. Salzkristalle sammeln sich in deinen Nasenlöchern und den Falten um deine Augen herum. Der Boden unter dir wird blau-grau und glasig, schäumend und wogend, und als du fällst, klatschst du ins Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Gewaltige Wellen wirbeln dich herum. Irgendetwas schlängelt sich um deine Knöchel, packt dich mit unvorstellbarer Kraft und zieht dich hinab in schlammige Tiefen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Als das Ziehen aufhört, schwimmst du in der Mitte eines endlosen blauen Abgrunds. Du kannst weder die Oberfläche noch den Boden sehen. Du glaubst, dass du nach unten blickst, aber du kannst es nicht sicher sagen.
+
+Eine Stimme ertönt von überall gleichzeitig und die gewaltige Druckwelle jedes einzelnen Worts lässt dich taumeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Hinterhältiger Wurm! Grabräuber! Du, der du nach dem gräbst, was du nicht vergraben hast, sprich! Erkläre dich, auf dass ich über dich urteile.“</DefaultText>
+      <FemaleText>„Hinterhältiger Wurm! Grabräuberin! Du, die du nach dem gräbst, was du nicht vergraben hast, sprich! Erkläre dich, auf dass ich über dich urteile.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Ich suche einen Weg, eine Armee zu besiegen, die meine Heimat bedroht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ich wollte niemandem schaden. Ich bin auf der Suche nach Antworten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Ich tue nur, was ich tun muss, um zu überleben. Wenn man deswegen über mich urteilt ... nun, so sei es.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Ich suche nur die Toilette.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Wen nennst du hier 'Wurm', Hure?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Du suchst, was mir gehört! Was rechtmäßig verloren gegangen war!“ Durch den Ausbruch gerätst du in Bewegung und drehst dich im Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Deine Taten sprechen für sich. Die Batterie geöffnet. Die Esse entzündet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Du hast Seelen befreit, die sich vor mir versteckt hatten. Die mich bestohlen und sich meinem Urteil entzogen hatten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Du hast dich mit Seelen verschworen, die sich meinem Urteil entzogen hatten. Hast dafür gesorgt, dass sie mit dem verschmolzen sind, was sie mir gestohlen haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Du hast Seelen Gnade gewährt, die sich meinem Urteil entzogen hatten. Du hast sie an die Verteidigungsanlagen der Batterie gebunden. Es stand dir nicht zu, Gnade zu gewähren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Kein Sterblicher ist fähig zu entscheiden, ob er des Überlebens würdig ist.“</DefaultText>
+      <FemaleText>„Keine Sterbliche ist fähig zu entscheiden, ob sie des Überlebens würdig ist.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Die Zwerge haben ihr Schicksal selbst besiegelt. Die Esse war dazu bestimmt, vergessen zu werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Die Armee, die diese Zwerge ausgelöscht hat ... die Augenlosen ... sind sie dein?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Was meinst du damit, dass die Esse 'dazu bestimmt ist, vergessen zu werden'?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Was bedeutet es schon, ob man sich an etwas erinnert oder es vergessen wird? Beide Male liegt es in der Vergangenheit.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Warum sind die Knochen eines Gottes im Tempel eines anderen versiegelt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Und nun bist du wieder hier und gönnst den Begrabenen keinen Frieden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Warum hast du Ionni Brathr hinabgezogen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Du musst die Augenlosen zurückrufen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Weggehen] „Ich werde den Hammer in der Weißen Esse neu schmieden und die Augenlosen aufhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Was die Welt beiseite wirft, das nehme ich in meine Obhut. Auch, wenn etwas vergessen wird, ist es niemals allein, so lange es mich gibt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>„Sie waren verlorene Kinder. Im Stich gelassen. Auf einen Lebenssinn fixiert, der keine Bedeutung mehr hatte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Ich habe sie aufgenommen. Ihnen einen neuen Sinn gegeben. Ich habe sie nicht erschaffen, aber ja, sie sind mein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Wer hat die Augenlosen erschaffen, wenn nicht du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Welchen 'neuen Sinn' hast du ihnen gegeben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Du musst doch eine Vorstellung haben. Die metallenen Knochen, die Hände, die für das Bauen geformt sind?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Wer außer Abydon könnte solche Kinder zeugen? Sie waren seine Helfer. Sie haben auf Eora sein Werk verrichtet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Er hat ihre Knochen in der Weißen Esse geformt. Hat ihnen seinen eigenen Geist eingehaucht, wie ein Blasebalg die Flammen entzündet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Sie sind Abydons. Ich habe gesehen, wie sie geschmiedet wurden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>„Sie waren einst sein, das leugne ich nicht. Er hat sie als Helfer geschaffen, um sie auf Eora sein Werk verrichten zu lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Aber er ist seit langem Aufseher des Fortschritts auf der Welt. Dinge zurückzulassen war schon immer seine Art.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Ich gestatte ihm, seine Vergangenheit in meine Obhut zu übergeben, auf dass sie ihn nicht bremst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Du hast mir nicht die ganze Wahrheit über die Augenlosen gesagt, nicht wahr?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Sei vorsichtig, was du einer Göttin unterstellst, Sterblicher.“
+
+Das Wasser um dich herum ist plötzlich eiskalt. Du spürst, wie es die Wärme aus deinen Adern zieht.</DefaultText>
+      <FemaleText>„Sei vorsichtig, was du einer Göttin unterstellst, Sterbliche.“
+
+Das Wasser um dich herum ist plötzlich eiskalt. Du spürst, wie es die Wärme aus deinen Adern zieht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>„Abydon hat diese Kreaturen nicht im Stich gelassen. Du hast dafür gesorgt, dass er sie vergisst. Sonst könnte er sich noch daran erinnern, wie er gestorben ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„An manche Dinge, die vergessen wurden, darf sich niemals wieder jemand erinnern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Nicht nur um derer willen, die vergessen haben, sondern um der ganzen Welt willen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Es darf keine Zweifel geben, kein Mitleid, keinen Hinrichtungsaufschub.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>„Ich will dich noch etwas anderes fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Und wenn ich das getan habe, Sterblicher? Es schadet ihm nicht, zu vergessen.“</DefaultText>
+      <FemaleText>„Und wenn ich das getan habe, Sterbliche? Es schadet ihm nicht, zu vergessen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>„Im Gegenteil, es lindert eine Last. Würde Abydon sich erinnern, würde das die Harmonie zwischen den Göttern gefährden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>„Sie war nie dazu bestimmt, von Sterblichen verwendet zu werden. Solche Macht, solche Wahrheiten liegen in ihr. Sie kann nur Verderben bringen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>„Ihre Vorstellungen über die Verwendung der Esse haben sie zerrissen. Du hast es selbst gesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>„Sie hätten sich letztlich selbst ausgelöscht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>„Leider werden wir es nie erfahren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>„Ich verstehe dein Argument.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>„Du musst nur die Geschichte deiner eigenen Zivilisation betrachten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>„Versuche nicht, eine Göttin an der Nase herumzuführen, Wächter. Ich weiß, dass du seinen Tod gesehen hast. Ich spüre es, wenn mir etwas Vergessenes genommen wird.“</DefaultText>
+      <FemaleText>„Versuche nicht, eine Göttin an der Nase herumzuführen, Wächterin. Ich weiß, dass du seinen Tod gesehen hast. Ich spüre es, wenn mir etwas Vergessenes genommen wird.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>„Ich habe den Mond zu mir hinabgerufen. Ionni Brathr. Es war ... gegen seinen Wunsch. Er wollte keine Vernunft annehmen. Wollte nicht auf mich hören.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>„In seinem Wahnsinn hat er den Mond zertrümmert, aber es war nicht genug. Das größte der Fragmente stürzte dennoch auf das zu, was er zu schützen versuchte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>„Schließlich postierte er sich dort, wo es niedergehen sollte, und fing den Aufprall selbst ab.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>„Aber warum der Tempel? Warum die Geheimnistuerei?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>„Du lässt es klingen, als wärst du in dieser Geschichte die geistig Gesunde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>„Diese Zeit ist inzwischen vergessen, sein Tod gehört also mir. Alles, was er vor dem Aufprall war.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>„Aber du hast einen anderen Gott getötet. Sicherlich wissen die übrigen Götter das. Sicherlich muss Abydon es wissen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Eine Strömung rauscht durch das Kelpbett und drückt die Pflanzen beiseite wie Schösslinge in einem Orkan. Du wirst mit einem Schwarm Fische nach hinten getrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>„Du musst verstehen, dass er nicht immer so war, wie er heute ist. Er hat nicht nur seinen Körper zurückgelassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>„Was hat er versucht zu bewahren?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>„Die Zeit hat viel von dem vollendet, was ich begonnen habe. Das kann ich dir nicht sagen, Sterblicher, aus Angst, all dieses schwere Werk ungeschehen zu machen.“</DefaultText>
+      <FemaleText>„Die Zeit hat viel von dem vollendet, was ich begonnen habe. Das kann ich dir nicht sagen, Sterbliche, aus Angst, all dieses schwere Werk ungeschehen zu machen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>„Die anderen Götter wussten, was getan werden musste. Aber ihnen fehlte der Wille, es auch wirklich zu tun. Selbst Götter haben ihre emotionalen Bindungen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>„Alle Götter stehen vor einer großen Frage: Wie nah soll man seinen Untertanen kommen? Zu weit weg und sie verlieren die Hoffnung. Zu nah und man verliert sein Urteilsvermögen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>„Im Gegenteil, Sterblicher, ihre Arbeit muss fortgeführt werden. Es wurde viel zu viel aufgedeckt, während sie schliefen.“</DefaultText>
+      <FemaleText>„Im Gegenteil, Sterbliche, ihre Arbeit muss fortgeführt werden. Es wurde viel zu viel aufgedeckt, während sie schliefen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>„Sie lenken Aufmerksamkeit auf genau jene Dinge, die du gerne versteckt halten würdest. Ich habe sie in meinen Träumen durch den Dyrwald stürmen sehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>„Wer zu viel über die Weiße Esse weiß, der wird aus Eora fortgespült werden. Und dann werden die Augenlosen wieder ruhen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>„Es geht hier nicht um einen einzigen Stamm von Zwergen. Die Esse zieht inzwischen Besucher von überall her an. Die Augenlosen werden den Dyrwald auf den Kopf stellen. Man wird es niemals vergessen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>„Selbst, wenn es ist, wie du sagst ... man kann nichts tun.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>„Die Augenlosen denken nicht selbst. Sie kennen nur den Sinn, der ihnen gegeben wird. Sie ruhen nicht, ehe dieser Sinn erfüllt ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>„Das war dein Werk. Du musst einschreiten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>„Wenn Götter einschreiten, endet das selten gut. Unsere Berührung ist zu gewaltig. Die Welt zerfällt darunter.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>„Wenn du sie nicht aufhältst, werde ich es tun.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>„Deine Entschlossenheit ist lobenswert, aber die Augenlosen sind tausende. Stärke oder Glück allein werden dir nicht helfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>„Ich helfe dir, so gut ich es kann. Ich habe den Augenlosen befohlen, sich versteckt zu halten, wenn sie rasten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>„Wisse auch, dass sie gebaut wurden, um auf den Ruf des Hammers ihres Meisters zu hören. Wenn sie ihn schlagen hören, eilen sie zur Hilfe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>„Nimmst du dieses Stück seines Hammers von hier und schmiedest in Abydons Esse daraus ein Abbild des Originals, so kannst du sie vielleicht zu dir rufen. Sie aber zu zerstören, das ist etwas anderes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>„Kaoto sagte, man könne sie zurückpfeifen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>„Nur, wenn ihre Ziele keine Gefahr mehr darstellen. Die Readceraner wurden aufgehalten, bevor sie die Weiße Esse einnehmen konnten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>„Ich kenne einen Weg ... allerdings nur aus der Mitte der Höhle des Löwen heraus. Nur, wenn der Hammer ihres Meisters dir gehorcht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>„Wenn dir all das gelingt ... wenn du aus den Überresten von Abydons Hammer das Werkzeug wiederherstellen und es in ihr Versteck bringen kannst ... dann kann ich dich anweisen, was du dort tun musst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>„Deswegen bitten wir so oft Sterbliche um Hilfe. Sie führen unsere Wünsche mit größerer Sorgfalt aus.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>„Sei vorsichtig, wenn du dich dem See näherst. Als ich die Augenlosen für mich gefordert habe, habe ich dafür gesorgt, dass sie nicht zu entdecken sind, wenn sie schlafen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>„Ich habe den Verlust der Pargrunen beweint. Es war Pech, das sie hierhergeführt hat. Sie hatten es nicht verdient, so früh ihr Ende zu finden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>„Er hatte sich von Anfang an dem Fortschritt und dem Fleiß verschrieben. Aber auch der Bewahrung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>„Zu jenen Zeiten ließ er nie etwas los. Nichts durfte vergessen werden. Sein Wille war lang vor seinem Körper schon eisern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>„Erhalt. Deswegen ist er also so weit gegangen, sich dir zu widersetzen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>„Wir haben uns vor langer Zeit geeinigt, wir alle, den Verlauf der Zivilisation der Gestandenen nicht zu beeinflussen. Nicht unmittelbar. Nicht, wenn es sich vermeiden lässt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>„Hier ließ es sich nicht vermeiden. Das war ihm ebenso bewusst wie allen anderen. Er widersetzte sich nur aus Pflichtbewusstsein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>„Ich hätte es aufgehalten, wenn ich gekonnt hatte, aber da war es schon zu spät.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>„Du sagst einerseits, dass du Ionni Brathr herabrufen musstest. Und andererseits, dass du ihn für Abydon aufgehalten hättest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>„Er hatte etwas Besseres verdient. Von all den anderen Göttern war er der einzige, der handelte. Der zu seinen Überzeugungen stand.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>„Die Göttin der Unnachgiebigkeit muss diese Eigenschaft geschätzt haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>„Ich wusste, dass er meinen Plänen ablehnend gegenüberstand. Dass er bewahren wollen würde, was ich zu zerstören suchte. Ich wusste, dass es einen Bruch bedeuten würde, der sich vielleicht nie wieder kitten ließe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>„Aber ich hätte nie geglaubt, dass er so weit gehen würde. Dass es zur Folge hätte, dass ich ihn nie wieder so kennen würde, wie ich es einst tat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>„Wenn er sich nicht daran erinnert, gestorben zu sein, warum nicht wieder mit ihm beginnen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>„Weil das dazu führen könnte, dass er sich erinnert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>„Was einmal geschehen ist, darf nie wieder geschehen. Schlimm genug, dass ich dazu verdammt bin, mich daran zu erinnern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Die Turbulenzen um dich herum beruhigen sich. Schlick setzt sich ab wie ein langsames Ausatmen und die gewaltige dunkle Unterwasserlandschaft jenseits der Düsternis klart etwas auf.
+
+Vereinzelte Lichtstrahlen treffen von weit über dir auf grüngoldene Säulen aus Kelp, die aus den Tiefen aufsteigen und in der Strömung hin und her schwanken. Fische und Mollusken patrouillieren zu hunderten und tausenden in großen Schwärmen zwischen den Pflanzen. Sie ziehen mit wachsamen Augen an dir vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Das Meeresleben um dich herum bewegt sich aufgewühlt und rastlos umher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>„Die Augenlosen wurden geboren, um diese Aufgabe zu erfüllen. Auch, wenn ihr Schöpfer sich dessen nicht bewusst war. Sie kennen nur ein Ziel und sind unnachgiebig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>„Du meinst, sie töten alle, die sich an das erinnern, was du in Vergessenheit geraten lassen willst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>„Sie schrecken nicht vor dem zurück, was getan werden muss. Die Gestandenen stehen tief in ihrer Schuld für all die Sorgen, die sie verborgen haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>„Sie ändern ihren Kurs nun nicht mehr, weder für mich noch für sonst irgendjemanden. Es tut mir leid.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>„In deinem Fall, Wächter, bist du darüber schon längst hinaus. Und wenn es stimmt, was du sagst, dann gilt das auch für den Dyrwald.“</DefaultText>
+      <FemaleText>„In deinem Fall, Wächterin, bist du darüber schon längst hinaus. Und wenn es stimmt, was du sagst, dann gilt das auch für den Dyrwald.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>„Die Hilfe einer Göttin wäre äußerst willkommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>„Sie haben sich in einer Höhle eines großen Felsens versammelt, der von Ionni Brathr abgesplittert ist. Er liegt in einem überfluteten Krater, der Cayrons Narbe genannt wird.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>„Es wäre einfacher, wenn du es mir jetzt sagen würdest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>„Nichts, was ich sage, wird irgendeinen Sinn ergeben, bis du es mit eigenen Augen siehst, Sterblicher. Wir teilen nun einen gemeinsamen Sinn. Ich werde dich unterrichten, wenn die Zeit gekommen ist.“</DefaultText>
+      <FemaleText>„Nichts, was ich sage, wird irgendeinen Sinn ergeben, bis du es mit eigenen Augen siehst, Sterbliche. Wir teilen nun einen gemeinsamen Sinn. Ich werde dich unterrichten, wenn die Zeit gekommen ist.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>„Es gab Zeiten, in denen wir uns durch unser Mitgefühl haben leiten lassen. In denen wir zuließen, dass Erinnerungen Fortbestand hatten, die fortgewaschen gehörten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>„Zivilisationen sind dazu bestimmt, ein Auf und Ab zu durchleben. Gewährt man ihnen zu lange, in Macht oder Wissen zu bestehen, so beschwört man eine Katastrophe herauf.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>„Die anderen Götter ließen sich nicht zum Handeln bewegen. Ich tat ohne sie, was getan werden musste.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>„Du sprichst von den Engwithanern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>„Ich spreche von dem, was vergessen ist. Ich bin an jenem Tag gescheitert, aber mein Ziel wurde letztlich doch erfüllt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>„Ich werde die Erinnerung nicht aus den Tiefen ziehen, um bloße Neugier zu befriedigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Trigger Conv Node 157</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>„Gibt es sonst noch etwas, Sterblicher?“</DefaultText>
+      <FemaleText>„Gibt es sonst noch etwas, Sterbliche?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>„Du darfst fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>„Ich werde tun, was ich kann.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>„Und ich werde dich unterrichten, wenn die Zeit gekommen ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>„Ich wollte noch etwas anderes zu den Augenlosen besprechen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>„Was liegt dir auf dem Herzen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>„Dann haben Abydon und du eine einzigartige Verbindung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>„Das ... das haben wir wohl. Aber die Götter konnten schon immer viel größere Werke verbringen, wenn sie zusammenarbeiten.“
+
+In der Nähe siehst du, wie ein Hai durch einen Schwarm Fische schwimmt. Die Fische stieben auseinander, um dem Räuber auszuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>„Als die Pargrunen in die Weißmark kamen, waren sie friedlich. Sie hatten einen gemeinsamen Glauben und Sinn.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>„Wie viele Kriege hätten vermieden, wie viele gefallene Imperien hätten gerettet werden können, wenn die Anführer nur den Gegenstand ihrer Ambitionen hätten vergessen können?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>„Abydon hat es nicht verdient, hier zu sterben. Dieser Ort war das Mindeste, was ich tun konnte, um seinen Überresten ein wenig Frieden zu gönnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>„Das Mindeste, was du tun konntest?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>„Das Mindeste was ich tun konnte, nachdem ich sein Leben beendet hatte.“
+
+Das Licht verschwindet aus deiner Umgebung. Der Kelpwald wird zu einem Dickicht aus schwarzen Tentakeln, nackt und verschlungen wie Gefühle der Reue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>„Als ich Ionni Brathr hinabrief, blieben sie stumm. Selbst Abydon. Er wusste, dass es das Beste ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>„Aber dennoch versuchte er, es aufzuhalten. Vielleicht wusste ich tief in mir, dass er das tun würde.
+
+„Ich hätte damit rechnen müssen. Ich hätte es verhindern können.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>„Alles Wissen um eine so gewaltige Sache auszulöschen erforderte unvorstellbare Vernichtung. Der Östliche Abschnitt. Todesfeuer. Meine Lösung war die einzig gangbare.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>„Ich habe ohnehin schon zu viel getan.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>„Der Tod eines Gottes ist eine Katastrophe. Du lebst in den Nachwirkungen eines solchen Todes. Gewiss kannst du verstehen ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>„Du hast gesagt, dass Mitgefühl nicht im Weg stehen darf. Was ist mit dem deinen für Abydon?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>„Ich ... ja. Dafür habe ich ihn bewundert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>„Aber es ist mehr. Du hast ihn geliebt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Das Ziehen und Stoßen der Strömung wird lang und schwer, wie ein Seufzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>„Was er mir auch bedeutet haben mag, es war nicht dazu bestimmt, von Dauer zu sein. Unsere oberste Pflicht ist immer der Dienst an Eora.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>„Nein, Sterblicher. Es ist besser, dass wir existieren, wie wir jetzt sind.“</DefaultText>
+      <FemaleText>„Nein, Sterbliche. Es ist besser, dass wir existieren, wie wir jetzt sind.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>„Nein! Er darf es nicht wissen! Er darf es niemals wissen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>„Ich nehme, was ich kriegen kann.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>„Es könnte mich mein Leben kosten, aber ich werde tun, was ich tun muss.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>„Du bist verantwortlich für all das. Ich hoffe, du hast etwas Gutes anzubieten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>„Ich werde jedes Leben von Stalwart bis nach Caed Nua opfern, wenn es nötig ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>„Hoffen wir, dass es dazu nicht kommt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>„Viele meiner treuesten Anhänger stehen hier Wache. Sie werden dich nicht in die Nähe lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Anstelle einer Antwort kommt plötzlich eine Woge geschossen und schleudert dich aufwärts. Die Oberfläche über dir nähert sich schnell. Sie schimmert und wabert wie Quecksilber.
+
+Du landest triefend nass auf dem steinernen Boden des Reliquiars und ringst nach Atem, als hättest du stundenlang die Luft angehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Weggehen.] „Ach, vergessen wir es. Die Augenlosen sind nicht mein Problem. Soll jemand anderes sich darum kümmern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>„Nach allem, was du über sie erfahren hast, über die Weiße Esse, über Abydon ... sei versichert, sie werden dich finden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>„Nicht mit allen Armeen des Östlichen Abschnitts könntest du ihren Vormarsch aufhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>„Ich riskiere es.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>„Dann werde ich den Hammer neu schmieden und sie in ihrem Versteck aufsuchen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>„Und es gibt noch etwas viel Schlimmeres ... etwas, was viel furchterregender und gefährlicher ist als jeder Augenlose. Hoffen wir, dass du nicht seine Aufmerksamkeit auf dich ziehst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>„Und du kannst nichts tun?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>„Was?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>„Ich dachte mir doch, dass das alles zu leicht klingt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>„NOCH gefährlicher? Und das erwähnst du einfach so beiläufig?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>„Wenn nicht, dann sei versichert ... sie werden dich finden, wie sie die Pargrunen gefunden haben.“
+
+Eine unruhige Turbulenz stört die Ruhe wie ein unerwünschter Gedanke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>„Ich dachte, Beläfa und Cawldha wären die Monde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>„Ionni Brathr ist ihr jüngerer Bruder. Winzig, im Vergleich zu ihnen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>„Klein genug, dass die Welt seinen Aufprall überleben würde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>„Das stimmt wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>„Aha.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>„Die Entscheidungen von Göttern sind nicht weniger kompliziert als die von Sterblichen. Das ist kaum jemandem bewusst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>„Nun gut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>„Es ist gar nicht lange her, dass der Konflikt zwischen uns zu einer Katastrophe in eurer Welt führte ... und zum Tod eines der unseren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>„Eine Erinnerung ist nur ein Bild, das wir schaffen, um die Gegenwart zu verstehen. Sie trägt keine Wahrheiten oder Bedeutungen in sich als die, die wir ihr zuschreiben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>„Eine kleine Änderung daran ist ein geringer Preis für Frieden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>„Du warst einer Zivilisation zu nah? Von welcher sprichst du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>„Allemal besser als ein weiterer Krieg.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>„Es ist falsch, ihn zu täuschen. Von einer Göttin hätte ich mehr erwartet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>„Solange die Völker von Eora besser dran sind, wenn er sich nicht erinnert, ist das alles, was zählt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>„Erinnerungen täuschen. Sie verzerren, sie gestalten um. Das ist nichts anderes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>„Der Frieden zwischen den Göttern ist bereits brüchig. Einen weiteren Schock würde er nicht überstehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>„Oder vielleicht nur zum Spaß?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>„Ihnen einen Fels auf den Kopf fallen zu lassen dürfte das Problem beheben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Zahua lacht fröhlich. „Das ist sehr gut!“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

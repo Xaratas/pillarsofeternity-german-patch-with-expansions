@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_engrim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Engrim nickt dir zu und lächelt, als er dich erkennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Früher war das hier ein Ondra-Tempel.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Angeblich kommt Royses Tochter Mylla manchmal her.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Leben Sie wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Das arme Ding ist einsam. Die einzigen anderen Kinder in der Stadt sind ein paar Jahre älter. Und die anderen, die in ihrem Alter gewesen wären, waren alles Hohlgeburten.“ Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er lächelt freundlich. „Meistens sitzt sie nur dort am Feuer und zeichnet mit Kohlestückchen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Ihm die Zeichnung zeigen.] „Weißt du, wo das ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er hält das zerknüllte Papier vorsichtig, um die Kohle nicht zu verwischen. Nachdem er kurz nachgedacht hat, schürzt er die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ehrlich gesagt weiß ich nicht, was das sein soll.“ Er blinzelt und dreht das Bild dann, so dass er es andersherum sieht. „Ah, so schon eher. Eine Höhle und ... Bäume? Nein, das müssen die Adra-Steine in der Weißsteinsenke sein. Ich glaube, dort in der Nähe gibt es eine Höhle.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Jeder, der fleißig arbeitet, hat an Abydons Esse einen Platz.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Unsere Türen stehen immer offen, unsere Feuer brennen immer. Wie kann ich helfen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Ah, der Entzünder der Weißen Esse. Wir stehen tief in deiner Schuld, du hast hier Fleiß und Glaube wiederhergestellt.“</DefaultText>
+      <FemaleText>„Ah, die Entzünderin der Weißen Esse. Wir stehen tief in deiner Schuld, du hast hier Fleiß und Glaube wiederhergestellt.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Willkommen in Abydons Tempel.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er neigt den Kopf zur Seite. „Früher, als das hier noch ein vergessenes Städtchen war, das im Sterben lag.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Aber die Kleriker, die sich darum gekümmert hatten, gingen. Wie es für ihre Göttin üblich ist. Die Massen, die seitdem nach Stalwart gekommen sind, haben nach einer praktischeren Gottheit gesucht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Masca hat mich gebeten, ihren Schmiedehammer zu verzaubern, damit sie zu einem besseren Schmied wird.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Wenn das möglich ist, was Masca offenbar zu glauben scheint, würde mich das Ergebnis doch sehr interessieren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Du wirkst nicht sonderlich besorgt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Nun gut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Weil ich es nicht bin.“ Er lächelt leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Was tust du hier?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Ich führe diesen Tempel und leite die Akolythen in spirituellen und weltlichen Dingen an.“ Er deutet auf die Esse und die Ambosse. „Die Anhänger anderer Götter beten oder meditieren. Wir Abydonier ehren unseren Gott durch den Akt des Schmiedens.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

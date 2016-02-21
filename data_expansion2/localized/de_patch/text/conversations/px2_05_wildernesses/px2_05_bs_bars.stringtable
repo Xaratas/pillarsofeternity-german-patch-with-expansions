@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_bars</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Ziegel um diese Gitterstäbe herum sind im Laufe der Jahrhunderte weggebröckelt und es sind recht große Lücken entstanden.
+
+Auf der anderen Seite geht es recht tief hinab, aber das Gebiet am Boden scheint frei von Hindernissen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Dich hindurchzwängen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Noch ein wenig hierbleiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du ziehst dich auf die Kante hinauf. Die Steine unter deinen Füßen wackeln, halten aber gerade eben so. Du zwängst dich durch die Stäbe ins Freie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

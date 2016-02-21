@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_si_rising_machine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In diese tiefe, halbrunde Tafel ist ein Gegenstand eingelassen, der wie ein Behälter zum Verspritzen von Weihwasser aussieht. In diesem Kontext ähnelt der Gegenstand jedoch eher einem Hebel.
+
+In die Wand dahinter sind Bilder eingraviert – eines zeigt eine aufsteigende Welle, eines ein offenes Tor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Gegenstand auf die aufsteigende Welle zeigen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Gegenstand auf das offene Tor zeigen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ganz schwach hörst du am Rande deiner Wahrnehmung ein leichtes Wasserrinnsal. Es steigert sich beständig zu einem rauschenden Sturzbach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>In der Ferne hörst du das mechanische Schnappen eingerosteter Schlösser und das Knarzen von Eisenscharnieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Behälter löst sich, als du daran ziehst. Du steckst ihn ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Behälter löst sich, als du daran ziehst. Du steckst ihn ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

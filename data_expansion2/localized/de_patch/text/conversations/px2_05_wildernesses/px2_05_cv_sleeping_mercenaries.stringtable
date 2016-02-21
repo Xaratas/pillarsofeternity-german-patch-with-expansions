@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_sleeping_mercenaries</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine kleine Gruppe von Bleichelfen liegt schlafend auf diesen Pritschen. Trotz der Kälte scheinen sie tief und fest zu schlafen, ihr Atem geht ruhig und gleichmäßig.
+
+Einer von ihnen schnarcht heftig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ihnen leise die Kehlen durchschneiden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Sie in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du legst deine Hand über den Mund des ersten Elfen, stichst deine Klinge in seine Kehle und ziehst sie mit einer ruhigen Bewegung seitwärts. Seine Kräfte verlassen ihn so schnell, dass er sich kaum wehren kann und fast lautlos stirbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du schleichst dich mit dem Messer in der Hand vorwärts ... und im letzten Moment schlägt der Elf plötzlich die Augen auf und blickt dich an.
+
+Du rammst ihm schnell das Messer in die Kehle – aber nicht, bevor sein erschreckter Schrei durch das Lager hallt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du lässt den übrigen Elfensöldnern dieselbe Behandlung zuteil werden. Lautlos arbeitest du dich durch die Reihe der schlafenden Männer vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deine Gefährten tun es dir gleich und setzen den Leben der schlafenden Söldner ein Ende, bevor einer von ihnen schreien kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die übrigen Söldner springen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Schnell einen der schlafenden Männer niederstrecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du trittst vor, packst den nächsten Elfen an den Ohren und drehst seinen Kopf ruckartig zur Seite ...
+
+Es ertönen ein scharfer, abgehackter Schrei und ein grauenhaftes Knacken. Der Elf sackt zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du trittst vor, zielst und schwingst deine Waffe gnadenlos nach unten. Du hörst ein nasses Klatschen, als der Hieb den Söldner trifft ... und auch seine Kameraden hören es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du trittst vor, packst den nächsten Elfen an den Ohren und versuchst, seinen Kopf zu drehen ...
+
+Er windet sich reflexartig aus deinem Griff und stößt einen Warnschrei aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

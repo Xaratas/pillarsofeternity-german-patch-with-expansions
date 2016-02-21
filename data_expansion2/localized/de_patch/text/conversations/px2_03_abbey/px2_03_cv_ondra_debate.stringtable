@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_ondra_debate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Erinnerungen sind die Geister der Vergangenheit. Gerade du solltest wissen, welchen Einfluss sie auf die Gegenwart haben, Wächter.“</DefaultText>
+      <FemaleText>„Erinnerungen sind die Geister der Vergangenheit. Gerade du solltest wissen, welchen Einfluss sie auf die Gegenwart haben, Wächterin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Vielleicht mehr, als ich eingestehen mag.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Sterbliche messen den Wert ihrer Leben an der Erinnerung. 'Wer wird sich an mich erinnern? Wie lange, bis ich vergessen bin?'“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Die Erinnerung beherrscht jeden Gedanken, beeinflusst jede Entscheidung.
+
+„Sie kann Leidenschaft nähren. Verständnis. Liebe. Oder sie kann Besessenheit schaffen. Wahnsinn.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Du hast auf deinen Reisen viele Seelen gesehen, die von ihr gepeinigt werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Nämlich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„So wie der alte Wächter, der mit seiner Geburt unaussprechliche Verbrechen geerbt hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Sie könnten frei von ihren Lasten sein ... wenn sie nur vergessen könnten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Ihre Probleme sind weitaus tiefgehender als nur Erinnerungen. Einfach nur zu vergessen lässt sie nicht verschwinden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Für manche vielleicht. Aber für viele ist die Erinnerung das Einzige, was davon noch bleibt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Du hast deinen Standpunkt dargelegt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Schlimm genug, dass die Vergangenheit festgelegt ist. Es ist besser, dass wir nicht noch darüber nachdenken müssen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>„Ich weiß noch immer nicht, ob ich dir zustimme, aber wie dem auch sei.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Deine Vergangenheit hat dich noch nicht überwältigt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Oder die junge Frau, die sich in Farnheim hat einweisen lassen – aus Liebe zu Dingen, die sie sich erinnert, einmal besessen zu haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Oder der Fischer, dessen Leben mit dem Tag, an dem er seine Schwester tötete, zu einer Strafe wurde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Oder der glanfathanische Junge, für den ein altes Medaillon mehr wert war als all die Früchte seiner Arbeit.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Oder der ehemalige Schmelztiegelritter, dessen politische Blamage ihn nur noch Verbitterung gegenüber jener Organisation empfinden ließ, deren Ideale er einmal über alles gestellt hatte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Oder der Dorfbewohner, dessen Schuldgefühle ihn in einen Tempel führten, auf der Suche nach den Priestern, die er durch sein Schweigen verdammt hatte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Oder der vielversprechende Beseeler, dessen Scham seine Ethik zerstörte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Was soll das denn bedeuten?!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Wir müssen sie tragen, ob wir wollen oder nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Na toll, noch mehr Geister.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Erinnerungen? Geister? Sieh nicht mich an. Ich bin vollkommen geistig gesund.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Wie dem auch sei, ich muss dein moralisches Paradigma zurückweisen. Es erzeugt eine unvollständige Vorstellung des Guten, die nicht berücksichtigt, wie wichtig es ist, die Seele zu prüfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Es ist viele Jahre her, dass das tacanische Volk assimiliert wurde. Warum sollte euer Nalpazca-Krieger also noch immer hoffen, das Volk befreien zu können?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Es ist die Aufgabe des Tacan-Häuptlings, sich um sein Volk zu kümmern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Diese Erinnerung ist das Band, das dich festhält, Nalpazca. Wie frei dein Verstand ohne sie wäre.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Die Feuer von Kaltmorg sind vor langer Zeit verloschen. Doch Rachlust brennt noch immer im Verstand dieses Konstrukts.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Was ist denn Rache, außer ein von der Erinnerung genährtes Feuer, das die Seele verzehrt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Eine lustige Art, Zeit totzuschlagen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Kaltmorg ist nur noch eine Erinnerung. Wenn es nicht mehr in ihre Gedanken eindringen würde, nicht mehr ihre Träume heimsuchen, könnte sie ein Leben nach ihrer eigenen Wahl leben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Das Licht, das von der Oberfläche hinab dringt, scheint sich auf Maneha zu konzentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„Komisch, ich erinnere mich, dass ich mich schlecht gefühlt habe. Aber ich weiß nicht mehr, warum. Als hätte man Narben von Wunden, an die man sich nicht erinnert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Die Quelle dieser Wunden ist längst fort. Die Erinnerung war alles, was dir noch schaden konnte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Auch, wenn Probleme überwunden wurden, kann die Erinnerung daran der Stein sein, der einen in die Tiefe zieht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Die Erinnerung an dein Scheitern scheint deine Entwicklung nicht gehemmt zu haben, Zahua.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Zahua hat durch seine Erinnerungen gelitten, und das hat ihn stärker gemacht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Er hat sein Volk enttäuscht und seine Trauer verdient.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>„Sie hat Dinge erlitten, die zu schlimme Erinnerungen verursachten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Kaltmorg ist jetzt Teil ihrer Identität. Es verleiht ihr Sinn und Zweck.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>„Mich schaudert, wenn ich daran denke, was das beinhaltet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„Ich würde meine eigenen Erinnerungen hinter mir lassen, wenn ich könnte. Aber sie suchen mich heim, ob ich mich an sie erinnere oder nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>„Die Erinnerung war von Wert, trotz des Schadens.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>„Verantwortung greift tiefer als Erinnerung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Tatsächlich? Und was lässt dich glauben, du würdest es besser wissen als eine Göttin, Sterblicher?“</DefaultText>
+      <FemaleText>„Tatsächlich? Und was lässt dich glauben, du würdest es besser wissen als eine Göttin, Sterbliche?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Deine Annahme, dass Seelenfrieden gleichbedeutend mit dem übergreifenden Guten ist, ist falsch. Wir wissen auf empirischer Basis, dass Pein und innerer Aufruhr die Stärke ebenso oft anfachen wie ersticken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Das klingt kaum nach einer Verbesserung gegenüber innerem Frieden. Ist das schon dein ganzes Argument?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Nein. Ich sage, dass das Leben ein Rahmenwerk ist, innerhalb dessen die Seele geprüft wird. Und dass eine ungeprüfte Seele verkümmert, weil sie nicht verwendet wird. Es ist daher besser, die Seele zu prüfen, auf dass sie aufblüht. Wenn sie bricht, ist sie nicht schlechter dran, als wenn sie überhaupt nicht geprüft worden wäre.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>„Mein Meister hätte es nicht besser sagen können.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Durance gluckst. „Vielleicht besteht doch noch Hoffnung für dich, Wächter.“</DefaultText>
+      <FemaleText>Durance gluckst. „Vielleicht besteht doch noch Hoffnung für dich, Wächterin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Zahua nickt zustimmend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Deine Argumentation ist ... interessant, Sterblicher. Vielleicht liegt etwas Wahrheit darin. Aber es ist nicht mein Wille, einfach nur Gutes zu tun.“</DefaultText>
+      <FemaleText>„Deine Argumentation ist ... interessant, Sterbliche. Vielleicht liegt etwas Wahrheit darin. Aber es ist nicht mein Wille, einfach nur Gutes zu tun.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>„Diese zerbrochenen Seelen, die deine Prüfung nicht bestehen ... sie sind es, die ich am meisten liebe, denn kein anderer Gott will sie.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>„Das stimmt wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>„Warte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>„Ihre Last besteht aus einem Grund. Warum sollten sie vergessen dürfen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>„Viele dieser Seelen werden ohne eigenes Verschulden mit dieser Last belegt. Andere rehabilitieren sich, stellen dann aber fest, dass ihre Erinnerungen ihnen nicht vergeben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>„Wenn es doch nur so einfach wäre.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>„Dann verstehst du, wie wertvoll ein Neuanfang ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>„Die kleinen Gnaden, um die sie mich bitten, gewähre ich immer.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>„Das habe ich früher geglaubt. Aber wenn man etwas den Rücken zukehrt, verschwindet es nicht plötzlich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>„Darauf warte ich nun schon fast mein gesamtes Leben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>„Es macht es anderen nur leichter, dir ein Messer in den Rücken zu rammen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>„Aber manchmal fürchte ich, dass das Vergessen mehr verändert, als mir lieb ist. Oder schlimmer noch, dass es gar nichts verändert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Das Licht, das von der Oberfläche hinab dringt, scheint sich auf Maneha zu konzentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>„So lange sie nicht eines Tages wieder aufreißen, kann ich damit leben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>„Du hast deine verstörenden Erinnerungen beiseite gelegt, als du die Gelegenheit dazu hattest. Und du hast den Frieden gefunden, nach dem du gesucht hast.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>„Würde dein Leben nicht einen besseren Verlauf nehmen, Aumaua, wenn die Fehler eines anderen Lebens dich nicht hinabziehen würden?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>„Verantwortung ist ein anderes Wort für Schuld. Denn sollten nicht jene, die Wiedergutmachung geleistet haben oder mit der Last anderer geboren wurden, sollten sie nicht befreit werden?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>„Es gibt keine Hoffnung mehr darauf, die Tacan zu befreien. Dieses Scheitern ist jetzt ein Teil von Zahua.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>„Vielleicht. Wenn ich frei davon gewesen wäre, ob ich dann wohl früher gefunden hätte, wonach ich suchte?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Zahua lächelt sanft und nickt zurück, während er offenbar über deine Worte nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Zahua atmet tief durch und blickt nach unten. Er nickt, sagt aber nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>„Belassen wir es dabei. Wir haben andere Dinge zu besprechen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>„Ja, das ist alles. Ich wollte dich noch etwas anderes fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>„Ihr Leben wäre völlig anders verlaufen, daran besteht kein Zweifel.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>„Wir verwechseln so oft die Erinnerung mit der Identität. Aber die Erinnerung ist, wer wir gewesen zu sein glauben, nicht wer wir tatsächlich sind.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>„Sie hätte jetzt eine andere Identität, ein friedlicheres Leben ... wenn sie vergessen könnte, was sie auf diesen Pfad geführt hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>„Aber ich würde meine liebste Gesprächseröffnung verlieren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

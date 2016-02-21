@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_lafda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Lafda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Lafda und nimm ihren Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Lafdas Kopf zu Asca in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nachdem sie sich als Ondra-Priester ausgegeben hatten, sind Lafda und ihre Bande von Dieben aus dem Dorf Stalwart geflohen. Die Dorfbewohner haben ein Kopfgeld auf Lafda ausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lafda und ihre Bande von Dieben sind aus der Weißmark geflohen. Sie wurden in Ondras Geschenk gesichtet. Vermutlich versuchen sie, aus dem Dyrwald zu entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Lafda und ihre Diebesbande besiegt. Asca in Stalwart wird sich über einen Beweis freuen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Lafdas Kopf zu Asca in Stalwart gebracht und einen Dank dafür erhalten, dass ich die Diebin zur Rechenschaft gezogen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

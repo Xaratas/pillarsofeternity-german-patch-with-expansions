@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_fort_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Das war unhöflich, selbst für hiesige Verhältnisse.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Ohne ihre Festung wären sie nicht so mutig. Oder ihre Armee.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Setzen wir einfach das ganze Ding in Brand, Wächter. Überlassen wir Magran den Rest.“</DefaultText>
+      <FemaleText>„Setzen wir einfach das ganze Ding in Brand, Wächterin. Überlassen wir Magran den Rest.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Ich spüre eine seltsame und ... verstörte Präsenz im Inneren. Sei auf der Hut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Sogar Wölfe haben mich schon freundlicher empfangen. NACHDEM ich ihre Weibchen verführt hatte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Die suchen Streit. Sollen wir uns anderswo umsehen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Die Readceraner waren schon immer so kalt wie diese Berge. Da fühlen sie sich sicher wie zuhause.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Das weckt in mir das Verlangen, hier alles abzufackeln. Noch mehr als gewöhnlich, meine ich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Man sieht die Furcht von ihren Köpfen aufsteigen wie Dampf.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Readceraner halten nicht viel von Raffinesse.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

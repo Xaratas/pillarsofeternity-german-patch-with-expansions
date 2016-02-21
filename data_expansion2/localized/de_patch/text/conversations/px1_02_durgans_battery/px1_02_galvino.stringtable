@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_galvino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>„Ich muss dich beglückwünschen. Ich hatte keine Ahnung, dass deine Arbeit in der Batterie eine Armee anlocken würde.“ Er hebt einen Arm zum Gruß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>„Mit etwas Glück führen sie zu Ende, was die Teufelin in Stalwart begonnen hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>„Du wanderst also immer noch umher. Vielleicht hast du auch diese seltsamen, plötzlichen Lawinen gesehen. Oder diese Spuren im Schnee, zu groß für jeden Oger.“ Er hebt eine Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>„Da bin ich froh um diese Werkstatt im Keller.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>„Du hättest sie zerstören sollen!“ Galvino verschränkt zornig die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>„Jetzt höre ich den ganzen Tag das Dröhnen von Hämmern und das Rattern von Loren! Ein ständiges Kommen und Gehen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>„Ich kann nicht arbeiten und nicht schlafen. Ich bin hergekommen, um diesen Postenagos zu entkommen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

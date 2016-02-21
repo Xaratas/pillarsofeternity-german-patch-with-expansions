@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_rabble_rouser</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>177</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du gehst dem Lärm nach und siehst einen Pulk aufgebrachter Dorfbewohner. Sie streiten untereinander und schleudern einer einsamen Gestalt, die über ihnen steht, Fragen und Forderungen entgegen.
+
+Ein junger Mann steht auf einem Felsvorsprung und hält seine geballte Faust in die Luft. Dampf steigt aus seinen zottigen Haaren und von seinem geröteten Gesicht empor, während er in die Menge ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Eine Woche ist es her, dass unsere Leute diese Tore durchquert haben. Eine Woche, seit der Eisenflegel sie entführt hat.“
+
+Du siehst vereinzelte nickende Gesichter in dem Pulk der Dorfbewohner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Aber wir warten hier hinter unseren robusten neuen Mauern und verstecken uns in unseren wieder aufgebauten Häusern. Wir haben nichts getan.“ Er schlägt seine Faust mit einem lauten Klatschen in seine Handfläche.
+
+Die Menge explodiert, ein einziges Chaos aus erhobenen Fingern und spitzen Worten.
+
+Eine Frau tritt vor und fixiert den jungen Mann mit ihrem Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Wegen dem Eisenflegel laufen die Leute Sturm gegen Ausländer, und zwar nicht nur gegen Readceraner. Ich hoffe, dass sich alle etwas beruhigen, wenn er erst einmal Geschichte ist.“ Sie blickt dich stirnrunzelnd an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Deryan bemerkt dich und seine Augen weiten sich vor Überraschung.
+
+Er blickt nach links und nach rechts und hält sich einen Finger an die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>„Bist du hier, um Zuflucht zu suchen? Wir werden die Tore bald verbarrikadieren.“ Nervöse Energie steigt aus der Stadt auf wie Dampf aus einer heißen Quelle. Deryan beobachtet es alles mit gerunzelter Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Stalwart wird größer als jemals jemand geplant hatte, wenn auch nicht aus den erwarteten Gründen.“ Deryan sieht entspannter und zufriedener aus, als du ihn je gesehen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Wir haben unsere Mannstärke in der Weißen Esse verdoppelt.“ Er sieht grimmig entschlossen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ein Dutzend Köpfe dreht sich in deine Richtung. Die Neugier der Dorfbewohner verwandelt sich in Zorn, als sie dich erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ein Dutzend Köpfe dreht sich in deine Richtung. Die Dorfbewohner erkennen dich und ihre Augen weiten sich voller Hoffnung und Ehrerbietung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Worum geht es überhaupt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>„Du hast etwas von einer Festung und einem 'Eisenflegel' erwähnt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„Ein Haufen gieriger Ausländer, die uns wegnehmen wollen, was uns gehört!“
+
+Es ertönt wieder ein Aufschrei diesmal aber stiller und unsicherer.
+
+Deryan geht rasch dazwischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Sind ein paar Wochen, nachdem du die Batterie geöffnet hast, aufgetaucht und haben verlangt, dass wir ihnen die Weiße Esse überlassen.“ Er weicht deinem Blick aus und schabt mit seinem Stiefel an einem Felsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Unsere Mannschaft in der Batterie hat die Türen verriegelt und dem Eisenflegel gesagt, er solle zurück nach Readceras gehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Also haben wir ein Komitee geschickt, um an ihre Vernunft zu appellieren. Aber das war vor einer Woche und seitdem haben wir unsere Leute nicht mehr gesehen.“
+
+Ein leises Raunen rollt durch die Menge. Deryan zögert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Das kann nur eines heißen.“
+
+Er verzieht das Gesicht, als die verängstigte, streitende Menge ihn wieder übertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Es ist eine kleine Armee aus Readceras. Sie nennen sich der Eisenflegel.“
+
+Als Deryan den Namen erwähnt, verstummt der Rest der Menge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Er hat Recht. Ihr müsst euren Besitz verteidigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Schlimmer als jetzt? Wo jeder Tunichtgut und Taugenichts an unsere Tore hämmert?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Wer bist du, uns zu sagen, wie wir uns verteidigen müssen? Du bist zwei Monate nicht hier gewesen!“
+
+Mehrere der anderen grunzen und johlen zustimmend. Du spürst, wie die Stimmung umzuschlagen beginnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>„Es war doch überhaupt erst deine Idee, unsere Leute zu dieser verdammten Festung zu schicken! Ohne dich und die anderen Blutsauger, die mit dir hochgekommen sind, wären wir gar nicht in dieser Lage!“ Der neue Ankläger löst einen Chor zorniger Rufe aus.
+
+Deryan hebt beschwichtigend die Hände, aber der Zorn des Pulks schaukelt sich immer weiter auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Weiter zuhören.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Aufhören, alle zusammen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>„Genug! Genug!“ Deryan versucht die Menge zu beruhigen, aber sie ist nicht mehr zu bremsen.
+
+Er lässt die Augen über den Pulk schweifen. Schweiß rollt seine Schläfen hinab. Als sein Blick auf dich fällt, deutet er mit seinem Finger auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Ihr wollt alle Ausländer aus eurer Stadt werfen? Sagt das dem Helden der Weißen Esse.“</DefaultText>
+      <FemaleText>„Ihr wollt alle Ausländer aus eurer Stadt werfen? Sagt das der Heldin der Weißen Esse.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Ganz ruhig. Ich bin hier, um zu helfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>„Schluss mit dem Geschrei. Wer erklärt mir in aller Ruhe, was hier los ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>„Die Weiße Esse ist eure Leben nicht wert. Gebt sie auf.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Könnt ihr die Weiße Esse nicht mit den Readceranern teilen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>„[Player Name], du bist hier vielleicht der Einzige, der noch unbeliebter ist als ich. Aber wenn jemand in diese Festung gelangen und eine Armee besiegen kann, dann du.“</DefaultText>
+      <FemaleText>„[Player Name], du bist hier vielleicht die Einzige, die noch unbeliebter ist als ich. Aber wenn jemand in diese Festung gelangen und eine Armee besiegen kann, dann du.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Er nickt. „Der Eisenflegel hat ein Stück Wald nördlich von Durgans Batterie gerodet und dort seine Festung errichtet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Was ich sagen will: Wenn jemand mit einer Armee fertig wird, dann du.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Also gut, ich helfe dir.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Ich habe eigene Angelegenheiten mit dieser Armee zu klären.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Die Festung wird gut bewacht sein. Wenn du es schaffst, unbemerkt einzudringen, hast du es deutlich leichter.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>„Wichtig ist es vor allem, den Kommandanten zu beseitigen. Die übrigen Soldaten werden dann fliehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>„Aha.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Ich glaube, ich habe von dieser Armee geträumt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>„Was genau hast du gesehen?“ Er beobachtet dich mit weit geöffneten, fragenden Augen. Ein Murmeln zieht durch die Menge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>„Stalwart wurde zerstört.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Lügen] „Ihr habt euch zusammengetan und euch verteidigt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>„Der Traum war unklar.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>„Vergesst es. Ich muss los.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>„Wir sind nur Bergarbeiter und Fischer!“
+
+Panik macht sich allmählich in der Menge breit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>„Aber die Weiße Esse ist unser Geburtsrecht! Oder hast du vergessen, wie schlimm es vorher war?“
+
+Die Hälfte der Menge klatscht und ruft „Hört, hört!“ ... die andere verschränkt die Arme und blickt stirnrunzelnd in den Schlamm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Dorfbewohner rufen und grölen lauter als je zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>„Nach dem, was sie mit unseren Nachbarn gemacht haben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>„Schickt Deryan und die anderen Neuankömmlinge! Sollen sie sich ihren Platz hier verdienen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>„Bitte, Leute!“
+
+In dem brüchigen Schweigen, das folgt, wenden die anderen sich zu Deryan und blicken ihn an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>„Wir mögen unsere Differenzen haben, aber wir müssen mit der Armee fertig werden, die vor unseren Toren steht.“
+
+Er blickt wieder zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>„Wie dem auch sei, wir stehen vor einer schweren Aufgabe.“ Er blickt die Menge eindringlich an. Grummelnd beginnt sie, sich aufzulösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>„Dann weißt du von dem Eisenflegel? Du wirst ihn aufhalten?“ Die anderen Dorfbewohner flüstern und tuscheln. Ihre Hoffnung ist durch Furcht verwässert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>„Und seit ich hier bin, arbeite ich Seite an Seite mit euch! Fangt nicht wieder damit an.“
+
+Eine Handvoll anderer nickt zustimmend. Sie zucken aber zusammen und verziehen das Gesicht, als ein weiterer Dorfbewohner sich einmischt und mit erhobenem Zeigefinger auf den jungen Redner zeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>„Sie sind nicht die einzigen Blutsauger hier!“ Der Dorfbewohner blickt zornig zu Deryan hinauf, aber die meisten anderen ignorieren ihn inzwischen schon.
+
+Deryan erhebt seine Stimme über den Lärm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>„Die können nur eins, Kriege anfangen!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>„Zeig mir einfach, wo die Festung liegt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>„Wir haben eure Straßen geräumt und diese Stadt wieder bewohnbar gemacht! Was müssen wir denn noch beweisen?“
+
+Rufe der Zustimmung und des Protests ertönen aus der Menge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>„Ich will dich etwas fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>„Leben Sie wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Er zuckt mit den Schultern. „Ich bin noch nicht lange hier, aber ich sage dir, was ich weiß.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>„Was hat dich nach Stalwart geführt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>„Erzähl mir etwas über den Eisenflegel.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>„Geht es um diese Festung in der Nähe der Batterie?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>„Ich arbeite bereits daran.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>„Sie haben von der Weißen Esse gehört und sind gerannt gekommen. Genau wie viele von uns.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>„Wenn du schon unterwegs bist, sieh bei der Batterie vorbei. Wengra und ihr Trupp reparieren immer noch die schweren Kanonen, aber an anderer Stelle haben sie schon große Fortschritte gemacht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>„Übrigens habe ich gesehen, wie Wengras Trupp Probeschüsse vom Turm der Batterie aus abgegeben hat. Das haben wir wohl dir zu verdanken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>„Arbeit. Ich war Schuster in Neu-Yarma, aber die Stadt wurde jedes Jahr überfüllter. Leute vom Land, die dem Vermächtnis entkommen wollten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>„Vor ein paar Monaten habe ich gehört, dass Stalwart neuen Siedlern Land und eine Chance bietet. Also dachte ich, ich probiere mein Glück hier.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>„Eine Weile schienen die Leute froh zu sein, frisches Blut hier zu haben. Aber das änderte sich, als immer mehr und mehr von uns kamen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>„Der Unterschied ist nur, dass sie Belagerungswaffen mitgebracht haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Weggehen] „Das ist alles.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Die Dorfbewohner japsen und flüstern aufgeregt untereinander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>„Dann hoffen wir mal, dass es noch nicht zu spät ist, das zu verhindern.“ Seine Stimme ist fest, aber sein Gesicht ist aschfahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Die Dorfbewohner wispern und blicken einander mit den ersten Anzeichen aufkeimender Hoffnung an.
+
+Der junge Mann stößt einen tiefen Seufzer aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>„Dann hoffen wir, dass Träume nicht nur Schäume sind.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>„Natürlich. Wir sind einfach nur dankbar, dass dieser Traum dich wieder hierhergeführt hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>„Wir müssen froh um jede kleine Verteidigungsmöglichkeit sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>„Ich dachte, du möchtest vielleicht sehen, wie sehr die Dinge sich schon entwickelt haben.“ Er zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>„Stattdessen haben sie mitten im Wald eine Festung errichtet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>„Soweit wir wissen, stammen sie aus dem Grenzgebiet um die Kleine Beuge. Eine der ärmsten Gegenden des Landes.“
+
+„Das will in Readceras etwas heißen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>„Es scheint jede Menge Spannungen in der Stadt zu geben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Er lacht humorlos. „Bevor du Durgans Batterie geöffnet hast, hatte Stalwart kaum genug Bewohner, um die Stadt am Leben zu halten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>„Ein paar von uns sind gekommen, als wir von der Weißen Esse gehört haben. Aber jetzt würden uns die Alteingesessenen wohl am liebsten wieder zurückschicken.“
+
+Er fängt an, Punkte an seinen Fingern abzuzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>„Wir nehmen ihnen die besten Arbeitsplätze weg. Wir erweisen Ondra keinen Respekt. Es ist zu wenig Platz in der Stadt.“ Er schüttelt mit dem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>„Ich verstehe es. Stalwart verändert sich. Das Gleiche ist in Neu-Yarma passiert, als immer mehr Leute vom Land in die Stadt gezogen sind.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Er nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>„Du hast schon viel für Stalwart getan, [Player Name]. Die meisten von uns wären ohne dich gar nicht hier.“
+
+Er stockt und blickt drein, als würde er seine Worte am liebsten in seinen Mund zurückstopfen.
+
+Nach einer unangenehmen Pause schluckt er und fährt fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>„Aber sie können uns nicht immer die Schuld an allem geben, was hier schiefläuft.“ Er seufzt und eine dampfende Wolke entweicht seinen Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>„Ich hoffe nur, dass sie sich alle beruhigen, wenn der Eisenflegel erst einmal fort ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>„Zumindest können sie uns wegen dem Eisenflegel nicht mehr blöd anreden. Aber es ist noch zu früh, um zu sagen, ob sich etwas ändert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Die Worte versetzen dich plötzlich zurück in deinen Traum von der mysteriösen Armee und der Zerstörung Caed Nuas.
+
+Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die dich beobachten, und etwas, was gerade außer deiner Reichweite ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>„Was geht hier vor sich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>„Ich weiß es selbst nicht genau.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Er blickt sich lange Zeit in der Stadt um, bevor er antwortet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>„Ich habe fünf unserer Jäger tot im Wald gefunden. Irgendetwas hat sie auseinander gerissen wie Puppen. Insekten.“
+
+Er blickt mit weit geöffneten, gepeinigten Augen ins Leere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>„Und erst gestern Nacht habe ich Gerüchte von seltsamen Maegfolc aus Metall und Fleisch gehört. Sie sollen direkt vor unseren Mauern umherstapfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>„Vielleicht kannst du mir sagen, was hier los ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>„Dieselben Geschöpfe, die auch die Erbauer von Durgans Batterie ausgelöscht haben. Sie töten jeden, den sie finden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>„Ich werde diese Monster aufhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>„Du musst hier fort. Du hast hier keine Chance.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>„Die meisten von uns haben da draußen auch keine Chance.“ Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>„Ein paar sind gegangen, aber die meisten von uns halten zusammen und hoffen das Beste.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>„Dann nimm das. Das ist das beste Erz, das wir in unseren Minen finden konnten.“ Er nickt in Richtung des Mineneingangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>„Also auch nicht schlimmer dran als wir anderen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>„Du kannst dich hier verstecken, wenn du willst. Aber es wäre wahrscheinlich besser, wenn du fliehst.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Er blickt dich scharf an, als wäre er sich nicht sicher, ob du es ernst meinst.
+
+Schließlich nickt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>„Es ist nicht viel, aber es reicht, um die alten Pargrunen-Schmiede stolz zu machen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Er seufzt. „Ich dachte mir so etwas.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>„Wenn du schon unterwegs bist, sieh bei der Batterie vorbei. Wengra und ihr Trupp reparieren immer noch die schweren Kanonen, aber an anderer Stelle haben sie schon große Fortschritte gemacht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>„Während wir warten, wird der Feind stärker!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>„Und du willst noch mehr von uns in den Tod schicken!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>„Also ich stehe nicht untätig herum! Du etwa?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>„Du hast schon genug getan, Deryan!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>„Ihr Anführer ist Adaryc Cendamyr. Er stammt aus einer alten readceranischen Familie, aber man sagt, er sei halb wahnsinnig und werde von Visionen heimgesucht. Eine davon hat ihm angeblich aufgetragen, die Weiße Esse zu erobern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>„Die anderen sind dank dir von der Festung zurückgekehrt. Alle bis auf diese Fanatikerin.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>„Aber über sie weißt du ja Bescheid.“ Er blickt dich vielsagend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>„Sie gehörte einem geheimniskrämerischen Ondriten-Kult an.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>„Du solltest deine Leute sorgfältiger auswählen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>„Als wüsste ich das nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>„Was mich wirklich interessiert, sind diese ... Kreaturen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>„Die anderen haben sie im Schnee gesehen. Maegfolc mit Armen wie Streitkolben, haben sie gesagt.
+
+„Und durch deine Hand getötet.“ Er nickt dir langsam und respektvoll zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>„Das habe ich gehört.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>„Die Augenlosen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>„Das ist die Armee, die ich aufhalten will.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>„Das stimmt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>„Ich dachte immer, das waren nur alte Jägergeschichten.“ Seine Augenbrauen heben sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>„Das sind die Augenlosen. Sie sind auch bei der Festung des Eisenflegels aufgetaucht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>„Die Weiße Esse zu erwecken war noch nicht Herausforderung genug?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>„Wir müssen unsere Mauern verstärken, so lange noch Zeit ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Er räuspert sich und fährt sich mit der Hand über die Bartstoppeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>„Ich kann Stalwart nicht von ihnen erzählen. Nicht, ehe wir mehr wissen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>„Die Abergläubischen werden es ein schlechtes Omen nennen, ein weiteres Beispiel dafür, welches Unheil die Fremden über uns gebracht haben.“ Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>„Zumindest bist du die Readceraner losgeworden. Darüber werden sich alle freuen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>„Und es wird nicht helfen, wenn die Leute erfahren, dass Adaryc immer noch auf freiem Fuß ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>„Er zieht sich zurück. Das war es doch, was du wolltest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>„Ich bin nicht dein Meuchelmörder. Das solltest du nicht vergessen.“</DefaultText>
+      <FemaleText>„Ich bin nicht deine Meuchelmörderin. Das solltest du nicht vergessen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>„Ich ermorde keinen Mann dafür, dass er nach einem besseren Leben für die Seinen strebt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Er verzieht das Gesicht. „Das war, bevor er unsere Leute als Geiseln genommen hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>„Ich bin dir natürlich dankbar. Ich hoffe nur, dass er nicht mit einer größeren Armee zurückkommt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Er verzieht das Gesicht. „Ich verstehe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>„Aus Durgans Batterie hört man, dass der Eisenflegel verschwunden ist. Und dass das dein Werk ist.“
+
+Er atmet zitternd aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>„Das Schicksal der Gesandten ist jedoch grauenhaft. Ich hatte auf bessere Kunde gehofft.
+
+„Und zu wissen, dass ich sie geschickt habe ...“ Er schüttelt den Kopf und bedeckt sein Gesicht mit den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>„Es ist nicht deine Schuld.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>„So etwas passiert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>„Sie kannten das Risiko.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Er schluckt. „Wichtig ist nur, dass Adaryc tot ist.“ Er blickt wieder zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Lügen] „Er ist tot.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>„Ich habe ihn gehen lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>„Nachdem er unsere Leute ermordet hat? Sie sind im Frieden zu ihm gekommen! Wie konntest du ihn laufen lassen?“ Sein Gesicht verzerrt sich vor Zorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>„Er hat die Gesandten nicht getötet. Das war ich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>„Er zieht sich zurück. Das war es doch, was du wolltest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>„Ich bin nicht dein Meuchelmörder. Das solltest du nicht vergessen.“</DefaultText>
+      <FemaleText>„Ich bin nicht deine Meuchelmörderin. Das solltest du nicht vergessen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>„Das war, bevor er die Gesandten getötet hat!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>„Ich werde mich nicht vor dir rechtfertigen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Er starrt dich entsetzt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>„Ich weiß nicht, was du von uns willst, aber bitte geh. Wir haben schon genug Ärger.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>„Ich bin natürlich froh, dass du ihn losgeworden bist. Ich hoffe nur, dass er nicht mit einer größeren Armee zurückkommt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Er seufzt. „Zumindest können wir dann wieder anfangen, uns untereinander zu streiten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>„Wir können nicht noch mehr Ärger gebrauchen. Bitte lass uns in Frieden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>„Ich hätte niemals gedacht, dass der Tag kommt, aber es schließen sich uns noch mehr Leute an. Und die Hälfte davon sind Readceraner.“ Er schüttelt den Kopf und lächelt erstaunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>„Ein readceranischer Gesandter kam heute morgen, um über den Aufbau einer Handelsroute mitten durch die Stadt zu verhandeln.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>„Und gerade rechtzeitig, denn es kommen immer mehr Leute aus dem Flachland zu uns, die begierig nach Arbeit sind.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>„Die meisten Leute hier freuen sich zwar, sind aber auch nervös. Es heißt bereits, dass Readceraner sich an der Grenze versammeln.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>„Es ist nur eine Frage der Zeit, bevor uns jemand angreift. Aber dieses Mal sind wir darauf vorbereitet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>„Das Komische an Durgans Batterie ist: Sie war immer zu groß für uns. Wir konnten sie nicht freiräumen, das Erz abbauen und die Festung halten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>„Wir können also wohl froh sein, dass wir wachsen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>„Er ist tot.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>„He, ein wütender Mob! Fast wie zuhause.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>„He, das war ich nicht allein. Diesem Wächter gebührt mindestens ebenso viel Dank.“
+
+Niemand scheint Edér zu bemerken.</DefaultText>
+      <FemaleText>„He, das war ich nicht allein. Dieser Wächterin gebührt mindestens ebenso viel Dank.“
+
+Niemand scheint Edér zu bemerken.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>„Vielleicht können wir sie dazu bringen, ihr eigenes Dorf niederzubrennen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>„In Zahuas Erfahrung war die Dosis zu niedrig, wenn man vor Visionen nur halb wahnsinnig ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

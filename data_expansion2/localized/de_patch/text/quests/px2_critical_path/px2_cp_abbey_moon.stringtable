@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_cp_abbey_moon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die steigende Flut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise in die Abtei des Gefallenen Mondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Infiltriere die Abtei des Gefallenen Mondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde heraus, wie du in das Reliquiar gelangst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Betritt die Halle des Schweigens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde Ondras Zeugen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nutze Ondras Zeugen, um das Reliquiar zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Totenschädel untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Schließe die Rezitation ab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Schließe die Rezitation ab und finde Ondras Zeugen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Finde Ondras Zeugen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Abtei des Gefallenen Mondes enthält vielleicht den Schlüssel, um die Armee aufzuhalten, die ich in meinen Träumen gesehen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Eine der Gesandten von Stalwart, die geschickt wurden, um mit dem Eisenflegel zu verhandeln, war eine Ondritin, die aus einer Abtei im Norden entsandt wurde, um die Readceraner von ihrem Kurs abzubringen.
+
+Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im „Reliquiar“ getan werden müsse.
+
+Er sprach auch von einem Besucher, der in der Abtei erwartet werde, um seinen Platz einzunehmen ... dem „Gezeitenbringer“.
+
+Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu dieser Abtei liegt. Ich muss dorthin reisen, wenn ich diese Gefahr aufhalten will.</DefaultText>
+      <FemaleText>Eine der Gesandten von Stalwart, die geschickt wurden, um mit dem Eisenflegel zu verhandeln, war eine Ondritin, die aus einer Abtei im Norden entsandt wurde, um die Readceraner von ihrem Kurs abzubringen.
+
+Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im „Reliquiar“ getan werden müsse.
+
+Er sprach auch von einer Besucherin, die in der Abtei erwartet werde, um seinen Platz einzunehmen ... der „Gezeitenbringerin“.
+
+Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu dieser Abtei liegt. Ich muss dorthin reisen, wenn ich diese Gefahr aufhalten will.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Abtei wird von Ondriten-Mönchen streng bewacht. Ich muss sie erledigen oder mich an ihnen vorbeischleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Abtei ist riesig. Ich muss herausfinden, wo sich das Reliquiar aus der Erinnerung des Ondriten befindet ... und dann hineingelangen, um diese Armee aufzuhalten.
+
+Kaoto, der Abt, der in der Vision mit dem Ondriten gesprochen hat, scheint zu wissen, wie man es betreten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>In das Reliquiar gelange ich nur mit „Ondras Zeuge“, einem Aspergill, das in einem Mechanismus im unteren Stockwerk der Abtei verbaut ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Es gibt ein Aspergill namens „Ondras Zeuge“, das als eine Art Schlüssel für einen Mechanismus dient. Dieser Mechanismus steuert den Wasserfluss im unteren Stockwerk der Abtei.
+
+Er kann genutzt werden, um die Halle des Schweigens zu überfluten. Möglicherweise lassen sich aber auch Tore öffnen, durch welche die Ebbe-Ondriten fliehen könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Ondras Zeugen in meinem Besitz. Vielleicht gelange ich damit ins Reliquiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Das Reliquiar scheint nur ein einziges Relikt zu enthalten ... den Schädel eines gewaltigen Lebewesens.
+
+Irgendwo in diesem ummauerten Bereich befindet sich das Werkzeug, mit dem Kaoto die Augenlosen zurückrufen wollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Wenn ich mich weiterhin als dieser „Gezeitenbringer“ ausgeben will und ohne Widerstand Zutritt zum Reliquiar erhalten will, muss ich zunächst vor Kaoto eine rituelle Rezitation ausführen.</DefaultText>
+      <FemaleText>Wenn ich mich weiterhin als diese „Gezeitenbringerin“ ausgeben will und ohne Widerstand Zutritt zum Reliquiar erhalten will, muss ich zunächst vor Kaoto eine rituelle Rezitation ausführen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Der Oberabt hat erklärt, dass ich ihn nach Abschluss des Anstiegs – desselben Rituals, von dem Farentis gesprochen hat – als Anführer der Abtei ersetzen werde und dann auch Zugang zum Reliquiar haben werde.
+
+Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe erfahren, wie Kaoto den Anstieg ausgeführt hat. Er hat in der Halle des Schweigens mit den Händen ein geheimes Zeichen beschrieben, um an das Aspergill zu gelangen, mit dem man in das Reliquiar gelangt. Es ist zwar praktisch, aber nicht länger nötig, dass ich mich als Gezeitenbringer ausgebe.</DefaultText>
+      <FemaleText>Ich habe erfahren, wie Kaoto den Anstieg ausgeführt hat. Er hat in der Halle des Schweigens mit den Händen ein geheimes Zeichen beschrieben, um an das Aspergill zu gelangen, mit dem man in das Reliquiar gelangt. Es ist zwar praktisch, aber nicht länger nötig, dass ich mich als Gezeitenbringerin ausgebe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Oberabt Kaoto hat seinen Anhängern von der Ankunft eines Gezeitenbringers berichtet. Mit etwas Glück taucht der wahre Gezeitenbringer erst auf, wenn ich schon wieder verschwunden bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich bin einem Söldner begegnet, der von einer Gabenbringerin als Eskorte angeheuert wurde. Er glaubt, dass es mehrere Wege in die Abtei gibt. Er sagte, seine Herrin habe unter einem zerbrochenen Bogen mit einigen Wachen gesprochen, die sie hätten passieren lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Oberabt Kaoto hat seinen Anhängern von der Ankunft eines Gezeitenbringers berichtet. Mit etwas Glück taucht der wahre Gezeitenbringer erst auf, wenn ich schon wieder verschwunden bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Außerhalb der Abtei gibt es ein Wandgemälde, das die Phasen der Gezeiten eines Meeres zeigt. Das Wandgemälde ist ein Quadriptychon, jeder der vier Teile trägt einen Namen – Anthu: Das Ende, Saman: Die Flut, Disaman: Die Ebbe und Dianthu: Der Anfang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe eine wichtige Erinnerung des Oberabtes gesehen. Darin vollführt er ein seltsames Zeichen vor vier Feldern in einem unterirdischen Gang. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus und nutzt es, um durch eine Tür aus Wasser in einen ummauerten Bereich irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Aufzeichnungen des Oberabtes über einen wiederkehrenden Traum gefunden. Darin vollführt er ein seltsames Zeichen vor vier Feldern. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus in der Nähe und nutzt es, um durch eine Tür aus Wasser irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Farentis will, dass die Ebbe befreit werden. Er sagte, dazu bräuchte man ein bestimmtes Relikt, das in der Halle des Schweigens liegt. Er vermutet, dass der Oberabt weiß, wie man an das Relikt gelangt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe eine wichtige Erinnerung des Oberabtes gesehen. Darin vollführt er ein seltsames Zeichen vor vier Feldern in einem unterirdischen Gang. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus und nutzt es, um durch eine Tür aus Wasser in einen ummauerten Bereich irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Außerhalb der Abtei gibt es ein Wandgemälde, das die Phasen der Gezeiten eines Meeres zeigt. Das Wandgemälde ist ein Quadriptychon, jeder der vier Teile trägt einen Namen – Anthu: Das Ende, Saman: Die Flut, Disaman: Die Ebbe und Dianthu: Der Anfang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe Aufzeichnungen über einen wiederkehrenden Traum des Oberabtes gefunden. Darin vollführt er ein seltsames Zeichen vor vier Feldern. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus und nutzt es, um durch eine Tür aus Wasser in einen ummauerten Bereich irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Kaoto hat mir aufgetragen, ihm Ondras Zeugen zu bringen, um den Anstieg abzuschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Ich habe die Ebbe befreit. Die anderen Ondriten werden das sicher nicht gutheißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Ich habe erfahren, dass der Oberabt, Kaoto, in letzter Zeit unter seltsamen Albträumen leidet ... und dass sein Quartier auf der Ostseite der Halle des Schweigens liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Ich habe Aufzeichnungen über einen wiederkehrenden Traum des Oberabtes gefunden. Darin vollführt er ein seltsames Zeichen vor vier Feldern. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus und nutzt es, um durch eine Tür aus Wasser in einen ummauerten Bereich irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Ich habe ein Gespräch zwischen zwei Ondriten über den Oberabt belauscht. Er hat einen „Zeugen“ verwendet, um irgendeine Tür zu durchqueren, die sie „Schleier der Tränen“ nannten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Ich habe Aufzeichnungen über einen wiederkehrenden Traum des Oberabtes gefunden. Darin vollführt er ein seltsames Zeichen vor vier Feldern. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus und nutzt es, um durch eine Tür aus Wasser in einen ummauerten Bereich irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Ich habe eine wichtige Erinnerung des Oberabtes gesehen. Darin vollführt er ein seltsames Zeichen vor vier Feldern in einem unterirdischen Gang. Dann nimmt er ein stabähnliches Relikt aus einem Mechanismus und nutzt es, um durch eine Tür aus Wasser in einen ummauerten Bereich irgendwo außerhalb der Abtei zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Farentis will, dass die Ebbe befreit werden. Er sagte, dazu bräuchte man ein bestimmtes Relikt, das in der Halle des Schweigens liegt. Es ist dasselbe Relikt, mit dem Kaoto mir aufgetragen hat, die Halle zu überfluten ... Ondras Zeuge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>Die Mönche der Abtei haben mich an den Oberabt verwiesen. Er wartet jenseits eines Raumes, den sie die Kammer des Gefallenen Mondes nennen, auf den Gezeitenbringer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>Ich habe ein Gespräch zwischen zwei Ondriten mitangehört. Sie haben darüber gesprochen, dass der Oberabt einen „Zeugen“ verwendet hat, um den Schleier der Tränen zu durchqueren und in das Reliquiar zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>Ich habe in die verstreuten Erinnerungen eines längst verstorbenen Ondriten geblickt. Er war zusammen mit anderen Gläubigen in der Halle des Schweigens eingesperrt. Ihre Erinnerungen sind mit der Zeit verblasst, was sie in den Wahnsinn getrieben hat ... und seltsamerweise auch dazu, auf das kleinste Geräusch äußerst aggressiv zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Der Oberabt glaubt, ich sei der Gezeitenbringer. Er will mir das Reliquiar zeigen. Zuvor muss ich allerdings eine Rezitation vervollständigen.</DefaultText>
+      <FemaleText>Der Oberabt glaubt, ich sei die Gezeitenbringerin. Er will mir das Reliquiar zeigen. Zuvor muss ich allerdings eine Rezitation vervollständigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Ich scheine eine Gruppe von dem Wahnsinn verfallenen Ondriten befreit zu haben. Die anderen Ondriten werden das sicher nicht gutheißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Kaoto hat mir geraten, die Bibliothek und die Wandmalerei draußen zu studieren und mit Gabenbringern zu sprechen, um Einblicke zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>Kaoto hat mir geraten, die Bibliothek und die Wandmalerei draußen zu studieren und mit Gabenbringern zu sprechen, um Einblicke zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20030</ID>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20031</ID>
+      <DefaultText>Außerhalb der Abtei gibt es ein Wandgemälde, das die Phasen der Gezeiten eines Meeres zeigt. Das Wandgemälde ist ein Quadriptychon, jeder der vier Teile trägt einen Namen – Anthu: Das Ende, Saman: Die Flut, Disaman: Die Ebbe und Dianthu: Der Anfang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20032</ID>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20033</ID>
+      <DefaultText>Ich habe die Rezitation abgeschlossen. Kaoto erwartet nun, dass ich in der Halle des Schweigens Ondras Zeugen finde und das Aspergill verwende, um den Raum zu fluten. Farentis glaubt, dass ich dieses Werkzeug stattdessen verwenden kann, um ihn und seine Ondriten der Ebbe zu retten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20034</ID>
+      <DefaultText>Kaoto ist tot. Ich muss alleine in das Reliquiar gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20035</ID>
+      <DefaultText>Kaoto hat mir geraten, die Bibliothek und die Wandmalerei draußen zu studieren und mit Gabenbringern zu sprechen, um Einblicke zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20036</ID>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20037</ID>
+      <DefaultText>Außerhalb der Abtei gibt es ein Wandgemälde, das die Phasen der Gezeiten eines Meeres zeigt. Das Wandgemälde ist ein Quadriptychon, jeder der vier Teile trägt einen Namen – Anthu: Das Ende, Saman: Die Flut, Disaman: Die Ebbe und Dianthu: Der Anfang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20038</ID>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Auf der Abtei des Gefallenen Mondes habe ich das Reliquiar gefunden ... und die Antworten, nach denen ich suchte. Die Augenlosen sind die Armee aus meinen Träumen. Sie werden mich und tausend andere auslöschen, um Ondras Geheimnisse zu bewahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

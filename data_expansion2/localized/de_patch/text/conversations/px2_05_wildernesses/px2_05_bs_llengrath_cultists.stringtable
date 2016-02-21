@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_llengrath_cultists</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Llengrath hat etwas in dir gesehen, was dir ihr Vertrauen gesichert hat. Missbrauche es nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Niemand von uns verlässt diesen Sumpf unverändert. Du bist keine Ausnahme.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Jeder Tag ist ein Kampf. Das Leben selbst ist der Sieg.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Wer den Tod fürchtet, den ereilt er meist umso schneller.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Du wärest ein würdiger Gegner gewesen. Aber ein würdiger Verbündeter ist besser.“</DefaultText>
+      <FemaleText>„Du wärest eine würdige Gegnerin gewesen. Aber eine würdige Verbündete ist besser.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Llengrath sagt, wir sollen bald aus dem Sumpf aufbrechen. Ich kann nicht sagen, dass ich darüber traurig bin.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_drowned_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine schwache Spur Essenz schwebt in der kalten Luft der Höhle über einem Skelett, das halb im Eis gefangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Nach der Essenz greifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du lässt die Essenz deine Seele umschließen. Erinnerungen breiten sich in einem dünnen Nebel unter dir aus, blass und zerrissen. Ihre zerstreuten Fragmente schweben wie Staubkörner im Zwielicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du betrittst eine längliche Kammer. Die Steine ihrer unterirdischen Mauern glänzen, noch immer nass vom Flutwasser. Eine Hand legt sich auf deine Schulter. Du hörst sie flüstern. „Arthrek, ich will nicht hinsehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Erinnerung verschwindet und du siehst nur noch einen Stein. Du starrst ihn an, nur wenige Zentimeter von der Wand entfernt. Deine Finger beschreiben Kreise darauf. Sie bohren sich in das Moos, das auf dem verwitterten Stein wächst. Du weißt nicht genau, wie lange du ihn schon berührst. Vielleicht hast du das schon immer getan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ein Schrei lässt dich zusammenzucken. Er hallt wie Donner durch die Gänge wider. Du spürst einen Schmerz in deinen Ohren, der sich wie ein gewundener Dolch tief in deinen Kopf bohrt. Du fliehst. Andere fliehen. Du kennst sie nicht, du kannst dich nicht an sie erinnern, aber irgendwo findest du Trost in ihrer Anwesenheit. Ja, sie werden dir gegen die Schmerzen helfen. Ihr werdet den Lärm töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Zorn der Erinnerung verblasst und nun sitzt du auf Stufen, die in Fels geschlagen sind. Dutzende von Skeletten liegen unter dir, unter gefrorenem Wasser. Ihre stummen Kiefer stehen offen.
+
+Aber was ist das? Ein tiefes Grollen, sprudelnd, rauschend, ohrenbetäubend. Du wirfst gepeinigt den Kopf zur Seite und siehst es. Das Wasser, das die Gänge entlangstürzt und dich in einem Schwall weißen Schaums übermannt. Du fällst um und öffnest den Mund, um zu schreien, doch deine Kehle füllt sich mit Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

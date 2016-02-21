@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\backstory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Du hast die Ogermatronin Beregan in der Höhle ihres Clans im Rotwald gefunden und getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Du hast die Ogermatronin Beregan aufgesucht und einen Waffenstillstand mit ihr ausgehandelt. Sie hat versprochen, dass ihr Clan dich und Stalwart in Frieden lassen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Du bist Galvino begegnet, einem exzentrischen und übellaunigen alten Erfinder, der in der Nähe von Durgans Batterie lebt. Er hat dir von der Tradition der „Festungslieder“ unter den Pargrunen-Zwergen berichtet. Und er hat dich der Teufelin von Caroc vorgestellt, einem Konstrukt, das er gebaut hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Die Teufelin von Caroc, ein Konstrukt mit der Seele einer Mörderin, hat gebeten, dich begleiten zu dürfen. Du hast zugestimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Die Teufelin von Caroc hat offenbart, dass sie noch immer nach einem Mann jagt, der an der Auslöschung ihres Dorfs beteiligt war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Ihr habt Harmke gefunden, den Mann, den die Teufelin von Caroc gesucht hatte. Du hast seine Seele gelesen und der Teufelin erklärt, dass er nicht dafür verantwortlich ist, dass ihr Haus in Kaltmorg niedergebrannt wurde. Die Teufelin hat ihn ziehen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Ihr habt Harmke gefunden, den Mann, den die Teufelin von Caroc gesucht hatte. Du hast seine Seele gelesen und der Teufelin erklärt, dass er dafür verantwortlich ist, dass ihr Haus in Kaltmorg niedergebrannt wurde. Die Teufelin hat Rache an ihm genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Die Teufelin von Caroc wurde zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Du bist in Stalwart einem Mönch aus Ixamitl begegnet, Zahua. Du hast ihn eingeladen, sich dir anzuschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Zahua hat dir von seiner Ausbildung zum Krieger berichtet. Und davon, wie sein Meister ihm den letzten Teil dieser Ausbildung verwehrt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Zahua ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Du hast herausgefunden, wie sich die Tore von Durgans Batterie öffnen lassen - und hast die alte Festung als erste Person seit zweihundert Jahren betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Nachdem du mit den Kommandanten der Batterie gesprochen hast, hast du die Seelen der Zwerge an die Kanonen auf den Zinnen der Festung gebunden. So können sie die Verteidigung der mächtigen Festung verbessern, die sie über Generationen errichtet haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

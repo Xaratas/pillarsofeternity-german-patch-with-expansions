@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_05_wildernesses\px2_05_qst_bog</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Versprechen des Phylakteriums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Untersuche die Assassinin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erkunde die Wildnis südwestlich von Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde deinen Feind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Besiege Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In Stalwart wurde eine gewalttätige Späherin von der Stadtwache niedergestreckt. Vor ihrem Tod wurde sie beobachtet, wie sie Erkundigungen über mich eingeholt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Assassinin ist tot. Aber das ist für einen Wächter keine Abschreckung. Vielleicht finde ich einen Hinweis darauf, warum mir diese Frau auf den Hals gehetzt wurde.</DefaultText>
+      <FemaleText>Die Assassinin ist tot. Aber das ist für eine Wächterin keine Abschreckung. Vielleicht finde ich einen Hinweis darauf, warum mir diese Frau auf den Hals gehetzt wurde.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Bevor sie nach Stalwart kam, reiste die Späherin durch einen Sumpf am Rand von Eir Glanfath, im Südwesten der Weißmark. Ich nehme an, dass ich ihren Auftraggeber dort in der Gegend finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe ein Sumpfgebiet in der Wildnis gefunden, das zu den Erinnerungen der Späherin passt. Es ist ein abgeschiedener Ort, kaum die richtige Wahl für einen Außenposten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Llengrath ist darauf versessen, mir das Leben zu nehmen. Ich muss mich nun mit ihr und ihren Drachenverbündeten herumschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich bin im Sumpf auf eine Art Siedlung gestoßen. Das muss der richtige Ort sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Der Architekt der Belagerung von Concelhauts Turm hat sich als eine Erbin des Erzmagiers Llengrath entpuppt, die seinen Namen und seinen Titel geerbt hat. Ihr Tod – und der ihrer beiden Drachenverbündeten – setzt ihren Intrigen ein Ende ... und sichert mein eigenes Vermächtnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Der Architekt der Belagerung von Concelhauts Turm hat sich als eine Erbin des Erzmagiers Llengrath entpuppt, die seinen Namen und seinen Titel geerbt hat. Nach einigen Verhandlungen haben wir uns geeinigt, anstatt uns zu bekämpfen. Llengrath hat einen Teil ihres angehäuften Wissens mit mir geteilt ... und ein Paar Drachen an meiner Seite zu haben wird bestimmt nützlich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte ... den Meister von Caed Nua.</DefaultText>
+      <FemaleText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte ... die Meisterin von Caed Nua.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

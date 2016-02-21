@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_intro_dream</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Während du schläfst, wirst du von den Launen der Träume hin und her geschaukelt und gewiegt. Sie wirbeln und wabern um dich herum und füllen dein geistiges Auge mit fahlen, glimmernden Staubkörnern.
+
+Die Staubkörner setzen sich zu einem leichten Schneefall und einem beißenden Nordwind zusammen. Du erkennst die Berge der Weißmark, die sich um dich herum erheben, und du erzitterst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Wenige Meilen entfernt siehst du Stalwart still und stumm daliegen, nur einige Rauchschwaden steigen kräuselnd aus den Schornsteinen empor. Durgans Batterie thront über der Stadt. Ihr Schatten erstreckt sich in das Tal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Über allem hörst du einen tiefen, langsamen Rhythmus. Zunächst klingt es wie weit entfernte Trommeln, aber dann wird das Geräusch lauter. Es knallt durch die trockene Luft und hallt dröhnend von den Berggipfeln wider.
+
+Es steigert sich immer weiter, bis du spürst, wie der Boden unter deinen Füßen vibriert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Jeder Schlag ertönt lauter und schneller als der vorige. Donner hallt von den Bergen wider, als große Brocken Eis und Schnee die Hänge hinunterstürzen.
+
+Aber der Rhythmus steigert sich weiter und zerschlägt gefrorene Seen wie Kristallteller. Neue Schluchten spalten die Berge, alte Schluchten füllen sich mit Schnee und Geröll. Eine Steinlawine begräbt Stalwart und Durgans Batterie zerfällt zu Schutt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Schatten erheben sich über den Bergen, die Vorhut einer gewaltigen Armee. Du fliehst.
+
+Du taumelst aus dem Vorgebirge und hetzt durch den Dyrwald. Unablässig spürst du das Dröhnen der marschierenden Armee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Caed Nua erhebt sich aus dem Wald. Die reparierten Mauern der Festung strecken sich dir entgegen wie zwei starke Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Caed Nua erhebt sich aus dem Wald. Die Mauern der Festung sind zwar nur halb repariert, versprechen aber Schutz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Caed Nua erhebt sich aus dem Wald. Trotz ihrer zerstörten Mauern stellt die Festung deine beste Chance auf Schutz dar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du verbarrikadierst dich in der Herrenhalle, während das Donnern immer näher kommt. Es lässt die Fundamente der großen Festung erzittern. Als der Mörtel zu bröckeln beginnt, hörst du einen grauenhaften Kampfschrei aus deinem Hof ertönen.
+
+Die Decke stürzt ein und eine Lawine aus Ziegeln und Balken begräbt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du mühst dich, wach zu werden und die Bettdecke wegzustrampeln, die sich um deine Beine gewickelt hat.
+
+Als du die letzten Fesseln des Schlafs abgeschüttelt hast, hörst du eine Stimme in einer dir unbekannten Sprache flüstern und siehst das Bild von einhundert unruhigen, starrenden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Zuhören und zusehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Zu Durgans Batterie gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Nach Stalwart gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Dich zurückziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du gehst auf die Festung zu, aber bald hindert der bebende Boden dich am Vorankommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du gehst auf das Dorf zu, aber bald hindert der bebende Boden dich am Vorankommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du wendest dich ab, um zu gehen. Doch das Donnern wird stärker und wirft dich fast um. Du blickst über deine Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Schutz in Trutzbucht suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Dich in Caed Nua verbarrikadieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Dich in Zwillingsulmen verstecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du erreichst die Palisaden und Steinbögen der glanfathanischen Stadt. Du hoffst, in den uralten Ruinen Zuflucht zu finden, stellst stattdessen aber fest, dass die Tore streng bewacht werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>„Kehr um, Estramor! Dein Fluch darf unsere heiligen Hallen nicht berühren!“ Sie blicken dich über die Spitzen ihrer Speere und Pfeile zornig an.
+
+Das Donnern kommt immer näher. Du hast keine andere Wahl, als deine Flucht fortzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Stadtmauern erheben sich vor dir, aber das Fallgatter ist geschlossen. Wachen stehen dahinter und stechen ihre Piken durch die Löcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„Verschwinde! Hast du nicht schon genug angerichtet?“
+
+Eine Brise trägt den Geruch von Rauch und verbranntem Fleisch herbei. Die Überlebenden von Trutzbucht blicken aus zerstörten Fenstern und zerborstenen Türen zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Hier findest du keine Rast. Du läufst weiter, die Armee noch näher im Nacken als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„Bleib fort! Du wirst uns zerstören, wie du Stalwart zerstört hast!“
+
+Eine Brise trägt die Rufe und den Gestank von Tausenden herbei, die jenseits der Mauern zusammengepfercht sind. Ihre gewaltige Angst ist greifbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du erwachst, fiebrig warm und schweißgebadet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

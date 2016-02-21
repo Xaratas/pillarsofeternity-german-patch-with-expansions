@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px1_cm_cv_zahua_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>„Wir müssen diese Vision vorerst verlassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>„Bist du sicher? Die Übelkeit vergeht. Vielleicht musst du dich ein wenig übergeben, aber es vergeht immer.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>„Diese Reise abzuschließen ist für mich von großer Bedeutung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>„Nun, wir können wohl auch erst das hier abschließen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>„Ich verspreche, dass wir wiederkommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>„Ich glaube nicht, dass wir jemals wiederkommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>„Danke. Ich werde nicht länger brauchen als nötig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>„Ich verstehe. Wenn du soweit bist, müssen wir hierher zurückkehren. Ich gebe dir eine neue Mixtur, dann können wir weitermachen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>„Ich will in deine Vision zurückkehren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>„Wir müssen an den Ort zurückkehren, an dem wir den Löwen das erste Mal gesehen haben. In die Weißsteinsenke.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>„Gut. Ich habe die Mixtur vorbereitet.“
+
+Zahua verteilt wieder seine Mischung aus Pilzen und Kräutern. Du kaust und schluckst und deine Sicht beginnt zu verschwimmen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>„Vielleicht.“
+
+„Auf meiner Reise nach Stalwart kam ich an einen Ort, der meine Seele unruhig werden ließ.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>„Ich weiß nicht, was es war, aber ich hatte vor, dorthin zurückzukehren, sobald ich mein Versprechen an die Bürgermeisterin von Stalwart eingelöst habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>„Ich glaube, die Einheimischen nennen den Ort 'Weißsteinsenke'. Er liegt östlich von Stalwart.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>„Falls wir in die Gegend kommen, würde ich gerne dorthin zurückkehren und die Energie des Ortes erkunden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>„Die Antworten, nach denen ich nun suche, sind Antworten der Seele. Solche Resonanzen darf man nicht ignorieren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>„Du wirkst verändert.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>„Oh? Hast du vielleicht etwas aus meinen Malcachoa-Beuteln stibitzt?“
+
+Zahua grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>„In gewisser Weise bin ich genau, wie ich immer war. Mein Volk ist untergegangen und ich konnte ihm nicht helfen. Das wird auf ewig meine Gedanken trüben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>„Doch in all meinen Jahren der Suche gab es etwas, was ich mir immer verweigert habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>„Wenn ein Nalpazca stirbt, wird seine Leiche in eine Grube gelegt. Alle, die ihn kannten, werfen Würmer in die Leichengrube.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>„So sollen wir lernen, den Tod zu akzeptieren. Es dient aber auch dazu, die Reise des Toten in sein nächstes Leben zu beschleunigen. Es ist unsere Art, Lebewohl zu sagen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>„In unserer gemeinsamen Malcachoa-Vision habe ich gesehen, dass inzwischen ganz Tacan in dieser Grube lag. Nur ich blieb noch, um die Würmer hineinzuwerfen. Sie warteten alle auf Zahua.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>„Du sagst, dass Zahua verändert sei. Ich glaube, in dieser einen Hinsicht bin ich es. Ich bin verändert, weil ich die Würmer geworfen habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>„Die Tradition sagt, dass die Seele des verstorbenen Kriegers in seiner Leiche gefangen bleibt, wenn wir das nicht tun.“
+
+„Es ist zwar verlockend, seinen Geist für uns zu behalten, aber wir lassen ihn im Stich, wenn wir ihn nicht weiterziehen lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>„Dank deiner Führung konnte ich dies tun, und ich werde dich weiter auf deinem Weg begleiten, bis ich dasselbe für dich getan habe.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>„Nämlich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

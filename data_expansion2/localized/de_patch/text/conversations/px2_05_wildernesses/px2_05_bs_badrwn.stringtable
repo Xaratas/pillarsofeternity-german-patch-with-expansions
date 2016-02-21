@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_badrwn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Hrmpf. Nun, wenn die Drachen dich nicht gegessen haben, sollte ich dich wohl in Frieden lassen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Bei diesem ganzen Dreck ist es fast unmöglich, sich anständige Notizen zu machen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>„Halte dich von dem rituellen Kreis im Osten fern. Ich habe die Schutzzauber noch nicht entfernt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Darf ich annehmen, dass du es warst, der meinen rituellen Kreis gestört hat? Pah!“</DefaultText>
+      <FemaleText>„Darf ich annehmen, dass du es warst, die meinen rituellen Kreis gestört hat? Pah!“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

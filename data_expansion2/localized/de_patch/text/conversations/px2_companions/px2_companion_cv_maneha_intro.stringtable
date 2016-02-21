@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\px2_companion_cv_maneha_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Sag mal, du hast in letzter Zeit nicht zufällig irgendwelche rätselhaften Gebäude in den Bergen gesehen, oder?“
+
+Die Aumaua trägt verschiedene Spangen, Bänder, Reife und Ketten, so dick wie eine Rüstung. Sie mustert dich mit einer hochgezogenen Braue und vor Belustigung funkelnden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Wovon redest du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Weggehen] „Dann mal viel Glück.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Weggehen] „Ich gehe dann besser.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„Nun gut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Weggehen] „Jetzt nicht, danke.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>„Du willst immer noch zur Abtei, oder? Wie wäre es, wenn ich mitkomme?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>„Ich finde, hier riecht es nicht mehr nach Fisch. Wahrscheinlich weil ich es jetzt tue.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>„Du wirst es nicht bereuen. Ich kann wirklich gut singen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>„Naja, manche Dinge wirft man ins Meer, aber sie werden irgendwann wieder angespült.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>„Aber wenn man will, dass etwas wirklich gründlich vergessen wird, bringt man es in die Abtei.“ Sie nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>„Und was bringst du jetzt zur Abtei?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sie grinst dich verschlagen an. „Die Abtei ist allein zum Vergessen da. Und es wäre wohl kaum ein echtes Vergessen, wenn ich dir davon erzählen würde, oder?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ihr Lächeln stockt kurz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>„Das habe ich davon, dass ich mitten im Nirgendwo nach dem Weg frage.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>„Und ich freue mich über die Gesellschaft.“ Sie zwinkert Pallegina zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>„Klingt nach der Abtei des Gefallenen Mondes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>„Du meinst Durgans Batterie?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>„Ich fürchte nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>„Moment, du hast doch die Tore geöffnet, oder? Die Leute hier reden von nichts anderem, du bekommst in der Taverne bestimmt umsonst etwas zu trinken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>„Nein, aber diesen Namen habe ich hier schon häufig gehört.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>„Ich suche nach der Abtei des Gefallenen Mondes, einem obskuren Tempel, der Ondra geweiht ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>„Engwithanische Ruinen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>„Oh, das dachte ich mir. Eigentlich wollte ich nur deinen Akzent hören. Von einem schönen Akzent kriege ich weiche Knie.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>„Genau genommen weiß ich, wo die Abtei ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Sie lacht. „Ja, und du weist mir gegen einen Haufen Gold den richtigen Weg. Netter Versuch.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>„Warum suchst du nach der Abtei?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>„Ich bin Gabenbringerin. Meine Aufgabe ist es, der Fürstin der Klagen Erinnerungsstücke an Dinge zu überlassen, die die Leute vergessen wollen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>„Was für Erinnerungsstücke nimmst du an dich?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>„Gabenbringer werfen solche Erinnerungsstücke für gewöhnlich ins Meer. Warum bist du auf dem Weg zur Abtei?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>„Alles, was für Augenblicke oder Erinnerungen steht, die jemand hinter sich lassen möchte.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>„Liebesbriefe, seltsame Familienerbstücke, miserable Gedichte. Dinge, die man vergessen will.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>„Nicht ganz.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>„Ganz genau.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>„Das geht am besten in der Abtei des Gefallenen Mondes.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>„Aha.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>„Ich werde wohl eine Weile hier sein. Die Hälfte der Dorfbewohner hat noch nie von der Abtei gehört. Und die, die es haben, wissen nicht, wo sie ist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>„Ich versuche also, das einfach als erweiterten Urlaub anzusehen. In einem entlegenen Bergdorf, das nach Fisch stinkt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>„Ich habe Geschäfte in der Gegend zu erledigen. Wir könnten gemeinsam reisen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Weggehen] „Dann mal viel Glück.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>„Kommen dir 'Gezeitenbringer' und militante Mönche vertraut vor?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Ihre Gesichtszüge frieren ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>„Bei Ondras salzigem Bett, du meinst es ernst.“ Sie leckt sich die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>„Warum begleite ich dich nicht? Ich bin nützlich im Kampf, und wenn du zu Ondras geheimstem Tempel willst, könntest du eine Gabenbringerin an deiner Seite gebrauchen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>„Ich mag sie jetzt schon.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Edér starrt Durance mit halb irrem Blick an und kratzt sich nachdenklich am Bart.
+
+Sein Grinsen wird breiter, während er nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>„Ich war schon dort, aber wir können gemeinsam zurückkehren.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>„Du musst mir wohl einfach glauben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_barbarian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Magrans Anhänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Roedwith bei den Feuerfällen und nimm ihren Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Roedwiths Kopf zu Asca in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Bande von Räubern, die sich selbst „Magrans Anhänger“ nennt, überfällt kleine Dörfer im ganzen Dyrwald. Nachdem Stalwart plötzlich zu neuem Reichtum gekommen ist, befürchtet das Dorf, dass es das nächste Ziel sein könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Magrans Anhänger sind auf dem Weg nach Norden und wurden zuletzt bei den Feuerfällen gesehen. Ihre Anführerin ist eine Frau namens Roedwith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Magrans Anhänger besiegt und Roedwiths Kopf als Beweis an mich genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für Magrans Anhänger eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

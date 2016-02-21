@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_rymrgand_coalition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Eine tiefe, melancholische Stimme ertönt aus den Tiefen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>„Ich dachte nicht, dass wir einander so bald wieder begegnen würden. Du hast die Armee vernichtet, die dein Leben bedroht hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>„Die Augenlosen wollen noch immer deinen Tod, doch ich spüre, dass du nicht deswegen hier bist. Wonach suchst du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>„Nicht, dass es dir zu verdanken wäre.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>„Wonach suchst du?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>„Du wolltest mich sterben lassen! Wenn ich hier fertig bin, revanchiere ich mich. Verlass dich darauf.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>„Ich habe dir die Mittel gegeben, dein Problem zu lösen. Sei dankbar, dass ich dir erlaubt habe, das zu überleben.“
+
+„Du wärest nicht hier, wenn du nicht unsere Hilfe bräuchtest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>„Das dachte ich auch nicht. Aber man sagt mir, dass ich deine Hilfe brauche.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>„Du hast mich jemanden gekostet, der mir viel bedeutet hat.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>„Das war nicht, worum ich dich gebeten hatte. Du hast zugelassen, dass jemand deinen Platz einnimmt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

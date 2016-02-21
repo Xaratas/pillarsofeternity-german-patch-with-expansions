@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_abydon_moon_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durch deine Berührung beginnt der Metallsplitter, orange zu leuchten. Hitze steigt deine Hände und Arme hinauf und umschließt dich mit solcher Intensität, dass du das Gefühl hast zu schmelzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Hitze breitet sich in der Welt um dich herum aus und färbt sie orange, dann gelb, dann weiß. Der Boden, der Himmel, alles um dich herum zerschmilzt zu Tropfen und beginnt sich unter dir wie in einer unsichtbaren Gießform zu sammeln und Gestalt anzunehmen.
+
+Der Splitter und du, ihr seid das letzte, was schmilzt und hinabfällt. Als ihr in das Schmelzbecken fallt, vervollständigt ihr die Form eines gewaltigen Hammers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Metall kühlt so schnell wieder ab, wie es sich erhitzt hatte. Der Griff wird nun von zwei großen, ledrigen Händen ergriffen und der Hammer wird über eine Schulter gehoben, die so breit und furchig ist wie eine Bergkette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die riesige Gestalt wirbelt herum und hievt den Hammer in die Luft. Du fliegst eine scheinbare Ewigkeit nach oben in das luftlose Schwarz. Während du dich drehst, siehst du immer wieder kurz einen Felsen, der groß genug ist, um ein Mond zu sein. Er liegt nah an dieser Welt, zu nah ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Wucht des Aufpralls zertrümmert den Hammer und den Stein. Der Felsen wird zurück nach außen geschleudert, aber ein Teil der Front wird abgespalten und beginnt zu fallen. Im Sturz zerspringt der Stein an den Rissstellen.
+
+In einhunderttausend Fragmenten, die in alle Richtungen nach außen ausstrahlen, regnet Geröll durch die Atmosphäre, Rauch und Feuer nach sich ziehend.
+
+Land und Meer in der Tiefe sind noch weit entfernt, nähern sich aber zusehends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Zum Land sehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Zum Meer sehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das größte der Fragmente, so breit wie eine Stadt, rast in einem feurigen Kokon abwärts. Die brennenden Ränder lassen den Fels langsam schrumpfen, aber er wird nicht rechtzeitig vollständig verbrennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er landet lautlos im weit entfernten Ozean. Eine Wassersäule schießt in die Luft und kreisrunde Wellen breiten sich aus wie Falten in einem Stück Stoff.
+
+Dann erst zerreißt der Lärm den Himmel. Es klingt wie Donner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Während du auf die Erde zurast, siehst du mit jedem Augenblick klarer. Du steckst in einem gewaltigen Felsen fest und befindest dich in einem Schauer aus anderen, kleineren Fragmenten, die überall um dich herum verbrennen und platzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Unter dir erheben sich schneebedeckte Berggipfel, auf denen hier und da Städte aus Stein und Adra zu erkennen sind. Der Aufprall wird sie alle auslöschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Schatten deines Felsfragments ist jetzt sichtbar. Er wird von Sekunde zu Sekunde größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du stehst nur noch wenige Augenblicke davor, auf dem Boden aufzuprallen, als sich plötzlich eine gewaltige Gestalt in deinen Weg wirft.
+
+Das Letzte, was du hörst, klingt nach einem weiteren erschütternden Aufprall, aber das ist es nicht. Es ist ein Lachen, erleichtert und atemlos. Du hörst ein einziges Wort:
+
+„Geschafft.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Zwischen Reihen aus kristallinem Felsen eingeklemmt ragt ein großes Metallfragment hervor.
+
+Es sieht aus, als könnte es möglich sein, es herauszuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Das Metallfragment herausziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Alles wird dunkel.
+
+Du öffnest deine Augen. Das metallene Hammerfragment hat sich gelöst und du hältst es nun in den Händen. Es fühlt sich warm an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_infiltration</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du von unten hinaufblickst, bemerkst du, dass der Wachturm beim Seitentor unbemannt zu sein scheint. Es blicken auch keine feindlichen Gesichter über den Zaun.
+
+Das Dach des Turms ist mit den Festungswänden verbunden. Wenn du hinaufkletterst, gelangst du vielleicht irgendwie hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Enterhaken knallt mit einem beunruhigenden Wumms gegen den Holzbalken. Es folgen aber keine aufgeschreckten Rufe.
+
+Du ziehst einige Male an dem Seil. Es scheint zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du hörst Stimmen auf der anderen Seite des Tores, die sich lebhaft unterhalten. Am hellichten Tage herrscht in dem Lager reges Treiben.
+
+Wer diskret vorgeht, der schafft es vielleicht, das Tor zu öffnen, bevor Alarm geschlagen wird. Mitten am Tag ist das aber natürlich riskant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zu dieser Uhrzeit, wenn die Kälte langsam einsetzt, konzentriert sich das Leben im Lager fast ausschließlich auf die Lagerfeuer.
+
+Wer diskret vorgeht, der schafft es vielleicht, hinüberzuklettern und das Tor zu öffnen, ohne dass Alarm geschlagen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Jemanden über die Wand schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Wer soll gehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Es selbst tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du erhaschst deinen ersten Blick auf das geschäftige Lager ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+
+Als du dich auf den Boden wirfst, bemerkt er, dass sich etwas bewegt hat. Er dreht sich in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du erhaschst deinen ersten Blick auf das Lager, das in der Abenddämmerung verschleiert daliegt ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+
+Als du ihn kurz beobachtest, stellst du fest, dass der Mann schnarcht. Er schläft tief und fest. Du schleichst vorwärts, um das Tor zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Einen Enterhaken auf das Dach werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du erhaschst deinen ersten Blick auf das Lager, das in der Abenddämmerung verschleiert daliegt ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+
+Als du ihn kurz beobachtest, stellst du fest, dass der Mann schnarcht. Er schläft tief und fest. Du schleichst vorwärts, um das Tor zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du ziehst dich in den Schatten des Wachturms zurück und verhältst dich vollkommen still. Der Wachmann streift das Tor nur kurz mit seinem Blick und schaut dann wieder weg.
+
+Du schleichst vorwärts, um das Tor zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du ergreifst das Seil und beginnst zu klettern. Du gelangst nach oben und steigst in den Wachturm.
+
+Von dort musst du nur noch auf der anderen Seite wieder hinunter auf den Boden klettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0] ergreift das Seil, klettert nach oben und steigt in den Wachturm.
+
+Kurz darauf bewegt [Specified 0] sich auf der anderen Seite der Wand, innerhalb der Festung, schon wieder nach unten Richtung Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Von dort erhascht [Specified 0] einen Blick auf das geschäftige Lager ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+
+[Specified 0] wirft sich auf den Boden. Der Wachmann bemerkt, dass sich etwas bewegt hat. Er dreht sich in die Richtung von [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Von dort kann [Specified 0] das Lager sehen, das in der Abenddämmerung verschleiert daliegt ... und den Wachmann, der in einiger Entfernung postiert ist.
+
+Der Mann schnarcht. Er schläft tief und fest. [Specified 0] schleicht vorwärts, um das Tor zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Von dort kann [Specified 0] das Lager sehen, das in der Abenddämmerung verschleiert daliegt ... und den Wachmann, der in einiger Entfernung postiert ist.
+
+Der Mann schnarcht. Er schläft tief und fest. [Specified 0] schleicht vorwärts, um das Tor zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Dich durch die Lücke quetschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du ziehst dich wieder in den Schatten des Wachturms zurück, aber der Wachmann erblickt dich sofort.
+
+Du stürzt nach vorne, um das Tor zu entriegeln, während er hinter dir nach Verstärkung ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Das Tor untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als du die Außenwand betrachtest, bemerkst du zwei Pfosten, die sich ein wenig gelöst haben, wodurch eine kleine Lücke entstanden ist.
+
+Für größere Gestandene wäre die Lücke wohl zu klein, aber du glaubst, dass du vielleicht gerade hindurch passen könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Das Tor scheint stark befestigt zu sein. Durch die wenigen schmalen Lücken in der Außenwand siehst du Stützen im Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du kletterst hinauf zu der Lücke zwischen den Pfosten.
+
+Nachdem du dich eine Weile gewunden und abgemüht hast, gelingt es dir, deinen Oberkörper durch die Lücke zu zwängen. Der Rest folgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>In der Abendstille sind deine Schritte aber laut und deutlich zu vernehmen. Nach wenigen Sekunden hörst du, wie der Wachmann aus dem Schlaf hochschreckt.
+
+Du stürzt nach vorne, um das Tor zu entriegeln, während er hinter dir nach Verstärkung ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0] zieht sich in den Schatten des Wachturms zurück und verhält sich vollkommen still. Der Wachmann streift das Tor nur kurz mit seinem Blick und schaut dann wieder weg.
+
+[Specified 0] schleicht vorwärts, um das Tor zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0] tritt zurück in den Schatten des Wachturms, aber es ist zu spät.
+
+[Specified 0] stürzt nach vorne, um das Tor zu entriegeln, während der Wachmann nach Verstärkung ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>In der Abendstille sind die Schritte von [Specified 0] aber laut und deutlich zu vernehmen. Nach wenigen Sekunden schreckt der Wachmann aus dem Schlaf hoch.
+
+[Specified 0] stürzt nach vorne, um das Tor zu entriegeln, während der Wachmann nach Verstärkung ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Als du die Außenwand betrachtest, bemerkst du eine Lücke zwischen zwei Pfosten. Für Gestandene ist sie zu schmal, aber ein kleines Tier könnte hindurchpassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Gestalt der hilflosen Bestie auf jemanden wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Wer soll die Verwandlung durchlaufen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Überlege, wer den Zauber wirken soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Etwas anderes probieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Es selbst tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Es selbst tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Von einem Augenblick auf den nächsten verändert sich deine Perspektive dramatisch. Das Tor ragt über dir in die Lüfte, gigantisch in seinen Ausmaßen.
+
+Die Lücke darunter ist ähnlich groß. Deine kleinen Hufe tragen dich mühelos hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Mit einem Blitz und einer Rauchwolke verschwindet [Specified 0] – ersetzt durch ein kleines Schwein. Das Schwein schnüffelt kurz in die Luft und trottet dann direkt auf die Lücke zwischen den Pfosten zu. Es zwängt sich hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die Verwandlung dauert nicht lange und du verwandelst dich wieder in deine eigene Gestalt, die wenig elegant im Schnee liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Niemand scheint das Schwein am Tor zu bemerken. Aber es dauert nicht lange, ehe der Zauber nachlässt und [Specified 0] wenig elegant im Schnee liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

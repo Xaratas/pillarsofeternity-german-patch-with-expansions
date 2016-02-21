@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_pool_giftbearer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Gabenbringerin hält in ihrer Hand einen Edelstein von der Größe einer Faust. Sie beschreibt in der Luft über dem Stein einen Bogen und wirft ihn dann ins Wasser.
+
+Als der Edelstein auf die Wasseroberfläche trifft, verschwindet er plötzlich, als hätte er sich aufgelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Was ist mit dem Edelstein passiert?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>„Welcher Edelstein?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>„Der Edelstein, den du in das Becken geworfen hast.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>„Ich erinnere mich an keinen Edelstein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>„Du hast ihn geworfen. Wie kannst du das vergessen haben?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>„Dieses Becken ist von Ondra gesegnet, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Dieses Becken ist von Ondra gesegnet, Gezeitenbringerin.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>„Warum soll DAS denn von Bedeutung sein?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>„Alles, was Ondra gehört, wird vergessen. Und alles, was vergessen wurde, gehört Ondra.“
+
+Sie blickt wie in Trance in das Becken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Sei gegrüßt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Gabenbringerin ignoriert dich. Sie blickt auf die Oberfläche des Beckens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Weggehen] „Lass gut sein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Bist du VERRÜCKT? Du hattest einen RIESIGEN EDELSTEIN und hast ihn einfach ins Wasser geworfen und jetzt ist er WEG!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„Ich verstehe das nicht.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Gabenbringerin blickt offenbar tief in Gedanken verloren in das Becken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Angreifen] „Jetzt reicht's! Schluss mit diesem kryptischen Unfug!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Gabenbringerin lächelt ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du bemerkst, dass einige andere Ondriten in der Nähe anfangen, dich misstrauisch anzusehen. Einige bewegen ihre Hände in Richtung ihrer Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du spürst aus allen Richtungen die misstrauischen Blicke von Ondriten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Zornige Rufe kommen von allen Seiten und Ondriten treten vor, um die Gabenbringerin zu verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

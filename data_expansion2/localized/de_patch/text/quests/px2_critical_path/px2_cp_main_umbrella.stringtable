@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_cp_main_umbrella</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Vergessene Armee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche Informationen über die Armee in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Untersuche die Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde heraus, wie man der Armee befehlen kann, ihren Angriff abzubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Setze Abydons Hammer wieder zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Erreiche Cayrons Narbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Zerstöre die Augenlosen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ruhe dich jenseits der Grenzen der Weißmark aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Weiße Esse wurde dank deiner Bemühungen in der Weißmark wiederhergestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In meinem Traum kam die Armee aus der Weißmark, in der Nähe von Stalwart. Vielleicht wissen die Einwohner dort etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Östlich von Stalwart wurde eine Festung errichtet. Vielleicht gehört sie der Armee, die ich suche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Eine der Gesandten aus Stalwart war eine fanatische Anhängerin Ondras, die sich selbst das Leben nahm, ehe sie befragt werden konnte.
+
+Ich habe in ihrer Seele erfahren, dass sie aus der Abtei des Gefallenen Mondes gekommen war ... und dass der Abt dort von der Armee weiß und sie von einem Ort aus zurückrufen kann, den er das Reliquiar nannte.
+
+Wenn ich in diesen Raum gelange, kann ich die Invasion vielleicht aufhalten, ehe sie beginnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Zwiesprache mit Ondra gehalten, die mir mitgeteilt hat, dass die Augenlosen nicht nachlassen werden, bis nicht jeder mit genauem Wissen um die Weiße Esse getötet wurde. Das sind sehr, sehr viele Leute, mich eingeschlossen.
+
+Sie glaubt, dass es eine Möglichkeit gibt, die Augenlosen zu zerstören: Indem ich den Hammer ihres Schöpfers Abydon aus einem Teil des ursprünglichen Werkzeugs wiederherstelle.
+
+Die Weiße Esse sollte es mir ermöglichen, aus dem Fragment einen Nachbau des Originals anzufertigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ondra hat mir offenbart, dass die Augenlosen sich versteckt halten, wenn sie inaktiv sind. Sie versammeln sich an einem Ort, der Cayrons Narbe genannt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe herausgefunden, wo die Augenlosen sich verstecken. Ich muss einen Weg finden, sie zu zerstören, bevor sie mich mit ihrer vollen Stärke zu jagen beginnen.
+
+Ondra hat mir versichert, dass sie mir sagen wird, was zu tun ist, wenn die Zeit gekommen ist. Sie hat gesagt, dass ich mich im Herzen ihres Verstecks befinden muss, um ihren Plan auszuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich sollte die Weißmark verlassen und mich ausruhen. Mit der Zeit wird Stalwart wieder heilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Festung wurde von Readceranern errichtet, die Durgans Batterie erobern wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Stalwart hat eine Gruppe von Gesandten geschickt, um mit den Readceranern zu verhandeln. Die Gesandten sind jedoch nicht zurückgekehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Abt erwähnte auch, dass ein gewisser „Gezeitenbringer“ kommen würde, um ihn abzulösen. Dieses Wissen könnte nützlich sein, um in die Abtei zu gelangen.</DefaultText>
+      <FemaleText>Der Abt erwähnte auch, dass eine gewisse „Gezeitenbringerin“ kommen würde, um ihn abzulösen. Dieses Wissen könnte nützlich sein, um in die Abtei zu gelangen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ondra ist mir erschienen und hat mich wissen lassen, dass ich mit dem Fragment von Abydons Hammer gegen einen Kristall in der Mitte der Höhle schlagen muss, in der die Augenlosen schlafen.
+
+Sie glaubt, dass die Augenlosen dem Ruf des Hammers ihres Meisters folgen werden und an dieselbe Stelle schlagen, bis die ganze Höhle einstürzt. Sie werden begraben werden.
+
+Das bedeutet aber, dass die Person, die den Hammer führt, wohl dasselbe Schicksal ereilen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich bin aus dem Versteck der Augenlosen entkommen. Als sie starben, verließen ihre Seelen ihre Körper. Ich konnte mit ihnen sprechen. Sie sind Fragmente der Seele von Abydon selbst. Ich habe entschieden, die Seelen zu zerschlagen, so dass sie ihren Meister nie erreichen können ... auf dass er nicht von seiner Vergangenheit und seiner früheren Rolle als Gott der Bewahrung erfahre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich bin aus dem Versteck der Augenlosen entkommen. Als sie starben, verließen ihre Seelen ihre Körper. Ich konnte mit ihnen sprechen. Sie sind Fragmente der Seele von Abydon selbst. Ich habe entschieden, sie zu ihrem Meister zurückkehren zu lassen, auf dass er sich an die Vergangenheit erinnere ... und daran, dass er einst der Gott der Bewahrung war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich bin aus dem Versteck der Augenlosen entkommen. Als sie starben, verließen ihre Seelen ihre Körper. Ich konnte mit ihnen sprechen. Sie sind Fragmente der Seele von Abydon selbst. Wir haben eine Vereinbarung getroffen: Ich lasse sie zu ihrem Meister zurückkehren, auf dass er wieder zum Gott der Bewahrung werden könne. Er muss im Gegenzug von nun an seine Taten durch Kontext abschwächen und zulassen, dass einige Dinge verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich habe von einer Armee geträumt, die über die Weißmark hereingefallen ist und gekommen war, um mich zu vernichten. Sie hat mich gefunden, wohin ich auch geflohen bin, und hat meine Festung in eine Ruine verwandelt. Es fühlte sich nach mehr an als nur einem gewöhnlichen Traum.
+
+Ich muss die Identität dieser Armee ergründen und herausfinden, wie man sie aufhalten kann, ehe es zu spät ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

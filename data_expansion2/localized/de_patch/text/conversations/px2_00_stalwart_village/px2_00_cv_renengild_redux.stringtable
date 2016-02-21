@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_renengild_redux</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>„Wenn das nicht der Held der Weißen Esse ist.“ Renengild nickt dir zum Gruß zu. Sie sieht entspannter aus, als du sie je zuvor gesehen hast.
+
+„Kommst du, um noch einmal nach deinem Erfolg zu sehen? Oder willst du mich nur zum Ruhestand beglückwünschen?“</DefaultText>
+      <FemaleText>„Wenn das nicht die Heldin der Weißen Esse ist.“ Renengild nickt dir zum Gruß zu. Sie sieht entspannter aus, als du sie je zuvor gesehen hast.
+
+„Kommst du, um noch einmal nach deinem Erfolg zu sehen? Oder willst du mich nur zum Ruhestand beglückwünschen?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>„Warum hast du dich zur Ruhe gesetzt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>„Was hast du auf dem Herzen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>„Und vergiss nicht, ich habe mich zur Ruhe gesetzt.“ Sie zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Erst Oger, dann Readceraner, jetzt das? Ich warte immer darauf, dass wir irgendwann einmal Glück haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„Du hast es wieder einmal geschafft. Hoffentlich können wir uns jetzt an echtem Frieden erfreuen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sie reckt sich. „Ich habe für dieses Leben genug von Politik und Stadtstreitereien. Als Tarfos also gesagt hat, dass er die Minen satt ist, habe ich ihn gefragt, ob er bereit wäre, sich die Hände wirklich schmutzig zu machen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie lächelt. „Fast tut er mir leid.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
