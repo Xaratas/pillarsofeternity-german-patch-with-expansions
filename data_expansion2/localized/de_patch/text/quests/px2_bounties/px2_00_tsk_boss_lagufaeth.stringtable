@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Rotwasser-Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte die Rotwasser-Lagufaeth in der Weißsteinsenke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe den Kopf der Brutmutter zu Asca in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Gewaltige Beben haben die Lagufaeth in der Weißmark gestört. Viele der Wesen sind deutlich aggressiver geworden. 
+
+Die schlimmsten leben in dem See in der Weißsteinsenke und sind zu einer Gefahr für Reisende und Bauern dort geworden. Die Einheimischen nennen sie nur noch die Rotwasser-Lagufaeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Asca hat mich gebeten, die Rotwasser-Lagufaeth auszulöschen und ihr den Kopf der Brutmutter als Beweis zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Rotwasser-Lagufaeth ausgelöscht. Asca bezahlt mich für den Kopf der Brutmutter, wenn ich ihn ihr bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für die Rotwasser-Lagufaeth eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_royse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Frau sieht dich an, als wäre sie es gewohnt, schlechte Kunde zu empfangen. Sie schüttelt den Kopf und hält abwehrend die Hände hoch, ehe du überhaupt sprechen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du hast Mylla wohl noch nicht gefunden." Royse verschränkt die Arme und zupft nervös an einem Ärmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Möge Ondra dich segnen, meine Mylla ist zurück." Royses vom Wind gepeitschtes Gesicht ist aufgebläht, ihre Augen sind rot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich bin überglücklich, dass unsere Mylla wieder da ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mylla! Wo bist du diesmal hin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lödgar wird sich eine neue Arbeit suchen müssen, aber zumindest ist unsere Mylla wieder da."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du kannst Hamond sagen, dass ich Mylla den ganzen Tag nicht gesehen habe. Außerdem soll er eben besser auf seinen Laden aufpassen, wenn er nicht will, dass Kinder sich umsehen."
+
+Sie verschränkt die Arme und stellt sich breitbeinig hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Worum geht es überhaupt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Mit den Schultern zucken und vage nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Brauchst du was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sie treibt sich oft in Hamonds Warenhaus herum." Sie zuckt mit den Schultern. "Sie hat ein kleines Problem damit, Dinge nur anzusehen, anstatt sie anzufassen. Hamond liegt mir seit Tagen in den Ohren, dass ich sie fernhalten soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vielleicht weiß ihr Vater, wohin sie verschwunden ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mylla ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wo hält Mylla sich denn gerne auf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sie blinzelt und ist plötzlich beschämt. "Ach, du hast die Batterie geöffnet, oder? Weißt du, es ist eigentlich nicht deine Sorge." Sie zögert, ehe sie fortfährt.
+
+"Es geht um meine Tochter, Mylla. Sie gerät immer wieder in Schwierigkeiten, weil sie in Hamonds Warenhaus herumstöbert." Sie rollt die Augen, beißt sich aber kurz darauf nervös auf die Unterlippe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich habe ein paar Fragen an dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Bitte beunruhige ihn nicht. Er hat schon genug Schwierigkeiten mit seiner Arbeit."
+
+Sie lächelt schwach. "Wir sind dir alle sehr dankbar, dass du die Batterie wieder geöffnet hast. Leute wie mein Lödgar verdienen gutes Geld damit, die ganzen Schäden zu reparieren. Bitte lenke ihn nicht mit Gedanken über Mylla ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Tränen schießen aus Royses ohnehin schon geröteten Augen. Ihr Kopf senkt sich und wenige Augenblicke später stößt sie einen gequälten Schrei aus, gefolgt von bebendem Schluchzen. Panisch läuft sie von dir davon, so schnell ihre Beine sie tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Er arbeitet in Durgans Batterie. Er ist oben auf dem Turm stationiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Tut mir leid, dass ich dir so viel Ärger bereitet habe. Danke, dass du mich nach Hause gebracht hast. Ich verspreche, dass ich nicht wieder davonlaufe."
+
+Sie blickt zu ihrer Mutter hinauf. Als Royce nickt, gibt Mylla dir eine Handvoll warmer, verschwitzter Münzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Du hast eine wirklich gute Tat vollbracht, [Player Name]." Lödgar kniet sich neben Mylla nieder und flüstert ihr etwas zu, während er sie aufmunternd anlächelt.
+
+Mylla macht ein paar Schritte nach vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich bin nur froh, dass du sie gefunden hast, bevor ..." Sie schluchzt und hält sich den Ärmel vor den Mund.
+
+Sie klopft Mylla auf den Rücken und schiebt sie nach vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Nein, lass man gut sein, behalte dein Geld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Mylla blickt zurück zu Royse, die nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Mylla blickt zurück zu Royse, die nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Aber du bist nicht wegen ihr hier, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du weißt nicht, wo dein eigenes Kind ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie schreckt zurück, als hättest du sie geschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Das habe ich nicht gesagt!" Sie kann dir nicht in die Augen sehen, ihr Blick huscht zu Boden, ihre Wangen röten sich. "Aber es ist schwer, sie immer im Auge zu behalten, wo hier in letzter Zeit doch so viel los ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Was ist Hamonds Warenhaus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ein neuer Laden. Er wurde dort gebaut, wo früher Keydys Haus stand, bei der westlichen Palisade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Hamond ist einer von denen, die aus dem Dyrwald gekommen sind. Er verkauft guten Stahl, aber er hält sich quasi die Nase zu, wenn er einem von uns begegnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Hast du eine Ahnung, wo Mylla sein könnte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Und ich werde dieses Mädchen eine Woche lang nicht aus den Augen lassen."
+
+Sie blickt zornig zu Mylla hinab und räuspert sich laut.
+
+Mylla macht ein paar Schritte nach vorne und sagt wie auswendig gelernt:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Danke, mein Herr." Das Mädchen steckt die schmutzigen Münzen ein, blickt dich aber immer noch nicht an.</DefaultText>
+      <FemaleText>"Danke, meine Dame." Das Mädchen steckt die schmutzigen Münzen ein, blickt dich aber immer noch nicht an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Als Royse jedoch wegblickt, um mit jemand anderem zu reden, blickt Mylla dich schüchtern an und flüstert:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Danke, dass du meine Freunde nicht getötet hast. Ich habe im Wald eine Blasenmütze gefunden. Bei den Wurzeln, die aussehen wie Drachenschwänze. Ich wollte sie anziehen, aber sie war zu schwer."
+
+Sie blickt zu Royse, die immer noch abgelenkt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Aber du kannst sie haben, wenn du willst. Sie liegt immer noch bei den Wurzeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Sie wendet sich dem Mädchen zu. "Und du gehst einen Monat lang nicht aus dem Haus. Du hast deinem Vater seine Arbeit gekostet, Mädchen! Was sollen wir jetzt nur ..."
+
+Lödgar bedeutet ihr mit einem sanften Druck auf die Schulter, still zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Gern geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Royses Augen verengen sich zu Schlitzen. Tränen stehen in ihren Lidern. Sie schluckt und atmet langsam aus, bevor sie weiterspricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Schwer, sie im Auge zu behalten?! Was für eine Mutter verliert ihr eigenes Kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ja, ich glaube, ich hatte beim ersten Mal Recht. Du weißt nicht, wo dein Kind ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Gräme dich nicht. Sie wird gewiss wieder auftauchen. Soll ich dir helfen, sie zu suchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Sie ist schon seit einer ganzen Weile fort. Das ist nichts Neues." Sie kauft nachdenklich auf ihrer Lippe herum. "Aber ich mache mir trotzdem Sorgen, dass sie vielleicht in Schwierigkeiten steckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich gehe nach ihr sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich wäre dir sehr dankbar, wenn du die Augen nach ihr offen halten könntest, während du in der Stadt bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oh, danke! Es sind alle so beschäftigt, seit die Minen und die Esse wieder geöffnet sind. Es ist sehr gütig von dir zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Nun ja, äh ..." Royse hebt eine Augenbraue, unschlüssig, wie sie deine Körpersprache interpretieren soll. "Wenn du sie siehst, schick sie bitte zu mir. Das wäre nett."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ja, Hamond. Er ist noch nicht lange her. Er hat sein Zelt dort aufgeschlagen, wo Keydys Haus niedergebrannt ist." Sie blickt dich an, als solltest du wissen, wovon sie spricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Hamond?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Mylla? Ich glaube, du verwechselst mich ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Oh ... ich ... ich habe dich nicht erkannt. Du hast ... äh ... die Batterie geöffnet, oder?" Royse sieht beschämt und nervös aus und stolpert über ihre Worte.
+
+"Weißt du, sie ... meine Tochter Mylla, meine ich. Sie verbringt viel Zeit bei Hamonds Zelt. Gerät in Schwierigkeiten." Sie zuckt die Schultern, erschöpft und ratlos. "Ich dachte, er hätte jemanden geschickt, um sich über sie zu beschweren. Wieder einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Er ist Myllas Vater. Wenn sie in Schwierigkeiten steckt, darf man das nicht vor ihm verheimlichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich sage ihm nichts, keine Angst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Ein leichtes Lachen gleitet über ihre Lippen. "Ja, wir wissen alle, dass du Dinge in Ondras Tiefen verbergen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Und ich bin ihre Mutter." Sie runzelt verärgert die Stirn. "Ich weiß, dass du nur helfen willst, aber ich halte es wirklich für besser, Lödgar nicht von der Arbeit abzulenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sie beobachtet dich, ob und wie du reagierst. Dann hält sie betreten inne, beißt auf ihrer Lippe herum und stößt mit dem Stiefel gegen einen kleinen Eisbrocken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Danke. Bis Mylla wieder da ist, wäre es nur eine unnötige Ablenkung. Behalten wir es vorerst lieber in Ondras Tiefen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Bitte beunruhige ihn nicht. Er hat schon genug Schwierigkeiten mit seiner Arbeit."
+
+Sie lächelt schwach. "Wir sind dir alle sehr dankbar, dass du die Batterie wieder geöffnet hast. Leute wie mein Lödgar verdienen gutes Geld damit, die ganzen Schäden zu reparieren. Bitte lenke ihn nicht mit Gedanken über Mylla ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sicher, ich war schon einmal dort, aber ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Da war ich noch nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Durch sie hindurchstarren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Frau blinzelt, weil du dich so komisch benimmst. Sie wird noch nervöser, als sie es ohnehin schon war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"W-was?" Mit einem Schlag verschwindet alle Farbe aus Royses Gesicht und ihre Miene wird still wie eine Statue. "Wie? W-was meinst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Da war eine Höhle voller Wichte und dann gab es einen Kampf und äh ... es wurde ein wenig unübersichtlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Kollateralschaden. Wenn du besser auf deine Tochter aufgepasst hättest, hätte sie vielleicht nicht mit einer Bande von Wichten herumgehangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Lügen] "Sie wurde tragischerweise ... von Wichten getötet. Ich konnte nichts tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Halt dich einfach von ihm fern. Es heißt, du könntest nicht einmal ein Geheimnis bewahren, wenn dein Leben davon abhinge." Sie verzieht das Gesicht, sobald das letzte Wort ihre Lippen verlassen hat, und zuckt entschuldigend mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Ihr die Zeichnung zeigen.] "Weißt du, wo das ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Sie kneift die Augen zusammen. "Berge und eine Höhle? Davon gibt es hier in der Gegend jede Menge." Sie runzelt die Stirn. "Diese Striche da könnten Menhire sein, wie die in der Weißsteinsenke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Hm. Keine Ahnung, was sie dort wollen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

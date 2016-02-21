@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_herla</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Verflucht soll er sein, dieser ..."
+
+Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dieser verdammte Benno. Ich kann den Karren nicht allein lassen, sonst versinkt er nur wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"He! Danke, dass du Benno zurückgeholt hast. Er hat mir gesagt, was du für eine große Hilfe warst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wenigstens ein freundliches Gesicht sieht man hier. Geht es dir gut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich brauche nur eines: Dass Benno verflucht noch eins wieder zurückgestampft kommt. Wir sind ohnehin schon viel zu spät dran, auch ohne seine idiotischen Trotzanfälle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Brauchst du Hilfe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was ist mit Benno passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wohin wollt ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich habe ihn gefunden. Er ist in eine Falle getappt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Weißt du, in welche Richtung er gegangen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Kann ich sehen, was du zu verkaufen hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Gewiss. Dann müssen wir weniger Gewicht schleppen. Ich versuche, den schlimmsten Schmutz abzubekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Verfluchter Karren! Was soll ich denn jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Verflucht, wo kommst du denn her? Ich habe seit mindestens einem Tag keine andere Seele mehr auf der Straße gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Straße ist wohl etwas übertrieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Wem sagst du das. Wir sind den Lampen gefolgt ... dachten wir. Aber einmal falsch geschoben und der Karren landet geradewegs im Schlamm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ist das zu glauben! Ein hilfreicher Geist, wie in den Fabeln. Vielen Dank, aber ich komme schon zurecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ein kleiner Ratschlag? Wenn du jemals ins Handelsgeschäft einsteigst, sieh zu, dass es in der Familie bleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Was ist nicht passiert? Er ist schon an guten Tagen eine gehässige kleine Krabbe, aber hier draußen ist er absolut unerträglich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Das geht dich nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tja, wenn du meinst! Also ehrlich ... sich an eine Frau anschleichen und sie dann auch noch schwach anreden ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hast du Probleme mit dem Karren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ach, ein kleines Ärgernis, aber ich komme schon zurecht. Helfen würde es mir, wenn Benno wieder Vernunft annimmt und zurückkommt! Hmpf. Aber da fällt wohl eher die Sonne vom Himmel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich könnte versuchen, ihn zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ist notiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Viel Glück dabei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ach, dieser verdammte Narr! Aber es geht ihm gut, ja? Er ist unverletzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Noch ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Es scheint ihm gut zu gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich hasse es, noch mehr von dir zu erbitten, aber ... könntest du ihn befreien? Du wirkst recht fähig, und ich muss auf den Karren aufpassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wir sind nur auf der Durchreise. Oder waren es. Wir sind auf dem Weg nach Stalwart, mit ein paar Gütern zum Handeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wir sind den Lampen gefolgt. Aber einmal falsch geschoben und der Karren landet geradewegs im Schlamm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Die treiben einen vielleicht in den Wahnsinn, aber man ist weniger versucht, ihnen einen Tritt gegen die Schläfen zu verpassen. Meistens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Das wäre großartig! Wenn du diesen sturen Esel zurückholst, dann lege ich etwas Geld für dich beiseite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Davon gibt es hier draußen nicht viel."
+
+Sie seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich habe ihn gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wir sind auf dem Weg nach Stalwart. Naja, wir waren es ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich verdanke ihm mein Leben. Er hat den Dank verdient."</DefaultText>
+      <FemaleText>"Ich verdanke ihr mein Leben. Sie hat den Dank verdient."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Hui ... ich habe ihn noch nie ein freundliches Wort über jemanden sagen hören. Du hast wohl wirklich Eindruck gemacht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du warst eine große Hilfe. Hier. Aus meinem persönlichen Vorrat. Du hast es dir verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vielleicht können wir die Lieferung doch noch abschließen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Kann ich dir vielleicht etwas abkaufen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Natürlich! Du bist immer ein gern gesehener Kunde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"He, da bist du ja! Benno hat gesagt, dass du ihm die Haut gerettet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Naja, so würde ich es nicht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ja-ja. Benno ist dankbar, und ich bin es auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Er ist nach Süden abgedampft."
+
+Sie seufzt. "Hoffentlich geht es ihm gut. Die Gegend hier ist nicht die beste für Spaziergänge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Er ist wütend geworden, als der Karren umgefallen ist ... und ist beleidigt abgehauen. Jetzt sitze ich hier fest, bis er sich beruhigt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hoffentlich versteht ihr zwei euch besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ach, das werden wir bestimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Herla starrt ihn völlig entgeistert an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Schön, dass nicht wieder jemand in den Sumpf gerannt ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Glaub mir, die Versuchung war groß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Benno grunzt und verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

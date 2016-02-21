@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_kern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>138</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Seit Jahrzehnten lebe ich hier. Wir haben zusammen gearbeitet und getrunken und keiner von ihnen rührt auch nur einen Finger!"
+
+Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraft gekostet zu haben. Er sackt zusammen und seine faltigen Züge zeigen seine Erschöpfung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich glaube das alles einfach nicht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gibt es Neuigkeiten? Hast du sie gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Monster! Bestie! Ich hätte dir niemals trauen dürfen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vielleicht kann ich helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich habe die Düsteren Schreiter gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich bringe Neuigkeiten von Haddi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Mein Nachbar, Haddi ... Wir haben uns selbst an guten Tagen nicht verstanden. Dieser Streit um das Land, dass ich die Hälfte meines Eigentums verloren habe ... es ist ausgeartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Töte ihn, nimm dir dein Land zurück. Problem gelöst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Hast du ihn gesehen? Ist Haddi in Sicherheit? Ich schwöre dir, ich wusste nicht, dass Cevestin ein Düsterer Schreiter ist! Ich habe versucht, ihn aufzuhalten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Haddi ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Die Paladine sind tot. Eska hat es nicht geschafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Bei den Göttern, nein ... was habe ich getan?" Kern legt den Kopf in die Hände.
+
+"Sie alle? Seine Familie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Es lagen zwei Leichen in dem Haus, ein Mann und eine Frau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Hast du Schuldgefühle, Kern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich habe hier in der Taverne meine Sorgen ertränkt. Es war ein Fremder hier, Cevestin. Offensichtlich nicht von hier. Wir sind ins Gespräch gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Kauft dir niemand etwas zu trinken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Was jammerst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Erzähl mir von dieser Fehde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich habe versucht, die Sache abzublasen, als ich es erfahren habe. Er sagte, das würde nicht gehen. Bitte, du musst mir helfen. Niemand sonst traut sich, obwohl ich ihnen Geld biete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bitte! Jemand muss etwas unternehmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was soll ich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Richte deinen Zorn gegen diese Paladine! Was Haddi angeht ... bitte tu ihm nichts. Bitte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Normalerweise geben sich Paladine nicht mit solchen Kleinigkeiten ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Moment, du hast einen Mann angeheuert, Haddi zu töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Klingt, als würde er dein Problem lösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nicht um ihn zu töten! Ich war zornig, betrunken ... Haddi hat mich fast ruiniert. Aber deswegen will ich doch nicht seine Familie umbringen lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich sorge dafür, dass Haddi und seiner Familie nichts passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hast du ihn bezahlt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Möge Berath mich richten. Wie konnte nur alles so entgleiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"D-du hast es geschafft! Die Götter segnen dich! Ich werde es niemals wiedergutmachen können, aber ich werde es den Rest meines Lebens versuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Hier ... nimm das. Und danke, dass du mir einen letzten Fleck auf meiner Seele erspart hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich dachte, vielleicht würdest du ... alle töten. Ich bin so froh, dass ich mich getäuscht habe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nein, nein, das darf nicht ... Moment. Was ist mit ihrem Sohn? Eska?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sohn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ist wohl der nächste auf der Liste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sie werden ihn gewiss finden! Bitte, du musst ihn zuerst aufspüren! Ich kann keine drei Morde auf dem Gewissen haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Was? Nein! Das ist ja genau mein Problem! Ich bin neulich Abend betrunken mit einem Fremden ins Gespräch gekommen und habe meinen Ärger mit Haddi erwähnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Es ist schon mehr als einmal hässlich geworden. Ich bin nicht stolz darauf. Meine Familie besitzt hier seit Generationen Land. Haddis Vater hat sich vor einigen Jahren auf einem benachbarten Grundstück niedergelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich wusste überhaupt nicht, dass es einen Vertrag GIBT! Wie kann das denn sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Du solltest wählerischer sein, mit wem du Intrigen schmiedest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Das wollte ich nicht! Ich bin kein Mörder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Danke, du bist ein guter Mann, [Player Name]!"</DefaultText>
+      <FemaleText>"Danke, du bist eine gute Frau, [Player Name]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Weggehen] "Dann mal viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich mache es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Einen Düsteren Schreiter auszuschalten kostet extra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J-ja, das ist gerecht. Du kannst das hier im Voraus haben, wenn du es tust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Halte diesen Wahnsinnigen auf! Und sorge dafür, dass Haddi nichts passiert. Und seiner Familie ebenfalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Aber ... Hilft mir denn niemand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wirklich? Was ist passiert?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Weggehen] "Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Sie werden ihn sicher finden! Bitte, rette Haddi, dann gehört das Geld dir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich habe mich um die Düsteren Schreiter gekümmert. Eska ist am Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Die Paladine arbeiten jetzt für mich. Aber Eska lebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Kleine Planänderung, fürchte ich. Eska ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"W-was? Aber warum ..."
+
+Kerns Gesicht wird zornesrot. "Warum habe ich je geglaubt, dass du anders wärest? Du bist genauso ein Monster wie alle anderen! Verschwinde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Eska hat dich erwähnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Eska? Haddis Sohn? Möge Hylea ihn schützen! Ich dachte ..."
+
+Kern wischt sich die Stirn ab. "Ich wollte nicht, dass das passiert. Cevestin ... dieser Wahnsinnige! Er sollte doch nie jemanden töten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich bezweifle, dass Eska es verstehen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Du hast den Galgen verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich werde es niemals wiedergutmachen können. Aber ich werde es für den Rest meines Lebens versuchen. Zumindest lebt Eska noch! Danke, dass du mir diese frohe Kunde überbracht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich wünschte, das wäre es." Kern reibt sich das Gesicht. "Wenn ich an dem Abend nicht hergekommen wäre, wenn ich stattdessen nach Hause gegangen wäre-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Kern wirft dir einen mürrischen Blick zu, der jedoch schnell einem nachdenklichen Gesichtsausdruck weicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Er hat angeboten, sich für mich 'um die Dinge zu kümmern'. Ich dachte, er würde Haddi einen kleinen Schrecken einjagen. Ihn und seine Ziegen verjagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Noch nicht. Cevestin hat gesagt, er würde mich wieder finden. Ich habe mein Erspartes zusammengekratzt, falls er es ernst meinte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Man sagt, du wärest ein guter Mensch. Ein Schildträger. Da ist es doch deine Pflicht, Leute zu beschützen, oder?"</DefaultText>
+      <FemaleText>"Man sagt, du wärest ein guter Mensch. Eine Schildträgerin. Da ist es doch deine Pflicht, Leute zu beschützen, oder?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank Node 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich muss verrückt sein, einen weiteren Düsteren Schreiter zu fragen. Aber wenn jemand ihn aufhalten kann ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Man sagt, du würdest den Gütigen Wanderern angehören. Du führst Leute in Sicherheit, oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Du gehörst selbst zu den Paladini. Du würdest doch nicht zulassen, dass das passiert, oder? Haddi hat es nicht verdient!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ihr Goldpakt-Ritter seid doch vernünftig! Sie würden es doch verstehen, wenn ich es mir anders überlege. Oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Haddi lebt im Osten, in der Weißsteinsenke. Bitte beeil dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich gehe der Sache nach. Irgendetwas stimmt da nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Weggehen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Die Götter mögen mir vergeben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich wollte nie, dass all das passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"... Dein Geld. Ich bete, dass Cevestins Tod ihren Seelen etwas Frieden schenkt. Ich selbst werde für den Rest meines Lebens keinen mehr finden."</DefaultText>
+      <FemaleText>"... Dein Geld. Ich bete, dass Cevestins Tod ihnen etwas Frieden schenkt. Ich selbst werde für den Rest meines Lebens keinen mehr finden."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Spiel nicht mit mir, Kern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sie sind alle fort ... du ... du Verräter! Du hast nichts von dem getan, worum ich dich gebeten habe! Keine einzige Münze bekommst du von mir!"</DefaultText>
+      <FemaleText>"Sie sind alle fort ... du ... du Verräterin! Du hast nichts von dem getan, worum ich dich gebeten habe! Keine einzige Münze bekommst du von mir!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Angreifen] "Das war ein Fehler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Weggehen.] "Nun gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich bin zufällig bei Haddis Haus vorbeigekommen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Das habe ich von den Nachbarn schon gehört. Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Oh, nein. Du musst mir glauben ... ich wusste es nicht! Ich wusste nicht, dass dieser Wahnsinnige Cevestin ein Düsterer Schreiter war!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Kern greift mit zitternden Händen nach seinem Geldbeutel.
+
+"Die Götter werden dich dafür bezahlen lassen. Und dann rettet dich auch Geld nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Du schuldest mir eine Bezahlung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Er wird sie alle töten! Bitte, du musst ihn aufhalten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ich sorge dafür, dass Haddi und seiner Familie nichts passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Moment, du hast einen Mann angeheuert, Haddi zu töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Nicht um ihn zu töten! Ich war zornig, betrunken ... Haddi hat mich fast ruiniert. Aber deswegen will ich doch nicht seine Familie umbringen lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich werde sehen, was ich tun kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Danke, du bist ein guter Mann, [Player Name]!"</DefaultText>
+      <FemaleText>"Danke, du bist eine gute Frau, [Player Name]!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Weggehen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Aber ... Hilft mir denn niemand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Script Node 116</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Script Node 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Eska ... dann sind sie alle fort. Wie konntest du das zulassen? Verschwinde! Weg von mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Verpiss dich, Kern. Ich habe genug Probleme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Tut mir leid, mir ist nicht nach Plaudern. Aber irgendjemand hier wird schon mit dir anstoßen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"He, du ... du hast doch die Batterie geöffnet, oder? Du hast einen von Renengilds Briefen bekommen und bist hergekommen ... vielleicht kannst du mir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Kern blickt zu dir auf, überrascht. Er sieht sich in der Taverne um, dann tritt er näher und spricht in leisem, dringlichem Ton zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich habe etwas Schreckliches getan. Und ich weiß nicht, ob ich es wiedergutmachen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Er lächelt freundlich. Sagt, er wäre ein Paladin. Dass er sich für mich um Haddi kümmern würde, mein Land zurückholen, wenn ich ihm meinen Wochenlohn gebe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ich wusste nicht, dass er ein Düsterer Schreiter ist! Ein Wahnsinniger! Ich war halb betrunken, ich dachte, Cevestin meinte, er würde mit Haddi sprechen. Ihm etwas Angst machen. Nicht ihn umbringen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Wer auch immer die Urkunde aufgesetzt hat, er hat Land verkauft, das nicht ihm gehörte. Hier oben laufen die Dinge anders als in Trutzbucht. Hier gibt es keinen Duc, keine Halle der Urkunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Jedenfalls wird seitdem gestritten. Gestern erschien es mir noch wichtig. Aber jetzt weiß ich nicht mehr so recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ich werde sehen, was ich tun kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Danke. Mehr verlange ich nicht. Vor dir wollte es niemand wenigstens versuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich liebe Gold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Was? ... Oh, ja, natürlich! Ich bezahle dich. Ich gebe dir, was der Düstere Schreiter verlangt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Was ist ein Düsterer Schreiter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Sie sind eher eine Naturgewalt als ein Paladinorden. Mir erscheint es sinnlos, sein Leben etwas so Zerstörerischem zu verschreiben. Wie auch immer sie rechtfertigen, was sie tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Eure Orden unterhalten sich wohl eher selten. Die Düsteren Schreiter ... soweit ich das verstehe, glaubt ihr Orden, dass Brutalität der beste Weg ist, um den Frieden zu wahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Wenn irgendwo Düstere Schreiter auftauchen, geht meistens alles ganz schnell vor die Hunde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Meistens reicht es, wenn sie sich zeigen. Sie werden dafür bezahlt, herumzustehen und gefährlich zu wirken."
+
+"Ich ... ich verstehe nicht, warum Cevestin das tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Sie verhandeln nicht und sie kennen keine Gnade. Wenn sie einmal den Auftrag erhalten haben, irgendwo aufzuräumen, hören sie erst auf, wenn sie das getan haben. Und sie überlegen es sich nie anders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ich-ich habe mich umgehört. Soweit ich das verstehe, glaubt ihr Orden, dass Brutalität der beste Weg ist, um den Frieden zu wahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Wo ist Cevestin jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Er muss inzwischen auf dem Weg zu Haddi sein. Er ist nach unserem Gespräch noch ein paar Tage hier geblieben. Vermutlich aus Häme. Oder er hat auf jemanden gewartet. Aber dann ist er weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich habe einige Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ich sage dir alles, wenn es hilft. Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Hat Cevestin dir nicht gesagt, dass er ein Düsterer Schreiter ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Zunächst nicht. Nicht, bis es zu spät war. Ich hatte ein bisschen was getrunken, aber ... ich glaube, ich würde mich daran erinnern, wenn er es groß verkündet hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Mehr Fragen habe ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Kern nickt und blickt dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Haddi und seine Familie sind tot. Aber ich habe die Paladine getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich habe mich um die Düsteren Schreiter gekümmert. Haddi und Elwyna sind tot, aber Eska lebt noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Bei den Göttern ... Haddi ... aber Eska lebt? Du hast ihn gerettet? Dann schulde ich dir dafür alles. Ich werde es nie wiedergutmachen können, aber ich werde es versuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Planänderung, fürchte ich. Haddi und seine Frau und sein Sohn sind alle tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Haddi und Elwyna sind tot. Aber ich konnte die Düsteren Schreiter rechtzeitig zurückpfeifen, um ihren Sohn zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Du hattest also Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

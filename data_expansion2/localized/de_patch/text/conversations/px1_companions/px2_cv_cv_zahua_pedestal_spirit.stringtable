@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px2_cv_cv_zahua_pedestal_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein einsamer Geist schwankt vor und zurück, aufgebracht vor sich hin murmelnd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich kann von ihnen lernen. Aus ihren Fehlern. Ihr Scheitern hat mir den Weg offenbart, und ich stehe kurz vor dem Ziel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Der Geist deutet auf eine verstreute Ansammlung verstümmelter und verrenkter Leichen, die um ein Steinpodest verteilt sind.
+
+Irgendetwas an den Leichen erscheint dir seltsam. Erst nach einer kurzen Weile wird es dir klar ... sie scheinen alle zur selben Person zu gehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zahua lacht. "Da wäre ich mir nicht so sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kurz vor welchem Ziel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vielleicht kann ich ihn für dich besorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Warum willst du ihn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Auf das Podest, das du vor dir siehst -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Er ist das Einzige, was mir noch von dem bleibt, was mir wichtig war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sehr wichtig, scheint mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Konntest du den Edelstein beschaffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Den Edelstein überreichen.] "Ja, ich habe ihn hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich kann ihn fast in meinen Händen spüren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Das ist eine große Erleichterung. Gib, gib!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Geist streckt dir klauenähnliche, durchsichtige Hände entgegen. Als du den Edelstein fallen lässt, fällt er durch die Geisterhände hindurch und landet auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Argh. Ungeschickt. Aber keine Sorge, ich hebe ihn auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Geist bückt sich, um den Edelstein aufzuheben. Er greift danach, kann ihn jedoch nicht berühren.
+
+Er versucht es wieder und wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Von dieser Falle hat mir mein Meister nie erzählt. Wie stark und doch kaum merklich die Vergangenheit uns im Griff hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Lass uns weiterziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Zahua nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Geist scheint darüber nachzudenken. Dünne Essenzfäden schießen wie elektrische Blitze aus seiner Gestalt und in sie hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das wäre höchst willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Das mit den Leichen?"
+
+Ein verärgertes Zittern zuckt durch den Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ja, das mit den Leichen."
+
+"Wie ich gerade sagen wollte ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Auf das Podest, das du vor dir siehst, habe ich einen Edelstein gelegt, um ihn dort aufzubewahren. Du hast noch nie einen solch makellosen Edelstein gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Fast augenblicklich habe ich es bereut, ihn abgelegt zu haben. Seitdem kann ich an nichts anderes denken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Aufgeregt pulsiert der Geist vor Licht und Wärme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Können wir ihm nicht einmal zusehen, wie er ihn holt? Vielleicht einige Kniffe lernen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

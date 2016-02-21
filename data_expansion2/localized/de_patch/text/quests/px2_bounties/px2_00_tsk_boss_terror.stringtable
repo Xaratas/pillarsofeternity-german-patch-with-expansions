@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_terror</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Der Schrecken der Weißsteinsenke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lösche den Schrecken der Weißsteinsenke aus und finde die Brosche wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe die Brosche zu Asca in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Bei einer Lawine sind vor kurzem auf der Straße in die Weißsteinsenke dutzende von Reisenden und Händlern ums Leben gekommen. Ihre Seelen haben eine Fäule gebildet, die jetzt die Gegend heimsucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Asca glaubt, dass die einzigartige Brosche des Karawanenmeisters in der Fäule eingefroren ist. Wenn ich die Kreatur getötet habe, kann ich die Brosche als Beweis an mich nehmen und meine Belohnung fordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Schrecken der Weißsteinsenke ausgelöscht. Asca gibt mir eine Belohnung im Tausch gegen die Brosche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für den Schrecken der Weißsteinsenke eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

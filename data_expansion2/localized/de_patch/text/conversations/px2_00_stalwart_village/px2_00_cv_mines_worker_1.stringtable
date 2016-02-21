@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_mines_worker_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Es ist offensichtlich, warum Gamel verdächtigt wird. Sein Gesicht ist voller Blutspritzer. Seine Hände sind gefesselt, aber du siehst Blut und Hautfetzen unter seinen Fingernägeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wo sind die anderen Bergarbeiter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was tust du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen] "Das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich habe das nicht verdient! Ich war es nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich weiß es nicht. Niemand weiß, wo die Bergarbeiter abgeblieben sind. Ich schwöre es! Ich hatte nichts damit zu tun."
+
+Seine Stimme überschlägt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was ist das Letzte, woran du dich erinnerst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Gamel blickt dich mit weit aufgerissenen Augen an. Als er den Mund zum Sprechen öffnet, bemerkst du, dass auch seine Zähne und Lippen voller Blut sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bitte, es war so, wie ich ihnen gesagt habe. Ich weiß nicht, was passiert ist! Ich k-kann mich an nichts erinnern. Nie im Leben hätte ich das Sameth angetan!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Teryc, der mich wachschüttelt. Ich war auf dem Boden. Sameth lag in der Nähe und er war ... er war tot."
+
+Die Verzweiflung steht ihm ins Gesicht geschrieben. "Das ist alles. Mehrere Stunden sind einfach ... weg. Völlig aus meinem Kopf verschwunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Weggehen.] "Nun gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wenn du unschuldig bist, werde ich alles versuchen, um es zu beweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"W-was wolltest du fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Weggehen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Gamel blickt dich matt an und wartet, bis du sprichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Oh, du sollst gesegnet sein! Ich wusste, dass jemand die Wahrheit aufdecken würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich? Ich bin nur zum Schleppen da. Die Loren beladen, das Erz von hier nach da bringen. Eigentlich mache ich einfach, was sie mir auftragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich habe ein paar Fragen an dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Warten, bis Gamel sich beruhigt hat.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Danke! Danke. Mehr will ich doch gar nicht, nur eine Chance. Ich war das nicht! Ich habe es nicht verdient, bestraft zu werden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Gamel schluckt, senkt den Kopf und verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wer ist Teryc?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Er ist für den Bau in den Tunneln zuständig. Es gab einen Einsturz nördlich von hier. Er und einige andere sind seit einiger Zeit mit dem Aufräumen beschäftigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sag mir, wo sie sind, dann bitte ich den Vorarbeiter, gnädig mit dir zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wenn ich herausfinde, dass du lügst, bringe ich dich persönlich um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich glaube dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich weiß nicht- ... niemand weiß, wo die Bergarbeiter abgeblieben sind. Ich schwöre es! Ich hatte nichts damit zu tun."
+
+Sein offener, ehrlicher Blick lässt vermuten, dass er die Wahrheit sagt ... oder das zumindest selbst glaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich würde es dir ja sagen, wenn ich es wüsste! Aber ich weiß es nicht! Ich habe keine Ahnung, was hier los ist. Bitte, ich sage die Wahrheit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"W-wirklich? Danke. Das ... das ist ein einziger Albtraum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Gamel zuckt zusammen. "N-nein, wirklich nicht! Ich schwöre es. Ich hätte ihm niemals etwas angetan. Das ist alles ein Missverständnis!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Er muss gerade Vorräte für den Trupp geholt haben, als er mich gefunden hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Gamel ist zusammengesackt, Tränen haben Spuren in die dicken Blutschichten auf seinem Gesicht gegraben. Kaum erblickt er dich, wirst du zum Ziel eines flehentlichen Ausdrucks auf seiner Miene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Warum widerfährt mir das?"
+
+Er versucht, sich mit dem Handrücken die Nase abzuwischen ... und hinterlässt tiefrote Schmierspuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich-ich lebe noch nicht lange in Stalwart. Ich hatte gehört, dass sie Arbeiter für die Minen suchen und dachte, ich könnte hier neu anfangen. Vielleicht sogar die Batterie sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

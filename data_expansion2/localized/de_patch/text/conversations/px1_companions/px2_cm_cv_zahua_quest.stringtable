@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px2_cm_cv_zahua_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>136</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Dort vorne ist ein Geisterlöwe. Siehst du ihn, Wächter?"
+
+Zahuas weit aufgerissene Augen verfolgen die Bewegungen eines unsichtbaren Tieres.</DefaultText>
+      <FemaleText>"Dort vorne ist ein Geisterlöwe. Siehst du ihn, Wächterin?"
+
+Zahuas weit aufgerissene Augen verfolgen die Bewegungen eines unsichtbaren Tieres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Der Löwe war das Symbol meines Meisters, Ixepillo. Das ist ein Zeichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ist er gekommen, um mich endlich zu lehren, was er mich im Leben nicht lehren wollte? Der Anitlei zu sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Der Anitlei? Was war das doch gleich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich dachte, die Quechmatl hätten euch besiegt. Ist es nicht zu spät dafür?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich habe geschworen, zurückzukehren und mein Volk zu befreien, wenn ich einmal gelernt habe, zum Anitlei zu werden. Das ... dieser Löwe ... das ist es, worauf ich gewartet habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das ist ein Nalpazca-Krieger, der sich über die Fesseln der materiellen Welt erhoben hat. Er kann nicht besiegt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Es war Ixepillos größtes Geheimnis. Selbst am Tag seines Todes hat er sich geweigert, es mir zu offenbaren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Hätte er es mich gelehrt, hätte ich die Tacan beschützen können. Wir wären niemals besiegt worden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was schlägst du vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich habe einige Kräuter vorbereitet. Malcachoa und einige andere Dinge. Wir sollten sie essen, damit wir dem Löwen in seiner Welt begegnen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Es wäre mir eine Ehre, wenn du mich auf dieser Reise begleiten würdest. Ein Wächter kann viele Dinge sehen, die ich nicht sehe."</DefaultText>
+      <FemaleText>"Es wäre mir eine Ehre, wenn du mich auf dieser Reise begleiten würdest. Eine Wächterin kann viele Dinge sehen, die ich nicht sehe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Das gilt für alle. Ich würde die Anwesenheit von Freunden sehr zu schätzen wissen."
+
+Er schüttet eine Mixtur aus Blättern und Pilzen in seine Hand und streckt sie aus, so dass die anderen sie begutachten können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nun gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich will das nicht tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bist du bereit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Zahua zuckt zusammen, als wäre er geschlagen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dieser Löwe ist es, wonach ich gesucht habe. Ich kann diese Gelegenheit nicht verstreichen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich verspreche, dass wir so bald wie möglich zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Dann bist du auf dich allein gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich verstehe. Ich hoffe nur, dass der Löwe warten kann."
+
+Tiefe Sorgenfalten machen sich auf Zahuas üblicherweise gelassener Miene breit. Er blickt wieder zu dem Löwen, dann wieder zu dir. Er neigt den Kopf und nickt resigniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Es scheint einen Augenblick zu dauern, bis Zahua deine Worte registriert. Langsam nickt er mit dem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ja, fangen wir an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Di verus? Das kann nicht dein Ernst sein ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich komme mir vor, als wäre ich wieder an der Sagenakademie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich probiere alles einmal. Mehrmals, wenn es gut ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vielleicht kann ich einfach ein paar von den Sporen einatmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Erzähl meinen Kindern nichts davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich fasse es nicht, dass du mir das so lange vorenthalten hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nach Wissen und Verständnis zu streben ist nie schlecht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Es gibt einfachere Wege, die Welt zu verstehen, Mönch. Ein einziger Schlag mit meinem Stab würde ausreichen. Aber gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Das ist ungerecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es gibt keine besseren Freunde als die, die gute Drogen teilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich hätte zuerst noch einige Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du wirfst dir ein wenig der Mixtur in den Mund und kaust.
+
+Zunächst ist der Geschmack fad und erdig, aber nach wenigen Augenblicken wird er extrem sauer, dann süß wie Nektar. Dann nimmt er einen völligen neuen Charakter an, anders als alles, was du je gegessen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Deine Sicht verschwimmt und du siehst die Welt in einem anderen, bunteren Spektrum.
+
+Zahua sieht deinen Gesichtsausdruck und lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich bin jetzt bereit, den Löwen zu verfolgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wunderbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Zahua verteilt die Kräutermischung. Einen großzügigen Teil davon behält er für sich selbst.
+
+Die Pflanzen geben ein Bouquet aus starken, widersprüchlichen Düften ab ... einige süß, einige scharf, mindestens einer, der dich sofort niesen lässt. Optisch sind sie dir größtenteils unbekannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Der Löwe wieder. Das ist sehr gut. Es besteht eine gute Chance, dass er mich lehrt, zum Anitlei zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Begleitest du mich auf dieser Reise?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich habe im Moment einfach keine Zeit dafür. Meine Antwort lautet immer noch nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Der Löwe darf uns nicht entwischen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Hast du gesehen, wohin er gelaufen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Singt diese Blume da? Nein, konzentrier dich, Zahua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Da, ich sehe ihn!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Was ist das, dass so viele gestorben sind, um sich ihm zu nähern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Die Vision der Schamanin ist mir immer in Erinnerung geblieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Selbst nach seinem Tod hatte ich immer das Gefühl, dass Ixepillo einen Weg finden würde, mich sein Geheimnis zu lehren, wenn die Zeit gekommen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Als der Quechmatl-Häuptling mich sah, wusste er, dass ich nicht bereit war, mich ihm zu widersetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Zahua schüttelt den Kopf und lächelt verbittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nachdem mein Meister verstorben war, selbst nachdem die Tacan besiegt waren, dachte ich daran, was die Schamanin gesagt hatte, und klammerte mich an die Hoffnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Aber ich frage mich, ob es mich nicht auch stolz gemacht hat ... und töricht. Ob ich meine eigene Niederlage ignoriert habe, weil ich sie nicht für möglich hielt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Die Tacan sind noch nicht besiegt. Dich gibt es noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Eine Quelle der Hoffnung ist niemals etwas Schlechtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vielleicht befreist du dein Volk doch noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Du hast dich von deinem Stolz überwältigen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Zahua hat seinem Volk als Häuptling keinen Gefallen getan. Und die Quechmatl würden deine Worte verspotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich frage mich, wie mein Pfad andernfalls ausgesehen hätte. Hätte ich einen Sinn gefunden, wenn sie mir nicht den Sieg zugesichert hätte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Der Stolz ist eine der einfachsten Fesseln. Eine der ersten, die die Nalpazca abwerfen. Wir verbringen Jahre damit, Werke von großer Schönheit zu erbauen ... und müssen sie dann vernichten."
+
+Zahua schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Und doch sind wir ihm auf der Spur und sein Wissen ist für mich noch immer ein ebensolches Geheimnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ist es das, was ich erkennen soll? Dass seine Lehren für mich immer außer Reichweite bleiben werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vielleicht ist die Zeit zum Loslassen gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Wir sind hier noch nicht fertig. Es muss hier noch etwas geben, was sich zu lernen lohnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Die Tacan bestehen nicht nur aus Ixepillos Lehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Es ist bedeutungslos. Die Tacan existieren nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Zahua sucht, seit er ein junger Mann ist. Sollte er diese Suche mit leeren Händen beenden, was würde er dann tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ja. Das ist nur ein Teil des Ganzen. Es muss noch mehr zu enthüllen geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Du sprichst die Wahrheit. Aber sein Wissen ist der Unterschied zwischen einem freien Tacan und einem versklavten Tacan. Zahua kann nicht anders, er muss danach suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Und doch gibt es hier etwas, was Zahua verstehen soll. Spürst du es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Wäre ich überzeugender gewesen, so hätten sie nicht angegriffen. Das habe ich immer geglaubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Er nickt. "Das sieht Zahua jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Sie wären früher oder später sowieso gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wenn du Ixepillos Lehren hättest meistern können, hätten sie euch vielleicht in Ruhe gelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich stimme zu. Eine bessere Täuschung hätte vielleicht eure Sicherheit garantiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Es lässt sich unmöglich sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Das war das Leben der Tacan. Wir haben in dem Wissen gelebt, dass die Wölfe eines Tages kommen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Und schließlich kam der Tag, an dem wir verwundet waren und ihnen nicht entkommen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Für kurze Zeit vielleicht. Aber rückblickend habe ich mich getäuscht."
+
+"Wir waren für sie immer die Beute, nie der Räuber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vielleicht, aber ich glaube, ich habe mich getäuscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ixepillo hat mich nie davor gewarnt. Aber ich hätte es früher erkennen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich bin zu einem Sklaven von Wissen geworden, das ich nie erlernen werde. Ich habe all mein Versagen geleugnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Und doch fühle ich mich nicht anders, nicht freier als zuvor. Irgendetwas übersehe ich, selbst jetzt noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Vielleicht ist das deine Antwort. Sehen wir, was aufgedeckt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Zahua steht schweigend da und starrt auf die Stelle, an der die Erscheinungen zuletzt zu sehen waren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Was sollte das alles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ist das wirklich passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Wer war diese Frau?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Sie war eine Nalpazca-Kriegerin, die älteste Tochter der Schamanin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Sie war die Gemahlin des Tacan-Häuptlings ... zumindest sollte sie es werden. Wenn die Tacan nicht gefallen wären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Das hast du mir nie erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ein Streit, den Zahua einmal mit jemandem hatte."
+
+Sein Kiefer ist zusammengepresst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Zahua hat noch nie mit jemandem darüber gesprochen."
+
+Sein Gesicht ist angespannt, seine Haut nicht glatt wie sonst. Er sieht alt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Es hat sich nichts daraus ergeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Vor einigen Jahren kam Zahua der Gedanke, dass er Ixepillos Geheimnis vielleicht nie erfahren würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Aber er hatte geschworen, zu seinem Volk zurückzukehren, also tat er das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Er reiste nach Quechmatl, und während ihre Krieger auf Raubzügen waren, sprach er mit den überlebenden Tacan, die er dort vorfand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Er hatte mit seiner Rückkehr zu lange gewartet. Wenn es je einen Zeitpunkt für die Befreiung seines Volkes gegeben hatte, war er längst verstrichen, während er nach dem Geheimnis des Anitlei jagte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Warum hast du weitergesucht, wenn du wusstest, dass du gescheitert warst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Es muss doch etwas gegeben haben, was du hättest tun können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Dann hättest du Rache nehmen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Zahua schweigt einen Augenblick lang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ixepillos Wissen war das Letzte, was von den Tacan vielleicht noch hätte gerettet werden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Aber ich erkenne jetzt, dass ich in einer Fessel gefangen war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Der Edelstein, die Antilope, der Wasserfall. In ihren Lektionen ging es nicht um Ixepillos Geheimnisse. Es ging um meinen Schwur, zu den Tacan zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das habe ich mir all diese vielen Jahre lang gedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Rache ist niemals der Pfad der Nalpazca. Sie führt von der Erleuchtung fort ... ins Leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich hatte gedacht, ich würde weiter den Pfad beschreiten, den mein Meister für mich auserwählt hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Die Zeit meines Volkes ist vorüber. Ich kann nichts mehr für sie tun."
+
+Die Worte scheinen ihn zu überraschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Die Tacan haben ihre Zeit gelebt und haben ihre Spuren in der Welt hinterlassen. Sie brauchen nichts weiter von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Was du von nun an tust, dient allein deiner Seele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Du bist der letzte Tacan. Was du von nun an tust, tust du in ihrem Andenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Die Kultur der Tacan und ihrer Nalpazca-Krieger besteht in dir weiter. Du kannst sie noch immer in die Zukunft tragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Sie waren ein großes und inspirierendes Volk. Es war ein Geschenk, einer von ihnen sein zu dürfen. Von ihnen zu lernen und unter ihnen zu leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Als Nalpazca bekamen wir immer gelehrt, unsere eigene Seele zu nähren. Anderen ihre eigene Reise zu gewähren. Vielleicht ist es an der Zeit, dass ich diesen Ratschlag befolge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Meines Wissens ist der Wunsch, dem eigenen Volk Tribut zu zollen, keine Fessel. Selbst, wenn ich scheitern sollte, ist es ein guter Pfad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ihre Zeit auf Eora war zu kurz. Es gibt vieles, was der Rest der Welt von ihnen hätte lernen können. Vieles, was ich vielleicht noch teilen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Zahua blickt sich um und lächelt leblos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Der Traum verblasst um uns herum. Ich glaube, es ist an der Zeit zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Die leuchtenden Farben um dich herum scheinen trübe zu werden. Gegenstände bewegen sich und verwandeln sich wieder in ihre ursprüngliche Gestalt zurück.
+
+Zahua sieht aus wie immer ... dieselbe zerrissene Haut, dieselbe flüssige Körperhaltung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Zahua blickt zum Rest der Gruppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ihr seid bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Es tut mir leid, dass wir unsere Reisen nicht gemeinsam abschließen konnten. Mögest du schwer leiden."
+
+In seinen Worten liegt keine Bosheit. Er lächelt dich an und verschwindet dann im Wald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Aber was du sagst ist dennoch wahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Zahua bringt seinem Orden Schande, weil er zugelassen hat, dass er seinen Weg zurück in sein Herz findet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ich bin in einer Fessel gefangen. Ich zerbreche mir den Kopf über Dinge, die sich nicht ändern lassen. Diese Visionen beschämen mich mit ihren Wahrheiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Nur der Blick in seinen Augen hat sich verändert. Es ist der Blick eines freien Mannes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Zahua atmet noch immer schwer und scheint in Gedanken verloren zu sein.
+
+Er bemerkt deinen Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Zahua scheint dir nicht in die Augen sehen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Er schweigt wieder. Seine Augen suchen den Boden ab und scheinen dann an etwas haften zu bleiben. Du blickst nach unten, siehst aber nur einen kleinen Wurm, der sich in der Nähe von Zahuas Füßen in die Erde gräbt.
+
+Er starrt eine Weile in diese Richtung. Dann blickt er langsam zu dir auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Zahua blickt auf den Staub auf seinen Händen. Er hält sie zusammen, die Handflächen nach oben, wie zu einer Schale geformt ... als würde er eine wichtige Weisheit seines Meisters beschützen wollen.
+
+Trotz seiner Bemühungen trägt der Wind die Überreste fort und er bleibt mit leeren Händen zurück. Er runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Zahua betrachtet den Körper seines Feindes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

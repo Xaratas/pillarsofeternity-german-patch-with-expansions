@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\endgameslides</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Als das Fragment von Ionni Brathr um dich herum zusammenbrach, zog es dich in die eisigen Tiefen von Cayrons Narbe.
+
+Du starbst in dem Wissen, dass die Bedrohung durch die Augenlosen mit dir starb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Leider solltest du wenig Zeit haben, darüber nachzudenken. Bald nach deinem Sieg in Sonne im Schatten verbreiteten sich im Dyrwald Gerüchte über eine gewaltige Armee.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

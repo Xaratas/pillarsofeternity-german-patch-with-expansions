@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_vithrack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Flüstern in der Dunkelheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche nach den verschwundenen Bergarbeitern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erforsche die östlichen Minen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erkunde das Vithrack-Lager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kümmere dich um den Strahlenpilz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Vorarbeiterin Ismey zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Gamel, ein Arbeiter in den Minen von Stalwart, wurde wegen Mordes verhaftet. Vorarbeiterin Ismey glaubt, dass Gamel auch für das Verschwinden einiger Bergarbeiter in jüngster Zeit verantwortlich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vorarbeiterin Ismey hat mich gebeten, das Verschwinden mehrerer Bergarbeiter zu untersuchen. Sie schlug vor, dass ich zunächst Gamel befrage. Er wird im Quartier der Vorarbeiterin gefangengehalten, links neben dem Eingang zu den Minen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Alle Informationen, die ich gesammelt habe, führen zu den östlichen Minen. Ich sollte meine Suche dort fortsetzen, jenseits des Minenschachts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Einer der Spinnentunnel in den Mauern der Minen hat mich zu einem großen Vithrack-Lager geführt. Vielleicht hat das etwas mit dem Verschwinden der Arbeiter zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ein großer Organismus, der Strahlenpilz genannt wird, hat sich in das Vithrack-Gemeinschaftshaus gegraben. Er übernimmt nach und nach den Verstand der Vithrack in der Siedlung ... und beeinflusst durch sie die Bergarbeiter. Ich muss diese Kreatur vernichten, wenn ich die Vithrack und die Arbeiter befreien will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe den Strahlenpilz vernichtet. Die Vithrack sollten keine Gefahr für die Minen mehr darstellen. Ich muss Ismey von meinem Erfolg berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe eine versiegelte Tür gefunden, die keine sichtbare Möglichkeit besitzt, sie zu öffnen. Eine Glyphe über der Tür gibt einen seltsamen Ton ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich bin einem Vithrack namens Terenat begegnet. Er wurde gefangengehalten, weil er den Schlüssel zum Gemeinschaftshaus vor seinen Vithrack-Brüdern versteckt hatte ... damit ihre Infektion sich nicht noch weiter ausbreiten kann. Er hat mir gesagt, dass der Schlüssel in den Nestern südlich von hier versteckt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe in den Vithrack-Nestern einen Kristall gefunden. Vielleicht kann ich damit die versiegelte Tür öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Offenbar ist Gamel nicht der einzige Bergarbeiter, der sich seltsam verhält. Teryc vermutet, dass die Schwefelmine irgendeine Wirkung auf die Arbeiter haben könnte. Er schlägt vor, dass ich im Osten nach den verschwundenen Arbeitern suche, wo der Großteil des Schwefelabbaus stattfindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Gamel sagt, er erinnert sich daran, wie Teryc ihn gefunden hat, ein anderer Arbeiter. Er kann sich aber nicht erinnern, was an dem fraglichen Tag davor geschehen ist. Er sagte, dass Teryc gerade damit beschäftigt ist, einen Einsturz in dem Tunnel im Norden aufzuräumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Cillan, die Aufseherin der Schwefelmine, hat ihren Konstrukten befohlen, mich anzugreifen. Ich war gezwungen, die Aufseherin zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Cillan, die Aufseherin der Schwefelmine, in einer Art Trance vorgefunden. Sie hat ihren Konstrukten befohlen, mich anzugreifen. Glücklicherweise konnte ich ihr Leben verschonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ismey hat erwähnt, dass die Leiche von Sameth, einem der Opfer, im Tunnel im Osten liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Sameths Leiche trägt die Spuren eines brutalen Angriffs. Ihm wurde die Kehle herausgerissen und sein Gesicht ist übersät von Kratzern. Seine Hände sind seltsamerweise gelb gefärbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe zufällig gehört, wie einer der Bergarbeiter etwas von einem Kristall gemurmelt hat. Er schien in einer Art Trance zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich bin einem Vithrack begegnet, der sehr entschlossen schien, einen bestimmten Kristall zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich bin den seltsamen Geschehnissen in den Minen von Stalwart nachgegangen und habe festgestellt, dass ein Strahlenpilz an allem schuld war: Ein seltsames Gewächs, das Gedanken kontrollieren kann. Es hatte die Kontrolle über eine Vithrack-Kolonie übernommen und konnte durch sie die Bergarbeiter in den Tunneln darüber beeinflussen. Ich habe den Strahlenpilz getötet und damit seiner Kontrolle ein Ende bereitet und die Minen gesichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich bin den seltsamen Geschehnissen in den Minen von Stalwart nachgegangen und habe festgestellt, dass ein Strahlenpilz an allem schuld war: Ein seltsames Gewächs, das Gedanken kontrollieren kann. Es hatte die Kontrolle über eine Vithrack-Kolonie übernommen und konnte durch sie die Bergarbeiter in den Tunneln darüber beeinflussen. Ich habe den Strahlenpilz getötet und damit seiner Kontrolle ein Ende bereitet und die Minen gesichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich bin den seltsamen Geschehnissen in den Minen von Stalwart nachgegangen und habe festgestellt, dass ein Strahlenpilz an allem schuld war: Ein seltsames Gewächs, das Gedanken kontrollieren kann. Es hatte die Kontrolle über eine Vithrack-Kolonie übernommen und konnte durch sie die Bergarbeiter in den Tunneln darüber beeinflussen. Ich habe den Strahlenpilz getötet und damit seiner Kontrolle ein Ende bereitet und die Minen gesichert. Ismey war froh zu hören, dass die Lage bereinigt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_02_durgans_battery\px2_02_qst_tower_cannons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Mache die Kanonen bereit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Steige auf den Westturm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Repariere den Artillerieaufzug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Repariere die Langstreckenkanonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Wengra vor Durgans Batterie zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde Wengra bei Durgans Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Langstreckenkanonen auf dem Westturm von Durgans Batterie waren einst eine mächtige Verteidigung. Sie könnten einen wertvollen Schutz für die Batterie darstellen ... und für mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wengra hat mir berichtet, dass die Langstreckenkanonen auf dem Westturm stehen.
+
+Sie sagte aber auch, dass die Arbeiter, die sie losgeschickt hat, um sie zu reparieren, von Bestien angegriffen wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Artillerieaufzug, der auf den Turm führt, ist kaputt. Ich muss ihn reparieren, um weiter voranzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich bin oben auf dem Westturm angelangt. Ich muss sichergehen, dass die Langstreckenkanonen funktionieren, bevor ich zu Wengra zurückkehre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe einen Heizkessel auf dem Westturm aktiviert, der die Langstreckenkanonen warm hält. Dabei hatte ich eine Vision, wie jemand ... ich glaube Abydon ... in der Weißen Esse einen Maegfolc aus Metall und Fleisch erschafft.
+
+Ich muss Wengra berichten, dass der Westturm gesichert ist und die Langstreckenkanonen bereit sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Deryan hat erwähnt, dass Wengra und ihre Männer die Langstreckenkanonen der Batterie reparieren.
+
+Es würde sich wohl lohnen, sie einmal anzusehen. Diese Kanonen könnten eine hervorragende Waffe gegen die Armee aus meiner Vision darstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Langstreckenkanonen sind eingefroren. Ich muss einen Weg finden, sie warm zu halten, bevor sie jemand verwenden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Eines der Zahnräder des Getriebes fehlt. Ich muss ein neues finden, um es zu ersetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe ein Zahnrad gefunden. Damit kann ich das Getriebe des Aufzugs reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die Kette ist völlig verrostet. Vielleicht funktioniert sie wieder, wenn ich etwas finde, womit ich den Rost entfernen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe ein Lösemittel gefunden, das die Aufzugkette vielleicht vom Rost befreien könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Dem Kontrollmechanismus fehlt ein Hebel. Vielleicht finde ich etwas in der Nähe, was ich stattdessen verwenden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe einen Ersatzhebel gefunden. Damit sollte ich den Aufzug in Gang setzen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe den Aufzug repariert und kann nun auf den Westturm fahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Wengra war ganz aus dem Häuschen, als sie von den Langstreckenkanonen gehört hat. Sie ist unterwegs auf den Westturm, um sie auszuprobieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

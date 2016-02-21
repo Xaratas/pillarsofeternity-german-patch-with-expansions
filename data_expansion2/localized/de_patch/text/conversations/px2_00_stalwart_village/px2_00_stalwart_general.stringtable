@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_stalwart_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich hätte mit allen meinen Nachbarn aus der Stadt abhauen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Angeblich sind manche von diesen Neuankömmlingen Spione des Eisenflegels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Diese Readceraner sind noch schlimmer als die Oger!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Deryan hat uns diese Suppe eingebrockt, und Tarfos hat nichts getan, um ihn aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Unter Renengild war alles besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Deryan stammt aus Neu-Yarma! Was weiß der schon von unseren Problemen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Diese ganzen Neuankömmlinge aus den Städten. Ich spüre richtig, wie sie auf uns herabsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was hier vor sich geht ... das sind alles Zeichen, dass Ondra zornig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Stalwart verändert sich. Und man darf nicht erwarten, dass das der Fürstin der Klagen gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ein Jagdtrupp ist letzte Woche in einem Schneesturm steckengeblieben. Ondra ist zornig, wegen ihrem Tempel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vielleicht hätte Stalwart lieber klein bleiben sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Der Mond ist schon die ganze Woche über dunkel! Das ist ein Omen, ich sage es dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Es war ein Fehler, Ondras Tempel zu Abydons Ehren umzuweihen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Viele neue Gesichter in Stalwart. Die Hälfte der Leute kenne ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich bin in Stalwart aufgewachsen, aber jetzt habe ich das Gefühl, das Dorf gar nicht mehr zu kennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wir werden die Tore schließen. Uns für das rüsten, was kommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Bist du auch hier, um dich vor diesen Monstern zu verstecken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich dachte immer, die Augenlosen wären nur ein Mythos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Meine Nachbarin hat gesagt, sie hätte eines dieser Dinger gesehen. Doppelt so groß wie unsere Tore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Angeblich haben die Augenlosen die Lawinen ausgelöst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Stimmt es, dass die Augenlosen die Pargrunen getötet haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich habe Fußabdrücke im Schnee gefunden. Größer als alle, die ich je gesehen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Deryan versucht, die Leute zu beruhigen. Aber alle machen sich Sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Gestern ist eine Handelskarawane verschwunden. Jetzt weiß ich warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wie bekämpft man etwas so Großes wie die Augenlosen? Es erscheint hoffnungslos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich würde sagen, es ist gut, dass Stalwart wächst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Jetzt, wo wir unsere Stadt wieder aufbauen, könnten wir etwas frisches Blut brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Wir könnten ein paar zusätzliche Hände für den Wiederaufbau von Stalwart brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Jetzt, wo sich die Dinge beruhigt haben, kommt vielleicht etwas frisches Blut nach Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wir müssen auf der Hut sein. Wer weiß, wer als nächstes nach der Weißen Esse trachtet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wir müssen höhere Mauern bauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich habe Tarfos gesagt, dass wir Wachen am Tor postieren sollten. Ein Auge darauf haben, wer hineinkommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"All das zeigt doch nur, dass wir uns selbst um unsere Leute kümmern müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Eines Tages werden wir etwas noch Besseres als Durganstahl herstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wir müssen uns um die Weiße Esse kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tarfos schickt noch mehr Leute in die Weiße Esse, während wir im Frieden leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Die Weiße Esse wird uns groß machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Die Weiße Esse hat uns mehr Schlechtes als Gutes gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vielleicht sollten wir den Durganstahl vergessen und bei dem bleiben, was wir kennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Wir könnten sicher eine andere Verwendung für die Batterie finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich weiß schon gar nicht mehr, warum wir so versessen darauf waren, die Weiße Esse zu behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich fühle mich sicherer, nachdem wir jetzt die Kanonen auf unserer Seite haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich habe die Kanonen sogar von hier gehört! Wengra hat offenbar jede Menge Spaß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Laut dem Trupp bei Durgans Batterie hast du die Kanonen repariert. Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

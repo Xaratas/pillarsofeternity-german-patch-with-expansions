@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_cv_abydon_tower_dream</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du drehst an dem Rad und ein Dampfhauch trifft dich mitten im Gesicht.
+
+Du taumelst nach hinten und stürzt. Du fällst in Richtung Rauch und Flamme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du findest festen Boden unter deinen Füßen, auch wenn die Luft um dich herum ein einziger Nebel aus Rauch und Hitzeflimmern ist. Hustend wedelst du dir beißende Gase aus dem Gesicht.
+
+Als du dich an die rußige Luft gewöhnt hast, siehst du in der Ferne Flammen auflodern. Jedes Flackern hüllt dich in Wärme ein, und obwohl es dir schwerfällt, irgendwelche Details auszumachen, kommt dieser Ort dir vertraut vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sie ist dunkel und glänzt von der Hitze, aber du siehst jeden Knochen, jeden Muskel und jede Sehne unter dem bronzenen Fleisch in perfekter Harmonie arbeiten. Der Besitzer der Hand ist hinter Rauchwolken verborgen, aber die Hand selbst ist um einen Stab gelegt, der so dick und robust ist wie ein Baumstamm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Hand kommt in einem perfekten Bogen wieder hinabgesaust. Ein Turm aus Metall kracht vor dir nieder. Funken und Essenzsplitter regnen herab und es ertönt wieder eine tiefe, klingende Note.
+
+Du erkennst, dass du auf einen gewaltigen Hammer blickst. Der Kopf glüht vor Hitze und Essenz, auch wenn das violette Glänzen verblasst, als Seelenenergie aus dem Hammer gesogen und in das Werkstück unter ihm übertragen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Eine einsame Gestalt räkelt sich auf einer Stahlfläche, die so glatt und breit ist wie ein zugefrorener See.
+
+Die Gestalt selbst ist gewaltig. Ein Maegfolc aus knorrigem Fleisch und geschmiedetem Metall. Seine Arme enden in zwei Stachelkeulen, sein Kopf ist ein stumpfer, augenloser Keil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du erwachst und spürst warme Kacheln unter deinem Gesicht. Du liegst vor dem Heizkessel, der weiter vor sich hin dröhnt und Hitze durch den Boden des Turms drückt.
+
+In dem Dampf, der aus dem Heizkessel und den Rohren entweicht, riechst du jedoch die Dämpfe der Weißen Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du dich darauf zubewegst, kracht etwas Gewaltiges vor dir herab. Du springst zurück. Es ertönt ein Geräusch, wie Metall auf Metall knallt, und du spürst ein tiefes Dröhnen durch die dicke Luft hallen.
+
+Als du dich wieder aufgerappelt hast, blickst du auf eine gewaltige Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als der Hammer sich wieder hebt, eilst du nach vorne, um zu sehen, was unter ihm liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Solche Kreaturen hast du schon bei der Festung des Eisenflegels gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Solche Kreaturen hast du schon bei der Abtei des Gefallenen Mondes und bei der Festung des Eisenflegels gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie öffnet ihren Mund und stößt ein klagendes Krächzen aus. Die Verzweiflung in diesem Geräusch erinnert dich an die Angst und Verwirrung eines Neugeborenen.
+
+Du spürst einen plötzlichen Luftzug hinter dir. Du blickst hinauf und siehst den Hammer, dessen Kopf wieder vor Essenz glüht, auf dich zurasen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du erkennst darin denselben Hammer, den du in der Vision in der Abtei des Gefallenen Mondes gesehen hast.
+
+Denselben Hammer, von dem du nun einen Teil dein Eigen nennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Dem Stab folgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Dem Arm folgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du versuchst, dem Arm zu seinem Besitzer zu folgen, aber die Hitze und der Rauch überwältigen dich. Du kehrst um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du gehst weiter, um herauszufinden, was am anderen Ende des Stabs liegt ... und was für die donnernde Musik verantwortlich ist ... als die Hand sich wieder erhebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Deine Umgebung erkunden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Den Hammer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Das Werkstück genauer ansehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Es ist ein Block aus schwarzem Stahl, so dunkel wie eine sternenlose Nacht und so glänzend, dass du dein Spiegelbild darin sehen kannst.
+
+Es ist selbst ein Kunstwerk, eine Studie der einfachen und doch perfekten Form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du siehst durch den dichten Rauch kaum etwas, aber die tanzenden Flammen beleuchten einen aus Stein geschlagenen Drachenkopf.
+
+Es ist die Weiße Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

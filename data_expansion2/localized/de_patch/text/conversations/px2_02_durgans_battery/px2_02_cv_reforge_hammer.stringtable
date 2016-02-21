@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_cv_reforge_hammer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Unglaubliche Hitze steigt von der Weißen Esse auf und peitscht gegen deine nackte Haut.
+
+Das Fragment von Abydons Hammer in deinen Händen wird warm, wie als Gruß an das Feuer der Esse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Abydons Hammer wieder zusammensetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Obwohl das Fragment viel kleiner ist als der ursprüngliche Hammer, gibt es doch genug Metall, um einen Hammer für eine Person deiner Größe zu schaffen.
+
+In dieser Esse könnte das Fragment neu geformt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du beschwörst jede Erinnerung an den großen Hammer, die du je gesehen hast. Die Bilder vereinen sich vor deinem geistigen Auge und nehmen Gestalt an.
+
+Du kennst jede Kurve, jede Gravur. Obwohl das Fragment im Augenblick nur ein formloser Klumpen Metall ist, siehst du es als das, was zu werden es bestimmt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Fragment erhitzt sich nur langsam, selbst in der Weißen Esse, und kühlt rasch ab, als du es auf dem Amboss bearbeitest.
+
+Schweiß trieft deinen Körper hinab und bildet eine Pfütze zu deinen Füßen. Deine Arme werden mit jedem Schlag deines Schmiedehammers müder, bis du ihn kaum mehr heben kannst. Minuten werden zu Stunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schließlich ist der Hammer durch die vorsichtige Gravur des letzten Details abgeschlossen. Kaum hast du den letzten Schnitt mit deinem Meißel gemacht, spürst du eine reine, strahlende Energie in dem Hammer pulsieren wie einen mechanischen Herzschlag.
+
+Der Form, dem Gewicht und dem Aussehen des Hammers wohnt eine unbeschreibliche Schönheit inne. Du hast das Gefühl, als wäre die Bestimmung des Metalls Wirklichkeit geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du nimmst den Hammer in die Hand und seine Macht überwältigt dich völlig. Sie lässt deinen Körper derart erzittern, dass du fast in die Knie sinkst.
+
+Das Zittern vergeht, doch das Gefühl der Macht bleibt. Die Haare auf deinen Armen sträuben sich. Du hältst die originalgetreue Nachbildung eines göttlichen Werkzeugs in den Händen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als Abydons Hammer beginnt, Gestalt anzunehmen, nimmt das Schlagen deines eigenen Hammers gegen das Metall einen vertrauten Ton an. Einen Ton, den du in deinen Träumen gehört hast.
+
+Mit jedem Schlag zuckt ein Bild durch deinen Verstand. Zunächst ist es verschwommen, doch es wird klarer, je mehr der Hammer beginnt, dem Original zu ähneln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mit der Zeit formt das Bild sich zu einer eisigen Landschaft, in deren Mitte ein Kratersee liegt. Augenlose patrouillieren in Scharen über seine Oberfläche. Es kann sich nur um den Ort handeln, den Ondra beschrieben hat, Cayrons Narbe.
+
+Die Augenlosen halten gelegentlich inne, wenn du deinen Hammer schlägst, und blicken auf, als würden sie das Echo im Wind hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als weitere Details erscheinen, kannst du in der Ferne andere Orte erkennen ... Stalwart, Durgans Batterie ... und dir wird klar, wo in der Weißmark der See liegt. Wohin du diesen Hammer bringen musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

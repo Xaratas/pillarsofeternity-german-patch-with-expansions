@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\px2_companion_cv_maneha_quest_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>139</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hier ist er. Der Salzbrunnen."
+
+In dem Raum befindet sich ein Becken. Es ist klein, aber tief genug, dass du den Grund nicht sehen kannst. Die glasige Oberfläche sieht fast gefroren aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Maneha geht es ebenso. Sie steht wie angewurzelt da und starrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Worauf wartest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Es ist schwer, sich vorzustellen, dass hier eine ganze Sekte lebt. Aber genau deshalb haben sie sich wohl hier niedergelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich rieche eine Meeresbrise. Wir müssen in der Nähe sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich dachte, er wäre größer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sieht jedenfalls tief aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Und ich dachte, du würdest langsam mal hineintauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Gabenbringer sagen, dass die größte Reue und die schlimmste Trauer hier abgelegt werden. Also will ich das hoffen." Sie blickt hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Kennst du das, wenn man sich etwas so lange vorstellt, dass man Angst hat, enttäuscht zu werden, wenn man es endlich bekommt?"
+
+Sie zupft an einem ihrer Armreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich meine, wer weiß, ob das Ding nicht einfach voller Blutegel ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Du schindest Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Sie seufzt. "Erinner mich nicht daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Also gut. Dann wollen wir mal." Sie schüttelt mit einem metallischen Klimpern ihre Arme und Beine aus.
+
+Mit einem beherzten Schritt steigt sie in das Becken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Du warst nie verantwortlich für das Massaker, an das du dich erinnerst. Lass deine Schuldgefühle los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Deine Erinnerung an das Massaker hat dich geformt. Wenn du sie ablegst, verändert dich das vielleicht mehr, als dir lieb ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Tu es oder lass es, aber entscheide dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Erinnerungen sind eine Strafe für unsere Missetaten. Du hast nicht das Recht, das Massaker zu vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Was, wenn deine Erinnerungen an das Massaker dich davon abgehalten haben, ein ähnliches Verbrechen zu begehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Sie schließt die Augen.
+
+"Das war meine Seele, aber sie war nicht ich. Ich war eine andere Person. Von einer anderen Vergangenheit geformt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Wie lange muss ich die Last mit mir tragen, bis mir meine Schuld erlassen wird? Den Rest dieses Lebens? Oder auch noch das folgende Leben lang?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Dein Leid hilft niemandem. Vergiss das Massaker, damit du Frieden finden kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Das ist weder deine noch meine Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Und was, wenn deine Opfer sich noch erinnern? Solltest du frei sein, während sie leiden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Das Problem war nie deine Erinnerung. Sondern der Teil deiner Seele, der dich dazu gebracht hat, deine Opfer zu massakrieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Sie atmet lang und tief aus.
+
+"Du hast Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Oooh, ist das kalt!" Sie erschaudert so sehr, dass ihr Schmuck klimpert.
+
+Sie steigt die Stufen hinab, bis sie bis zum Hals im Wasser steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Spürst du etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"He, welches Jahr haben wir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich glaube, mein ganzer Körper wird taub." Sie schaudert wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Haha, sehr komisch." Sie spritzt eiskaltes Wasser in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Das ist schon das richtige Becken, oder?" Sie runzelt die Stirn und reckt den Hals, um sich in dem Raum umzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Das ist ein Ondra-Tempel. Vielleicht musst du etwas von dir abgeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Vielleicht musst du auch den Kopf unter Wasser tauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Moment, du hast doch gesagt, dass Gabenbringer hierherkommen. Vielleicht musst du etwas von dir zurücklassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Sie blickt dich schief von der Seite an. Dann atmet sie tief ein und taucht unter.
+
+Eine Minute vergeht. Zwei. Maneha bleibt weiter unter Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Schließlich taucht sie wieder auf, wischt sich das Wasser aus den Augen und schüttelt es aus ihren Haaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Gabenbringer oder nicht, glaub nicht, dass ich dich nicht auch hier reinziehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Sieh nicht mich an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ja, ja. Versprich mir nur, dass wir etwas Warmes trinken, wenn ..."
+
+Sie hält plötzlich mit weit aufgerissenen Augen inne. Dann schnippt sie mit den Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich hab's." Sie wühlt durch ihren Rucksack und zieht ein dickes Bündel Stoff hervor, das mit einem Lederband zugebunden ist.
+
+Es ist dasselbe Bündel, das du schon früher gesehen hast.
+
+Sie öffnet das Lederband und wickelt den Stoff aus. Eine Weinflasche kommt zum Vorschein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Ihre Augen weiten sich und sie schnippt mit den Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Die habe ich in der Nacht, in der ich erweckt wurde, aus dem Keller des Marceso gestohlen. Ich habe sie mir für eine besondere Gelegenheit aufgehoben."
+
+Maneha hält die Flasche andächtig im Arm und wischt vorsichtig den Staub von dem grünen Glas.
+
+Mit einem Seufzer packt sie die Flasche am Hals und zerschlägt sie auf den Stufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Was machst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Du hättest mir vorher einen Schluck anbieten können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Maneha lässt den Rest der zerbrochenen Flasche in das Becken fallen, wo sie in der Tiefe versinkt.
+
+Der Wein hat derweil eine trübe, blutige Wolke im Wasser gebildet.
+
+Sie breitet sich in langen, wirbelnden Ranken aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Die Oberfläche des Beckens kräuselt sich und Maneha verteilt die Wolke mit den Händen.
+
+Rote Tentakel schießen daraus hervor, zappelnd und gierig.
+
+Maneha keucht erschrocken auf, als eines der Tentakel ihren Arm umschließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Warten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Komm da raus, Maneha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Maneha packen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Du greifst genau in dem Moment nach ihr, als ein weiterer weinfarbener Fangarm sich um ihren Kopf schlingt.
+
+Sie schreit, als sie in das Wasser gezogen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Slot 0] ergreift deinen Arm und zieht dich zurück, bevor du auch in das Becken fällst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Slot 1] ergreift deinen Arm und zieht dich zurück, bevor du auch in das Becken fällst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Slot 2] ergreift deinen Arm und zieht dich zurück, bevor du auch in das Becken fällst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Ein drittes Tentakel erhebt sich aus dem Wasser und stößt dich davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Ein weiterer weinfarbener Fangarm schlingt sich um ihren Kopf.
+
+Sie schreit, als sie in das Wasser gezogen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Maneha verschwindet in dem Becken. Du kannst durch das trüb-rote Wasser nichts sehen.
+
+Abgesehen von der immer größer werdenden Weinwolke ist das Wasser wieder absolut still.
+
+Die Sekunden vergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Endlich steigen Blasen an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Maneha taucht auf, keuchend und zitternd.
+
+Ihr Gesicht ist seltsam schlaff, ihre Augen sind blutunterlaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Geht es dir gut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Was ist gerade passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Lasst uns von hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Sie denkt einen Augenblick lang darüber nach. Sie nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ich habe es vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Maneha steigt über die Stufen aus dem Salzbrunnen. Kaum hat sie das Becken verlassen, verschwindet die rötliche Farbe aus dem Wasser. Zurück bleiben nur die glasige, klare Oberfläche und die unergründlichen Tiefen darunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Sie kneift die Augen zusammen und denkt nach. Wasser sammelt sich zu ihren Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"An was erinnerst du dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ich erinnere mich, dass ich davongelaufen bin. Aber ich weiß nicht mehr, was mich gejagt hat. Ich erinnere mich daran, Angst zu haben. Aber ich weiß nicht mehr, was mir Angst gemacht hat."
+
+Sie blickt zurück zum Salzbrunnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ich habe etwas aufgegeben, aber ich erinnere mich nicht warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Dann hat es funktioniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ich weiß nicht, ob das nun das war, was du im Sinn hattest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Wie fühlst du dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Sie neigt den Kopf zur Seite und wackelt mit einem Finger in ihrem Ohr herum, bis Wasser hinausschießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Nach einem Glas Wein geht es mir besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ich auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Sie neigt den Kopf zur Seite und wackelt mit einem Finger in ihrem Ohr herum, bis Wasser hinausschießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Aber es kommt mir vor wie eine Verbesserung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Etwas tropft zu Boden. Sie hält ihren rechten Arm hoch und blickt auf die Blutspur, die aus einer Schnittwunde in ihrer Hand fließt.
+
+Sie hebt den zusammengefalteten Stoff, in den vorher die Weinflasche eingewickelt war, vom Boden auf und stoppt die Blutung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Lasst uns gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ich vertraue auf dein Wort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Sie neigt den Kopf zur Seite und wackelt mit einem Finger in ihrem Ohr herum, bis Wasser hinausschießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Gut." Sie atmet tief durch und schließt die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Alles ist besser als der jetzige Zustand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Dann tu es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Dann tu es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ich habe es jahrzehntelang ertragen." Sie presst die Augen zusammen und ballt die Faust an ihrem Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Also gut. Dann tu, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Sie atmet lang und tief aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Sie schließt die Augen und schüttelt wild den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Aber es ist die Erinnerung, die mich plagt. Ich will einfach nur Frieden. Ich will endlich die Augen schließen können und dabei nichts in der Dunkelheit sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Du kannst die Erinnerung auslöschen, aber das heißt nicht, dass du Frieden finden wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ich glaube nicht, dass ich heute noch etwas so Grauenhaftes tun könnte."
+
+Ihre Hände sind vor ihr zu Fäusten geballt, in ihrem Gesicht steht Entschlossenheit geschrieben.
+
+Trotz allem klingt sie, als würde sie eine Frage stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Und diese Erinnerung hat dich geformt und dich Zurückhaltung gelehrt. Ohne sie hättest du vielleicht anders entschieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Du hast einmal gesagt, dass du den Zorn spürst, der dein früheres Ich getrieben hat. Wie kannst du so sicher sein, dass du nicht zu ähnlicher Gewalt fähig bist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Sie atmet lang und tief aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ich hatte befürchtet, dass du so etwas sagst."
+
+Sie starrt mehrere Sekunden lang auf den Brunnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Sie denkt mit gerunzelter Stirn und zusammengebissenen Zähnen darüber nach.
+
+Schließlich schüttelt sie den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Vielleicht nicht. Aber es ist einen Versuch wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Meine Eltern haben immer gesagt, dass alles, was zu gut erscheint, um wahr zu sein ... es wahrscheinlich auch ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Man sucht so lange nach einem Weg, etwas zu reparieren, dass man nicht erkennt, dass die Reparatur etwas anderes kaputtmachen würde."
+
+Sie tritt einen Stein in das Becken. Er fällt hinein, ohne dass die Wasseroberfläche sich auch nur im geringsten kräuselt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Es bleibt nur noch eines zu tun." Sie blickt zu dir zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Nämlich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Zuhören.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Maneha zieht ein zusammengerolltes Stoffbündel aus ihrem Rucksack. Du erinnerst dich daran, es schon früher gesehen zu haben.
+
+Sie durchtrennt die Lederkordel, die es zusammenhält, und faltet es auf. Es enthält eine Weinflasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Die habe ich in der Nacht meiner Erweckung aus dem Keller des Marcesos gestohlen. Einer der besten Jahrgänge dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ich habe sie mir aufgehoben, um meinen Neuanfang zu feiern. Ich glaube, es ist an der Zeit, sie zu öffnen."
+
+Sie sticht ein Messer in den Korken und dreht ihn mit einem quietschenden Geräusch aus der Flasche. Ein sattes, fruchtiges Aroma strömt aus der Flasche. Sie hält sie unter ihre Nase und atmet tief ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Sie legt die Flasche an die Lippen und den Kopf in den Nacken.
+
+Nach einem tiefen, langsamen Schluck schmatzt sie mit den Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ein paar Jahre über seinen Höhepunkt hinaus. Gut, dass wir ihn jetzt genießen."
+
+Sie schwenkt den Wein in der Flasche und hält sie dir hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Einen Schluck trinken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Nein, danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Wie du meinst. Ich werde ihn nicht vergeuden."
+
+Sie leert die Flasche mit einigen langen, tiefen Zügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Zeit, ein paar gute Erinnerungen zu schaffen." Sie wischt sich den Mund mit dem Handrücken ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Geteilte Last ist halbe Last."
+
+Maneha reicht dir die Flasche. Eine unangenehme Schärfe ist in den Wein gekrochen, aber er ist dennoch ein feiner Tropfen.
+
+Gemeinsam leert ihr die Flasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Riecht nach Süßwasser. Das kann nicht der Salzbrunnen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Maneha stößt ein frustriertes Geräusch aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Sie betrachtet blinzelnd das trübe Wasser und lacht leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Madiccho! Was ist das?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"He! Sie hat Schwierigkeiten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Zurück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Maneha! Nimm meine Hand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Maneha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Das ist das fleischgewordene Grauen. Haltet Abstand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Vorsicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Warum stehen wir untätig herum?! Helft ihr!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Wir müssen hinterher!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ist sie fort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Wo ist dieses Ding hergekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Was für eine Pein! Wollen wir wirklich einfach herumstehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Wir dürfen an diesem Ort der widerwärtigen Geheimnisse nicht verweilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Ist dieses Ding aus der Flasche oder aus dem Becken gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Erlaube mir, sie zurückzuholen. Ich kämpfe gegen dieses Weintentakelmonster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

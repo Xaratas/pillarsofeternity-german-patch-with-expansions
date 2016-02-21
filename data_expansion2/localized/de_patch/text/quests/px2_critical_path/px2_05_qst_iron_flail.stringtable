@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_05_qst_iron_flail</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Eisenflegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erreiche die Festung der Readceraner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Kommandanten des Eisenflegels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Durchsuche die Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kümmere dich um Kommandant Adaryc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Befreie die Gefangenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Überlebe den Hinterhalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Finde heraus, was der Aufruhr sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Untersuche die Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Dorfbewohner von Stalwart machen sich Sorgen um eine Gruppe von Readceranern, die als der Eisenflegel bekannt sind. Sie sind in die Berge gekommen, um die Batterie für sich zu beanspruchen. Stalwart hat eine Gruppe von Gesandten geschickt, um zu verhandeln, doch sie sind nicht zurückgekehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Eisenflegel hat eine Festung auf dem Gebirgspass im Nordwesten errichtet. Dort finde ich wohl Antworten darauf, was mit den Gesandten geschehen ist. Deryan hat mich gebeten, den Kommandanten des Eisenflegels auszuschalten, Adaryc Cendamyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Eisenflegel mag keine Besucher. Aber Ich habe einen Weg in die Festung gefunden. Adaryc muss sich in der Nähe befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Diese readceranische Bande ist organisiert und gut ausgerüstet. Vielleicht finde ich in der Festung Hinweise auf ihre Beweggründe ... ansonsten lösche ich diese Bedrohung aus, bevor sie zu groß wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich bin dem Kommandanten der Festung begegnet. Er hat die Gesandten aus Stalwart gefangen genommen ... und er wird nicht erfreut über meine Einmischung sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Adaryc hat die Gesandten aus Stalwart in einer Zelle eingesperrt, die in den Erdboden seiner Hütte eingelassen ist. Nachdem der Kommandant nun aus dem Weg ist, können die Gesandten freigelassen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Riesige Kreaturen haben die Festung des Eisenflegels und alle ihre Bewohner angegriffen. Dazu zähle auch ich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Es hat sich herausgestellt, dass eine der Gesandten die Verhandlungen sabotiert hat. Sie hat sich selbst das Leben genommen, bevor sie auf die übliche Weise befragt werden konnte. Aus ihrer Erinnerung habe ich Wissen über den Tempelkomplex erlangt, von dem sie geschickt wurde. 
+Jede weitere Untersuchung muss warten ... es klingt, als gäbe es vor den Toren Konflikte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Am Fuß des Gebirgspasses, der nach Stalwart und zur Batterie führt, wurde eine gewaltige Festung errichtet. Ich sollte herausfinden, ob das die Armee ist, die ich in meiner Vision gesehen habe. Sie könnte eine große Gefahr für die Weißmark und den Dyrwald darstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Gesandten sind zwar offenbar bei der Festung angekommen, aber ich wurde am Tor feindselig empfangen und fortgeschickt. Die Tore sehen aus, als könnten sie allem widerstehen außer vielleicht einem Rammbock. Vielleicht finde ich einen anderen Weg hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Festung scheint von Readceranern bemannt zu sein. Ich wurde am Tor feindselig empfangen und fortgeschickt. Offenbar bin ich nicht willkommen.
+Die Tore sehen aus, als könnten sie allem widerstehen außer vielleicht einem Rammbock. Vielleicht finde ich einen anderen Weg hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich bin vor der Festung zwei Turteltauben begegnet, von denen einer ein readceranischer Soldat war. Er hat erwähnt, dass die diensthabende Wache am Seitentor während ihrer Schicht gerne einschläft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich bin vor der Festung zwei Turteltauben begegnet, von denen einer ein readceranischer Soldat war. Er hat erwähnt, dass die diensthabende Wache am Seitentor während ihrer Schicht gerne einschläft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die Wachen vor der Festung haben den Grund für ihre Anwesenheit freimütig mit mir geteilt. Offenbar wurde ihr Kommandant von einer Art Vision in die Weißmark geführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Die Wachen vor der Festung haben den Grund für ihre Anwesenheit freimütig mit mir geteilt. Offenbar wurde ihr Kommandant von einer Art Vision in die Weißmark geführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich konnte die heikle Situation mit den Eisenflegeln entschärfen und gleichzeitig einen potenziellen Verbündeten gewinnen: Kommandant Adaryc, seines Zeichens ebenfalls Wächter. Stalwart ist vorerst sicher vor den Readceranern. Allerdings hat sich der wahre Feind gezeigt: Eine Armee gigantischer Kreaturen, welche die Augenlosen genannt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Kommandant Adaryc zur Rede gestellt, den Anführer des Eisenflegels ... der offenbar ebenfalls ein Wächter ist. Durch seinen Tod ist die readceranische Bedrohung für Stalwart eliminiert. Allerdings hat sich der wahre Feind gezeigt: Eine Armee gigantischer Kreaturen, welche die Augenlosen genannt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Auf meiner Reise durch den Nordwesten von Stalwart bin ich auf eine Festung gestoßen, an der ausländische Banner wehen. Was die Besitzer der Festung auch für Absichten haben ... es sind nicht wenige.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

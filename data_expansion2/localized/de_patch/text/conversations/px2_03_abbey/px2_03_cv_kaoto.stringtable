@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_kaoto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>210</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ist es schon vollbracht? Und hast du den Zeugen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Der Schleier der Tränen darf nur vom Oberabt gelüftet werden. Ondras Zeuge ist der Schlüssel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Seele des Oberabts bleibt in der Nähe seines Körpers. Sie strahlt eine Wärme aus, die nur du spüren kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Während die anderen Ondriten in der Abtei in graue, praktische Kleider gewandet sind, scheint dieser Aumaua für einen festlichen Anlass gekleidet zu sein. Seine Robe ist bunt und glänzend. Sein Hals und seine Arme sind mit Schmuck behangen. Jeder freie Zentimeter ist mit den Zeichen seiner Göttin bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bist du nun bereit für die Rezitation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bin gekommen, so schnell ich konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nun, da ich hier bin ... was wünschst du von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Angreifen] "Tot nutzt du mir mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wenn du soweit bist, werden wir mit der Rezitation beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Die ... Konklave ... hat etwas von einem Reliquiar gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Die Konklave hat dir deine Aufgabe doch sicher irgendwie erklärt."
+
+Er sieht dich verwundert an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Was ist das? WACHEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wir können mit der Rezitation beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ja, natürlich. Ich würde mein Amt nicht an dich weitergeben, ohne auch dieses Wissen weiterzugeben. Es ist die heiligste Kammer der Abtei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wegen der Rezitation ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Kaoto lacht. "Du wirkst nervös."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sehr gut. Wir beginnen mit dem Anstieg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Zuerst kommt Anthu, zuletzt Dianthu, denn die Gezeiten kommen am Ende und gehen am Anfang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich bin Saman, die Flut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich bin Saman, die Flut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich bin der Gezeitenbringer."</DefaultText>
+      <FemaleText>"Ich bin die Gezeitenbringerin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Angreifen] "In Prüfungen versage ich immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>" Ich schlage vor, dass du über die heiligen Werke meditierst, die in der Abtei aufbewahrt werden. Eingehend."
+
+Er zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Gesegnet sei Saman, der über das Ufer wäscht und das Ende bringt. Gesegnet sei Disaman, der zur See zurückkehrt und den Anfang zurücklässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ein Gabenbringer kommt zu Disaman und bittet ihn, seine Last fortzutragen. Welches Geschenk bietest du an, Gabenbringer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich gebe mich selbst, denn ein Gabenbringer hat keine anderen Geschenke anzubieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich gebe mich selbst, denn ein Gabenbringer hat keine anderen Geschenke anzubieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Das Geschenk wird in Ondras Namen empfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Erzähle mir von deiner Last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich habe keine, denn alles, was Ondra gehört, ist vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich habe keine, denn alles, was Ondra gehört, ist vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich trage die Last der Erinnerungen anderer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich fürchte, du hast dich nicht ganz richtig an den Ritus erinnert. Das ist inakzeptabel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Der Gezeitenbringer erweist sich als seiner Aufgabe würdig."</DefaultText>
+      <FemaleText>"Die Gezeitenbringerin erweist sich als ihrer Aufgabe würdig."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Deine Aufgabe hier, Gezeitenbringer, ist die Durchführung der Zeremonie des Anstiegs. Sie ist der Übergang von einer Phase des Dienens in die nächste."</DefaultText>
+      <FemaleText>"Deine Aufgabe hier, Gezeitenbringerin, ist die Durchführung der Zeremonie des Anstiegs. Sie ist der Übergang von einer Phase des Dienens in die nächste."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"In der Halle des Schweigens unter uns leben unsere gesalbten Brüder und Schwestern der Ebbe seit vielen Jahren, aus freien Stücken eingesperrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"In den unteren Hallen findest du ein Relikt, Ondras Zeugen. Ein Aspergill, um Weihwasser zu verteilen ... und noch etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das Gerät wird die Halle des Schweigens überfluten. Das ist der Anstieg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Werden die Leute dort unten nicht ertrinken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Das ist der Wille Ondras. Jeder Mönch der Abtei versteht und akzeptiert das."
+
+Er streicht sich mit der Hand seine dicken Haarbüschel nach unten. Eine graue Strähne bleibt an seiner Handfläche hängen. Er blickt sie stirnrunzelnd an, blickt dann wieder auf und fährt fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Was tue ich, wenn der Anstieg abgeschlossen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Die Flut wird die Ebbe ersetzen und in der Halle des Schweigens bis zum nächsten Anstieg Wache halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wenn du den Anstieg abgeschlossen hast, bringst du Ondras Zeugen zu mir hierher. Ich zeige dir das Letzte, was du dann noch wissen musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Wenn ich Ondras Zeugen habe, was mache ich dann damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Das Gerät, das er bedient, ist ein einfacher Ventilmechanismus. Wenn du es siehst, wird es dir klar sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wie bist du zum Oberabt geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Weggehen] "Ich kehre wieder, wenn der Anstieg abgeschlossen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich vertraue darauf, dass du deine Pflicht erfüllst, Gezeitenbringer."</DefaultText>
+      <FemaleText>"Ich vertraue darauf, dass du deine Pflicht erfüllst, Gezeitenbringerin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich will noch mehr über den Anstieg wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Es ist meine Pflicht, dafür zu sorgen, dass du ihn vollständig verstehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ich bin Farentis begegnet. Er sagte, die Halle des Schweigens wäre eine Folter und sie würden in grauenhafter Angst leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Das verstehe ich. Es muss ein furchterregendes Erlebnis sein, sein Gedächtnis zu verlieren, während man in Einsamkeit lebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Gut. Das verstehe ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Es ist Wahnsinn, sie dort unten einzusperren. Das muss ein Ende haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Du sprichst gefährliche Worte. Ein Gezeitenbringer muss frei von jedem Zweifel sein. Verzeih mir, aber ich kann nicht zulassen, dass du Oberabt wirst ... oder diese Abtei je wieder verlässt."</DefaultText>
+      <FemaleText>"Du sprichst gefährliche Worte. Eine Gezeitenbringerin muss frei von jedem Zweifel sein. Verzeih mir, aber ich kann nicht zulassen, dass du Oberäbtissin wirst ... oder diese Abtei je wieder verlässt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Wir müssen Ondra vertrauen. Sie wird uns letztlich alle erlösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Ondras Zeugen überreichen.] "Es ist vollbracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Weggehen] "Ich komme wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich weiß, was es bedeutet, dieses Relikt zu verwenden, um die Flut zu rufen. Obwohl es notwendig ist, obwohl es gnadenvoll ist ... vergisst man es nicht. Niemals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Der letzte Schritt des Anstiegs erfordert, dass du Ondras Zeugen verwendest, um mich mit meinen Brüdern und Schwestern unten einzusperren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Kaoto sagt einen Augenblick lang nichts, in Gedanken versunken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Er erwacht aus seiner Trance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Verzeih mir. Der Anstieg. Der letzte Schritt."
+
+Er räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Seine Seele erkunden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Du lässt deine Essenz ausstrahlen. Als sie die andere Seele berührt, spürst du, wie du plötzlich durch die Augenblicke und Gefühle eines anderen Lebens stürzt.
+
+Du blickst unter dich, in eine strahlend hell leuchtende Erinnerung. Als du schon fast an ihr vorübergezogen bist, klammerst du dich fest und ziehst dich hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du schreitest raschen Schrittes durch einen Gang, der von kleinen, mit Gittern verschlossenen Räumen gesäumt ist. Es fühlt sich an wie ein Gefängnis, aber die Architektur entspricht der der Abtei.
+
+Dein Herz pocht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du bleibst bei einer Anordnung von Tafeln stehen, die zu verwaschen sind, um sie zu lesen. Du ordnest sie neu an und eine versteckte Kachel gleitet zurück in die Wand.
+
+An dieser Stelle führst du eine seltsame Geste mit deinen Händen aus ... und der Weg öffnet sich dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Du steigst eine Treppe hinauf und ergreifst einen stabförmigen Gegenstand, der an einem Mechanismus befestigt ist. Du drückst ihn nach unten. In der Ferne hörst du das Rauschen von Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich kann es dir nicht verübeln. Ich verliere auch den Verstand. Ich würde alles tun, um es aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Du BIST schwach. Wenn deine Göttin dieses Schicksal für dich auserwählt hat, solltest du ihr vertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Du leidest also unter einer Krankheit? Wir können Mut schöpfen aus der Tatsache, dass einer von uns beiden heute Frieden finden wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Der Anstieg soll eine Gnade darstellen. Das habe ich immer so gelehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Komm. Eine letzte Prüfung, Gezeitenbringer."</DefaultText>
+      <FemaleText>"Komm. Eine letzte Prüfung, Gezeitenbringerin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ah, gut. Die Konklave hat doch noch einen Gezeitenbringer gewählt. Ich fing schon an, mir Sorgen zu machen."</DefaultText>
+      <FemaleText>"Ah, gut. Die Konklave hat doch noch eine Gezeitenbringerin gewählt. Ich fing schon an, mir Sorgen zu machen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Er blickt wieder hinauf, bemerkt deine Anwesenheit und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Und sie haben meinen Rat befolgt und dir eine Eskorte zur Seite gestellt. Sehr gut. Es tut mir leid, dass ich deine Reise nicht leichter machen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Aber natürlich haben sie dich ins Ausland geschickt, in gefährliche Lande. Je weniger sie dir gesagt haben, desto weniger haben wir riskiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Du bist hier, um den Anstieg auszuführen. Und wenn das vollbracht ist, wirst du meinen Platz hier einnehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Und gerade rechtzeitig. Die Gezeit der Mecwyn hat ihren Höhepunkt schon fast überschritten. Bald hätten wir ein weiteres Jahr warten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Die Regeln des Anstiegs sind eindeutig, fürchte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Wenn der Anstieg vollbracht ist, führe ich dich selbst dorthin. Das Ritual verlangt es so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Die Konklave hat dich aus einem bestimmten Grund erwählt. Du bist ein treuer Anhänger Ondras, die Antworten werden dir ganz natürlich zufließen."</DefaultText>
+      <FemaleText>"Die Konklave hat dich aus einem bestimmten Grund erwählt. Du bist eine treue Anhängerin Ondras, die Antworten werden dir ganz natürlich zufließen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich erinnere mich noch an meinen eigenen Anstieg. Die Konklave hat mich auf dieselbe anstrengende Reise geschickt. Als die Zeit für die Rezitation gekommen war, konnte ich mich an kein Wort erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Aber mit der Zeit fiel es mir wieder ein. Unsere Göttin lächelt auf die Vergesslichen hinab."
+
+Er tippt auf einen großen, goldenen Ring mit einem Wellenemblem, als wäre er der Beweis für seine Aussage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wie kannst du dir so sicher sein, dass ich der Gezeitenbringer bin?"</DefaultText>
+      <FemaleText>"Wie kannst du dir so sicher sein, dass ich die Gezeitenbringerin bin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Wenn du es nicht wärest, wärest du in all meinen Jahren hier der Erste, der diesen Ort zufällig findet."</DefaultText>
+      <FemaleText>"Wenn du es nicht wärest, wärest du in all meinen Jahren hier die Erste, die diesen Ort zufällig findet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ondra beschützt uns an diesem Ort. Die Gläubigen, die hier Wache stehen, tun dies zu ihren Ehren. Nicht, weil wir angreifbar sind."
+
+Er blickt dich von der Seite an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Du bist unser Gezeitenbringer, oder nicht?"</DefaultText>
+      <FemaleText>"Du bist unsere Gezeitenbringerin, oder nicht?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Lügen] "Natürlich. Warum sonst sollte ich hierhergekommen sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"In Wahrheit bin ich hier, um euer Reliquiar zu betreten und die Augenlosen zurückzupfeifen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich weiß nicht, woher du von diesem Ort erfahren hast ... oder von den Dingen, von denen du sprichst ... aber du wirst nie wieder von ihnen sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Möge Ondra mir verzeihen, dass ich es sage, aber die Gründe sind schwer zu verstehen. Das Land hier kann wahrlich grausam sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Wenn du glaubst, dass du bereit bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich bin Disaman, die Ebbe. Wer kommt dieses Weges?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Die Rezitation ist archaisch, aber sie ist für den Anstieg vonnöten. Wenn sie nicht abgeschlossen werden kann, muss der Anstieg warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Eines Tages wird ein neuer Gezeitenbringer die Aufgabe haben, die Flut zu rufen, wenn ich dort unten bin. Und wieder ein neuer für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Erst dann werden wir frei davon sein. Frei von der Erinnerung."
+
+Er nickt und legt dir eine Hand auf die Schulter. Die Berührung ist zögerlich und er zieht seine Hand sofort wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Komm, treffen wir uns oben, vor dem Reliquiar. Eines gilt es noch zu tun, um den Anstieg abzuschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Hinter dem Schleier liegt das Reliquiar. Wenn wir hier fertig sind, betritt das Reliquiar. Dort werden dir deine Pflichten offenbart werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Oberabt Kaoto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ich bin Kaoto, der Oberabt."
+
+Er verneigt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Eine kleine Korrektur. Du wirst uns nicht in der Halle des Schweigens einschließen."
+
+Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich lasse nur zu, dass du zum Oberabt wirst, wenn du mich töten kannst ... und jene, die an meiner Seite stehen ... hier und jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Da hast du vorhin aber etwas anderes gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Bist du sicher, dass es keine andere Möglichkeit gibt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Endlich ein wenig Unterhaltung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Bist du sicher, dass du die Anweisungen nicht falschherum gehalten hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich habe keinen Grund, dir schaden zu wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich gebe dir einen Grund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich habe mich entschieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Es liegt kein Irrtum vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ein schneller Tod erscheint mir angenehmer, als in der Halle des Schweigens jede Erinnerung zu verlieren und später zu ertrinken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Gut. Dann genug geredet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Bist du je im offenen Meer geschwommen, Gezeitenbringer?"</DefaultText>
+      <FemaleText>"Bist du je im offenen Meer geschwommen, Gezeitenbringerin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Angreifen] "Wird gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Hintergrund] "Ich bin quasi am Meer aufgewachsen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Nein, nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich wüsste nicht, was das zur Sache tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Dann kannst du es vielleicht verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Wenn man im Meer schwimmt, ist man der Gnade der Strömungen und Wellen ausgeliefert. Es erfordert großes Vertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Als junger Mann in Rauatai paddelte ich immer in einem kleinen Kajak hinaus in den Golf, um speerzufischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Eines Tages wurde ich beim Schwimmen von einer Strömung erfasst und viele Meilen von meinem Boot fortgetragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ich hielt mich so lange ich konnte über der Oberfläche, aber ich konnte mich nicht in Sicherheit bringen. Es war Nacht und das Wasser war schwarz. Ich nahm einen letzten Atemzug und tauchte unter die Oberfläche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Dann tauchte unter mir ein Leuchten auf. Es war ein Mondrochen so groß wie eine Karavelle, wenn du dir ein solches Geschöpf vorstellen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ich sah, wie er zu mir hinaufschwamm, und obwohl es um mich herum düster wurde, wusste ich, dass ich in Sicherheit war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Willst du auf irgendwas hinaus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Angreifen] "Ich habe genug gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ich erwachte am Strand. An jenem Tag schwor ich Ondra die Treue, weil ich wusste, dass sie mich gerettet hatte. Und dass sie es immer tun würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Das Leuchten dieses Mondrochens war in meinem Leben immer ein Leuchtfeuer.
+
+"Wenn ich unten eingesperrt bin, muss ich es loslassen ... und eintausend andere Erinnerungen, die mich zu dem machen, was ich bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ich dachte, ich würde bereit sein. Mein Vertrauen in Ondra war absolut. Aber ich bin schwächer, als ich gedacht hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ich werde dich besiegen und weiter Oberabt bleiben ... oder ich werde hier sterben, in dem Wissen, wer ich bin. Beides ist besser als die Alternative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ich werde allein und in Angst sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Eigentlich bin ich gar nicht der Gezeitenbringer. Wenn ich dich töte, stürze ich hier alles ins Chaos."</DefaultText>
+      <FemaleText>"Eigentlich bin ich gar nicht die Gezeitenbringerin. Wenn ich dich töte, stürze ich hier alles ins Chaos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Aber nun, da die Zeit gekommen ist, kann ich es mir nicht vorstellen. Nicht für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ich ... weiß nicht, wie das möglich ist, aber ich werde dafür sorgen, dass du scheiterst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Es ist Zeit, dass sie aus dem Dienst entlassen werden. Und dass die Brüder und Schwestern der Flut hier ihren Platz einnehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Das ist nicht alles. Es geht auch um Pflicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"In der Halle des Schweigens zerfällt die Erinnerung, bis sie nicht mehr existiert. Die Halle ist eine Erlösung von der Last eines Gabenbringers."
+
+Er nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Nach vielen Jahren, wenn der Prozess abgeschlossen ist, wird der Anstieg durchgeführt, um denen, die dort leben, den letzten Frieden zu schenken. Das ist deine Aufgabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Die Mönche hier haben alle als Gabenbringer gedient. Wir tragen die schmerzlichsten Erinnerungen der Leute fort ... und jedes Mal bleibt ein Teil davon in uns zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Die Erinnerungen dieses Ortes müssen fortgewaschen werden. Wir tun das in Ondras Dienst."
+
+Der Aumaua bemerkt einen Altersfleck auf seinem Arm. Er befeuchtet einen Finger und reibt damit daran, als wäre es Schmutz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Am Ende nimmt die Halle alle Erinnerungen. Aber der Prozess raubt Kräfte, wie du dir vorstellen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Die Abtei ist eines von Ondras am besten gehüteten Geheimnissen. Der Tod ist keine Garantie, dass unser Wissen ohne Gefahr verblassen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ich glaube, du verwechselst mich mit jemandem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ach? Bist du nicht der Gezeitenbringer?"</DefaultText>
+      <FemaleText>"Ach? Bist du nicht die Gezeitenbringerin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Doch, doch, das bin ich. Verzeih, es war nur ein Missverständnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Es ist kein Schaden entstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Unsere Bibliothek steht dir offen, genau wie das Außengelände. Es gibt dort draußen eine wunderschöne Wandmalerei, die du gesehen haben musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Um deinen Bestimmungsort zu erreichen, muss du das Zeichen der Gezeit kennen, das nur der Oberabt hütet. Es heißt, es sei das erste Wissen, das verloren geht, wenn der Abt sich der Ebbe in der Halle des Schweigens anschließt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Sieh genau zu."
+
+Kaoto krümmt die Finger seiner rechten Hand zu einer bestimmten Gestalt.
+
+Dann zeichnet er mit seiner langen Hand einen Bogen, von der Mitte bis zum Ende, gleichzeitig mit dem Zeigefinger und dem kleinen Finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Denke an die Pilgerschaft der Gabenbringerin. Ich glaube, wir haben den Text irgendwo in unserer Bibliothek, wenn er dir nützlich ist. Kehre wieder, wenn du deinen Fehler begriffen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ist es schon so lange her, dass du selbst Gabenbringer warst, Gezeitenbringer? Du darfst gerne mit anderen sprechen, wenn dir das hilft, deine Erinnerung aufzufrischen."</DefaultText>
+      <FemaleText>"Ist es schon so lange her, dass du selbst Gabenbringerin warst, Gezeitenbringerin? Du darfst gerne mit anderen sprechen, wenn dir das hilft, deine Erinnerung aufzufrischen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ich wurde von der Konklave erwählt, genau wie du. Aber das wusstest du bereits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Es war unerwartet. Andere waren fähiger. Ich war lediglich ein Gelehrter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Aber bei ihnen allen wurde ihr Glaube angezweifelt. Bei mir fand niemand einen Grund dafür."
+
+Er lächelt stolz und zeigt zum ersten Mal seine gelben, alten Zähne. Er scheint sich deiner Blicke bewusst zu sein und vebirgt sie schnell wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Es war eine solche Ehre, zu einem von Ondras treuesten Dienern berufen zu werden. Ich musste nicht lange überlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Kaoto sieht aus, als hättest du ihm eine Ohrfeige verpasst. Seine Miene ist versteinert, aber unter der Maske sind hunderte von Krämpfen und Zuckungen zu sehen, die er nicht vollständig unterdrücken kann.
+
+Er atmet tief durch und sammelt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Aber was Farentis vergessen hat – uns war allen klar, dass es nicht einfach werden würde. Natürlich haben wir das Beste gehofft. Aber wenn wir im Dienste unserer Göttin würden leiden müssen, dann sollte das eben so sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Leben Sie wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"In Ondras Umarmung werden wir von unserer Last befreit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Kaoto wirkt zufrieden. Er nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Kaoto blickt dich an und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Ich bin Ribbeleth, die Gezeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Ich bin ein Gabenbringer."</DefaultText>
+      <FemaleText>"Ich bin eine Gabenbringerin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ich gebe meine Arbeit und meinen Glauben, denn sie machen mich zu dem, was ich bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ich gebe das Leid derer, die trauern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ich gebe ein einzelnes Kupferstück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ich trage die Schmerzen der Trennung von meiner Gottheit und sehne mich danach, wiedervereint zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ich trage die Last einer langen und einsamen Reise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Du fällst wieder durch Erinnerungen, landest aber plötzlich hart vor einem ummauerten Gebiet, das auf die Fassade der Abtei blickt.
+
+Wasser fließt über einen Torbogen wie ein Wasserfall ohne Quelle. Du blickst auf deine Hand, in der du das Relikt vorfindest, das du aus der Maschine genommen hast. Du hältst es nach vorne und das Wasser scheint davon abgestoßen zu werden. Es öffnet sich ein Weg für dich ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Als du durch die Tür trittst, führt sie dich vollständig aus der Erinnerung. Du ziehst dich wieder in die Richtung zurück, aus der du gekommen warst. Du fliegst nach oben und hinaus aus der Seele des Oberabts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Du hast einen schweren Fehler begangen. Ich werde ihn in Ondras Namen korrigieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"In den unteren Hallen findest du ein Relikt, Ondras Zeugen. Ein Aspergill, um Weihwasser zu verteilen ... und noch etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Es steckt in einem Mechanismus, den es steuert, am oberen Ende einer Treppe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Und du darfst natürlich mit den Gabenbringern hier sprechen, wenn es deinem Gedächtnis auf die Sprünge hilft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Lass dir Zeit und studiere diese Dinge vor deiner Rezitation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Was, wenn ich scheitere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Hab keine Angst zu scheitern. Ein Fehler hie und da ist zu erwarten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Aber sei dennoch sorgfältig. Selbst meine Geduld hat ihre Grenzen."
+
+Er blickt dir mit strenger Miene in die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ich verstehe, Oberabt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Ich weiß, dass du mich nicht enttäuschen wirst, wenn die Zeit gekommen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Ihr anderen, die ihr Kaoto beisteht, seid ihr so feige? Oder werdet ihr eurem Glauben treu bleiben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Niemand antwortet, doch einige der Mönche blicken sich an.
+
+Du scheinst etwas bewirkt zu haben, jedenfalls in einigen von ihnen.
+
+Kaoto wendet sich ihnen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ich habe gesehen, was uns erwartet. Ich wünsche dieses Schicksal keinem von euch. Lasst uns Ondra auf andere Weise dienen."
+
+Die meisten der Ondriten nicken. Einige lassen sich nichts anmerken.
+
+Kaoto wendet sich wieder zu dir und blickt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Komm. Eine letzte Prüfung, Gezeitenbringer."</DefaultText>
+      <FemaleText>"Komm. Eine letzte Prüfung, Gezeitenbringerin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Mönche Ondras ... ihr tut gut daran, die Worte eures Anführers anzuzweifeln. Er folgt nicht länger dem Willen unserer Göttin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Unsere Bibliothek steht dir offen, genau wie das Außengelände. Es gibt dort draußen eine wunderschöne Wandmalerei, die du gesehen haben musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Und du darfst natürlich mit den Gabenbringern hier sprechen, wenn es deinem Gedächtnis auf die Sprünge hilft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Lass dir Zeit und studiere diese Dinge vor deiner Rezitation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Du hast den Schleier der Tränen ohne Erlaubnis durchquert. Du lässt mir keine andere Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Wie lange wird es noch dauern? Meine Gelenke rosten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Maneha stößt dich mit dem Ellenbogen in die Rippen und wirft dir einen scharfen Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Maneha blinzelt dir zu und schüttelt fast unmerklich den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Maneha beißt sich auf die Lippen und ringt die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Maneha seufzt erleichtert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Damit zumindest hat er Recht." Maneha zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Was? Nach all dem?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Und was ist mit den Dingen, die du gesagt hast? Dass man Ondra vertrauen, ihr die eigenen Erinnerungen anvertrauen muss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Ich war nie begeistert von Doktrinen, aber es muss hier doch irgendetwas geben, was uns hilft. Eine Abtei ohne stapelweise alte Bücher ist keine echte Abtei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[Angreifen] "Ich habe genug gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

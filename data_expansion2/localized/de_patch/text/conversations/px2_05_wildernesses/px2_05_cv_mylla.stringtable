@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_mylla</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Uuuund der Fuchs ist dem Bauern davongewetzt! Davongewetzt! Und hat auf dem Hof alle Schafe zerfetzt!"
+
+Obwohl das Mädchen singt, sind die Wichte um es herum seltsam ruhig. Sie kratzen mit ihren Klauen im Dreck, die blutunterlaufenen Augen halb geschlossenen, während das Mädchen sein Lied singt und summt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das junge Mädchen weint. Offenbar machen die aufgebrachten Wichte, die durch die Höhle schleichen, ihr Angst. Sie greifen sie zwar nicht an, aber sie fauchen und zischen und peitschen ihre Glieder in spastischer Hektik durch die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Plötzlich blickt sie auf und bemerkt dich. Sie sieht sich in der Höhle um, als würde sie hoffen, du wärest wegen jemand anderem hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich bin Mylla. Das sind meine Freunde." Sie deutet auf die Wichte und betrachtet dich dann sorgenvoll. "Bist du hier, um mit uns zu spielen?"
+
+Die Wichte blicken auf, als sie die Sorge in ihrer Stimme hören. Ihre Pupillen verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich bin gekommen, um dich zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Deine Mutter sucht nach dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dein Vater vermisst dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich will nicht wieder nach Hause. Sie schreit mich nur an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Die Wichte angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mylla stößt einen ohrenbetäubenden Schrei aus, als du dich in die Mitte stürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was tust DU denn hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Hast du meinen Schneemann draußen gesehen? Den habe ich gebaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich will nur mit meinen Freunden spielen." Sie baut einen kleinen Berg aus dreckigem Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Das sind nicht deine 'Freunde'. Das sind Wichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du kannst nicht ewig hierbleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du steckst in ziemlichen Schwierigkeiten, weißt du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Magst du Süßigkeiten? Wie wäre es mit einem Rauatai-Keks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sie hält inne und denkt darüber nach. Ihre Unterlippe zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich hab Papa besucht und Mutter ist wütend geworden. Ich will nicht, dass Papa Ärger bekommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Mylla zuckt zusammen. Ihr Gesicht verzieht sich zu einer trotzigen kleinen Maske.
+
+Die Wichte bemerken die plötzliche Bewegung und fauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ihr Gesicht erblasst und ihre Augen weiten sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Asca hat versprochen, nichts von dem Huhn zu sagen. Weiß Mutter es?"
+
+Die Wichte knurren und zischen, als Myllas Stimme lauter wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ihre Augenbrauen ziehen sich zusammen und sie blickt sich wieder um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Warum? Krieg ich Ärger?" Ihre Stimme zittert und die Wichte fauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sie sind WOHL meine Freunde! Ich hab gesehen, wie sie ein stinkiges Reh gegessen haben, weil sie Hunger hatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Dann habe ich ihnen ein bisschen Hühnchen gebracht. Jetzt sind sie meine Freunde." Sie blickt dich nüchtern an, als hätte sie gerade einen Vortrag beendet. "Also nenn sie nicht 'Wichte'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Du kannst mich nicht zwingen." Sie verschränkt die Arme über den Knien. Fast fürchtest du, sie würde drohen, den Atem anzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Einen echten Rauatai-Keks? Von denen habe ich schon gehört!" Myllas Augen weiten sich vor Neugier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Kriege ich wirklich einen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[So tun, als würdest du weggehen.] "Dann muss ich es eben deinen Eltern sagen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nein!" Mylla schreit und die Wichte werden aufgeschreckt. Sie blicken dich kampfbereit an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wir sehen uns im Dorf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Du hast meine Freunde getötet! Ich will zu meiner Mutter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du! Du hast mich angelogen! Ich will nicht mehr mit dir reden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Du hast die Blasenmütze gefunden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich habe nicht einmal Papa von der Blasenmütze erzählt. Sie liegt beim See, unter den großen Wurzeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sie streckt dir die Zunge heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Deine Stimme heben.] "Ich sage es ein letztes Mal. Diese Wichte sind nicht deine Freunde. Geh nach Hause, Mylla."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich will nicht nach Hause gehen." Sie zuckt mit den Schultern. "Mutter schreit mich nur wieder an. Außerdem bin ich gerne hier bei meinen Freunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Es tut mir leid. Ich habe nicht so viel Erfahrung wie du. Danke für die Erklärung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bitte." Sie winkt ab, deine Entschuldigung höflich annehmend. "Ich weiß alles über sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Diese Wichte werden sich gegen dich wenden, sobald du aufhörst, ihnen Essen zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Das stimmt nicht!" Myllas Stimme hallt durch die Höhle. "Du LÜGST!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nein, deine Mutter weiß nichts davon. Sie will nur, dass du wieder nach Hause kommst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Mylla stößt einen tiefen Seufzer der Erleichterung aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Nenn! Sie! Nicht! Wichte!" Jedes einzelne von Myllas schrillen Worten wird von den Höhlenwänden zurückgeworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Lügen] "Natürlich weiß sie es, aber sie hat versprochen, nicht böse zu sein, wenn du jetzt sofort nach Hause kommst. Sie hat sogar gesagt, sie kauft dir bei Hamond etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tja, gute Neuigkeiten. Er wurde gefeuert, weil er nach dir suchen wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Die Wichte werden unruhig, als sie Myllas Stimme hören. Ihre Köpfe zittern bedrohlich. Sie richten ihre Augen auf dich und fangen an, auf dich zuzutrotten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Tränen schießen Mylla in die Augen. Nachdem sie kurz überlegt hat, bewegt sie sich rasch in Richtung des Höhleneingangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich verlasse diese Höhle nicht ohne dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Papa schert sich einen Dreck um mich. Ihn kümmert nur seine Arbeit in der Batterie." Die Worte fallen mit gleichgültigem Ton aus ihrem Mund, aber sie beißt auf ihrer Lippe herum und blickt erwartungsvoll in Richtung des Höhleneingangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Lügen] "Das stimmt nicht. Er ist zuhause und wartet auf dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Was ist mit deinem Vater? Er macht sich große Sorgen um dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Er arbeitet in der Batterie, weil er will dass deine Mutter und du ein gutes Leben führen können. Verstehst du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Mylla beißt auf ihrer Lippe herum und denkt über deine Worte nach. "Du hast Recht." Sie lässt die Schultern hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich gebe auf. Von mir aus kannst du mit diesen Kreaturen hier verrotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nenn sie nicht so!", kreischt Mylla dich an. "Verschwinde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Was? War e-es meine Schuld?" Myllas Augen füllen sich mit Tränen. Nach einigen Schluchzern stößt sie ein schrilles Kreischen aus, das von den Höhlenwänden widerhallt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich muss nach Hause, damit ich da bin, wenn er wiederkommt." Sie nickt entschlossen und beginnt, sich zum Höhleneingang zu bewegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Das hat wirklich gereicht, um deine ... 'Freunde' zu beruhigen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Natürlich! Das sind die besten Kekse der Welt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Wenn ich dir diesen Keks gebe, gehst du dann nach Hause zu deiner Mutter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Lügen] "Wenn du jetzt nach Hause gehst, gebe ich dir einen, wenn ich dich in Stalwart sehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Lügen] "Magst du Süßigkeiten? Wie wäre es mit einem Rauatai-Keks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nein! Unartige Kinder kriegen keine Kekse. Und jetzt geh zurück zu deiner Mutter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Mylla nickt stumm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Mylla bricht augenblicklich in einen langgezogenen schrillen Schrei aus. Die Wichte in der Höhle schrecken sofort auf und wenden sich fauchend und mit erhobenen Krallen zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Mylla den Keks geben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ja." Sie seufzt und verdreht die Augen. "Das würdest du wissen, wenn du versuchen würdest, dich mit ihnen anzufreunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Großzunge!" Myllas schriller Schrei richtet sich an den zischenden Wicht, der ihr am nächsten ist. "Sei nett!" Sie richtet ihre Aufmerksamkeit wieder auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Großzunge!" Myllas schriller Schrei richtet sich an den zischenden Wicht, der ihr am nächsten ist. "Sei nett!" Sie richtet ihre Aufmerksamkeit wieder auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Mylla steckt eine Haarsträhne in den Mund und kaut darauf herum, während sie nachdenkt. Nach einigen Augenblicken nickt sie und geht in Richtung des Höhlenausgangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Mylla geht auf dich zu und nimmt den Keks vorsichtig in ihre kleinen Hände. Völlig auf die Leckerei konzentriert beginnt sie an deren Rändern zu knabbern, während sie wortlos in Richtung des Höhlenausgangs schlurft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Myllas Kopf rollt zur Seite, während sie ihre Optionen überdenkt. Nach einigen Augenblicken zuckt sie mit der Schulter und beginnt, an den Wichten vorbei in Richtung des Höhlenausgangs zu schlurfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Großzunge! Kleinzahn! Warum habt ihr das gemacht?" Mylla schluchzt leise. Es ist schwer zu sagen, ob die Wichte ihre Worte in irgendeiner Weise verstehen. "Warum habt ihr meinem Papa wehgetan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ich WILL nicht nach Hause!" Myllas schrille Stimme hallt durch die Höhle. "Ich will nicht, dass du hier bist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Mylla beißt auf ihrer Lippe herum und denkt über deine Worte nach. Sie lässt die Schultern hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Myllas blutunterlaufene Augen ruhen schließlich auf dir. Ihr Mund steht offen und sie wirft einen kurzen Blick zu den Wichten, um deren Reaktion zu sehen. Die deformierten Kinder scheinen ihre Furcht zu spüren und drehen sich eines nach dem anderen zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Plötzlich nehmen die Wichte eine tiefe und aggressive Haltung ein. Ein zischender Chor hallt von den Wänden der Höhle wider. Mylla stößt einen schrillen Schrei aus, der sich über den Lärm erhebt, als die Wichte gerade auf dich zustürzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Den Keks lächelnd auf den Boden fallen lassen und langsam mit dem Stiefel auf dem Eis zertreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Mit der Hand in Richtung Mylla wedeln.] "Sagani, wärst du so nett ...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Sagani beugt sich näher. "Junge Dame, entweder gehst du jetzt selbst nach Hause, oder ich zerre dich an den Ohren dorthin."
+
+"Ich zähle bis zehn." Sie steht auf und verschränkt die Arme. Sie hebt einen Finger.
+
+Dann noch einen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Jedenfalls spiele ich gerne hier. Es macht mehr Spaß, als von Mutter und Hamond angeschrien zu werden." Sie verzieht zornig das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Die Wichte beginnen, ihr hinaus zu folgen. Als sie aber die Höhle verlassen, sehen und hören sie Tiere in der Wildnis und werden abgelenkt. Einer nach dem anderen schleichen die Wichte in das Unterholz, um zu jagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

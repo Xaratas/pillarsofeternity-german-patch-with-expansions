@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_haddi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Position des Toten lässt dich die Schwertwunde in seinem Rücken deutlich erkennen. Das verschmierte, getrocknete Blut um ihn herum ist noch nicht zu einem Braunton verblichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Seine Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du hörst ein Stöhnen, tief und voller Schmerzen, und wendest den Kopf, um zu sehen, was ...
+
+Du spürst einen dumpfen Schmerz am Kopf und dein Blick verschwimmt. Ein fester Griff an deinem Arm zieht dich hoch auf die Knie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Oh nein."
+
+Er greift fast träge nach dem Buch. Du bemerkst, dass Elwyna verkrampft, weißt aber nicht warum ... bis er das Buch öffnet und der Brief hinausfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Elwynas Schrei wirkt so weit weg. Du musst zu ihr gelangen. Du musst irgendwie Eska warnen.
+
+Aber deine Beine gehorchen dir nicht. Du kannst nicht atmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Erinnerung gleitet von dir ab wie ein abgelegter Mantel. Die Schmerzen in deinem Rücken verschwinden ebenso schnell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wir haben nichts, was sich zu stehlen lohnt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Eska scheint es in der Mühle gut zu gehen. Nett von ihm zu schreiben. Dyrfurt ist weit weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Familie?" Der Mann lächelt, als er den Brief aufhebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Genug, Cevestin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Elwynas Stimme durchschneidet deine trägen Gedanken. Du blickst auf den Mann in Rüstung, der am Tisch sitzt. Dein Magen zieht sich vor Furcht zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nein!"
+
+Elwyna will nach vorne stürzen, aber der Mann hinter ihr packt sie am Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Schon gut, schon gut." Er wirft den Brief achtlos auf den Tisch. Sadistische Belustigung weicht augenblicklich brutalem Zorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tötet ihn."
+
+Du hast kaum Zeit, die Worte zu begreifen. Das Schwert, das dir in den Rücken gerammt wird, raubt dir gleichzeitig die Luft aus den Lungen und die Kraft aus den Gliedern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

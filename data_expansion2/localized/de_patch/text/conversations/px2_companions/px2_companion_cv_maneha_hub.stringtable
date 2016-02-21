@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\px2_companion_cv_maneha_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was hast du für mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wie bist du in Stalwart gelandet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wie bist du Gabenbringerin geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das ist im Augenblick alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Und was bringst du jetzt zur Abtei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie grinst dich verschlagen an. "Die Abtei ist allein zum Vergessen da. Und es wäre wohl kaum ein echtes Vergessen, wenn ich dir davon erzählen würde, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ihr Lächeln stockt kurz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Naja, manche Dinge wirft man ins Meer, aber sie werden irgendwann wieder angespült."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Aber wenn man will, dass etwas wirklich gründlich vergessen wird, bringt man es in die Abtei." Sie nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Erzähle mir etwas über dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wo soll ich anfangen? Ich habe fast zehn Jahre als Söldnerin in Alt-Vailia verbracht. Dort gab es immer genug Arbeit."
+
+Sie neigt den Kopf nach oben und beginnt, an ihren Fingern abzuzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Danach habe ich mit Piraten im Archipel gekämpft. Oder für sie, je nachdem, wer bezahlt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dann war ich eine Weile im Ewigen Weiß, dann bin ich durch das Land der Lebenden gewandert und schließlich habe ich mich in Ixamitl den Gabenbringern angeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Und hier bin ich." Sie grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Eigentlich wollte ich wissen, woher du ursprünglich kommst, vor deinen Abenteuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Warum bist du so viel gereist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich könnte dich dasselbe fragen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich bin wohl einfach nicht dafür gemacht, länger an einem Ort zu bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Und du hast das Leben als Soldatin, Piratin und Abenteurerin aufgegeben, um dich Ondras Gabenbringern anzuschließen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sie lacht. "Abenteuer erlebe ich noch genug. Nur unter anderen Umständen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich will dich noch etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Da gibt es nicht viel zu erzählen." Sie winkt ab und blickt schnell weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich bin in Rauatai aufgewachsen. Ich bin fort, als ich noch recht jung war, und war seitdem nie wieder dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Warum nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ach, weißt du. Ich habe fast zwanzig Jahre dort zugebracht. Ein Tapetenwechsel ist doch etwas Gutes, oder nicht?"
+
+Sie lächelt unbekümmert, aber es wirkt arg erzwungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Besser in die Zukunft sehen als in die Vergangenheit. Das sage ich immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich bin einfach gerne auf Wanderschaft und begegne neuen Leuten. Ich war nie gut darin, länger an einem Ort zu bleiben." Sie zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Als ich im Land der Lebenden war, haben mir ein paar Missionare von dem Orden erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich hatte Ondras Doktrin zwar schon einmal gehört, aber so wie sie über den Frieden des Vergessens sprachen, darüber, das Alte mit der Flut wegzuspülen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Das klang gut. Und das Werk eines Gabenbringers ... auf Wanderschaft zu gehen und den Leuten zu helfen, ihre Lasten loszuwerden ... das klang auch gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich hoffte immer, ich würde irgendwann auch einen Weg finden, meine eigene Last loszuwerden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wie war es in Alt-Vailia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Großartig. Jeden Tag ein Scharmützel und jeden Abend ein Festmahl auf der Festung irgendeines Comtes oder Marcesos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das waren gute, sorgenfreie Tage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich habe Fragen zu einigen der Länder, die du bereist hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Erzähl mir etwas über das Todesfeuer-Archipel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Das Land der Lebenden interessiert mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich bin immer an Kriegsgeschichten interessiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wie war dein Aufenthalt im Ewigen Weiß?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Kurz. Dort ist es so kalt, dass man nur eins tun kann ... schnell weiterziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Sie lacht. "Das geht wohl jedem so. Selbst nach zehn Jahren dort habe ich das Gefühl, nur einen winzigen Teil gesehen zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"In einem Wort: Gefährlich. Es gibt Piraten und Seemonster ... und von den Kaufleuten will ich gar nicht erst anfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich war dort zwar recht erfolgreich, aber irgendwann war ich es satt, den Überblick behalten zu müssen, wer mir ein Messer in den Rücken rammen wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Man kann den Tag in einer Wüste anfangen und am Abend im Urwald schlafengehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Es ist einfach alles ein wenig wilder ... sowohl die Leute als auch die Kreaturen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"In gewisser Weise vermisse ich es, aber man wacht jeden Tag in dem Wissen auf, dass es der letzte sein könnte. Für mich ist es länger gutgegangen, als man hoffen darf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Mehr wollte ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hast du noch etwas auf dem Herzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wie geht es dir seit dem Salzbrunnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sie lacht. "Den Blick kenne ich. Du hast Angst, dass ich mehr verloren habe als nur ein paar Albträume."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"In dem Wissen, dass ich meine Erinnerungen den Rest dieses Lebens mit mir herumschleppen muss ... und möglicherweise auch das nächste noch?"
+
+Sie lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Was mich vorher so geplagt hat, war auch, zu entkommen zu versuchen und immer wieder auf neue Hindernisse zu stoßen."
+
+Sie verschränkt die Arme und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Oder noch schlimmer, das Gefühl zu haben, dass mein Leid keinen Sinn hatte. Dass es nur ein göttlicher Zufall war."
+
+Sie hält inne und spielt an einem goldenen Armreif herum, den sie trägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich kann zwar nicht sagen, dass der Glaube an einen Grund die Erinnerung abschwächt, aber er hat mir die Kraft gegeben, mich ihr zu stellen."
+
+Sie lächelt und legt dir eine Hand auf die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Was ich sagen will ... du musst dir keine Sorgen um mich machen, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Es ist seltsam, zu wissen, dass mein Leben durch etwas geprägt werde, an was ich mich nicht erinnere." Sie legt den Kopf zur Seite und denkt nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Aber ich habe endlich das Gefühl, dass ich in die Zukunft sehen kann statt in die Vergangenheit."
+
+Der Gedanke bringt sie zum Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Sie wirft Pallegina einen verstohlenen Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Jetzt muss ich nur noch herausfinden, worauf ich mich in der Zukunft freue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich bin in guter Gesellschaft und das reicht mir." Sie lächelt Pallegina verschmitzt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Was hast du eigentlich mit Pallegina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich habe Fragen über die Abtei des Gefallenen Mondes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich auch." Sie blickt auf ihre Stiefel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Warum suchst du nach der Abtei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was für Erinnerungsstücke nimmst du an dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Gabenbringer werfen solche Erinnerungsstücke für gewöhnlich ins Meer. Warum bist du auf dem Weg zur Abtei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Und was bringst du jetzt zur Abtei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich plaudere immer gerne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Die anderen Gabenbringer haben mir gesagt, dass Stalwart in der Nähe der Abtei liegt ... und mir geraten, in der Stadt nach dem Weg zu fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Du bist nicht gerade passend gekleidet für das Wetter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Nun ja, Ixamitl ist so flach wie ein Pfannkuchen. Als die Gabenbringer mir gesagt haben, dass Stalwart in den Bergen liegt, dachte ich also, sie würden übertreiben." Sie zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Außerdem hasse ich packen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Soll das heißen, die anderen Gabenbringer wissen nicht, wo die Abtei liegt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wie schon gesagt, sie ist eine von Ondras ältesten Tempeln. Und ihre Anhänger sind nicht unbedingt dafür bekannt, Aufzeichnungen lange aufzubewahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sag mir, warum du wirklich Gabenbringerin geworden bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sie ist einfach so ... aufrichtig! Und ich hatte schon immer eine Schwäche für Frauen in Rüstungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Der Akzent tut sein Übriges." Maneha wird noch blauer, als sie es ohnehin schon ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

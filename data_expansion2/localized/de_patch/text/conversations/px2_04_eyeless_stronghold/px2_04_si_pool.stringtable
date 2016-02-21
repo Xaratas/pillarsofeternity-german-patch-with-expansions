@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_04_eyeless_stronghold\px2_04_si_pool</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Den Krallenspuren und Schuppen am Rand dieses Beckens nach zu urteilen wird es regelmäßig von Lagufaeth verwendet. Du siehst in den Tiefen des kalten, düsteren Wassers etwas schimmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Selbst hineintauchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] taucht in das Wasser und spürt sofort die bittere Kälte. Das Wasser ist ruhig, aber wer keine starke Konstitution besitzt, wird stark leiden, wenn er sich mehr als einige Augenblicke darin aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] schüttelt die bittere Kälte ab und taucht in Richtung des Lichts, das in den düsteren Tiefen der Eishöhle aufblitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] findet rasch einen Schatz der Lagufaeth, darunter zahlreiche Münzen und ein Paar erstaunlich gut erhaltener Plattenbeinschienen.
+
+Leider hat ein Rudel von Lagufaeth bemerkt, das ihr Schatz gestört wurde, und kommt angeschwommen.
+
+Sich vor den Lagufaeth zu verstecken wird schwierig, aber ihnen davonzuschwimmen wäre nur mit phänomenaler Athletik möglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] stößt sich voller Selbstbewusstsein vom Boden der Eishöhle ab. Selbst mit dem Schatz der Lagufaeth unter einem Arm gelangt [Specified 0] mühelos an die Oberfläche, ohne von ihren klammernden Händen auch nur berührt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Versuchen, sich zu verstecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[So schnell wie möglich an die Oberfläche schwimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] stößt sich vom Grund der Eishöhle ab und beginnt, in Richtung Oberfläche zu schwimmen.
+
+Leider ist es selbst unter idealen Bedingungen äußerst schwierig, einem Rudel entschlossener Lagufaeth davonzuschwimmen. Eines der Beine von [Specified 0] wird bei der Flucht aus dem Becken grauenhaft verstümmelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Wenige Augenblicke später schießen zornige Lagufaeth aus dem Becken!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Lagufaeth kreisen im Wasser und suchen nach der Quelle der Störung, bemerken [Specified 0] aber nicht. Nach einer frustrierend fruchtlosen Suche verlieren sie das Interesse und schwimmen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] kehrt mit dem Schatz an die Oberfläche zurück. Die Lagufaeth folgen nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Trotz verzweifelter Bemühungen wird [Specified 0] schnell von den zornigen Lagufaeth entdeckt.
+
+[Specified 0] schießt durch das Wasser in Richtung Oberfläche, aber die Lagufaeth landen mehrere Treffer und ein Bein wird schwer verletzt.
+
+Als [Specified 0] endlich aus dem Wasser entkommt, ist das Bein nur durch Glück noch mit dem Körper verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Auf das glänzende Licht zutauchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[An die Oberfläche zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Das Wasser ist zu kalt. [Specified 0] erreicht zwar die Quelle des Funkelns auf dem Grund der Höhle, wird jedoch bereits taub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du tauchst in das Wasser und spürst sofort, wie die Kälte sich in deine Haut beißt. Es ist unvorstellbar kalt und entzieht deinem Körper rasch jede Wärme.
+
+Das Wasser ist ruhig, aber wer keine starke Konstitution besitzt, wird stark leiden, wenn er sich mehr als einige Augenblicke darin aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du schüttelst die bittere Kälte ab und tauchst in Richtung des Lichts, das in den düsteren Tiefen der Eishöhle aufblitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Das Wasser ist zu kalt. Du erreichst zwar die Quelle des Funkelns auf dem Grund der Höhle, aber deine Finger sind bereits vollkommen taub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die Lagufaeth kreisen im Wasser und suchen nach der Quelle der Störung, bemerken dich aber nicht. Nach einer frustrierend fruchtlosen Suche verlieren sie das Interesse und schwimmen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Trotz deiner Bemühungen entdecken die Lagufaeth dich und lassen dir keine andere Wahl, als an die Oberfläche zu schwimmen.
+
+Eines der Geschöpfte schnappt nach deinem Bein und verwundet dich schwer. Es gelingt dir gerade noch, dich loszureißen und aus dem Becken zu steigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du kehrst mit dem Schatz an die Oberfläche zurück. Die Lagufaeth folgen nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du stößt dich vom Grund der Eishöhle ab und beginnst, Richtung Oberfläche zu schwimmen.
+
+Leider schwimmst du nicht schnell genug, um einer Bande entschlossener Lagufaeth zu entkommen. Zwei von ihnen holen dich ein und reißen an einem deiner Beine.
+
+Als du dich endlich aus dem Becken ziehst, ist das Bein nur durch Glück noch mit deinem Körper verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du stößt sich voller Selbstbewusstsein vom Boden der Eishöhle ab. Selbst mit dem Schatz der Lagufaeth unter einem Arm gelangst du mühelos an die Oberfläche, ohne von ihren klammernden Händen auch nur berührt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du findest rasch einen Schatz der Lagufaeth, darunter zahlreiche Münzen und ein Paar erstaunlich gut erhaltener Plattenbeinschienen.
+
+Leider hat ein Rudel von Lagufaeth bemerkt, das ihr Schatz gestört wurde, und kommt angeschwommen.
+
+Sich vor den Lagufaeth zu verstecken wird schwierig, aber ihnen davonzuschwimmen wäre nur mit phänomenaler Athletik möglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du schüttelst die bittere Kälte ab und tauchst in Richtung des Lichts, das in den düsteren Tiefen der Eishöhle aufblitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 0] schüttelt die bittere Kälte ab und taucht in Richtung des Lichts, das in den düsteren Tiefen der Eishöhle aufblitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

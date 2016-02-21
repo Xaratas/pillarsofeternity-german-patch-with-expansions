@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_llengraths_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du bemerkst vor dir eine Bewegung.
+
+Eine in Roben gehüllte Gestalt stolpert durch den Schlamm. Der Mann bläst auf einem Signalhorn einen einzigen, durchdringenden Ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Klang wird durch den Sumpf getragen und hallt von den Bäumen und Ruinen wider.
+
+Darunter hörst du ein bedrohliches Grollen und das schlammige Wasser im Norden beginnt zu brodeln und Blasen zu werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eine glatte, schuppige Schnauze taucht aus dem Wasser auf. Sie ist deine einzige Vorwarnung, ehe sich mit einem Schauer aus Schlamm und schmutzigem Wasser ein gewaltiges Ungeheuer aus dem Sumpf erhebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Drache schüttelt sich, um Pflanzenreste von seinen Hörnern zu lösen, und senkt dann den Kopf, um dich genau zu mustern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Winken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deine Waffe schwingen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Drache beobachtet dich desinteressiert. Er steht still, als würde er auf etwas warten.
+
+Du bemerkst eine kleine, dunkle Gestalt in der Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Drache neigt den Kopf. Du glaubst, in seinen untertassengroßen Augen ein belustigtes Funkeln zu sehen.
+
+Du bemerkst eine kleine, dunkle Gestalt in der Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du spürst einen plötzlichen Windhauch von oben, als die Gestalt größer wird. Eine geflügelte Silhouette fliegt zügig auf die Lichtung herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Als der zweite Drache landet, bemerkst du die Gestalt auf seinem Rücken: Eine Frau mit geschwungenen Hörnern, in Roben gekleidet.
+
+Sie steigt mit einer einzigen flüssigen Bewegung vom Rücken des Drachen ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Die Stellung halten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Deine Hände hochhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Als du aus den Ranken trittst, gelangst du auf eine große, stille Lichtung. Dahinter liegt ein scheinbar endloses Gebiet von tiefen Gewässern und dünnen Bäumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

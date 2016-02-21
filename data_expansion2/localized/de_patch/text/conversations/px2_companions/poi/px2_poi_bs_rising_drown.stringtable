@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_rising_drown</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Naja, Befehl ist wohl Befehl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Sie haben dieses Leben gewählt. Und du hast ihrem Leid ein Ende gesetzt. Trotzdem fühlt es sich nicht unbedingt an, als hätten wir das Richtige getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wenn du sie nicht ertränkt hättest, Wächter, dann hätte das ihre flennende Göttin mit einem See aus Tränen getan."</DefaultText>
+      <FemaleText>"Wenn du sie nicht ertränkt hättest, Wächterin, dann hätte das ihre flennende Göttin mit einem See aus Tränen getan."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Eine grausame Gnade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bei Ondras Zähnen, all diese Leben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was für ein jämmerliches Ende für diese Leute. Und wenn man sich vorstellt, dass Ondras Anhänger das seit unzähligen Generationen tun, ohne es zu hinterfragen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich dachte nicht, dass du das Zeug dazu hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sie hatten keinen Vorteil durch ihr Leid. Ein Neuanfang ist besser für sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mögen Ondras Gezeiten sie zu friedlichen Gestaden spülen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

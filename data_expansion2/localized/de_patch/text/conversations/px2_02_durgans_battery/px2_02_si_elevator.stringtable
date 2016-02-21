@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_si_elevator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>124</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Aufzug bewegt sich langsam und ruckelnd durch den Schacht. Alle paar Meter wackelt er heftig und die eingerosteten Ketten ächzen wie die Toten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er bleibt rumpelnd stehen und die ganze Plattform schwingt gefährlich hin und her. Ein scharfer, metallischer Geruch strömt aus einer der Winden.
+
+Du hörst ein kreischendes Geräusch. Erst denkst du, es käme aus der Winde, aber dann merkst du, dass es von oben kommt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ein gewaltiger Skuldrak kommt aus den Schatten herabgestürzt. Du spürst einen Lufthauch, als er an dir vorbeizischt, aber du siehst ihn nur für den Bruchteil einer Sekunde, ehe er schon kehrtgemacht hat und mit ohrenbetäubenden Schreien nach dir sucht.
+
+Das Rauschen von Flügeln und ein moschusartiger Geruch machen dir klar, dass noch mehr der Bestien hier sind. Die Plattform schwankt und wackelt weiter, während sie sich dir nähern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[In der Mitte der Plattform kämpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Euch an den Rändern der Plattform verteilen und für einen Angriff rüsten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Jemanden schicken, die Winde zu reparieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der größte Skuldrak stürzt auf die Mitte des Aufzugs herab. Sein Kreischen wird zu einem Zischen, als er brodelnde Säure auf die Plattform spuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[In der Mitte die Stellung halten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Wer soll gehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Es selbst tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ihr teilt euch auf und eilt zu gegenüberliegenden Seiten der schwankenden Plattform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du eilst geräuschvoll zu der Winde. Deine Schritte hallen in dem dunklen Schacht wider.
+
+Ein Skuldrak löst sich von dem Schwarm und fliegt in deine Richtung, von dem Lärm angelockt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Mit gesenktem Kopf eilt [Specified 0] auf schnellen, leisen Sohlen zu der Winde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die kleineren Skuldrak huschen in immer engeren und engeren Kreisen vorbei. Das größte Tier des Schwarms scheint derweil zu einem erneuten Angriff anzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der große Skuldrak stürzt wieder auf die Mitte nieder und bespuckt sie mit Säure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[SkillCheck 0] stolpert. Durch die schaukelnde Bewegung wird [SkillCheck 0] zum Rand geworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ihr gelangt alle zu den Rändern des schaukelnden Aufzugs und wendet euch dem großen Skuldrak zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Bestie gleitet davon und verschwindet in den Schatten über euch.
+
+Die kleineren Skuldrak landen jedoch auf der Plattform und kommen auf euch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 0] rollt über die Seite, kann sich jedoch am Rand der Plattform gerade noch festhalten.
+
+[Specified 0] ruft um Hilfe, während die Plattform sich nach unten neigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Halt dich fest, [Specified 0]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 0] stürzt schreiend in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Hinüber eilen und [Specified 0] packen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Mit Wilder Sprint hinüber eilen und [Specified 0] retten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du erreichst den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Mit Pfad des Flagellanten hinüber eilen und [Specified 0] retten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du ergreifst die Hand von [Specified 0] und ziehst [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Bestie stürzt auf die Mitte der Plattform hinab und spuckt Säure. Der Großteil davon landet blubbernd und zischend auf der Plattform, aber [Slot 0] wird auch getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Bestie gleitet davon und verschwindet in den Schatten über euch.
+
+Die kleineren Skuldrak landen jedoch auf der Plattform und kommen auf euch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du stellst dich stabil hin und blickst zurück zur Mitte der Plattform, wo der große Skuldrak bereits hinabschießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du eilst auf schnellen, leisen Sohlen mit geneigtem Kopf zu der Winde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du erreichst die Winde und beginnst, die klemmenden, verrosteten Zahnräder darin zu bearbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Aber du richtest dich zu deiner vollen Größe auf und wirfst die Schultern zurück.
+
+Der Skuldrak jault und rauscht an dir vorbei zurück in die Sicherheit des Schwarms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Mit einem Zischen spuckt der Skuldrak dir Säure ins Gesicht, bevor er zurück zu seinem Schwarm fliegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Nach wenigen Augenblicken hast du die Blockade gelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Das Problem ist nicht so einfach, wie du gehofft hattest. Du siehst die Lösung in dem verformten Metall, aber du wirst einen Augenblick brauchen, um den Mechanismus zu reparieren.
+
+Und die Skuldrak über dir werden immer tollkühner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Weiter die Winde reparieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Dich darauf vorbereiten, die Skuldrak abzuwehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du richtest deine Aufmerksamkeit wieder auf die fliegenden Bestien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Das Problem sieht komplexer aus, als du gehofft hattest. Du weißt nicht, wie lange du brauchen wirst, um das verformte Chaos aus Zahnrädern zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du stürzt zu dem Hebel.
+
+Der große Skuldrak fliegt über dich hinweg und bespuckt die Plattform mit Säure. Du wirst nicht getroffen, aber hinter dir ertönt ein Schmerzensschrei.
+
+Du reißt an dem Hebel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Nach wenigen Augenblicken hast du die Blockade gelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Einige der Kreaturen drehen sich in Richtung der Winde. Ihre Ohren zucken, als sie die metallischen Geräusche vernehmen.
+
+Du weißt nicht, wie lange es noch dauern wird, den Mechanismus zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Der größte Skuldrak stürzt auf die Mitte des Aufzugs herab. Sein Kreischen wird zu einem Zischen, als er brodelnde Säure auf die Plattform spuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Ketten rasseln und klackern und die Plattform setzt sich in Bewegung. Die Skuldrak stieben auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die kleineren Skuldrak huschen in immer engeren und engeren Kreisen vorbei. Das größte Tier des Schwarms scheint derweil zu einem erneuten Angriff anzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Als der Aufzug seine Fahrt nach oben fortsetzt, ziehen die erschrockenen Skuldrak sich wieder in die Schatten zurück.
+
+Die Plattform steigt aus dem Turm auf und du spürst einen kalten Wind auf deinem Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Weiter die Winde reparieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Dich darauf vorbereiten, die Skuldrak abzuwehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du richtest deine Aufmerksamkeit wieder auf die fliegenden Bestien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[In der Mitte der Plattform kämpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ein Skuldrak löst sich von dem Schwarm und stürzt auf dich zu. Er rammt deine Schulter mit seinem stumpfen Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Nach wenigen Augenblicken hast du die Blockade gelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Du arbeitest weiter an der Winde, aber deine Mühen wirken zunehmend sinnloser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 0] eilt geräuschvoll zu der Winde, laute Schritte hallen in dem dunklen Schacht wider.
+
+Ein Skuldrak löst sich von dem Schwarm und fliegt in die Richtung von [Specified 0], von dem Lärm angelockt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 0] erreicht die Winde und beginnt, die klemmenden, verrosteten Zahnräder darin zu bearbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Nach wenigen Augenblicken hat [Specified 0] die Blockade gelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Das Problem ist nicht so einfach, wie [Specified 0] gehofft hatte. Du siehst die Lösung in dem verformten Metall, aber [Specified 0] wird einen Augenblick brauchen, um den Mechanismus zu reparieren.
+
+Und die Skuldrak über euch werden immer tollkühner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Leider sieht das Problem immer komplexer aus. Es ist nicht klar, wie schnell [Specified 0] die Winde reparieren kann ... wenn überhaupt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Aber [Specified 0] nimmt eine furchterregende Haltung an, die Schultern zurückgeworfen, den Kopf hoch erhoben.
+
+Der Skuldrak jault und rauscht an [Specified 0] vorbei zurück in die Sicherheit des Schwarms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Mit einem Zischen spuckt der Skuldrak [Specified 0] Säure ins Gesicht, bevor er zurück zu seinem Schwarm fliegt. [Specified 0] schreit vor Schmerzen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Weiter die Winde reparieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Dich darauf vorbereiten, die Skuldrak abzuwehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Specified 0] kehrt zurück zur Gruppe, um die Skuldrak abzuwehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0] stürzt zurück zu dem Hebel.
+
+Gerade in diesem Moment fliegt der große Skuldrak über die Plattform hinweg und spuckt Säure. Er verfehlt [Specified 0], aber du und der Rest der Plattform werden getroffen.
+
+[Specified 0] reißt an dem Hebel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Als der Aufzug seine Fahrt nach oben fortsetzt, ziehen die erschrockenen Skuldrak sich wieder in die Schatten zurück.
+
+Die Plattform steigt aus dem Turm auf und du spürst einen kalten Wind auf deinem Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Der größte Skuldrak stürzt auf die Mitte des Aufzugs herab. Sein Kreischen wird zu einem Zischen, als er brodelnde Säure auf die Plattform spuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Die kleineren Skuldrak huschen in immer engeren und engeren Kreisen vorbei. Das größte Tier des Schwarms scheint derweil zu einem erneuten Angriff anzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Nach wenigen Augenblicken hat [Specified 0] die Blockade gelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Einige der Kreaturen drehen sich in Richtung der Winde. Ihre Ohren zucken, als sie die metallischen Geräusche vernehmen.
+
+Du weißt nicht, wie lange es noch dauern wird, den Mechanismus zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Weiter die Winde reparieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Dich darauf vorbereiten, die Skuldrak abzuwehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] kehrt zurück zur Gruppe, um die Skuldrak abzuwehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[In der Mitte der Plattform kämpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Ein Skuldrak löst sich von dem Schwarm und stürzt auf die Winde zu. Er rammt die Schulter von [Specified 0] mit seinem stumpfen Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Nach wenigen Augenblicken hat [Specified 0] die Blockade gelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Specified 0] arbeitet weiter an der Winde, aber die Mühen wirken zunehmend sinnloser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Die Winde reparieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[SkillCheck 1] stolpert. Durch die schaukelnde Bewegung wird [SkillCheck 1] zum Rand geworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[[Specified 0] ein Seil zuwerfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Specified 0] ergreift das Seil und klettert in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Slot 0] erreicht den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Slot 0] ergreift die Hand von [Specified 0] und zieht [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Slot 1] erreicht den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Slot 2] erreicht den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Slot 3] erreicht den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Slot 4] erreicht den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Slot 5] erreicht den Rand gerade, als die Finger von [Specified 0] abrutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Slot 1] ergreift die Hand von [Specified 0] und zieht [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Slot 2] ergreift die Hand von [Specified 0] und zieht [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Slot 3] ergreift die Hand von [Specified 0] und zieht [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Slot 4] ergreift die Hand von [Specified 0] und zieht [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Slot 5] ergreift die Hand von [Specified 0] und zieht [Specified 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Die Bestie stürzt auf die Mitte der Plattform hinab und spuckt Säure. Der Großteil davon landet blubbernd und zischend auf der Plattform, aber du wirst getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Der große Skuldrak stürzt wieder auf die Mitte nieder und bespuckt sie mit Säure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Der große Skuldrak stürzt wieder auf die Mitte nieder und bespuckt sie mit Säure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Jemanden schicken, um [Specified 0] zu helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Wer soll gehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Slot 0] stürzt zum gegenüberliegenden Rand des Aufzugs, aber der Griff von [Specified 0] löst sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Slot 1] stürzt zum gegenüberliegenden Rand des Aufzugs, aber der Griff von [Specified 0] löst sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Slot 2] stürzt zum gegenüberliegenden Rand des Aufzugs, aber der Griff von [Specified 0] löst sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Slot 3] stürzt zum gegenüberliegenden Rand des Aufzugs, aber der Griff von [Specified 0] löst sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Slot 4] stürzt zum gegenüberliegenden Rand des Aufzugs, aber der Griff von [Specified 0] löst sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Slot 5] stürzt zum gegenüberliegenden Rand des Aufzugs, aber der Griff von [Specified 0] löst sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Du wirst verätzt. Dein eigener Schrei dröhnt in deinen Ohren und du riechst verbranntes Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Du hörst einen Schrei und riechst verbranntes Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du wirst verätzt. Dein eigener Schrei dröhnt in deinen Ohren und du riechst verbranntes Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Du jaulst vor Schmerzen auf, als du von einigen Spritzern getroffen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Du hörst noch weitere Schmerzensschreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Du jaulst vor Schmerzen auf, als du von einigen Spritzern getroffen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Der größte Skuldrak stürzt auf die Mitte des Aufzugs herab. Sein Kreischen wird zu einem Zischen, als er brodelnde Säure auf die Plattform spuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Der größte Skuldrak stürzt auf die Mitte des Aufzugs herab. Sein Kreischen wird zu einem Zischen, als er brodelnde Säure auf die Plattform spuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

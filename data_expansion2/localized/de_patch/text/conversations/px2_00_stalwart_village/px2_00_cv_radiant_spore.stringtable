@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_radiant_spore</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser riesige Pilz zuckt und pulsiert vor Leben. Mit jeder wellenförmigen Bewegung werden neue Wolken von kleinen, leuchtend blauen Sporen freigesetzt. Die ganze Luft ist voll von ihnen.
+
+Du hörst ein gedämpftes Summen in der Luft, wie das Murmeln von weit entfernten Stimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Strahlensporen einatmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Strahlenpilz angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du trittst in die Wolke aus Sporen und atmest tief ein. Die Luft riecht süßlich, als hättest du einen Garten betreten. Sie lässt aber ein kribbelndes Taubheitsgefühl zurück.
+
+Die Welt um dich herum scheint sich zu drehen, Farben verändern sich, Klänge verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du hast keine Macht über mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Weg, weg mit dir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Vortreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Sicht verschwimmt, als die Wirkung der Sporen nachlässt. Einen Moment lang siehst du aber Dutzende glänzender Fäden, die sich vom Strunk des Pilzes erstrecken, um sich in den umliegenden Vithrack zu verpflanzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Worte des Strahlenpilzes sind eine treibende Kraft in deinem Rücken, die dich vorwärts drängt. Seine Sporen schweben überall um dich herum wie leuchtende Staubkörner durch die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Die Verbindung zwischen dem Strahlenpilz und den Vithrack kappen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Raum erbebt und die Stimme des Strahlenpilzes erfüllt deinen Schädel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du wirst bereuen, was du getan hast!"
+
+Ein Schwarm von stacheligen Ranken bewegt sich bedrohlich auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Tief durchatmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Deine Verbündeten angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Gut. Jetzt schaffe mir diese Störenfriede vom Hals. Ich habe keine Verwendung für sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Worte des Pilzes fliegen über dich hinweg, und wo sie Halt suchen, fegst du sie beiseite. Du bleibst, wo du bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Die Fäden untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Die Stimme des Pilzes aus deinen Gedanken drängen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Warum tust du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Was tust du mit mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Diese Fragen sind nicht von Bedeutung. Atme weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Willkommen."
+
+Die Stimme des Pilzes erfüllt den Raum, so groß und gewaltig wie seine pulsierende Form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ja. Du hast gut gewählt. Jetzt kannst du dich den anderen anschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Worte des Strahlenpilzes überströmen dich und dröhnen in deinen Ohren. Du versuchst, aus der Wolke zu treten, kannst aber deine Füße nicht überzeugen, sich zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Was du als Fäden gesehen hast, erkennst du jetzt als dünne Verbindungen von Seelenessenz, die den Hauptstrunk mit all denen verbinden, die unter dem Einfluss der Sporen stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du kannst sie mühelos bis zu einer Handvoll von Vithrack in dem Raum zurückverfolgen. Ein einzelner, dünner Faden führt unmittelbar zu dir, als wäre er in deinem Herzen verankert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du trittst vor und stellst fest, dass deine aggressiven Absichten fast augenblicklich verschwinden. Du kannst dir nicht vorstellen, dem Pilz zu schaden. Du kannst dir nicht vorstellen, ihm schaden zu WOLLEN.
+
+Du hörst ein raschelndes, zischendes Geräusch, wie Lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Lass die Vithrack gehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du hörst nichts als das Knarzen der Bewegungen des Strahlenpilzes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Warum? Das ist ein Geschenk. Dieses Spinnenvolk wird einer neuen Generation meiner Art als Wirt dienen. Bald wirst du dich ihnen anschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ist das nicht viel besser?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Widerstehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Lass die Vithrack gehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nimm ruhig noch mehr. Du wirst es schon bald verstehen."
+
+Der leuchtende Strunk schüttelt sich und gibt neue Sporenwolken frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der Boden unter deinen Füßen bebt und ein Ächzen zerteilt die Luft. Das Geräusch scheint in dich hineinzukriechen und du hast das Gefühl, als würde dein Schädel gespalten werden.
+
+Es ist zu viel. Du fällst zu Boden, die Hände über deine Ohren gepresst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Der Boden unter deinen Füßen bebt und ein Ächzen zerteilt die Luft. Das Geräusch scheint in dich hineinzukriechen und du hast das Gefühl, als würde dein Schädel gespalten werden.
+
+Der Druck nimmt zu, bis du kaum mehr etwas sehen kannst, aber du bleibst standhaft, die Fäuste fest geballt, bis es nachlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Du kannst mir keine Forderungen stellen."
+
+Die Stimme ist gleichmäßig, ruhig, aber sie fühlt sich an, als würde sie schreien. Jedes Wort hallt in deinen Ohren wider. Dein Kopf fühlt sich an, als wäre er zertrümmert worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Du bist ein Geschöpf von ungewöhnlicher Ausdauer. Aber du musst dich nicht widersetzen."
+
+Die Stimme ist sogar recht angenehm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Verflucht, es spricht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du hörst Lachen, durchzogen von belustigter Verachtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wo kommst du denn her?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du greifst nach alten Erinnerungen, Gedanken, um die bohrende Präsenz aus deinem Verstand zu drängen. Dein Kopf beginnt, wieder frei zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Sehr gut. Nun denn, beseitigen wir diese Störenfriede."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du greifst nach alten Erinnerungen, Gedanken, versuchst dich zu konzentrieren. Die seltsame Stimme treibt sie alle aus deinem Kopf. Du kannst dich nicht sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Deine Verbündeten angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich weiß nicht, ob das ... tja, er hat es getan."</DefaultText>
+      <FemaleText>"Ich weiß nicht, ob das ... tja, sie hat es getan."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du wehrst dich erbittert und füllst deinen Kopf mit stummen Schreien. Einen Augenblick lang ist der Strahlenpilz still, erwartungsvoll, als würde er abwarten, ob du eine Gefahr für ihn darstellst.
+
+Als er spricht, wirkt er zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Gut. Nun steh still. Es wird schnell vorbeisein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Kaum erreichen die Worte deine Ohren, spürst du plötzlich, wie du dich zu deinen Verbündeten umdrehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du mühst dich, die Sinne deiner Wächtergabe zu sammeln, was dir nur gerade so gelingt. Du reißt an den Essenzfäden. Die dünnen Stränge lösen sich unter deinem Angriff auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

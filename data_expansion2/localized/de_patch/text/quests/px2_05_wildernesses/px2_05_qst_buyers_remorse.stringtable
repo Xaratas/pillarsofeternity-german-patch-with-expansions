@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_05_wildernesses\px2_05_qst_buyers_remorse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Düsterer Eid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zu Haddis Haus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche das Haus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde Eska.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Konfrontiere die Paladine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sieh nach Haddi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu Kern zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wütend und mehr als nur ein wenig angetrunken hat ein Bewohner von Stalwart namens Kern unwissentlich einen Paladin der Düsteren Schreiter angeheuert, um eine schon lang schwelende Fehde beizulegen. Nun kann er die Ereignisse, die er in Gang gesetzt hat, nicht mehr aufhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich bin der Gréfenrast einem Zwerg namens Kern begegnet. Er hat mich angefleht, einen Düsteren Schreiter namens Cevesti zu finden und aufzuhalten, bevor dieser Haddi und seiner Familie etwas antun kann. Ich finde Haddis Haus östlich von Stalwart in der Weißsteinsenke, in der Nähe einer Handelsstraße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>In der Weißsteinsenke bin ich zufällig an einem Haus vorbeigekommen, dass offenbar gerade überfallen wurde. Die Nachbarn haben sich nicht getraut, hineinzugehen. Vielleicht kann ich in Erfahrung bringen, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Indem ich Haddis Seele gelesen habe, habe ich erfahren, wie es zu seinem Tod kam. Das Trio, das ihn getötet hat, ist darauf versessen, Haddis Sohn in der Mühle in Dyrfurt aufzuspüren und den Auftrag zu Ende zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Dyrfurt-Mühle erreicht ... und darin Eska gefunden, der gerade gegen die Düsteren Schreiter kämpfte. Ich bezweifle, dass die Paladine über die Unterbrechung erfreut sein werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Den Nachbarn zufolge wurde Haddi kürzlich von einer Gruppe schwer bewaffneter und gefährlich aussehender Individuen besucht. Sie trauen sich nicht, sein Haus zu betreten, und haben mich um Hilfe gebeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Die Paladine sind Geschichte. Kern wartet in der Gréfenrast in Stalwart auf mich und will sicher wissen, was vorgefallen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe in Stalwart mit Kern gesprochen, einem Einheimischen. Er hat mir gestanden, dass er unwissentlich einen Düsteren Schreiter angeheuert hat, um eine seit langem schwelende Fehde zwischen ihm und Haddi beizulegen. Ganz offensichtlich hat er Ereignisse in Gang gesetzt, die er nicht mehr aufhalten kann. Er hat mich gebeten, die Angelegenheit zu bereinigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Haddi und seine Frau sind tot. Der Düstere Schreiter ist nirgendwo zu sehen. Vielleicht finde ich im Haus Hinweise darauf, wo er sein könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Eska ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nachdem die Paladine und Eska alle tot sind, hat diese Angelegenheit ein blutiges Ende genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Kern berichtet, wie die Schlacht mit den Düsteren Schreitern ausgegangen ist. Er war entsetzt, welches Schicksal er über Haddis Familie gebracht hat. Er hat geschworen, Wiedergutmachung zu leisten, wenn es ihm irgendwie möglich ist. Vorerst hat er mir dafür gedankt, dass ich zumindest für ein wenig Gerechtigkeit gesorgt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Kern berichtet, wie die Begegnung mit den Düsteren Schreitern ausgegangen ist. Er war mir sehr dankbar, dass ich Eskas Leben gerettet habe. Er bezweifelt aber, dass der Knabe ihm je wird verzeihen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden. Eska hat die Begegnung nicht überlebt ... aber ich habe neue Verbündete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Kern war entsetzt, dass ich die Düsteren Schreiter angeheuert und dafür Eskas Leben geopfert habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden. Kern war froh zu hören, dass Eska die Begegnung überlebt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Ich habe die Düsteren Schreiter getötet und Eska gerettet. Er war froh zu hören, dass Kern dafür bezahlt hat, dass er so viel Tod über Eskas Familie gebracht hat ... und sehr dankbar für mein Einschreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden ... sehr zu Eskas Verärgerung. Der Knabe ist unbeschadet entkommen und ich habe nun einen Paladin in meinen Diensten stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Kern war entsetzt, dass ich die Düsteren Schreiter angeheuert und dafür Eskas Leben geopfert habe. Er wollte sich sogar weigern, mich zu bezahlen. Aber er hat sich überzeugen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>Ich habe die Düsteren Schreiter getötet und Eska gerettet. Dafür war er sehr dankbar, auch wenn der Tod seiner Familie ihm schwer zugesetzt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Einer der Einheimischen in der Weißsteinsenke wurde von bedrohlich wirkenden und bewaffneten Fremden besucht ... und wurde seitdem nicht gesehen. Seine Nachbarn befürchten das Schlimmste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ein Haus in der Weißsteinsenke ist zum Schauplatz eines Massakers geworden. Die Mörder sind längst fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

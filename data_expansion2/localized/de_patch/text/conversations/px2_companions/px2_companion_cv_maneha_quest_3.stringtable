@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\px2_companion_cv_maneha_quest_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Über Jahrhunderte hinweg eine perfekte Erinnerung. Das ist eine lange Zeit, um mit sich alleine zu leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du kanntest diesen Thaos also vor ewigen Zeiten, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ein wenig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich glaube, ich war Teil eines missionarischen Ordens, den er anführte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wie ist das überhaupt, sich an etwas zu erinnern, das vor so langer Zeit stattgefunden hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich erinnere mich immer noch nicht an viel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was mich beunruhigt ist, dass Thaos sich an mehr aus meiner eigenen Vergangenheit erinnert als ich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das ist mehrere Leben her. Ich verstehe immer noch nicht, was das heute für eine Bedeutung für mich haben soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Das Einzige, was es mir gebracht hat, sind weitere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Deswegen habe ich angefangen, über Thaos nachzudenken. Dieser Delemgan sagte, er würde sich an alles erinnern."
+
+Sie blickt zu dir zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Folter. Und auch noch von den Göttern, denen er angeblich dient." Sie schaudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was seine Mission auch sein mag, er hatte sehr lange Zeit, um daran zu arbeiten." Sie nickt ernst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich meine, kannst du dir das vorstellen? Dich an mehrere Jahrhunderte in allen Details zu erinnern. An jede verlorene Liebe, jeden gescheiterten Traum." Sie schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Fragst du dich je, wie ihn das verändert hat? Ob Thaos diesen Pfad vor so vielen Leben gewählt hätte, wenn er gewusst hätte, wohin er führen wird?"
+
+Maneha blickt dich mit zusammengekniffenen Augen und schräg geneigtem Kopf an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ja, und ich bemitleide ihn dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Wenn er gewollt hätte, hätte er in diesem Leben anders wählen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vielleicht begann Thaos mit guten Absichten. Man kann zur Verteidigung nobler Ideale grauenhafte Taten begehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich habe noch nie darüber nachgedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Geht mir ebenso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wenn er mit Woedica gemeinsame Sache macht, wäre ich mir da nicht so sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Thaos' Taten sind ein Beweis, dass er von Grund auf böse ist. Eine würdigere Person hätte nie getan, was er getan hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Maneha hält inne und verzieht das Gesicht. "Vielleicht wäre er unter anderen Umständen würdiger gewesen. Ich-"
+
+Sie stockt und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich sollte nicht erwarten, dass du viel Mitgefühl für den Mann empfindest, nach allem Ärger, den er dir und so vielen anderen bereitet hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Für gewöhnlich gibt es einen zwielichtigen Pfad, der vom einen zum anderen führt, aber ich verstehe, was du meinst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich bin allerdings überrascht, dass du überhaupt Mitgefühl für ihn empfindest. Er hat dir dieses Leben – und wer weiß, wie viele andere – sehr schwer gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ihn zu hassen ändert nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Es ist, wie du gesagt hast – Zeit und Prüfungen können eine Person stark verändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich habe Dinge getan, auf die ich nicht stolz bin. Ich kann nur hoffen, dass andere mir ebenso viel Gnade zeigen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Jeder – selbst Thaos – kann sich zum Besseren verändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Eine Existenz wie die von Thaos muss einsam sein. Das wäre Strafe genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Wie sein Arrangement mit Woedica auch aussehen mag, es ist gewiss nicht leicht, daraus zu entfliehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Er ist für meine Pein verantwortlich. Ich werde es auskosten, Rache zu üben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Thaos ist großer Gräueltaten schuldig. Ich werde ihn für jedes Leben, das er genommen hat, und für jede Seele, die er gestohlen hat, zur Rechenschaft ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich glaube, dass er nur seine eigene Macht mehren und seinen eigenen Zwecken dienen wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Was sie auch gewesen sein mögen, seine ursprünglichen Beweggründe sind irrelevant. Er hätte die Folgen seiner Taten bedenken müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Sie zuckt mit den Schultern. "Ich würde zu gerne wissen, was seine Beweggründe sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich verteidige Thaos nicht. Aber ich weiß, wie es ist, eine Last mit sich herumzuschleppen, die man nicht ablegen kann."
+
+Einen kurzen Augenblick lang sackt ihr ganzer Körper in sich zusammen.
+
+Aber sie richtet ihre Schultern auf und blickt dich mit plötzlicher Entschlossenheit und Stärke an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Geringere Verbrechen können vergeben werden. Thaos ist jenseits aller Gnade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Weshalb ich mich frage, warum er es tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Der Bleierne Schlüssel hat in den letzten Jahrzehnten eine regelrechte Besessenheit mit der Beseelung entwickelt. Aber ihr Fokus lag immer darauf, die Geheimnisse der Götter zu beschützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Du hattest einmal eine Frage an Thaos. Vielleicht ist es genau das, was er – und der Rest des Bleiernen Schlüssels – über so viele Generationen hinweg vor der Welt verborgen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich dachte, ich hätte es alles gesehen. Aber du hast mir Dinge gezeigt ... über mich selbst, über die Welt ... die ich mir niemals hätte vorstellen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich werde das alles nicht vergessen." Sie legt dir eine Hand auf die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Und wann war das ... vor ein paar hundert Jahren? Tausend?"
+
+Sie zieht Luft durch die Zähne ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Bis ich weiß, warum er getan hat, was er getan hat, kann ich nicht urteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Sie lacht unsicher. "Das könnte eine Gnade sein."
+
+Sie seufzt. Tiefe Falten sind auf ihrer blau-grünen Stirn zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Rüste dich für den Tag, an dem du es erfährst."
+
+Sie seufzt. Tiefe Falten sind auf ihrer blau-grünen Stirn zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Nun, rüste dich für den Tag, an dem du dich an mehr erinnerst."
+
+Sie seufzt. Tiefe Falten sind auf ihrer blau-grünen Stirn zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Es sind die Antworten, die du fürchten solltest."
+
+Sie seufzt. Tiefe Falten sind auf ihrer blau-grünen Stirn zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Oh, du wirst deine Antworten wohl finden. Aber rüste dich für den Tag, an dem das geschieht."
+
+Sie seufzt. Tiefe Falten sind auf ihrer blau-grünen Stirn zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Dann wird er vielleicht doch noch bezahlen, wenn du einen Weg findest, ihn zurück in Beraths Rad zu schicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Mit dir sollte man es sich lieber nicht verscherzen, was?" Sie lächelt leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Dann mögen die Götter Gnade mit uns übrigen haben." Sie blickt zu Boden und schweigt einige Sekunden lang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich verteidige Thaos nicht. Aber ich erinnere mich noch, wie es ist, eine Last mit sich herumzuschleppen, die man nicht ablegen kann."
+
+Sie blickt auf ihre Hand. Dort, wo die zerbrochene Flasche sie verletzt hat, ist eine fahle blaue Narbe zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Diese Delemgan haben einen Auftrag von den Göttern erwähnt. Fürstin Webb hat dir gesagt, dass er mit Woedica verbunden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Welche Hilfe könnte ein Gott wohl von einem Sterblichen erbitten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aloth räuspert sich. "Darf ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Nun, Ondra hat mich um Hilfe dabei gebeten, die Augenlosen aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Die Götter sollen sich nicht in die Welt der Sterblichen einmischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Also macht Thaos die Drecksarbeit für Woedica." Sie zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Sie lacht. "Gutes Argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Andere Götter haben dir gesagt, dass er Woedica stärken will. Aber zu welchem Zweck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wichtig ist nur eines ... dass wir ihn aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wenn wir das herausfinden wollen, sollten wir uns beeilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Du hast wohl Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Wenn wir das herausfinden wollen, sollten wir lieber weiterziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich will dich etwas fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Lasst uns gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Das hoffe ich inständig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich kenne das Gefühl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Sie lässt nicht viel los, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Da hast du Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Das ist gerecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

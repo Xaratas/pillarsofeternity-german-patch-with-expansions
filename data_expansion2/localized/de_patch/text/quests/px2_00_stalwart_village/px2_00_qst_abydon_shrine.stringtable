@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_abydon_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eisen und Flamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Segne den Hammer am Schrein Abydons auf Burg Schmelztiegel in Urfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Segne den Hammer am Magran-Schrein in Magrans Gabelung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Masca im Abydon-Tempel in Stalwart zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Masca, eine Akolythin im Abydon-Tempel von Stalwart, hat mich um einen Gefallen gebeten: Ich soll ein Ritual abschließen, dass ihren Schmiedehammer segnet und ihre Fähigkeiten als Schmiedin verbessert. Im Moment taugt sie nicht viel und fürchtet daher, aus dem Tempel geworfen zu werden, wenn sie sich nicht bald deutlich verbessert. Sie hat mich um Hilfe gebeten, weil sie selbst Stalwart nicht verlassen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Besuche Burg Schmelztiegel in Urfeuer und segne den Hammer am Abydon-Schrein dort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Reise zu Magrans Gabelung und finde den Magran-Schrein an der Wegkreuzung. Schließe den zweiten Teil des Rituals ab, indem du Mascas Schmiedehammer an dem Schrein segnest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe das Ritual für Masca abgeschlossen, ihr Schmiedehammer ist nun verzaubert. Ich muss ihn ihr zurück in den Abydon-Tempel in Stalwart bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Abydon-Schrein befindet sich im hinteren Teil der Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Masca hat ihre Lektion gelernt und Engrim erlaubt ihr, im Abydon-Tempel zu bleiben. Sie wird ihre Fähigkeiten als Schmiedin von nun an auf ehrlichem Wege vorantreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Für den Versuch, durch magische Mittel eine Verbesserung ihrer Fähigkeiten vorzutäuschen, hat Engrim Masca aus dem Abydon-Tempel verbannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Masca überzeugt, den verzauberten Schmiedehammer nicht zur Verbesserung ihrer Fähigkeiten einzusetzen. Sie wird ihre Fähigkeiten als Schmiedin von nun an auf ehrlichem Wege vorantreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

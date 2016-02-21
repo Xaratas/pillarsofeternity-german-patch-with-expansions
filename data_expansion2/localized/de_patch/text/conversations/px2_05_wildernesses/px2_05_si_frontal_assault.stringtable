@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_frontal_assault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein schweres Holztor verwehrt dir den Zutritt zur Festung. Gestalten in Rüstungen stehen auf den flankierenden Wachtürmen, mit großen Langbögen bewaffnet.
+
+Ein Frontalangriff auf das Fort wäre nicht leicht zu bewerkstelligen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Tor untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Eine Kanonensalve von Durgans Batterie anfordern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Festung ist zwar nur ein vorübergehendes Gebäude, wirkt aber erstaunlich stabil. Die Wände würden eine angreifende Armee lang genug abhalten, dass die Bewohner der Festung eine Verteidigung planen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du hörst eine Kakophonie aufgeschreckter Schreie, als du dich der Brücke näherst. Dunkle Gestalten laufen auf den Türmen und Plattformen hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Eine Reihe von Bogenschützen formiert sich und zielt auf deine Gruppe – entschlossen, euren Vormarsch aufzuhalten. Eine Salve von Pfeilen regnet auf euch hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Den Baumstamm als Deckung verwenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Auf die Bogenschützen feuern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Zum Tor stürmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du lässt den Rammbock lang genug los, um auf die Verteidiger der Festung zu zielen.
+
+Du streckst einen Bogenschützen nieder, dann einen zweiten. Die übrigen suchen Schutz hinter den Zaunpfosten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du zielst, aber ein Hagel von Pfeilen lässt dich schnell wieder unter dem Baumstamm Schutz suchen.
+
+Die Bogenschützen haben dadurch Mut gefasst und konzentrieren ihr Feuer. Du spürst einen stechenden Schmerz in deinem Bein als ein Pfeil dich trifft. Du gehst fast in die Knie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ihr hebt den Baumstamm über eure Köpfe und platziert ihn zwischen euch und dem tödlichen Regen. Pfeile übersäen den Stamm und verfehlen nur knapp eure Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ihr hebt den Baumstamm hoch und platziert ihn zwischen euch und dem tödlichen Regen. Pfeile übersäen den Stamm und verfehlen nur knapp eure Hände.
+
+Die Kraft von [SkillCheck 0] lässt nach und der Baumstamm rutscht einen Augenblick lang ab. Ein Pfeil durchbohrt das Bein von [SkillCheck 0] und behindert euer Vorankommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ihr sammelt eure Kräfte, packt den Baumstamm und eilt auf das Tor zu. Pfeile schlagen im Boden rund um eure Füße ein.
+
+Die überraschende Geschwindigkeit hilft euch. Ihr rennt mit dem Rammbock auf das Tor zu und er trifft die Türen mit einem lauten Krachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ihr sammelt eure Kräfte, packt den Baumstamm und rennt schneller.
+
+Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 0] schwindet und ein Pfeil findet sein Ziel ... er trifft [SkillCheck 0] am Bein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ihr zieht den Baumstamm zurück und eilt erneut nach vorne. Ihr hört ein lautes Knacken, als die Pfosten anfangen nachzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Über euch siehst du plötzlich hektische Bewegungen. Auf dem Turm ganz links bringt eine Gruppe von Männern einen Kessel in Position.
+
+Sie neigen ihn nach vorne, um seinen Inhalt auf deine Gruppe zu gießen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Plötzlich platscht neben euch eine dunkle Flüssigkeit auf den Boden. Das ist eure einzige Vorwarnung, bevor ein Schwall kochenden Pechs sich von oben über euch ergießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ihr lasst den Rammbock Rammbock sein und springt gerade noch rechtzeitig beiseite, um einem Schwall siedenden Pechs auszuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Zur Seite springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Bollwerk gegen die Elemente wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>["Winterwind" wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du wirkst deinen Zauber gerade noch rechtzeitig. Ein Schwall siedenden Pechs stürzt von oben herab, aber ihr entkommt unbeschadet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du wirkst deinen Zauber gerade noch rechtzeitig. Ein Schwall siedenden Pechs stürzt von oben herab, wird aber in der Luft von deinem Zauber gestoppt.
+
+Das Pech fällt in schwarzen, gefrorenen Klumpen zu Boden, die beim Aufprall zerbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ihr lasst den Rammbock Rammbock sein und springt gerade noch rechtzeitig beiseite, um einem Schwall siedenden Pechs auszuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ihr seid einen Augenblick zu spät. Ein Schwall siedenden Pechs kommt herabgestürzt und ein Teil davon trifft deine vordere Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ihr nehmt mit dem Rammbock ein letztes Mal Schwung und setzt zum entscheidenden Schlag an.
+
+Die Verteidiger der Festung rufen sich Befehle zu und mehrere Gewehrschützen schließen sich den Bogenschützen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Unter einem Hagel aus Pfeilen und Schüssen rammt ihr die Tore ein letztes Mal und sie geben mit einem gewaltigen Krachen und Splittern nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Arkaner Schleier einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Plötzlich ertönt ein ohrenbetäubendes Krachen und die Festungstore bersten in einer Wolke aus Splittern und Schlamm.
+
+In dem staubigen Chaos hörst du Rufe, als die Verteidiger der Festung sich hektisch in Bewegung setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Nachdem du dein Signal gegeben hast, bringst du dich schnell in Sicherheit.
+
+Aus Richtung der Batterie ertönt ein Donnern. Überraschte Gesichter blicken aus den Festungstürmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Endlich erreicht ihr das Tor. Gemeinsam hievt ihr den Baumstamm nach vorne und er schlägt mit einem massiven Krachen gegen die Tore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du hebst deinen Schleier, wodurch deine Sicht auf die Bogenschützen vorübergehend verzerrt ist. Der nächste Pfeilhagel prallt harmlos an dir ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Unter einem Hagel aus Pfeilen und Schüssen rammt ihr die Tore ein letztes Mal. [SkillCheck 0] wird von einem Pfeil getroffen und schreit vor Schmerzen auf.
+
+Ihr schwingt den Rammbock nach vorne und die Tore geben mit einem gewaltigen Krachen und Splittern nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Deine Gefährten drängen vorwärts, um schnell die Lücken in der Verteidigung auszunutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Deine Gefährten können sich wegen des Feindbeschusses nur noch langsam bewegen. Mehrere Pfeile finden ihr Ziel und Blut vermischt sich mit dem aufgewühlten Schnee und Schlamm, der euer langsames Vorankommen kennzeichnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Arkemyrs blendende Lichter wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Deine Gefährten suchen hinter dem Baumstamm Deckung vor dem Pfeilregen. [SkillCheck 0] rutscht dabei aus und lässt den Baumstamm fast fallen, kann sich aber gerade noch fangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Deine Gefährten suchen hinter dem Baumstamm Deckung vor dem Pfeilregen. [SkillCheck 1] rutscht dabei aus und lässt den Baumstamm fast fallen, kann sich aber gerade noch fangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ein gleißend helles Licht bricht plötzlich bei den Festungswänden aus und löst überraschte Rufe aus. Du hörst einen schrillen Schrei, als jemand auf der Festung den Halt verliert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Deine Gefährten können sich wegen des Feindbeschusses nur noch langsam bewegen. Mehrere Pfeile finden ihr Ziel und Blut vermischt sich mit dem aufgewühlten Schnee und Schlamm, der euer langsames Vorankommen kennzeichnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Deine Gefährten drängen vorwärts, um schnell die Lücken in der Verteidigung auszunutzen. In dem Chaos rutscht [SkillCheck 0] aus und verdreht sich das Knie, ist aber schnell wieder auf den Beinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Deine Gefährten drängen vorwärts, um schnell die Lücken in der Verteidigung auszunutzen. In dem Chaos rutscht [SkillCheck 1] aus und verdreht sich das Knie, ist aber schnell wieder auf den Beinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ihr sammelt eure Kräfte, packt den Baumstamm und rennt schneller.
+
+Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 1] schwindet und ein Pfeil findet sein Ziel ... er trifft [SkillCheck 1] im Bein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Deine Gefährten folgen und bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet. 
+
+Unverletzt heben deine Kameraden und du den Baumstamm wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Deine Gefährten folgen und bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet.
+
+[SkillCheck 0] rutscht auf dem brodelnden Teer aus und wird von einem letzten Schwall schmerzlich an der Schulter getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Die Brandwunden schmerzen zwar heftig, doch ihr ergreift wieder den Rammbock und setzt zum letzten Stoß an.
+
+Die Verteidiger der Festung rufen sich Befehle zu und mehrere Gewehrschützen schließen sich den Bogenschützen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Deine Gefährten folgen und bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet.
+
+[SkillCheck 1] rutscht auf dem brodelnden Teer aus und wird von einem letzten Schwall schmerzlich an der Schulter getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Deine Gefährten bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Deine Gefährten versuchen, sich in Sicherheit zu bringen, rutschen jedoch auf dem brodelnden Teer aus. Schreie zerreißen die Luft, als der Pechregen weitere Ziele findet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Deine Gefährten zusammenrufen und das Tor stürmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Mit einem triumphalen Schrei packt ihr den Baumstamm und stürmt vorwärts. Die erste Welle an Pfeilen schlägt hinter euch in den Dreck.
+
+Die überraschende Geschwindigkeit hilft euch. Ihr rennt mit dem Rammbock auf das Tor zu und er trifft die Türen mit einem lauten Krachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>["Zurückziehen" wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du wirkst deinen Zauber gerade noch rechtzeitig. Ein Schwall siedenden Pechs stürzt von oben herab, aber ihr entkommt unbeschadet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Einen Gefährten aus der Gefahrenzone schubsen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du hast einen Atemzug Zeit, um zu entscheiden, welchem deiner Gefährten du zur Seite springst ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du springst nach vorne und schubst [Specified 0] aus der Schusslinie. Ein Schwall siedenden Pechs kommt herabgestürzt und ein Teil davon trifft deine vordere Schulter. Aber [Specified 0] ist unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Deine verbleibenden Gefährten bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Deine verbleibenden Gefährten versuchen, sich in Sicherheit zu bringen, rutschen jedoch auf dem brodelnden Teer aus. Schreie zerreißen die Luft als der Pechregen weitere Ziele findet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

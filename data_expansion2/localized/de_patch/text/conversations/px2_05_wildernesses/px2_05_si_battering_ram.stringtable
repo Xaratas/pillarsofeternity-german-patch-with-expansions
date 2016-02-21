@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_battering_ram</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Baumstämme scheinen erst kürzlich gefällt worden zu sein. Der Größe nach zu urteilen zählten sie einst zu den älteren Bäumen in der Gegend um den Pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die hier aufgestapelten Baumstämme wurden offenbar zurückgelassen, als die Truppen der Festung sich zurückzogen. Es sind große, massive Holzstücke, für den Bau geeignet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ein kleines Stück vor dir liegen die Tore der Festung, fest verschlossen. Auf den Wachtürmen siehst du die Umrisse von Bogenschützen, die die Umgebung absuchen. Die kühle Brise trägt den Gestank von brennendem Pech herbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Festung mit einem Rammbock angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Voll freudigem Ehrgeiz marschierst du zu den Stämmen, packst den nächstgelegenen und ziehst. Er rührt sich nicht. Als du hinaufkletterst, um eine bessere Hebelwirkung zu erzielen, wirst du fast unter einem Stapel Holz begraben.
+
+Du beschließt, etwas anderes zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Indem jeder einen Teil der Last schultert, gelingt es deinen Gefährten und dir, einen der Stämme hochzuheben.
+
+Mit dem improvisierten Rammbock im Schlepptau marschiert ihr auf die Tore zu ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

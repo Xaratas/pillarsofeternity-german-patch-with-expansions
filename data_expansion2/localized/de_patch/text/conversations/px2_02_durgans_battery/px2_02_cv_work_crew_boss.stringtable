@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_cv_work_crew_boss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>135</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Hinterkopf der Orlanerin ist ein Flickenteppich aus verbranntem, grün-braunem Fell und dunklem, narbenübersätem Fleisch.
+
+Sie bemerkt dich und springt einen Meter nach hinten. Eines ihrer glotzenden Augen ist goldfarben, das andere haselnussbraun. Sie zuckt mit ihrem linken Ohr, das kaum mehr als ein Stummel auf ihrem Schädel ist.
+
+Schließlich entspannt sie sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich habe die Weiße Esse wieder entzündet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich habe einfach ein Allerweltsgesicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Das war unglaublich! Ich weiß nicht, was du gemacht hast, aber die ganze Esse hat Flammen ausgespuckt ... und der Rauch! Ich habe ihn von hier aus gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sie steht auf den Zehenspitzen und blickt in die Ferne. Sie pfeift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich wusste es! Jetzt schuldet Culmar mir zehn Kupferstücke." Sie springt auf und ab und zeigt auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"All die Mühen und dann geben wir es einfach auf. Der Rest von Stalwart hält es für das Beste, nachdem wir fast von Readceranern und Maegfolc umgebracht wurden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wir haben wohl nicht vor, in naher Zukunft von hier fortzugehen. Und so lange jemand die Weiße Esse bearbeitet, muss auch jemand die Kanonen beaufsichtigen ... nur für den Fall." Sie grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Aber bald muss ich anfangen, die Kanonen zu testen." Ihre Stimme ist zu einem Flüstern abgefallen ... soweit man das bei ihr so nennen kann.
+
+Sie verschränkt die Hände und blickt mit fast schon religiöser Ehrerbietung den hohen Turm hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Geht es um den Eisenflegel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Sie sind vielleicht eine kleine Armee, aber sie sind eine Armee. Eine Gruppe aus Readceras, die sich der Eisenflegel nennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wir haben sie vor einigen Wochen abgewehrt, aber sie sind nicht weit geflohen. Sie haben im Wald eine Festung errichtet und arbeiten angeblich an einigen wahrlich fantastischen Belagerungswaffen." Ihre Augen leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Der Eisenflegel ist fort, aber es ist nur eine Frage der Zeit, bis jemand anders versucht, die Batterie einzunehmen. Jemand mit echter Feuerkraft." Sie scheint fast darauf zu hoffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nicht mein Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Kannst du nicht die Kanonen hier unten einsetzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich will diesen Schönheiten nicht zu nahe treten, aber mit den Langstreckenkanonen können sie nicht mithalten." Sie deutet auf eine der eingefrorenen Kanonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich soll wieder ZURÜCK da hoch? Nachdem ich fast mein Bein verloren hätte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du hast es doch noch, oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Also, wo war ich? Sag mal ... kenn ich dich nicht irgendwoher?" Sie kratzt sich an einer kahlen Stelle an der Wange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Was hast du auf dem Herzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wie komme ich zum Turm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Kannst du nicht die Kanonen hier unten einsetzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Plötzlich bellt sie: "Genau! Die Nachbeben hat man bis nach Stalwart gespürt." Sie schließt verzückt die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Worte versetzen dich plötzlich zurück in deinen Traum von der mysteriösen Armee und der Zerstörung Caed Nuas.
+
+Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die dich beobachten, und etwas, was gerade außer deiner Reichweite ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Jetzt, da der Eisenflegel fort ist, machen sich alle Sorgen wegen der rätselhaften Maegfolc, die ihre Festung zu Brennholz verarbeitet haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ihr müsst doch irgendetwas tun können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Diese Mauern können euch doch gewiss beschützen. Sie halten seit Jahrhunderten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wenn das so ist, warum bleibst du überhaupt hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Keine Ahnung. Irgendwas ist vor langer Zeit da durchgetobt." Sie zeigt mit dem Daumen auf die Doppeltür und blickt dich vielsagend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Jedenfalls können wir sie aufhalten." Sie reibt die Hände zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Weil Stalwart mir nie erlaubt hätte, so viel Schießpulver in den Minen zu verwenden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wenn wir einmal die Langstreckenkanonen haben". Sie blickt wieder nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Sollen sie die Batterie erobern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"A-aber dann kriegen sie die Kanonen! Und Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Angeblich können sie ein Ziel in über fünf Meilen Entfernung treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Oh, ich würde mein anderes Ohr geben, um das zu sehen." Ihre Miene wird sanft, fast glückselig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich will diesen Schönheiten nicht zu nahe treten, aber mit den Langstreckenkanonen können sie nicht mithalten." Sie deutet auf eine der eingefrorenen Kanonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sie bellt: "Nein, schon verstanden. Du hast uns überhaupt erst hier reingebracht." Sie schlägt mit der Faust gegen die Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Aber ... willst du nicht sehen, wie die Langstreckenkanonen funktionieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Was ist das Problem mit den Langstreckenkanonen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sie sind ganz da oben." Sie deutet zu einem Turm hinauf, der in die schneeverhangenen Wolken ragt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich habe einen Trupp auf den Turm geschickt, aber sie sind zurückgekommen und haben sich über Skuldrak und andere Biester beklagt. Hätte Culmar fast das Bein abgehackt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich könnte mich darum kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Weggehen] "Dann mal viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Das wäre eine große Hilfe. Es wäre ein Jammer, diese Schönheiten da oben verrosten zu lassen ..." Sie zappelt nervös herum wie ein Säufer, der sich auf seinen ersten Schluck freut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Geh durch die Tür und die Treppe hinauf. So gelangst du auf diesen Wehrgang." Sie deutet auf den schneebedeckten Steg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Geh durch die Tür und die Treppe hinauf. So gelangst du auf diesen Wehrgang." Sie deutet auf den schneebedeckten Steg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Culmar hat den Schutt beiseite geräumt, bevor er sich praktischerweise verletzt hat. Von dort aus solltest du dich zu den Langstreckenkanonen vorarbeiten können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich sehe inzwischen nach unserem Schießpulvervorrat." Sie lächelt dich mit zackigen Zähnen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Culmar hat den Schutt beiseite geräumt, bevor er sich praktischerweise verletzt hat. Von dort aus solltest du dich zu den Langstreckenkanonen vorarbeiten können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Leben Sie wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Erzähl mir etwas über den Eisenflegel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Hattest du Erfolg mit den Kanonen? Ich meine, es ist keine Eile." Sie tritt nervös auf der Stelle und verschränkt die Hände hinter dem Rücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Dann sehen wir mal nach diesen Kanonen." Sie reibt die Hände ineinander.
+
+Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Das ist für dich. Wir haben es gefunden, als wir die Batterie aufgeräumt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich habe ein paar Fragen an dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Moment, du musst in mein gutes Ohr reden." Sie schreit noch lauter und dreht ein haarloses, aber zumindest vollständiges Ohr in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich dachte, du wärest einer von diesen Readceranern. Dann habe ich gesehen, dass du noch alle deine Zähne hast." Sie schreit dich an, aber ein freundliches Lächeln erwärmt ihr Gesicht. Sie riecht nach Schwefel und Rauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich bin [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Sei vorsichtig, in welchem Ton du mit mir redest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Also *du* kannst es dir wohl kaum erlauben, andere nach ihrem Äußeren zu beurteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich habe auch mehr als ein halbes Gehirn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Das muss wirklich ein Anblick gewesen sein, so aus der Nähe. Das ganze Feuer ..." Sie atmet tief durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Flammen überall und ein Dröhnen, das so tief ist, dass es die Knochen erzittern lässt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich war so damit beschäftigt, uralte Zwerge zu bekämpfen, dass ich es gar nicht bemerkt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ach, weißt du. Tunnel freilegen. Alte Barrikaden sprengen. Einfach ... aufräumen." Sie grinst und zeigt ihre Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Du wirst sie brauchen. Die Augenlosen haben uns aus dem Hinterhalt angegriffen, nachdem wir Adaryc konfrontiert haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Deine Mutter kennt mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Sie schüttelt den Kopf, als würde sie mit einem trotzigen Kind reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Natürlich!" Sie tanzt praktisch, ihre Hände zu knorrigen kleinen Fäusten geballt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Also, äh, der eine Skuldrak, meine ich." Sie blinzelt schnell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Aber das ist, als würde man ..." Sie stammelt und rudert mit den Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Eine Steinschleuder statt einer Arkebuse verwenden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Ach, weißt du. Tunnel freilegen. Alte Barrikaden sprengen. Einfach ... aufräumen." Sie grinst und zeigt ihre Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich passe auf diese Schätzchen auf, damit sie auf uns aufpassen können." Sie blickt liebevoll auf die Kanonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Sie strahlt. "In Stalwart habe ich alles gelernt, was Taena über Schießpulver wusste ... und manches, was sie nicht wusste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Welche Readceraner?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Und du hast die Weiße Esse entzündet." Ihre Augen strahlen vor Bewunderung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Sie schnalzt bedauernd mit der Zunge. "Ein echter Jammer. Man muss sich die Zeit nehmen, seine Arbeit zu bewundern, weißt du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ich will die Esse unbedingt einmal selbst sehen, aber die Schmiede lassen mich nicht einmal in die Nähe. Keine Ahnung warum."
+
+Sie kratzt sich am Arm. Ein Büschel verbrannter Haare fällt in den Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Manchmal stelle ich mich auf die Brücke zu den Minen, nur um die Hitze zu spüren." Sie zittert vor fiebriger Begeisterung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"So heißen die Dinger? Ich weiß nur, dass sie die Festung des Eisenflegels zu Brennholz verarbeitet haben." Sie wirkt beeindruckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Für einen kurzen Augenblick schießt dir die Vision wieder in den Kopf und du siehst, wie Caed Nuas Mauern bröckeln, während die einhundert schwebenden Augen zusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Als du aus der Vision erwachst, siehst du, wie Wengra zurückschreckt und dich mit verletzter Miene ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ich bin unterwegs auf den Turm. Die Kanonen müssen glänzen!" Sie hüpft fröhlich auf die Tür zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Das ist Caredmaer der Ältere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Und das hier ist Caredmaer der Jüngere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Diese hier nenne ich die Fette Yngelroed, bis es mir jemand verbietet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Das ist Haeferics Nase. Aber verrate ihm nichts davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Die habe ich nach Mocga und Minoletta benannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Diese drei? Das sind ... ach, ich weiß es nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Oh, dafür habe ich mir noch keinen Namen ausgedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Über die war sie nicht sonderlich glücklich." Sie runzelt die Stirn und wirkt kurz abgelenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Nach einem kleinen Missgeschick in den Minen von Stalwart haben sie mich hierher geschickt, wo ich 'meine Talente besser einsetzen' kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Du magst Explosionen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Sie sind vor ein paar Wochen aufgetaucht und haben uns gebeten, die Esse aufzugeben, ganz freundlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Als wir ihnen gesagt haben, sie sollen verschwinden, sonst würden wir mit ihnen das machen, was wir mit ihrem Waidwen gemacht haben, wurde es ungemütlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Sie sind in ihre Festung abgezogen, aber sie kommen sicher wieder. Deryan hat eine Gruppe aus Stalwart geschickt, um zu verhandeln ... aber sie ist nicht zurückgekommen." Sie blickt dich vielsagend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Mit Readceranern kann man nicht vernünftig reden. Deswegen müssen wir diese Langstreckenkanonen reparieren ... damit wir bereit sind, wenn sie kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Es ist also gut, dass du diese Kanonen repariert hast. Wir sind bereit, wenn die Readceraner kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Das ist Culmars Gejammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Wenn du etwas machst, dann richtig, was? Die Festung würde ein gutes Lagerfeuer abgeben, wenn wir ein wenig Schießpulver übrig hätten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich habe einen Trupp auf den Turm geschickt, aber sie sind zurückgekommen und haben sich über Skuldrak und andere Biester beklagt. Hätte Culmar fast das Bein abgehackt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Du siehst so entschlossen aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Weil dieser faule Tunichtgut mir gesagt hat, dass die Monster, die die Festung überfallen haben, überall in der Wildnis umherstreifen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Aber wenn ich dich hier sehe, denke ich mir, er hatte nur keine Lust auf Botengänge nach Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Die Augenlosen sind da draußen. Und sie kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Die Augenlosen sind da draußen. Und sie kommen. Aber Culmar ist trotzdem ein fauler Tunichtgut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Ihre Augen weiten sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Soll das heißen, es ist alles wahr? Sie sind so groß wie Kiefereschen und bestehen aus Metall?"
+
+Sie hält die Hand vor den Mund und sieht aus wie jemand, der beim Dutzend gerade Götterhammer gewürfelt hat.
+
+Langsam blickt sie wieder zu dir zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Wenn die anderen das hören, MÜSSEN sie mir erlauben, die Langstreckenkanonen zu verwenden." Ein Lächeln breitet sich langsam in ihrem Gesicht aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Jedenfalls, wenn sie mal funktionieren." Ihr Lächeln verschwindet.
+
+Sie blickt dich verschlagen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Ich sag dir was. Nachdem du so eine große Hilfe bei der Reparatur warst, darfst du mir helfen, meine Ziele anzuvisieren." Sie deutet mit zusammengekniffenen Augen Richtung Westen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Da draußen liegt Cayrons Narbe. Ein großer See. Ich habe gute Sicht, wenn du also irgendetwas siehst, was ich zerstören soll, zeig einfach darauf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Weißt du. Wenn du endlich mal diese Schönheiten reparieren würdest, könnten wir herausfinden, wie sie mit deinen Monstern fertig werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Du weißt, wo du mich findest." Sie zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Also, wie funktionieren diese Kanonen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Sie runzelt die Stirn. "Wenn ich es dir doch nur zeigen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Geh du einfach zu Cayrons Narbe und zeig mir, was diese Schätzchen treffen sollen. Ich beobachte dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Aber alle anderen sorgen sich um 'Unfälle' und 'Verletzungen', also haben sie gesagt, ich darf sie nur abfeuern, wenn es wirklich dringend nötig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Und alles, was du dort oben findest, gehört dir. Die Batterie ist voll von Schätzen, und der Westturm wurde bisher kaum erforscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Zumindest haben sie mir versprochen, dass ich wieder Tunnel in den Minen freiräumen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Komm wieder, wenn du mal mit Sprengstoff spielen willst, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ich glaube, wir haben Hiravias' Mutter gefunden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Sehr witzig. Nur, weil wir beide verstümmelte Orlaner sind. Ha, ha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Wobei, wenn ich darüber nachdenke ... meine echte Mutter will nichts mit mir zu tun haben. Wenn du also findest, dass wir zueinander passen ..."
+
+Hiravias wendet sich der Frau zu. Er blickt zu ihr auf, als würde er sie das erste Mal erkennen. Langsam, vorsichtig bildet sein Mund ein Wort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Mama?"
+
+Er öffnet seine Arme weit für eine Umarmung. Die Orlanerin scheint ihn nicht gehört zu haben. Sie lächelt stattdessen dich an.
+
+Hiravias runzelt die Stirn und lässt seine Arme fallen und seinen Kopf hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

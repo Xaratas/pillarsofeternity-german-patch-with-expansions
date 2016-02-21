@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_farentis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wer ist da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bist du das, Eddith? Ich ... ich dachte, ich hätte dich verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich habe nach dir gerufen. Ich wollte auch auf die Suche gehen, aber der Schneesturm hat tagelang nicht nachgelassen. Es ... es tut mir so leid."
+
+Er streckt eine Hand zu einer Geste der Entschuldigung aus, zieht sie dann jedoch wieder zurück. Er kneift die Augen zusammen, wie um dich besser zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Aber nein. Wir haben dich gefunden. Als es endlich getaut hat. Ich habe dich gesehen. Steif ... erfroren. Du kannst nicht Eddith sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nein. Wir sind in ... in der Abtei. Gabenbringer. Und du ... du musst der Gezeitenbringer sein."
+
+Seine Augen weiten sich.</DefaultText>
+      <FemaleText>"Nein. Wir sind in ... in der Abtei. Gabenbringer. Und du ... du musst die Gezeitenbringerin sein."
+
+Seine Augen weiten sich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Lügen] "Korrekt. Ich bin der Gezeitenbringer."</DefaultText>
+      <FemaleText>[Lügen] "Korrekt. Ich bin die Gezeitenbringerin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Nein ... ich bin hier, um etwas zu finden. Ein Reliquiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich glaube, du bist immer noch verwirrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Dann hör gut zu, Gezeitenbringer. Kaoto weiß nicht, was er sagt. Das wusste ich auch nicht, als ich vor so langer Zeit die Pflichten des Gezeitenbringers ausübte."</DefaultText>
+      <FemaleText>"Dann hör gut zu, Gezeitenbringerin. Kaoto weiß nicht, was er sagt. Das wusste ich auch nicht, als ich vor so langer Zeit die Pflichten des Gezeitenbringers ausübte."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Die Halle des Schweigens ... sie raubt uns den Verstand, Erinnerung um Erinnerung. Es wäre ganz friedlich, haben sie uns gesagt. Als würde man einschlafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sieh dich um. Wir, die Ebbe, die seit so vielen Jahren hier unten eingesperrt sind ... sehen wir aus, als hätten wir unseren Frieden gefunden? Wir sind verloren. Verängstigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bilde ich mir das ein? Wie kann das sein? Die Abtei empfängt keine Besucher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nun, es ist wohl nicht von Bedeutung. Der Gezeitenbringer wird eines Tages kommen und der schreckliche Kreislauf wird sich fortsetzen."</DefaultText>
+      <FemaleText>"Nun, es ist wohl nicht von Bedeutung. Die Gezeitenbringerin wird eines Tages kommen und der schreckliche Kreislauf wird sich fortsetzen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Verwirrt ... ja. Mein Gedächtnis ist nicht mehr das beste. Genau wie mein Augenlicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Was genau soll der Gezeitenbringer tun?"</DefaultText>
+      <FemaleText>"Was genau soll die Gezeitenbringerin tun?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Der Gezeitenbringer kommt, um den Oberabt abzulösen. Das Ritual heißt ... es heißt ... ah ja ... der Anstieg. Ja."</DefaultText>
+      <FemaleText>"Die Gezeitenbringerin kommt, um den Oberabt abzulösen. Das Ritual heißt ... es heißt ... ah ja ... der Anstieg. Ja."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wir tragen so viele Erinnerungen in uns. Tragische oder ... oder manchmal auch gefährliche. Wir leben eine Weile oben, im Dienste Ondras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Dann kommen wir hierher, um alles zu vergessen. Um unsere Seelen von den Erinnerungen reinzuwaschen. Wenn das geschehen ist, wird ein Gezeitenbringer gerufen."</DefaultText>
+      <FemaleText>"Dann kommen wir hierher, um alles zu vergessen. Um unsere Seelen von den Erinnerungen reinzuwaschen. Wenn das geschehen ist, wird eine Gezeitenbringerin gerufen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Die über uns, die Flut. Sie werden zur Ebbe. Das bedeutet ... sie werden hierher gebracht, in die Halle des Schweigens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ihr habt nicht selbst entschieden, herzukommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Haben wir das? Ja. Ja, wir haben es selbst entschieden. Als wir dachten, es wäre unsere Pflicht. Und dass es friedlich werden würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Aber je mehr wir vergessen, desto weniger verstehen wir. Jeden Tag wird etwas Vertrautes fremd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wenn ich es gewusst hätte, hätte ich meine Versetzung in die Abtei niemals angenommen. Wie viele andere wohl auch, nehme ich an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich ... das hat mich ... schon ewig niemand gefragt. Ich war ... wer war ich? Ich war ... der Oberabt, oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oberabt ... Farentis. Das war ich. Oder mein Vorgänger vielleicht. Aber jetzt nicht mehr. Ich bin nur noch ein einfacher Bruder der Ebbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Was willst du von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich erinnere mich an eine Frau. War sie meine Gemahlin? Sie hatte ... lockiges Haar. Und sie sprach mit sanfter Stimme. Was ist aus ihr geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich trage so viele Erinnerungen von Fremden in mir, die sie loswerden wollten. Ich weiß nicht mehr, welche meine eigenen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Und es gibt so viele Löcher. Jedes Bild ist verschwommen oder ... leer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ach, wäre ich doch frei von diesem Ort. Frei, neue Erinnerungen zu schaffen. Zu wissen, wer ich bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Es gibt ein ... ein Relikt. Ein Aspergill. Es hieß ... wie hieß es doch gleich?"
+
+Er denkt eine Weile mit gequälter Miene nach. Seine Lippen formen sich zu stummen Wörtern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wie dem auch sei. Es kontrolliert das Flutwasser. Aber auch die äußeren Schleusentore."
+
+"Ondras Zeuge! So heißt es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es ist hier unten, aber ... ich weiß nicht mehr, wie man daran gelangt. Der Oberabt weiß es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ist es wirklich klug, die Ebbe in diesem Zustand zu entlassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Er schmunzelt. "Wir sind inzwischen alle so alt. Wir können wohl kaum mehr großen Schaden anrichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wenn wir erst von hier befreit sind, können wir neue Erinnerungen schaffen. Die Verwirrung und die Paranoia werden verfliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Farentis nickt abwesend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oh. Gut, gut."
+
+Farentis blickt sich verwirrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ah. Hallo."
+
+Farentis lächelt. Es ist schwer zu sagen, ob er dich erkennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Graue Haarbüschel wachsen auf dem Hinterkopf dieses Mannes wie Sträucher. Seine Unterlippe krümmt sich nach innen über einige wenige verbleibende Zähne. Ein modriger Geruch umgibt ihn wie eine Nebelwolke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Euer Orden hat mich angegriffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Kaum einer von uns kann noch Freund und Feind unterscheiden. Ich bin vielleicht der Einzige, der noch für uns sprechen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"In ihren Herzen sind sie friedlich. Es liegt an diesem Ort. Er hat sie verwirrt und aufgewühlt. Bitte vergib ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Aber nicht, ehe die alte Ebbe entfernt wurde. Ertränkt. Durch eine Flut. Und fortgespült.
+
+"Der Anstieg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Eine seltsame Annahme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Wenn du es von ihm herausfindest, könntest du uns befreien. Die Tore öffnen.
+
+"Wir würden in Frieden gehen und unser Leben in Würde zu Ende leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Weggehen ] "Ich werde sehen, was ich tun kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich weiß es nicht ... wir hatten in Goldtal so einen alten Burschen. Er sah harmlos aus, konnte nicht sprechen. Aber er hat einen gebissen, wenn man versucht hat, seinen Braten zu stehlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Der hier hat sich im Labyrinth seines eigenen Verstandes verirrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Oh, das ist gut. Das muss ich das nächste Mal auch versuchen, wenn ich geschnappt werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nimm die Tür hinter mir. Der Weg ist sicherer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich sehe den Verstand dieses Mannes, zerschmettert und bröckelnd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Er hat seine Wahl getroffen, als er bei gesundem Verstand war. Er ist nicht mehr er selbst. Es ist besser, das Ritual abzuschließen und ihn wieder in das Rad zu entlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

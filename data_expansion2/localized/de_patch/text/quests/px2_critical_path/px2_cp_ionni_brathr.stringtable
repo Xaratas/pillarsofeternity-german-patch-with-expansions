@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_cp_ionni_brathr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hort der Augenlosen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Setze Abydons Hammer wieder zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reise zu Cayrons Narbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gelange zu dem Fragment von Ionni Brathr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erreiche den Kristall am Grund von Ionni Brathr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Besiege den Kraken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Schlage mit Abydons Hammer gegen den Kristall in Ionni Brathr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ondra hat gesagt, dass die Augenlosen sich in einem Fragment von Ionni Brathr versammelt haben, das in Cayrons Narbe liegt ... und dass es einen Weg geben könnte, sie aufzuhalten, wenn ich an diesen Ort gelangen kann.
+
+Ondra hat mich jedoch gewarnt, dass ich zunächst Abydons Hammer wiederherstellen muss, um die Augenlosen zu ihrem eigenen Tod zu rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mit dem Fragment von Abydons Hammer, das ich in der Abtei gefunden habe, habe ich genug Metall, um einen Nachbau des ursprünglichen Hammers in Gestandenen-Größe anzufertigen.
+
+Ondra glaubt, dass das ausreicht, um die Augenlosen zu befehligen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ein großes Fragment von Ionni Brathr liegt in Cayrons Narbe. Dorthin muss ich gehen, um die Armee der Augenlosen auszulöschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>In der Mitte des zugefrorenen Sees in Cayrons Narbe liegt ein Fragment von Ionni Brathr, dem gefallenen Mond. Darin befindet sich das Mittel, mit dem man die Augenlosen vernichten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Es gibt einen großen Kristall, der sich durch den Kern von Ionni Brathr zieht. Ich muss ihn erreichen und mit Abydons Hammer dagegen schlagen. Dadurch sollte die gesamte Höhle einstürzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ondra hat vor langer Zeit einen Kraken in Cayrons Narbe zurückgelassen, um den Ort zu beschützen, an dem die Augenlosen schlummern. Nun steht der Krake zwischen mir und dem Kristall, gegen den ich schlagen muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich muss mit Abydons Hammer gegen den Kristall im Zentrum von Ionni Brathr schlagen, um die Höhle zum Einsturz zu bringen und der Bedrohung durch die Augenlosen ein für alle Mal ein Ende zu bereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Du hast den Kristall im Zentrum des Fragments von Ionni Brathr erreicht und mit Abydons Hammer dagegen geschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

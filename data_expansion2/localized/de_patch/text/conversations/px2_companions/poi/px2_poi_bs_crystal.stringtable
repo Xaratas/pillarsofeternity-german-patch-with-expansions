@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_crystal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Da ist der Kristall. Ich kann mir nicht vorstellen, dass Ondra ihn auf den Mond gebracht hat ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Das muss der Kristall sein. Sind wir bereit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Worauf wartest du, Wächter? Darauf, dass ein Gott dich errettet?"</DefaultText>
+      <FemaleText>"Worauf wartest du, Wächterin? Darauf, dass ein Gott dich errettet?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Unser Pfad hat uns endlich hierher geführt. Ein letztes Opfer erwartet uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wael steh mir bei, wenn es einen anderen Ausweg gibt, dann wäre nun die rechte Zeit, um ihn zu offenbaren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Da ist er! Ein paar Hiebe und es ist alles vorbei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wir können wohl nicht aus sicherer Entfernung dagegenschießen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Der Kristall ruft uns. Man hört, wie er unser Ende besingt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vielleicht sollte ich es tun. Vielleicht hat Ondra mich letztlich doch deswegen zu dir geführt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

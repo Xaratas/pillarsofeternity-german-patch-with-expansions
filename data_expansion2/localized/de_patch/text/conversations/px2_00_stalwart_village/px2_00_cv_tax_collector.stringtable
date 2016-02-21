@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_tax_collector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Agh. Ich dachte, ich hätte Bier bestellt. Sie hat mir wohl versehentlich das Spülwasser gebracht." Sie seufzt. "Vielleicht auch absichtlich. Man weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bitte, setz dich." Sie blickt sich in der Taverne um. "Ich kann die Gesellschaft brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Es ist beeindruckend, wie schnell Stalwart die Mine wieder geöffnet und in Betrieb genommen hat." Sie blickt sich anerkennend um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bei den Göttern, ist das frostig. Bringen wir es schnell hinter uns. Ich würde ja auch in die Fischerei gehen, aber der Gestank ... bäh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Das war knapp." Nesta zittert vor Erschöpfung. "Für gewöhnlich bin ich etwas geschickter darin, Überfälle zu vermeiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das ist also die legendäre Weiße Esse. Sehr beeindruckend. Ich kenne einige Schmiede auf Burg Schmelztiegel, die sich nichts sehnlicher wünschen, als zu stehen, wo ich jetzt stehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tarfos schickt mich. Ich bin hier, um in Stalwarts Namen das Handelsabkommen auszuhandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich will zuerst die Fischerei von Stalwart sehen ... meine Mandanten haben Sorge, dass sie ein Hindernis für Stalwarts Wohlstand darstellen könnte. Wir treffen uns davor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Und ich bereue es, dass ich im Gasthaus den Fischeintopf hatte. Einer der Fischer hat gesagt, sie hätten einmal eine Leiche in einem Fass gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Den Unterlagen der Stadt zufolge exportiert die Fischerei zur Zeit kaum etwas. Warum wird sie nicht einfach geschlossen? Sie bindet nur unnötig Ressourcen, die in der Weißen Esse und in den Minen besser genutzt werden könnten."
+
+"Die Schließung der Fischerei könnte helfen, die Investoren zu überzeugen, dass Stalwart es wirklich ernst damit meint, seinen Wohlstand zu behalten und auszubauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Schweigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Diese Entscheidung überlasse ich dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Also gut. Die Fischerei wird vor der Unterzeichnung eines Handelsabkommens geschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Als nächstes gehe ich zu den Minen von Stalwart. Meine Mandanten sind besorgt, was die Sicherheit dort angeht. Wir treffen uns dort, wenn du soweit bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Hilfe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Mir wurde gesagt, dass die Seelen der Pargrunen an die Esse gebunden wurden. Es gibt für so etwas zwar keinen Präzedenzfall, aber ich schätze, dass der Wert der Esse um mindestens fünfzig Prozent gestiegen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Mir wurde gesagt, dass du die Seelen der Pargrunen an die Kanonen auf der Batterie gebunden hast. Es ist wohl nicht unklug, diesen Ort verteidigen zu wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wie lange waren die Seelen der Pargrunen an die Batterie gebunden? Mehrere Jahrhunderte? Es war wohl das Beste, sie wieder in das Rad zu entlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wir müssen nur einen Entwurf des Handelsabkommens mit den vereinbarten Bedingungen aufsetzen und Tarfos ein Exemplar zur Unterschrift vorlegen. Es wird noch einige Monate dauern, bis das endgültige Abkommen unterzeichnet wird, aber wir haben große Fortschritte gemacht."
+
+Sie verneigt sich. "Vielen Dank für das Geleit, [Player Name]. Leb wohl!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Dann sehen wir uns bei der Weißen Esse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eines muss ich mir noch ansehen ... die Weiße Esse. Ich würde gerne die Fähigkeiten der Schmiede bewerten, die dort arbeiten. Wir sehen uns dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du hättest mir helfen können, sie zu bekämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Warum waren sie hinter dir her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Sie schüttelt den Kopf. "Ich habe sehr viel mehr Übung im Fliehen. Außerdem wäre ich dir nur im Weg gewesen. Du hattest alles unter Kontrolle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich werde gelegentlich für eine Steuereintreiberin gehalten. Vielleicht dachten das auch diese Räuber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Was führt dich nach Stalwart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich vertrete eine Gruppe von Investoren aus Trutzbucht, die ein Handelsabkommen mit Stalwart schließen möchten. Bevor sie sich aber binden, wollen sie die Stadt bewerten lassen. Um sicherzugehen, dass sie so wohlhabend ist, wie sie behauptet. Da komme ich ins Spiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Sie nimmt einen langen Schluck aus ihrem Humpen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wie bewertest du die Stadt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Es wechseln viele Münzen die Hände, aber ob das lediglich ein kurzfristiger Aufschwung ist oder eine langfristige Wandlung wird sich erst noch zeigen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich bin jedoch etwas besorgt ob des Verhaltens einiger Bergarbeiter. Sie wirken verwirrt, unberechenbar. Das wird in meinem Bericht nicht gut aussehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ich bin etwas besorgt ob dieses Zwischenfalls mit einigen Bergarbeitern. Irgendetwas löste bei ihnen verwirrtes, unberechenbares Verhalten aus. Es heißt, du hättest das Problem behoben ... möchtest du mich vielleicht aufklären?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Irgendetwas Neues zu den Problemen in der Mine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nichts Wichtiges. Machen wir einfach weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Warte hier. Ich gehe der Sache nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Schließe einfach deine Bewertung ab, damit wir weitermachen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Also gut. Als Teil des Handelsabkommens muss Stalwart einen Trupp von Schmelztiegelrittern aufnehmen, die über die Minen wachen. Der hiesigen Miliz wird das vielleicht nicht schmecken, aber man kann sich offensichtlich nicht darauf verlassen, dass sie die Mine vor Gefahren schützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ein riesiger Strahlenpilz in den Vithrack-Höhlen hat den Verstand der Arbeiter und der Vithrack kontrolliert. Der Pilz ist jetzt tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich bin noch immer dabei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Aber die Vithrack nicht, korrekt?" Sie denkt einen Augenblick nach. "Ich muss ihre Anwesenheit in meinem Bericht vermerken. Trutzbucht wird darauf bestehen, dass als Teil des Handelsabkommens ein Trupp von Schmelztiegelrittern die Minen bewacht. Natürlich ohne der Miliz von Stalwart zu nahe treten zu wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Die Kurzfassung ist, dass ein riesiger Strahlenpilz in einer nahegelegenen Vithrack-Höhle den Verstand der Bergarbeiter kontrolliert hatte. Der Pilz und die Vithrack sind tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Hervorragend. Nachdem du die größte Bedrohung für die Minen beseitigt hast, vermerke ich in meinem Bericht einfach, dass die Sicherheit der Minen gewährleistet ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Endlich! Ich habe mich schon gefragt, ob Tarfos mich vielleicht vergessen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Die Fischerei hilft Stalwart dabei, autark zu leben. Weniger Kosten für den Kauf von Lebensmitteln von außerhalb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Hmmm ... eine pragmatische Antwort. Ich sorge dafür, dass die Fischerei geöffnet bleibt, falls es Beschwerden deswegen gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Da hast du Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Die Fischerei geöffnet zu halten wird den guten Willen gegenüber zukünftigen Gesandten aus Trutzbucht fördern, und auch die Bereitschaft zur Kooperation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ja, viele der Einheimischen hier wirken auf mich recht stur. Ich denke, wir können die Fischerei als Zugeständnis der Investoren geöffnet lassen, wenn dadurch eine freundschaftliche Beziehung sichergestellt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Er wollte mit einem Mord davonkommen ... ich habe es ihm nicht erlaubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Eine letzte Sache noch, die mit dem Handelsabkommen nichts zu tun hat. Ich habe gehört, dass du den Oberfischer Grynde getötet hast. Was ist geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich habe kurz mit Grynde gesprochen, dem Oberfischer. Ein etwas zwielichtiger Geselle, findest du nicht? Sollte jemand wie er wirklich das Sagen haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Schweigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Du fängst an, meine Zeit zu vergeuden ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Dann war es eine Frage der Gerechtigkeit. Das ist gut zu wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Es tut mir leid. Ich wollte dich nicht beleidigen." Sie verneigt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Davon weiß ich nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Was er in seiner Vergangenheit auch getan haben mag, heute ist Grynde ein ehrlicher Fischer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich hätte gerne mit dem Oberfischer gesprochen, aber offenbar wurde er aus der Stadt verjagt. Für gewöhnlich wäre das für die Investoren ein großer Grund zur Sorge, aber die Fischerei scheint in seiner Abwesenheit aufzublühen. Nun denn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Gehen wir einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ich rate dir dringend, diesen Teil in deinem Bericht nicht zu erwähnen. Es sei denn, du willst auf dem Heimweg in ein tiefes, dunkles Loch fallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Eine Mine zu bewachen ist nicht mit sonderlich viel Prestige verbunden. Die Ritter werden es dir nicht danken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nun, dann werde ich wohl einfach vergessen, die Vithrack zu erwähnen. Ähem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Und ich habe ohnehin schon zu wenige Freunde unter den Rittern. Ein gutes Argument. Ich werde die Vithrack in meinem Bericht nicht erwähnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Also gut. Wohin jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Aber diese Schmiede, die in der Esse arbeiten ... welche Qualifikationen haben sie? Wer hat sie ausgebildet? Die Esse wird doch sicher nicht so effektiv genutzt, wie sie es eigentlich könnte."
+
+"Ich glaube, es wäre profitabler für alle, wenn Schmiede von Burg Schmelztiegel den Betrieb hier leiten würden. Stimmst du mir da nicht zu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"So lange die neuen Schmiede ihre Erfahrung teilen anstatt einfach alles zu übernehmen ... wäre das eine gute Idee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Das würde nur zu Konflikten führen. Die Leute in Stalwart mögen es nicht, wenn ihnen Außenstehende sagen, was sie zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Die Weiße Esse funktioniert nur für Nachfahren der Zwerge der Batterie. Das wusstest du, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Was? Wirklich? Nun ja, das erscheint nachvollziehbar. Ich werde es weitergeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich stimme zu. Stalwart wird noch mehr aufblühen, wenn erfahrene Schmiede hier alles leiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Gut, gut! Es freut mich, dass wir da einer Meinung sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Dann bespreche ich das vielleicht einmal mit Tarfos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ein guter Kompromiss. Ich werde deine Empfehlung notieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Clyver ist ein Freund von mir. Sag ihm, dass Stalwart sich selbst um die Sicherheit kümmern kann und keine seiner Ritter benötigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, mir war nicht klar, dass du den Kommandanten der Schmelztiegelritter kennst. Dann werde ich deine Empfehlung notieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Wenn du einen unbequemeren Platz zum Schlafen hast, bin ich gerne bereit, Vorschläge anzunehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ah. Nun, dann vertraue ich auf dein Urteil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Sie sieht aus, als würde sie die Frage wiederholen wollen, überlegt es sich dann aber anders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ist es in der Mine immer so ruhig? Wo ist der Vorarbeiter? Irgendetwas stimmt hier nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Damit das Handelsabkommen verabschiedet werden kann, muss Stalwart einen Trupp von Schmelztiegelrittern aufnehmen, die die Minen bewachen. Die Lage hier ist der Beweis, dass die örtliche Miliz der Aufgabe nicht gewachsen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Zurück nach Stalwart gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Hier bleiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Unwichtig. Wohin jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

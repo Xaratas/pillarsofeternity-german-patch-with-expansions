@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_benno</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"He, du! Ich brauche Hilfe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dieser Mann ist halb verborgen von dem Chaos aus Lichtern und Siegeln, das aus dem Schlamm um ihn herum ragt. Er hebt einen Arm, um seine Augen zu schützen und blinzelt zu dir auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gehörst du zu denen? Du siehst nicht aus wie ein verrückter Sumpfkult-Anhänger."
+
+Er blickt suchend an dir vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bist du gefangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Das werte ich mal als Kompliment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die haben hier eine Art Siedlung." Er deutet Richtung Westen.
+
+"Ich bin in die andere Richtung gelaufen und in diesem Chaos gelandet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du bist Llengraths Leuten wohl schon begegnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bist du Benno?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du bist zurück! Hol mich hier raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Llengrath? Ist das einer von diesen Hüttenbewohnern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ja, es ist eine ... Wand oder sowas. Ich weiß nicht, was hier vor sich geht, aber es muss irgendein Zauber sein, oder nicht? Ich verstehe nichts von der Zauberei."
+
+Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringliche Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was? Ja, das bin ich. Woher ... Moment, schickt Herla dich? Ha! Ich wusste, dass sie nicht völlig nutzlos ist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bitte hilf mir. Ich sitze seit Ewigkeiten hier fest. Das Ding ist eine Art Wand oder sowas. Ich weiß nicht, was hier vor sich geht, aber es muss irgendein Zauber sein, oder nicht? Ich verstehe nichts von der Zauberei."
+
+Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringliche Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Unwichtig. Ich brauche Hilfe. Du musst mich hier rausholen. Ich will nicht im Eintopf von irgendeinem Kultanhänger enden ... oder was auch immer die vorhaben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du bist auf die Leiche zugerannt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Warum warst du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich, äh ... also, wir hatten große Schwierigkeiten, unsere Waren nach Stalwart zu schaffen. Ich dachte, ich könnte vielleicht etwas finden, um unsere Verluste wettzumachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich versuche es ja. Ich werde sehen, was ich finden kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich glaube, da drin gefällst du mir besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nicht mein Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Du hast es geschafft! Ich bin frei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Es ist komisch, ich habe mich nie besser gefühlt. Ich weiß nicht, weshalb ich mir Sorgen gemacht habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du ... du hast sie getötet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich sehe mich mal um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Spürst du irgendwelche seltsamen Auswirkungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Nein ... naja, dieses ... Flüstern vielleicht. Ich dachte, das wären nur wieder so Zauberertypen."
+
+Er scheint sich unbehaglich zu fühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Meinetwegen kannst du hier verrotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Diese armen Narren würden es wohl kaum vermissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was machst du überhaupt hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ist das wichtig?" Er seufzt. "Ich bin Händler, gut? Wir wollten Waren nach Stalwart liefern. Die ganze Reise war schon ein Albtraum und dann ist unser Karren auch noch im Schlamm steckengeblieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich habe Herla gesagt, sie soll vorsichtig mit dem Ding sein! Wahrscheinlich steht sie immer noch da. Hat sich nicht mal die Mühe gemacht, nach mir zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du hast sie in diesem Sumpf allein gelassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Was denn? Sie kann auf sich selber aufpassen. Ich bin hier doch auch allein, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Komm schon, du kannst mich nicht einfach hier zurück lassen! Ich flehe dich an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wunderbar! Vielen Dank. Du wirst es nicht bereuen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Komm schon, du kannst mich nicht einfach hier zurück lassen! Ich flehe dich an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Du bist recht fordernd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Willst du, dass ich dich anflehe? Mache ich! BITTE lass mich raus ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Sei doch vernünftig! Willst du Geld? Herla kann dich sicher bezahlen. Hol mich hier raus, dann sorge ich dafür!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Herla! Wo bist du?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich gehe nachsehen, ob es Herla gut geht. Wir treffen uns beim Karren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Am Rand des rituellen Kreises sind fünf vertraute Zeichen in den Schlamm geritzt – dieselben wie in der Nachricht, die du gefunden hast. Ohne zu wissen, wonach man sucht, würde man sie einfach für Furchen im Schlamm halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Die Symbole ausstampfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Die Symbole genauer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du bückst dich, siehst aber nichts Interessantes an den Kratzern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Was? Hast du etwas gefunden?"
+
+Jenseits der Barriere beobachtet Benno dich mit gebannter Erwartung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Aus dem Augenwinkel nimmst du eine Bewegung wahr. Du blickst nach oben und siehst, dass du Publikum hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Warte." Als du gerade ansetzt, die Symbole zu zerstören, durchtrennt eine leise, ruhige Stimme die Stille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Danke! Ich hoffe, dass ich nie wieder hierherkomme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Danke, dass du mich befreit hast. Ich muss über einiges nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Worum geht es überhaupt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"A-ah, Scheiße. Ich wollte hier nicht unbefugt eindringen oder sowas, ich wollte nur ..."
+
+Er verstummt und blickt mit zusammengekniffenen Augen an den Lichtern vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"He, du gehörst nicht zu diesen Kultanhängern. Du bist zu sauber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vielleicht kann ich die Falle auflösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wirklich? Wunderbar! Einen Versuch ist es wert, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Zuerst will ich dich etwas fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Was? Was willst du wissen? Ich bin gefangen! Ich muss dir sozusagen 'gebannt' zuhören, haha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Mehr Fragen habe ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Gut. Klasse. Kannst du mir jetzt raushelfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Die Barriere untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Hmm, vielleicht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Gut, äh ... vielleicht wissen die Einheimischen etwas? Es muss doch einen Weg hier raus geben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Am Rand des rituellen Kreises sind einige arkane Zeichen in den Schlamm geritzt. Ohne zu wissen, wonach man sucht, würde man sie einfach für Furchen im Schlamm halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du siehst dich einige Augenblicke lang in der Umgebung um, spürst aber keine Schwachstellen in der Barriere und kannst auch keine relevanten Details sehen.
+
+Benno beobachtet dich gespannt und seufzt dann enttäuscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>In diesem fahlen Licht ist der Geist fast unsichtbar, ein leichtes Schimmern von Essenz, das du vor dem Hintergrund des Sumpfs kaum ausmachen kannst. Du beginnst weitere Gestalten zu sehen, die sich im Nebel versammeln.
+
+Die erste Gestalt hebt die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Warte. Bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Wer seid ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Bleib zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Habt ihr diesen Mann hier gefangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was? Wer ist da? Rettet mich!"
+
+Benno blickt sich verzweifelt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Was? Ich dachte, das hätten wir schon geklärt. Geht es dir gut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Badrwn hat uns hergerufen, aber sein Geist entschlüpft uns immer wieder. Wir wollen unsere Arbeit fortsetzen, wenn du uns lässt. Es ist der einzige Zweck, den wir noch haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Die Verbesserung des Selbst. Die Kunst der Tugend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Dieser Mann, Benno. Er ist durchzogen von Eifersucht und niederen Gelüsten. Er bestiehlt seine Partnerin. Er hat sein Kind im Stich gelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Und während deine Seele, Wächter, hell und strahlend ist, ist seine zersplittert, schwach. Lass sie uns flicken. Formen."</DefaultText>
+      <FemaleText>"Und während deine Seele, Wächterin, hell und strahlend ist, ist seine zersplittert, schwach. Lass sie uns flicken. Formen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Aber seine Essenz enthält dasselbe brillante Potenzial jedes Mannes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Wie würdet ihr das tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Diese Entscheidung steht mir nicht zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Man kann das Wesen eines Mannes nicht einfach verändern, wie es einem gefällt. Welche Fehler er auch haben mag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Kann man überhaupt irgendjemandes Seele formen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Was wollt ihr dann von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Die Symbole ausstampfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du siehst, wie die Zauberbarriere sich kräuselt. Benno blickt in erwartungsvoller Hoffnung auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Du spürst aber auch eine plötzliche Energie in der Luft, einen Anstieg der an diesen Ort gebundenen Seelenessenz. Die versammelten Geister heulen auf, weil ihre Pläne vereitelt wurden. Diesmal zuckt Benno durch das Geräusch zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Die, die uns frei vorgesetzt werden. Die, die durch viele Runden im Rad geschwächt wurden. Deine wurde durch deine Reise gestärkt, wie gehärteter Stahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Wie man eine faule Stelle aus einem Apfel schneidet. Es ist schmerzlos. Befreiend. Er würde nur spüren, dass ihm eine Last abgenommen wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Es gibt sonst niemanden. Badrwn hatte nur seine Lehren, seine Hoffnungen, die ihn leiteten. Du kannst uns sehen. Uns hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Sind der Trinker und sein Laster unzertrennlich? Richten wir Schaden an, indem wir einen grausamen Mann lehren, welche Schmerzen seine Taten verursachen? Oder die Pein des Verlusts lindern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Du kannst nicht dieselbe Person sein wie zu Beginn deiner Reise hierher. Aber bist du nicht dennoch du selbst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Gib uns die Zeit, ihn zu bearbeiten. Dann werden wir ihn freilassen. Und du kannst mit ihm tun, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Also dann los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du siehst, wie die Zauberbarriere sich kräuselt. Benno blickt in erwartungsvoller Hoffnung auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Es schert mich einen Dreck, was ihr mit ihm macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Lasst ihn in Ruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Du spürst aber auch eine plötzliche kalte Last in der Luft. Die versammelten Geister strahlen noch heller, als wären sie durch deine Erlaubnis erstarkt. Sie bewegen sich auf Benno zu und du verlierst ihn unter den wirbelnden Lichtern aus den Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Badrwn hat uns hergerufen, aber wir bleiben aus freiem Willen. Wir wollen unsere Arbeit fortsetzen, wenn du uns lässt. Es ist der einzige Zweck, den wir noch haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

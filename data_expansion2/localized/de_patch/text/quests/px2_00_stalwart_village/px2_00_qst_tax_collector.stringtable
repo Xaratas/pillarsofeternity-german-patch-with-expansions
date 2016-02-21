@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_tax_collector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Risikoneigung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Triff dich in der Gréfenrast in Stalwart mit Nesta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Triff dich vor der Fischerei in Stalwart mit Nesta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Triff dich in den Minen von Stalwart mit Nesta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Triff dich bei der Weißen Esse in Durgans Batterie mit Nesta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rette Nesta vor den Räubern vor Durgans Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Triff dich bei der Weißen Esse in Durgans Batterie mit Nesta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kehre zu Tarfos zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Bürgermeister Tarfos will, dass ich Nesta durch Stalwart führe und mit ihr die Bedingungen für ein Handelsabkommen mit Trutzbucht aushandle. Tarfos hat kein Vertrauen in seine eigenen Verhandlungsfähigkeiten, daher soll ich die Aufgabe für ihn übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nesta wartet in der Gréfenrast auf mich. Ich muss mich mit ihr treffen, um die Verhandlungen zu beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nesta will sich vor der Fischerei in Stalwart mit mir treffen. Sie hat gesagt, dass der Betrieb der Fischerei ein Hindernis für den Wohlstand von Stalwart darstellen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nesta ist weitergezogen zu den Minen von Stalwart, um deren Sicherheit zu bewerten. Sie wartet beim Büro des Vorarbeiters auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nesta will, dass wir uns in der Weißen Esse in Durgans Batterie treffen. Sie hat Bedenken, was die Fähigkeiten der Schmiede dort angeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Nesta wird vor Durgans Batterie von Räubern belästigt. Ich bezweifle, dass sie allein mit ihnen fertig wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Nun, da der Zwischenfall mit den Räubern überstanden ist, hat Nesta ihre Reise zur Weißen Esse in Durgans Batterie fortgesetzt. Sie sagt, sie würde dort auf mich warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe mit Nesta einen ersten Entwurf des Handelsabkommens ausgehandelt. Ich muss Tarfos berichten, was ich erreichen konnte. Er wartet gewiss immer noch bei den Minen von Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe erfolgreich ein Handelsabkommen zwischen Stalwart und Trutzbucht ausgehandelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_eyeless_vision_fort</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als der letzte Maegfolc fällt, schwappt eine Welle von Essenz durch den Äther.
+
+Sie spült über dich hinweg und du findest dich in den Erinnerungen der Augenlosen wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die gewaltigen Kreaturen umzingeln dich. Ihre mit Sehnen umwickelten Skelette rattern und quietschen im Halbdunkel. Ihre Körper füllen die Luft mit einem metallischen Schweißgestank.
+
+In der Höhle, in der du stehst ... jedenfalls sieht es aus wie eine Höhle ... leuchtet ein schwaches Licht. Stahl blitzt auf, wenn die Augenlosen sich rühren. Sie stampfen mit den Füßen und stöhnen mit krächzenden, metallischen Stimmen. Ihre rastlose Energie lässt dir die Haare im Genick aufstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du fragst dich, wie viele Augenlose dich wohl eingekreist haben. Es müssen Dutzende sein, vielleicht mehr. Es ist schwer zu sagen, wie tief diese Höhle nach hinten geht. Oder wo sie liegt.
+
+Vor dir siehst du einen schwachen Lichtschein. Vielleicht ist es ein Ausgang.
+
+Die Vision beginnt jedoch schon wieder schwächer zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Höhle weiter erforschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Dem Lichtschein nachgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du drückst dich an den taumelnden Augenlosen vorbei und klammerst dich an die verblassenden Fetzen der Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du drückst dich an den taumelnden Augenlosen vorbei und klammerst dich an die verblassenden Fetzen der Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Licht vor dir blendet dich nach der Dunkelheit in der Höhle. Du eilst darauf zu, während es immer fahler und verschwommener wird.
+
+Du siehst nicht, wo du bist, aber du hörst einen kalten Wind durch die Lücke pfeifen und spürst, wie Feuchtigkeit auf deine Wangen spritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Höhle wird vor dir breiter. Sie schwillt mit Echos an, bis du die knurrenden, mahlenden Geräusche der Augenlosen überall um dich herum hörst. Du ziehst dich auf einen leuchtenden kristallinen Vorsprung und überblickst die Menge von stumpfen Köpfen und Kolbenarmen.
+
+Es sind nicht dutzende ... es sind hunderte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Vision endet. Du kehrst in den gefrorenen und blutgetränkten Schlamm der Festung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Und in dem widerhallenden Grollen hörst du etwas Vertrautes.
+
+Es ist das schlagende Geräusch aus deinem Traum. Der Vorbote einer grauenhaften Armee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

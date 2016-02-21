@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_si_spider_maze</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>196</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du findest dich an einer Kreuzung wieder, an welcher der Tunnel sich in drei Richtungen verzweigt. Zwei Tunnel führen nach links und rechts, der dritte erstreckt sich vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deine Schritte zurück zu den Minen von Stalwart verfolgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du kommst an eine Stelle, die du zunächst irrtümlich für eine Mauer hältst. Ein dickes Gewirr aus fahlen, verschlungenen Wurzeln erstreckt sich in diesem Tunnel und versperrt den Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du trittst aus dem Bau und stehst wieder in den Minen von Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du folgst deinen Spuren zurück zum Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Tunnel führen nach links und rechts. Vor dir führt ein dritter Pfad aus der Dunkelheit zu einem hellen Lichtpunkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Dieser dunkle Bau führt tief in die Wände der Minen. Im Gegensatz zu den Tunneln der Bergarbeiter sind die Wände hier von fast glatter Beschaffenheit, immer wieder durchzogen von feuchter, gepresster Erde.
+
+Einige Schritte nach dem Eingang verbreitert der Tunnel sich deutlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du findest dich an einer Kreuzung wieder, an welcher der Tunnel sich in drei Richtungen verzweigt. Zwei Tunnel führen nach links und rechts, der dritte erstreckt sich vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der Pfad endet in einer Sackgasse. Ein Haufen Steine und Dreck ist in den Gang gefallen und versperrt dir den Weg.
+
+Du bemerkst Lücken zwischen einigen der Steine, doch sie sind nicht groß genug, um sich hindurchzuzwängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Als du den Tunnel entlang gehst, triffst du auf ein Spinnenjunges, das an der Höhlenwand sitzt.
+
+Es zischt dich aggressiv an und droht mit seinen Mandibeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du stapfst tapfer weiter, stellst jedoch fest, dass die Höhle in einer Sackgasse endet. Der einzige Weg liegt hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du findest dich an einer Kreuzung wieder, an welcher der Tunnel sich in drei Richtungen verzweigt. Zwei Tunnel führen nach links und rechts, der dritte erstreckt sich vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Den Spalt mit Hammer und Meißel vergrößern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Der Pfad ist sehr, sehr lang und führt dich schließlich zu einer endlos wirkenden Wand aus glattem Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Vor dir siehst du Licht, der Tunnel endet. Als du aus der Tunnelöffnung trittst, stehst du in einem neuen Höhlensystem. Unter deinen Füßen liegen dicke Schichten von Spinnennetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Der Pfad ist sehr, sehr lang und führt dich schließlich zu einer endlos wirkenden Wand aus glattem Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>In der Mitte des Tunnels taucht plötzlich eine Spinne aus der Dunkelheit auf. Dolchähnliche Mandibeln rasen auf dich hinab.
+
+Die langen Mandibeln verfehlen dich knapp, doch während des verzweifelten Kampfs, der folgt, reißt die Spinne dir fast den Arm aus dem Gelenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Nach kurzer Zeit gelangst du zu einer Sackgasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Du wagst dich vorwärts in die Dunkelheit. Du streckst die Hände aus und spürst, dass die Wände sich links und rechts fortsetzen. Du siehst jedoch nicht, was unmittelbar vor dir liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Eine Fackel entzünden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Du hältst deine Fackel in die Luft und die Tunnel nehmen vor dir Gestalt an. Es führen Wege nach links, nach rechts und geradeaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du wagst dich vorwärts in die Dunkelheit. Du streckst die Hände aus und spürst, dass die Wände sich links und rechts fortsetzen. Du siehst jedoch nicht, was unmittelbar vor dir liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Du hältst deine Fackel in die Luft und die Tunnel nehmen vor dir Gestalt an. Es führen Wege nach links, nach rechts und geradeaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Du gehst den Tunnel entlang ... und läufst plötzlich fast gegen eine riesige Spinne. Ihre Mandibeln blitzen auf, als sie den Kopf zum Angriff hebt. Eines ihrer krallenbesetzten Beine schlägt schmerzvoll gegen deine Schläfe.
+
+Du stolperst benommen nach hinten und das Monster huscht davon in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Kurz darauf endet der Tunnel jäh. Du siehst keinen Weg, der weiterführen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Du stolperst über ein Skelett, das an einer kleinen Truhe lehnt. Kleidungsfetzen lassen vermuten, dass diese Person in den Minen gearbeitet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Nach kurzer Zeit gelangst du zu einer Sackgasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Du wagst dich vorwärts in die Dunkelheit. Du streckst die Hände aus und spürst, dass die Wände sich links und rechts fortsetzen. Du siehst jedoch nicht, was unmittelbar vor dir liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du hältst deine Fackel in die Luft und die Tunnel nehmen vor dir Gestalt an. Es führen Wege nach links, nach rechts und geradeaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du marschierst rasch durch ein langes Tunnelstück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du marschierst rasch durch ein langes Tunnelstück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Du wagst dich vorwärts in die Dunkelheit. Du streckst die Hände aus und spürst, dass die Wände sich links und rechts fortsetzen. Du siehst jedoch nicht, was unmittelbar vor dir liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Du hältst deine Fackel in die Luft und die Tunnel nehmen vor dir Gestalt an. Es führen Wege nach links, nach rechts und geradeaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Der Boden steigt hier unter deinen Füßen steil an, so dass du nur noch halb kriechend vorwärts kommst. Ein kurzes Stück vor dir senkt der Boden sich jedoch ebenso plötzlich wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Du marschierst rasch durch ein langes, leeres Tunnelstück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Eine Fackel entzünden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Eine Fackel entzünden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Eine Fackel entzünden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Du hörst in dem Tunnel zu deiner Linken ein leises Rascheln und das rhythmische Tap-Tap-Tap von haarigen Beinen, die auf den Höhlenboden treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Du spürst eine Brise, schwach aber gleichmäßig, aus dem Tunnel zu deiner Rechten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Eine schwache Brise weht in deinem Rücken aus dem Tunnel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Eine schwache Brise huscht über dein Gesicht. Sie strömt aus dem Tunnel vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Du spürst eine Brise, schwach aber gleichmäßig, aus dem Tunnel zu deiner Rechten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Eine feuchte, aber nicht unbedingt unangenehme Brise strömt aus dem Tunnel zu deiner Linken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Du spürst eine Brise, schwach aber gleichmäßig, aus dem Tunnel zu deiner Rechten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Eine schwache Brise weht in deinem Rücken aus dem Tunnel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du hörst in dem Tunnel zu deiner Linken ein leises Rascheln und das rhythmische Tap-Tap-Tap von haarigen Beinen, die auf den Höhlenboden treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Ein mit Netzen behangener Bau führt zurück in das dunkle Tunnelsystem, das die Strecke zwischen diesen Höhlen und den Minen überbrückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Du trittst an den knorrigen Wurzeln vorbei in den Bau und folgst ihm durch ein dunkles Netzwerk aus sich windenden Gängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Du siehst vor dir ein schwaches Licht, das Ende des Tunnels. Du trittst aus dem Bau und auf den wurzelbedeckten Boden des Vithrack-Gemeinschaftshauses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Der Pfad endet in einer Sackgasse. Ein Haufen Steine und Dreck ist in den Gang gefallen und versperrt dir den Weg.
+
+Du bemerkst Lücken zwischen einigen der Steine, doch sie sind nicht groß genug, um sich hindurchzuzwängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Den Spalt mit Hammer und Meißel vergrößern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Du bearbeitest voller Entschlossenheit den Stein. Nach langer und schweißtreibender Arbeit gelingt es dir, einen der kleineren Felsen zu lösen.
+
+Mehrere Steine rollen davon und geben einen Weg frei, der gerade breit genug ist, um sich hindurchzuzwängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Du bearbeitest voller Entschlossenheit den Stein. Nach langer und schweißtreibender Arbeit gelingt es dir, einen der kleineren Felsen zu lösen.
+
+Mehrere Steine rollen davon und geben einen Weg frei, der gerade breit genug ist, um sich hindurchzuzwängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Den Weg nach links nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Den Weg nach rechts nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Du trittst aus dem Bau und stehst wieder in den Minen von Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Du siehst vor dir ein schwaches Licht, das Ende des Tunnels. Du trittst aus dem Bau und auf den wurzelbedeckten Boden des Vithrack-Gemeinschaftshauses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Vor dir siehst du Licht, der Tunnel endet. Als du aus der Tunnelöffnung trittst, stehst du in einem neuen Höhlensystem. Unter deinen Füßen liegen dicke Schichten von Spinnennetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Nachdem die Kreatur ihr Ziel nicht erreicht hat, stolpert sie den Tunnel entlang davon, auf der Suche nach leichterer Beute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Unerschrocken zischst du zurück.
+
+Das Spinnenjunge macht kehrt und flieht in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Erschrocken richtest du dich auf und schlägst mit dem Kopf gegen die Decke des Tunnels.
+
+Das Spinnenjunge macht kehrt und flieht in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Den Schatz nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Du beginnst, deinen Rucksack mit den Münzen und anderen Kostbarkeiten zu füllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Die Tunnel erforschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Deine Schritte zurück zu den Höhlen verfolgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Du folgst deinen Spuren zurück zum Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Deine Schritte zurück zum Vithrack-Gemeinschaftshaus verfolgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Du folgst deinen Spuren zurück zum Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Die Tunnel erforschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Du findest dich an einer Kreuzung wieder, an welcher der Tunnel sich in drei Richtungen verzweigt. Zwei Tunnel führen nach links und rechts, der dritte erstreckt sich vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[Die Tunnel erforschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Eine schwache Brise huscht über dein Gesicht. Sie strömt aus dem Tunnel vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Du hörst in dem Tunnel zu deiner Rechten ein leises Rascheln und das rhythmische Tap-Tap-Tap von haarigen Beinen, die auf den Höhlenboden treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Du hörst in dem Tunnel zu deiner Rechten ein leises Rascheln und das rhythmische Tap-Tap-Tap von haarigen Beinen, die auf den Höhlenboden treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Du hörst in dem Tunnel zu deiner Linken ein leises Rascheln und das rhythmische Tap-Tap-Tap von haarigen Beinen, die auf den Höhlenboden treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Eine feuchte, aber nicht unbedingt unangenehme Brise strömt aus dem Tunnel zu deiner Linken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Eine feuchte, aber nicht unbedingt unangenehme Brise strömt aus dem Tunnel zu deiner Linken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Eine schwache Brise weht in deinem Rücken aus dem Tunnel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Eine schwache Brise weht in deinem Rücken aus dem Tunnel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Deine Schritte zurück zum Ausgang verfolgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Du folgst deinen Spuren zurück zum Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Eine feuchte, aber nicht unbedingt unangenehme Brise strömt aus dem Tunnel zu deiner Linken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Du spürst eine Brise, schwach aber gleichmäßig, aus dem Tunnel zu deiner Rechten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Eine schwache Brise weht in deinem Rücken aus dem Tunnel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Eine schwache Brise weht in deinem Rücken aus dem Tunnel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Eine schwache Brise huscht über dein Gesicht. Sie strömt aus dem Tunnel vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Eine feuchte, aber nicht unbedingt unangenehme Brise strömt aus dem Tunnel zu deiner Linken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Du spürst eine Brise, schwach aber gleichmäßig, aus dem Tunnel zu deiner Rechten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Eine feuchte, aber nicht unbedingt unangenehme Brise strömt aus dem Tunnel zu deiner Linken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Du spürst eine Brise, schwach aber gleichmäßig, aus dem Tunnel zu deiner Rechten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Du gehst weiter und gelangst zu einer Gabelung. Der Tunnel teilt sich nach links und rechts auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

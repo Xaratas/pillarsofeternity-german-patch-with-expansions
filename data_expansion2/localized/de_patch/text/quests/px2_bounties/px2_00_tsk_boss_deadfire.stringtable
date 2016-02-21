@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_deadfire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Brynlod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Brynlod und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Brynlods Kopf zu Asca in Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Brynlod, ein berüchtiger Pirat aus dem Todesfeuer-Archipel, sucht in den Ruinen von Eir Glanfath nach engwithanischen Schätzen. Die sechs Stämme von Eir Glanfath möchten, dass seine Schändungen augenblicklich ein Ende haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Brynlod wurde zuletzt zwischen Dyrfurt und Clîaban Rilag gesichtet. Die Reißzähne haben ihre besten Männer auf ihn angesetzt ... vergeblich. Sie suchen verzweifelt nach jemandem, der den Schändungen der Ruinen ein Ende setzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Asca hat das Kopfgeld für Brynlod. Ich muss ihr lediglich einen Beweis für seinen Tod bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für Brynlod eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
