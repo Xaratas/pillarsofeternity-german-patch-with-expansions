@@ -1760,7 +1760,7 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu 
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Die Wirkung Abgelenkt verringert alle Verteidigungen des Ziels um 6 und senkt die Anzahl ihrer Angriffsbindungsziele um 1. Bei den meisten Charakteren heißt das, dass sie keine Feinde in Angriffsbindung halten können, während sie Abgelenkt sind.</DefaultText>
+      <DefaultText>Die Wirkung „Abgelenkt“ verringert alle Verteidigungen des Ziels um 6 und senkt die Anzahl ihrer Angriffsbindungsziele um 1. Bei den meisten Charakteren heißt das, dass sie keine Feinde in Angriffsbindung halten können, während sie Abgelenkt sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
