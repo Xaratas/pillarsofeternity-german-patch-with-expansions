@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>130</EntryCount>
+  <EntryCount>135</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -399,9 +399,29 @@
       <DefaultText>Reich der Schlafenden</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Kupferfisch - Rastbonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Goldwal - Rastbonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Silberwels - Rastbonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>82</ID>
       <DefaultText>Abgelenkt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Elektroschock-SR-Reduzierung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,6 +567,11 @@
     <Entry>
       <ID>112</ID>
       <DefaultText>Rassen-Genauigkeitsbonus: Bestie II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Nackte Seele</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
