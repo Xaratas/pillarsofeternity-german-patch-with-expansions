@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Möge die Fürstin dich bewahren."</DefaultText>
+      <DefaultText>„Möge die Fürstin dich bewahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wir heißen dich willkommen."</DefaultText>
+      <DefaultText>„Wir heißen dich willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Die Abtei steht dir zu Diensten."</DefaultText>
+      <DefaultText>„Die Abtei steht dir zu Diensten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sei gegrüßt, Gezeitenbringer."</DefaultText>
-      <FemaleText>"Sei gegrüßt, Gezeitenbringerin."</FemaleText>
+      <DefaultText>„Sei gegrüßt, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Sei gegrüßt, Gezeitenbringerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Bist du der Besucher, auf den wir gewartet haben?"</DefaultText>
+      <DefaultText>„Bist du der Besucher, auf den wir gewartet haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Möge die Ebbe dich segnen."</DefaultText>
+      <DefaultText>„Möge die Ebbe dich segnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Willkommen."</DefaultText>
+      <DefaultText>„Willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,87 +46,87 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Der Anstieg ist also endlich da."</DefaultText>
+      <DefaultText>„Der Anstieg ist also endlich da.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Unsere Wache unten wird bald beginnen."</DefaultText>
+      <DefaultText>„Unsere Wache unten wird bald beginnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Wir danken dir für deinen Dienst, Gezeitenbringer."</DefaultText>
-      <FemaleText>"Wir danken dir für deinen Dienst, Gezeitenbringerin."</FemaleText>
+      <DefaultText>„Wir danken dir für deinen Dienst, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Wir danken dir für deinen Dienst, Gezeitenbringerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wir werden angegriffen!"</DefaultText>
+      <DefaultText>„Wir werden angegriffen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Beschützt die Abtei!"</DefaultText>
+      <DefaultText>„Beschützt die Abtei!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Zu den Waffen!"</DefaultText>
+      <DefaultText>„Zu den Waffen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Tötet den Eindringling!"</DefaultText>
+      <DefaultText>„Tötet den Eindringling!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Halt!"</DefaultText>
+      <DefaultText>„Halt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Keinen Schritt weiter!"</DefaultText>
+      <DefaultText>„Keinen Schritt weiter!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Vergib mir, Göttin."</DefaultText>
+      <DefaultText>„Vergib mir, Göttin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Hnnnhhh."</DefaultText>
+      <DefaultText>„Hnnnhhh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Was – was war das?"</DefaultText>
+      <DefaultText>„Was – was war das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Mein Kopf. Dieser Lärm! HÖR AUF!"</DefaultText>
+      <DefaultText>„Mein Kopf. Dieser Lärm! HÖR AUF!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"N-nein? Neiiiin!"</DefaultText>
+      <DefaultText>„N-nein? Neiiiin!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Blasphemie!"</DefaultText>
+      <DefaultText>„Blasphemie!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wir freuen uns auf viele Kreisläufe unter deiner Führung, Oberabt."</DefaultText>
+      <DefaultText>„Wir freuen uns auf viele Kreisläufe unter deiner Führung, Oberabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,37 +136,37 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wir haben die Kunde vernommen, Oberabt."</DefaultText>
+      <DefaultText>„Wir haben die Kunde vernommen, Oberabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Mit der Zeit wird auch die Armee unserer Herrin vergessen sein."</DefaultText>
+      <DefaultText>„Mit der Zeit wird auch die Armee unserer Herrin vergessen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Deine Taten sind eine Inspiration für uns alle."</DefaultText>
+      <DefaultText>„Deine Taten sind eine Inspiration für uns alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Hier kommt er, unser Anführer, der so kühn die Armee der Augenlosen besiegt hat."</DefaultText>
-      <FemaleText>"Hier kommt sie, unsere Anführerin, die so kühn die Armee der Augenlosen besiegt hat."</FemaleText>
+      <DefaultText>„Hier kommt er, unser Anführer, der so kühn die Armee der Augenlosen besiegt hat.“</DefaultText>
+      <FemaleText>„Hier kommt sie, unsere Anführerin, die so kühn die Armee der Augenlosen besiegt hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Die heiligen Hallen, entsiegelt!"</DefaultText>
+      <DefaultText>„Die heiligen Hallen, entsiegelt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Was? Haltet sie auf!"</DefaultText>
+      <DefaultText>„Was? Haltet sie auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Unsere Brüder und Schwestern, tut ihnen nicht weh!"</DefaultText>
+      <DefaultText>„Unsere Brüder und Schwestern, tut ihnen nicht weh!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

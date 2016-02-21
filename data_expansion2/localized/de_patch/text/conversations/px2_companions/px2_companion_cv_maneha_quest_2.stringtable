@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hier ist er. Der Salzbrunnen."
+      <DefaultText>„Hier ist er. Der Salzbrunnen.“
 
 In dem Raum befindet sich ein Becken. Es ist klein, aber tief genug, dass du den Grund nicht sehen kannst. Die glasige Oberfläche sieht fast gefroren aus.</DefaultText>
       <FemaleText />
@@ -18,177 +18,177 @@ In dem Raum befindet sich ein Becken. Es ist klein, aber tief genug, dass du den
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Worauf wartest du?"</DefaultText>
+      <DefaultText>„Worauf wartest du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Es ist schwer, sich vorzustellen, dass hier eine ganze Sekte lebt. Aber genau deshalb haben sie sich wohl hier niedergelassen."</DefaultText>
+      <DefaultText>„Es ist schwer, sich vorzustellen, dass hier eine ganze Sekte lebt. Aber genau deshalb haben sie sich wohl hier niedergelassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich rieche eine Meeresbrise. Wir müssen in der Nähe sein."</DefaultText>
+      <DefaultText>„Ich rieche eine Meeresbrise. Wir müssen in der Nähe sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich dachte, er wäre größer."</DefaultText>
+      <DefaultText>„Ich dachte, er wäre größer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Sieht jedenfalls tief aus."</DefaultText>
+      <DefaultText>„Sieht jedenfalls tief aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Und ich dachte, du würdest langsam mal hineintauchen."</DefaultText>
+      <DefaultText>„Und ich dachte, du würdest langsam mal hineintauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Gabenbringer sagen, dass die größte Reue und die schlimmste Trauer hier abgelegt werden. Also will ich das hoffen." Sie blickt hinein.</DefaultText>
+      <DefaultText>„Gabenbringer sagen, dass die größte Reue und die schlimmste Trauer hier abgelegt werden. Also will ich das hoffen.“ Sie blickt hinein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Kennst du das, wenn man sich etwas so lange vorstellt, dass man Angst hat, enttäuscht zu werden, wenn man es endlich bekommt?"
+      <DefaultText>„Kennst du das, wenn man sich etwas so lange vorstellt, dass man Angst hat, enttäuscht zu werden, wenn man es endlich bekommt?“
 
 Sie zupft an einem ihrer Armreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Ich meine, wer weiß, ob das Ding nicht einfach voller Blutegel ist?"</DefaultText>
+      <DefaultText>„Ich meine, wer weiß, ob das Ding nicht einfach voller Blutegel ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Du schindest Zeit."</DefaultText>
+      <DefaultText>„Du schindest Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Sie seufzt. "Erinner mich nicht daran."</DefaultText>
+      <DefaultText>Sie seufzt. „Erinner mich nicht daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Also gut. Dann wollen wir mal." Sie schüttelt mit einem metallischen Klimpern ihre Arme und Beine aus.
+      <DefaultText>„Also gut. Dann wollen wir mal.“ Sie schüttelt mit einem metallischen Klimpern ihre Arme und Beine aus.
 
 Mit einem beherzten Schritt steigt sie in das Becken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Du warst nie verantwortlich für das Massaker, an das du dich erinnerst. Lass deine Schuldgefühle los."</DefaultText>
+      <DefaultText>„Du warst nie verantwortlich für das Massaker, an das du dich erinnerst. Lass deine Schuldgefühle los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Deine Erinnerung an das Massaker hat dich geformt. Wenn du sie ablegst, verändert dich das vielleicht mehr, als dir lieb ist."</DefaultText>
+      <DefaultText>„Deine Erinnerung an das Massaker hat dich geformt. Wenn du sie ablegst, verändert dich das vielleicht mehr, als dir lieb ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Tu es oder lass es, aber entscheide dich."</DefaultText>
+      <DefaultText>„Tu es oder lass es, aber entscheide dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Erinnerungen sind eine Strafe für unsere Missetaten. Du hast nicht das Recht, das Massaker zu vergessen."</DefaultText>
+      <DefaultText>„Erinnerungen sind eine Strafe für unsere Missetaten. Du hast nicht das Recht, das Massaker zu vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Was, wenn deine Erinnerungen an das Massaker dich davon abgehalten haben, ein ähnliches Verbrechen zu begehen?"</DefaultText>
+      <DefaultText>„Was, wenn deine Erinnerungen an das Massaker dich davon abgehalten haben, ein ähnliches Verbrechen zu begehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>Sie schließt die Augen.
 
-"Das war meine Seele, aber sie war nicht ich. Ich war eine andere Person. Von einer anderen Vergangenheit geformt."</DefaultText>
+„Das war meine Seele, aber sie war nicht ich. Ich war eine andere Person. Von einer anderen Vergangenheit geformt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Wie lange muss ich die Last mit mir tragen, bis mir meine Schuld erlassen wird? Den Rest dieses Lebens? Oder auch noch das folgende Leben lang?"</DefaultText>
+      <DefaultText>„Wie lange muss ich die Last mit mir tragen, bis mir meine Schuld erlassen wird? Den Rest dieses Lebens? Oder auch noch das folgende Leben lang?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Dein Leid hilft niemandem. Vergiss das Massaker, damit du Frieden finden kannst."</DefaultText>
+      <DefaultText>„Dein Leid hilft niemandem. Vergiss das Massaker, damit du Frieden finden kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Das ist weder deine noch meine Entscheidung."</DefaultText>
+      <DefaultText>„Das ist weder deine noch meine Entscheidung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Und was, wenn deine Opfer sich noch erinnern? Solltest du frei sein, während sie leiden?"</DefaultText>
+      <DefaultText>„Und was, wenn deine Opfer sich noch erinnern? Solltest du frei sein, während sie leiden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Das Problem war nie deine Erinnerung. Sondern der Teil deiner Seele, der dich dazu gebracht hat, deine Opfer zu massakrieren."</DefaultText>
+      <DefaultText>„Das Problem war nie deine Erinnerung. Sondern der Teil deiner Seele, der dich dazu gebracht hat, deine Opfer zu massakrieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
       <DefaultText>Sie atmet lang und tief aus.
 
-"Du hast Recht."</DefaultText>
+„Du hast Recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Oooh, ist das kalt!" Sie erschaudert so sehr, dass ihr Schmuck klimpert.
+      <DefaultText>„Oooh, ist das kalt!“ Sie erschaudert so sehr, dass ihr Schmuck klimpert.
 
 Sie steigt die Stufen hinab, bis sie bis zum Hals im Wasser steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Spürst du etwas?"</DefaultText>
+      <DefaultText>„Spürst du etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"He, welches Jahr haben wir?"</DefaultText>
+      <DefaultText>„He, welches Jahr haben wir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ich glaube, mein ganzer Körper wird taub." Sie schaudert wieder.</DefaultText>
+      <DefaultText>„Ich glaube, mein ganzer Körper wird taub.“ Sie schaudert wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Haha, sehr komisch." Sie spritzt eiskaltes Wasser in deine Richtung.</DefaultText>
+      <DefaultText>„Haha, sehr komisch.“ Sie spritzt eiskaltes Wasser in deine Richtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Das ist schon das richtige Becken, oder?" Sie runzelt die Stirn und reckt den Hals, um sich in dem Raum umzusehen.</DefaultText>
+      <DefaultText>„Das ist schon das richtige Becken, oder?“ Sie runzelt die Stirn und reckt den Hals, um sich in dem Raum umzusehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Das ist ein Ondra-Tempel. Vielleicht musst du etwas von dir abgeben."</DefaultText>
+      <DefaultText>„Das ist ein Ondra-Tempel. Vielleicht musst du etwas von dir abgeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Vielleicht musst du auch den Kopf unter Wasser tauchen."</DefaultText>
+      <DefaultText>„Vielleicht musst du auch den Kopf unter Wasser tauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Moment, du hast doch gesagt, dass Gabenbringer hierherkommen. Vielleicht musst du etwas von dir zurücklassen."</DefaultText>
+      <DefaultText>„Moment, du hast doch gesagt, dass Gabenbringer hierherkommen. Vielleicht musst du etwas von dir zurücklassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,24 +205,24 @@ Eine Minute vergeht. Zwei. Maneha bleibt weiter unter Wasser.</DefaultText>
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Gabenbringer oder nicht, glaub nicht, dass ich dich nicht auch hier reinziehe."</DefaultText>
+      <DefaultText>„Gabenbringer oder nicht, glaub nicht, dass ich dich nicht auch hier reinziehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Sieh nicht mich an."</DefaultText>
+      <DefaultText>„Sieh nicht mich an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Ja, ja. Versprich mir nur, dass wir etwas Warmes trinken, wenn ..."
+      <DefaultText>„Ja, ja. Versprich mir nur, dass wir etwas Warmes trinken, wenn ...“
 
 Sie hält plötzlich mit weit aufgerissenen Augen inne. Dann schnippt sie mit den Fingern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Ich hab's." Sie wühlt durch ihren Rucksack und zieht ein dickes Bündel Stoff hervor, das mit einem Lederband zugebunden ist.
+      <DefaultText>„Ich hab's.“ Sie wühlt durch ihren Rucksack und zieht ein dickes Bündel Stoff hervor, das mit einem Lederband zugebunden ist.
 
 Es ist dasselbe Bündel, das du schon früher gesehen hast.
 
@@ -236,7 +236,7 @@ Sie öffnet das Lederband und wickelt den Stoff aus. Eine Weinflasche kommt zum 
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Die habe ich in der Nacht, in der ich erweckt wurde, aus dem Keller des Marceso gestohlen. Ich habe sie mir für eine besondere Gelegenheit aufgehoben."
+      <DefaultText>„Die habe ich in der Nacht, in der ich erweckt wurde, aus dem Keller des Marceso gestohlen. Ich habe sie mir für eine besondere Gelegenheit aufgehoben.“
 
 Maneha hält die Flasche andächtig im Arm und wischt vorsichtig den Staub von dem grünen Glas.
 
@@ -250,12 +250,12 @@ Mit einem Seufzer packt sie die Flasche am Hals und zerschlägt sie auf den Stuf
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Was machst du?"</DefaultText>
+      <DefaultText>„Was machst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Du hättest mir vorher einen Schluck anbieten können."</DefaultText>
+      <DefaultText>„Du hättest mir vorher einen Schluck anbieten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,7 +283,7 @@ Maneha keucht erschrocken auf, als eines der Tentakel ihren Arm umschließt.</De
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Komm da raus, Maneha!"</DefaultText>
+      <DefaultText>„Komm da raus, Maneha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,17 +358,17 @@ Ihr Gesicht ist seltsam schlaff, ihre Augen sind blutunterlaufen.</DefaultText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Geht es dir gut?"</DefaultText>
+      <DefaultText>„Geht es dir gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Was ist gerade passiert?"</DefaultText>
+      <DefaultText>„Was ist gerade passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Lasst uns von hier verschwinden."</DefaultText>
+      <DefaultText>„Lasst uns von hier verschwinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,7 +378,7 @@ Ihr Gesicht ist seltsam schlaff, ihre Augen sind blutunterlaufen.</DefaultText>
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Ich habe es vergessen."</DefaultText>
+      <DefaultText>„Ich habe es vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,34 +393,34 @@ Ihr Gesicht ist seltsam schlaff, ihre Augen sind blutunterlaufen.</DefaultText>
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"An was erinnerst du dich?"</DefaultText>
+      <DefaultText>„An was erinnerst du dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Ich erinnere mich, dass ich davongelaufen bin. Aber ich weiß nicht mehr, was mich gejagt hat. Ich erinnere mich daran, Angst zu haben. Aber ich weiß nicht mehr, was mir Angst gemacht hat."
+      <DefaultText>„Ich erinnere mich, dass ich davongelaufen bin. Aber ich weiß nicht mehr, was mich gejagt hat. Ich erinnere mich daran, Angst zu haben. Aber ich weiß nicht mehr, was mir Angst gemacht hat.“
 
 Sie blickt zurück zum Salzbrunnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Ich habe etwas aufgegeben, aber ich erinnere mich nicht warum."</DefaultText>
+      <DefaultText>„Ich habe etwas aufgegeben, aber ich erinnere mich nicht warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Dann hat es funktioniert."</DefaultText>
+      <DefaultText>„Dann hat es funktioniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Ich weiß nicht, ob das nun das war, was du im Sinn hattest."</DefaultText>
+      <DefaultText>„Ich weiß nicht, ob das nun das war, was du im Sinn hattest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Wie fühlst du dich?"</DefaultText>
+      <DefaultText>„Wie fühlst du dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -430,12 +430,12 @@ Sie blickt zurück zum Salzbrunnen.</DefaultText>
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Nach einem Glas Wein geht es mir besser."</DefaultText>
+      <DefaultText>„Nach einem Glas Wein geht es mir besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Ich auch nicht."</DefaultText>
+      <DefaultText>„Ich auch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,7 +445,7 @@ Sie blickt zurück zum Salzbrunnen.</DefaultText>
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Aber es kommt mir vor wie eine Verbesserung."</DefaultText>
+      <DefaultText>„Aber es kommt mir vor wie eine Verbesserung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,12 +457,12 @@ Sie hebt den zusammengefalteten Stoff, in den vorher die Weinflasche eingewickel
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Lasst uns gehen."</DefaultText>
+      <DefaultText>„Lasst uns gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Ich vertraue auf dein Wort."</DefaultText>
+      <DefaultText>„Ich vertraue auf dein Wort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,32 +472,32 @@ Sie hebt den zusammengefalteten Stoff, in den vorher die Weinflasche eingewickel
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Gut." Sie atmet tief durch und schließt die Augen.</DefaultText>
+      <DefaultText>„Gut.“ Sie atmet tief durch und schließt die Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Alles ist besser als der jetzige Zustand."</DefaultText>
+      <DefaultText>„Alles ist besser als der jetzige Zustand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Dann tu es."</DefaultText>
+      <DefaultText>„Dann tu es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Dann tu es nicht."</DefaultText>
+      <DefaultText>„Dann tu es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Ich habe es jahrzehntelang ertragen." Sie presst die Augen zusammen und ballt die Faust an ihrem Hinterkopf.</DefaultText>
+      <DefaultText>„Ich habe es jahrzehntelang ertragen.“ Sie presst die Augen zusammen und ballt die Faust an ihrem Hinterkopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Also gut. Dann tu, was du willst."</DefaultText>
+      <DefaultText>„Also gut. Dann tu, was du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -512,17 +512,17 @@ Sie hebt den zusammengefalteten Stoff, in den vorher die Weinflasche eingewickel
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Aber es ist die Erinnerung, die mich plagt. Ich will einfach nur Frieden. Ich will endlich die Augen schließen können und dabei nichts in der Dunkelheit sehen."</DefaultText>
+      <DefaultText>„Aber es ist die Erinnerung, die mich plagt. Ich will einfach nur Frieden. Ich will endlich die Augen schließen können und dabei nichts in der Dunkelheit sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Du kannst die Erinnerung auslöschen, aber das heißt nicht, dass du Frieden finden wirst."</DefaultText>
+      <DefaultText>„Du kannst die Erinnerung auslöschen, aber das heißt nicht, dass du Frieden finden wirst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Ich glaube nicht, dass ich heute noch etwas so Grauenhaftes tun könnte."
+      <DefaultText>„Ich glaube nicht, dass ich heute noch etwas so Grauenhaftes tun könnte.“
 
 Ihre Hände sind vor ihr zu Fäusten geballt, in ihrem Gesicht steht Entschlossenheit geschrieben.
 
@@ -531,12 +531,12 @@ Trotz allem klingt sie, als würde sie eine Frage stellen.</DefaultText>
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Und diese Erinnerung hat dich geformt und dich Zurückhaltung gelehrt. Ohne sie hättest du vielleicht anders entschieden."</DefaultText>
+      <DefaultText>„Und diese Erinnerung hat dich geformt und dich Zurückhaltung gelehrt. Ohne sie hättest du vielleicht anders entschieden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Du hast einmal gesagt, dass du den Zorn spürst, der dein früheres Ich getrieben hat. Wie kannst du so sicher sein, dass du nicht zu ähnlicher Gewalt fähig bist?"</DefaultText>
+      <DefaultText>„Du hast einmal gesagt, dass du den Zorn spürst, der dein früheres Ich getrieben hat. Wie kannst du so sicher sein, dass du nicht zu ähnlicher Gewalt fähig bist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@ Trotz allem klingt sie, als würde sie eine Frage stellen.</DefaultText>
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Ich hatte befürchtet, dass du so etwas sagst."
+      <DefaultText>„Ich hatte befürchtet, dass du so etwas sagst.“
 
 Sie starrt mehrere Sekunden lang auf den Brunnen.</DefaultText>
       <FemaleText />
@@ -560,29 +560,29 @@ Schließlich schüttelt sie den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Vielleicht nicht. Aber es ist einen Versuch wert."</DefaultText>
+      <DefaultText>„Vielleicht nicht. Aber es ist einen Versuch wert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Meine Eltern haben immer gesagt, dass alles, was zu gut erscheint, um wahr zu sein ... es wahrscheinlich auch ist."</DefaultText>
+      <DefaultText>„Meine Eltern haben immer gesagt, dass alles, was zu gut erscheint, um wahr zu sein ... es wahrscheinlich auch ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Man sucht so lange nach einem Weg, etwas zu reparieren, dass man nicht erkennt, dass die Reparatur etwas anderes kaputtmachen würde."
+      <DefaultText>„Man sucht so lange nach einem Weg, etwas zu reparieren, dass man nicht erkennt, dass die Reparatur etwas anderes kaputtmachen würde.“
 
 Sie tritt einen Stein in das Becken. Er fällt hinein, ohne dass die Wasseroberfläche sich auch nur im geringsten kräuselt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Es bleibt nur noch eines zu tun." Sie blickt zu dir zurück.</DefaultText>
+      <DefaultText>„Es bleibt nur noch eines zu tun.“ Sie blickt zu dir zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Nämlich?"</DefaultText>
+      <DefaultText>„Nämlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,12 +599,12 @@ Sie durchtrennt die Lederkordel, die es zusammenhält, und faltet es auf. Es ent
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Die habe ich in der Nacht meiner Erweckung aus dem Keller des Marcesos gestohlen. Einer der besten Jahrgänge dort."</DefaultText>
+      <DefaultText>„Die habe ich in der Nacht meiner Erweckung aus dem Keller des Marcesos gestohlen. Einer der besten Jahrgänge dort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Ich habe sie mir aufgehoben, um meinen Neuanfang zu feiern. Ich glaube, es ist an der Zeit, sie zu öffnen."
+      <DefaultText>„Ich habe sie mir aufgehoben, um meinen Neuanfang zu feiern. Ich glaube, es ist an der Zeit, sie zu öffnen.“
 
 Sie sticht ein Messer in den Korken und dreht ihn mit einem quietschenden Geräusch aus der Flasche. Ein sattes, fruchtiges Aroma strömt aus der Flasche. Sie hält sie unter ihre Nase und atmet tief ein.</DefaultText>
       <FemaleText />
@@ -618,7 +618,7 @@ Nach einem tiefen, langsamen Schluck schmatzt sie mit den Lippen.</DefaultText>
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Ein paar Jahre über seinen Höhepunkt hinaus. Gut, dass wir ihn jetzt genießen."
+      <DefaultText>„Ein paar Jahre über seinen Höhepunkt hinaus. Gut, dass wir ihn jetzt genießen.“
 
 Sie schwenkt den Wein in der Flasche und hält sie dir hin.</DefaultText>
       <FemaleText />
@@ -630,24 +630,24 @@ Sie schwenkt den Wein in der Flasche und hält sie dir hin.</DefaultText>
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Wie du meinst. Ich werde ihn nicht vergeuden."
+      <DefaultText>„Wie du meinst. Ich werde ihn nicht vergeuden.“
 
 Sie leert die Flasche mit einigen langen, tiefen Zügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Zeit, ein paar gute Erinnerungen zu schaffen." Sie wischt sich den Mund mit dem Handrücken ab.</DefaultText>
+      <DefaultText>„Zeit, ein paar gute Erinnerungen zu schaffen.“ Sie wischt sich den Mund mit dem Handrücken ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Geteilte Last ist halbe Last."
+      <DefaultText>„Geteilte Last ist halbe Last.“
 
 Maneha reicht dir die Flasche. Eine unangenehme Schärfe ist in den Wein gekrochen, aber er ist dennoch ein feiner Tropfen.
 
@@ -656,7 +656,7 @@ Gemeinsam leert ihr die Flasche.</DefaultText>
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Riecht nach Süßwasser. Das kann nicht der Salzbrunnen sein."</DefaultText>
+      <DefaultText>„Riecht nach Süßwasser. Das kann nicht der Salzbrunnen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,77 +671,77 @@ Gemeinsam leert ihr die Flasche.</DefaultText>
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Madiccho! Was ist das?!"</DefaultText>
+      <DefaultText>„Madiccho! Was ist das?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"He! Sie hat Schwierigkeiten!"</DefaultText>
+      <DefaultText>„He! Sie hat Schwierigkeiten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Zurück!"</DefaultText>
+      <DefaultText>„Zurück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Maneha! Nimm meine Hand!"</DefaultText>
+      <DefaultText>„Maneha! Nimm meine Hand!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Maneha!"</DefaultText>
+      <DefaultText>„Maneha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Das ist das fleischgewordene Grauen. Haltet Abstand!"</DefaultText>
+      <DefaultText>„Das ist das fleischgewordene Grauen. Haltet Abstand!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Vorsicht!"</DefaultText>
+      <DefaultText>„Vorsicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Warum stehen wir untätig herum?! Helft ihr!"</DefaultText>
+      <DefaultText>„Warum stehen wir untätig herum?! Helft ihr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Wir müssen hinterher!"</DefaultText>
+      <DefaultText>„Wir müssen hinterher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Ist sie fort?"</DefaultText>
+      <DefaultText>„Ist sie fort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Wo ist dieses Ding hergekommen?"</DefaultText>
+      <DefaultText>„Wo ist dieses Ding hergekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Was für eine Pein! Wollen wir wirklich einfach herumstehen?"</DefaultText>
+      <DefaultText>„Was für eine Pein! Wollen wir wirklich einfach herumstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Wir dürfen an diesem Ort der widerwärtigen Geheimnisse nicht verweilen."</DefaultText>
+      <DefaultText>„Wir dürfen an diesem Ort der widerwärtigen Geheimnisse nicht verweilen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Ist dieses Ding aus der Flasche oder aus dem Becken gekommen?"</DefaultText>
+      <DefaultText>„Ist dieses Ding aus der Flasche oder aus dem Becken gekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Erlaube mir, sie zurückzuholen. Ich kämpfe gegen dieses Weintentakelmonster."</DefaultText>
+      <DefaultText>„Erlaube mir, sie zurückzuholen. Ich kämpfe gegen dieses Weintentakelmonster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

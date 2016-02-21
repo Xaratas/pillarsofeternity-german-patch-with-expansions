@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Irgendjemand muss doch den Kristall haben. Wo ist er?!"</DefaultText>
+      <DefaultText>„Irgendjemand muss doch den Kristall haben. Wo ist er?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Warum hast du den Kristall weggesperrt? Warum bestrafst du uns so?"</DefaultText>
+      <DefaultText>„Warum hast du den Kristall weggesperrt? Warum bestrafst du uns so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,22 +26,22 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich weiß, dass du den Kristall versteckst. Gib ihn mir!"</DefaultText>
+      <DefaultText>„Ich weiß, dass du den Kristall versteckst. Gib ihn mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Lass uns hinein! Wir brauchen mehr!"</DefaultText>
+      <DefaultText>„Lass uns hinein! Wir brauchen mehr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Mehr. Gib uns mehr!"</DefaultText>
+      <DefaultText>„Mehr. Gib uns mehr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eindringlinge! Umzingelt sie!"</DefaultText>
+      <DefaultText>„Eindringlinge! Umzingelt sie!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

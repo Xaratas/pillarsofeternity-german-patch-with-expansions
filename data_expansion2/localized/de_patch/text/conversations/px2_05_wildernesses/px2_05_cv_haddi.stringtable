@@ -28,7 +28,7 @@ Du spürst einen dumpfen Schmerz am Kopf und dein Blick verschwimmt. Ein fester 
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Oh nein."
+      <DefaultText>„Oh nein.“
 
 Er greift fast träge nach dem Buch. Du bemerkst, dass Elwyna verkrampft, weißt aber nicht warum ... bis er das Buch öffnet und der Brief hinausfällt.</DefaultText>
       <FemaleText />
@@ -47,22 +47,22 @@ Aber deine Beine gehorchen dir nicht. Du kannst nicht atmen.</DefaultText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wir haben nichts, was sich zu stehlen lohnt!"</DefaultText>
+      <DefaultText>„Wir haben nichts, was sich zu stehlen lohnt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eska scheint es in der Mühle gut zu gehen. Nett von ihm zu schreiben. Dyrfurt ist weit weg."</DefaultText>
+      <DefaultText>„Eska scheint es in der Mühle gut zu gehen. Nett von ihm zu schreiben. Dyrfurt ist weit weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Familie?" Der Mann lächelt, als er den Brief aufhebt.</DefaultText>
+      <DefaultText>„Familie?“ Der Mann lächelt, als er den Brief aufhebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Genug, Cevestin."</DefaultText>
+      <DefaultText>„Genug, Cevestin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,19 +72,19 @@ Aber deine Beine gehorchen dir nicht. Du kannst nicht atmen.</DefaultText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Nein!"
+      <DefaultText>„Nein!“
 
 Elwyna will nach vorne stürzen, aber der Mann hinter ihr packt sie am Arm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Schon gut, schon gut." Er wirft den Brief achtlos auf den Tisch. Sadistische Belustigung weicht augenblicklich brutalem Zorn.</DefaultText>
+      <DefaultText>„Schon gut, schon gut.“ Er wirft den Brief achtlos auf den Tisch. Sadistische Belustigung weicht augenblicklich brutalem Zorn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Tötet ihn."
+      <DefaultText>„Tötet ihn.“
 
 Du hast kaum Zeit, die Worte zu begreifen. Das Schwert, das dir in den Rücken gerammt wird, raubt dir gleichzeitig die Luft aus den Lungen und die Kraft aus den Gliedern.</DefaultText>
       <FemaleText />

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hier ist kein Zutritt."</DefaultText>
+      <DefaultText>„Hier ist kein Zutritt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Willkommen in der Abtei, Gezeitenbringer."</DefaultText>
-      <FemaleText>"Willkommen in der Abtei, Gezeitenbringerin."</FemaleText>
+      <DefaultText>„Willkommen in der Abtei, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Willkommen in der Abtei, Gezeitenbringerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du wurdest gewarnt! Geh. Sofort."</DefaultText>
+      <DefaultText>„Du wurdest gewarnt! Geh. Sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,22 +26,22 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Verräterischer Hund!"</DefaultText>
+      <DefaultText>„Verräterischer Hund!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Es ist uns eine große Ehre, unseren Platz in der Ebbe einzunehmen."</DefaultText>
+      <DefaultText>„Es ist uns eine große Ehre, unseren Platz in der Ebbe einzunehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Angreifen] "Ich gehe, wohin ich will."</DefaultText>
+      <DefaultText>[Angreifen] „Ich gehe, wohin ich will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Weggehen] "Ich gehe dann jetzt."</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe dann jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,22 +56,22 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Kaoto hat mir genehmigt, mich frei zu bewegen."</DefaultText>
+      <DefaultText>„Kaoto hat mir genehmigt, mich frei zu bewegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Es beginnt also. Du darfst passieren, Gezeitenbringer."</DefaultText>
-      <FemaleText>"Es beginnt also. Du darfst passieren, Gezeitenbringerin."</FemaleText>
+      <DefaultText>„Es beginnt also. Du darfst passieren, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Es beginnt also. Du darfst passieren, Gezeitenbringerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Sei gewarnt, die Ebbe befindet sich seit langer Zeit in der Halle des Schweigens."</DefaultText>
+      <DefaultText>„Sei gewarnt, die Ebbe befindet sich seit langer Zeit in der Halle des Schweigens.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Sie sind nicht mehr bei gesundem Verstand. Deine Anwesenheit könnte sie provozieren."</DefaultText>
+      <DefaultText>„Sie sind nicht mehr bei gesundem Verstand. Deine Anwesenheit könnte sie provozieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

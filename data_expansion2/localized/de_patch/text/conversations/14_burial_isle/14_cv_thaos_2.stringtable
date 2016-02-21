@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Ich kann nicht anders, als Mitleid mit ihm zu haben. So lange ohne einen Neuanfang leben zu müssen. Ohne die Chance, sich zu fragen, was hinter der nächsten Wegbiegung wartet." Sie schüttelt den Kopf.</DefaultText>
+      <DefaultText>„Ich kann nicht anders, als Mitleid mit ihm zu haben. So lange ohne einen Neuanfang leben zu müssen. Ohne die Chance, sich zu fragen, was hinter der nächsten Wegbiegung wartet.“ Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Das ist hart. Aber wenn es jemand verdient hat ..."</DefaultText>
+      <DefaultText>„Das ist hart. Aber wenn es jemand verdient hat ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Maneha nickt. "Dass selbst ein Mann wie Thaos eine zweite Chance haben sollte. Das gibt mir Hoffnung für uns alle, [Player Name]."</DefaultText>
+      <DefaultText>Maneha nickt. „Dass selbst ein Mann wie Thaos eine zweite Chance haben sollte. Das gibt mir Hoffnung für uns alle, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

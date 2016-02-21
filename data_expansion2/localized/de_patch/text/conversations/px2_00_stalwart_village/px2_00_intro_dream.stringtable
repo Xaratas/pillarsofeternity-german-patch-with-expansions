@@ -123,7 +123,7 @@ Als du die letzten Fesseln des Schlafs abgeschüttelt hast, hörst du eine Stimm
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Kehr um, Estramor! Dein Fluch darf unsere heiligen Hallen nicht berühren!" Sie blicken dich über die Spitzen ihrer Speere und Pfeile zornig an.
+      <DefaultText>„Kehr um, Estramor! Dein Fluch darf unsere heiligen Hallen nicht berühren!“ Sie blicken dich über die Spitzen ihrer Speere und Pfeile zornig an.
 
 Das Donnern kommt immer näher. Du hast keine andere Wahl, als deine Flucht fortzusetzen.</DefaultText>
       <FemaleText />
@@ -135,7 +135,7 @@ Das Donnern kommt immer näher. Du hast keine andere Wahl, als deine Flucht fort
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Verschwinde! Hast du nicht schon genug angerichtet?"
+      <DefaultText>„Verschwinde! Hast du nicht schon genug angerichtet?“
 
 Eine Brise trägt den Geruch von Rauch und verbranntem Fleisch herbei. Die Überlebenden von Trutzbucht blicken aus zerstörten Fenstern und zerborstenen Türen zu dir.</DefaultText>
       <FemaleText />
@@ -147,7 +147,7 @@ Eine Brise trägt den Geruch von Rauch und verbranntem Fleisch herbei. Die Über
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Bleib fort! Du wirst uns zerstören, wie du Stalwart zerstört hast!"
+      <DefaultText>„Bleib fort! Du wirst uns zerstören, wie du Stalwart zerstört hast!“
 
 Eine Brise trägt die Rufe und den Gestank von Tausenden herbei, die jenseits der Mauern zusammengepfercht sind. Ihre gewaltige Angst ist greifbar.</DefaultText>
       <FemaleText />

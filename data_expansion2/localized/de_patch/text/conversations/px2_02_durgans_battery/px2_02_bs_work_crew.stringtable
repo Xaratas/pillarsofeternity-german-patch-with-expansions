@@ -6,52 +6,52 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Der Tag ist lang und die Arbeit hart, aber die Bezahlung ist es wert."</DefaultText>
+      <DefaultText>„Der Tag ist lang und die Arbeit hart, aber die Bezahlung ist es wert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hoffentlich kommen wir an die Kanonen auf dem Westturm. Das würde Stalwart sicherer machen."</DefaultText>
+      <DefaultText>„Hoffentlich kommen wir an die Kanonen auf dem Westturm. Das würde Stalwart sicherer machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich hätte mir nie ausmalen können, wie der Ausblick von hier oben ist."</DefaultText>
+      <DefaultText>„Ich hätte mir nie ausmalen können, wie der Ausblick von hier oben ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Hier sind wir allemal besser dran als in den Minen."</DefaultText>
+      <DefaultText>„Hier sind wir allemal besser dran als in den Minen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Geh ruhig hinein, wenn du etwas Warmes essen und dich ausruhen willst."</DefaultText>
+      <DefaultText>„Geh ruhig hinein, wenn du etwas Warmes essen und dich ausruhen willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wir können dir niemals genug danken für alles, was du getan hast."</DefaultText>
+      <DefaultText>„Wir können dir niemals genug danken für alles, was du getan hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Du wirst für immer als unser Retter bekannt sein."</DefaultText>
-      <FemaleText>"Du wirst für immer als unsere Retterin bekannt sein."</FemaleText>
+      <DefaultText>„Du wirst für immer als unser Retter bekannt sein.“</DefaultText>
+      <FemaleText>„Du wirst für immer als unsere Retterin bekannt sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Schön, dich wieder hier zu sehen."</DefaultText>
+      <DefaultText>„Schön, dich wieder hier zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Wir werden die Mauern noch höher bauen."</DefaultText>
+      <DefaultText>„Wir werden die Mauern noch höher bauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wir hören schon Geschichten, wie du unser Land gerettet hast."</DefaultText>
+      <DefaultText>„Wir hören schon Geschichten, wie du unser Land gerettet hast.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

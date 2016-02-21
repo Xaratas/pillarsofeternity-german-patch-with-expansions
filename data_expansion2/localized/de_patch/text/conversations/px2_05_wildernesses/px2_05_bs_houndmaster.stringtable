@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Braver Hund."</DefaultText>
+      <DefaultText>„Braver Hund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Er verzärtelt diese Bestien."</DefaultText>
+      <DefaultText>„Er verzärtelt diese Bestien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Schnappt ihn!"</DefaultText>
-      <FemaleText>"Schnappt sie!"</FemaleText>
+      <DefaultText>„Schnappt ihn!“</DefaultText>
+      <FemaleText>„Schnappt sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Pssst! Sonst hört er dich noch ..."</DefaultText>
-      <FemaleText>"Pssst! Sonst hört sie dich noch ..."</FemaleText>
+      <DefaultText>„Pssst! Sonst hört er dich noch ...“</DefaultText>
+      <FemaleText>„Pssst! Sonst hört sie dich noch ...“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>

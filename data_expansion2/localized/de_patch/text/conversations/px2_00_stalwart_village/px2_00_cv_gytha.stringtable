@@ -6,77 +6,77 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Was willst du?" Sie verschränkt die Arme und blickt dich zornig an.</DefaultText>
+      <DefaultText>„Was willst du?“ Sie verschränkt die Arme und blickt dich zornig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was jetzt?"</DefaultText>
+      <DefaultText>„Was jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich hätte gerne ein Zimmer."</DefaultText>
+      <DefaultText>„Ich hätte gerne ein Zimmer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <DefaultText>„Zeig mir, was du zu verkaufen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich muss jemanden anheuern."</DefaultText>
+      <DefaultText>„Ich muss jemanden anheuern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Hast du ein Problem mit mir?"</DefaultText>
+      <DefaultText>„Hast du ein Problem mit mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Haeferic war mein Onkel. Ein guter, fleißiger Mann ... und du hast ihn getötet."</DefaultText>
+      <DefaultText>„Haeferic war mein Onkel. Ein guter, fleißiger Mann ... und du hast ihn getötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich hatte sicher einen guten Grund."</DefaultText>
+      <DefaultText>„Ich hatte sicher einen guten Grund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Rein zum Spaß. Er war keine große Herausforderung."</DefaultText>
+      <DefaultText>„Rein zum Spaß. Er war keine große Herausforderung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Jepp, habe ich."</DefaultText>
+      <DefaultText>„Jepp, habe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wie dem auch sei ..."</DefaultText>
+      <DefaultText>„Wie dem auch sei ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Also, was willst du?", schnaubt Gytha.</DefaultText>
+      <DefaultText>„Also, was willst du?“, schnaubt Gytha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Du machst trotzdem Geschäfte mit mir, obwohl ich Haeferic getötet habe?"</DefaultText>
+      <DefaultText>„Du machst trotzdem Geschäfte mit mir, obwohl ich Haeferic getötet habe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Geld ist Geld. Aber ich kann nicht versprechen, dass ich dir nicht in den Eintopf spucke."</DefaultText>
+      <DefaultText>„Geld ist Geld. Aber ich kann nicht versprechen, dass ich dir nicht in den Eintopf spucke.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

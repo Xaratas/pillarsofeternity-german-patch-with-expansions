@@ -6,117 +6,117 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Kandidiere zum Bürgermeister, haben sie gesagt. Die Arbeit ist ganz leicht, haben sie gesagt. Ich hätte in den Minen bleiben sollen." Er bemerkt dich und seine Augen weiten sich.</DefaultText>
+      <DefaultText>„Kandidiere zum Bürgermeister, haben sie gesagt. Die Arbeit ist ganz leicht, haben sie gesagt. Ich hätte in den Minen bleiben sollen.“ Er bemerkt dich und seine Augen weiten sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ja?" Tarfos sieht so zerrupft aus wie eh und je.</DefaultText>
+      <DefaultText>„Ja?“ Tarfos sieht so zerrupft aus wie eh und je.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Renengild hat nie erwähnt, dass man auch Handelsabkommen aushandeln muss!"</DefaultText>
+      <DefaultText>„Renengild hat nie erwähnt, dass man auch Handelsabkommen aushandeln muss!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Welche Verhandlungen meinst du?"</DefaultText>
+      <DefaultText>„Welche Verhandlungen meinst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Eine Gruppe von Händlern aus Trutzbucht will ein Handelsabkommen mit Stalwart eingehen. Ihre Vertreterin Nesta wohnt in der Gréfenrast."</DefaultText>
+      <DefaultText>„Eine Gruppe von Händlern aus Trutzbucht will ein Handelsabkommen mit Stalwart eingehen. Ihre Vertreterin Nesta wohnt in der Gréfenrast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich gehe ihr aus dem Weg, weil ich keinerlei Erfahrungen mit Abkommen und Verträgen und all dem Zeug habe ... ich war Bergarbeiter, kein Diplomat."</DefaultText>
+      <DefaultText>„Ich gehe ihr aus dem Weg, weil ich keinerlei Erfahrungen mit Abkommen und Verträgen und all dem Zeug habe ... ich war Bergarbeiter, kein Diplomat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Vielleicht könntest du an meiner Stelle mit ihr reden?" Er blickt dich hoffnungsvoll an. "Als Bürgermeister würde ich dir die Vollmacht geben, für Stalwart zu verhandeln."</DefaultText>
+      <DefaultText>„Vielleicht könntest du an meiner Stelle mit ihr reden?“ Er blickt dich hoffnungsvoll an. „Als Bürgermeister würde ich dir die Vollmacht geben, für Stalwart zu verhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"[Player Name]! Nesta hat mir die Bedingungen des Handelsabkommens präsentiert."</DefaultText>
+      <DefaultText>„[Player Name]! Nesta hat mir die Bedingungen des Handelsabkommens präsentiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"[Player Name]! Was führt dich zurück nach Stalwart? Du bist hier immer willkommen." Er strahlt dich an.</DefaultText>
+      <DefaultText>„[Player Name]! Was führt dich zurück nach Stalwart? Du bist hier immer willkommen.“ Er strahlt dich an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ah, [Player Name]. Hoffentlich machst du uns nicht noch mehr Ärger. Immerhin hast du die Weiße Esse für Stalwart zurückgewonnen." Er lacht nervös.</DefaultText>
+      <DefaultText>„Ah, [Player Name]. Hoffentlich machst du uns nicht noch mehr Ärger. Immerhin hast du die Weiße Esse für Stalwart zurückgewonnen.“ Er lacht nervös.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wir, äh, sind dir dennoch dankbar für alles, was du für Stalwart getan hast. Also, was führt dich zurück in die Stadt?" Er blickt hinab und vermeidet, dir in die Augen zu blicken.</DefaultText>
+      <DefaultText>„Wir, äh, sind dir dennoch dankbar für alles, was du für Stalwart getan hast. Also, was führt dich zurück in die Stadt?“ Er blickt hinab und vermeidet, dir in die Augen zu blicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Du bist also zurück. Warum?"</DefaultText>
+      <DefaultText>„Du bist also zurück. Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wie ergeht es Stalwart denn so?"</DefaultText>
+      <DefaultText>„Wie ergeht es Stalwart denn so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wir haben viel wieder aufgebaut. Die westliche Palisade ist repariert und ein schicker Händler hat sich dort niedergelassen, wo früher Keydys Haus stand." Er deutet auf den Tempel. "Außerdem haben wir wieder einen ordentlichen Abydon-Tempel ... ich habe ohnehin nie verstanden, was die Ondriten in Stalwart wollten."</DefaultText>
+      <DefaultText>„Wir haben viel wieder aufgebaut. Die westliche Palisade ist repariert und ein schicker Händler hat sich dort niedergelassen, wo früher Keydys Haus stand.“ Er deutet auf den Tempel. „Außerdem haben wir wieder einen ordentlichen Abydon-Tempel ... ich habe ohnehin nie verstanden, was die Ondriten in Stalwart wollten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich bin ziemlich beschäftigt, wenn es also sonst nichts gibt ..."</DefaultText>
+      <DefaultText>„Ich bin ziemlich beschäftigt, wenn es also sonst nichts gibt ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Warum ist Renengild nicht mehr Bürgermeisterin?"</DefaultText>
+      <DefaultText>„Warum ist Renengild nicht mehr Bürgermeisterin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Die gerissene alte Füchsin ist zurückgetreten, kurz nachdem du die Weise Esse aktiviert hattest. Ich dachte, sie wäre nur amtsmüde, aber inzwischen bin ich sicher, dass sie nur ein makelloses Vermächtnis zurücklassen wollte."</DefaultText>
+      <DefaultText>„Die gerissene alte Füchsin ist zurückgetreten, kurz nachdem du die Weise Esse aktiviert hattest. Ich dachte, sie wäre nur amtsmüde, aber inzwischen bin ich sicher, dass sie nur ein makelloses Vermächtnis zurücklassen wollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du sollst gewaltiges Verhandlungsgeschick besitzen. Vielleicht kannst du Nesta herumführen und den Schaden für die Stadt möglichst gering halten?"</DefaultText>
+      <DefaultText>„Du sollst gewaltiges Verhandlungsgeschick besitzen. Vielleicht kannst du Nesta herumführen und den Schaden für die Stadt möglichst gering halten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sprich mit Nesta, führ sie durch die Stadt. Ich sage nicht, dass du sie bedrohen sollst. Sei, äh, einfach du selbst. Vielleicht nimmt sie Stalwart dann nicht zu hart ran."</DefaultText>
+      <DefaultText>„Sprich mit Nesta, führ sie durch die Stadt. Ich sage nicht, dass du sie bedrohen sollst. Sei, äh, einfach du selbst. Vielleicht nimmt sie Stalwart dann nicht zu hart ran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Du bist praktisch veranlagt. Du kannst Nesta doch gewiss überzeugen, dass es der falsche Zeitpunkt ist, Stalwart damit zu belasten. Zumal wir noch mit dem Wiederaufbau beschäftigt sind."</DefaultText>
+      <DefaultText>„Du bist praktisch veranlagt. Du kannst Nesta doch gewiss überzeugen, dass es der falsche Zeitpunkt ist, Stalwart damit zu belasten. Zumal wir noch mit dem Wiederaufbau beschäftigt sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Steuereintreiber sind Meister darin, Lügner zu erkennen. Aber dir gelingt es vielleicht, ihn zu überlisten. Ihn zu überzeugen, dass die Stadt weniger wert ist, als es den Anschein hat."</DefaultText>
+      <DefaultText>„Steuereintreiber sind Meister darin, Lügner zu erkennen. Aber dir gelingt es vielleicht, ihn zu überlisten. Ihn zu überzeugen, dass die Stadt weniger wert ist, als es den Anschein hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Bitte hilf Stalwart noch ein letztes Mal, ja? Sprich mit Nesta, führe sie herum und überzeuge sie, dass man Stalwart im Moment nicht noch eine weitere finanzielle Belastung aufbürden kann."</DefaultText>
+      <DefaultText>„Bitte hilf Stalwart noch ein letztes Mal, ja? Sprich mit Nesta, führe sie herum und überzeuge sie, dass man Stalwart im Moment nicht noch eine weitere finanzielle Belastung aufbürden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,107 +136,107 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Gibt es Bedingungen, auf die ich besonders achten muss?"</DefaultText>
+      <DefaultText>„Gibt es Bedingungen, auf die ich besonders achten muss?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Nun ja, die endgültige Vereinbarung werde weiterhin ich unterzeichnen müssen."</DefaultText>
+      <DefaultText>„Nun ja, die endgültige Vereinbarung werde weiterhin ich unterzeichnen müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Dann gehe ich mit Nesta sprechen."</DefaultText>
+      <DefaultText>„Dann gehe ich mit Nesta sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Warum glaubst du, dass ich in einer Verhandlung mehr Erfolg habe als du?"</DefaultText>
+      <DefaultText>„Warum glaubst du, dass ich in einer Verhandlung mehr Erfolg habe als du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Du bist der Held von Stalwart! Der Mann, der die Weiße Esse zurückgewonnen hat! Natürlich wirst du mehr Erfolg haben als ich."</DefaultText>
-      <FemaleText>"Du bist die Heldin von Stalwart! Die Frau, die die Weiße Esse zurückgewonnen hat! Natürlich wirst du mehr Erfolg haben als ich."</FemaleText>
+      <DefaultText>„Du bist der Held von Stalwart! Der Mann, der die Weiße Esse zurückgewonnen hat! Natürlich wirst du mehr Erfolg haben als ich.“</DefaultText>
+      <FemaleText>„Du bist die Heldin von Stalwart! Die Frau, die die Weiße Esse zurückgewonnen hat! Natürlich wirst du mehr Erfolg haben als ich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Wie konnte es passieren, dass Nesta unter deiner Aufsicht stirbt? Ist dir klar, wie wichtig dieses Handelsabkommen für Stalwart hätte werden können?"</DefaultText>
+      <DefaultText>„Wie konnte es passieren, dass Nesta unter deiner Aufsicht stirbt? Ist dir klar, wie wichtig dieses Handelsabkommen für Stalwart hätte werden können?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Wie konnte es passieren, dass Schmelztiegelritter die Minen bewachen? Und dann ist diese Bedingung auch noch nicht verhandelbar! Die Miliz beklagt sich lautstark."</DefaultText>
+      <DefaultText>„Wie konnte es passieren, dass Schmelztiegelritter die Minen bewachen? Und dann ist diese Bedingung auch noch nicht verhandelbar! Die Miliz beklagt sich lautstark.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Die Stadt wird nicht erfreut sein, wenn die Fischerei geschlossen wird. Obwohl ich unter uns gesagt einer Meinung mit Nesta bin. Die Zukunft von Stalwart liegt im Stahl, nicht im Fisch."</DefaultText>
+      <DefaultText>„Die Stadt wird nicht erfreut sein, wenn die Fischerei geschlossen wird. Obwohl ich unter uns gesagt einer Meinung mit Nesta bin. Die Zukunft von Stalwart liegt im Stahl, nicht im Fisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Es werden also Schmiede aus Trutzbucht die Weiße Esse übernehmen. Das wird sehr viele Leute äußerst wütend machen. Die örtlichen Schmiede sind wohl nicht gut genug?!"</DefaultText>
+      <DefaultText>„Es werden also Schmiede aus Trutzbucht die Weiße Esse übernehmen. Das wird sehr viele Leute äußerst wütend machen. Die örtlichen Schmiede sind wohl nicht gut genug?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Es ist zwar eine grauenhafte Vorstellung, dass Schmiede aus Trutzbucht sich in die Arbeit an der Esse einmischen, aber wir könnten von ihrer Erfahrung profitieren. Alle werden profitieren, so lange sie ihren Platz kennen."</DefaultText>
+      <DefaultText>„Es ist zwar eine grauenhafte Vorstellung, dass Schmiede aus Trutzbucht sich in die Arbeit an der Esse einmischen, aber wir könnten von ihrer Erfahrung profitieren. Alle werden profitieren, so lange sie ihren Platz kennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Hast du ein Problem mit mir?"</DefaultText>
+      <DefaultText>„Hast du ein Problem mit mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Oh, nein. Nun ja ... vielleicht ein wenig. Es ist einfach alles immer so chaotisch, und weil ich der Bürgermeister bin, kommen immer alle zu mir." Er räuspert sich. "Und jetzt bist du hier, was wahrscheinlich bedeutet, dass uns irgendetwas Fürchterliches droht."</DefaultText>
+      <DefaultText>„Oh, nein. Nun ja ... vielleicht ein wenig. Es ist einfach alles immer so chaotisch, und weil ich der Bürgermeister bin, kommen immer alle zu mir.“ Er räuspert sich. „Und jetzt bist du hier, was wahrscheinlich bedeutet, dass uns irgendetwas Fürchterliches droht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"'Stalwart war viel besser dran, als Renengild noch Bürgermeisterin war! Sie hat die Weiße Esse zurückgeholt! Nicht wie Tarfos, der hat überhaupt nichts vorangebracht! Buhuuu!'" Er räuspert sich. "Gut, ganz so schlimm ist es nicht, aber du verstehst, was ich meine."</DefaultText>
+      <DefaultText>„'Stalwart war viel besser dran, als Renengild noch Bürgermeisterin war! Sie hat die Weiße Esse zurückgeholt! Nicht wie Tarfos, der hat überhaupt nichts vorangebracht! Buhuuu!'“ Er räuspert sich. „Gut, ganz so schlimm ist es nicht, aber du verstehst, was ich meine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Danke! Wie schon gesagt, du findest sie in der Gréfenrast."</DefaultText>
+      <DefaultText>„Danke! Wie schon gesagt, du findest sie in der Gréfenrast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wir lassen die Fischerei wohl doch geöffnet. Lustig – Nesta hatte eigentlich erwähnt, dass die Investoren sie schließen wollen. Und ich muss sagen, ich bin ihrer Meinung."</DefaultText>
+      <DefaultText>„Wir lassen die Fischerei wohl doch geöffnet. Lustig – Nesta hatte eigentlich erwähnt, dass die Investoren sie schließen wollen. Und ich muss sagen, ich bin ihrer Meinung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Über die Minen hatte sie wohl nichts weiter zu sagen als das, was wir schon besprochen hatten. Gut."</DefaultText>
+      <DefaultText>„Über die Minen hatte sie wohl nichts weiter zu sagen als das, was wir schon besprochen hatten. Gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Sie hat nichts über Änderungen wegen der Weißen Esse gesagt. Seltsam ... eigentlich hatte sie angedeutet, dass sie unsere örtlichen Schmiede nicht für sonderlich fähig hält. Aber das hast du ihr wohl ausgeredet, was?"</DefaultText>
+      <DefaultText>„Sie hat nichts über Änderungen wegen der Weißen Esse gesagt. Seltsam ... eigentlich hatte sie angedeutet, dass sie unsere örtlichen Schmiede nicht für sonderlich fähig hält. Aber das hast du ihr wohl ausgeredet, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Alles in allem ist das Handelsabkommen besser als alles, was ich je hätte aushandeln können. Ich unterzeichne es sofort und lasse es nach Trutzbucht schicken."</DefaultText>
+      <DefaultText>„Alles in allem ist das Handelsabkommen besser als alles, was ich je hätte aushandeln können. Ich unterzeichne es sofort und lasse es nach Trutzbucht schicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ach ja, Nesta hat das für dich dagelassen. Sie hat gesagt, es hat ihr bei ihrer früheren Arbeit sehr geholfen." Er reicht dir ein Stoffbündel.</DefaultText>
+      <DefaultText>„Ach ja, Nesta hat das für dich dagelassen. Sie hat gesagt, es hat ihr bei ihrer früheren Arbeit sehr geholfen.“ Er reicht dir ein Stoffbündel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Noch einmal danke, [Player Name]."</DefaultText>
+      <DefaultText>„Noch einmal danke, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich glaube, du hast genug getan. Verschwinde."</DefaultText>
+      <DefaultText>„Ich glaube, du hast genug getan. Verschwinde.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

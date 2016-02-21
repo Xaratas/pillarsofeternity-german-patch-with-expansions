@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Angreifen] "Genug Geschwätz."</DefaultText>
+      <DefaultText>[Angreifen] „Genug Geschwätz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,12 +23,12 @@ Cevestin folgt deinem Blick. Einen Augenblick lang wirkt seine Körperhaltung an
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Unsere Taten sollten andere davon abhalten, die Schwerter gegeneinander zu erheben."</DefaultText>
+      <DefaultText>„Unsere Taten sollten andere davon abhalten, die Schwerter gegeneinander zu erheben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Mein Name ist im ganzen Dyrwald gefürchtet. Überlege doch, was wir erreichen könnten."</DefaultText>
+      <DefaultText>„Mein Name ist im ganzen Dyrwald gefürchtet. Überlege doch, was wir erreichen könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@ Cevestin lacht und zuckt spöttisch mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Euer erster Auftrag? Tötet Cevestin."</DefaultText>
+      <DefaultText>„Euer erster Auftrag? Tötet Cevestin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,12 +52,12 @@ Der zweite tritt den Körper des sterbenden Mannes mit dem Stiefel aus dem Weg, 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Angreifen.] "Dann könnt ihr alle zusammen sterben."</DefaultText>
+      <DefaultText>[Angreifen.] „Dann könnt ihr alle zusammen sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Er hat nichts damit zu tun. Lass ihn gehen."</DefaultText>
+      <DefaultText>„Er hat nichts damit zu tun. Lass ihn gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Der zweite tritt den Körper des sterbenden Mannes mit dem Stiefel aus dem Weg, 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Bringt ihn um."</DefaultText>
+      <DefaultText>„Bringt ihn um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,17 +77,17 @@ Der zweite tritt den Körper des sterbenden Mannes mit dem Stiefel aus dem Weg, 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</DefaultText>
-      <FemaleText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</FemaleText>
+      <DefaultText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</DefaultText>
+      <FemaleText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Du ... du willst sie gehen lassen? Du willst sie ANHEUERN, nach allem, was sie getan haben?"</DefaultText>
+      <DefaultText>„Du ... du willst sie gehen lassen? Du willst sie ANHEUERN, nach allem, was sie getan haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Verschwinde hier, bevor ich es mir anders überlege."</DefaultText>
+      <DefaultText>„Verschwinde hier, bevor ich es mir anders überlege.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,12 +104,12 @@ Die Düsteren Schreiter sehen teilnahmslos zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Kern ist tot. Mehr Rache wirst du nicht bekommen."</DefaultText>
+      <DefaultText>„Kern ist tot. Mehr Rache wirst du nicht bekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</DefaultText>
+      <DefaultText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,134 +121,134 @@ Er bewegt sich langsam in Richtung Tür. Die Düsteren Schreiter sehen teilnahms
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Verschwinde hier, bevor ich es mir anders überlege."</DefaultText>
+      <DefaultText>„Verschwinde hier, bevor ich es mir anders überlege.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</DefaultText>
-      <FemaleText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</FemaleText>
+      <DefaultText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</DefaultText>
+      <FemaleText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</DefaultText>
-      <FemaleText>"Vielleicht können wir zusammenarbeiten. Wir melden uns."</FemaleText>
+      <DefaultText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</DefaultText>
+      <FemaleText>„Vielleicht können wir zusammenarbeiten. Wir melden uns.“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Keine Gnade!"</DefaultText>
+      <DefaultText>„Keine Gnade!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Von einem Mitglied des Ordens hätte ich etwas professionelle Höflichkeit erwartet. Such dir einen eigenen Auftrag."</DefaultText>
+      <DefaultText>„Von einem Mitglied des Ordens hätte ich etwas professionelle Höflichkeit erwartet. Such dir einen eigenen Auftrag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ah. Einer dieser Goldpakt-Ritter. Wohl auf der Suche nach einem Auftrag, was?"</DefaultText>
+      <DefaultText>„Ah. Einer dieser Goldpakt-Ritter. Wohl auf der Suche nach einem Auftrag, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Trinker zu terrorisieren ist nicht sonderlich professionell."</DefaultText>
+      <DefaultText>„Trinker zu terrorisieren ist nicht sonderlich professionell.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Geh weg von ihm."</DefaultText>
+      <DefaultText>„Geh weg von ihm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"So ungefähr."</DefaultText>
+      <DefaultText>„So ungefähr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Wen haben wir denn hier? Ah – den Ausländer. Du musst warten, bis du an der Reihe bist. Wir müssen einen Auftrag erledigen."</DefaultText>
-      <FemaleText>"Wen haben wir denn hier? Ah – die Ausländerin. Du musst warten, bis du an der Reihe bist. Wir müssen einen Auftrag erledigen."</FemaleText>
+      <DefaultText>„Wen haben wir denn hier? Ah – den Ausländer. Du musst warten, bis du an der Reihe bist. Wir müssen einen Auftrag erledigen.“</DefaultText>
+      <FemaleText>„Wen haben wir denn hier? Ah – die Ausländerin. Du musst warten, bis du an der Reihe bist. Wir müssen einen Auftrag erledigen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Kern schickt mich."</DefaultText>
+      <DefaultText>„Kern schickt mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Er lacht. "Tatsächlich? Dann sag dem kleinen Wurm, er soll das Geld bereithalten."</DefaultText>
+      <DefaultText>Er lacht. „Tatsächlich? Dann sag dem kleinen Wurm, er soll das Geld bereithalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Auftrag?"</DefaultText>
+      <DefaultText>„Auftrag?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich habe im Dyrwald schon viele Fehden erlebt, aber in Stalwart ist das noch einmal etwas ganz anderes. Bauern, die sich wegen eines Hügels an die Kehle gehen."</DefaultText>
+      <DefaultText>„Ich habe im Dyrwald schon viele Fehden erlebt, aber in Stalwart ist das noch einmal etwas ganz anderes. Bauern, die sich wegen eines Hügels an die Kehle gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich sehe darin durchaus einen Sinn."</DefaultText>
+      <DefaultText>„Ich sehe darin durchaus einen Sinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Du bist wahnsinnig."</DefaultText>
+      <DefaultText>„Du bist wahnsinnig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Du hast einen Betrunkenen als Ausrede für ein Blutvergießen missbraucht. Du bist erbärmlich."</DefaultText>
+      <DefaultText>„Du hast einen Betrunkenen als Ausrede für ein Blutvergießen missbraucht. Du bist erbärmlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Cevestins höhnisches Grinsen verschwindet.
 
-"Für wen zum Teufel hältst du dich, [Player Race]?"</DefaultText>
+„Für wen zum Teufel hältst du dich, [Player Race]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Cevestin schnaubt verächtlich. "Meinst du das ernst?"</DefaultText>
+      <DefaultText>Cevestin schnaubt verächtlich. „Meinst du das ernst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Was? Du weißt, wie die Sache läuft. Keine Gnade. Keine Einmischung."</DefaultText>
+      <DefaultText>„Was? Du weißt, wie die Sache läuft. Keine Gnade. Keine Einmischung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Weg von ihm oder du stirbst."</DefaultText>
+      <DefaultText>„Weg von ihm oder du stirbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Schon gut, schon gut. Du hast meine Aufmerksamkeit. Tötet ihn zuerst."</DefaultText>
-      <FemaleText>"Schon gut, schon gut. Du hast meine Aufmerksamkeit. Tötet sie zuerst."</FemaleText>
+      <DefaultText>„Schon gut, schon gut. Du hast meine Aufmerksamkeit. Tötet ihn zuerst.“</DefaultText>
+      <FemaleText>„Schon gut, schon gut. Du hast meine Aufmerksamkeit. Tötet sie zuerst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Du bist ein Mörder."</DefaultText>
+      <DefaultText>„Du bist ein Mörder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Bitte lass nicht zu, dass sie das tun!"</DefaultText>
+      <DefaultText>„Bitte lass nicht zu, dass sie das tun!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Aber wenn eine so nette Familie auf Pfählen endet? Vielleicht setzen sie sich dann nächstes Mal zusammen und reden miteinander."</DefaultText>
+      <DefaultText>„Aber wenn eine so nette Familie auf Pfählen endet? Vielleicht setzen sie sich dann nächstes Mal zusammen und reden miteinander.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich habe deine Arbeit in der Weißsteinsenke gesehen."</DefaultText>
+      <DefaultText>„Ich habe deine Arbeit in der Weißsteinsenke gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,111 +258,111 @@ Er bewegt sich langsam in Richtung Tür. Die Düsteren Schreiter sehen teilnahms
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Es geht doch nichts über eine kleine Gewaltdemonstration. Wenn das jemand versteht, dann doch sicher du."</DefaultText>
+      <DefaultText>„Es geht doch nichts über eine kleine Gewaltdemonstration. Wenn das jemand versteht, dann doch sicher du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Es geht doch nichts über eine kleine Gewaltdemonstration. Aber was verstehst du schon davon."</DefaultText>
+      <DefaultText>„Es geht doch nichts über eine kleine Gewaltdemonstration. Aber was verstehst du schon davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ja. Wie man so hört, ist das dein Stil." Cevestin seufzt.
+      <DefaultText>„Ja. Wie man so hört, ist das dein Stil.“ Cevestin seufzt.
 
-"Vielleicht siehst du auch, dass es alles Schwachsinn ist. Diesmal hat Kern mich angeheuert. Vielleicht heuert mich nächstes Mal Haddis Vetter an."</DefaultText>
+„Vielleicht siehst du auch, dass es alles Schwachsinn ist. Diesmal hat Kern mich angeheuert. Vielleicht heuert mich nächstes Mal Haddis Vetter an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Lustig. Ich dachte nicht, dass das zu dir durchdringen würde."</DefaultText>
+      <DefaultText>„Lustig. Ich dachte nicht, dass das zu dir durchdringen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ihr seid beide verrückt!"</DefaultText>
+      <DefaultText>„Ihr seid beide verrückt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Diese sadistischen Spiele sind eures Ordens nicht würdig."</DefaultText>
+      <DefaultText>„Diese sadistischen Spiele sind eures Ordens nicht würdig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Lass ihn in Frieden, Cevestin."</DefaultText>
+      <DefaultText>„Lass ihn in Frieden, Cevestin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Komm und stelle dich einem würdigen Gegner."</DefaultText>
+      <DefaultText>„Komm und stelle dich einem würdigen Gegner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich wurde gebeten, Eska zu retten. Ihr werdet mich nicht aufhalten."</DefaultText>
+      <DefaultText>„Ich wurde gebeten, Eska zu retten. Ihr werdet mich nicht aufhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Es geht doch nichts über eine kleine Gewaltdemonstration. Du hast auch ein wenig Talent dafür, heißt es."</DefaultText>
+      <DefaultText>„Es geht doch nichts über eine kleine Gewaltdemonstration. Du hast auch ein wenig Talent dafür, heißt es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Wir sollen doch keine Aufträge annehmen, die sich widersprechen. Das solltest du wissen."</DefaultText>
+      <DefaultText>„Wir sollen doch keine Aufträge annehmen, die sich widersprechen. Das solltest du wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Keine Angst. Wenn ich deine Knochen im Fluss versenke, werfe ich deinen Geldbeutel hinterher, damit er dir Gesellschaft leistet."</DefaultText>
+      <DefaultText>„Keine Angst. Wenn ich deine Knochen im Fluss versenke, werfe ich deinen Geldbeutel hinterher, damit er dir Gesellschaft leistet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Konzentriert euch auf den Eindringling! Den Sohn töten wir danach!"</DefaultText>
+      <DefaultText>„Konzentriert euch auf den Eindringling! Den Sohn töten wir danach!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Und wenn ich euch stattdessen anheuere?"</DefaultText>
+      <DefaultText>„Und wenn ich euch stattdessen anheuere?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Nein, nein. Wir haben schon einen Auftrag ... und du hast uns dabei gestört."</DefaultText>
+      <DefaultText>„Nein, nein. Wir haben schon einen Auftrag ... und du hast uns dabei gestört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Du kommst hier auch nicht lebend raus. Glaubst du etwa, du kannst hier einfach auftauchen und mir den Spaß verderben?"</DefaultText>
+      <DefaultText>„Du kommst hier auch nicht lebend raus. Glaubst du etwa, du kannst hier einfach auftauchen und mir den Spaß verderben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Leg die Klinge weg, Junge. Du weißt ja nicht einmal, wie du sie halten musst."</DefaultText>
+      <DefaultText>„Leg die Klinge weg, Junge. Du weißt ja nicht einmal, wie du sie halten musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"H-he! Hilf mir, bitte! Sie sind wahnsinnig!"</DefaultText>
+      <DefaultText>„H-he! Hilf mir, bitte! Sie sind wahnsinnig!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Sieh an, sieh an. Ein wandelndes, sprechendes Relikt der alten Welt."
+      <DefaultText>„Sieh an, sieh an. Ein wandelndes, sprechendes Relikt der alten Welt.“
 
 Du hörst ein verächtliches Schnauben von einem der Männer hinter ihm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Eska hier kann es dir sagen ... die Gestandenen in Stalwart lieben ihre erbärmlichen kleinen Fehden. Sie gehen sich laufend gegenseitig an die Gurgel."</DefaultText>
+      <DefaultText>„Eska hier kann es dir sagen ... die Gestandenen in Stalwart lieben ihre erbärmlichen kleinen Fehden. Sie gehen sich laufend gegenseitig an die Gurgel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ich habe Kern ordentlich Angst gemacht, was? Dieser kleine Feigling. Nun ja, wenn er die Nerven für so etwas hätte, bräuchte er ja mich nicht, oder?"</DefaultText>
+      <DefaultText>„Ich habe Kern ordentlich Angst gemacht, was? Dieser kleine Feigling. Nun ja, wenn er die Nerven für so etwas hätte, bräuchte er ja mich nicht, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,17 +372,17 @@ Du hörst ein verächtliches Schnauben von einem der Männer hinter ihm</Default
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ha. Hat das Schicksal des Burschen dich zu Tränen gerührt? Es heißt ja, dass der Dyrwald dich weich gemacht hat."</DefaultText>
+      <DefaultText>„Ha. Hat das Schicksal des Burschen dich zu Tränen gerührt? Es heißt ja, dass der Dyrwald dich weich gemacht hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Du würdest uns wahrscheinlich Katzen von Bäumen retten lassen."</DefaultText>
+      <DefaultText>„Du würdest uns wahrscheinlich Katzen von Bäumen retten lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Tja. Vielleicht reden sie nächstes Mal lieber miteinander."
+      <DefaultText>„Tja. Vielleicht reden sie nächstes Mal lieber miteinander.“
 
 Cevestin lacht.</DefaultText>
       <FemaleText />
@@ -391,34 +391,34 @@ Cevestin lacht.</DefaultText>
       <ID>80</ID>
       <DefaultText>Cevestins Grinsen verschwindet.
 
-"Für wen hältst du dich, du haariger kleiner Katzenficker?"</DefaultText>
+„Für wen hältst du dich, du haariger kleiner Katzenficker?“</DefaultText>
       <FemaleText>Cevestins Grinsen verschwindet.
 
-"Für wen hältst du dich, du haarige kleine Katzenfickerin?"</FemaleText>
+„Für wen hältst du dich, du haarige kleine Katzenfickerin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Cevestins Grinsen verschwindet. "Sehr witzig. Für wen zum Teufel hältst du dich, hier den Helden zu spielen?"</DefaultText>
-      <FemaleText>Cevestins Grinsen verschwindet. "Sehr witzig. Für wen zum Teufel hältst du dich, hier die Heldin zu spielen?"</FemaleText>
+      <DefaultText>Cevestins Grinsen verschwindet. „Sehr witzig. Für wen zum Teufel hältst du dich, hier den Helden zu spielen?“</DefaultText>
+      <FemaleText>Cevestins Grinsen verschwindet. „Sehr witzig. Für wen zum Teufel hältst du dich, hier die Heldin zu spielen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Du verspottest unseren Codex."</DefaultText>
+      <DefaultText>„Du verspottest unseren Codex.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Was weißt du schon davon? Du gehörst nicht zu uns. Warst du überhaupt schon einmal in einer Belagerung?"</DefaultText>
+      <DefaultText>„Was weißt du schon davon? Du gehörst nicht zu uns. Warst du überhaupt schon einmal in einer Belagerung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich kenne den Krieg. Du bist nur ein Schläger, der sich wichtig fühlen will."</DefaultText>
+      <DefaultText>„Ich kenne den Krieg. Du bist nur ein Schläger, der sich wichtig fühlen will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Krieg gibt es nicht mehr viel. Das hier ist alles, was uns noch bleibt."</DefaultText>
+      <DefaultText>„Krieg gibt es nicht mehr viel. Das hier ist alles, was uns noch bleibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,39 +428,39 @@ Cevestin lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"He, wartet ... ihr hört doch nicht etwa auf ihn, oder? Wir arbeiten seit Jahren zusammen!"</DefaultText>
-      <FemaleText>"He, wartet ... ihr hört doch nicht etwa auf sie, oder? Wir arbeiten seit Jahren zusammen!"</FemaleText>
+      <DefaultText>„He, wartet ... ihr hört doch nicht etwa auf ihn, oder? Wir arbeiten seit Jahren zusammen!“</DefaultText>
+      <FemaleText>„He, wartet ... ihr hört doch nicht etwa auf sie, oder? Wir arbeiten seit Jahren zusammen!“</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich habe die Männer des Zerrissenen Banners ausgeschaltet."</DefaultText>
+      <DefaultText>„Ich habe die Männer des Zerrissenen Banners ausgeschaltet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Ich habe Drachen getötet. Dagegen bist du ein Nichts."</DefaultText>
+      <DefaultText>„Ich habe Drachen getötet. Dagegen bist du ein Nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich verstehe etwas davon, wie man in Burgen gelangt."</DefaultText>
+      <DefaultText>„Ich verstehe etwas davon, wie man in Burgen gelangt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Diese Aufgabe würden wir nicht einfach irgendwem anvertrauen."
+      <DefaultText>„Diese Aufgabe würden wir nicht einfach irgendwem anvertrauen.“
 
-"Oder?"</DefaultText>
+„Oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Bringt ihn um!"</DefaultText>
-      <FemaleText>"Bringt sie um!"</FemaleText>
+      <DefaultText>„Bringt ihn um!“</DefaultText>
+      <FemaleText>„Bringt sie um!“</FemaleText>
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Was ist mit ihm?" Der Paladin deutet auf Eska.</DefaultText>
+      <DefaultText>„Was ist mit ihm?“ Der Paladin deutet auf Eska.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -470,47 +470,47 @@ Cevestin lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[Angreifen.] "Um den kümmere ich mich. Dich kann ich nicht gebrauchen."</DefaultText>
+      <DefaultText>[Angreifen.] „Um den kümmere ich mich. Dich kann ich nicht gebrauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Eine dürftige Rechtfertigung für einen Mord."</DefaultText>
+      <DefaultText>„Eine dürftige Rechtfertigung für einen Mord.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Die Stadtwachen werden das sicher so sehen."</DefaultText>
+      <DefaultText>„Die Stadtwachen werden das sicher so sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Kein Grund, sich zu entschuldigen. Ich bringe ständig Leute um."</DefaultText>
+      <DefaultText>„Kein Grund, sich zu entschuldigen. Ich bringe ständig Leute um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Hmm. Gutes Argument."</DefaultText>
+      <DefaultText>„Hmm. Gutes Argument.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Schön, dass wir einander verstehen. Keine Gnade, kein Pardon."</DefaultText>
+      <DefaultText>„Schön, dass wir einander verstehen. Keine Gnade, kein Pardon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Die erwarte ich von dir nicht. Und ich erwarte, dass du den Gefallen erwiderst."</DefaultText>
+      <DefaultText>„Die erwarte ich von dir nicht. Und ich erwarte, dass du den Gefallen erwiderst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[Angreifen.] "Wenn du kämpfen willst, bitte."</DefaultText>
+      <DefaultText>[Angreifen.] „Wenn du kämpfen willst, bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Spricht Cevestin für euch alle?"</DefaultText>
+      <DefaultText>„Spricht Cevestin für euch alle?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,142 +520,142 @@ Cevestin lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Und wenn nicht? Was könntest du uns anbieten? Wir sind keine Goldpakt-Huren, um die du feilschen kannst."
+      <DefaultText>„Und wenn nicht? Was könntest du uns anbieten? Wir sind keine Goldpakt-Huren, um die du feilschen kannst.“
 
 Der andere Paladin neben ihm lacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Gib auf, Cevestin."</DefaultText>
+      <DefaultText>„Gib auf, Cevestin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Jeder Narr kann grundlose Gewalt ausüben."</DefaultText>
+      <DefaultText>„Jeder Narr kann grundlose Gewalt ausüben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Fang bloß nicht an. Welcher Sinn lag drin, zwei Familien sich Jahrzehnte lang streiten zu lassen? Ich habe der Sache ein Ende gesetzt!"</DefaultText>
+      <DefaultText>„Fang bloß nicht an. Welcher Sinn lag drin, zwei Familien sich Jahrzehnte lang streiten zu lassen? Ich habe der Sache ein Ende gesetzt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Unschöne Sache, das Ganze. Aber der Kunde will es so."</DefaultText>
+      <DefaultText>„Unschöne Sache, das Ganze. Aber der Kunde will es so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Es funktioniert nicht. Es endet nicht."</DefaultText>
+      <DefaultText>„Es funktioniert nicht. Es endet nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Vor kurzem noch war ihre größte Sorge, die Angriff der Oger zu überleben."</DefaultText>
+      <DefaultText>„Vor kurzem noch war ihre größte Sorge, die Angriff der Oger zu überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Du musst es ja wissen. Hat dich jemand angeheuert, halb Stalwart abzumetzeln, oder bist du an dem Tag einfach mit dem falschen Bein aufgestanden?"
+      <DefaultText>„Du musst es ja wissen. Hat dich jemand angeheuert, halb Stalwart abzumetzeln, oder bist du an dem Tag einfach mit dem falschen Bein aufgestanden?“
 
 Cevestin lacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Seht an, Männer, jetzt geht es uns an den Kragen. Ein Schildträger kommt uns besuchen."</DefaultText>
-      <FemaleText>"Seht an, Männer, jetzt geht es uns an den Kragen. Eine Schildträgerin kommt uns besuchen."</FemaleText>
+      <DefaultText>„Seht an, Männer, jetzt geht es uns an den Kragen. Ein Schildträger kommt uns besuchen.“</DefaultText>
+      <FemaleText>„Seht an, Männer, jetzt geht es uns an den Kragen. Eine Schildträgerin kommt uns besuchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Er lacht. "Ach, wirklich? Für wie viel hat er dich gekauft? Viel kann er ja nicht geboten haben."</DefaultText>
+      <DefaultText>Er lacht. „Ach, wirklich? Für wie viel hat er dich gekauft? Viel kann er ja nicht geboten haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Hast du dich von deiner Leine losgerissen, Darcozzi? Oder spielst du jetzt Leibwächter für Fischer und Bauern?"</DefaultText>
+      <DefaultText>„Hast du dich von deiner Leine losgerissen, Darcozzi? Oder spielst du jetzt Leibwächter für Fischer und Bauern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Genau genommen gibt er mir deine Bezahlung."</DefaultText>
+      <DefaultText>„Genau genommen gibt er mir deine Bezahlung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Ihr Düsteren Schreiter wart schon immer recht einfach gestrickt."</DefaultText>
+      <DefaultText>„Ihr Düsteren Schreiter wart schon immer recht einfach gestrickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Ein Mitglied der Gütigen Wanderer? Hier draußen? Ich glaube, diesmal hast du dich verlaufen."</DefaultText>
+      <DefaultText>„Ein Mitglied der Gütigen Wanderer? Hier draußen? Ich glaube, diesmal hast du dich verlaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Bitte lass dich von uns nicht aufhalten. Halte deine Rede. Wir machen einfach weiter wie geplant."</DefaultText>
+      <DefaultText>„Bitte lass dich von uns nicht aufhalten. Halte deine Rede. Wir machen einfach weiter wie geplant.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Na klasse. Wie ich diese geschwätzigen Düsteren Schreiter liebe."</DefaultText>
+      <DefaultText>„Na klasse. Wie ich diese geschwätzigen Düsteren Schreiter liebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Warum übernimmst du nicht das Reden?"</DefaultText>
+      <DefaultText>„Warum übernimmst du nicht das Reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Warum? Bezahlt jemand?"</DefaultText>
+      <DefaultText>„Warum? Bezahlt jemand?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Oh, gut, Sinn für Humor. Wenn du bitte kurz warten würdest, du bist gleich an der Reihe."</DefaultText>
+      <DefaultText>„Oh, gut, Sinn für Humor. Wenn du bitte kurz warten würdest, du bist gleich an der Reihe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Wenn man noch ein wenig Durganstahl hinzugibt, hat man jede Menge eifersüchtige Nachbarn."</DefaultText>
+      <DefaultText>„Wenn man noch ein wenig Durganstahl hinzugibt, hat man jede Menge eifersüchtige Nachbarn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ich glaube, ich werde dir die Zunge aus dem Mund reißen."</DefaultText>
+      <DefaultText>„Ich glaube, ich werde dir die Zunge aus dem Mund reißen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Bist du hier, um den armen Eska nach Hause bringen?"</DefaultText>
+      <DefaultText>„Bist du hier, um den armen Eska nach Hause bringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Ich bin hier, um einen tollwütigen Hund zu töten."</DefaultText>
+      <DefaultText>„Ich bin hier, um einen tollwütigen Hund zu töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Das musste er nicht."</DefaultText>
+      <DefaultText>„Das musste er nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Nein, eigentlich nicht."</DefaultText>
+      <DefaultText>„Nein, eigentlich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Typisch Bauernvolk."
+      <DefaultText>„Typisch Bauernvolk.“
 Cevestin grinst mit vorgetäuschtem Mitgefühl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Tja. Das macht dich dann wohl zu unserer Konkurrenz."</DefaultText>
+      <DefaultText>„Tja. Das macht dich dann wohl zu unserer Konkurrenz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -665,17 +665,17 @@ Cevestin grinst mit vorgetäuschtem Mitgefühl.</DefaultText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Ich glaube, ich werde dich wie eine Vogelscheuche aufrichten. Tot wirst du Reisenden mehr nutzen als lebendig."</DefaultText>
+      <DefaultText>„Ich glaube, ich werde dich wie eine Vogelscheuche aufrichten. Tot wirst du Reisenden mehr nutzen als lebendig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Sind dir die Worte ausgegangen? Dann lass uns mit dem Kämpfen beginnen."</DefaultText>
+      <DefaultText>„Sind dir die Worte ausgegangen? Dann lass uns mit dem Kämpfen beginnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Und wenn nicht?"
+      <DefaultText>„Und wenn nicht?“
 
 Der Paladin sieht dich stumm an.</DefaultText>
       <FemaleText />
@@ -687,71 +687,71 @@ Der Paladin sieht dich stumm an.</DefaultText>
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Du hast die Gelegenheit ergriffen, einen Betrunkenen einzuschüchtern und glauben zu lassen, dass er die Schuld hat."</DefaultText>
+      <DefaultText>„Du hast die Gelegenheit ergriffen, einen Betrunkenen einzuschüchtern und glauben zu lassen, dass er die Schuld hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Er hatte die Schuld! Du warst nicht dort. Du hast die Erleichterung in seinem Gesicht nicht gesehen, als ich versprochen habe, seine Probleme verschwinden zu lassen!"</DefaultText>
+      <DefaultText>„Er hatte die Schuld! Du warst nicht dort. Du hast die Erleichterung in seinem Gesicht nicht gesehen, als ich versprochen habe, seine Probleme verschwinden zu lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Du bist ein gehässiger Hund, sonst nichts."</DefaultText>
+      <DefaultText>„Du bist ein gehässiger Hund, sonst nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Stimmen deine Freunde da zu, Cevestin?"</DefaultText>
+      <DefaultText>„Stimmen deine Freunde da zu, Cevestin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Das ist alles, was sie je von uns wollten!"</DefaultText>
+      <DefaultText>„Das ist alles, was sie je von uns wollten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Du willst gehässig sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen."
+      <DefaultText>„Du willst gehässig sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
 
-Er wendet sich um. "Tötet ihn!"</DefaultText>
-      <FemaleText>"Du willst gehässig sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen."
+Er wendet sich um. „Tötet ihn!“</DefaultText>
+      <FemaleText>„Du willst gehässig sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
 
-Er wendet sich um. "Tötet sie!"</FemaleText>
+Er wendet sich um. „Tötet sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Von diesen traurigen kleinen Fischern hätte es keiner gewagt, mich zu verfolgen. Und nachdem du und Eska hier erledigt sind, ist es auch diese ganze Angelegenheit."</DefaultText>
+      <DefaultText>„Von diesen traurigen kleinen Fischern hätte es keiner gewagt, mich zu verfolgen. Und nachdem du und Eska hier erledigt sind, ist es auch diese ganze Angelegenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Das ist kein echter Auftrag. Es ist ein Witz. Ihr seid nicht verpflichtet, es zu Ende zu führen."</DefaultText>
+      <DefaultText>„Das ist kein echter Auftrag. Es ist ein Witz. Ihr seid nicht verpflichtet, es zu Ende zu führen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Vielleicht kann ich euch den Auftrag abkaufen?"</DefaultText>
+      <DefaultText>„Vielleicht kann ich euch den Auftrag abkaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Es gibt keinen Grund, den Jungen zu töten."</DefaultText>
+      <DefaultText>„Es gibt keinen Grund, den Jungen zu töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Du bist verweichlicht. Eine Schande. Du siehst aus, als wärest du in deinen Hochzeiten ein echter Schrecken gewesen."</DefaultText>
+      <DefaultText>„Du bist verweichlicht. Eine Schande. Du siehst aus, als wärest du in deinen Hochzeiten ein echter Schrecken gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Ich habe mein Wort gegeben. Mehr Grund brauche ich nicht."</DefaultText>
+      <DefaultText>„Ich habe mein Wort gegeben. Mehr Grund brauche ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Du hast vergessen, dass wir keine Söldner sind. Cevestin mag vom Weg abgekommen sein, aber er ist dennoch einer von uns."</DefaultText>
+      <DefaultText>„Du hast vergessen, dass wir keine Söldner sind. Cevestin mag vom Weg abgekommen sein, aber er ist dennoch einer von uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,24 +761,24 @@ Er wendet sich um. "Tötet sie!"</FemaleText>
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Er hat Recht, Cevestin. Das muss ein Ende haben."</DefaultText>
-      <FemaleText>"Sie hat Recht, Cevestin. Das muss ein Ende haben."</FemaleText>
+      <DefaultText>„Er hat Recht, Cevestin. Das muss ein Ende haben.“</DefaultText>
+      <FemaleText>„Sie hat Recht, Cevestin. Das muss ein Ende haben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Nein! Nein, verdammt! Ich nehme keine Befehle mehr entgegen! Ihr wendet euch gegen mich?! Um dann Schoßhund zu spielen?"
+      <DefaultText>„Nein! Nein, verdammt! Ich nehme keine Befehle mehr entgegen! Ihr wendet euch gegen mich?! Um dann Schoßhund zu spielen?“
 
 Er wirbelt zu ihnen herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Wenn ihr ihn nicht töten wollt, dann sterbt ihr mit ih-"</DefaultText>
-      <FemaleText>"Wenn ihr sie nicht töten wollt, dann sterbt ihr mit ih-"</FemaleText>
+      <DefaultText>„Wenn ihr ihn nicht töten wollt, dann sterbt ihr mit ih-“</DefaultText>
+      <FemaleText>„Wenn ihr sie nicht töten wollt, dann sterbt ihr mit ih-“</FemaleText>
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Du ... du lässt sie gehen? Nach allem, was sie getan haben? Kern hat sie dafür bezahlt, meine Familie zu töten!"</DefaultText>
+      <DefaultText>„Du ... du lässt sie gehen? Nach allem, was sie getan haben? Kern hat sie dafür bezahlt, meine Familie zu töten!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

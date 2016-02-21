@@ -13,49 +13,49 @@ Als der Edelstein auf die Wasseroberfläche trifft, verschwindet er plötzlich, 
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was ist mit dem Edelstein passiert?"</DefaultText>
+      <DefaultText>„Was ist mit dem Edelstein passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Welcher Edelstein?"</DefaultText>
+      <DefaultText>„Welcher Edelstein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Der Edelstein, den du in das Becken geworfen hast."</DefaultText>
+      <DefaultText>„Der Edelstein, den du in das Becken geworfen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich erinnere mich an keinen Edelstein."</DefaultText>
+      <DefaultText>„Ich erinnere mich an keinen Edelstein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Du hast ihn geworfen. Wie kannst du das vergessen haben?"</DefaultText>
+      <DefaultText>„Du hast ihn geworfen. Wie kannst du das vergessen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Dieses Becken ist von Ondra gesegnet, Gezeitenbringer."</DefaultText>
-      <FemaleText>"Dieses Becken ist von Ondra gesegnet, Gezeitenbringerin."</FemaleText>
+      <DefaultText>„Dieses Becken ist von Ondra gesegnet, Gezeitenbringer.“</DefaultText>
+      <FemaleText>„Dieses Becken ist von Ondra gesegnet, Gezeitenbringerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Warum soll DAS denn von Bedeutung sein?"</DefaultText>
+      <DefaultText>„Warum soll DAS denn von Bedeutung sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Alles, was Ondra gehört, wird vergessen. Und alles, was vergessen wurde, gehört Ondra."
+      <DefaultText>„Alles, was Ondra gehört, wird vergessen. Und alles, was vergessen wurde, gehört Ondra.“
 
 Sie blickt wie in Trance in das Becken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Sei gegrüßt."</DefaultText>
+      <DefaultText>„Sei gegrüßt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,17 +70,17 @@ Sie blickt wie in Trance in das Becken.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Weggehen] "Lass gut sein."</DefaultText>
+      <DefaultText>[Weggehen] „Lass gut sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Bist du VERRÜCKT? Du hattest einen RIESIGEN EDELSTEIN und hast ihn einfach ins Wasser geworfen und jetzt ist er WEG!"</DefaultText>
+      <DefaultText>„Bist du VERRÜCKT? Du hattest einen RIESIGEN EDELSTEIN und hast ihn einfach ins Wasser geworfen und jetzt ist er WEG!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich verstehe das nicht."</DefaultText>
+      <DefaultText>„Ich verstehe das nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@ Sie blickt wie in Trance in das Becken.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Angreifen] "Jetzt reicht's! Schluss mit diesem kryptischen Unfug!"</DefaultText>
+      <DefaultText>[Angreifen] „Jetzt reicht's! Schluss mit diesem kryptischen Unfug!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

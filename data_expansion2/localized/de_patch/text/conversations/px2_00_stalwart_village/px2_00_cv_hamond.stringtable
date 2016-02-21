@@ -11,79 +11,79 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wie kann ich dienen?" Hamond lächelt dich mit dem breiten, glänzenden Lächeln eines geborenen Verkäufers an.</DefaultText>
+      <DefaultText>„Wie kann ich dienen?“ Hamond lächelt dich mit dem breiten, glänzenden Lächeln eines geborenen Verkäufers an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Es ist jedenfalls immer schön, hier draußen respektabler Gesellschaft zu begegnen."</DefaultText>
+      <DefaultText>„Es ist jedenfalls immer schön, hier draußen respektabler Gesellschaft zu begegnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Er hustet. "Bitte, äh, sag mir Bescheid, wenn ich helfen kann."</DefaultText>
+      <DefaultText>Er hustet. „Bitte, äh, sag mir Bescheid, wenn ich helfen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Er hustet. "Ich hoffe nur, dass du diskret bist. Wir wollen doch keine andere Kundschaft abschrecken, nicht wahr?"</DefaultText>
+      <DefaultText>Er hustet. „Ich hoffe nur, dass du diskret bist. Wir wollen doch keine andere Kundschaft abschrecken, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <DefaultText>„Zeig mir, was du zu verkaufen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Leben Sie wohl."</DefaultText>
+      <DefaultText>„Leben Sie wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sieh dich ruhig um."</DefaultText>
+      <DefaultText>„Sieh dich ruhig um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Vielleicht kann ich dich für eine neue Klinge begeistern?"</DefaultText>
+      <DefaultText>„Vielleicht kann ich dich für eine neue Klinge begeistern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Es gibt ein kleines Mädchen, Mylla, das häufiger herkommt. Wie ich höre, hat sie dir Ärger gemacht."</DefaultText>
+      <DefaultText>„Es gibt ein kleines Mädchen, Mylla, das häufiger herkommt. Wie ich höre, hat sie dir Ärger gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich habe es nur ein einziges Mal erlebt, dass jemand ihr mal tüchtig die Leviten gelesen hat: Diese wilde Frau, die bei den Hütten südlich von hier herumlungert. Asca, so heißt sie."</DefaultText>
+      <DefaultText>„Ich habe es nur ein einziges Mal erlebt, dass jemand ihr mal tüchtig die Leviten gelesen hat: Diese wilde Frau, die bei den Hütten südlich von hier herumlungert. Asca, so heißt sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Willkommen, willkommen. Ich habe Waffen und Rüstungen in bester Qualität. Oder bist du vielleicht an Tränken interessiert?"</DefaultText>
+      <DefaultText>„Willkommen, willkommen. Ich habe Waffen und Rüstungen in bester Qualität. Oder bist du vielleicht an Tränken interessiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Sie ist außer Kontrolle! Wobei man ihr eigentlich kaum einen Vorwurf machen kann ... so, wie ihre eigene Mutter sie ständig anschreit."
+      <DefaultText>„Sie ist außer Kontrolle! Wobei man ihr eigentlich kaum einen Vorwurf machen kann ... so, wie ihre eigene Mutter sie ständig anschreit.“
 
 Er lehnt sich über den Tresen und flüstert dir verschwörerisch zu:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich meine, wo guckt sich diese kleine Göre dieses Verhalten wohl ab, hmm?" Er neigt den Kopf zur Seite.</DefaultText>
+      <DefaultText>„Ich meine, wo guckt sich diese kleine Göre dieses Verhalten wohl ab, hmm?“ Er neigt den Kopf zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich weiß nicht, worum es ging, aber das Mädchen hat so große Augen gemacht." Er beschreibt mit seinen Händen Kreise so groß wie Gänseeier.</DefaultText>
+      <DefaultText>„Ich weiß nicht, worum es ging, aber das Mädchen hat so große Augen gemacht.“ Er beschreibt mit seinen Händen Kreise so groß wie Gänseeier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Aber irgendjemand muss es wohl tun. Ich habe der Mutter des Mädchens gesagt, dass ich mit Bürgermeister Tarfos spreche, wenn ich sie noch einmal beim Stehlen erwische. Offenbar hat es gewirkt." Er zuckt mit den Schultern.</DefaultText>
+      <DefaultText>„Aber irgendjemand muss es wohl tun. Ich habe der Mutter des Mädchens gesagt, dass ich mit Bürgermeister Tarfos spreche, wenn ich sie noch einmal beim Stehlen erwische. Offenbar hat es gewirkt.“ Er zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

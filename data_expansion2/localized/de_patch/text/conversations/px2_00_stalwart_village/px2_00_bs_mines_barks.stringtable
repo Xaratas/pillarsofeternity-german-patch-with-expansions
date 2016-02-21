@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hast du Gamel gesehen?"</DefaultText>
+      <DefaultText>„Hast du Gamel gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wie kann man das übersehen? Er sah aus, als hätte er in Sameths Blut gebadet."</DefaultText>
+      <DefaultText>„Wie kann man das übersehen? Er sah aus, als hätte er in Sameths Blut gebadet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Verdammt. Ich hätte nie gedacht, dass er so ... krank ist."</DefaultText>
+      <DefaultText>„Verdammt. Ich hätte nie gedacht, dass er so ... krank ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Unglaublich, dass sie dieses Tier laufenlassen."</DefaultText>
+      <DefaultText>„Unglaublich, dass sie dieses Tier laufenlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Das liegt an dem ganzen neuen Blut in der Stadt. Sie sind weich."</DefaultText>
+      <DefaultText>„Das liegt an dem ganzen neuen Blut in der Stadt. Sie sind weich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Er sollte sich hier lieber nicht blicken lassen, mehr sage ich nicht."</DefaultText>
+      <DefaultText>„Er sollte sich hier lieber nicht blicken lassen, mehr sage ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Die Strafe wurde verkündet. Gamel wird bezahlen."</DefaultText>
+      <DefaultText>„Die Strafe wurde verkündet. Gamel wird bezahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Diese Woche gibt es nur gute Nachrichten."</DefaultText>
+      <DefaultText>„Diese Woche gibt es nur gute Nachrichten.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

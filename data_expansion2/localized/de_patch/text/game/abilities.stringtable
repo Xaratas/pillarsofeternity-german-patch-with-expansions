@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>1471</ID>
-      <DefaultText>Ein einzelner Verbündeter wird wiederbelebt und geheilt. Er wird mit der Wirkung von "Versperrende Tür des Todes" belegt und Verbündete in der Nähe werden geheilt.</DefaultText>
+      <DefaultText>Ein einzelner Verbündeter wird wiederbelebt und geheilt. Er wird mit der Wirkung von „Versperrende Tür des Todes“ belegt und Verbündete in der Nähe werden geheilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@
     </Entry>
     <Entry>
       <ID>1739</ID>
-      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner "Haut" und bekommen die Eigenschaften von Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen die Wirkung Festgesetzt.</DefaultText>
+      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner „Haut“ und bekommen die Eigenschaften von Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen die Wirkung Festgesetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,7 +916,7 @@
     </Entry>
     <Entry>
       <ID>1804</ID>
-      <DefaultText>"Vielo vidòrio!" ist ein Kampfschrei der Frermàs mes Canc Suolias, der so viel bedeutet wie "schneller Sieg". Wenn der Paladin Flammen der Hingabe einsetzt, erhalten Verbündete in der Nähe eine erhöhte Angriffsgeschwindigkeit.</DefaultText>
+      <DefaultText>„Vielo vidòrio!“ ist ein Kampfschrei der Frermàs mes Canc Suolias, der so viel bedeutet wie „schneller Sieg“. Wenn der Paladin Flammen der Hingabe einsetzt, erhalten Verbündete in der Nähe eine erhöhte Angriffsgeschwindigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

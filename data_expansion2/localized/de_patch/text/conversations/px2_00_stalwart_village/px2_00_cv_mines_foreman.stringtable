@@ -11,147 +11,147 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Nein! Bitte, du hast den Falschen! Ich erinnere mich an nichts davon!"</DefaultText>
+      <DefaultText>„Nein! Bitte, du hast den Falschen! Ich erinnere mich an nichts davon!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Schweig! Wir kriegen die Wahrheit schon aus dir raus. Schafft ihn fort!"</DefaultText>
+      <DefaultText>„Schweig! Wir kriegen die Wahrheit schon aus dir raus. Schafft ihn fort!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es ist kein guter Augenblick, um in der Mine herumzuschnüffeln."</DefaultText>
+      <DefaultText>„Es ist kein guter Augenblick, um in der Mine herumzuschnüffeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was weißt du über das Opfer, Sameth?"</DefaultText>
+      <DefaultText>„Was weißt du über das Opfer, Sameth?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Danke für die Hilfe. Wir können sie wahrlich brauchen."</DefaultText>
+      <DefaultText>„Danke für die Hilfe. Wir können sie wahrlich brauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich werde mich darum kümmern."</DefaultText>
+      <DefaultText>„Ich werde mich darum kümmern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Weggehen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <DefaultText>[Weggehen] „Ich habe keine Zeit für so etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Erzähl mir etwas über Gamel."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über Gamel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Sieht aus, als hätte ihr den Verantwortlichen gerade gefunden."</DefaultText>
+      <DefaultText>„Sieht aus, als hätte ihr den Verantwortlichen gerade gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Natürlich hast du auch Erfahrung in solchen Dingen. Dir haben wir es wohl zu verdanken, dass die Batterie wieder offen ist, heißt es."</DefaultText>
+      <DefaultText>„Natürlich hast du auch Erfahrung in solchen Dingen. Dir haben wir es wohl zu verdanken, dass die Batterie wieder offen ist, heißt es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich kannte ihn nicht sonderlich gut. Hätte jedenfalls nie gedacht, dass er ein Mörder ist. Ich würde sagen, du solltest ihn selbst fragen. Vielleicht sagt er dir ja, wo er die Leichen versteckt hat."</DefaultText>
+      <DefaultText>„Ich kannte ihn nicht sonderlich gut. Hätte jedenfalls nie gedacht, dass er ein Mörder ist. Ich würde sagen, du solltest ihn selbst fragen. Vielleicht sagt er dir ja, wo er die Leichen versteckt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Es sieht so aus. Wir haben Gamel bei der Leiche eines anderen Arbeiters gefunden, Sameth. Aber die Sache ist noch nicht gegessen."</DefaultText>
+      <DefaultText>„Es sieht so aus. Wir haben Gamel bei der Leiche eines anderen Arbeiters gefunden, Sameth. Aber die Sache ist noch nicht gegessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <DefaultText>„Was geht hier vor sich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Irgendjemand muss der Sache für mich nachgehen. Ich habe alle Hände voll damit zu tun, hier nur irgendwie den Laden zusammenzuhalten. Wenn du herausfindest, was mit meinen Arbeitern geschehen ist, bekommst du bei unserer nächsten Bezahlung einen Anteil ab."</DefaultText>
+      <DefaultText>„Irgendjemand muss der Sache für mich nachgehen. Ich habe alle Hände voll damit zu tun, hier nur irgendwie den Laden zusammenzuhalten. Wenn du herausfindest, was mit meinen Arbeitern geschehen ist, bekommst du bei unserer nächsten Bezahlung einen Anteil ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Du bist immer noch hier? Was kann ich für dich tun?"</DefaultText>
+      <DefaultText>„Du bist immer noch hier? Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Immer schön, dich zu sehen, [Player Name]. Was kann ich für dich tun?"</DefaultText>
+      <DefaultText>„Immer schön, dich zu sehen, [Player Name]. Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Pass auf, wo du hintrittst. In diesen Minen wimmelt es immer noch von allem möglichem Getier. Wir konnten die Schächte noch nicht säubern."</DefaultText>
+      <DefaultText>„Pass auf, wo du hintrittst. In diesen Minen wimmelt es immer noch von allem möglichem Getier. Wir konnten die Schächte noch nicht säubern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Nesta hat gesagt, dass jemand kommen würde."</DefaultText>
+      <DefaultText>„Nesta hat gesagt, dass jemand kommen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich bin Ismey, die Vorarbeiterin. Wir sind hier ununterbrochen am Arbeiten, seit die Feuer der Batterie wieder brennen. Etwas zu ununterbrochen, für meinen Geschmack."</DefaultText>
+      <DefaultText>„Ich bin Ismey, die Vorarbeiterin. Wir sind hier ununterbrochen am Arbeiten, seit die Feuer der Batterie wieder brennen. Etwas zu ununterbrochen, für meinen Geschmack.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wenn du auf irgendetwas hinaus willst, dann beeil dich."</DefaultText>
+      <DefaultText>„Wenn du auf irgendetwas hinaus willst, dann beeil dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Schön, dass ich mir einen Namen gemacht habe."</DefaultText>
+      <DefaultText>„Schön, dass ich mir einen Namen gemacht habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wir haben in letzter Zeit einige Arbeiter verloren. Die meisten sind einfach verschwunden. Sameth ist die erste Leiche, die wir finden. Wir haben zwar Gamel geschnappt, aber wir konnten die Leichen nicht finden."</DefaultText>
+      <DefaultText>„Wir haben in letzter Zeit einige Arbeiter verloren. Die meisten sind einfach verschwunden. Sameth ist die erste Leiche, die wir finden. Wir haben zwar Gamel geschnappt, aber wir konnten die Leichen nicht finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Das ganze Getier hier ist schon schlimm genug. Ein Mord hat uns gerade noch gefehlt."</DefaultText>
+      <DefaultText>„Das ganze Getier hier ist schon schlimm genug. Ein Mord hat uns gerade noch gefehlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Was hat es mit diesem Mord auf sich?"</DefaultText>
+      <DefaultText>„Was hat es mit diesem Mord auf sich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Du hältst wohl nicht viel von Plaudereien, was?"</DefaultText>
+      <DefaultText>„Du hältst wohl nicht viel von Plaudereien, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Weißt du, wenn uns jemand helfen kann, dann du. Ich würde den Familien dieser Bergarbeiter gerne Antworten geben können. Selbst, wenn es schlechte Neuigkeiten sind."</DefaultText>
+      <DefaultText>„Weißt du, wenn uns jemand helfen kann, dann du. Ich würde den Familien dieser Bergarbeiter gerne Antworten geben können. Selbst, wenn es schlechte Neuigkeiten sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Der arme Sameth. Seine Leiche liegt im östlichen Tunnel. Es heißt, du hättest ein Talent dafür, die Geschichten hinter Leichen zu ergründen. So wie die Leute aus der Dunrydstraße, oder?"</DefaultText>
+      <DefaultText>„Der arme Sameth. Seine Leiche liegt im östlichen Tunnel. Es heißt, du hättest ein Talent dafür, die Geschichten hinter Leichen zu ergründen. So wie die Leute aus der Dunrydstraße, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Jawohl. Was willst du wissen?"</DefaultText>
+      <DefaultText>„Jawohl. Was willst du wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich habe ein paar Fragen an dich."</DefaultText>
+      <DefaultText>„Ich habe ein paar Fragen an dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,267 +161,267 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wie steht es um die Minen?"</DefaultText>
+      <DefaultText>„Wie steht es um die Minen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Wegen diesen verschwundenen Arbeitern ..."</DefaultText>
+      <DefaultText>„Wegen diesen verschwundenen Arbeitern ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich glaube, ein Vithrack hat Gamel kontrolliert."</DefaultText>
+      <DefaultText>„Ich glaube, ein Vithrack hat Gamel kontrolliert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Hast du etwas gefunden?"</DefaultText>
+      <DefaultText>„Hast du etwas gefunden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wir haben in letzter Zeit einige Arbeiter verloren. Die meisten sind einfach verschwunden. Sameth ist die erste Leiche, die wir finden. Wir haben zwar Gamel geschnappt, aber wir konnten die Leichen nicht finden."</DefaultText>
+      <DefaultText>„Wir haben in letzter Zeit einige Arbeiter verloren. Die meisten sind einfach verschwunden. Sameth ist die erste Leiche, die wir finden. Wir haben zwar Gamel geschnappt, aber wir konnten die Leichen nicht finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Sehr viel besser, jetzt wo du uns geholfen hast. Wir haben ein paar der Träger verstärkt, falls die Beben schlimmer werden, aber ansonsten sind die Minen voll funktionsfähig."</DefaultText>
+      <DefaultText>„Sehr viel besser, jetzt wo du uns geholfen hast. Wir haben ein paar der Träger verstärkt, falls die Beben schlimmer werden, aber ansonsten sind die Minen voll funktionsfähig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Die Bestien werden nicht so bald verschwinden. Jetzt, wo Gamel jemanden umgebracht hat, denken die Leute wahrscheinlich, wir sollten diese Tunnel wieder in Frieden lassen."</DefaultText>
+      <DefaultText>„Die Bestien werden nicht so bald verschwinden. Jetzt, wo Gamel jemanden umgebracht hat, denken die Leute wahrscheinlich, wir sollten diese Tunnel wieder in Frieden lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ein was? Soll das ein Witz sein?" Ismey starrt dich entsetzt an. "Jetzt müssen wir ein Vithrack-Nest säubern?"</DefaultText>
+      <DefaultText>„Ein was? Soll das ein Witz sein?“ Ismey starrt dich entsetzt an. „Jetzt müssen wir ein Vithrack-Nest säubern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich weiß nicht, ob das so einfach ist."</DefaultText>
+      <DefaultText>„Ich weiß nicht, ob das so einfach ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Es scheint wohl so."</DefaultText>
+      <DefaultText>„Es scheint wohl so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Keine Angst, ich kümmere mich darum."</DefaultText>
+      <DefaultText>„Keine Angst, ich kümmere mich darum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wie sich gezeigt hat, lag die Schuld nicht allein bei den Vithrack. Ein Pilz hatte sie infiziert und sie dazu getrieben, die Arbeiter anzufallen. Ich habe mich darum gekümmert."</DefaultText>
+      <DefaultText>„Wie sich gezeigt hat, lag die Schuld nicht allein bei den Vithrack. Ein Pilz hatte sie infiziert und sie dazu getrieben, die Arbeiter anzufallen. Ich habe mich darum gekümmert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Die Bergarbeiter scheinen wieder bei Sinnen zu sein. Als hätte ihnen jemand einen ordentlichen Schlag auf den Hinterkopf verpasst. Was genau hast du da draußen angestellt?"</DefaultText>
+      <DefaultText>„Die Bergarbeiter scheinen wieder bei Sinnen zu sein. Als hätte ihnen jemand einen ordentlichen Schlag auf den Hinterkopf verpasst. Was genau hast du da draußen angestellt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Nun, du weißt ja gewiss, was du tust. Kläre die Sache für mich, dann bin ich dir etwas schuldig."</DefaultText>
+      <DefaultText>„Nun, du weißt ja gewiss, was du tust. Kläre die Sache für mich, dann bin ich dir etwas schuldig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich weiß, das gehört nicht zu deinem Auftrag, aber diese Vithrack müssen verschwinden. Diese Minen sind inzwischen zu wichtig für Stalwart."</DefaultText>
+      <DefaultText>„Ich weiß, das gehört nicht zu deinem Auftrag, aber diese Vithrack müssen verschwinden. Diese Minen sind inzwischen zu wichtig für Stalwart.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Das freut mich zu hören. Lass mich wissen, wenn du noch etwas in Erfahrung bringst."</DefaultText>
+      <DefaultText>„Das freut mich zu hören. Lass mich wissen, wenn du noch etwas in Erfahrung bringst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Warum sind diese Minen so wichtig?"</DefaultText>
+      <DefaultText>„Warum sind diese Minen so wichtig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Die Nachfrage nach Erz ist gestiegen, seit du die Batterie geöffnet hast. Jeder will ein glänzendes Stück Durganstahl besitzen."</DefaultText>
+      <DefaultText>„Die Nachfrage nach Erz ist gestiegen, seit du die Batterie geöffnet hast. Jeder will ein glänzendes Stück Durganstahl besitzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich habe unter den Minen eine Vithrack-Kolonie gefunden. Ein bösartiger Pilz hat sie infiziert. Der Strahlenpilz war für die Angriffe und das Verschwinden der Arbeiter verantwortlich."</DefaultText>
+      <DefaultText>„Ich habe unter den Minen eine Vithrack-Kolonie gefunden. Ein bösartiger Pilz hat sie infiziert. Der Strahlenpilz war für die Angriffe und das Verschwinden der Arbeiter verantwortlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Die verschwundenen Arbeiter sind alle tot."</DefaultText>
+      <DefaultText>„Die verschwundenen Arbeiter sind alle tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Und das war alles? Nun, ich werde nicht versuchen, es dir aus der Nase zu ziehen." Ismey betrachtet dich misstrauisch.</DefaultText>
+      <DefaultText>„Und das war alles? Nun, ich werde nicht versuchen, es dir aus der Nase zu ziehen.“ Ismey betrachtet dich misstrauisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Womit mir die Entscheidung bleibt, was mit Gamel zu tun ist."</DefaultText>
+      <DefaultText>„Womit mir die Entscheidung bleibt, was mit Gamel zu tun ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Nimm das. Ein Zeichen unseres Dankes für deine Mühen. Es ist das Mindeste."</DefaultText>
+      <DefaultText>„Nimm das. Ein Zeichen unseres Dankes für deine Mühen. Es ist das Mindeste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Kann ich sonst noch etwas für dich tun?"</DefaultText>
+      <DefaultText>„Kann ich sonst noch etwas für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Taena hat vor meiner Ankunft fast die ganze Arbeit hier allein geleistet. Aber sie ist nicht mehr die Jüngste."</DefaultText>
+      <DefaultText>„Taena hat vor meiner Ankunft fast die ganze Arbeit hier allein geleistet. Aber sie ist nicht mehr die Jüngste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Sowas! Darauf wäre ich wohl nie gekommen. Ich bin nur froh, dass du der Sache ein Ende gesetzt hast."</DefaultText>
+      <DefaultText>„Sowas! Darauf wäre ich wohl nie gekommen. Ich bin nur froh, dass du der Sache ein Ende gesetzt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Ah. Es tut mir leid, das zu hören. Wenn ich dich doch noch überzeugen kann, lass es mich wissen."</DefaultText>
+      <DefaultText>„Ah. Es tut mir leid, das zu hören. Wenn ich dich doch noch überzeugen kann, lass es mich wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Du hast vermutlich gesehen, wie Gamel weggeschafft wurde. Wir haben ihn bei der Leiche eines anderen Arbeiters gesehen, Sameth."</DefaultText>
+      <DefaultText>„Du hast vermutlich gesehen, wie Gamel weggeschafft wurde. Wir haben ihn bei der Leiche eines anderen Arbeiters gesehen, Sameth.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Mord ist meistens recht unerfreulich."</DefaultText>
+      <DefaultText>„Mord ist meistens recht unerfreulich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Die Leute in Stalwart haben natürlich ihre Fehden und Streitigkeiten, aber das ist noch einmal etwas ganz anderes."</DefaultText>
+      <DefaultText>„Die Leute in Stalwart haben natürlich ihre Fehden und Streitigkeiten, aber das ist noch einmal etwas ganz anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Erzähl mir etwas über Gamel."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über Gamel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Was weißt du über das Opfer, Sameth?"</DefaultText>
+      <DefaultText>„Was weißt du über das Opfer, Sameth?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ihr habt Ärger mit Xaurips?"</DefaultText>
+      <DefaultText>„Ihr habt Ärger mit Xaurips?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Welche Spinnen?"</DefaultText>
+      <DefaultText>„Welche Spinnen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Ich kannte ihn nicht sonderlich gut. Hätte jedenfalls nie gedacht, dass er ein Mörder ist. Ich würde sagen, du solltest ihn selbst fragen. Vielleicht sagt er dir ja, wo er die Leichen versteckt hat."</DefaultText>
+      <DefaultText>„Ich kannte ihn nicht sonderlich gut. Hätte jedenfalls nie gedacht, dass er ein Mörder ist. Ich würde sagen, du solltest ihn selbst fragen. Vielleicht sagt er dir ja, wo er die Leichen versteckt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Der arme Sameth. Seine Leiche liegt im östlichen Tunnel. Es heißt, du hättest ein Talent dafür, die Geschichten hinter Leichen zu ergründen. So wie die Leute aus der Dunrydstraße, oder?"</DefaultText>
+      <DefaultText>„Der arme Sameth. Seine Leiche liegt im östlichen Tunnel. Es heißt, du hättest ein Talent dafür, die Geschichten hinter Leichen zu ergründen. So wie die Leute aus der Dunrydstraße, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Sie scheinen sich in einen der Minenschächte hinaufgegraben zu haben. Dann haben sie einen Troll in die Finger bekommen. Seitdem laufen sie Amok und versetzen die Bergarbeiter in Angst und Schrecken."</DefaultText>
+      <DefaultText>„Sie scheinen sich in einen der Minenschächte hinaufgegraben zu haben. Dann haben sie einen Troll in die Finger bekommen. Seitdem laufen sie Amok und versetzen die Bergarbeiter in Angst und Schrecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Wir haben bei den östlichen Höhlen Wachen postiert, aber die Spinnen strömen trotzdem weiter hinaus. Ich weiß nicht, ob wir sie jemals ausrotten werden."</DefaultText>
+      <DefaultText>„Wir haben bei den östlichen Höhlen Wachen postiert, aber die Spinnen strömen trotzdem weiter hinaus. Ich weiß nicht, ob wir sie jemals ausrotten werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Sameths Hände waren voller gelber Flecken."</DefaultText>
+      <DefaultText>„Sameths Hände waren voller gelber Flecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ah – Sameth hat in den Schwefelminen gearbeitet. Das Zeug hat vermutlich abgefärbt, als er es getragen hat."</DefaultText>
+      <DefaultText>„Ah – Sameth hat in den Schwefelminen gearbeitet. Das Zeug hat vermutlich abgefärbt, als er es getragen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Gamel konnte seine Taten nicht kontrollieren. Ihr dürft ihm nicht die Schuld geben."</DefaultText>
+      <DefaultText>„Gamel konnte seine Taten nicht kontrollieren. Ihr dürft ihm nicht die Schuld geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Wie die Umstände auch gewesen sein mögen, er ist dennoch verantwortlich für Sameths Tod. Jemand muss bezahlen."</DefaultText>
+      <DefaultText>„Wie die Umstände auch gewesen sein mögen, er ist dennoch verantwortlich für Sameths Tod. Jemand muss bezahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>[Lügen.] "Der Mord war alleine Gamels Werk. Er hat seine Strafe verdient."</DefaultText>
+      <DefaultText>[Lügen.] „Der Mord war alleine Gamels Werk. Er hat seine Strafe verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ich will dich noch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich will dich noch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Du hast wohl Recht. Wir werden ihn eine Weile beobachten, dann überlegen wir, ob wir ihn freilassen."</DefaultText>
+      <DefaultText>„Du hast wohl Recht. Wir werden ihn eine Weile beobachten, dann überlegen wir, ob wir ihn freilassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Nicht mein Problem."</DefaultText>
+      <DefaultText>„Nicht mein Problem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Wir lassen den Schwefel durch Konstrukte abtragen. Die Gase können gefährlich sein. Unsere Arbeiter sammeln ihn auf und bringen ihn nach oben, damit er abtransportiert werden kann."</DefaultText>
+      <DefaultText>„Wir lassen den Schwefel durch Konstrukte abtragen. Die Gase können gefährlich sein. Unsere Arbeiter sammeln ihn auf und bringen ihn nach oben, damit er abtransportiert werden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Letzlich fand sie es besser, die Verantwortung abzugeben. Sie kommt gelegentlich noch vorbei, um zu sehen, ob die Arbeiter spuren."</DefaultText>
+      <DefaultText>„Letzlich fand sie es besser, die Verantwortung abzugeben. Sie kommt gelegentlich noch vorbei, um zu sehen, ob die Arbeiter spuren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Das erscheint sinnvoll. Sameths Familie verdient zumindest etwas Frieden. Ich denke darüber nach."</DefaultText>
+      <DefaultText>„Das erscheint sinnvoll. Sameths Familie verdient zumindest etwas Frieden. Ich denke darüber nach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ah. Du hoffst immer, dass es einen größeren Grund gibt, warum die Leute sich so grauenhaft verhandeln. So einfach ist es wohl nicht. Ich werde dafür sorgen, dass er für seine Taten bezahlt."</DefaultText>
+      <DefaultText>„Ah. Du hoffst immer, dass es einen größeren Grund gibt, warum die Leute sich so grauenhaft verhandeln. So einfach ist es wohl nicht. Ich werde dafür sorgen, dass er für seine Taten bezahlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Also gut. Du hast schon mehr als genug für uns getan."</DefaultText>
+      <DefaultText>„Also gut. Du hast schon mehr als genug für uns getan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Nun, die Batterie wurde von den Beben schwer getroffen. Nachdem die Minen dort eingestürzt sind, sind wir die einzige Quelle in der Stadt."</DefaultText>
+      <DefaultText>„Nun, die Batterie wurde von den Beben schwer getroffen. Nachdem die Minen dort eingestürzt sind, sind wir die einzige Quelle in der Stadt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Nun ja, wenn du auch nur halb so gut bist, wie es heißt, könnten wir deine Hilfe definitiv gebrauchen."</DefaultText>
+      <DefaultText>„Nun ja, wenn du auch nur halb so gut bist, wie es heißt, könnten wir deine Hilfe definitiv gebrauchen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Erteile einfach den Befehl und deine Feinde werden fallen."</DefaultText>
+      <DefaultText>„Erteile einfach den Befehl und deine Feinde werden fallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Nur ein Narr würde dich angreifen."</DefaultText>
+      <DefaultText>„Nur ein Narr würde dich angreifen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Keine Gefangenen, keine Gnade."</DefaultText>
+      <DefaultText>„Keine Gefangenen, keine Gnade.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

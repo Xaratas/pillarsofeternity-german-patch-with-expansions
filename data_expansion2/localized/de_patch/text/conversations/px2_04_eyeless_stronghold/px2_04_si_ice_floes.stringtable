@@ -30,7 +30,7 @@ Wem allerdings zu wenig Eleganz und Gleichgewichtssinn in die Wiege gelegt wurde
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>["Reif und Frost folgten auf des Karthes Schritte" wirken.]</DefaultText>
+      <DefaultText>[„Reif und Frost folgten auf des Karthes Schritte“ wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@ Wem allerdings zu wenig Eleganz und Gleichgewichtssinn in die Wiege gelegt wurde
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Den Zauber "Winterwind" auf die Eisschollen wirken.]</DefaultText>
+      <DefaultText>[Den Zauber „Winterwind“ auf die Eisschollen wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,7 +129,7 @@ Du kannst gerade noch verhindern, dass du von einem weiteren Eisbrocken zerdrüc
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Den Zauber "Frostexplosion" auf die Eisschollen wirken.]</DefaultText>
+      <DefaultText>[Den Zauber „Frostexplosion“ auf die Eisschollen wirken.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

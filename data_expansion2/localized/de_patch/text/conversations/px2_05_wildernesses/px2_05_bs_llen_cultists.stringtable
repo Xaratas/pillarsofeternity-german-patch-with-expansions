@@ -6,18 +6,18 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Schaltet ihn aus!"</DefaultText>
-      <FemaleText>"Schaltet sie aus!"</FemaleText>
+      <DefaultText>„Schaltet ihn aus!“</DefaultText>
+      <FemaleText>„Schaltet sie aus!“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eindringling! Keinen Schritt weiter!"</DefaultText>
+      <DefaultText>„Eindringling! Keinen Schritt weiter!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Haltet ihn auf!"</DefaultText>
-      <FemaleText>"Haltet sie auf!"</FemaleText>
+      <DefaultText>„Haltet ihn auf!“</DefaultText>
+      <FemaleText>„Haltet sie auf!“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

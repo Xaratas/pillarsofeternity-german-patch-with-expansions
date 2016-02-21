@@ -13,49 +13,49 @@ Beregan sieht dich und fletscht ihre spitzen Zähne.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich habe einst von seltsamen, grauenhaften Dingen geträumt. Jetzt sehe ich sie."
+      <DefaultText>„Ich habe einst von seltsamen, grauenhaften Dingen geträumt. Jetzt sehe ich sie.“
 
 Sie stapft weiter auf dich zu. Ihre Haare sind zerzaust und voller Asche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich hätte meinen Träumen vertrauen sollen. Nicht den klugen Worten ignoranter Gestandener."</DefaultText>
+      <DefaultText>„Ich hätte meinen Träumen vertrauen sollen. Nicht den klugen Worten ignoranter Gestandener.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Dich von deiner Furcht beherrschen zu lassen, wäre ein noch größerer Fehler gewesen."</DefaultText>
+      <DefaultText>„Dich von deiner Furcht beherrschen zu lassen, wäre ein noch größerer Fehler gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wenn du versucht hättest, mich aufzuhalten, würdest du jetzt nicht hier stehen."</DefaultText>
+      <DefaultText>„Wenn du versucht hättest, mich aufzuhalten, würdest du jetzt nicht hier stehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Viele Leute haben auch sehr davon profitiert."</DefaultText>
+      <DefaultText>„Viele Leute haben auch sehr davon profitiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Und ich würde nicht mitansehen müssen, wie mein Clan dezimiert wird." Ihre Augen blitzen auf.</DefaultText>
+      <DefaultText>„Und ich würde nicht mitansehen müssen, wie mein Clan dezimiert wird.“ Ihre Augen blitzen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Jemand anders hätte einen Weg hinein gefunden. Etwas so Großes kann nicht ewig verborgen bleiben."</DefaultText>
+      <DefaultText>„Jemand anders hätte einen Weg hinein gefunden. Etwas so Großes kann nicht ewig verborgen bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Möchtest du lieber etwas dagegen unternehmen oder über längst geschehene Dinge jammern?"</DefaultText>
+      <DefaultText>„Möchtest du lieber etwas dagegen unternehmen oder über längst geschehene Dinge jammern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Dann hätten sie diese Katastrophe erleiden müssen. Stattdessen müssen wir das." Ihre Augen blitzen auf.</DefaultText>
+      <DefaultText>„Dann hätten sie diese Katastrophe erleiden müssen. Stattdessen müssen wir das.“ Ihre Augen blitzen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,27 +65,27 @@ Sie stapft weiter auf dich zu. Ihre Haare sind zerzaust und voller Asche.</Defau
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Sie schnaubt verächtlich. "Warum bist du dir da so sicher?"</DefaultText>
+      <DefaultText>Sie schnaubt verächtlich. „Warum bist du dir da so sicher?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich weiß, wo sie sich versteckt halten ... bei Cayrons Narbe."</DefaultText>
+      <DefaultText>„Ich weiß, wo sie sich versteckt halten ... bei Cayrons Narbe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Nun gut."</DefaultText>
+      <DefaultText>„Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wenn du wirklich glaubst, dass du sie aufhalten kannst, dann werden die Flammen-die-flüstern dir zur Seite stehen."</DefaultText>
+      <DefaultText>„Wenn du wirklich glaubst, dass du sie aufhalten kannst, dann werden die Flammen-die-flüstern dir zur Seite stehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich brauche eure Hilfe nicht."</DefaultText>
+      <DefaultText>„Ich brauche eure Hilfe nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,29 +102,29 @@ Schließlich schnaubt sie.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sie streifen doch durch die Wälder, wo wir jagen. Sie töten meine Leute und lassen ihre verstümmelten Leichen zurück, damit wir sie finden."
+      <DefaultText>„Sie streifen doch durch die Wälder, wo wir jagen. Sie töten meine Leute und lassen ihre verstümmelten Leichen zurück, damit wir sie finden.“
 
 Einer ihrer Beschützer knurrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Du sprichst von den Augenlosen."</DefaultText>
+      <DefaultText>„Du sprichst von den Augenlosen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Sie werden sich über die Weißmark hinaus ausbreiten, wenn man sie nicht aufhält."</DefaultText>
+      <DefaultText>„Sie werden sich über die Weißmark hinaus ausbreiten, wenn man sie nicht aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ganz ruhig. Niemand konnte so eine Katastrophe vorhersehen."</DefaultText>
+      <DefaultText>„Ganz ruhig. Niemand konnte so eine Katastrophe vorhersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich habe es! Ich habe Chaos gesehen. Den Tod wie einen Schneesturm über diese Berge fegen." Sie kneift die Augen zusammen und blickt in die Ferne, als würde sie versuchen, ihre Träume wieder zu beschwören.</DefaultText>
+      <DefaultText>„Ich habe es! Ich habe Chaos gesehen. Den Tod wie einen Schneesturm über diese Berge fegen.“ Sie kneift die Augen zusammen und blickt in die Ferne, als würde sie versuchen, ihre Träume wieder zu beschwören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,22 +134,22 @@ Einer ihrer Beschützer knurrt.</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Die Monster, die du auf uns herabgerufen hast." Ihre Augen sind wild vor Trauer und Zorn.</DefaultText>
+      <DefaultText>„Die Monster, die du auf uns herabgerufen hast.“ Ihre Augen sind wild vor Trauer und Zorn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich weiß nicht, wovon du da sprichst."</DefaultText>
+      <DefaultText>„Ich weiß nicht, wovon du da sprichst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Lügen] "Ich weiß nicht, wovon du da sprichst."</DefaultText>
+      <DefaultText>[Lügen] „Ich weiß nicht, wovon du da sprichst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Missgeburten mit Körpern aus Eisen und Fleisch! Hirnlose Maschinen der Zerstörung."</DefaultText>
+      <DefaultText>„Missgeburten mit Körpern aus Eisen und Fleisch! Hirnlose Maschinen der Zerstörung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,41 +159,41 @@ Einer ihrer Beschützer knurrt.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich kann sie besiegen."</DefaultText>
+      <DefaultText>„Ich kann sie besiegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Geht mir einfach aus dem Weg."</DefaultText>
+      <DefaultText>„Geht mir einfach aus dem Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich habe eine Waffe der Götter."</DefaultText>
+      <DefaultText>„Ich habe eine Waffe der Götter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Komisch, ich hätte gedacht, dass eine Matronin sich nicht so leicht einschüchtern lässt."</DefaultText>
+      <DefaultText>„Komisch, ich hätte gedacht, dass eine Matronin sich nicht so leicht einschüchtern lässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Lass es irgendwo in der Weißmark ertönen und drei meiner besten Krieger werden an deiner Seite erscheinen."
+      <DefaultText>„Lass es irgendwo in der Weißmark ertönen und drei meiner besten Krieger werden an deiner Seite erscheinen.“
 
-Sie verneigt sich. "Eure Schlacht wird zu der unseren."</DefaultText>
+Sie verneigt sich. „Eure Schlacht wird zu der unseren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Dich zu dieser widerwärtigen Ruine zu lassen, war ein Fehler."
+      <DefaultText>„Dich zu dieser widerwärtigen Ruine zu lassen, war ein Fehler.“
 
 Ihre Gefährten nähern sich dir langsam. Sie knirschen mit den Zähnen und greifen nach ihren Waffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich werde mich nicht vor dir rechtfertigen."</DefaultText>
+      <DefaultText>„Ich werde mich nicht vor dir rechtfertigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,17 +203,17 @@ Ihre Gefährten nähern sich dir langsam. Sie knirschen mit den Zähnen und grei
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Eure Hilfe wäre sehr willkommen."</DefaultText>
+      <DefaultText>„Eure Hilfe wäre sehr willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Dann werde ich nicht noch mehr Blut meines Clans wegen deiner Narretei vergießen. Leb wohl." Sie und ihre Eskorte stapfen davon, ohne noch einmal einen Blick zurückzuwerfen.</DefaultText>
+      <DefaultText>„Dann werde ich nicht noch mehr Blut meines Clans wegen deiner Narretei vergießen. Leb wohl.“ Sie und ihre Eskorte stapfen davon, ohne noch einmal einen Blick zurückzuwerfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wir werden bereit sein."</DefaultText>
+      <DefaultText>„Wir werden bereit sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,24 +223,24 @@ Ihre Gefährten nähern sich dir langsam. Sie knirschen mit den Zähnen und grei
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Sie grunzt. "Du hast schon genug Schaden angerichtet. Schluss damit."
+      <DefaultText>Sie grunzt. „Du hast schon genug Schaden angerichtet. Schluss damit.“
 
 Sie gibt ihren Gefährten ein Zeichen und sie greifen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Und doch hätte es uns am Leben gehalten." Ihre Augen blitzen auf.</DefaultText>
+      <DefaultText>„Und doch hätte es uns am Leben gehalten.“ Ihre Augen blitzen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Was zählt das noch, wenn diese Monster uns alle zu Staub zermahlen haben?" Ihre Augen blitzen auf.</DefaultText>
+      <DefaultText>„Was zählt das noch, wenn diese Monster uns alle zu Staub zermahlen haben?„ Ihre Augen blitzen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Du glaubst, du kannst sie besiegen?"</DefaultText>
+      <DefaultText>„Du glaubst, du kannst sie besiegen?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

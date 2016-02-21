@@ -38,9 +38,9 @@
       <ID>1915</ID>
       <DefaultText>Im Ledereinband dieses Tagebuchs ist ein Schlüssel eingeprägt. Die meisten Seiten sind voller rostroter Flecken oder Schrift, die zu klein zum Lesen ist. Gegen Ende des Tagebuchs kannst du jedoch einen Abschnitt entziffern:
 
-"... konnte nicht feststellen, wie die Vordertür sich öffnen lässt, selbst nachdem sie die eiserne Kachel aus dem Relief gehebelt hatte. Je mehr ich darüber nachdenke, desto mehr scheint mir, dass der alte Vailianer Recht hatte. Wir müssen ihn loswerden, aber wir können erst handeln, wenn wir die Weiße Esse zerstört haben. Selbst sein dürftiges Wissen war für uns eine Erleuchtung.
+„... konnte nicht feststellen, wie die Vordertür sich öffnen lässt, selbst nachdem sie die eiserne Kachel aus dem Relief gehebelt hatte. Je mehr ich darüber nachdenke, desto mehr scheint mir, dass der alte Vailianer Recht hatte. Wir müssen ihn loswerden, aber wir können erst handeln, wenn wir die Weiße Esse zerstört haben. Selbst sein dürftiges Wissen war für uns eine Erleuchtung.
 
-"Und wenn er Recht hat, müssen wir hoffen, dass das Lied, von dem er spricht, irgendwo niedergeschrieben wurde. Wir haben beschlossen, unser Lager aufzuschlagen und nach Büchern oder Unterlagen zu suchen. Alles ist besser, als nur in diesem Schneesturm herumzusitzen."</DefaultText>
+„Und wenn er Recht hat, müssen wir hoffen, dass das Lied, von dem er spricht, irgendwo niedergeschrieben wurde. Wir haben beschlossen, unser Lager aufzuschlagen und nach Büchern oder Unterlagen zu suchen. Alles ist besser, als nur in diesem Schneesturm herumzusitzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,7 +225,7 @@ Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von e
     </Entry>
     <Entry>
       <ID>2031</ID>
-      <DefaultText>"Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der 'Erbauer', wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
+      <DefaultText>„Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der 'Erbauer', wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
 
 Wir entdeckten eine Art Gießerei, wie sie weder wir noch unsere entfernten Verwandten jemals gesehen hatten. Durch sorgfältige Beobachtung schlossen wir, dass die Altvorderen diesen Ort verwendet hatten, um Seelen zu extrahieren und in Rüstungen zu übertragen. Heikle und schwierige Arbeit, doch das Ausmaß, in dem sie darin Erfolg hatten, machte uns sprachlos und demütig.
 
@@ -233,7 +233,7 @@ Am bemerkenswertesten waren vielleicht die 'Golems' - lebende Rüstungen, von Es
 
 Wir wussten, dass unsere Gastgeber uns - oder anderen neugierigen Reisenden - nie wieder gestatten würden, diesen Ort zu besuchen. So machten wir uns umfangreiche Notizen über alles, was wir sahen, und nahmen genauestens Maß. Wir verzichteten auf das Essen und das Schlafen, bis die Arbeit vollbracht war.
 
-Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weitertrieb. Denn wenn ein solcher Ort verlassen im Wald liegt ... wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?"</DefaultText>
+Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weitertrieb. Denn wenn ein solcher Ort verlassen im Wald liegt ... wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@ Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und u
     </Entry>
     <Entry>
       <ID>2033</ID>
-      <DefaultText>"Für jede Arbeit gibt es eine Vorgehensweise. Bewaffne dich mit Können und härte deine Mühen mit Geduld.
+      <DefaultText>„Für jede Arbeit gibt es eine Vorgehensweise. Bewaffne dich mit Können und härte deine Mühen mit Geduld.
 
 Schlage erst zu, wenn dein Medium bereit ist. Lasse die Arbeitsplatte nicht erkalten.
 
@@ -265,33 +265,33 @@ Vernachlässige nicht das Werk, das verborgen und ungesehen liegt - denn ein sch
 
 Der kluge Schmied arbeitet sorgfältig und härtet nur ein einziges Mal. Der schlampige Schmied weint, wenn er Makel im Stahl findet, nachdem dieser gehärtet ist.
 
-Wie eine Klinge, die in mehreren Feuern gestählt wurde, so ist die Arbeit, die zur rechten Zeit verrichtet wurde."</DefaultText>
+Wie eine Klinge, die in mehreren Feuern gestählt wurde, so ist die Arbeit, die zur rechten Zeit verrichtet wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2035</ID>
       <DefaultText>Die Ränder dieses Textes sind voll von Notizen. Die Seiten sind voller Tintenkleckse. Offenbar wurde der Text früher häufig gelesen.
 
-"Das Entfernen und Übertragen von Seelen ist eine ebenso alte wie erhabene Kunst. Es ist erwiesen, dass die Engwithaner sie besonders gut beherrschten, auch wenn die Einzelheiten mit ihnen untergegangen sind."
+„Das Entfernen und Übertragen von Seelen ist eine ebenso alte wie erhabene Kunst. Es ist erwiesen, dass die Engwithaner sie besonders gut beherrschten, auch wenn die Einzelheiten mit ihnen untergegangen sind.“
 
-Unter diesen Absatz hat jemand gekritzelt "Annalen der Pargrunen, Seite 382-386".
+Unter diesen Absatz hat jemand gekritzelt „Annalen der Pargrunen, Seite 382-386“.
 
-"Was über das Entfernen einer Seele bekannt ist, ist ein schwieriger Prozess, der eine erfahrene Hand und präzise Werkzeuge erfordert, wenn er Erfolg haben soll. Erste Versuche an insgesamt einhundertachtunddreißig Ziegen haben die meisten Versuchsobjekte mit zerstörten oder zerspalteten Seelen zurückgelassen. In elf Fällen gelang es, die Seele erfolgreich zu entfernen. In neun dieser Fälle verflüchtigte die Essenz sich, ehe die Forscher sie einfangen konnten."
+„Was über das Entfernen einer Seele bekannt ist, ist ein schwieriger Prozess, der eine erfahrene Hand und präzise Werkzeuge erfordert, wenn er Erfolg haben soll. Erste Versuche an insgesamt einhundertachtunddreißig Ziegen haben die meisten Versuchsobjekte mit zerstörten oder zerspalteten Seelen zurückgelassen. In elf Fällen gelang es, die Seele erfolgreich zu entfernen. In neun dieser Fälle verflüchtigte die Essenz sich, ehe die Forscher sie einfangen konnten.“
 
-Die Worte "in Aufbewahrungsbehälter übertragen" wurden an den Rand geschrieben und unterstrichen.
+Die Worte „in Aufbewahrungsbehälter übertragen“ wurden an den Rand geschrieben und unterstrichen.
 
-"Der Prozess erfordert leitende Materialien - insbesondere Kupfer und Adra. Ein Eintauchen in Wasser ist nötig, um sicherzustellen, dass die Seele in gleichmäßiger und einheitlicher Weise gezogen wird, ohne Verzerrungen oder Brüche. Eine verzerrte Seele ist bestenfalls nutzlos und schlimmstenfalls unvorhersehbar."
+„Der Prozess erfordert leitende Materialien - insbesondere Kupfer und Adra. Ein Eintauchen in Wasser ist nötig, um sicherzustellen, dass die Seele in gleichmäßiger und einheitlicher Weise gezogen wird, ohne Verzerrungen oder Brüche. Eine verzerrte Seele ist bestenfalls nutzlos und schlimmstenfalls unvorhersehbar.“
 
-"Ein Pfeil deutet von diesem Absatz zu einer gekritzelten Notiz: "Extraktionsbecken in C.R.: 18 Fuß breit, 3 Fuß tief."
+„Ein Pfeil deutet von diesem Absatz zu einer gekritzelten Notiz: „Extraktionsbecken in C.R.: 18 Fuß breit, 3 Fuß tief.“
 
-"Wir haben inzwischen den Prozess der Seelenübertragung gemeistert und haben gesehen, welche Vorteile es hat, Schmiedewerk mit der Essenz von Tieren und Wilden zu durchtränken. Zu erforschen ist noch, ob die Verwendung von Seelen Gestandener eine noch größere Wirkung erzeugt; wo wir die geeigneten Versuchsobjekte finden; und wie viel Persönlichkeit und Unabhängigkeit wir in diesen Fällen intakt lassen sollten."
+„Wir haben inzwischen den Prozess der Seelenübertragung gemeistert und haben gesehen, welche Vorteile es hat, Schmiedewerk mit der Essenz von Tieren und Wilden zu durchtränken. Zu erforschen ist noch, ob die Verwendung von Seelen Gestandener eine noch größere Wirkung erzeugt; wo wir die geeigneten Versuchsobjekte finden; und wie viel Persönlichkeit und Unabhängigkeit wir in diesen Fällen intakt lassen sollten.“
 
-Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit "Verbrecher, Kriegsgefangene, Freiwillige?" und endend mit "Essewächter" in Druckbuchstaben.</DefaultText>
+Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit „Verbrecher, Kriegsgefangene, Freiwillige?“ und endend mit „Essewächter“ in Druckbuchstaben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2037</ID>
-      <DefaultText>"Eine Übersicht über die Produktion dieses Monats:
+      <DefaultText>„Eine Übersicht über die Produktion dieses Monats:
 
 Zwanzig Langschwerter, fünfzehn Äxte, zwölf Hämmer, sieben Streitkolben, zwei Flegel.
 
@@ -299,11 +299,11 @@ Sieben volle Rüstungen (für Essewächter). Drei zusätzliche Rüstungen.
 
 Wenn die Kommandanten sich zu den Produktionsmengen äußern, erinnere sie bitte daran, dass wir drei verschiedene Aufträge von ihnen erhalten haben.
 
-- Vasel, Meisterschmied von Durgans Batterie"
+- Vasel, Meisterschmied von Durgans Batterie“
 
 Am Ende der Seite findet sich eine Notiz in einer anderen Handschrift:
 
-"Wozu braucht Exandru so viele Essewächter? Behalte ihn im Auge. - M"</DefaultText>
+„Wozu braucht Exandru so viele Essewächter? Behalte ihn im Auge. - M“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,17 +354,17 @@ Da er aber beim kaiserlichen Statthalter in der Gunst stand, wurde über sein Ve
 
 Eines Tages trat Waidwen auf ihn zu, als Curoc gerade eine besonders heftige Tracht Prügel austeilte. Waidwen, der gerade erst seine Begegnung mit Eothas gehabt hatte, verlangte, dass Curoc sein Opfer gehen lässt. Als der Fürst sich weigerte, fragte Waidwen, was der Pächter getan hatte, um diese Behandlung zu verdienen.
 
-"Er vernachlässigt seine Pflichten auf dem Feld", antwortete Curoc. "Jeden Tag sammelt er weniger, und doch genießt er noch meinen Schutz."
+„Er vernachlässigt seine Pflichten auf dem Feld“, antwortete Curoc. „Jeden Tag sammelt er weniger, und doch genießt er noch meinen Schutz.“
 
-"Ist es denn ein Wunder, dass der Mann nach deiner groben Behandlung nicht in der Lage ist, seine Pflicht zu erfüllen? Lass ihn eine Woche lang ausruhen. Er wird mit frischen Kräften in deinen Dienst zurückkehren", sagte Waidwen.
+„Ist es denn ein Wunder, dass der Mann nach deiner groben Behandlung nicht in der Lage ist, seine Pflicht zu erfüllen? Lass ihn eine Woche lang ausruhen. Er wird mit frischen Kräften in deinen Dienst zurückkehren“, sagte Waidwen.
 
-Curoc schnaubte verächtlich. "Du willst seinen Ungehorsam belohnen! Es ist mein Recht und meine Pflicht, ihn für seine Fehler zu bestrafen."
+Curoc schnaubte verächtlich. „Du willst seinen Ungehorsam belohnen! Es ist mein Recht und meine Pflicht, ihn für seine Fehler zu bestrafen.“
 
-"Welche Autorität hat dir diese Macht über diesen Mann verliehen?", fragte Waidwen.
+„Welche Autorität hat dir diese Macht über diesen Mann verliehen?“, fragte Waidwen.
 
-"Woedica, die Eidbinderin. Sie hat mich über den Bauern erhoben, als seinen Fürsten und Arbeitgeber, und ihrem Befehl folge ich, indem ich ihn bestrafe."
+„Woedica, die Eidbinderin. Sie hat mich über den Bauern erhoben, als seinen Fürsten und Arbeitgeber, und ihrem Befehl folge ich, indem ich ihn bestrafe.“
 
-Aber Waidwen beharrte: "Folgt nicht auf den stillen Winter der fruchtbare Frühling? Durch Eothas Gnade erleben wir die Wiedergeburt in jedem neuen Leben und die Wiederherstellung mit jedem neuen Morgen. Und es ist Eothas' Jahreszeit, die deine Felder segnet. Ich sage dir erneut: Lasse diesen Mann gehen."
+Aber Waidwen beharrte: „Folgt nicht auf den stillen Winter der fruchtbare Frühling? Durch Eothas Gnade erleben wir die Wiedergeburt in jedem neuen Leben und die Wiederherstellung mit jedem neuen Morgen. Und es ist Eothas' Jahreszeit, die deine Felder segnet. Ich sage dir erneut: Lasse diesen Mann gehen.“
 
 In seinem Zorn wandte Curoc sich gegen Waidwen, den Stock zum Schlag erhoben. Doch plötzlich wurde der Stab heiß in seiner Hand. Er schrie auf und der Stab entzündete sich. Die Flamme, die hervorschoß, raubte ihm das Augenlicht und ließ sein Gesicht so vernarbt zurück wie das der Verbrannten Königin.
 
@@ -389,7 +389,7 @@ Matapas Mutter war wendig, und Matapas Stöße und Gegenschläge waren zwar schn
     </Entry>
     <Entry>
       <ID>2053</ID>
-      <DefaultText>Nachtumhang wurde schließlich von einer jungen Wael-Priesterin zurück zu Durgans Batterie gebracht. Die Priesterin hatte von ihrem Gott eine Vision empfangen, wie der Streitkolben entstanden war. Vasel, der Schmied, der ihn gefertigt hatte, war inzwischen ein erwachsener Mann und Meisterschmied in der Batterie - aber er erkannte den Streitkolben sofort. Als er die junge Priesterin fragte, warum sie ihn zurückgebracht hatte, antwortete sie: "Alle Dinge werden gefunden, auf dass sie wieder verloren gehen können - das ist die Weisheit des Verschleierten." Und mit diesen Worten nahm sie ihren Abschied.</DefaultText>
+      <DefaultText>Nachtumhang wurde schließlich von einer jungen Wael-Priesterin zurück zu Durgans Batterie gebracht. Die Priesterin hatte von ihrem Gott eine Vision empfangen, wie der Streitkolben entstanden war. Vasel, der Schmied, der ihn gefertigt hatte, war inzwischen ein erwachsener Mann und Meisterschmied in der Batterie - aber er erkannte den Streitkolben sofort. Als er die junge Priesterin fragte, warum sie ihn zurückgebracht hatte, antwortete sie: „Alle Dinge werden gefunden, auf dass sie wieder verloren gehen können - das ist die Weisheit des Verschleierten.“ Und mit diesen Worten nahm sie ihren Abschied.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -470,24 +470,24 @@ Interessanterweise zeigt eine Seite eine Karte des Rotwalds, auf der ein gefrore
       <ID>2082</ID>
       <DefaultText>Ein neuer Vers ist erschienen, als die Klinge aus dem Podest gezogen wurde:
 
-"Finde das Wirbeln von Kupfer, Adra, Stein.
-Erwecke deine Essenz, willst reumütig du sein."</DefaultText>
+„Finde das Wirbeln von Kupfer, Adra, Stein.
+Erwecke deine Essenz, willst reumütig du sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2083</ID>
       <DefaultText>Neue Verse leuchten auf dem Metall:
 
-"Auf sonnigem Hügel da ruhen der Toten Gebeine.
-Raste neben dem faulenden Fleisch und achte auf deine Träume."</DefaultText>
+„Auf sonnigem Hügel da ruhen der Toten Gebeine.
+Raste neben dem faulenden Fleisch und achte auf deine Träume.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2084</ID>
       <DefaultText>Der letzte Teil des Gedichts erstrahlt auf der Klinge:
 
-"Finger der Welt, Adra stark und ganz und rein.
-Knie vor den Säulen, lass Ordnung in deiner Seele sein."</DefaultText>
+„Finger der Welt, Adra stark und ganz und rein.
+Knie vor den Säulen, lass Ordnung in deiner Seele sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,10 +496,10 @@ Knie vor den Säulen, lass Ordnung in deiner Seele sein."</DefaultText>
 
 In die Klinge sind einige Verse eingraviert:
 
-"Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
+„Des Verräters Schicksal ist zu schlafen ohne Ruh und Rast,
 weil doch das Wissen seiner Tat sein Herze schwer belast'.
 Echte Reue aber löst die Fesseln, löst des Grames Seil,
-gutes Handeln rettet vorm Schafott ihn und vorm Beil."</DefaultText>
+gutes Handeln rettet vorm Schafott ihn und vorm Beil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,18 +521,18 @@ gutes Handeln rettet vorm Schafott ihn und vorm Beil."</DefaultText>
       <ID>2095</ID>
       <DefaultText>Der Großteil der wenigen verbleibenden Seiten ist vom Schlamm ruiniert, aber gegen Ende des Tagebuchs kannst du noch einen Eintrag entziffern:
 
-"Folcsdag. Als ich heute morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
+„Folcsdag. Als ich heute morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
 
 Gestern bin ich an einem Dorf vorbeigekommen und habe überlegt, Halt zu machen. Ein warmes Bett und eine anständige Mahlzeit wären ein Fest gewesen, nach fast einer Woche in diesen Bergen! Aber ich wollte die Fährte meines Seelenzwillings nicht verlieren. Nicht, wo ich ihm so nah bin.
 
-Ich habe gestern von der Höhle hinter dem Wasserfall geträumt. Ich glaube, dort werde ich ihn finden. Ich weiß nicht, was es sonst bedeuten könnte. Ich sollte aber-"
+Ich habe gestern von der Höhle hinter dem Wasserfall geträumt. Ich glaube, dort werde ich ihn finden. Ich weiß nicht, was es sonst bedeuten könnte. Ich sollte aber-“
 
 Die nächste Seite fehlt und der Rest der Seiten ist unleserlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2096</ID>
-      <DefaultText>"Pelden,
+      <DefaultText>„Pelden,
 
 du bist der talentierteste meiner Lehrlinge. Aber dein Verständnis ist lediglich eine Seite aus den Büchern des Wissens, das ich erlangt habe.
 
@@ -542,7 +542,7 @@ Ich kann fast sehen, wie deine Hände zittern und dein Gesicht errötet, als du 
 
 Und während ich gearbeitet habe, haben meine Kameraden Pläne gegen mich geschmiedet.
 
-Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich zusammenrotten, wenn du ihnen einen Grund dazu gibst. Verberge dein Können durch Fehler. Verstecke deine Boshaftigkeit hinter einem Lächeln. Opfere deine Eitelkeit einige wertvolle Jahre lang, auf dass du lang genug überlebst, um dir den Titel 'Zauberer' zu verdienen."</DefaultText>
+Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich zusammenrotten, wenn du ihnen einen Grund dazu gibst. Verberge dein Können durch Fehler. Verstecke deine Boshaftigkeit hinter einem Lächeln. Opfere deine Eitelkeit einige wertvolle Jahre lang, auf dass du lang genug überlebst, um dir den Titel 'Zauberer' zu verdienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -617,7 +617,7 @@ Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich
     </Entry>
     <Entry>
       <ID>2224</ID>
-      <DefaultText>Auf einem kleinen Etikette auf der Seite steht: "Eigentum von A. Thorel. Nur zur Verwendung auf verrosteten Materialien."</DefaultText>
+      <DefaultText>Auf einem kleinen Etikette auf der Seite steht: „Eigentum von A. Thorel. Nur zur Verwendung auf verrosteten Materialien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -678,21 +678,21 @@ Salz ist in langen Fäden an dem Aspergill verkrustet, die sich um den Schaft wi
       <ID>2235</ID>
       <DefaultText>Dieses Buch scheint mehreren Zwecken zu dienen. Es enthält Notizen zu Ritualen und Routinen in der Abtei. Es finden sich Passagen aus ondritischen Texten mit persönlichen Anmerkungen. Außerdem enthält es Beschreibungen von Träumen. Viele scheinen rein symbolisch, aber ein Eintrag ist interessant:
 
-"Es ist lange her, dass ich von dem Anstieg geträumt habe. Doch nun, wo uns bald ein weiterer Anstieg bevorsteht, ist es schon das fünfte Mal diese Woche. Vielleicht kann ich sie zur Ruhe betten, wenn ich sie hierher kanalisiere.
+„Es ist lange her, dass ich von dem Anstieg geträumt habe. Doch nun, wo uns bald ein weiterer Anstieg bevorsteht, ist es schon das fünfte Mal diese Woche. Vielleicht kann ich sie zur Ruhe betten, wenn ich sie hierher kanalisiere.
 
-"Ich schreite durch die Halle des Schweigens. Ich spüre von allen Seiten Blicke. Zornige, rachsüchtige Blicke.
+„Ich schreite durch die Halle des Schweigens. Ich spüre von allen Seiten Blicke. Zornige, rachsüchtige Blicke.
 
-"Ich ordne die Tafeln an und krümme meine Hände zum Zeichen der Gezeit, die rechte als die Welle, die linke beschreibt mit den zwei äußeren Fingern den Halbmond. Der Weg öffnet sich mir.
+„Ich ordne die Tafeln an und krümme meine Hände zum Zeichen der Gezeit, die rechte als die Welle, die linke beschreibt mit den zwei äußeren Fingern den Halbmond. Der Weg öffnet sich mir.
 
-"Ich steige die Stufen hinauf und Ondras Zeuge ist hier angebracht, das alte Aspergill, um die Ventile zu steuern. Ich verwende ihn wie einen Hebel und das Wasser steigt an. Ich höre zornige Schreie. Als ich meine Ohren bedecke, werden sie nur noch lauter.
+„Ich steige die Stufen hinauf und Ondras Zeuge ist hier angebracht, das alte Aspergill, um die Ventile zu steuern. Ich verwende ihn wie einen Hebel und das Wasser steigt an. Ich höre zornige Schreie. Als ich meine Ohren bedecke, werden sie nur noch lauter.
 
-"Aber das Wasser steigt weiter, viel weiter, als es sollte. Ich steige so hoch hinauf, wie ich kann, aber ich spüre es an meinen Füßen, eiskalt. Dann steht es über meinem Kopf und ich kann nicht atmen.
+„Aber das Wasser steigt weiter, viel weiter, als es sollte. Ich steige so hoch hinauf, wie ich kann, aber ich spüre es an meinen Füßen, eiskalt. Dann steht es über meinem Kopf und ich kann nicht atmen.
 
-"Plötzlich stehe ich vor dem Reliquiar und blicke auf den Schleier der Tränen. Ich habe den Zeugen in der Hand und der Schleier teilt sich. Ich schreite hindurch, in den einzigen Ort in der Abtei, an dem ich mich sicher fühle. Nur trete ich in völlige Dunkelheit.
+„Plötzlich stehe ich vor dem Reliquiar und blicke auf den Schleier der Tränen. Ich habe den Zeugen in der Hand und der Schleier teilt sich. Ich schreite hindurch, in den einzigen Ort in der Abtei, an dem ich mich sicher fühle. Nur trete ich in völlige Dunkelheit.
 
-"Ich rufe um Hilfe. Ich schreie und brülle um Hilfe. Niemand antwortet. Ich verstumme.
+„Ich rufe um Hilfe. Ich schreie und brülle um Hilfe. Niemand antwortet. Ich verstumme.
 
-"Ich sitze in der Dunkelheit und warte eine Ewigkeit. Dann merke ich: Ich weiß nicht, wer ich bin."</DefaultText>
+„Ich sitze in der Dunkelheit und warte eine Ewigkeit. Dann merke ich: Ich weiß nicht, wer ich bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -714,9 +714,9 @@ Salz ist in langen Fäden an dem Aspergill verkrustet, die sich um den Schaft wi
       <ID>2239</ID>
       <DefaultText>Diese Seite scheint aus einem längeren Text zu stammen.
 
-"Wir haben nun eine Methode entwickelt, um zu verhindern, dass unsere wertvollen Kanonen im Freien rosten. Trankmeister Andren hat eine Lösung geschaffen, die das Metall versiegelt und vor der kalten Luft schützt. Wir haben die alte Waffenkammer zu einer 'Patinationskammer' umgewandelt, in der wir die Lösung zu einem Gas erhitzen können. Während das Gas sich in der Kammer ausbreitet, belegt es die Kanonen mit einem festen Überzug. Nach einigen Wochen sind die Kanonen bereit, den Elementen zu trotzen.
+„Wir haben nun eine Methode entwickelt, um zu verhindern, dass unsere wertvollen Kanonen im Freien rosten. Trankmeister Andren hat eine Lösung geschaffen, die das Metall versiegelt und vor der kalten Luft schützt. Wir haben die alte Waffenkammer zu einer 'Patinationskammer' umgewandelt, in der wir die Lösung zu einem Gas erhitzen können. Während das Gas sich in der Kammer ausbreitet, belegt es die Kanonen mit einem festen Überzug. Nach einigen Wochen sind die Kanonen bereit, den Elementen zu trotzen.
 
-Wir müssen jedoch vorsichtig mit der Lösung sein. Eine von Andrens Gehilfinnen hat sich den Rachen verbrannt, nur weil sie ein wenig davon eingeatmet hat."
+Wir müssen jedoch vorsichtig mit der Lösung sein. Eine von Andrens Gehilfinnen hat sich den Rachen verbrannt, nur weil sie ein wenig davon eingeatmet hat.“
 
 Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
       <FemaleText />
@@ -898,14 +898,14 @@ Engar schwor, so etwas würde ihm nie wieder passieren. Aus seinem eigenen Silbe
       <ID>2306</ID>
       <DefaultText>Auf Geheiß von Escimo IV, Duc von Ancenze, wurden ein Dutzend einzigartige Mordäxte für seine königliche Leibgarde gefertigt. Jede von ihnen sollte einem der zentralen Elemente des maritimen Lebens Tribut zollen. Zusätzliche Mordäxte wurden gefertigt, um den Regen, die Sterne, die Sonne, die Wellen und andere Symbole zu ehren.
 
-Der Arm des Windes war das Lieblingsstück von Escimo IV, der sich in seinen Jahren in der Marine von Ancenze den Beinamen "Casità mel Alisias" verdient hatte ... Kapitän des Windes. Ganz egal, wohin Escimo auch segeln wollte, so hieß es ... die Winde wehten immer in die richtige Richtung. Er gab den Arm des Windes seinem fähigsten Leibwächter, der die Waffe mehr als einmal einsetzte, um übereifrige Vailianer daran zu hindern, dem Thron zu nahe zu kommen.
+Der Arm des Windes war das Lieblingsstück von Escimo IV, der sich in seinen Jahren in der Marine von Ancenze den Beinamen „Casità mel Alisias“ verdient hatte ... Kapitän des Windes. Ganz egal, wohin Escimo auch segeln wollte, so hieß es ... die Winde wehten immer in die richtige Richtung. Er gab den Arm des Windes seinem fähigsten Leibwächter, der die Waffe mehr als einmal einsetzte, um übereifrige Vailianer daran zu hindern, dem Thron zu nahe zu kommen.
 
 Die Mordaxt ist nach dem Vorbild des Windes selbst gefertigt. In den Axtkopf ist ein Gesicht eingraviert, das den Wind nach außen pustet, an den Kurven der Klinge entlang. Die Maserung des Holzes ist nicht vertikal, sondern windet sich um den aschgrauen Stab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2308</ID>
-      <DefaultText>Gyrd Háewanes Sténes, das "Blausteinzepter" ist bemerkenswert, da es aus einem einzigen Saphir geformt wurde. Das einzige andere Teil ist der Griff, der aus Silberbändern gefertigt ist.</DefaultText>
+      <DefaultText>Gyrd Háewanes Sténes, das „Blausteinzepter“ ist bemerkenswert, da es aus einem einzigen Saphir geformt wurde. Das einzige andere Teil ist der Griff, der aus Silberbändern gefertigt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1009,7 +1009,7 @@ Schließlich begriff der Hauptmann. Er gestattete dem Marceso, ihn noch einmal z
     </Entry>
     <Entry>
       <ID>2370</ID>
-      <DefaultText>Unter einer dicken Rostschicht ist auf der Seite des Schlüssels die kleine Inschrift "Kanonen" zu lesen.</DefaultText>
+      <DefaultText>Unter einer dicken Rostschicht ist auf der Seite des Schlüssels die kleine Inschrift „Kanonen“ zu lesen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1074,11 +1074,11 @@ Schließlich begriff der Hauptmann. Er gestattete dem Marceso, ihn noch einmal z
     </Entry>
     <Entry>
       <ID>2383</ID>
-      <DefaultText>"Vedren –
+      <DefaultText>„Vedren –
 
 ich danke dir, dass du mich zu unterstützen suchst, aber als ich um Freiwillige bat, meinte ich genau das. Ich habe kein Interesse daran, Leichen zum Leben zu erwecken, und deine bemitleidenswerten Opfer sind für mich nicht von Nutzen. Ich habe Vorkehrungen getroffen, um zu verhindern, dass wir uns plötzlich knietief in Ghuls wiederfinden. Während du den Müllhaufen aufräumst, zu dem du meinen rituellen Kreis gemacht hast, kannst du dir vielleicht die Zeit nehmen, dich wieder mit dem einfachen Grundgedanken vertraut zu machen, dass ein toter Mann eine schlechte Quelle von Seelenessenz abgibt.
 
-– Badrwn"</DefaultText>
+– Badrwn“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1088,16 +1088,16 @@ ich danke dir, dass du mich zu unterstützen suchst, aber als ich um Freiwillige
     </Entry>
     <Entry>
       <ID>2385</ID>
-      <DefaultText>Dieses Dokument beschreibt den Kauf einer Handvoll von Konstrukten für den Einsatz in Schwefelminen durch jemanden namens Cillan. Der Verkäufer scheint ein gewisser "Galvino" gewesen zu sein.</DefaultText>
+      <DefaultText>Dieses Dokument beschreibt den Kauf einer Handvoll von Konstrukten für den Einsatz in Schwefelminen durch jemanden namens Cillan. Der Verkäufer scheint ein gewisser „Galvino“ gewesen zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2386</ID>
-      <DefaultText>"Cillan –
+      <DefaultText>„Cillan –
 
 ich habe diese Dinger im Haus des alten Galvino gefunden. Sie sind nicht sonderlich hübsch anzusehen, aber sie scheinen recht ordentlich Befehle befolgen zu können. Ich dachte mir, sie würden dir gefallen. Und Galvino wird sie wohl kaum vermissen, nicht wahr?
 
-– M"</DefaultText>
+– M“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1129,11 +1129,11 @@ ich habe diese Dinger im Haus des alten Galvino gefunden. Sie sind nicht sonderl
       <ID>2398</ID>
       <DefaultText>Diese Notiz ist in einer eleganten Handschrift verfasst:
 
-"Der Hebel für den Artillerieaufzug ist schon wieder gebrochen. Ich habe meinen Männern gesagt, sie sollen bei der Verwendung des Aufzugs möglichst vorsichtig sein, aber es ist nicht leicht, auf diesem Ding das Gleichgewicht zu halten. Ein starkes Ruckeln hat kürzlich eine Handvoll Männer fast von der Plattform geworfen. Es ist mir lieber, sie brechen einen Hebel ab, um das Gleichgewicht zu halten, als sie fallen herunter. Leider war es diesmal ein glatter Bruch. Wir brauchen den neuen Hebel so schnell wie möglich."
+„Der Hebel für den Artillerieaufzug ist schon wieder gebrochen. Ich habe meinen Männern gesagt, sie sollen bei der Verwendung des Aufzugs möglichst vorsichtig sein, aber es ist nicht leicht, auf diesem Ding das Gleichgewicht zu halten. Ein starkes Ruckeln hat kürzlich eine Handvoll Männer fast von der Plattform geworfen. Es ist mir lieber, sie brechen einen Hebel ab, um das Gleichgewicht zu halten, als sie fallen herunter. Leider war es diesmal ein glatter Bruch. Wir brauchen den neuen Hebel so schnell wie möglich.“
 
 Am unteren Rand wurde in dicker Tinte eine zusätzliche Notiz hingekritzelt:
 
-"Wenn deine Männer aufhören würden, immer so viel Munition gleichzeitig zu befördern, gäbe es dieses Problem nicht. Das ist der letzte Hebel, den ihr von mir bekommt. Nächstes Mal bekommt ihr einfach einen Ansetzer."</DefaultText>
+„Wenn deine Männer aufhören würden, immer so viel Munition gleichzeitig zu befördern, gäbe es dieses Problem nicht. Das ist der letzte Hebel, den ihr von mir bekommt. Nächstes Mal bekommt ihr einfach einen Ansetzer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1143,9 +1143,9 @@ Am unteren Rand wurde in dicker Tinte eine zusätzliche Notiz hingekritzelt:
     </Entry>
     <Entry>
       <ID>2400</ID>
-      <DefaultText>"Wer hätte gedacht, dass eine so widerliche Kreatur wie ein Pudding der Leiden so nützlich sein könnte? Ihre Fähigkeit, nicht nur Metalle am Rosten zu hindern, sondern Rost sogar vollständig zu entfernen, ist erstaunlich. Welche Mechanismen wir ersinnen können, wenn wir uns nicht mehr darum sorgen müssen, Stahl den Elementen auszusetzen!
+      <DefaultText>„Wer hätte gedacht, dass eine so widerliche Kreatur wie ein Pudding der Leiden so nützlich sein könnte? Ihre Fähigkeit, nicht nur Metalle am Rosten zu hindern, sondern Rost sogar vollständig zu entfernen, ist erstaunlich. Welche Mechanismen wir ersinnen können, wenn wir uns nicht mehr darum sorgen müssen, Stahl den Elementen auszusetzen!
 
-Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist schon harte Arbeit. Sie gefangen zu halten ist nahezu unmöglich. Ich hatte Glück, überhaupt die wenigen zu bekommen, die ich habe."</DefaultText>
+Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist schon harte Arbeit. Sie gefangen zu halten ist nahezu unmöglich. Ich hatte Glück, überhaupt die wenigen zu bekommen, die ich habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1282,7 +1282,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2450</ID>
-      <DefaultText>Ein Armband aus Zinn und Kupfer, das in Readceras äußerst beliebt ist. In Reichweite der Hand sind daran drei kleine Glücksbringer befestigt. Diese tragen auf einer Seite einen Stern, auf der anderen die Worte "Hoffnung", "Glaube" und "Wachsamkeit". Die Priester von Eothas ermutigen Readceraner, zu Eothas zu beten, während sie die Glücksbringer zwischen ihren Fingern halten.</DefaultText>
+      <DefaultText>Ein Armband aus Zinn und Kupfer, das in Readceras äußerst beliebt ist. In Reichweite der Hand sind daran drei kleine Glücksbringer befestigt. Diese tragen auf einer Seite einen Stern, auf der anderen die Worte „Hoffnung“, „Glaube“ und „Wachsamkeit“. Die Priester von Eothas ermutigen Readceraner, zu Eothas zu beten, während sie die Glücksbringer zwischen ihren Fingern halten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1377,12 +1377,12 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2477</ID>
-      <DefaultText>Diese grauenhafte Halskette besteht aus den Zähnen eines toten Orlaners – dem unglückseligen Vater eines wahnsinnigen Mediums. Seine Tochter nutzte ihre Kräfte, um Reisende in der Nähe der glanfathanischen Ruinen von Ibrels Brunnen zu terrorisieren. Die "Töchter" des Mediums (gedankenkontrollierte Pwgra) fertigten die Kette als Geschenk für sie an.</DefaultText>
+      <DefaultText>Diese grauenhafte Halskette besteht aus den Zähnen eines toten Orlaners – dem unglückseligen Vater eines wahnsinnigen Mediums. Seine Tochter nutzte ihre Kräfte, um Reisende in der Nähe der glanfathanischen Ruinen von Ibrels Brunnen zu terrorisieren. Die „Töchter“ des Mediums (gedankenkontrollierte Pwgra) fertigten die Kette als Geschenk für sie an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2478</ID>
-      <DefaultText>Dieses grausame Instrument wurde von einem Bewohner von Helstor gefertigt, der glaubte, eine Lösung für das Problem der Hohlgeburten gefunden zu haben. Er wollte mit dem Seil eine Jungfrau fesseln und sie bei lebendigem Leibe vergraben ... um später ihre Leiche auszugraben und ihre Haare als "Heilmittel" zu verwenden. Trotz seines schändlichen Zwecks besitzt das Seil nützliche Kräfte.</DefaultText>
+      <DefaultText>Dieses grausame Instrument wurde von einem Bewohner von Helstor gefertigt, der glaubte, eine Lösung für das Problem der Hohlgeburten gefunden zu haben. Er wollte mit dem Seil eine Jungfrau fesseln und sie bei lebendigem Leibe vergraben ... um später ihre Leiche auszugraben und ihre Haare als „Heilmittel“ zu verwenden. Trotz seines schändlichen Zwecks besitzt das Seil nützliche Kräfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

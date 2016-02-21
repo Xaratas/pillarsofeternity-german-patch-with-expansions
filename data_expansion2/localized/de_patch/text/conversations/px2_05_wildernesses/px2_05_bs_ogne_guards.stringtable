@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Haltet lieber die Augen offen."</DefaultText>
+      <DefaultText>„Haltet lieber die Augen offen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wir sollten einen Spaten holen ..."</DefaultText>
+      <DefaultText>„Wir sollten einen Spaten holen ...“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

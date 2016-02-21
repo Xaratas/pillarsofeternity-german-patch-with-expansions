@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Terenat sagt, du hast uns geholfen. Wir sind dir dankbar."</DefaultText>
+      <DefaultText>„Terenat sagt, du hast uns geholfen. Wir sind dir dankbar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Es ist so viel geschehen ..."</DefaultText>
+      <DefaultText>„Es ist so viel geschehen ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Die Stimmen ... sie sind endlich fort."</DefaultText>
+      <DefaultText>„Die Stimmen ... sie sind endlich fort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich höre nur noch meine Verwandten. Es tut gut, frei zu sein."</DefaultText>
+      <DefaultText>„Ich höre nur noch meine Verwandten. Es tut gut, frei zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wir haben so viele verloren ..."</DefaultText>
+      <DefaultText>„Wir haben so viele verloren ...“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

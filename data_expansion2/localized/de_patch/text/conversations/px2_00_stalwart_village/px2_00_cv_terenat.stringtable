@@ -13,144 +13,144 @@ Seine Sprache bildet sich mit einem gleichmäßigen, tiefen Ton in deinen Gedank
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Warum bist du gekommen, [Player Race]-Brut? Du schlüpfst von Schatten zu Schatten. Was führst du im Schilde?"</DefaultText>
+      <DefaultText>„Warum bist du gekommen, [Player Race]-Brut? Du schlüpfst von Schatten zu Schatten. Was führst du im Schilde?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Warum bist du gekommen, [Player Race]-Brut? Um unser Volk niederzumetzeln?"</DefaultText>
+      <DefaultText>„Warum bist du gekommen, [Player Race]-Brut? Um unser Volk niederzumetzeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wie kann es sein, dass du so deutliches Aedyranisch sprichst?"</DefaultText>
+      <DefaultText>„Wie kann es sein, dass du so deutliches Aedyranisch sprichst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Unser Volk ist zu vielem fähig. Manche haben nur wenig Interesse daran, eure Sprache zu erlernen."</DefaultText>
+      <DefaultText>„Unser Volk ist zu vielem fähig. Manche haben nur wenig Interesse daran, eure Sprache zu erlernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Einige der Bergarbeiter aus Stalwart stehen unter dem Einfluss eurer Kolonie."</DefaultText>
+      <DefaultText>„Einige der Bergarbeiter aus Stalwart stehen unter dem Einfluss eurer Kolonie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Das geht dich nichts an."</DefaultText>
+      <DefaultText>„Das geht dich nichts an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Vielleicht haben wir einen gemeinsamen Feind, [Player Race]. Du willst diesen Gestandenen helfen, ich will meine Kolonie retten."</DefaultText>
+      <DefaultText>„Vielleicht haben wir einen gemeinsamen Feind, [Player Race]. Du willst diesen Gestandenen helfen, ich will meine Kolonie retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Nridek hat deinen Namen gesprochen, [Player Race], und von eurer Begegnung bei Lle a Rhemen berichtet."</DefaultText>
+      <DefaultText>„Nridek hat deinen Namen gesprochen, [Player Race], und von eurer Begegnung bei Lle a Rhemen berichtet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Du hast bis hierhin überlebt, Abenteurer. Vielleicht kannst du helfen. Ich würde dich nicht bitten, wenn ich eine andere Wahl hätte."</DefaultText>
-      <FemaleText>"Du hast bis hierhin überlebt, Abenteurerin. Vielleicht kannst du helfen. Ich würde dich nicht bitten, wenn ich eine andere Wahl hätte."</FemaleText>
+      <DefaultText>„Du hast bis hierhin überlebt, Abenteurer. Vielleicht kannst du helfen. Ich würde dich nicht bitten, wenn ich eine andere Wahl hätte.“</DefaultText>
+      <FemaleText>„Du hast bis hierhin überlebt, Abenteurerin. Vielleicht kannst du helfen. Ich würde dich nicht bitten, wenn ich eine andere Wahl hätte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Dein Name ist unserem Volk unbekannt. Ich biete dir eine Chance, dich als Freund oder Feind zu erweisen."</DefaultText>
+      <DefaultText>„Dein Name ist unserem Volk unbekannt. Ich biete dir eine Chance, dich als Freund oder Feind zu erweisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wir haben von deiner Begegnung mit Tcharek gehört, tief unter Caed Nua. Es heißt, Sstrvek'narith kennt das Geheimnis des Adra, mit dem man die Mauern stärken kann."</DefaultText>
+      <DefaultText>„Wir haben von deiner Begegnung mit Tcharek gehört, tief unter Caed Nua. Es heißt, Sstrvek'narith kennt das Geheimnis des Adra, mit dem man die Mauern stärken kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Was ist ein Strahlenpilz?"</DefaultText>
+      <DefaultText>„Was ist ein Strahlenpilz?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Weggehen] "Ich will mit Vithracks nichts zu tun haben."</DefaultText>
+      <DefaultText>[Weggehen] „Ich will mit Vithracks nichts zu tun haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wie kann ich helfen?"</DefaultText>
+      <DefaultText>„Wie kann ich helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Nun, dann haben wir einander nichts mehr zu sagen."
+      <DefaultText>„Nun, dann haben wir einander nichts mehr zu sagen.“
 
 Der Vithrack grunzt rasselnd und verstummt dann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wir haben von deinen Geschäften mit Tanoss gehört, dem Lehrling des Zauberers Concelhaut. Er hat unsere Kolonie im Stich gelassen, unseren Schutz vernachlässigt."</DefaultText>
+      <DefaultText>„Wir haben von deinen Geschäften mit Tanoss gehört, dem Lehrling des Zauberers Concelhaut. Er hat unsere Kolonie im Stich gelassen, unseren Schutz vernachlässigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Eine Infektion hat unser Volk dahingerafft. Es begann, als die Späher eine seltsame Pflanze fanden. Einen ... Strahlenpilz."</DefaultText>
+      <DefaultText>„Eine Infektion hat unser Volk dahingerafft. Es begann, als die Späher eine seltsame Pflanze fanden. Einen ... Strahlenpilz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sie haben ihn in unser Territorium gebracht, weil sie die Gefahr nicht erkannten. Nach wenigen Tagen schon hatten viele von uns die Sporen eingeatmet."</DefaultText>
+      <DefaultText>„Sie haben ihn in unser Territorium gebracht, weil sie die Gefahr nicht erkannten. Nach wenigen Tagen schon hatten viele von uns die Sporen eingeatmet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich habe ihn im Gemeinschaftshaus im Zentrum unseres Territoriums versiegelt. Ich konnte nicht zulassen, dass unser Volk den Pilz zur Kolonie in Moltuls'qu'mirr bringt."</DefaultText>
+      <DefaultText>„Ich habe ihn im Gemeinschaftshaus im Zentrum unseres Territoriums versiegelt. Ich konnte nicht zulassen, dass unser Volk den Pilz zur Kolonie in Moltuls'qu'mirr bringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Vielleicht hatte mein Volk Unrecht, was dich angeht. Lass mich allein, [Player Race]-Brut."</DefaultText>
+      <DefaultText>„Vielleicht hatte mein Volk Unrecht, was dich angeht. Lass mich allein, [Player Race]-Brut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Die Sporen verstärkten unsere Fähigkeiten. Viele glaubten, wir würden vielleicht alle mächtiger werden. Was als Studie begann, wurde zur Sucht. Es reichte, dass einer dem Zwang zum Opfer fiel."</DefaultText>
+      <DefaultText>„Die Sporen verstärkten unsere Fähigkeiten. Viele glaubten, wir würden vielleicht alle mächtiger werden. Was als Studie begann, wurde zur Sucht. Es reichte, dass einer dem Zwang zum Opfer fiel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wo hast du den Kristall versteckt?"</DefaultText>
+      <DefaultText>„Wo hast du den Kristall versteckt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Was ist mit den anderen Vithrack passiert?"</DefaultText>
+      <DefaultText>„Was ist mit den anderen Vithrack passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Warum hat euer Volk die Sporen inhaliert?"</DefaultText>
+      <DefaultText>„Warum hat euer Volk die Sporen inhaliert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wo ist der Strahlenpilz jetzt?"</DefaultText>
+      <DefaultText>„Wo ist der Strahlenpilz jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wer die Sporen inhaliert hatte, der begann, seine Worte zu hören. Dann seine Befehle. Zunächst wehrten wir uns. Versuchten, ihn zu kontrollieren. Scheiterten."</DefaultText>
+      <DefaultText>„Wer die Sporen inhaliert hatte, der begann, seine Worte zu hören. Dann seine Befehle. Zunächst wehrten wir uns. Versuchten, ihn zu kontrollieren. Scheiterten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Die Tür zu dieser Kammer ist durch eine Glyphe versiegelt. Es gibt einen Kristall, der in einem bestimmten Ton resoniert, wenn man ihn vor die Glyphe hält ... dadurch öffnen sich die Türen."</DefaultText>
+      <DefaultText>„Die Tür zu dieser Kammer ist durch eine Glyphe versiegelt. Es gibt einen Kristall, der in einem bestimmten Ton resoniert, wenn man ihn vor die Glyphe hält ... dadurch öffnen sich die Türen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ich habe ihn in den Nestern im Süden versteckt. Die ... Säulen aus Netz. An der Stelle, die am weitesten von der Tür entfernt ist."</DefaultText>
+      <DefaultText>„Ich habe ihn in den Nestern im Süden versteckt. Die ... Säulen aus Netz. An der Stelle, die am weitesten von der Tür entfernt ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,88 +160,88 @@ Der Vithrack grunzt rasselnd und verstummt dann.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Hsst."</DefaultText>
+      <DefaultText>„Hsst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich erkunde nur die Gegend."</DefaultText>
+      <DefaultText>„Ich erkunde nur die Gegend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich habe dich gerade gerettet. Das Mindeste, was du tun kannst, ist meine Fragen zu beantworten."</DefaultText>
+      <DefaultText>„Ich habe dich gerade gerettet. Das Mindeste, was du tun kannst, ist meine Fragen zu beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Was möchtest du wissen?"</DefaultText>
+      <DefaultText>„Was möchtest du wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wie du meinst."
+      <DefaultText>„Wie du meinst.“
 
 Seine Kiefer zucken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Warum haben die anderen Vithrack dich eingesperrt?"</DefaultText>
+      <DefaultText>„Warum haben die anderen Vithrack dich eingesperrt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Du bist zurück."
+      <DefaultText>„Du bist zurück.“
 
 Du spürst den Ärger des Vithracks als wäre es dein eigener. Er strahlt Frust aus wie eine greifbare Aura.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich ... habe etwas Wichtiges versteckt. Den Resonanzkristall."</DefaultText>
+      <DefaultText>„Ich ... habe etwas Wichtiges versteckt. Den Resonanzkristall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Bitte, beeil dich. Je länger der Pilz seine Macht über uns ausübt, desto mehr leidet mein Volk."</DefaultText>
+      <DefaultText>„Bitte, beeil dich. Je länger der Pilz seine Macht über uns ausübt, desto mehr leidet mein Volk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Es gibt einen Kristall – groß, wunderschön, verzaubert. Er gewährt uns Zugang zum Gemeinschaftshaus."</DefaultText>
+      <DefaultText>„Es gibt einen Kristall – groß, wunderschön, verzaubert. Er gewährt uns Zugang zum Gemeinschaftshaus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Er ist in kurzer Zeit zu einer gewaltigen Größe herangewachsen. Ein Hauptstrunk, Ranken wie Säulen. Er hat unsere eigenen Gaben gegen uns eingesetzt. Er verwendet die Verbindung zwischen unserem Volk, um seine eigenen Worte und Gedanken zu verbreiten."</DefaultText>
+      <DefaultText>„Er ist in kurzer Zeit zu einer gewaltigen Größe herangewachsen. Ein Hauptstrunk, Ranken wie Säulen. Er hat unsere eigenen Gaben gegen uns eingesetzt. Er verwendet die Verbindung zwischen unserem Volk, um seine eigenen Worte und Gedanken zu verbreiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Du willst meine Hilfe? Dann sag mir, was vor sich geht."</DefaultText>
+      <DefaultText>„Du willst meine Hilfe? Dann sag mir, was vor sich geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Du bist zurück."
+      <DefaultText>„Du bist zurück.“
 
 Du spürst den Ärger des Vithracks als wäre es dein eigener. Er strahlt Frust aus wie eine greifbare Aura.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Es ist großzügig von dir, mich anzuhören. Du musst einige meiner armen Brüder gesehen haben. Die Infizierten."</DefaultText>
+      <DefaultText>„Es ist großzügig von dir, mich anzuhören. Du musst einige meiner armen Brüder gesehen haben. Die Infizierten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Unser Verstand ist zurück und Moltuls'qu'mirr ist sicher. Du hast etwas Großes vollbracht, [Player Race]."</DefaultText>
+      <DefaultText>„Unser Verstand ist zurück und Moltuls'qu'mirr ist sicher. Du hast etwas Großes vollbracht, [Player Race].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Mein Volk ist verloren, aber der Pilz ist tot. Zumindest meine Kolonie ist sicher."</DefaultText>
+      <DefaultText>„Mein Volk ist verloren, aber der Pilz ist tot. Zumindest meine Kolonie ist sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,91 +251,91 @@ Du spürst den Ärger des Vithracks als wäre es dein eigener. Er strahlt Frust 
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Er lebte neben einem Nest von Spinnen. Sie nährten sich gegenseitig. Ein Wunder der Natur. Etwas, was wir uns zunutze machen könnten."</DefaultText>
+      <DefaultText>„Er lebte neben einem Nest von Spinnen. Sie nährten sich gegenseitig. Ein Wunder der Natur. Etwas, was wir uns zunutze machen könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich danke dir, [Player Race]."</DefaultText>
+      <DefaultText>„Ich danke dir, [Player Race].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich werde meinem Volk sagen, dass es in deiner Schuld steht."</DefaultText>
+      <DefaultText>„Ich werde meinem Volk sagen, dass es in deiner Schuld steht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Die Abwesenheit hat ihn verdorben. Es war gut, dass du sein Leben beendet hast."</DefaultText>
+      <DefaultText>„Die Abwesenheit hat ihn verdorben. Es war gut, dass du sein Leben beendet hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Er wollte die Seuche beenden, die unsere Jungen dahinraffte. Der Seelenstein aus dem Grab der Erbauer könnte der Schlüssel sein."</DefaultText>
+      <DefaultText>„Er wollte die Seuche beenden, die unsere Jungen dahinraffte. Der Seelenstein aus dem Grab der Erbauer könnte der Schlüssel sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ich hatte gehofft, dass mein Volk wieder gesunden würde, wenn es nicht dorthin zurückkehren kann. Aber es trieb sie nur in die Verzweiflung."</DefaultText>
+      <DefaultText>„Ich hatte gehofft, dass mein Volk wieder gesunden würde, wenn es nicht dorthin zurückkehren kann. Aber es trieb sie nur in die Verzweiflung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Weißt du, was mit den Bergarbeitern geschieht?"</DefaultText>
+      <DefaultText>„Weißt du, was mit den Bergarbeitern geschieht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über ... schwächere Geister verstärkt."</DefaultText>
+      <DefaultText>„Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über ... schwächere Geister verstärkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein ... sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten."</DefaultText>
+      <DefaultText>„Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein ... sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Es ist ... Irrsinn."
+      <DefaultText>„Es ist ... Irrsinn.“
 
 Du spürst eine Welle der Reue von dem Vithrack ausgehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Die Tür, [Player Race]! Befreie mich."</DefaultText>
+      <DefaultText>„Die Tür, [Player Race]! Befreie mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Wir nannten es das Geschöpf, denn es hatte ein Licht an sich ... ich habe ähnliche Tiere in den Höhlen gesehen, aber noch nie eines wie dieses."</DefaultText>
+      <DefaultText>„Wir nannten es das Geschöpf, denn es hatte ein Licht an sich ... ich habe ähnliche Tiere in den Höhlen gesehen, aber noch nie eines wie dieses.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Warum bist du nicht infiziert?"</DefaultText>
+      <DefaultText>„Warum bist du nicht infiziert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Ich war ... vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren."</DefaultText>
+      <DefaultText>„Ich war ... vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich habe mich versteckt. Bis ich den Kristall holen konnte."
+      <DefaultText>„Ich habe mich versteckt. Bis ich den Kristall holen konnte.“
 
 Du spürst einen schwachen Puls der Scham unter diesem Eingeständnis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ist das der Kristall, den du erwähnt hast?"</DefaultText>
+      <DefaultText>„Ist das der Kristall, den du erwähnt hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ja! Das ist er. Damit kannst du in das Gemeinschaftshaus gehen und den Strahlenpilz vernichten."</DefaultText>
+      <DefaultText>„Ja! Das ist er. Damit kannst du in das Gemeinschaftshaus gehen und den Strahlenpilz vernichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,154 +347,154 @@ Seine Sprache bildet sich mit einem gleichmäßigen, tiefen Ton in deinen Gedank
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Du bist es also, [Player Race]-Brut, der den Strahlenpilz vernichtet hat?"</DefaultText>
-      <FemaleText>"Du bist es also, [Player Race]-Brut, die den Strahlenpilz vernichtet hat?"</FemaleText>
+      <DefaultText>„Du bist es also, [Player Race]-Brut, der den Strahlenpilz vernichtet hat?“</DefaultText>
+      <FemaleText>„Du bist es also, [Player Race]-Brut, die den Strahlenpilz vernichtet hat?“</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Wir haben von deinen früheren Begegnungen mit unserem Volk gehört. Es ist eine große Erleichterung zu sehen, dass du wirklich so mächtig bist."</DefaultText>
+      <DefaultText>„Wir haben von deinen früheren Begegnungen mit unserem Volk gehört. Es ist eine große Erleichterung zu sehen, dass du wirklich so mächtig bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ich hätte das nicht von dir erwartet. Aber du hast dennoch meinen Dank. Du hast meine Kolonie gerettet."</DefaultText>
+      <DefaultText>„Ich hätte das nicht von dir erwartet. Aber du hast dennoch meinen Dank. Du hast meine Kolonie gerettet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Du hast meinen Dank, [Player Race]. Und sicherlich auch den meiner Kolonie. Du hast gerettet, was von uns noch übrig ist."</DefaultText>
+      <DefaultText>„Du hast meinen Dank, [Player Race]. Und sicherlich auch den meiner Kolonie. Du hast gerettet, was von uns noch übrig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Freut mich, dass ich helfen konnte."</DefaultText>
+      <DefaultText>„Freut mich, dass ich helfen konnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Ich habe das nicht für dich getan."</DefaultText>
+      <DefaultText>„Ich habe das nicht für dich getan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Weißt du irgendetwas darüber, was hier geschehen ist?"</DefaultText>
+      <DefaultText>„Weißt du irgendetwas darüber, was hier geschehen ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Wie kann es sein, dass du so deutliches Aedyranisch sprichst?"</DefaultText>
+      <DefaultText>„Wie kann es sein, dass du so deutliches Aedyranisch sprichst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Unser Volk ist zu vielem fähig. Manche haben nur wenig Interesse daran, eure Sprache zu erlernen."</DefaultText>
+      <DefaultText>„Unser Volk ist zu vielem fähig. Manche haben nur wenig Interesse daran, eure Sprache zu erlernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Zu viel. Du hast das Ende unseres großen Fehlers gesehen. Vielleicht kann ich den Anfang erklären."</DefaultText>
+      <DefaultText>„Zu viel. Du hast das Ende unseres großen Fehlers gesehen. Vielleicht kann ich den Anfang erklären.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ja. Für die Gestandenen vielleicht? Für ihre Bergarbeiter? Dennoch bin ich dankbar. Deine Ankunft hat einer großen Bedrohung ein Ende gesetzt."</DefaultText>
+      <DefaultText>„Ja. Für die Gestandenen vielleicht? Für ihre Bergarbeiter? Dennoch bin ich dankbar. Deine Ankunft hat einer großen Bedrohung ein Ende gesetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ich werde allen in Moltuls'qu'mirr berichten, wem sie ihre Freiheit zu verdanken haben. Man wird sich an deinen Namen erinnern."</DefaultText>
+      <DefaultText>„Ich werde allen in Moltuls'qu'mirr berichten, wem sie ihre Freiheit zu verdanken haben. Man wird sich an deinen Namen erinnern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Was ist mit den anderen Vithrack passiert?"</DefaultText>
+      <DefaultText>„Was ist mit den anderen Vithrack passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Warum haben die anderen Vithrack dich eingesperrt?"</DefaultText>
+      <DefaultText>„Warum haben die anderen Vithrack dich eingesperrt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Warum hat euer Volk die Sporen inhaliert?"</DefaultText>
+      <DefaultText>„Warum hat euer Volk die Sporen inhaliert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Warum wurdest du nicht infiziert?"</DefaultText>
+      <DefaultText>„Warum wurdest du nicht infiziert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ich war ... vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren."</DefaultText>
+      <DefaultText>„Ich war ... vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich habe mich versteckt. Bis ich den Kristall holen konnte."
+      <DefaultText>„Ich habe mich versteckt. Bis ich den Kristall holen konnte.“
 
 Du spürst einen schwachen Puls der Scham unter diesem Eingeständnis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Was ist mit den Bergarbeitern geschehen?"</DefaultText>
+      <DefaultText>„Was ist mit den Bergarbeitern geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Eine Infektion hat mein Volk krank gemacht. Es begann, als die Späher eine seltsame Pflanze fanden. Einen ... Strahlenpilz."</DefaultText>
+      <DefaultText>„Eine Infektion hat mein Volk krank gemacht. Es begann, als die Späher eine seltsame Pflanze fanden. Einen ... Strahlenpilz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Er lebte neben einem Nest von Spinnen. Sie nährten sich gegenseitig. Ein Wunder der Natur. Etwas, was wir uns zunutze machen könnten."</DefaultText>
+      <DefaultText>„Er lebte neben einem Nest von Spinnen. Sie nährten sich gegenseitig. Ein Wunder der Natur. Etwas, was wir uns zunutze machen könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Sie haben ihn in unser Territorium gebracht, weil sie die Gefahr nicht erkannten. Nach wenigen Tagen schon hatten viele von uns die Sporen eingeatmet."</DefaultText>
+      <DefaultText>„Sie haben ihn in unser Territorium gebracht, weil sie die Gefahr nicht erkannten. Nach wenigen Tagen schon hatten viele von uns die Sporen eingeatmet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Die Sporen verstärkten unsere Fähigkeiten. Viele glaubten, wir würden vielleicht alle mächtiger werden. Was als Studie begann, wurde zur Sucht. Es reichte, dass einer dem Zwang zum Opfer fiel."</DefaultText>
+      <DefaultText>„Die Sporen verstärkten unsere Fähigkeiten. Viele glaubten, wir würden vielleicht alle mächtiger werden. Was als Studie begann, wurde zur Sucht. Es reichte, dass einer dem Zwang zum Opfer fiel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Wer die Sporen inhaliert hatte, der begann, seine Worte zu hören. Dann seine Befehle. Zunächst wehrten wir uns. Versuchten, ihn zu kontrollieren. Scheiterten."</DefaultText>
+      <DefaultText>„Wer die Sporen inhaliert hatte, der begann, seine Worte zu hören. Dann seine Befehle. Zunächst wehrten wir uns. Versuchten, ihn zu kontrollieren. Scheiterten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ich ... habe etwas Wichtiges versteckt. Den Resonanzkristall."</DefaultText>
+      <DefaultText>„Ich ... habe etwas Wichtiges versteckt. Den Resonanzkristall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Derselbe, den du verwendet hast, um das Gemeinschaftshaus zu betreten und den Strahlenpilz zu besiegen. Ich wollte mein Volk vor dem Pilz beschützen ... es weckte aber nur Verzweiflung in ihnen."</DefaultText>
+      <DefaultText>„Derselbe, den du verwendet hast, um das Gemeinschaftshaus zu betreten und den Strahlenpilz zu besiegen. Ich wollte mein Volk vor dem Pilz beschützen ... es weckte aber nur Verzweiflung in ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über ... schwächere Geister verstärkt."</DefaultText>
+      <DefaultText>„Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über ... schwächere Geister verstärkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein, ohne es überhaupt zu wollen ... sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten."</DefaultText>
+      <DefaultText>„Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein, ohne es überhaupt zu wollen ... sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Es war ... Irrsinn."
+      <DefaultText>„Es war ... Irrsinn.“
 
 Du spürst eine Welle der Reue von dem Vithrack ausgehen.</DefaultText>
       <FemaleText />

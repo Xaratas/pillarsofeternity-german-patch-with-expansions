@@ -11,42 +11,42 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Die Dinger wirkten wirklich wütend ... obwohl sie gar kein Gesicht haben."</DefaultText>
+      <DefaultText>„Die Dinger wirkten wirklich wütend ... obwohl sie gar kein Gesicht haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Diese Monstrositäten stinken nach der Feigheit eines Gottes."</DefaultText>
+      <DefaultText>„Diese Monstrositäten stinken nach der Feigheit eines Gottes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich habe ihr Leid gespürt, Wächter. Ihre Qual ist die eines verirrten Kindes."</DefaultText>
-      <FemaleText>"Ich habe ihr Leid gespürt, Wächterin. Ihre Qual ist die eines verirrten Kindes."</FemaleText>
+      <DefaultText>„Ich habe ihr Leid gespürt, Wächter. Ihre Qual ist die eines verirrten Kindes.“</DefaultText>
+      <FemaleText>„Ich habe ihr Leid gespürt, Wächterin. Ihre Qual ist die eines verirrten Kindes.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Als würde man einen Berg mit einem Beil bearbeiten. Aber wir haben es alle schon getan!"</DefaultText>
+      <DefaultText>„Als würde man einen Berg mit einem Beil bearbeiten. Aber wir haben es alle schon getan!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Merla! Wie das Konstrukt eines Beseelers, aber ... was kann solche Kreaturen geschaffen haben?"</DefaultText>
+      <DefaultText>„Merla! Wie das Konstrukt eines Beseelers, aber ... was kann solche Kreaturen geschaffen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Wartet, bis ich Kallu und den Kindern davon erzähle."</DefaultText>
+      <DefaultText>„Wartet, bis ich Kallu und den Kindern davon erzähle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich wünschte, Galvino könnte diese Dinger sehen. Er würde vor Neid sterben. Oder zermalmt werden."</DefaultText>
+      <DefaultText>„Ich wünschte, Galvino könnte diese Dinger sehen. Er würde vor Neid sterben. Oder zermalmt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich habe von vielen solch seltsamen Kreaturen geträumt, aber in dieser Welt bin ich noch nie einer begegnet."</DefaultText>
+      <DefaultText>„Ich habe von vielen solch seltsamen Kreaturen geträumt, aber in dieser Welt bin ich noch nie einer begegnet.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

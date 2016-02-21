@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hörst du das? Deryan hetzt wieder die Leute auf."</DefaultText>
+      <DefaultText>„Hörst du das? Deryan hetzt wieder die Leute auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Zehn Kupferstücke, dass sie ihn diesmal in den See werfen. Gehen wir hin."</DefaultText>
+      <DefaultText>„Zehn Kupferstücke, dass sie ihn diesmal in den See werfen. Gehen wir hin.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

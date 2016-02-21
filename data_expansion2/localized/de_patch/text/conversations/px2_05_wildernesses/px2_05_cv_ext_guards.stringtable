@@ -11,64 +11,64 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Das ist nah genug. Was machst du hier? Hast du dich verlaufen?"</DefaultText>
+      <DefaultText>„Das ist nah genug. Was machst du hier? Hast du dich verlaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Dasselbe wollte ich euch fragen."</DefaultText>
+      <DefaultText>„Dasselbe wollte ich euch fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Geht mir aus dem Weg."</DefaultText>
+      <DefaultText>„Geht mir aus dem Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Tut mir leid. Ich wollte nicht stören."</DefaultText>
+      <DefaultText>„Tut mir leid. Ich wollte nicht stören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich muss mit eurem Anführer sprechen."</DefaultText>
+      <DefaultText>„Ich muss mit eurem Anführer sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ach? Und worüber?"</DefaultText>
+      <DefaultText>„Ach? Und worüber?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich will wissen, ob ihr vorhabt, Caed Nua anzugreifen."</DefaultText>
+      <DefaultText>„Ich will wissen, ob ihr vorhabt, Caed Nua anzugreifen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Das ist meine Sache."</DefaultText>
+      <DefaultText>„Das ist meine Sache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Der Kommandant? Das bezweifle ich. Aber ich vielleicht ... wenn der Fürst von Caed Nua mich weiter belästigt."</DefaultText>
-      <FemaleText>"Der Kommandant? Das bezweifle ich. Aber ich vielleicht ... wenn die Fürstin von Caed Nua mich weiter belästigt."</FemaleText>
+      <DefaultText>„Der Kommandant? Das bezweifle ich. Aber ich vielleicht ... wenn der Fürst von Caed Nua mich weiter belästigt.“</DefaultText>
+      <FemaleText>„Der Kommandant? Das bezweifle ich. Aber ich vielleicht ... wenn die Fürstin von Caed Nua mich weiter belästigt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich bin hier, um mit dem Kommandanten zu sprechen."</DefaultText>
+      <DefaultText>„Ich bin hier, um mit dem Kommandanten zu sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Der Kommandant empfängt keine Besucher mehr."
+      <DefaultText>„Der Kommandant empfängt keine Besucher mehr.“
 
 Er mustert dich stirnrunzelnd von oben bis unten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Hat Stalwart dich geschickt?"</DefaultText>
+      <DefaultText>„Hat Stalwart dich geschickt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,97 +78,97 @@ Er mustert dich stirnrunzelnd von oben bis unten.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Du hast hier nichts zu suchen. Mach kehrt oder du stirbst, wo du stehst."</DefaultText>
+      <DefaultText>„Du hast hier nichts zu suchen. Mach kehrt oder du stirbst, wo du stehst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich bin aus eigenem Willen gekommen."</DefaultText>
+      <DefaultText>„Ich bin aus eigenem Willen gekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <DefaultText>„Was tust du hier draußen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Du hast hier nichts zu suchen. Zu deinem Glück bin ich so höflich, es dir zu sagen. Mach lieber kehrt."</DefaultText>
+      <DefaultText>„Du hast hier nichts zu suchen. Zu deinem Glück bin ich so höflich, es dir zu sagen. Mach lieber kehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Warum gibt es hier draußen eine Festung?"</DefaultText>
+      <DefaultText>„Warum gibt es hier draußen eine Festung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <DefaultText>„Was tust du hier draußen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Der Eisenflegel steht unter dem Befehl von Adaryc Cendamyr."</DefaultText>
+      <DefaultText>„Der Eisenflegel steht unter dem Befehl von Adaryc Cendamyr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Und du hast hier nichts verloren."</DefaultText>
+      <DefaultText>„Und du hast hier nichts verloren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Aber warum seid ihr hier?"</DefaultText>
+      <DefaultText>„Aber warum seid ihr hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Das ist nicht nötig. Ich habe nur ein paar Fragen."</DefaultText>
+      <DefaultText>„Das ist nicht nötig. Ich habe nur ein paar Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Er schnaubt verächtlich. "Dann stell sie schnell."</DefaultText>
+      <DefaultText>Er schnaubt verächtlich. „Dann stell sie schnell.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Angreifen] "Das glaube ich eher nicht."</DefaultText>
+      <DefaultText>[Angreifen] „Das glaube ich eher nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ich muss mit Adaryc sprechen."</DefaultText>
+      <DefaultText>„Ich muss mit Adaryc sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Adaryc hat gesagt, dass es eine große Schlacht geben wird. Wir sind hier, um den Pass zu halten und Readceras zu verteidigen."</DefaultText>
+      <DefaultText>„Adaryc hat gesagt, dass es eine große Schlacht geben wird. Wir sind hier, um den Pass zu halten und Readceras zu verteidigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Er hat es gesehen, in einem Traum."</DefaultText>
+      <DefaultText>„Er hat es gesehen, in einem Traum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Er hatte eine Vision?"</DefaultText>
+      <DefaultText>„Er hatte eine Vision?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Das ist doch verrückt."</DefaultText>
+      <DefaultText>„Das ist doch verrückt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,127 +178,127 @@ Er mustert dich stirnrunzelnd von oben bis unten.</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Hat euer Volk denn seine Lektion nicht gelernt, was selbsternannte Propheten angeht?"</DefaultText>
+      <DefaultText>„Hat euer Volk denn seine Lektion nicht gelernt, was selbsternannte Propheten angeht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Warum sonst? Wir sollen die Batterie einnehmen, sobald die Belagerungsmaschinen fertiggestellt sind. Adaryc hatte gehofft, Stalwart zu überzeugen, friedliche Bedingungen auszuhandeln."</DefaultText>
+      <DefaultText>„Warum sonst? Wir sollen die Batterie einnehmen, sobald die Belagerungsmaschinen fertiggestellt sind. Adaryc hatte gehofft, Stalwart zu überzeugen, friedliche Bedingungen auszuhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Es war ein Fehler von ihm, ihnen zu vertrauen."</DefaultText>
+      <DefaultText>„Es war ein Fehler von ihm, ihnen zu vertrauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[Weggehen] "Gut, ich gehe."</DefaultText>
+      <DefaultText>[Weggehen] „Gut, ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Kommst du wegen den Gesandten? Der Kommandant hat sie in eine Zelle geworfen. Wir werden die Wahrheit schon irgendwie aus ihnen herausholen."</DefaultText>
+      <DefaultText>„Kommst du wegen den Gesandten? Der Kommandant hat sie in eine Zelle geworfen. Wir werden die Wahrheit schon irgendwie aus ihnen herausholen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wieder ein Spion, der hier herumschleicht. Ergreift ihn!"</DefaultText>
-      <FemaleText>"Wieder eine Spionin, die hier herumschleicht. Ergreift sie!"</FemaleText>
+      <DefaultText>„Wieder ein Spion, der hier herumschleicht. Ergreift ihn!“</DefaultText>
+      <FemaleText>„Wieder eine Spionin, die hier herumschleicht. Ergreift sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich warne dich nicht nochmal."</DefaultText>
+      <DefaultText>„Ich warne dich nicht nochmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Eindringlinge! Haltet sie von den Toren fern!"</DefaultText>
+      <DefaultText>„Eindringlinge! Haltet sie von den Toren fern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Deine Neugier wird dein Untergang sein. Los, verschwinde hier. Ich warne dich nicht noch einmal."</DefaultText>
+      <DefaultText>„Deine Neugier wird dein Untergang sein. Los, verschwinde hier. Ich warne dich nicht noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Eine Schlacht gegen wen?"</DefaultText>
+      <DefaultText>„Eine Schlacht gegen wen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Wer sonst sollte Readceras zerstören wollen? Der Dyrwald dürstet nach unseren Leben, genau wie Stalwart nach der Batterie gedürstet hat."</DefaultText>
+      <DefaultText>„Wer sonst sollte Readceras zerstören wollen? Der Dyrwald dürstet nach unseren Leben, genau wie Stalwart nach der Batterie gedürstet hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Du hast schon mehr als genug Fragen gestellt. Los, verschwinde hier. Ich warne dich nicht noch einmal."</DefaultText>
+      <DefaultText>„Du hast schon mehr als genug Fragen gestellt. Los, verschwinde hier. Ich warne dich nicht noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Adaryc sagt nicht, er wäre Waidwens Wiedergeburt." Der Ton des Soldaten ist knapp, beleidigt.</DefaultText>
+      <DefaultText>„Adaryc sagt nicht, er wäre Waidwens Wiedergeburt.“ Der Ton des Soldaten ist knapp, beleidigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Was er gesehen hat, ist seine Sache. Adaryc führt uns gut. Wir stellen seine Befehle nicht in Frage."</DefaultText>
+      <DefaultText>„Was er gesehen hat, ist seine Sache. Adaryc führt uns gut. Wir stellen seine Befehle nicht in Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Hm." Der Mund des Soldaten zuckt.</DefaultText>
+      <DefaultText>„Hm.“ Der Mund des Soldaten zuckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Was dich angeht – Adaryc will nichts mehr mit Boten oder Diplomaten zu tun haben. Du kommst zu spät."</DefaultText>
+      <DefaultText>„Was dich angeht – Adaryc will nichts mehr mit Boten oder Diplomaten zu tun haben. Du kommst zu spät.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Angreifen] "Ich habe das Reden ohnehin satt."</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe das Reden ohnehin satt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Was kannst du mir über Adaryc sagen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über Adaryc sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ein guter Mann, mit großen Hoffnungen für Readceras. Mehr sage ich nicht."</DefaultText>
+      <DefaultText>„Ein guter Mann, mit großen Hoffnungen für Readceras. Mehr sage ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Laut Deryan ist Adaryc hergekommen, weil er eine Vision hatte."</DefaultText>
+      <DefaultText>„Laut Deryan ist Adaryc hergekommen, weil er eine Vision hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Dann spricht zumindest dieser Deryan die Wahrheit."</DefaultText>
+      <DefaultText>„Dann spricht zumindest dieser Deryan die Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was ist, theoretisch, wenn noch jemand anders so eine Vision hatte?"</DefaultText>
+      <DefaultText>„Was ist, theoretisch, wenn noch jemand anders so eine Vision hatte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Er runzelt die Stirn und zuckt dann mit den Schultern. "Nach dieser Sache mit den Gesandten würde ich es lieber nicht erwähnen."</DefaultText>
+      <DefaultText>Er runzelt die Stirn und zuckt dann mit den Schultern. „Nach dieser Sache mit den Gesandten würde ich es lieber nicht erwähnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Du solltest dich für eine Seite entscheiden, und zwar bald. Adaryc will jedenfalls nichts mehr mit Boten oder Diplomaten zu tun haben. Du kommst zu spät."</DefaultText>
+      <DefaultText>„Du solltest dich für eine Seite entscheiden, und zwar bald. Adaryc will jedenfalls nichts mehr mit Boten oder Diplomaten zu tun haben. Du kommst zu spät.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

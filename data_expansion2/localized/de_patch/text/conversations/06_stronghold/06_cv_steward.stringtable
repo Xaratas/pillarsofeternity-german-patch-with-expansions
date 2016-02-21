@@ -6,44 +6,44 @@
   <Entries>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Ich habe Fragen zu Concelhaut und den Männern des Zerrissenen Banners."</DefaultText>
+      <DefaultText>„Ich habe Fragen zu Concelhaut und den Männern des Zerrissenen Banners.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Ja?"</DefaultText>
+      <DefaultText>„Ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Wer ist Concelhaut?"</DefaultText>
+      <DefaultText>„Wer ist Concelhaut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Weißt du sonst noch etwas über diese Söldner?"</DefaultText>
+      <DefaultText>„Weißt du sonst noch etwas über diese Söldner?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Ein legendärer Erzmagier. Man sagte mir, dass seine Arbeiten zur Manipulation der Seele im Sanatorium von Farnheim hoch geschätzt sind. Seine Zauber sind weit verbreitet."</DefaultText>
+      <DefaultText>„Ein legendärer Erzmagier. Man sagte mir, dass seine Arbeiten zur Manipulation der Seele im Sanatorium von Farnheim hoch geschätzt sind. Seine Zauber sind weit verbreitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"In einigen Kreisen wird er jedoch nicht gern gelitten. Manche nennen ihn einen Wahnsinnigen ... oder grausam und barbarisch." 
+      <DefaultText>„In einigen Kreisen wird er jedoch nicht gern gelitten. Manche nennen ihn einen Wahnsinnigen ... oder grausam und barbarisch.“ 
 
-Die Burgvogtin hält inne. "Er muss inzwischen sehr alt sein. Vielleicht glauben die Männer des Zerrissenen Banners deswegen, dass sie ihn besiegen können."</DefaultText>
+Die Burgvogtin hält inne. „Er muss inzwischen sehr alt sein. Vielleicht glauben die Männer des Zerrissenen Banners deswegen, dass sie ihn besiegen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Sehr wenig, fürchte ich. Die Männer des Zerrissenen Banners sind gut ausgestattet und gut organisiert. Es gibt Gerüchte, dass ein unbekannter Hintermann sie unterstützt."</DefaultText>
+      <DefaultText>„Sehr wenig, fürchte ich. Die Männer des Zerrissenen Banners sind gut ausgestattet und gut organisiert. Es gibt Gerüchte, dass ein unbekannter Hintermann sie unterstützt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Sie haben sich in der Vergangenheit als erstaunlich effektiv erwiesen und stellen eine echte Gefahr dar."</DefaultText>
+      <DefaultText>„Sie haben sich in der Vergangenheit als erstaunlich effektiv erwiesen und stellen eine echte Gefahr dar.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -68,16 +68,16 @@
       <ID>10001</ID>
       <DefaultText>Eine der Gesandten von Stalwart, die geschickt wurden, um mit dem Eisenflegel zu verhandeln, war eine Ondritin, die aus einer Abtei im Norden entsandt wurde, um die Readceraner von ihrem Kurs abzubringen.
 
-Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im "Reliquiar" getan werden müsse.
+Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im „Reliquiar“ getan werden müsse.
 
-Er sprach auch von einem Besucher, der in der Abtei erwartet werde, um seinen Platz einzunehmen ... dem "Gezeitenbringer".
+Er sprach auch von einem Besucher, der in der Abtei erwartet werde, um seinen Platz einzunehmen ... dem „Gezeitenbringer“.
 
 Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu dieser Abtei liegt. Ich muss dorthin reisen, wenn ich diese Gefahr aufhalten will.</DefaultText>
       <FemaleText>Eine der Gesandten von Stalwart, die geschickt wurden, um mit dem Eisenflegel zu verhandeln, war eine Ondritin, die aus einer Abtei im Norden entsandt wurde, um die Readceraner von ihrem Kurs abzubringen.
 
-Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im "Reliquiar" getan werden müsse.
+Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im „Reliquiar“ getan werden müsse.
 
-Er sprach auch von einer Besucherin, die in der Abtei erwartet werde, um seinen Platz einzunehmen ... der "Gezeitenbringerin".
+Er sprach auch von einer Besucherin, die in der Abtei erwartet werde, um seinen Platz einzunehmen ... der „Gezeitenbringerin“.
 
 Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu dieser Abtei liegt. Ich muss dorthin reisen, wenn ich diese Gefahr aufhalten will.</FemaleText>
     </Entry>
@@ -95,12 +95,12 @@ Kaoto, der Abt, der in der Vision mit dem Ondriten gesprochen hat, scheint zu wi
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>In das Reliquiar gelange ich nur mit "Ondras Zeuge", einem Aspergill, das in einem Mechanismus im unteren Stockwerk der Abtei verbaut ist.</DefaultText>
+      <DefaultText>In das Reliquiar gelange ich nur mit „Ondras Zeuge“, einem Aspergill, das in einem Mechanismus im unteren Stockwerk der Abtei verbaut ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Es gibt ein Aspergill namens "Ondras Zeuge", das als eine Art Schlüssel für einen Mechanismus dient. Dieser Mechanismus steuert den Wasserfluss im unteren Stockwerk der Abtei.
+      <DefaultText>Es gibt ein Aspergill namens „Ondras Zeuge“, das als eine Art Schlüssel für einen Mechanismus dient. Dieser Mechanismus steuert den Wasserfluss im unteren Stockwerk der Abtei.
 
 Er kann genutzt werden, um die Halle des Schweigens zu überfluten. Möglicherweise lassen sich aber auch Tore öffnen, durch welche die Ebbe-Ondriten fliehen könnten.</DefaultText>
       <FemaleText />
@@ -119,8 +119,8 @@ Irgendwo in diesem ummauerten Bereich befindet sich das Werkzeug, mit dem Kaoto 
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Wenn ich mich weiterhin als dieser "Gezeitenbringer" ausgeben will und ohne Widerstand Zutritt zum Reliquiar erhalten will, muss ich zunächst vor Kaoto eine rituelle Rezitation ausführen.</DefaultText>
-      <FemaleText>Wenn ich mich weiterhin als diese "Gezeitenbringerin" ausgeben will und ohne Widerstand Zutritt zum Reliquiar erhalten will, muss ich zunächst vor Kaoto eine rituelle Rezitation ausführen.</FemaleText>
+      <DefaultText>Wenn ich mich weiterhin als dieser „Gezeitenbringer“ ausgeben will und ohne Widerstand Zutritt zum Reliquiar erhalten will, muss ich zunächst vor Kaoto eine rituelle Rezitation ausführen.</DefaultText>
+      <FemaleText>Wenn ich mich weiterhin als diese „Gezeitenbringerin“ ausgeben will und ohne Widerstand Zutritt zum Reliquiar erhalten will, muss ich zunächst vor Kaoto eine rituelle Rezitation ausführen.</FemaleText>
     </Entry>
     <Entry>
       <ID>10009</ID>
@@ -151,7 +151,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, "Die Pilgerschaft der Gabenbringerin". Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20010</ID>
-      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, "Die Pilgerschaft der Gabenbringerin". Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20017</ID>
-      <DefaultText>Ich habe ein Gespräch zwischen zwei Ondriten über den Oberabt belauscht. Er hat einen "Zeugen" verwendet, um irgendeine Tür zu durchqueren, die sie "Schleier der Tränen" nannten.</DefaultText>
+      <DefaultText>Ich habe ein Gespräch zwischen zwei Ondriten über den Oberabt belauscht. Er hat einen „Zeugen“ verwendet, um irgendeine Tür zu durchqueren, die sie „Schleier der Tränen“ nannten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20024</ID>
-      <DefaultText>Ich habe ein Gespräch zwischen zwei Ondriten mitangehört. Sie haben darüber gesprochen, dass der Oberabt einen "Zeugen" verwendet hat, um den Schleier der Tränen zu durchqueren und in das Reliquiar zu gelangen.</DefaultText>
+      <DefaultText>Ich habe ein Gespräch zwischen zwei Ondriten mitangehört. Sie haben darüber gesprochen, dass der Oberabt einen „Zeugen“ verwendet hat, um den Schleier der Tränen zu durchqueren und in das Reliquiar zu gelangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20030</ID>
-      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, "Die Pilgerschaft der Gabenbringerin". Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20036</ID>
-      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, "Die Pilgerschaft der Gabenbringerin". Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
+      <DefaultText>Ich habe in der Bibliothek der Abtei ein Buch gefunden, „Die Pilgerschaft der Gabenbringerin“. Es handelt von der Last, die Gabenbringer schultern müssen. Die Lektionen darin könnten sich als wertvoll erweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

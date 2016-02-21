@@ -6,10 +6,10 @@
   <Entries>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wir versammeln uns bei Cayrons Narbe und erwarten deine Befehle. Mach dich bereit, mein Freund. Es wird eine große Schlacht."
+      <DefaultText>„Wir versammeln uns bei Cayrons Narbe und erwarten deine Befehle. Mach dich bereit, mein Freund. Es wird eine große Schlacht.“
 
 Adaryc verneigt sich leicht und geht davon.</DefaultText>
-      <FemaleText>"Wir versammeln uns bei Cayrons Narbe und erwarten deine Befehle. Mach dich bereit, meine Freundin. Es wird eine große Schlacht."
+      <FemaleText>„Wir versammeln uns bei Cayrons Narbe und erwarten deine Befehle. Mach dich bereit, meine Freundin. Es wird eine große Schlacht.“
 
 Adaryc verneigt sich leicht und geht davon.</FemaleText>
     </Entry>
@@ -17,12 +17,12 @@ Adaryc verneigt sich leicht und geht davon.</FemaleText>
       <ID>42</ID>
       <DefaultText>Adarycs Gesicht färbt sich, seine Miene versteinert sich.
 
-"Es ist ein Jammer. Ich hatte gedacht, wenigstens Sie wären anders. Weiser. Ich habe mich getäuscht."</DefaultText>
+„Es ist ein Jammer. Ich hatte gedacht, wenigstens Sie wären anders. Weiser. Ich habe mich getäuscht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Tun Sie es allein, wenn Sie müssen. Aber um unser aller willen, halten Sie diese Monster auf. Bevor sie uns alle auslöschen."
+      <DefaultText>„Tun Sie es allein, wenn Sie müssen. Aber um unser aller willen, halten Sie diese Monster auf. Bevor sie uns alle auslöschen.“
 
 Damit macht Adaryc auf dem Absatz kehrt und geht davon.</DefaultText>
       <FemaleText />
@@ -34,14 +34,14 @@ Damit macht Adaryc auf dem Absatz kehrt und geht davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Die Zerstörung, vor der meine Träume mich gewarnt haben." Beregans Blick ist abwesend vor Grauen und Entsetzen.
+      <DefaultText>„Die Zerstörung, vor der meine Träume mich gewarnt haben.“ Beregans Blick ist abwesend vor Grauen und Entsetzen.
 
 Plötzlich fährt sie Wengra und Deryan an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Und eure Gier und Fahrlässigkeit haben sie uns auf den Hals gehetzt."
+      <DefaultText>„Und eure Gier und Fahrlässigkeit haben sie uns auf den Hals gehetzt.“
 
 Sie wirft die Schultern zurück und fletscht die Zähne. Zorn umgibt sie wie ein beißender Gestank.
 
@@ -50,32 +50,32 @@ Deryan und Wengra machen einen Schritt zurück und stellen sich kampfbereit gege
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Beruhigt euch. All das ist jetzt nicht von Bedeutung."</DefaultText>
+      <DefaultText>„Beruhigt euch. All das ist jetzt nicht von Bedeutung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Beregan hat Recht. Ihr wolltet etwas, was ihr nicht verstehen konntet, und das hat Ärger zur Folge gehabt."</DefaultText>
+      <DefaultText>„Beregan hat Recht. Ihr wolltet etwas, was ihr nicht verstehen konntet, und das hat Ärger zur Folge gehabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Es hat nicht geholfen, dass ihr unser Dorf niedergebrannt habt." Wengras Gesicht ist zu einer wilden Grimasse verzogen, aus der spitze Zähne hervorragen.</DefaultText>
+      <DefaultText>„Es hat nicht geholfen, dass ihr unser Dorf niedergebrannt habt.“ Wengras Gesicht ist zu einer wilden Grimasse verzogen, aus der spitze Zähne hervorragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Ihre Nüstern blähen sich. "Mein Clan war es nicht, der euch angegriffen hat."</DefaultText>
+      <DefaultText>Ihre Nüstern blähen sich. „Mein Clan war es nicht, der euch angegriffen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Völlig egal. Alle Oger stinken gleich übel."</DefaultText>
+      <DefaultText>„Völlig egal. Alle Oger stinken gleich übel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Eure Interessen standen noch nie im Einklang mit denen Stalwarts, Beregan. Ich bezweifle, dass sich das geändert hat."</DefaultText>
+      <DefaultText>„Eure Interessen standen noch nie im Einklang mit denen Stalwarts, Beregan. Ich bezweifle, dass sich das geändert hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@ Schließlich schnaubt sie.</DefaultText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Deryan hustet sich in die Faust. "Wie genau willst du sie besiegen?"</DefaultText>
+      <DefaultText>Deryan hustet sich in die Faust. „Wie genau willst du sie besiegen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Die Augenlosen verstecken sich bei Cayrons Narbe. Ich trete ihnen dort entgegen."</DefaultText>
+      <DefaultText>„Die Augenlosen verstecken sich bei Cayrons Narbe. Ich trete ihnen dort entgegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,36 +102,36 @@ Schließlich schnaubt sie.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Der See ist berüchtigt! Keiner kehrt je von dort zurück ..." Sie hält inne, die Augen plötzlich weit aufgerissen.</DefaultText>
+      <DefaultText>„Der See ist berüchtigt! Keiner kehrt je von dort zurück ...“ Sie hält inne, die Augen plötzlich weit aufgerissen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Oh."</DefaultText>
+      <DefaultText>„Oh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <DefaultText>„Was geht hier vor sich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"– Ich habe genug gehört."
+      <DefaultText>„– Ich habe genug gehört.“
 
 Die Geräusche eines Streits sind von der Treppe zu hören. Deryan kommt mit verschränkten Armen in den Raum gestapft, Wendra im Schlepptau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Irgendwas hat im Wald einen ganzen Trupp von Jägern getötet. Auseinander gerissen wie Puppen. Insekten."
+      <DefaultText>„Irgendwas hat im Wald einen ganzen Trupp von Jägern getötet. Auseinander gerissen wie Puppen. Insekten.“
 
 Trotz seiner festen Haltung flirren seine Augen hin und her wie Fliegen. Auf seiner Oberlippe steht der Schweiß.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Vielleicht so etwas wie die Geschöpfe, die meine Festung angegriffen haben?"</DefaultText>
+      <DefaultText>„Vielleicht so etwas wie die Geschöpfe, die meine Festung angegriffen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,17 +141,17 @@ Trotz seiner festen Haltung flirren seine Augen hin und her wie Fliegen. Auf sei
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ich habe es euch gesagt! Wir müssen sie nur in Reichweite dieser Kanonen bringen, dann schießen wir sie ab!" Sie schlägt laut klatschend die Hände zusammen.</DefaultText>
+      <DefaultText>„Ich habe es euch gesagt! Wir müssen sie nur in Reichweite dieser Kanonen bringen, dann schießen wir sie ab!“ Sie schlägt laut klatschend die Hände zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Wir wissen nicht einmal, was sie sind." Er schließt die Augen und atmet laut durch die Nase aus.</DefaultText>
+      <DefaultText>„Wir wissen nicht einmal, was sie sind.“ Er schließt die Augen und atmet laut durch die Nase aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ich schon."</DefaultText>
+      <DefaultText>„Ich schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,69 +161,69 @@ Trotz seiner festen Haltung flirren seine Augen hin und her wie Fliegen. Auf sei
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Man nennt sie die Augenlosen."</DefaultText>
+      <DefaultText>„Man nennt sie die Augenlosen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Aber was sie sind, das ist nicht wichtig. Wichtig ist nur, dass sie uns alle zerstören werden ... und noch mehr ... wenn man sie nicht aufhält."</DefaultText>
+      <DefaultText>„Aber was sie sind, das ist nicht wichtig. Wichtig ist nur, dass sie uns alle zerstören werden ... und noch mehr ... wenn man sie nicht aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Endlich! Die Stimme der Vernunft! Hört ihr auf ihn, wenn ihr schon nicht auf mich hört?"</DefaultText>
-      <FemaleText>"Endlich! Die Stimme der Vernunft! Hört ihr auf sie, wenn ihr schon nicht auf mich hört?"</FemaleText>
+      <DefaultText>„Endlich! Die Stimme der Vernunft! Hört ihr auf ihn, wenn ihr schon nicht auf mich hört?“</DefaultText>
+      <FemaleText>„Endlich! Die Stimme der Vernunft! Hört ihr auf sie, wenn ihr schon nicht auf mich hört?“</FemaleText>
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Sie sind die Spielzeuge törichter und unverantwortlicher Götter!"</DefaultText>
+      <DefaultText>„Sie sind die Spielzeuge törichter und unverantwortlicher Götter!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Deryan blickt dich zornig an. "Dann bist du in dieser Sache auch nicht unschuldig."</DefaultText>
+      <DefaultText>Deryan blickt dich zornig an. „Dann bist du in dieser Sache auch nicht unschuldig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Umso besser." Wengra sieht zu, wie sie gehen.</DefaultText>
+      <DefaultText>„Umso besser.“ Wengra sieht zu, wie sie gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Du brauchst jede nur erdenkliche Hilfe. Ich kann dir weniger Männer anbieten als ich gern würde, aber der Eisenflegel ist bereit. Unsere Belagerungswaffen stehen dir zur Verfügung."</DefaultText>
+      <DefaultText>„Du brauchst jede nur erdenkliche Hilfe. Ich kann dir weniger Männer anbieten als ich gern würde, aber der Eisenflegel ist bereit. Unsere Belagerungswaffen stehen dir zur Verfügung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Deryan schnaubt vor Wut. "Die, mit denen du die Wände der Batterie angegriffen hast?"</DefaultText>
+      <DefaultText>Deryan schnaubt vor Wut. „Die, mit denen du die Wände der Batterie angegriffen hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Adaryc blickt ihn nicht an. "Diese Augenlosen werden uns alle holen, wenn sie nicht hier und jetzt aufgehalten werden."</DefaultText>
+      <DefaultText>Adaryc blickt ihn nicht an. „Diese Augenlosen werden uns alle holen, wenn sie nicht hier und jetzt aufgehalten werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Sein Gesicht wird rot. "Vergiss es. Du bringst deine Armee nicht vor unsere Schwelle."
+      <DefaultText>Sein Gesicht wird rot. „Vergiss es. Du bringst deine Armee nicht vor unsere Schwelle.“
 
 Er blickt dich an und nickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Deryan hat Recht. Adaryc ist nicht zu trauen, nicht mit einer Armee so nah vor Stalwarts Toren."</DefaultText>
+      <DefaultText>„Deryan hat Recht. Adaryc ist nicht zu trauen, nicht mit einer Armee so nah vor Stalwarts Toren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Adaryc hat Recht. Wir müssen zusammenarbeiten. Was vergangen ist, das zählt jetzt nicht, Deryan."</DefaultText>
+      <DefaultText>„Adaryc hat Recht. Wir müssen zusammenarbeiten. Was vergangen ist, das zählt jetzt nicht, Deryan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Deryan, du hast mir doch GEWISS gerade nicht gesagt, was ich zu tun habe, nicht wahr? Adaryc bleibt, Ende."</DefaultText>
+      <DefaultText>„Deryan, du hast mir doch GEWISS gerade nicht gesagt, was ich zu tun habe, nicht wahr? Adaryc bleibt, Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,41 +233,41 @@ Er blickt dich an und nickt.</DefaultText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Weißt du, diese Langstreckenkanonen, die du repariert hast, könnten sich als nützlich erweisen." Sie grinst mit schelmisch funkelnden Augen.
+      <DefaultText>„Weißt du, diese Langstreckenkanonen, die du repariert hast, könnten sich als nützlich erweisen.“ Sie grinst mit schelmisch funkelnden Augen.
 
 Deryan fängt an zu stöhnen und sie hebt beide Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Weißt du, wenn du diese Langstreckenkanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen." Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
+      <DefaultText>„Weißt du, wenn du diese Langstreckenkanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen.“ Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Hör mich an! Cayrons Narbe müsste genau innerhalb der Reichweite dieser Kanonen liegen. Du markierst einfach dein Ziel, ich erledige den Rest."</DefaultText>
+      <DefaultText>„Hör mich an! Cayrons Narbe müsste genau innerhalb der Reichweite dieser Kanonen liegen. Du markierst einfach dein Ziel, ich erledige den Rest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Wenn diese Dinger schon unterwegs sind, haben wir nicht mehr viel Zeit".</DefaultText>
+      <DefaultText>„Wenn diese Dinger schon unterwegs sind, haben wir nicht mehr viel Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Wenn [Player Name] sie gesehen hat, weiß er es besser."</DefaultText>
-      <FemaleText>"Wenn [Player Name] sie gesehen hat, weiß sie es besser."</FemaleText>
+      <DefaultText>„Wenn [Player Name] sie gesehen hat, weiß er es besser.“</DefaultText>
+      <FemaleText>„Wenn [Player Name] sie gesehen hat, weiß sie es besser.“</FemaleText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Das ist jetzt eine Gefahr für uns alle." 
+      <DefaultText>„Das ist jetzt eine Gefahr für uns alle.“ 
 
 Matronin Beregan taumelt hinter Deryan und Wengra heran, flankiert von zwei kräftigen Ogern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Sie hat Recht. Wir müssen gemeinsam kämpfen."
+      <DefaultText>„Sie hat Recht. Wir müssen gemeinsam kämpfen.“
 
 Du erkennst auch Adaryc, der ihnen folgt. Seine Schultern sind steif und er hat die Arme vor sich verschränkt.</DefaultText>
       <FemaleText />
@@ -279,51 +279,51 @@ Du erkennst auch Adaryc, der ihnen folgt. Seine Schultern sind steif und er hat 
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Und wenn ihr leben wollt, haltet ihr jetzt den Mund und hört ab sofort auf mich."</DefaultText>
+      <DefaultText>„Und wenn ihr leben wollt, haltet ihr jetzt den Mund und hört ab sofort auf mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Die Götter haben sie als Strafe für euer Gezanke geschickt."</DefaultText>
+      <DefaultText>„Die Götter haben sie als Strafe für euer Gezanke geschickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Schluss! Ihr seid alle Narren, in einer solchen Lage über längst vergangene Dinge zu streiten."</DefaultText>
+      <DefaultText>„Schluss! Ihr seid alle Narren, in einer solchen Lage über längst vergangene Dinge zu streiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Beregan, hast du den weiten Weg auf dich genommen, nur um zu feixen 'Ich habe es euch doch gesagt'?"</DefaultText>
+      <DefaultText>„Beregan, hast du den weiten Weg auf dich genommen, nur um zu feixen 'Ich habe es euch doch gesagt'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Dann kümmert euch selbst um sie. Ich werde das Blut meines Clans nicht wegen der Dummheit von Gestandenen vergießen." Sie stapft davon, ohne sich noch einmal umzusehen. Ihre Eskorte folgt ihr.</DefaultText>
+      <DefaultText>„Dann kümmert euch selbst um sie. Ich werde das Blut meines Clans nicht wegen der Dummheit von Gestandenen vergießen.“ Sie stapft davon, ohne sich noch einmal umzusehen. Ihre Eskorte folgt ihr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Sie verschränkt die Hände. "Ich bin gekommen, um die Hilfe meines Clans anzubieten."
+      <DefaultText>Sie verschränkt die Hände. „Ich bin gekommen, um die Hilfe meines Clans anzubieten.“
 
 Die anderen starren sie ungläubig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Die Weißmark ist seit Jahrhunderten unser Zuhause. Wir werden sie an eurer Seite verteidigen."
+      <DefaultText>„Die Weißmark ist seit Jahrhunderten unser Zuhause. Wir werden sie an eurer Seite verteidigen.“
 
 Die Oger neben ihr grunzen zustimmend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Eure Hilfe wäre sehr willkommen."</DefaultText>
+      <DefaultText>„Eure Hilfe wäre sehr willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Ich brauche eure Hilfe nicht."</DefaultText>
+      <DefaultText>„Ich brauche eure Hilfe nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,9 +333,9 @@ Die Oger neben ihr grunzen zustimmend.</DefaultText>
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Lass es irgendwo in der Weißmark ertönen und drei meiner besten Krieger werden an deiner Seite erscheinen."
+      <DefaultText>„Lass es irgendwo in der Weißmark ertönen und drei meiner besten Krieger werden an deiner Seite erscheinen.“
 
-Sie verneigt sich. "Eure Schlacht wird zu der unseren."</DefaultText>
+Sie verneigt sich. „Eure Schlacht wird zu der unseren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,7 +347,7 @@ Nach einer Pause blickt Beregan wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Vielleicht auch nicht."</DefaultText>
+      <DefaultText>„Vielleicht auch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +357,7 @@ Nach einer Pause blickt Beregan wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Halt den Mund, wenn du meine Hilfe willst."</DefaultText>
+      <DefaultText>„Halt den Mund, wenn du meine Hilfe willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,32 +369,32 @@ Nach einer Pause tritt Beregan vor.</DefaultText>
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Lass das meine Sorge sein."</DefaultText>
+      <DefaultText>„Lass das meine Sorge sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Du hast vielleicht Recht, Beregan, aber das hilft nicht weiter. Vielleicht gehst du lieber."</DefaultText>
+      <DefaultText>„Du hast vielleicht Recht, Beregan, aber das hilft nicht weiter. Vielleicht gehst du lieber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Nun gut."</DefaultText>
+      <DefaultText>„Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Sag es ihm."</DefaultText>
+      <DefaultText>„Sag es ihm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Tut mir leid, Adaryc, aber ich muss in dieser Sache auf Stalwart hören."</DefaultText>
+      <DefaultText>„Tut mir leid, Adaryc, aber ich muss in dieser Sache auf Stalwart hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Du hast wahrscheinlich Recht. Es ist sowieso nichts mehr von Stalwart übrig, wenn wir diese Monster nicht aufhalten." Er blickt auf die Stelle hinab, die seine Ferse in den Dreck gegraben hat.</DefaultText>
+      <DefaultText>„Du hast wahrscheinlich Recht. Es ist sowieso nichts mehr von Stalwart übrig, wenn wir diese Monster nicht aufhalten.“ Er blickt auf die Stelle hinab, die seine Ferse in den Dreck gegraben hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,52 +404,52 @@ Nach einer Pause tritt Beregan vor.</DefaultText>
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Er zuckt zusammen. "T-tut mir leid. Du hast recht. Wir werden Adaryc keinen Ärger machen."</DefaultText>
+      <DefaultText>Er zuckt zusammen. „T-tut mir leid. Du hast recht. Wir werden Adaryc keinen Ärger machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Das war's dann wohl." Er tritt gegen einen losen Stein.</DefaultText>
+      <DefaultText>„Das war's dann wohl.“ Er tritt gegen einen losen Stein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Viel Glück, [Player Name]. Ich hoffe, du weißt, was du tust." Er blickt dich reumütig an.</DefaultText>
+      <DefaultText>„Viel Glück, [Player Name]. Ich hoffe, du weißt, was du tust.“ Er blickt dich reumütig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Wenn du sie wirklich aufhalten willst, nimm das. Das ist das beste Erz, das wir aus den Minen von Stalwart geborgen haben." Er nickt dir feierlich zu.</DefaultText>
+      <DefaultText>„Wenn du sie wirklich aufhalten willst, nimm das. Das ist das beste Erz, das wir aus den Minen von Stalwart geborgen haben.“ Er nickt dir feierlich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Du warst gut zu uns. Wir unterstützen dich."</DefaultText>
+      <DefaultText>„Du warst gut zu uns. Wir unterstützen dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Es tut mir leid, was ich gesagt habe. Aber lass es nicht am Rest des Dorfes aus." Er blickt weg.</DefaultText>
+      <DefaultText>„Es tut mir leid, was ich gesagt habe. Aber lass es nicht am Rest des Dorfes aus.“ Er blickt weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Es ist nicht viel, aber es reicht, um die alten Pargrunen-Schmiede stolz zu machen."</DefaultText>
+      <DefaultText>„Es ist nicht viel, aber es reicht, um die alten Pargrunen-Schmiede stolz zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Weißt du, wenn du diese Langstreckenkanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen." Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
+      <DefaultText>„Weißt du, wenn du diese Langstreckenkanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen.“ Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Siehst du, Deryan? [Player Name] wird es dir sagen – wir können sie aufhalten!"</DefaultText>
+      <DefaultText>„Siehst du, Deryan? [Player Name] wird es dir sagen – wir können sie aufhalten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Ach, wo du angeblich gestorben bist?" Deryan blickt Adaryc zornig an, richtet seine Wut dann aber gegen dich.</DefaultText>
+      <DefaultText>„Ach, wo du angeblich gestorben bist?“ Deryan blickt Adaryc zornig an, richtet seine Wut dann aber gegen dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

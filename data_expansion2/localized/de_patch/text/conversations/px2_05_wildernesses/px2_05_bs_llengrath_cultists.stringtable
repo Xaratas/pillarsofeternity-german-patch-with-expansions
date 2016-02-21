@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Llengrath hat etwas in dir gesehen, was dir ihr Vertrauen gesichert hat. Missbrauche es nicht."</DefaultText>
+      <DefaultText>„Llengrath hat etwas in dir gesehen, was dir ihr Vertrauen gesichert hat. Missbrauche es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Niemand von uns verlässt diesen Sumpf unverändert. Du bist keine Ausnahme."</DefaultText>
+      <DefaultText>„Niemand von uns verlässt diesen Sumpf unverändert. Du bist keine Ausnahme.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Jeder Tag ist ein Kampf. Das Leben selbst ist der Sieg."</DefaultText>
+      <DefaultText>„Jeder Tag ist ein Kampf. Das Leben selbst ist der Sieg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wer den Tod fürchtet, den ereilt er meist umso schneller."</DefaultText>
+      <DefaultText>„Wer den Tod fürchtet, den ereilt er meist umso schneller.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du wärest ein würdiger Gegner gewesen. Aber ein würdiger Verbündeter ist besser."</DefaultText>
-      <FemaleText>"Du wärest eine würdige Gegnerin gewesen. Aber eine würdige Verbündete ist besser."</FemaleText>
+      <DefaultText>„Du wärest ein würdiger Gegner gewesen. Aber ein würdiger Verbündeter ist besser.“</DefaultText>
+      <FemaleText>„Du wärest eine würdige Gegnerin gewesen. Aber eine würdige Verbündete ist besser.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Llengrath sagt, wir sollen bald aus dem Sumpf aufbrechen. Ich kann nicht sagen, dass ich darüber traurig bin."</DefaultText>
+      <DefaultText>„Llengrath sagt, wir sollen bald aus dem Sumpf aufbrechen. Ich kann nicht sagen, dass ich darüber traurig bin.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

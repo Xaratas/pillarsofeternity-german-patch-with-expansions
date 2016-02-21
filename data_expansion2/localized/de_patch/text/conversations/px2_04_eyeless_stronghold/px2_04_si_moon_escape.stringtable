@@ -210,90 +210,90 @@ Du bist gefangen.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Und ich habe immer gesagt, ich werde nie bei irgendetwas ausgewählt."</DefaultText>
+      <DefaultText>„Und ich habe immer gesagt, ich werde nie bei irgendetwas ausgewählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich ... dachte nicht, dass ich noch einmal die Gelegenheit bekommen würde, die Meinen zu beschützen."
+      <DefaultText>„Ich ... dachte nicht, dass ich noch einmal die Gelegenheit bekommen würde, die Meinen zu beschützen.“
 
-"Es wäre mir eine Ehre, das für dich zu tun."</DefaultText>
+„Es wäre mir eine Ehre, das für dich zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Als ich Gabenbringerin wurde, hätte ich nie geglaubt, dass es mein eigener Leichnam sein würde, der in Ondras Tiefen zurückgelassen wird."
+      <DefaultText>„Als ich Gabenbringerin wurde, hätte ich nie geglaubt, dass es mein eigener Leichnam sein würde, der in Ondras Tiefen zurückgelassen wird.“
 
-"Aber es wird mir gut tun, etwas zu tun, was ich nicht bereue."</DefaultText>
+„Aber es wird mir gut tun, etwas zu tun, was ich nicht bereue.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Äh ... drei Runden, wer zweimal verliert?"
+      <DefaultText>„Äh ... drei Runden, wer zweimal verliert?“
 
 Er blickt einen Augenblick zur Decke, atmet tief ein und blickt dann wieder zu dir zurück. Er nickt resigniert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, mein Freund. Das ist alles, worum ich dich bitte."</DefaultText>
-      <FemaleText>"Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, meine Freundin. Das ist alles, worum ich dich bitte."</FemaleText>
+      <DefaultText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, mein Freund. Das ist alles, worum ich dich bitte.“</DefaultText>
+      <FemaleText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, meine Freundin. Das ist alles, worum ich dich bitte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich habe zu viele Befehle befolgt, ohne sie zu verstehen. Aber diesen Befehl werde ich mit Stolz ausführen."
+      <DefaultText>„Ich habe zu viele Befehle befolgt, ohne sie zu verstehen. Aber diesen Befehl werde ich mit Stolz ausführen.“
 
-"Leb wohl, [Player Name]."</DefaultText>
+„Leb wohl, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Als wir uns in Ondras Geschenk begegnet sind, war mir nicht klar, dass ich mich auf so etwas einlasse ..."
+      <DefaultText>„Als wir uns in Ondras Geschenk begegnet sind, war mir nicht klar, dass ich mich auf so etwas einlasse ...“
 
 Ein trauriges Lächeln spielt um ihre Lippen, weicht aber unmittelbar einem entschlossenen Ausdruck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Betrachte das nicht als deine Absolution. Deine Seele wird noch in das Feuer geworfen werden, auch wenn ich es nicht mehr mitansehen werde."
+      <DefaultText>„Betrachte das nicht als deine Absolution. Deine Seele wird noch in das Feuer geworfen werden, auch wenn ich es nicht mehr mitansehen werde.“
 
-"Am besten lernt man durch Nachahmung. Betrachte das als eine Lektion."</DefaultText>
+„Am besten lernt man durch Nachahmung. Betrachte das als eine Lektion.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich sagte, ich wäre hier, um dir zu helfen, Wächter. Nicht um an deiner statt angeklagt zu werden."</DefaultText>
-      <FemaleText>"Ich sagte, ich wäre hier, um dir zu helfen, Wächterin. Nicht um an deiner statt angeklagt zu werden."</FemaleText>
+      <DefaultText>„Ich sagte, ich wäre hier, um dir zu helfen, Wächter. Nicht um an deiner statt angeklagt zu werden.“</DefaultText>
+      <FemaleText>„Ich sagte, ich wäre hier, um dir zu helfen, Wächterin. Nicht um an deiner statt angeklagt zu werden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Sie nickt. "Sendet einen Boten zu Kallu und den Kindern. Und kümmert euch um Itumaak."
+      <DefaultText>Sie nickt. „Sendet einen Boten zu Kallu und den Kindern. Und kümmert euch um Itumaak.“
 
 Sie will Itumaak zu dir schicken, aber der Fuchs legt sich vor ihre Füße. Sie seufzt resigniert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Du weißt, dass ich dir überall hin folgen würde, aber ich habe meine Pflichten Massuk gegenüber noch nicht erfüllt. Es tut mir leid, [Player Name]."</DefaultText>
+      <DefaultText>„Du weißt, dass ich dir überall hin folgen würde, aber ich habe meine Pflichten Massuk gegenüber noch nicht erfüllt. Es tut mir leid, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wenn mein Opfer eine sicherere Welt für die Kinder des Östlichen Abschnitts schafft, dann nehme ich es an."</DefaultText>
+      <DefaultText>„Wenn mein Opfer eine sicherere Welt für die Kinder des Östlichen Abschnitts schafft, dann nehme ich es an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Es war eine gute Reise. Kürzer, als ich gehofft hatte."
+      <DefaultText>„Es war eine gute Reise. Kürzer, als ich gehofft hatte.“
 
-"Aber Wael hat sie interessant gestaltet, und das war mehr, als ich mir erträumt hätte."</DefaultText>
+„Aber Wael hat sie interessant gestaltet, und das war mehr, als ich mir erträumt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Vergib mir. Ich wurde bereits von einem Stelgaer verstümmelt. Ich habe meinen Tribut an das Unglück bereits entrichtet."
+      <DefaultText>„Vergib mir. Ich wurde bereits von einem Stelgaer verstümmelt. Ich habe meinen Tribut an das Unglück bereits entrichtet.“
 
-"Nun ist jemand anderes an der Reihe."</DefaultText>
+„Nun ist jemand anderes an der Reihe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,7 +473,7 @@ Chaos geht durch die Reihen, als die Augenlosen sich nach dem Aufruhr umdrehen.<
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>["Gesegnet ward Wengridh, Schnellster seines Stammes" singen.]</DefaultText>
+      <DefaultText>[„Gesegnet ward Wengridh, Schnellster seines Stammes“ singen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1330,7 +1330,7 @@ Deine Lungen und Glieder brennen. Funken fliegen vor deinen Augen hin und her.</
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Ihr habt uns aus unserem Gefängnis in Durgans Batterie befreit. Hiermit ist unsere Schuld beglichen."
+      <DefaultText>„Ihr habt uns aus unserem Gefängnis in Durgans Batterie befreit. Hiermit ist unsere Schuld beglichen.“
 
 Die Lagufaeth, besessen von den Geistern Marunns und der anderen Pargrunen, tragen [Specified 0] an die Oberfläche.</DefaultText>
       <FemaleText />
@@ -1344,14 +1344,14 @@ Du hörst ein Flüstern in deinem Verstand.</DefaultText>
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>"Du hast uns aus unserem Gefängnis in Durgans Batterie befreit. Hiermit ist unsere Schuld beglichen."
+      <DefaultText>„Du hast uns aus unserem Gefängnis in Durgans Batterie befreit. Hiermit ist unsere Schuld beglichen.“
 
 Die Lagufaeth, besessen von den Geistern Marunns und einigen der anderen Pargrunen, tragen dich an die Oberfläche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Ich habe dir schon einmal gesagt, dass es besser wäre, wenn alles, was du gesehen hast, vergessen werden würde."</DefaultText>
+      <DefaultText>„Ich habe dir schon einmal gesagt, dass es besser wäre, wenn alles, was du gesehen hast, vergessen werden würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,63 +1361,63 @@ Die Lagufaeth, besessen von den Geistern Marunns und einigen der anderen Pargrun
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Du hast uns mutig geführt, [Player Name]. Es war eine Ehre, dir zu folgen."</DefaultText>
+      <DefaultText>„Du hast uns mutig geführt, [Player Name]. Es war eine Ehre, dir zu folgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Die Götter meinen es wahrlich nicht gut mit dir. Ich wünschte, sie würden dich so kennen, wie ich es tue."</DefaultText>
+      <DefaultText>„Die Götter meinen es wahrlich nicht gut mit dir. Ich wünschte, sie würden dich so kennen, wie ich es tue.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"So lange ich lebe, wird Massuk deinen Namen neben dem von Persoq singen, [Player Name]."</DefaultText>
+      <DefaultText>„So lange ich lebe, wird Massuk deinen Namen neben dem von Persoq singen, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Ich ... jeder wird erfahren, was du für uns getan hast. Ich werde es jedem sagen, den ich kenne. Nicht einmal die Seekönigin selbst könnte mich aufhalten."</DefaultText>
+      <DefaultText>„Ich ... jeder wird erfahren, was du für uns getan hast. Ich werde es jedem sagen, den ich kenne. Nicht einmal die Seekönigin selbst könnte mich aufhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Ich hoffe nur, du tust das nicht für all die Nichtsnutze in Stalwart. Selbst die Neuankömmlinge sind das nicht wert."</DefaultText>
+      <DefaultText>„Ich hoffe nur, du tust das nicht für all die Nichtsnutze in Stalwart. Selbst die Neuankömmlinge sind das nicht wert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Ein großer Akt der Freiheit. Dein Körper wird leiden, doch deine Seele wird aufblühen."
+      <DefaultText>„Ein großer Akt der Freiheit. Dein Körper wird leiden, doch deine Seele wird aufblühen.“
 
-"Ich werde mich immer an dein Vorbild erinnern."</DefaultText>
+„Ich werde mich immer an dein Vorbild erinnern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Dein Opfer wird viele Leben retten."</DefaultText>
+      <DefaultText>„Dein Opfer wird viele Leben retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Geradewegs ins Feuer. Deine Chancen stehen nicht gut, doch zumindest hast du gelernt, die Prüfung bereitwillig anzunehmen."
+      <DefaultText>„Geradewegs ins Feuer. Deine Chancen stehen nicht gut, doch zumindest hast du gelernt, die Prüfung bereitwillig anzunehmen.“
 
-"Ich habe dir doch gesagt, dass ich dir gut tun würde, Wächter."</DefaultText>
-      <FemaleText>"Geradewegs ins Feuer. Deine Chancen stehen nicht gut, doch zumindest hast du gelernt, die Prüfung bereitwillig anzunehmen."
+„Ich habe dir doch gesagt, dass ich dir gut tun würde, Wächter.“</DefaultText>
+      <FemaleText>„Geradewegs ins Feuer. Deine Chancen stehen nicht gut, doch zumindest hast du gelernt, die Prüfung bereitwillig anzunehmen.“
 
-"Ich habe dir doch gesagt, dass ich dir gut tun würde, Wächterin."</FemaleText>
+„Ich habe dir doch gesagt, dass ich dir gut tun würde, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Du bist eine mutige Seele, [Player Name]. Ich wünschte, ich wäre dir früher begegnet."</DefaultText>
+      <DefaultText>„Du bist eine mutige Seele, [Player Name]. Ich wünschte, ich wäre dir früher begegnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>"Was du heute tust, wirkt sich auf den ganzen Östlichen Abschnitt aus, weit über die Weißmark hinaus. Ich werde dafür sorgen, dass die Republiken wissen, welches Opfer du gebracht hast."</DefaultText>
+      <DefaultText>„Was du heute tust, wirkt sich auf den ganzen Östlichen Abschnitt aus, weit über die Weißmark hinaus. Ich werde dafür sorgen, dass die Republiken wissen, welches Opfer du gebracht hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"Wael lehrt uns, dass alles aus einem Grund geschieht. Oder manchmal auch völlig ohne Grund. Deswegen hat er wahrscheinlich so wenige Anhänger."</DefaultText>
+      <DefaultText>„Wael lehrt uns, dass alles aus einem Grund geschieht. Oder manchmal auch völlig ohne Grund. Deswegen hat er wahrscheinlich so wenige Anhänger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1437,9 +1437,9 @@ Die Lagufaeth, besessen von den Geistern Marunns und einigen der anderen Pargrun
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Ich habe in deiner Gesellschaft Frieden gefunden. Meine Seele klammert sich nicht länger an diese Existenz."
+      <DefaultText>„Ich habe in deiner Gesellschaft Frieden gefunden. Meine Seele klammert sich nicht länger an diese Existenz.“
 
-"Erlaube mir, diesen Gefallen zu erwidern. Erlaube mir, zurückzubleiben."</DefaultText>
+„Erlaube mir, diesen Gefallen zu erwidern. Erlaube mir, zurückzubleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@ Eine Stimme wie sanft schwappende Wellen flüstert in deinem Verstand.</DefaultT
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Vergiss auch das. Götter intervenieren nicht um Sterblicher willen."
+      <DefaultText>„Vergiss auch das. Götter intervenieren nicht um Sterblicher willen.“
 
 Das Wasser drückt dich wie eine Hand in Richtung des gespenstischen Lichts der Oberfläche.</DefaultText>
       <FemaleText />
@@ -1578,29 +1578,29 @@ Das Wasser drückt dich wie eine Hand in Richtung des gespenstischen Lichts der 
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>"Die Götter haben es wirklich auf dich abgesehen. In deinem nächsten Leben sind sie dir etwas schuldig."</DefaultText>
+      <DefaultText>„Die Götter haben es wirklich auf dich abgesehen. In deinem nächsten Leben sind sie dir etwas schuldig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Ich wusste, dass meine Tage gezählt sind. Nun habe ich wenigstens einen guten Grund."</DefaultText>
+      <DefaultText>„Ich wusste, dass meine Tage gezählt sind. Nun habe ich wenigstens einen guten Grund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>"Aber wenn das verhindert, dass die Augenlosen den Östlichen Abschnitt überrennen, dann tue ich, was getan werden muss. Ado vidòrio."</DefaultText>
+      <DefaultText>„Aber wenn das verhindert, dass die Augenlosen den Östlichen Abschnitt überrennen, dann tue ich, was getan werden muss. Ado vidòrio.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Sorge du dafür, dass du die Sache lebend überstehst. Sie zu Ende bringst."
+      <DefaultText>„Sorge du dafür, dass du die Sache lebend überstehst. Sie zu Ende bringst.“
 
-"Verlier nicht den Verstand. Vielleicht komme ich wieder und suche dich heim, um der alten Zeiten willen."</DefaultText>
+„Verlier nicht den Verstand. Vielleicht komme ich wieder und suche dich heim, um der alten Zeiten willen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>"Wenn du den Hammer eines Gottes ergreifst, erweise ihm wenigstens die Höflichkeit, die Arbeit selbst zu Ende zu bringen."</DefaultText>
+      <DefaultText>„Wenn du den Hammer eines Gottes ergreifst, erweise ihm wenigstens die Höflichkeit, die Arbeit selbst zu Ende zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

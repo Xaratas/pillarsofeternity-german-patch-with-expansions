@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Warum hilfst du mir, Abydon? Ich dachte, du würdest zornig sein."</DefaultText>
+      <DefaultText>„Warum hilfst du mir, Abydon? Ich dachte, du würdest zornig sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Ich dachte, du dienst der Bewahrung, Abydon."</DefaultText>
+      <DefaultText>„Ich dachte, du dienst der Bewahrung, Abydon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Zornig? Du bist nicht mitschuldig an den Taten von Thaos. Deswegen wenden wir uns nun an dich."
+      <DefaultText>„Zornig? Du bist nicht mitschuldig an den Taten von Thaos. Deswegen wenden wir uns nun an dich.“
 
 Du spürst Abydons Verwirrung und, ja, auch die der anderen Götter. Wo die Essenz der Augenlosen auch verstreut wurde, du spürst nichts davon in Abydon.</DefaultText>
       <FemaleText />
@@ -53,19 +53,19 @@ Du spürst Abydons Verwirrung und, ja, auch die der anderen Götter. Wo die Esse
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Sagen wir einfach, es ist gut, dass er sich nicht an dieses Zerfetzen von Seelen erinnert ... und belassen wir es dabei."</DefaultText>
+      <DefaultText>„Sagen wir einfach, es ist gut, dass er sich nicht an dieses Zerfetzen von Seelen erinnert ... und belassen wir es dabei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Essenz kann ebenso wenig in einem toten Körper verbleiben wie Öl in einem zerbrochenen Gefäß."
+      <DefaultText>„Essenz kann ebenso wenig in einem toten Körper verbleiben wie Öl in einem zerbrochenen Gefäß.“
 
-"Die gestohlenen Leben können zwar nicht bewahrt werden, aber ihre Essenz kann dazu dienen, das Überleben des dyrwäldischen Überrestes zu sichern."</DefaultText>
+„Die gestohlenen Leben können zwar nicht bewahrt werden, aber ihre Essenz kann dazu dienen, das Überleben des dyrwäldischen Überrestes zu sichern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"So leben die Erinnerungen und Visionen der Toten vielleicht weiter. Das ist die Natur der Bewahrung."</DefaultText>
+      <DefaultText>„So leben die Erinnerungen und Visionen der Toten vielleicht weiter. Das ist die Natur der Bewahrung.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

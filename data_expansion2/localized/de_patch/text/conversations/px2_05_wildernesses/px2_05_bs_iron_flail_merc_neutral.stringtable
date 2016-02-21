@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Diese Leute verstehen keinen Spaß. Aber sie zahlen gut!"</DefaultText>
+      <DefaultText>„Diese Leute verstehen keinen Spaß. Aber sie zahlen gut!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wenn der Boss sagt, dass du in Ordnung bist, dann bist du in Ordnung."</DefaultText>
+      <DefaultText>„Wenn der Boss sagt, dass du in Ordnung bist, dann bist du in Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Erst bei Baelorin, jetzt Adaryc. Willst du nun bei allen meinen Aufträgen auftauchen?"</DefaultText>
+      <DefaultText>„Erst bei Baelorin, jetzt Adaryc. Willst du nun bei allen meinen Aufträgen auftauchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich wusste schon immer, dass Adaryc nicht ganz richtig im Kopf ist ... aber sag niemandem, dass ich das gesagt habe."</DefaultText>
+      <DefaultText>„Ich wusste schon immer, dass Adaryc nicht ganz richtig im Kopf ist ... aber sag niemandem, dass ich das gesagt habe.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

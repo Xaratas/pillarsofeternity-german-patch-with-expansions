@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Erste Tafel: "Anthu: Das Ende."</DefaultText>
+      <DefaultText>Erste Tafel: „Anthu: Das Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Zweite Tafel: "Saman: Die Flut."</DefaultText>
+      <DefaultText>Zweite Tafel: „Saman: Die Flut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Dritte Tafel: "Disaman: Die Ebbe."</DefaultText>
+      <DefaultText>Dritte Tafel: „Disaman: Die Ebbe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Vierte Tafel: "Dianthu: Der Anfang."</DefaultText>
+      <DefaultText>Vierte Tafel: „Dianthu: Der Anfang.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

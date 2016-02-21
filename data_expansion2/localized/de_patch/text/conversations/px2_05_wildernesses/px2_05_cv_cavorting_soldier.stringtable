@@ -6,197 +6,197 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich kann das erklären! M-Moment. Wer bist du?"</DefaultText>
+      <DefaultText>„Ich kann das erklären! M-Moment. Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du bist dieser Fürst von Caed Nua, oder?" Die Wangen der Frau färben sich rot.
+      <DefaultText>„Du bist dieser Fürst von Caed Nua, oder?“ Die Wangen der Frau färben sich rot.
 
-"Was tust du hier?"</DefaultText>
-      <FemaleText>"Du bist diese Fürstin von Caed Nua, oder?" Die Wangen der Frau färben sich rot.
+„Was tust du hier?“</DefaultText>
+      <FemaleText>„Du bist diese Fürstin von Caed Nua, oder?“ Die Wangen der Frau färben sich rot.
 
-"Was tust du hier?"</FemaleText>
+„Was tust du hier?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Was führt ihr zwei im Schilde?"</DefaultText>
+      <DefaultText>„Was führt ihr zwei im Schilde?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Viel zu kalt, um irgendwas im Schilde zu führen ..."</DefaultText>
+      <DefaultText>„Viel zu kalt, um irgendwas im Schilde zu führen ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wir vertreiben uns nur ein bisschen die Zeit. Das ist doch nicht verboten, oder?"
+      <DefaultText>„Wir vertreiben uns nur ein bisschen die Zeit. Das ist doch nicht verboten, oder?“
 
 Sie kichert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Beruhige dich. Ich bin nicht hier, um jemanden zu verletzen."</DefaultText>
+      <DefaultText>„Beruhige dich. Ich bin nicht hier, um jemanden zu verletzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Weißt du etwas über die Gesandten aus Stalwart?"</DefaultText>
+      <DefaultText>„Weißt du etwas über die Gesandten aus Stalwart?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Nun ... wozu bist du dann hier? Wenn die Patrouillen dich erwischen, werfen sie dich den Hunden zum Fraß vor."</DefaultText>
+      <DefaultText>„Nun ... wozu bist du dann hier? Wenn die Patrouillen dich erwischen, werfen sie dich den Hunden zum Fraß vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Du kollaborierst mit dem Feind?"</DefaultText>
+      <DefaultText>„Du kollaborierst mit dem Feind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Immer noch hier? Du traust dich was, bei den vielen Patrouillen."</DefaultText>
+      <DefaultText>„Immer noch hier? Du traust dich was, bei den vielen Patrouillen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Nur das Offensichtliche ... sie haben nicht gut verhandelt."</DefaultText>
+      <DefaultText>„Nur das Offensichtliche ... sie haben nicht gut verhandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Hast du keine Angst, erwischt zu werden?"</DefaultText>
+      <DefaultText>„Hast du keine Angst, erwischt zu werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Was weißt du über den Eisenflegel?"</DefaultText>
+      <DefaultText>„Was weißt du über den Eisenflegel?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Egal, was du gehört hast ... wir sind nicht nur hier, um ein paar Nasen blutig zu schlagen. Dieser Pass und die Batterie ... die Berge bilden einen Wall."</DefaultText>
+      <DefaultText>„Egal, was du gehört hast ... wir sind nicht nur hier, um ein paar Nasen blutig zu schlagen. Dieser Pass und die Batterie ... die Berge bilden einen Wall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Was kannst du mir über den Kommandanten sagen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über den Kommandanten sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Vorsicht. Der hört stundenlang nicht auf, wenn du ihn nicht bremst."</DefaultText>
+      <DefaultText>„Vorsicht. Der hört stundenlang nicht auf, wenn du ihn nicht bremst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Er hat uns unseren Stolz zurückgegeben. Uns gesagt, wir dürfen unseren Glauben nicht verlieren. Manchmal glaube ich, der Wachsame spricht durch ihn."</DefaultText>
+      <DefaultText>„Er hat uns unseren Stolz zurückgegeben. Uns gesagt, wir dürfen unseren Glauben nicht verlieren. Manchmal glaube ich, der Wachsame spricht durch ihn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Der Kommandant?" Seine Augen strahlen.
+      <DefaultText>„Der Kommandant?“ Seine Augen strahlen.
 
-"Er hat den Eisenflegel selbst gegründet. Er ist ein guter Mann. Er glaubt an Readceras. Mehr als irgendjemand sonst."</DefaultText>
+„Er hat den Eisenflegel selbst gegründet. Er ist ein guter Mann. Er glaubt an Readceras. Mehr als irgendjemand sonst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Der Kommandant ist seit einer Woche rasend vor Zorn. Das sieht ihm nicht ähnlich."</DefaultText>
+      <DefaultText>„Der Kommandant ist seit einer Woche rasend vor Zorn. Das sieht ihm nicht ähnlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ich muss mit dem Kommandanten sprechen."</DefaultText>
+      <DefaultText>„Ich muss mit dem Kommandanten sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich kann dir nicht helfen. Und ich meine nicht nur, dass sie mich dafür aufknüpfen würden. Wenn du vor der Ankunft der Gesandten gekommen wärst, hättest du vielleicht eine Chance gehabt."</DefaultText>
+      <DefaultText>„Ich kann dir nicht helfen. Und ich meine nicht nur, dass sie mich dafür aufknüpfen würden. Wenn du vor der Ankunft der Gesandten gekommen wärst, hättest du vielleicht eine Chance gehabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Offenbar steht uns ein Kampf bevor, und der Kommandant geht kein Risiko ein."
+      <DefaultText>„Offenbar steht uns ein Kampf bevor, und der Kommandant geht kein Risiko ein.“
 
-"Ich, äh, dürfte gar nicht hier draußen sein."</DefaultText>
+„Ich, äh, dürfte gar nicht hier draußen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Da sind wir schon zu dritt, oder?"</DefaultText>
+      <DefaultText>„Da sind wir schon zu dritt, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Der Eisenflegel ist die Waffe von Gaun. Dem Beschützer der Unschuldigen. Daher haben wir den Namen."</DefaultText>
+      <DefaultText>„Der Eisenflegel ist die Waffe von Gaun. Dem Beschützer der Unschuldigen. Daher haben wir den Namen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Kein Grund für so eine Theatralik! Wir tun niemandem etwas."</DefaultText>
+      <DefaultText>„Kein Grund für so eine Theatralik! Wir tun niemandem etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Außerdem ... scheint Gamel hier recht vernünftig zu sein."</DefaultText>
+      <DefaultText>„Außerdem ... scheint Gamel hier recht vernünftig zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Pass auf dich auf! Also ... wo waren wir?"</DefaultText>
+      <DefaultText>„Pass auf dich auf! Also ... wo waren wir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Hier ... ich habe dir einen Schal mitgebracht."</DefaultText>
+      <DefaultText>„Hier ... ich habe dir einen Schal mitgebracht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ohhh, danke, Meryel."</DefaultText>
+      <DefaultText>„Ohhh, danke, Meryel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Seid ihr mit dieser Armee hier?"</DefaultText>
+      <DefaultText>„Seid ihr mit dieser Armee hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"N-nein, wir sind nur ... Dorfbewohner."</DefaultText>
+      <DefaultText>„N-nein, wir sind nur ... Dorfbewohner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Wenn du mich noch einmal anlügst, muss ich dir wehtun."</DefaultText>
+      <DefaultText>„Wenn du mich noch einmal anlügst, muss ich dir wehtun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Aber sicher doch."</DefaultText>
+      <DefaultText>„Aber sicher doch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Dafür seid ihr aber recht ordentlich bewaffnet."</DefaultText>
+      <DefaultText>„Dafür seid ihr aber recht ordentlich bewaffnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er windet sich. "Bitte, nicht so laut. Alec schläft vielleicht im Dienst, aber er ist nicht der Einzige hier."</DefaultText>
+      <DefaultText>Er windet sich. „Bitte, nicht so laut. Alec schläft vielleicht im Dienst, aber er ist nicht der Einzige hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Die jungen Leute von heute haben keine Vorstellungskraft."</DefaultText>
+      <DefaultText>„Die jungen Leute von heute haben keine Vorstellungskraft.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -43,7 +43,7 @@ Du blickst hinüber und siehst Maneha im Schlaf zucken und murmeln.</DefaultText
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ganz ruhig! Du bist in Sicherheit."</DefaultText>
+      <DefaultText>„Ganz ruhig! Du bist in Sicherheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,24 +65,24 @@ Die Anstrengung scheint sie aber endgültig aufgeweckt zu haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Was habe ich-" Ihr Blick huscht umher, bleibt jedoch schließlich an dir haften.
+      <DefaultText>„Was habe ich-“ Ihr Blick huscht umher, bleibt jedoch schließlich an dir haften.
 
 Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Tut mir leid. Ich habe wohl geträumt." Sie legt sich wieder hin und wendet sich von dir ab.</DefaultText>
+      <DefaultText>„Tut mir leid. Ich habe wohl geträumt.“ Sie legt sich wieder hin und wendet sich von dir ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Was hast du geträumt?"</DefaultText>
+      <DefaultText>„Was hast du geträumt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Geh wieder schlafen."</DefaultText>
+      <DefaultText>„Geh wieder schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Deswegen willst du wirklich in die Abtei des Gefallenen Mondes. Um es zu vergessen."</DefaultText>
+      <DefaultText>„Deswegen willst du wirklich in die Abtei des Gefallenen Mondes. Um es zu vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,42 +102,42 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich will dich noch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich will dich noch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Weggehen.] "Nun gut."</DefaultText>
+      <DefaultText>[Weggehen.] „Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Und weiter?"</DefaultText>
+      <DefaultText>„Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Und weiter?"</DefaultText>
+      <DefaultText>„Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Und weiter?"</DefaultText>
+      <DefaultText>„Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Es ist nichts. Tut mir leid. Ich hätte dich nicht damit belasten sollen." Sie zieht sich die Decke über ihre Schultern.</DefaultText>
+      <DefaultText>„Es ist nichts. Tut mir leid. Ich hätte dich nicht damit belasten sollen.“ Sie zieht sich die Decke über ihre Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Wach auf, Maneha."</DefaultText>
+      <DefaultText>„Wach auf, Maneha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Du belastest mich nicht, aber irgendetwas belastet ganz offensichtlich dich. Ich möchte dir helfen."</DefaultText>
+      <DefaultText>„Du belastest mich nicht, aber irgendetwas belastet ganz offensichtlich dich. Ich möchte dir helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,47 +147,47 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Du hast mir von deiner Erweckung erzählt-"</DefaultText>
+      <DefaultText>„Du hast mir von deiner Erweckung erzählt-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Tut mir leid wegen gestern Nacht. Ich muss dir wohl etwas sagen."</DefaultText>
+      <DefaultText>„Tut mir leid wegen gestern Nacht. Ich muss dir wohl etwas sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Sag mir einfach, was los ist."</DefaultText>
+      <DefaultText>„Sag mir einfach, was los ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Heraus mit der Sprache."</DefaultText>
+      <DefaultText>„Heraus mit der Sprache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Gute Nacht, [Player Name]." Sie legt sich wieder hin, mit dem Rücken zu dir.</DefaultText>
+      <DefaultText>„Gute Nacht, [Player Name].“ Sie legt sich wieder hin, mit dem Rücken zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Jetzt sind wir schon beide wach. Also können wir auch darüber reden."</DefaultText>
+      <DefaultText>„Jetzt sind wir schon beide wach. Also können wir auch darüber reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Die anderen schlafen noch. Wir reden leise."</DefaultText>
+      <DefaultText>„Die anderen schlafen noch. Wir reden leise.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Für gewöhnlich spreche ich nicht darüber, aber du hast deine Erweckung erwähnt." Sie spielt nervös an einer Perlenkette herum.</DefaultText>
+      <DefaultText>„Für gewöhnlich spreche ich nicht darüber, aber du hast deine Erweckung erwähnt.“ Sie spielt nervös an einer Perlenkette herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Wenn du dir Feinde machst, dann aber richtig, was?"</DefaultText>
+      <DefaultText>„Wenn du dir Feinde machst, dann aber richtig, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Ich will dich etwas fragen."</DefaultText>
+      <DefaultText>„Ich will dich etwas fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,248 +232,248 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Für gewöhnlich spreche ich nicht darüber, aber-"</DefaultText>
+      <DefaultText>„Für gewöhnlich spreche ich nicht darüber, aber-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Ich hatte ein ähnliches Problem."</DefaultText>
+      <DefaultText>„Ich hatte ein ähnliches Problem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Ich erinnere mich an etwas aus einem früheren Leben. Es ist vor hunderten von Jahren passiert, aber ich erinnere mich, als wäre es gestern gewesen."</DefaultText>
+      <DefaultText>„Ich erinnere mich an etwas aus einem früheren Leben. Es ist vor hunderten von Jahren passiert, aber ich erinnere mich, als wäre es gestern gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Was ist das für eine Erinnerung?"</DefaultText>
+      <DefaultText>„Was ist das für eine Erinnerung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Wie hast du dich daran erinnert?"</DefaultText>
+      <DefaultText>„Wie hast du dich daran erinnert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Und was jetzt?"</DefaultText>
+      <DefaultText>„Und was jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Es ist etwas Schreckliches, was ich getan habe. Vor langer Zeit und als eine andere Person, aber ich erinnere mich ganz deutlich daran."</DefaultText>
+      <DefaultText>„Es ist etwas Schreckliches, was ich getan habe. Vor langer Zeit und als eine andere Person, aber ich erinnere mich ganz deutlich daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Es geschah, als ich vor zwanzig Jahren in Alt-Vailia gekämpft habe. Meine Einheit kampierte in dem Palast, den wir gerade erobert hatten."</DefaultText>
+      <DefaultText>„Es geschah, als ich vor zwanzig Jahren in Alt-Vailia gekämpft habe. Meine Einheit kampierte in dem Palast, den wir gerade erobert hatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Die anderen waren gerade dabei, die letzten Schweine des Marcesos im Festsaal zu braten, also bin ich in den Weinkeller gegangen, um ein paar Flaschen zu holen."
+      <DefaultText>„Die anderen waren gerade dabei, die letzten Schweine des Marcesos im Festsaal zu braten, also bin ich in den Weinkeller gegangen, um ein paar Flaschen zu holen.“
 
 Sie verknotet ihre Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Ich weiß nicht, wie lange sie sich dort schon versteckt gehalten hatte, aber da war eine alte Frau. Muss wohl zur Dienerschaft gehört haben."
+      <DefaultText>„Ich weiß nicht, wie lange sie sich dort schon versteckt gehalten hatte, aber da war eine alte Frau. Muss wohl zur Dienerschaft gehört haben.“
 
 Ihre Hände ballen sich zu Fäusten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Sie hatte so einen wilden Blick in den Augen. Ich ging zu ihr und wollte ihr sagen, dass sie keine Angst zu haben braucht, dass sie in Sicherheit ist."
+      <DefaultText>„Sie hatte so einen wilden Blick in den Augen. Ich ging zu ihr und wollte ihr sagen, dass sie keine Angst zu haben braucht, dass sie in Sicherheit ist.“
 
 Maneha streckt die Hand aus, sie durchlebt die Erinnerung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Sie hat geschrien und mich am Arm gepackt." Sie schließt ihre Augen.</DefaultText>
+      <DefaultText>„Sie hat geschrien und mich am Arm gepackt.“ Sie schließt ihre Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Ich habe ein paar Flaschen mit hochgenommen und mit dem Rest der Truppen gegessen. Aber als ich schlafen ging, hatte ich einen Traum." Sie schaudert.</DefaultText>
+      <DefaultText>„Ich habe ein paar Flaschen mit hochgenommen und mit dem Rest der Truppen gegessen. Aber als ich schlafen ging, hatte ich einen Traum.“ Sie schaudert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Nur war dieser Traum lebendiger als alle, die ich zuvor je gehabt hatte. Ich konnte den Schweiß auf meinen Lippen schmecken. Die Urwaldluft auf meiner Haut spüren. Die Schreie hören, die-" Sie hält inne und schluckt. Sie schüttelt den Kopf.</DefaultText>
+      <DefaultText>„Nur war dieser Traum lebendiger als alle, die ich zuvor je gehabt hatte. Ich konnte den Schweiß auf meinen Lippen schmecken. Die Urwaldluft auf meiner Haut spüren. Die Schreie hören, die-“ Sie hält inne und schluckt. Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Jedenfalls habe ich ein paar Tage nichts getrunken, aber der Traum kam immer wieder. Nach einigen Wochen dachte ich, ein Tapetenwechsel würde mir guttun."</DefaultText>
+      <DefaultText>„Jedenfalls habe ich ein paar Tage nichts getrunken, aber der Traum kam immer wieder. Nach einigen Wochen dachte ich, ein Tapetenwechsel würde mir guttun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Seitdem war ich Piratin im Todesfeuer-Archipel, Pilgerin im Ewigen Weiß, Abenteurerin im Land der Lebenden und Gabenbringerin in Ixamitl."
+      <DefaultText>„Seitdem war ich Piratin im Todesfeuer-Archipel, Pilgerin im Ewigen Weiß, Abenteurerin im Land der Lebenden und Gabenbringerin in Ixamitl.“
 
 Sie lächelt dich reumütig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Ich habe dir gesagt, dass ich nach der Abtei des Gefallenen Mondes suche, um etwas hinter mir zu lassen."</DefaultText>
+      <DefaultText>„Ich habe dir gesagt, dass ich nach der Abtei des Gefallenen Mondes suche, um etwas hinter mir zu lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Es gibt dort ein Becken. Den Salzbrunnen. Dort legen Gabenbringer die schwersten aller Lasten ab."
+      <DefaultText>„Es gibt dort ein Becken. Den Salzbrunnen. Dort legen Gabenbringer die schwersten aller Lasten ab.“
 
 Sie hält inne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Angeblich kann man das Becken betreten und seine eigenen Erinnerungen zurücklassen." Sie hat einen abwesenden, hungrigen Blick in den Augen.</DefaultText>
+      <DefaultText>„Angeblich kann man das Becken betreten und seine eigenen Erinnerungen zurücklassen.“ Sie hat einen abwesenden, hungrigen Blick in den Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Das ist der Plan."</DefaultText>
+      <DefaultText>„Das ist der Plan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Und du willst diese Erinnerung, die dich plagt, im Salzbrunnen zurücklassen."</DefaultText>
+      <DefaultText>„Und du willst diese Erinnerung, die dich plagt, im Salzbrunnen zurücklassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Was ist, wenn du mehr verlierst, als du beabsichtigst?"</DefaultText>
+      <DefaultText>„Was ist, wenn du mehr verlierst, als du beabsichtigst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Sie lacht. "Ich würde inzwischen bereitwillig alle meine Erinnerungen aufgeben, wenn das nötig ist, um in diesem und im nächsten Leben Frieden zu haben."</DefaultText>
+      <DefaultText>Sie lacht. „Ich würde inzwischen bereitwillig alle meine Erinnerungen aufgeben, wenn das nötig ist, um in diesem und im nächsten Leben Frieden zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Schlafen wir ein wenig. Wir haben viel zu tun."</DefaultText>
+      <DefaultText>„Schlafen wir ein wenig. Wir haben viel zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Wir müssen aufbrechen. Wir haben einen weiten Weg vor uns."</DefaultText>
+      <DefaultText>„Wir müssen aufbrechen. Wir haben einen weiten Weg vor uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Es war ein Krieg. Vor Jahrhunderten, vor der aedyranischen Vereinigung." Sie verschränkt die Hände vor sich.</DefaultText>
+      <DefaultText>„Es war ein Krieg. Vor Jahrhunderten, vor der aedyranischen Vereinigung.“ Sie verschränkt die Hände vor sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Ich war damals Soldatin. Ich habe in den nördlichen Wäldern einen Feldzug angeführt, um einige der abgeschiedenen Kulklin-Dörfer zu unterwerfen. Brutale Arbeit."</DefaultText>
+      <DefaultText>„Ich war damals Soldatin. Ich habe in den nördlichen Wäldern einen Feldzug angeführt, um einige der abgeschiedenen Kulklin-Dörfer zu unterwerfen. Brutale Arbeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>"Ein Drittel meiner Truppen habe ich an den Wald verloren, ein weiteres Drittel an die Elfenspäher, die sich darin versteckt hielten."
+      <DefaultText>„Ein Drittel meiner Truppen habe ich an den Wald verloren, ein weiteres Drittel an die Elfenspäher, die sich darin versteckt hielten.“
 
-"Als wir das erste Dorf erreichten, hatten wir ihre Verteidigung zerschlagen und sie hatten uns fast ausbluten lassen." Sie schüttelt den Kopf.</DefaultText>
+„Als wir das erste Dorf erreichten, hatten wir ihre Verteidigung zerschlagen und sie hatten uns fast ausbluten lassen.“ Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>"Es waren fast nur noch Kinder und Alte übrig, aber sie bespuckten uns, als wir in das Dorf einmarschierten." Sie verzieht zornig das Gesicht. Ihr Blick ist kalt.</DefaultText>
+      <DefaultText>„Es waren fast nur noch Kinder und Alte übrig, aber sie bespuckten uns, als wir in das Dorf einmarschierten.“ Sie verzieht zornig das Gesicht. Ihr Blick ist kalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Also habe ich jeden einzelnen von ihnen an die Bäume im Dorf nageln lassen und sie dort sterben lassen."</DefaultText>
+      <DefaultText>„Also habe ich jeden einzelnen von ihnen an die Bäume im Dorf nageln lassen und sie dort sterben lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>"Was ist dann passiert?"</DefaultText>
+      <DefaultText>„Was ist dann passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>"Du hast diese Dorfbewohner getötet, um weitere Kämpfe zu verhindern?"</DefaultText>
+      <DefaultText>„Du hast diese Dorfbewohner getötet, um weitere Kämpfe zu verhindern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"Du warst in diesem Leben Söldnerin und Piratin. Ist das wirklich so ein großer Unterschied?"</DefaultText>
+      <DefaultText>„Du warst in diesem Leben Söldnerin und Piratin. Ist das wirklich so ein großer Unterschied?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>"Ich habe mich nie an weitere Einzelheiten erinnert." Sie zuckt die Schultern.</DefaultText>
+      <DefaultText>„Ich habe mich nie an weitere Einzelheiten erinnert.“ Sie zuckt die Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>"Das habe ich auch den Truppen immer wieder gesagt."
+      <DefaultText>„Das habe ich auch den Truppen immer wieder gesagt.“
 
 Sie schweigt lange, ehe sie wieder spricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Aber wenn ich ehrlich bin ... ich war zornig. Ich wollte Schmerzen sehen. Und ich wollte die Klinge halten."</DefaultText>
+      <DefaultText>„Aber wenn ich ehrlich bin ... ich war zornig. Ich wollte Schmerzen sehen. Und ich wollte die Klinge halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>"Ich habe in diesen über vierzig Jahren viele Kämpfe ausgefochten, aber nie habe ich meine Klinge nur gezogen, um jemanden bluten zu sehen."</DefaultText>
+      <DefaultText>„Ich habe in diesen über vierzig Jahren viele Kämpfe ausgefochten, aber nie habe ich meine Klinge nur gezogen, um jemanden bluten zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Und ich habe sie nie gegen jemanden gezogen, der nicht seine eigene in der Hand hatte."</DefaultText>
+      <DefaultText>„Und ich habe sie nie gegen jemanden gezogen, der nicht seine eigene in der Hand hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>"Du hast gesagt, die Augenlosen kamen aus der Abtei?"</DefaultText>
+      <DefaultText>„Du hast gesagt, die Augenlosen kamen aus der Abtei?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Nun gut."</DefaultText>
+      <DefaultText>„Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Du hast mir von deiner Erweckung erzählt."</DefaultText>
+      <DefaultText>„Du hast mir von deiner Erweckung erzählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>"Bevor wir weitersprechen, muss ich dir etwas sagen."</DefaultText>
+      <DefaultText>„Bevor wir weitersprechen, muss ich dir etwas sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>"Wir sollten uns wohl geehrt fühlen, dass jemand diese Dinger auf uns gehetzt hat, aber ich mir wäre eine Karte lieber gewesen."
+      <DefaultText>„Wir sollten uns wohl geehrt fühlen, dass jemand diese Dinger auf uns gehetzt hat, aber ich mir wäre eine Karte lieber gewesen.“
 
 Sie wischt sich Blut vom Hals, riecht an ihrer verschmierten Hand und zuckt mit den Achsen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>"Ich hatte Gerüchte über die Augenlosen gehört, aber ich dachte immer, der Name wäre eine Metapher."</DefaultText>
+      <DefaultText>„Ich hatte Gerüchte über die Augenlosen gehört, aber ich dachte immer, der Name wäre eine Metapher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>"Ich hätte sie wohl Kolbenhände des Untergangs genannt, wenn mich jemand gefragt hätte."</DefaultText>
+      <DefaultText>„Ich hätte sie wohl Kolbenhände des Untergangs genannt, wenn mich jemand gefragt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>"Deswegen hat dich niemand gefragt."</DefaultText>
+      <DefaultText>„Deswegen hat dich niemand gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -483,92 +483,92 @@ Sie wischt sich Blut vom Hals, riecht an ihrer verschmierten Hand und zuckt mit 
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>"Das ist also die rätselhafte Armee, von der du geträumt hast, ja? Ein Wunder, dass du überhaupt noch schlafen konntest."</DefaultText>
+      <DefaultText>„Das ist also die rätselhafte Armee, von der du geträumt hast, ja? Ein Wunder, dass du überhaupt noch schlafen konntest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>"Wie sie auch heißen mögen ... sie werden durch meine Hand fallen."</DefaultText>
+      <DefaultText>„Wie sie auch heißen mögen ... sie werden durch meine Hand fallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>"Siehst du, das mag ich so an dir."</DefaultText>
+      <DefaultText>„Siehst du, das mag ich so an dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>"Deswegen sind wir auf dem Weg zur Abtei. Um sie aufzuhalten."</DefaultText>
+      <DefaultText>„Deswegen sind wir auf dem Weg zur Abtei. Um sie aufzuhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Sie seufzt. "Ich bereue jede einzelne meiner Entscheidungen, die mich hierhergeführt haben."</DefaultText>
+      <DefaultText>Sie seufzt. „Ich bereue jede einzelne meiner Entscheidungen, die mich hierhergeführt haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Aber ein lebensmüder Plan ist immer noch besser als gar keiner."</DefaultText>
+      <DefaultText>„Aber ein lebensmüder Plan ist immer noch besser als gar keiner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>"Du verletzt mich, [Player Name]." Sie legt sich die Hand auf ihr Herz.</DefaultText>
+      <DefaultText>„Du verletzt mich, [Player Name].“ Sie legt sich die Hand auf ihr Herz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>"Liegt dir etwas auf dem Herzen?"</DefaultText>
+      <DefaultText>„Liegt dir etwas auf dem Herzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Keine Sorge, wir finden auch den Salzbrunnen."</DefaultText>
+      <DefaultText>„Keine Sorge, wir finden auch den Salzbrunnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"Ich dachte, du würdest dich freuen. Du suchst schon lange nach der Abtei."</DefaultText>
+      <DefaultText>„Ich dachte, du würdest dich freuen. Du suchst schon lange nach der Abtei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Ja. Es gibt etwas, was ich dir noch nicht gesagt habe." Ihr Blick beschreibt einen weiten Bogen um dich herum.</DefaultText>
+      <DefaultText>„Ja. Es gibt etwas, was ich dir noch nicht gesagt habe.“ Ihr Blick beschreibt einen weiten Bogen um dich herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Ich weiß! Aber ..." Sie grummelt verzweifelt vor sich hin.</DefaultText>
+      <DefaultText>„Ich weiß! Aber ...“ Sie grummelt verzweifelt vor sich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>"Zu wissen, dass ich endlich kurz davor stehe, diese Erinnerung loszuwerden ... lässt sie in meinem Kopf nur noch größer werden." Sie geht auf und ab und dreht sich eine Haarsträhne um den Finger.</DefaultText>
+      <DefaultText>„Zu wissen, dass ich endlich kurz davor stehe, diese Erinnerung loszuwerden ... lässt sie in meinem Kopf nur noch größer werden.“ Sie geht auf und ab und dreht sich eine Haarsträhne um den Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>"Ich trage sie seit Jahrzehnten mit mir herum. Ich bin um die halbe bekannte Welt vor ihr davongelaufen." Sie wirft die Hände in die Luft.</DefaultText>
+      <DefaultText>„Ich trage sie seit Jahrzehnten mit mir herum. Ich bin um die halbe bekannte Welt vor ihr davongelaufen.“ Sie wirft die Hände in die Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>"Das klingt nach einer ungesunden Beziehung."</DefaultText>
+      <DefaultText>„Das klingt nach einer ungesunden Beziehung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>"Aber ohne Versöhnungssex."</DefaultText>
+      <DefaultText>„Aber ohne Versöhnungssex.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>"Und?"</DefaultText>
+      <DefaultText>„Und?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>"Vielleicht musst du es loswerden."</DefaultText>
+      <DefaultText>„Vielleicht musst du es loswerden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,12 +578,12 @@ Sie wischt sich Blut vom Hals, riecht an ihrer verschmierten Hand und zuckt mit 
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>"Es ist Zeit, dir zu erzählen, was ich getan habe."</DefaultText>
+      <DefaultText>„Es ist Zeit, dir zu erzählen, was ich getan habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>"Lass dir Zeit."</DefaultText>
+      <DefaultText>„Lass dir Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -598,121 +598,121 @@ Sie wischt sich Blut vom Hals, riecht an ihrer verschmierten Hand und zuckt mit 
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>"Und weiter?"</DefaultText>
+      <DefaultText>„Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>"Das verstehe ich nicht ... welcher Krieg?"</DefaultText>
+      <DefaultText>„Das verstehe ich nicht ... welcher Krieg?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>"Es war vor fünfhundert Jahren, als Aedyr auf einer Seite ein Menschenkönigreich war, auf der anderen Elfenland."</DefaultText>
+      <DefaultText>„Es war vor fünfhundert Jahren, als Aedyr auf einer Seite ein Menschenkönigreich war, auf der anderen Elfenland.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Sie bekämpften einander immer wieder, ehe sie sich vereinten. Jetzt heiraten die Herrscher der Menschen und der Elfen sich untereinander, um den Frieden zu wahren."</DefaultText>
+      <DefaultText>„Sie bekämpften einander immer wieder, ehe sie sich vereinten. Jetzt heiraten die Herrscher der Menschen und der Elfen sich untereinander, um den Frieden zu wahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>"Meiner Beobachtung nach hat eine Heirat meist den gegenteiligen Effekt." Aloth lächelt trocken.</DefaultText>
+      <DefaultText>„Meiner Beobachtung nach hat eine Heirat meist den gegenteiligen Effekt.“ Aloth lächelt trocken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>"Richtig. Der Feldzug."</DefaultText>
+      <DefaultText>„Richtig. Der Feldzug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>"In ihrem Trotz sah ich Monate voll von weiteren sinnlosen, blutigen Schlachten um den Rest der Region.
+      <DefaultText>„In ihrem Trotz sah ich Monate voll von weiteren sinnlosen, blutigen Schlachten um den Rest der Region.
 
-"Ich musste sie brechen und ich musste den übrigen Dörfern eine klare Botschaft senden." Ihre Hände zittern, als sie sie anhebt, um ihr Gesicht zu bedecken.</DefaultText>
+„Ich musste sie brechen und ich musste den übrigen Dörfern eine klare Botschaft senden.“ Ihre Hände zittern, als sie sie anhebt, um ihr Gesicht zu bedecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>"Die Dorfältesten ergaben sich und boten uns den alten Versammlungssaal als Schlafsaal an. Als die Sonne unterging, versuchten sie, ihn um uns herum niederzubrennen." Sie schließt die Augen.</DefaultText>
+      <DefaultText>„Die Dorfältesten ergaben sich und boten uns den alten Versammlungssaal als Schlafsaal an. Als die Sonne unterging, versuchten sie, ihn um uns herum niederzubrennen.“ Sie schließt die Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>"Sie konnten nicht einmal ein ordentliches Feuer entfachen, aber darum ging es nicht."</DefaultText>
+      <DefaultText>„Sie konnten nicht einmal ein ordentliches Feuer entfachen, aber darum ging es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>"Um was ging es?"</DefaultText>
+      <DefaultText>„Um was ging es?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"Sie haben euch hintergangen, nachdem sie sich ergeben hatten. Ein ernstes Vergehen."</DefaultText>
+      <DefaultText>„Sie haben euch hintergangen, nachdem sie sich ergeben hatten. Ein ernstes Vergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>"Du musstest ein Exempel an ihnen statuieren."</DefaultText>
+      <DefaultText>„Du musstest ein Exempel an ihnen statuieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>"Ich dachte mir, dass du es verstehen würdest."</DefaultText>
+      <DefaultText>„Ich dachte mir, dass du es verstehen würdest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>"Ach, hätte ich nur deine Prinzipien gehabt." Sie schluckt.</DefaultText>
+      <DefaultText>„Ach, hätte ich nur deine Prinzipien gehabt.“ Sie schluckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>"Das ist ja grauenhaft!"</DefaultText>
+      <DefaultText>„Das ist ja grauenhaft!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>"Das warst nicht du, Maneha."</DefaultText>
+      <DefaultText>„Das warst nicht du, Maneha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Du hast keinen Grund, eine fünfhundert Jahre alte Erinnerung mit dir herumzuschleppen."</DefaultText>
+      <DefaultText>„Du hast keinen Grund, eine fünfhundert Jahre alte Erinnerung mit dir herumzuschleppen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>"Du wirst das bald hinter dir lassen."</DefaultText>
+      <DefaultText>„Du wirst das bald hinter dir lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>"Das habe ich auch versucht mir einzureden."</DefaultText>
+      <DefaultText>„Das habe ich auch versucht mir einzureden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Jedenfalls müssen wir jetzt weiter."
+      <DefaultText>„Jedenfalls müssen wir jetzt weiter.“
 
 Sie schultert ihr Gepäck und du erhaschst einen kurzen Blick auf etwas Seltsames darin: Ein dickes Stoffbündel, das in Leder eingewickelt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>"Lasst uns gehen."</DefaultText>
+      <DefaultText>„Lasst uns gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>"Wem sagst du das." Sie wischt sich mit dem Handrücken die Augen.</DefaultText>
+      <DefaultText>„Wem sagst du das.“ Sie wischt sich mit dem Handrücken die Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>"Schließlich vereinigten sich Aedyr und Kulklin. Die Völker vergaben einander, was sie sich gegenseitig angetan hatten."</DefaultText>
+      <DefaultText>„Schließlich vereinigten sich Aedyr und Kulklin. Die Völker vergaben einander, was sie sich gegenseitig angetan hatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,74 +722,74 @@ Sie schultert ihr Gepäck und du erhaschst einen kurzen Blick auf etwas Seltsame
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Es fühlte sich an, als hätte mir jemand auf den Hinterkopf gehauen. Ich war ein paar Minuten bewusstlos und als ich wieder aufwachte, war sie fort."</DefaultText>
+      <DefaultText>„Es fühlte sich an, als hätte mir jemand auf den Hinterkopf gehauen. Ich war ein paar Minuten bewusstlos und als ich wieder aufwachte, war sie fort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>"Und weiter?"</DefaultText>
+      <DefaultText>„Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Ich habe die anderen Truppen gefragt. Keiner hatte sie gesehen."</DefaultText>
+      <DefaultText>„Ich habe die anderen Truppen gefragt. Keiner hatte sie gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Was ist mit der alten Frau?"</DefaultText>
+      <DefaultText>„Was ist mit der alten Frau?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>"Dieser Traum ... war er eine Erinnerung?"</DefaultText>
+      <DefaultText>„Dieser Traum ... war er eine Erinnerung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Sie nickt. "Wie wenn man ein Lied hört, von dem man weiß, man hat es schon einmal gehört."</DefaultText>
+      <DefaultText>Sie nickt. „Wie wenn man ein Lied hört, von dem man weiß, man hat es schon einmal gehört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Nämlich?"</DefaultText>
+      <DefaultText>„Nämlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>"Etwas, was ich mir für bessere Tage aufgehoben habe." Sie steckt es weg.</DefaultText>
+      <DefaultText>„Etwas, was ich mir für bessere Tage aufgehoben habe.“ Sie steckt es weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>"Du hast Recht."</DefaultText>
+      <DefaultText>„Du hast Recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>"Es wäre leichter, wenn du mir einfach sagst, an was du dich erinnerst."</DefaultText>
+      <DefaultText>„Es wäre leichter, wenn du mir einfach sagst, an was du dich erinnerst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Deswegen bin ich überhaupt in die Abtei gekommen ... um sie aufzuhalten."</DefaultText>
+      <DefaultText>„Deswegen bin ich überhaupt in die Abtei gekommen ... um sie aufzuhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>"Ich habe dir gesagt, dass ich nach der Abtei des Gefallenen Mondes suche, um etwas hinter mir zu lassen."</DefaultText>
+      <DefaultText>„Ich habe dir gesagt, dass ich nach der Abtei des Gefallenen Mondes suche, um etwas hinter mir zu lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>"Es gibt dort ein Becken. Den Salzbrunnen. Dort legen Gabenbringer die schwersten aller Lasten ab."
+      <DefaultText>„Es gibt dort ein Becken. Den Salzbrunnen. Dort legen Gabenbringer die schwersten aller Lasten ab.“
 
 Sie hält inne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>"Angeblich kann man das Becken betreten und seine eigenen Erinnerungen zurücklassen." Sie hat einen abwesenden, hungrigen Blick in den Augen.</DefaultText>
+      <DefaultText>„Angeblich kann man das Becken betreten und seine eigenen Erinnerungen zurücklassen.“ Sie hat einen abwesenden, hungrigen Blick in den Augen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

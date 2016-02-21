@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Brüder, Schwestern! Terenat ist hier."
+      <DefaultText>„Brüder, Schwestern! Terenat ist hier.“
 
 Ihr Kopf dreht sich zu dir, aber ihr Blick ist leer.</DefaultText>
       <FemaleText />
@@ -25,10 +25,10 @@ Es gibt hier noch eine andere Präsenz, die um ihre Seelenessenz geschlungen ist
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Schafft ihn fort. Sperrt ihn ein, bis wir kriegen, was wir wollen."
+      <DefaultText>„Schafft ihn fort. Sperrt ihn ein, bis wir kriegen, was wir wollen.“
 
 Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger bereit zum Angriff.</DefaultText>
-      <FemaleText>"Schafft sie fort. Sperrt sie ein, bis wir kriegen, was wir wollen."
+      <FemaleText>„Schafft sie fort. Sperrt sie ein, bis wir kriegen, was wir wollen.“
 
 Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger bereit zum Angriff.</FemaleText>
     </Entry>
@@ -39,7 +39,7 @@ Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger be
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Geht es dir gut?"</DefaultText>
+      <DefaultText>„Geht es dir gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -54,7 +54,7 @@ Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger be
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Keinen Schritt näher!"</DefaultText>
+      <DefaultText>„Keinen Schritt näher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@ Als du dich wieder umwendest, ist die Frau deutlich näher gekommen.</DefaultTex
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Terenat? Von wem redest du?"</DefaultText>
+      <DefaultText>„Terenat? Von wem redest du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,22 +83,22 @@ Als du dich wieder umwendest, ist die Frau deutlich näher gekommen.</DefaultTex
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Hast du mich gehört?"</DefaultText>
+      <DefaultText>„Hast du mich gehört?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Warum suchst du nach mir?"</DefaultText>
+      <DefaultText>„Warum suchst du nach mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Mein Kopf dröhnt noch immer, aber zumindest sitzt er noch auf meinen Schultern. Hier, das habe ich für dich aufgehoben."</DefaultText>
+      <DefaultText>„Mein Kopf dröhnt noch immer, aber zumindest sitzt er noch auf meinen Schultern. Hier, das habe ich für dich aufgehoben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wir suchen schon eine Weile nach dir. Wir wissen, was du getan hast."
+      <DefaultText>„Wir suchen schon eine Weile nach dir. Wir wissen, was du getan hast.“
 
 Ihre Beine stapfen in langsamen, schwerfälligen Schritten vorwärts, als könnte sie jeden Augenblick unter ihrem eigenen Gewicht zusammenbrechen.</DefaultText>
       <FemaleText />
@@ -127,10 +127,10 @@ Du hast das Gefühl, als würdest du beobachtet werden, gefangen unter dem feind
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Schafft ihn fort. Sperrt ihn ein, bis wir kriegen, was wir wollen."
+      <DefaultText>„Schafft ihn fort. Sperrt ihn ein, bis wir kriegen, was wir wollen.“
 
 Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger bereit zum Angriff.</DefaultText>
-      <FemaleText>"Schafft sie fort. Sperrt sie ein, bis wir kriegen, was wir wollen."
+      <FemaleText>„Schafft sie fort. Sperrt sie ein, bis wir kriegen, was wir wollen.“
 
 Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger bereit zum Angriff.</FemaleText>
     </Entry>
@@ -171,10 +171,10 @@ Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger be
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Schafft ihn fort. Sperrt ihn ein, bis wir kriegen, was wir wollen."
+      <DefaultText>„Schafft ihn fort. Sperrt ihn ein, bis wir kriegen, was wir wollen.“
 
 Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger bereit zum Angriff.</DefaultText>
-      <FemaleText>"Schafft sie fort. Sperrt sie ein, bis wir kriegen, was wir wollen."
+      <FemaleText>„Schafft sie fort. Sperrt sie ein, bis wir kriegen, was wir wollen.“
 
 Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger bereit zum Angriff.</FemaleText>
     </Entry>
@@ -192,12 +192,12 @@ Du hast das Gefühl, als würdest du beobachtet werden, gefangen unter dem feind
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Das ist das Mindeste, was ich dir schuldig bin."</DefaultText>
+      <DefaultText>„Das ist das Mindeste, was ich dir schuldig bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Danke noch einmal."</DefaultText>
+      <DefaultText>„Danke noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,87 +207,87 @@ Du hast das Gefühl, als würdest du beobachtet werden, gefangen unter dem feind
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"He, Augenblick. Warte kurz."
+      <DefaultText>„He, Augenblick. Warte kurz.“
 
 Sie wendet sich an die Konstrukte neben sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Stopp!"
+      <DefaultText>„Stopp!“
 
 Die Konstrukte bleiben augenblicklich stehen und regen sich nicht mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"So. Also, was kann ich für dich tun?"</DefaultText>
+      <DefaultText>„So. Also, was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Du kontrollierst diese Konstrukte?"</DefaultText>
+      <DefaultText>„Du kontrollierst diese Konstrukte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ganz genau. Recht ordentliche Arbeiter. Sie essen nicht, sie schlafen nicht, sie spielen auch nicht verrückt, um dann ihre Kameraden umzubringen."
+      <DefaultText>„Ganz genau. Recht ordentliche Arbeiter. Sie essen nicht, sie schlafen nicht, sie spielen auch nicht verrückt, um dann ihre Kameraden umzubringen.“
 
-Sie grinst schief. "Jedenfalls nicht so oft wie ein durchschnittlicher Bergarbeiter."</DefaultText>
+Sie grinst schief. „Jedenfalls nicht so oft wie ein durchschnittlicher Bergarbeiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich untersuche für Ismey das Verschwinden der Bergarbeiter. Kannst du mir ein paar Fragen beantworten?"</DefaultText>
+      <DefaultText>„Ich untersuche für Ismey das Verschwinden der Bergarbeiter. Kannst du mir ein paar Fragen beantworten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Warum nicht? Aber ich weiß nicht, ob ich groß helfen kann. Teryc hat Gamel gefunden."</DefaultText>
+      <DefaultText>„Warum nicht? Aber ich weiß nicht, ob ich groß helfen kann. Teryc hat Gamel gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Glaubst du, dass Gamel verantwortlich ist?"</DefaultText>
+      <DefaultText>„Glaubst du, dass Gamel verantwortlich ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Sind dir andere Bergarbeiter aufgefallen, die sich merkwürdig benehmen?"</DefaultText>
+      <DefaultText>„Sind dir andere Bergarbeiter aufgefallen, die sich merkwürdig benehmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Es sieht jedenfalls so aus. Er hat noch Stücke von Sameth in den Zähnen stecken."
+      <DefaultText>„Es sieht jedenfalls so aus. Er hat noch Stücke von Sameth in den Zähnen stecken.“
 
 Sie verzieht das Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich hätte nie gedacht, das Gamel so durchdreht. Aber manchmal, naja, benehmen die Leute sich eben plötzlich seltsam. So wie damals, als ... äh ... wer war das ...?"
+      <DefaultText>„Ich hätte nie gedacht, das Gamel so durchdreht. Aber manchmal, naja, benehmen die Leute sich eben plötzlich seltsam. So wie damals, als ... äh ... wer war das ...?“
 
 Sie runzelt die Stirn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Die Arbeit in der Mine ist hart. Deswegen setze ich gerne diese Konstrukte ein. Ich glaube, die Tunnel setzen den Leuten mit der Zeit einfach zu."</DefaultText>
+      <DefaultText>„Die Arbeit in der Mine ist hart. Deswegen setze ich gerne diese Konstrukte ein. Ich glaube, die Tunnel setzen den Leuten mit der Zeit einfach zu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Hm. Mein Gedächtnis ist in letzter Zeit etwas löchrig. Ich glaube langsam, dass Teryc mit seiner Theorie von einem Gasleck Recht haben könnte."</DefaultText>
+      <DefaultText>„Hm. Mein Gedächtnis ist in letzter Zeit etwas löchrig. Ich glaube langsam, dass Teryc mit seiner Theorie von einem Gasleck Recht haben könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Komm vorbei, wenn du noch mehr hast ..."
+      <DefaultText>„Komm vorbei, wenn du noch mehr hast ...“
 
 Cillans Blick scheint von dir abzugleiten.</DefaultText>
       <FemaleText />

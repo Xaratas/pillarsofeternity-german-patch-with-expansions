@@ -6,48 +6,48 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wir behalten dich im Auge."</DefaultText>
+      <DefaultText>„Wir behalten dich im Auge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wofür bezahlen wir die Glamfellen, wenn sie einen Aumaua im Lager nicht bemerken?"</DefaultText>
+      <DefaultText>„Wofür bezahlen wir die Glamfellen, wenn sie einen Aumaua im Lager nicht bemerken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Adaryc sagt, wir sollen dir nichts tun. Aber halt dich von uns fern."</DefaultText>
+      <DefaultText>„Adaryc sagt, wir sollen dir nichts tun. Aber halt dich von uns fern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Bei den Göttern, du kämpfst wie ein Bär. Wir können wohl froh sein, dass du auf unserer Seite bist."</DefaultText>
+      <DefaultText>„Bei den Göttern, du kämpfst wie ein Bär. Wir können wohl froh sein, dass du auf unserer Seite bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich weiß nicht, warum Adaryc dir vertraut, aber er tut es. Also willkommen."</DefaultText>
+      <DefaultText>„Ich weiß nicht, warum Adaryc dir vertraut, aber er tut es. Also willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Der Kommandant und du ... kennt ihr euch?"</DefaultText>
+      <DefaultText>„Der Kommandant und du ... kennt ihr euch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Sei vorsichtig mit den Hunden. Sie sind nicht sehr vertrauensselig."</DefaultText>
+      <DefaultText>„Sei vorsichtig mit den Hunden. Sie sind nicht sehr vertrauensselig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Mit dir auf unserer Seite würden wir garantiert gewinnen."</DefaultText>
+      <DefaultText>„Mit dir auf unserer Seite würden wir garantiert gewinnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Du bist der Wächter, von dem wir gehört haben? Hörst du Stimmen?"</DefaultText>
-      <FemaleText>"Du bist die Wächterin, von der wir gehört haben? Hörst du Stimmen?"</FemaleText>
+      <DefaultText>„Du bist der Wächter, von dem wir gehört haben? Hörst du Stimmen?“</DefaultText>
+      <FemaleText>„Du bist die Wächterin, von der wir gehört haben? Hörst du Stimmen?“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

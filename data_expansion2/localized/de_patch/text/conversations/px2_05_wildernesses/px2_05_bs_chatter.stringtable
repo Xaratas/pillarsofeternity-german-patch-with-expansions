@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Pass auf, wohin du trittst."</DefaultText>
+      <DefaultText>„Pass auf, wohin du trittst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ob wir kämpfen oder hier stehen, die Bezahlung ist gleich."</DefaultText>
+      <DefaultText>„Ob wir kämpfen oder hier stehen, die Bezahlung ist gleich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Hrmpf. Wenn Stalwart doch nur dich geschickt hätte, anstatt dieser Narren."</DefaultText>
+      <DefaultText>„Hrmpf. Wenn Stalwart doch nur dich geschickt hätte, anstatt dieser Narren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Diese Readceraner stellen Adarycs Urteil vielleicht nicht in Frage ... ich aber schon."</DefaultText>
+      <DefaultText>„Diese Readceraner stellen Adarycs Urteil vielleicht nicht in Frage ... ich aber schon.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

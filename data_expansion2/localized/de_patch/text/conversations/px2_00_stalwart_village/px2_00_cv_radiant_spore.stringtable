@@ -30,12 +30,12 @@ Die Welt um dich herum scheint sich zu drehen, Farben verändern sich, Klänge v
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du hast keine Macht über mich."</DefaultText>
+      <DefaultText>„Du hast keine Macht über mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Weg, weg mit dir!"</DefaultText>
+      <DefaultText>„Weg, weg mit dir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@ Die Welt um dich herum scheint sich zu drehen, Farben verändern sich, Klänge v
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Du wirst bereuen, was du getan hast!"
+      <DefaultText>„Du wirst bereuen, was du getan hast!“
 
 Ein Schwarm von stacheligen Ranken bewegt sich bedrohlich auf dich zu.</DefaultText>
       <FemaleText />
@@ -82,7 +82,7 @@ Ein Schwarm von stacheligen Ranken bewegt sich bedrohlich auf dich zu.</DefaultT
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Gut. Jetzt schaffe mir diese Störenfriede vom Hals. Ich habe keine Verwendung für sie."</DefaultText>
+      <DefaultText>„Gut. Jetzt schaffe mir diese Störenfriede vom Hals. Ich habe keine Verwendung für sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,29 +102,29 @@ Ein Schwarm von stacheligen Ranken bewegt sich bedrohlich auf dich zu.</DefaultT
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Warum tust du das?"</DefaultText>
+      <DefaultText>„Warum tust du das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Was tust du mit mir?"</DefaultText>
+      <DefaultText>„Was tust du mit mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Diese Fragen sind nicht von Bedeutung. Atme weiter."</DefaultText>
+      <DefaultText>„Diese Fragen sind nicht von Bedeutung. Atme weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Willkommen."
+      <DefaultText>„Willkommen.“
 
 Die Stimme des Pilzes erfüllt den Raum, so groß und gewaltig wie seine pulsierende Form.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ja. Du hast gut gewählt. Jetzt kannst du dich den anderen anschließen."</DefaultText>
+      <DefaultText>„Ja. Du hast gut gewählt. Jetzt kannst du dich den anderen anschließen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Du hörst ein raschelndes, zischendes Geräusch, wie Lachen.</DefaultText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Lass die Vithrack gehen!"</DefaultText>
+      <DefaultText>„Lass die Vithrack gehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,32 +166,32 @@ Du hörst ein raschelndes, zischendes Geräusch, wie Lachen.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Hallo?"</DefaultText>
+      <DefaultText>„Hallo?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Warum? Das ist ein Geschenk. Dieses Spinnenvolk wird einer neuen Generation meiner Art als Wirt dienen. Bald wirst du dich ihnen anschließen."</DefaultText>
+      <DefaultText>„Warum? Das ist ein Geschenk. Dieses Spinnenvolk wird einer neuen Generation meiner Art als Wirt dienen. Bald wirst du dich ihnen anschließen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ist das nicht viel besser?"</DefaultText>
+      <DefaultText>„Ist das nicht viel besser?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,22 +201,22 @@ Du hörst ein raschelndes, zischendes Geräusch, wie Lachen.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Lass die Vithrack gehen!"</DefaultText>
+      <DefaultText>„Lass die Vithrack gehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Nimm ruhig noch mehr. Du wirst es schon bald verstehen."
+      <DefaultText>„Nimm ruhig noch mehr. Du wirst es schon bald verstehen.“
 
 Der leuchtende Strunk schüttelt sich und gibt neue Sporenwolken frei.</DefaultText>
       <FemaleText />
@@ -237,21 +237,21 @@ Der Druck nimmt zu, bis du kaum mehr etwas sehen kannst, aber du bleibst standha
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Du kannst mir keine Forderungen stellen."
+      <DefaultText>„Du kannst mir keine Forderungen stellen.“
 
 Die Stimme ist gleichmäßig, ruhig, aber sie fühlt sich an, als würde sie schreien. Jedes Wort hallt in deinen Ohren wider. Dein Kopf fühlt sich an, als wäre er zertrümmert worden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Du bist ein Geschöpf von ungewöhnlicher Ausdauer. Aber du musst dich nicht widersetzen."
+      <DefaultText>„Du bist ein Geschöpf von ungewöhnlicher Ausdauer. Aber du musst dich nicht widersetzen.“
 
 Die Stimme ist sogar recht angenehm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Verflucht, es spricht!"</DefaultText>
+      <DefaultText>„Verflucht, es spricht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Die Stimme ist sogar recht angenehm.</DefaultText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wo kommst du denn her?!"</DefaultText>
+      <DefaultText>„Wo kommst du denn her?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@ Die Stimme ist sogar recht angenehm.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Sehr gut. Nun denn, beseitigen wir diese Störenfriede."</DefaultText>
+      <DefaultText>„Sehr gut. Nun denn, beseitigen wir diese Störenfriede.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,8 +286,8 @@ Die Stimme ist sogar recht angenehm.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich weiß nicht, ob das ... tja, er hat es getan."</DefaultText>
-      <FemaleText>"Ich weiß nicht, ob das ... tja, sie hat es getan."</FemaleText>
+      <DefaultText>„Ich weiß nicht, ob das ... tja, er hat es getan.“</DefaultText>
+      <FemaleText>„Ich weiß nicht, ob das ... tja, sie hat es getan.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -298,7 +298,7 @@ Als er spricht, wirkt er zufrieden.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Gut. Nun steh still. Es wird schnell vorbeisein."</DefaultText>
+      <DefaultText>„Gut. Nun steh still. Es wird schnell vorbeisein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

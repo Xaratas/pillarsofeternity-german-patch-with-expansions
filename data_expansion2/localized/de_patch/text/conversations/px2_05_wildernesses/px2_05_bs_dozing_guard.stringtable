@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"H-he, was? He!"</DefaultText>
+      <DefaultText>„H-he, was? He!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Das darf ich mir jetzt ewig vom Kommandanten anhören ..."</DefaultText>
+      <DefaultText>„Das darf ich mir jetzt ewig vom Kommandanten anhören ...“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

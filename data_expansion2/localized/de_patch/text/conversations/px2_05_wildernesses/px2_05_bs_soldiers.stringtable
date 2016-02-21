@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Vorwärts!"</DefaultText>
+      <DefaultText>„Vorwärts!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Für den Eisenflegel!"</DefaultText>
+      <DefaultText>„Für den Eisenflegel!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Zurückfallen! Verteidigt den Kommandanten!"</DefaultText>
+      <DefaultText>„Zurückfallen! Verteidigt den Kommandanten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Treibt sie zurück!"</DefaultText>
+      <DefaultText>„Treibt sie zurück!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

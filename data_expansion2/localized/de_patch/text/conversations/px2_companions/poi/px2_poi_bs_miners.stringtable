@@ -11,32 +11,32 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Kommen dir diese Bergarbeiter auch ein wenig seltsam vor?"</DefaultText>
+      <DefaultText>„Kommen dir diese Bergarbeiter auch ein wenig seltsam vor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ihr Verstand ist krank ... infiziert. Sie sind nicht sie selbst, Wächter."</DefaultText>
-      <FemaleText>"Ihr Verstand ist krank ... infiziert. Sie sind nicht sie selbst, Wächterin."</FemaleText>
+      <DefaultText>„Ihr Verstand ist krank ... infiziert. Sie sind nicht sie selbst, Wächter.“</DefaultText>
+      <FemaleText>„Ihr Verstand ist krank ... infiziert. Sie sind nicht sie selbst, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich weiß, dass die Gestandenen hier oben etwas seltsam wirken können, aber ... irgendetwas stimmt hier nicht."</DefaultText>
+      <DefaultText>„Ich weiß, dass die Gestandenen hier oben etwas seltsam wirken können, aber ... irgendetwas stimmt hier nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Das ist selbst für Stalwart verrückt."</DefaultText>
+      <DefaultText>„Das ist selbst für Stalwart verrückt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich weiß nicht, was diese Arbeiter genommen haben, aber es muss gutes Zeug sein."</DefaultText>
+      <DefaultText>„Ich weiß nicht, was diese Arbeiter genommen haben, aber es muss gutes Zeug sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Jetzt verstehst du, warum ich aus dieser Stadt weg wollte."</DefaultText>
+      <DefaultText>„Jetzt verstehst du, warum ich aus dieser Stadt weg wollte.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

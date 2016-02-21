@@ -13,67 +13,67 @@ Er spricht mit großer Mühe, seine Stimme ist trocken und staubig.</DefaultText
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du ... hilfst du mir?"</DefaultText>
+      <DefaultText>„Du ... hilfst du mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wasser ... vom Wasserfall. Bitte."</DefaultText>
+      <DefaultText>„Wasser ... vom Wasserfall. Bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Warum vom Wasserfall? Warum nicht vom Teich?"</DefaultText>
+      <DefaultText>„Warum vom Wasserfall? Warum nicht vom Teich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Es scheint identisch zu sein, aber es verschlimmert meinen Durst nur noch."</DefaultText>
+      <DefaultText>„Es scheint identisch zu sein, aber es verschlimmert meinen Durst nur noch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich kann dich zum Wasserfall tragen. Dann kannst du direkt von der Quelle trinken."</DefaultText>
+      <DefaultText>„Ich kann dich zum Wasserfall tragen. Dann kannst du direkt von der Quelle trinken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich werde sehen, was ich tun kann."</DefaultText>
+      <DefaultText>„Ich werde sehen, was ich tun kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Es geht nur das Wasser aus dem Wasserfall. Ich wünschte, es wäre nicht so."</DefaultText>
+      <DefaultText>„Es geht nur das Wasser aus dem Wasserfall. Ich wünschte, es wäre nicht so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich habe es versucht, aber ich kann das Wasser nicht trinken. Ich öffne meinen Mund, aber es tropft nur an beiden Seiten daran vorbei. Ich halte meine Hände darunter und ziehe sie trocken wieder weg."</DefaultText>
+      <DefaultText>„Ich habe es versucht, aber ich kann das Wasser nicht trinken. Ich öffne meinen Mund, aber es tropft nur an beiden Seiten daran vorbei. Ich halte meine Hände darunter und ziehe sie trocken wieder weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Nur das erste Mal konnte ich es schmecken. Noch niemals habe ich etwas derart Reines geschmeckt."</DefaultText>
+      <DefaultText>„Nur das erste Mal konnte ich es schmecken. Noch niemals habe ich etwas derart Reines geschmeckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Seitdem kann ich einfach nicht von hier fortgehen. Ich will nichts weiter, als es noch ein einziges Mal schmecken zu können. Das würde mir reichen."</DefaultText>
+      <DefaultText>„Seitdem kann ich einfach nicht von hier fortgehen. Ich will nichts weiter, als es noch ein einziges Mal schmecken zu können. Das würde mir reichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich habe bessere Dinge zu tun."</DefaultText>
+      <DefaultText>„Ich habe bessere Dinge zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"In Visionen wie diesen findet man oft eine Bedeutung an einem unwahrscheinlichen Ort. Dieser Mann ist hier, weil er uns etwas zeigen soll."</DefaultText>
+      <DefaultText>„In Visionen wie diesen findet man oft eine Bedeutung an einem unwahrscheinlichen Ort. Dieser Mann ist hier, weil er uns etwas zeigen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wir helfen nicht ihm, wir helfen Zahua."</DefaultText>
+      <DefaultText>„Wir helfen nicht ihm, wir helfen Zahua.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,17 +83,17 @@ Er spricht mit großer Mühe, seine Stimme ist trocken und staubig.</DefaultText
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Hattet ihr Erfolg?"</DefaultText>
+      <DefaultText>„Hattet ihr Erfolg?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Ihm das Wasser geben.] "Wir konnten etwas Wasser sammeln, ja."</DefaultText>
+      <DefaultText>[Ihm das Wasser geben.] „Wir konnten etwas Wasser sammeln, ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Noch nicht."</DefaultText>
+      <DefaultText>„Noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@ Er spricht mit großer Mühe, seine Stimme ist trocken und staubig.</DefaultText
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Wunderbar! Ich habe so lange gewartet ..."</DefaultText>
+      <DefaultText>„Wunderbar! Ich habe so lange gewartet ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,26 +115,26 @@ Der Korken löst sich plötzlich und fliegt aus seinen Händen, von einem starke
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Oh nein. Nein, nein."
+      <DefaultText>„Oh nein. Nein, nein.“
 
 Er dreht den Wasserschlauch um und hält ihn sich über die Lippen, aber kein einziger Tropfen fällt heraus. Er schüttelt ihn, dreht ihn, drückt hin, alles vergeblich. Das Wasser ist fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Bei seiner Vorgeschichte bin ich überrascht, dass er diese Möglichkeit nicht vorhergesehen hat."
+      <DefaultText>„Bei seiner Vorgeschichte bin ich überrascht, dass er diese Möglichkeit nicht vorhergesehen hat.“
 
-"Er sehnt sich nicht nach dem Wasser, sondern nach der Erfahrung, es zum ersten Mal zu kosten. Er kann nur enttäuscht werden."</DefaultText>
+„Er sehnt sich nicht nach dem Wasser, sondern nach der Erfahrung, es zum ersten Mal zu kosten. Er kann nur enttäuscht werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sein Leid ist wirklich hübsch anzusehen. Aber es fühlt sich leer an. Welchen Wert hat es, wenn er sich weigert, daraus zu lernen?"</DefaultText>
+      <DefaultText>„ein Leid ist wirklich hübsch anzusehen. Aber es fühlt sich leer an. Welchen Wert hat es, wenn er sich weigert, daraus zu lernen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Sieht er denn nicht, dass er sich nach etwas sehnt, was er nie zurückgewinnen kann?"</DefaultText>
+      <DefaultText>„Sieht er denn nicht, dass er sich nach etwas sehnt, was er nie zurückgewinnen kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,9 +144,9 @@ Er dreht den Wasserschlauch um und hält ihn sich über die Lippen, aber kein ei
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Das braucht ihr, um das Wasser zu sammeln."
+      <DefaultText>„Das braucht ihr, um das Wasser zu sammeln.“
 
-"Ich werde euch ewig dankbar sein."</DefaultText>
+„Ich werde euch ewig dankbar sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,37 +11,37 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich dachte, es wäre größer."</DefaultText>
+      <DefaultText>„Ich dachte, es wäre größer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"So viel Macht ist in dem konzentriert, was du nun besitzt. Unglaublich."</DefaultText>
+      <DefaultText>„So viel Macht ist in dem konzentriert, was du nun besitzt. Unglaublich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sei vorsichtig mit dem Ding."</DefaultText>
+      <DefaultText>„Sei vorsichtig mit dem Ding.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich weiß, dass du die Waffe eines Gottes hältst, aber lass es dir nicht zu Kopf steigen."</DefaultText>
+      <DefaultText>„Ich weiß, dass du die Waffe eines Gottes hältst, aber lass es dir nicht zu Kopf steigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Vorsicht mit den Waffen der Götter, Wächter. Sie binden dich meistens an sie."</DefaultText>
-      <FemaleText>"Vorsicht mit den Waffen der Götter, Wächterin. Sie binden dich meistens an sie."</FemaleText>
+      <DefaultText>„Vorsicht mit den Waffen der Götter, Wächter. Sie binden dich meistens an sie.“</DefaultText>
+      <FemaleText>„Vorsicht mit den Waffen der Götter, Wächterin. Sie binden dich meistens an sie.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Gib mir drei Tage mit diesem Hammer und ich komme mit dem größten Bärenkadaver wieder, den du je gesehen hast."</DefaultText>
+      <DefaultText>„Gib mir drei Tage mit diesem Hammer und ich komme mit dem größten Bärenkadaver wieder, den du je gesehen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ein hübscher Hammer. Wenn man damit jemandem den Schädel einschlägt, weiß er es hoffentlich zu schätzen."</DefaultText>
+      <DefaultText>„Ein hübscher Hammer. Wenn man damit jemandem den Schädel einschlägt, weiß er es hoffentlich zu schätzen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

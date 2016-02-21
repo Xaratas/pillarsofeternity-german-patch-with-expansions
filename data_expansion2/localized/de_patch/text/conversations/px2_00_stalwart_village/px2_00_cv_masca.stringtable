@@ -6,52 +6,52 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Also jetzt machst du mich wütend." Sie schlägt ihren Schmiedehammer mit einem lauten Klirren auf die unfertige Klinge. "Werde doch gerade, verdammt!"</DefaultText>
+      <DefaultText>„Also jetzt machst du mich wütend.“ Sie schlägt ihren Schmiedehammer mit einem lauten Klirren auf die unfertige Klinge. „Werde doch gerade, verdammt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hallo. Ich hoffe, du hast keine Schwierigkeiten mit dem Ritual."</DefaultText>
+      <DefaultText>„Hallo. Ich hoffe, du hast keine Schwierigkeiten mit dem Ritual.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ach, komm schon! Dummes Schwert."</DefaultText>
+      <DefaultText>„Ach, komm schon! Dummes Schwert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was stimmt mit dem Schwert nicht?"</DefaultText>
+      <DefaultText>„Was stimmt mit dem Schwert nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wo soll ich anfangen?" Sie deutet auf den rasch abkühlenden Klumpen Eisen auf ihrem Amboss. "Zum einen gelingt es mir nicht, das Metall zu formen, so sehr ich mich auch bemühe. Meister Engrim sagt, ich solle mir 'ein Schwert vorstellen' ... und das tue und tue ich. Ich glaube, am Ende kommt ein Knüppel dabei heraus. Vielleicht ein Streitkolben, wenn ich Glück habe. Aber kein Schwert."</DefaultText>
+      <DefaultText>„Wo soll ich anfangen?“ Sie deutet auf den rasch abkühlenden Klumpen Eisen auf ihrem Amboss. „Zum einen gelingt es mir nicht, das Metall zu formen, so sehr ich mich auch bemühe. Meister Engrim sagt, ich solle mir 'ein Schwert vorstellen' ... und das tue und tue ich. Ich glaube, am Ende kommt ein Knüppel dabei heraus. Vielleicht ein Streitkolben, wenn ich Glück habe. Aber kein Schwert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich schließe das Schmiedehammer-Ritual für dich ab."</DefaultText>
+      <DefaultText>„Ich schließe das Schmiedehammer-Ritual für dich ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Großartig!" Sie reicht dir einen Schmiedehammer. "Dieser Hammer ist sogar recht gut geworden."</DefaultText>
+      <DefaultText>„Großartig!“ Sie reicht dir einen Schmiedehammer. „Dieser Hammer ist sogar recht gut geworden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Den Schmiedehammer überreichen.] "Ich habe das Ritual abgeschlossen."</DefaultText>
+      <DefaultText>[Den Schmiedehammer überreichen.] „Ich habe das Ritual abgeschlossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Und gerade zur rechten Zeit. Ich sollte gestern mit diesem Schwert fertig sein. Also gut, magischer Hammer ... dann mal los!" Sie hebt den Hammer, um ihn auf das unfertige Schwert zu schlagen.</DefaultText>
+      <DefaultText>„Und gerade zur rechten Zeit. Ich sollte gestern mit diesem Schwert fertig sein. Also gut, magischer Hammer ... dann mal los!“ Sie hebt den Hammer, um ihn auf das unfertige Schwert zu schlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,27 +61,27 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Hmm. Talfirs Ritual ... das habe ich schon lange niemanden mehr versuchen sehen." Er blickt dich an. "Du hattest natürlich Hilfe, aber das ändert nichts an der Tatsache, dass du der Auslöser warst, Masca. Gibt es einen Grund, warum ich dich nicht augenblicklich aus dem Tempel werfen sollte?"</DefaultText>
+      <DefaultText>„Hmm. Talfirs Ritual ... das habe ich schon lange niemanden mehr versuchen sehen.“ Er blickt dich an. „Du hattest natürlich Hilfe, aber das ändert nichts an der Tatsache, dass du der Auslöser warst, Masca. Gibt es einen Grund, warum ich dich nicht augenblicklich aus dem Tempel werfen sollte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich ... nein, Meister." Masca blickt zu Boden.</DefaultText>
+      <DefaultText>„Ich ... nein, Meister.“ Masca blickt zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Was ist mit dir?" Engrim wendet sich dir zu. "Du hast dich zu einem Teil dieser Angelegenheit gemacht ... möchtest du etwas zu Mascas Verteidigung vorbringen?"</DefaultText>
+      <DefaultText>„Was ist mit dir?“ Engrim wendet sich dir zu. „Du hast dich zu einem Teil dieser Angelegenheit gemacht ... möchtest du etwas zu Mascas Verteidigung vorbringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"'Alle Fehler können in Lektionen umgeschmiedet werden.' Einer von Abydons Grundsätzen, wenn mich nicht alles täuscht. Eine wertvolle Lektion für Masca, findest du nicht?"</DefaultText>
+      <DefaultText>„'Alle Fehler können in Lektionen umgeschmiedet werden.' Einer von Abydons Grundsätzen, wenn mich nicht alles täuscht. Eine wertvolle Lektion für Masca, findest du nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Masca bewundert dich. Sie war es leid, dich zu enttäuschen."</DefaultText>
+      <DefaultText>„Masca bewundert dich. Sie war es leid, dich zu enttäuschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,109 +91,109 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Masca ist eine wertlose Schmiedin. Euer Tempel ist ohne sie besser dran."</DefaultText>
+      <DefaultText>„Masca ist eine wertlose Schmiedin. Euer Tempel ist ohne sie besser dran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Lass mich da raus."</DefaultText>
+      <DefaultText>„Lass mich da raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ach, würden doch mehr meiner Akolythen das Buch tatsächlich lesen." Engrim lächelt. "Masca, dieser Fremde hat deine Stellung in diesem Tempel gerettet. Sorge dafür, dass seine Mühen nicht umsonst waren."</DefaultText>
-      <FemaleText>"Ach, würden doch mehr meiner Akolythen das Buch tatsächlich lesen." Engrim lächelt. "Masca, diese Fremde hat deine Stellung in diesem Tempel gerettet. Sorge dafür, dass ihre Mühen nicht umsonst waren."</FemaleText>
+      <DefaultText>„Ach, würden doch mehr meiner Akolythen das Buch tatsächlich lesen.“ Engrim lächelt. „Masca, dieser Fremde hat deine Stellung in diesem Tempel gerettet. Sorge dafür, dass seine Mühen nicht umsonst waren.“</DefaultText>
+      <FemaleText>„Ach, würden doch mehr meiner Akolythen das Buch tatsächlich lesen.“ Engrim lächelt. „Masca, diese Fremde hat deine Stellung in diesem Tempel gerettet. Sorge dafür, dass ihre Mühen nicht umsonst waren.“</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Also gut. Masca, ich verbanne dich aus diesem Tempel. Nimm nichts mit als das, was du bei deiner Ankunft bei dir hattest."</DefaultText>
+      <DefaultText>„Also gut. Masca, ich verbanne dich aus diesem Tempel. Nimm nichts mit als das, was du bei deiner Ankunft bei dir hattest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Hmm." Engrim blickt dich einen Augenblick lang an. "Du bist eine mitfühlende Seele, das spüre ich. Masca brauchte Hilfe und du hast entschieden, ihr auf diesem Wege zu helfen."
+      <DefaultText>„Hmm.“ Engrim blickt dich einen Augenblick lang an. „Du bist eine mitfühlende Seele, das spüre ich. Masca brauchte Hilfe und du hast entschieden, ihr auf diesem Wege zu helfen.“
 
-"Also gut. Masca, du darfst bleiben. Aber keine Schummeleien mehr. Enttäusche mich nicht noch einmal."</DefaultText>
+„Also gut. Masca, du darfst bleiben. Aber keine Schummeleien mehr. Enttäusche mich nicht noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Was ihren Fehltritt umso enttäuschender macht. Wenn sie mich so verehren würde, hätte sie nie versucht, mich so zu täuschen. Hast du sonst noch etwas zu ihren Gunsten zu sagen?"</DefaultText>
+      <DefaultText>„Was ihren Fehltritt umso enttäuschender macht. Wenn sie mich so verehren würde, hätte sie nie versucht, mich so zu täuschen. Hast du sonst noch etwas zu ihren Gunsten zu sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"'Alle Fehler können in Lektionen umgeschmiedet werden.' So steht es in diesem Buch. Ich würde sagen, Masca hat eine wertvolle Lektion gelernt."</DefaultText>
+      <DefaultText>„'Alle Fehler können in Lektionen umgeschmiedet werden.' So steht es in diesem Buch. Ich würde sagen, Masca hat eine wertvolle Lektion gelernt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Das werde ich nicht. Danke, Meister Engrim." Masca lächelt dir schwach zu. "Und ich danke dir für diese zweite Chance. Hier, ein Geschenk für dich, eines der ersten Stücke, die ich geschmiedet habe."</DefaultText>
+      <DefaultText>„Das werde ich nicht. Danke, Meister Engrim.“ Masca lächelt dir schwach zu. „Und ich danke dir für diese zweite Chance. Hier, ein Geschenk für dich, eines der ersten Stücke, die ich geschmiedet habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich arbeite noch daran."</DefaultText>
+      <DefaultText>„Ich arbeite noch daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Eines Tages werde ich so gut sein wie Engrim."</DefaultText>
+      <DefaultText>„Eines Tages werde ich so gut sein wie Engrim.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Du musst doch zugeben, dass Mascas Lösungsversuch kreativ war. Wie viele deiner Akolythen legen eine solche Initiative an den Tag?"</DefaultText>
+      <DefaultText>„Du musst doch zugeben, dass Mascas Lösungsversuch kreativ war. Wie viele deiner Akolythen legen eine solche Initiative an den Tag?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Eine interessante Interpretation der Ereignisse. Masca war schon immer ... unkonventionell." Er seufzt. "Also gut, Masca, du darfst bleiben. Aber enttäusche mich nie wieder."</DefaultText>
+      <DefaultText>„Eine interessante Interpretation der Ereignisse. Masca war schon immer ... unkonventionell.“ Er seufzt. „Also gut, Masca, du darfst bleiben. Aber enttäusche mich nie wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ein wenig Kreativität wird toleriert, aber was Masca versucht hat, war dreiste Täuschung. So etwas kann und wird dieser Tempel nicht tolerieren. Hast du sonst noch etwas zu ihren Gunsten zu sagen?"</DefaultText>
+      <DefaultText>„Ein wenig Kreativität wird toleriert, aber was Masca versucht hat, war dreiste Täuschung. So etwas kann und wird dieser Tempel nicht tolerieren. Hast du sonst noch etwas zu ihren Gunsten zu sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ist es nicht unethisch, mit einem magischen Schmiedehammer zu schmieden?"</DefaultText>
+      <DefaultText>„Ist es nicht unethisch, mit einem magischen Schmiedehammer zu schmieden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich will niemanden bloßstellen, ich will nur kompetent erscheinen. Weißt du, um mir Zeit zu verschaffen, bis ich tatsächlich kompetent bin."</DefaultText>
+      <DefaultText>„Ich will niemanden bloßstellen, ich will nur kompetent erscheinen. Weißt du, um mir Zeit zu verschaffen, bis ich tatsächlich kompetent bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich mache lieber weiter, bevor Meister Engrim wütend wird."</DefaultText>
+      <DefaultText>„Ich mache lieber weiter, bevor Meister Engrim wütend wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Warum hast du entschieden, Abydon-Akolythin zu werden?"</DefaultText>
+      <DefaultText>„Warum hast du entschieden, Abydon-Akolythin zu werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Alte Familientradition. Und ich kann sie aufrechterhalten." Sie blickt zornig auf das unfertige Schwert auf ihrem Amboss. "Mehr oder weniger."</DefaultText>
+      <DefaultText>„Alte Familientradition. Und ich kann sie aufrechterhalten.“ Sie blickt zornig auf das unfertige Schwert auf ihrem Amboss. „Mehr oder weniger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Du hättest mich vor den Flammenfäulen und Drachen warnen können."</DefaultText>
+      <DefaultText>„Du hättest mich vor den Flammenfäulen und Drachen warnen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Vor den bitte was? Davon wusste ich nichts. Vielleicht waren sie nur zufällig in der Gegend?"</DefaultText>
+      <DefaultText>„Vor den bitte was? Davon wusste ich nichts. Vielleicht waren sie nur zufällig in der Gegend?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Hier ist dein Hammer. Wenn er noch etwas anderes beschwört, ist das dein Problem."</DefaultText>
+      <DefaultText>„Hier ist dein Hammer. Wenn er noch etwas anderes beschwört, ist das dein Problem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,51 +203,51 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Mäßige dich, Masca." Der ältere Priest blickt Masca mahnend an.</DefaultText>
+      <DefaultText>„Mäßige dich, Masca.“ Der ältere Priest blickt Masca mahnend an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Verzeihung, Meister. Es ist mir einfach herausgerutscht." Sie atmet tief ein und langsam wieder aus.</DefaultText>
+      <DefaultText>„Verzeihung, Meister. Es ist mir einfach herausgerutscht.“ Sie atmet tief ein und langsam wieder aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Wenn meine Arbeit nicht bald besser wird, werfen sie mich aus dem Tempel. Man kann kein Priester sein, wenn man kein guter Schmied ist."
+      <DefaultText>„Wenn meine Arbeit nicht bald besser wird, werfen sie mich aus dem Tempel. Man kann kein Priester sein, wenn man kein guter Schmied ist.“
 
-"Außer, du hilfst mir ..." Masca blickt sich um.</DefaultText>
+„Außer, du hilfst mir ...“ Masca blickt sich um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Sprich weiter."</DefaultText>
+      <DefaultText>„Sprich weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich habe einen Blick in Meister Engrims Bücher geworfen. Es gibt ein Ritual, mit dem man einen Schmiedehammer verzaubern kann, so dass er einen zu einem besseren Schmied macht!"
+      <DefaultText>„Ich habe einen Blick in Meister Engrims Bücher geworfen. Es gibt ein Ritual, mit dem man einen Schmiedehammer verzaubern kann, so dass er einen zu einem besseren Schmied macht!“
 
-"Ich habe den ersten Teil des Rituals schon abgeschlossen – den Hammer zu schmieden. Leider muss man für die nächsten beiden Teile in den Dyrwald reisen, und Meister Engrim lässt mich gewiss nicht so bald fort."</DefaultText>
+„Ich habe den ersten Teil des Rituals schon abgeschlossen – den Hammer zu schmieden. Leider muss man für die nächsten beiden Teile in den Dyrwald reisen, und Meister Engrim lässt mich gewiss nicht so bald fort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich bin kein Schmied."</DefaultText>
+      <DefaultText>„Ich bin kein Schmied.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Äh, ja, vergiss es."</DefaultText>
+      <DefaultText>„Äh, ja, vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Hör mich einfach an!"</DefaultText>
+      <DefaultText>„Hör mich einfach an!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Oh, nein, nein, das meine ich gar nicht."</DefaultText>
+      <DefaultText>„Oh, nein, nein, das meine ich gar nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,29 +259,29 @@ Aber das Dröhnen hört nicht auf. Es wird schriller und schriller und gerade, a
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Nun muss ich mich wieder an die Arbeit machen. Ich habe noch viel zu lernen."</DefaultText>
+      <DefaultText>„Nun muss ich mich wieder an die Arbeit machen. Ich habe noch viel zu lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Aber ..." Masca schießen die Tränen in die Augen. "Ja, Meister."
+      <DefaultText>„Aber ...“ Masca schießen die Tränen in die Augen. „Ja, Meister.“
 
-Sie wendet sich dir zu. "Danke, dass du versucht hast zu helfen. Hier, nimm das. Das ist eine der wenigen Waffen, die ich halbwegs hinbekommen habe."</DefaultText>
+Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm das. Das ist eine der wenigen Waffen, die ich halbwegs hinbekommen habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Oh, schön zu hören. Naja, ich habe nicht vor, wegzugehen."</DefaultText>
+      <DefaultText>„Oh, schön zu hören. Naja, ich habe nicht vor, wegzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Als erstes musst du zum Abydon-Schrein auf Burg Schmelztiegel gehen. Sie liegt im Bezirk Urfeuer in Trutzbucht. Ich war selbst noch nie dort. Leg den Hammer einfach auf den Schrein, dann wird er gesegnet. Oder vor den Schrein. Oder irgendwie so."</DefaultText>
+      <DefaultText>„Als erstes musst du zum Abydon-Schrein auf Burg Schmelztiegel gehen. Sie liegt im Bezirk Urfeuer in Trutzbucht. Ich war selbst noch nie dort. Leg den Hammer einfach auf den Schrein, dann wird er gesegnet. Oder vor den Schrein. Oder irgendwie so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Danach musst du den Magran-Schrein in Magrans Gabelung finden. Das liegt nicht weit von Trutzbucht entfernt. Nördlich, glaube ich. Mach bei diesem Schrein wieder dasselbe mit dem Hammer und dann komm wieder zu mir."</DefaultText>
+      <DefaultText>„Danach musst du den Magran-Schrein in Magrans Gabelung finden. Das liegt nicht weit von Trutzbucht entfernt. Nördlich, glaube ich. Mach bei diesem Schrein wieder dasselbe mit dem Hammer und dann komm wieder zu mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,72 +291,72 @@ Sie wendet sich dir zu. "Danke, dass du versucht hast zu helfen. Hier, nimm das.
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Warte. Vielleicht ist das keine Gute Idee. Verwende den Hammer nicht."</DefaultText>
+      <DefaultText>„Warte. Vielleicht ist das keine Gute Idee. Verwende den Hammer nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was? Warum nicht?" Masca wedelt mit dem Schmiedehammer vor deinen Augen herum. "Du hast dir die ganze Mühe gemacht und JETZT überlegst du es dir anders?"</DefaultText>
+      <DefaultText>„Was? Warum nicht?“ Masca wedelt mit dem Schmiedehammer vor deinen Augen herum. „Du hast dir die ganze Mühe gemacht und JETZT überlegst du es dir anders?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Vergiss, dass ich etwas gesagt habe. Nur zu, verwende den Hammer."</DefaultText>
+      <DefaultText>„Vergiss, dass ich etwas gesagt habe. Nur zu, verwende den Hammer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Selbst, wenn es funktioniert ... wirst du mit dem Wissen leben können, dass du nur im Tempel bleiben durftest, weil du geschummelt hast?"</DefaultText>
+      <DefaultText>„Selbst, wenn es funktioniert ... wirst du mit dem Wissen leben können, dass du nur im Tempel bleiben durftest, weil du geschummelt hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich habe nichts mehr zu sagen."</DefaultText>
+      <DefaultText>„Ich habe nichts mehr zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[Sie am Arm packen.] "Ja, ich habe es mir anders überlegt. Ich schlage vor, du tust, was ich sage."</DefaultText>
+      <DefaultText>[Sie am Arm packen.] “Ja, ich habe es mir anders überlegt. Ich schlage vor, du tust, was ich sage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ganz offensichtlich liegt dir viel daran, diesem Tempel anzugehören. Sonst würdest du dich nicht so bemühen, besser zu werden. Was du tust, ist falsch. Ich weiß und du weißt es."</DefaultText>
+      <DefaultText>„Ganz offensichtlich liegt dir viel daran, diesem Tempel anzugehören. Sonst würdest du dich nicht so bemühen, besser zu werden. Was du tust, ist falsch. Ich weiß und du weißt es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Schon gut, schon gut!" Masca reißt sich los. "Du hast deinen Standpunkt klargemacht."</DefaultText>
+      <DefaultText>„Schon gut, schon gut!“ Masca reißt sich los. „Du hast deinen Standpunkt klargemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Hier, nimm das. Eines meiner ersten Stücke, die halbwegs ordentlich geworden sind. Es ist nicht viel, aber du musst doch irgendetwas für all deine Mühen bekommen."</DefaultText>
+      <DefaultText>„Hier, nimm das. Eines meiner ersten Stücke, die halbwegs ordentlich geworden sind. Es ist nicht viel, aber du musst doch irgendetwas für all deine Mühen bekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ich ... ach, verdammt. Du hast wahrscheinlich Recht." Masca seufzt. "Danke, dass du mich vor einem Fehler bewahrt hast."</DefaultText>
+      <DefaultText>„Ich ... ach, verdammt. Du hast wahrscheinlich Recht.“ Masca seufzt. „Danke, dass du mich vor einem Fehler bewahrt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Verdammt." Masca schüttelt den Kopf und lässt den Hammer krachend fallen. "Du hast Recht. Ich liebe das Schmieden und ich habe aus den Augen verloren, warum ich überhaupt Abydonierin werden wollte. Danke."</DefaultText>
+      <DefaultText>„Verdammt.“ Masca schüttelt den Kopf und lässt den Hammer krachend fallen. „Du hast Recht. Ich liebe das Schmieden und ich habe aus den Augen verloren, warum ich überhaupt Abydonierin werden wollte. Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ich suche nach Mylla."</DefaultText>
+      <DefaultText>„Ich suche nach Mylla.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Tut mir leid, ich habe sie nicht gesehen. Rede mit Meister Engrim. Er weiß eher etwas als ich."</DefaultText>
+      <DefaultText>„Tut mir leid, ich habe sie nicht gesehen. Rede mit Meister Engrim. Er weiß eher etwas als ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich weiß nicht, was ich jetzt tun soll ..."</DefaultText>
+      <DefaultText>„Ich weiß nicht, was ich jetzt tun soll ...“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
