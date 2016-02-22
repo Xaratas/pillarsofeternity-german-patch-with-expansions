@@ -2,66 +2,31 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>12</EntryCount>
+  <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
-      <ID>180</ID>
-      <DefaultText>Schriftrolle des Gebets gegen Fassungslosigkeit</DefaultText>
+      <ID>192</ID>
+      <DefaultText>Schriftrolle des Gebets gegen Hinterlist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>181</ID>
-      <DefaultText>Schriftrolle von Minolettas erschütternden Fluggeschossen</DefaultText>
+      <ID>193</ID>
+      <DefaultText>Schriftrolle des Gebets gegen Einkerkerung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>182</ID>
-      <DefaultText>Trank der Gnadenfrist</DefaultText>
+      <ID>194</ID>
+      <DefaultText>Schriftrollen Stufe 6</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>183</ID>
-      <DefaultText>Gedörrter Fleckenrückenbarsch</DefaultText>
+      <ID>195</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>184</ID>
-      <DefaultText>Trank des Flammenschilds</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>185</ID>
-      <DefaultText>Weiße Esse</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>186</ID>
-      <DefaultText>Durgan-veredelte Waffe</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>187</ID>
-      <DefaultText>Durgan-verstärkte Rüstung</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>188</ID>
-      <DefaultText>Durgan-verstärkter Schild</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>189</ID>
-      <DefaultText>Veredelter Durgan-Eisenbarren</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>190</ID>
-      <DefaultText>Effizienter veredelter Durgan-Eisenbarren</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>191</ID>
-      <DefaultText>Schriftrolle der Kritischen Wiederherstellung von Ausdauer</DefaultText>
+      <ID>196</ID>
+      <DefaultText>Legendär</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
