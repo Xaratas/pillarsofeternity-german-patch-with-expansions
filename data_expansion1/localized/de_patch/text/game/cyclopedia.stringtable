@@ -2,29 +2,8 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>16</EntryCount>
+  <EntryCount>18</EntryCount>
   <Entries>
-    <Entry>
-      <ID>301</ID>
-      <DefaultText>Lagufaeth sind vierarmige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen - dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.
-
-Ein Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, egal ob Männchen oder Weibchen. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe - immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>302</ID>
-      <DefaultText>Das Schicksal der Zwerge von Durgans Batterie blieb Gelehrten zweihundert Jahre lang ein Rätsel. Die wenigen Bruchstücke, die bekannt waren, ließen darauf schließen, dass eine Meinungsverschiedenheit zwischen ihren Kommandanten die Zwerge gespaltet hatten. Sie verriegelten die Tür der Batterie und kamen nie wieder heraus.
-
-Diese Skelette haben die Größe von Zwergen. Die Rüstungen, die sie tragen, waren einst von hervorragender Qualität&#160;… genau wie der legendäre Durganstahl. Im Gegensatz zu den meisten Skeletten kämpfen sie in organisierten Formationen. Ihr Können und ihre Disziplin in der Schlacht machen sie zu formidablen Gegnern, genau wie ihre robuste Rüstung.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>303</ID>
-      <DefaultText>Gespenster sind - wie Phantome auch - Geister, die nach einem besonders gewalttätigen Leben oder Tod zurückgeblieben sind. Sie erscheinen zwar überall in Eora, doch die Pässe der Weißmark bringen sie mit alarmierender Häufigkeit hervor&#160;… wimmelt es hier doch von Ogern, Lagufaeth, Banditen und Sklaven.
-
-Gespenster scheinen sich von lebender Essenz zu ernähren, und sie greifen jeden Gestandenen oder Wilden in ihrer Nähe an. Sie scheinen zwar wahllos in ihrer Aggression zu sein, sind jedoch klug genug, um Gruppen zu trennen und einzelne Opfer zu attackieren.</DefaultText>
-      <FemaleText />
-    </Entry>
     <Entry>
       <ID>304</ID>
       <DefaultText>Sirenen gelten als Manifestationen von Essenz, die durch eine leidenschaftliche Begierde ihres früheren Wirts zusammengezogen wurde. Sie werden oft mit der See und mit Ondra in Verbindung gebracht. Viele Geschichten über Sirenen handeln von Schiffsunglücken, die angeblich durch den unwiderstehlichen Ruf einer Sirene verursacht wurden. In Wahrheit aber finden sich Sirenen überall, wo sich die richtigen Bedingungen ergeben. Zudem ist ihr Ruf weitaus weniger gefährlich als ihr ohrenbetäubendes Kreischen.
@@ -112,6 +91,39 @@ Wird die Verbindung zu einem seelengebundenen Gegenstand je gekappt, verliert er
     <Entry>
       <ID>322</ID>
 	  <DefaultText>Alle Verteidigungen eines abgelenkten Ziels werden um 6 reduziert. Außerdem verliert es eine Angriffsbindung. Das heißt für die meisten Charaktere, dass sie gar keinen Gegner festhalten können solange der Zustand andauert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Matrosen in ganz Eora erzählen Geschichten von gruseligen Bestien, die in den Untiefen hausen. Kaum eines dieser Geschöpfe wird mehr gefürchtet als der Krake.
+
+Kraken wagen sich nur selten an die Oberfläche und lassen fast nie Überlebende zurück. Sie sind gewaltige, mit Tentakeln versehene Monster, die kleine Schiffe zerquetschen und Matrosen von ihren Decks pflücken können. Trotz ihrer Größe können sich Kraken aufgrund ihrer weichen, biegsamen Körper durch enge Plätze quetschen, um Beute zu jagen oder sich zu verstecken. Glücklicherweise ziehen sie dunkle, ruhige Orte dem offenen Gewässer vor.
+
+Sie sind listige Jäger und der Legende nach Ondras schreckliche Diener.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Die Augenlosen sind uralte, mysteriöse Maegfolc, deren Existenz von den meisten Gestandenen dem Reich der Mythen zugeschrieben wird. Mit ihrem grotesken Körperbau und ihren groben, aber funktionstüchtigen Gliedern, ähneln sie ein wenig Konstrukten. Ihre Herkunft und ihr Zweck sind jedoch unbekannt. Sie kennen weder Hunger noch Erschöpfung, was sie zu unnachgiebigen Feinden macht.
+
+Der Volksglaube besagt, dass die Augenlosen Ondra dienen, indem sie dafür sorgen, dass alte oder gefährliche Dinge vergessen werden. Die Völker der Weißmark beschreiben sie als Butzemänner, die auf alten Straßen und an abgelegenen Orten Jagd machen. Eltern warnen ihre Kinder, immer daran zu denken, ihre Arbeiten zu erledigen, damit die Augenlosen sie nicht als 'vergessen' ansehen. Wer etwas verliert, der dankt traditionellerweise Ondra, dass die Augenlosen nicht auch ihn selbst geholt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Wie die häufiger auftretenden Feuchtsporen sind auch Strahlensporen (häufig Strahlenpilz genannt) ein riesiger Pilzorganismus, der von der Seelenenergie lebender Kreaturen angezogen wird. Während die Feuchtsporen aber offen räuberisch sind, scheint der Strahlenpilz eine Art zentrale, des Denkens mächtige Intelligenz zu besitzen. Er kann parasitische Bindungen mit verschiedenen Opferspezies eingehen und ausnutzen, indem er mächtige Wolken bewusstseinsverändernder Sporen freigibt. Diese verleihen dem Strahlenpilz eine Verbindung zu seinen vielen Opfern, durch welche er seinen Willen projizieren kann.
+
+Von einem Netz aus dicken, beweglichen Wurzeln aufrechtgehalten ist der Strahlenpilz auch zu unmittelbareren Angriffen in der Lage. Er nutzt seine Ranken als Greifarme oder als gewaltige stumpfe Keulen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Sumpffledermäuse unterscheiden sich von den Artverwandten Skuldr und Skuldrak durch mehrere physiologische Merkmale. Am auffälligsten ist wohl, dass Sumpffledermäuse ihre jugendliche Morphologie auch dann beibehalten, wenn sie ausgewachsen sind. Dadurch sind Sumpffledermäuse flugfähig, ihre Beute ist jedoch auf Lebewesen beschränkt, die sie allein erlegen können. Zu diesem Zweck sind sie mit Drüsen ausgestattet, über die sie Gift auf ihre Beute spucken können. Sumpffledermäuse ziehen im Gegensatz zu ihren größeren Artverwandten ihre Brut nicht gemeinschaftlich aus. Meist sind sie in kleinen Schwärmen zu finden, die sich regelmäßig um Nahrung, Partner und Reviere streiten.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
