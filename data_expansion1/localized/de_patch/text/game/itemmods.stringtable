@@ -2,406 +2,326 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>80</EntryCount>
+  <EntryCount>64</EntryCount>
   <Entries>
-    <Entry>
-      <ID>253</ID>
-      <DefaultText>Bestienjäger</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>254</ID>
-      <DefaultText>Scharfschütze</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>255</ID>
-      <DefaultText>Wachsam</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>256</ID>
-      <DefaultText>Wächtergeist</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>257</ID>
-      <DefaultText>Blutrünstigkeit</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>258</ID>
-      <DefaultText>Zauberchance: Säule des Glaubens</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>259</ID>
-      <DefaultText>Zauberchance: Göttliches Mal</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>260</ID>
-      <DefaultText>Zauberchance: Mutlose Schläge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>261</ID>
-      <DefaultText>Zauberwirkung: Strahl der Schmerzen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>262</ID>
-      <DefaultText>Zauberchance: Widerhaken der Verdammung</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>263</ID>
-      <DefaultText>Zauberchance: Blind</DefaultText>
-      <FemaleText />
-    </Entry>
     <Entry>
       <ID>264</ID>
       <DefaultText>Vernichtet Geister</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>265</ID>
-      <DefaultText>Zauberchance: Todesstoß</DefaultText>
+      <ID>333</ID>
+      <DefaultText>Austrocknend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>266</ID>
-      <DefaultText>Verschleiert</DefaultText>
+      <ID>334</ID>
+      <DefaultText>Zauberverteidigung: Augenschlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>267</ID>
-      <DefaultText>Starke Zauberbindung: Schatten des Jenseits</DefaultText>
+      <ID>335</ID>
+      <DefaultText>Säure-Regeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>268</ID>
-      <DefaultText>Zauberwirkung: Unsichtbarkeit</DefaultText>
+      <ID>337</ID>
+      <DefaultText>Verfolgung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>269</ID>
-      <DefaultText>Verschlagen</DefaultText>
+      <ID>338</ID>
+      <DefaultText>Starke Zauberbindung: Entziehende Berührung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>270</ID>
-      <DefaultText>Einfaltspinsel</DefaultText>
+      <ID>339</ID>
+      <DefaultText>Schwache Zauberbindung: Flucht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>271</ID>
-      <DefaultText>Schwache Zauberbindung: Bollwerk gegen die Elemente</DefaultText>
+      <ID>340</ID>
+      <DefaultText>Täuschend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>272</ID>
-      <DefaultText>Zauberchance: Sturm der Wiederkehr</DefaultText>
+      <ID>341</ID>
+      <DefaultText>der Konzentration +20</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>273</ID>
-      <DefaultText>Zauberchance: Der Donner rollte</DefaultText>
+      <ID>344</ID>
+      <DefaultText>Zauberausdauer: Gefährliche Dornsträucher</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>274</ID>
-      <DefaultText>Zauberchance: Seelenschock</DefaultText>
+      <ID>345</ID>
+      <DefaultText>Koloss</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>275</ID>
-      <DefaultText>Schwache Zauberbindung: Knisternder Blitz</DefaultText>
+      <ID>347</ID>
+      <DefaultText>Schwer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>276</ID>
-      <DefaultText>Elektroschock-SR-Reduzierung</DefaultText>
+      <ID>348</ID>
+      <DefaultText>Schwache Zauberbindung: Wilder Sprint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>277</ID>
-      <DefaultText>Zauberschlag: Mal der Natur</DefaultText>
+      <ID>349</ID>
+      <DefaultText>Starker Zauber: Reinigender Wind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>278</ID>
-      <DefaultText>Zauberchance: Beschwörung des Weltenschlunds</DefaultText>
+      <ID>350</ID>
+      <DefaultText>Starke Zauberbindung: Vertreibung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>279</ID>
-      <DefaultText>Zauberchance: Erdfäule beschwören</DefaultText>
+      <ID>351</ID>
+      <DefaultText>Aristokrat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>280</ID>
-      <DefaultText>Zauberchance: Versteinern</DefaultText>
+      <ID>352</ID>
+      <DefaultText>Trinken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>281</ID>
-      <DefaultText>Zauberchance: Eisenhaut</DefaultText>
+      <ID>353</ID>
+      <DefaultText>Zauberausdauer: Zweifel säen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>282</ID>
-      <DefaultText>Starke Zauberbindung: Überwältigende Welle</DefaultText>
+      <ID>354</ID>
+      <DefaultText>der Wahrnehmung +4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>283</ID>
-      <DefaultText>Schwache Zauberbindung: Tanzende Blitze</DefaultText>
+      <ID>355</ID>
+      <DefaultText>der Geschicklichkeit +4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>284</ID>
-      <DefaultText>Schwerfällig</DefaultText>
+      <ID>356</ID>
+      <DefaultText>der Entschlossenheit +4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>285</ID>
-      <DefaultText>Schwache Zauberbindung: Kraft der Natur</DefaultText>
+      <ID>357</ID>
+      <DefaultText>Last</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>286</ID>
-      <DefaultText>Glänzend</DefaultText>
+      <ID>358</ID>
+      <DefaultText>der Verfassung +4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>287</ID>
-      <DefaultText>Untotengeißel</DefaultText>
+      <ID>359</ID>
+      <DefaultText>Unerbittlich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>288</ID>
-      <DefaultText>Geistergeißel</DefaultText>
+      <ID>360</ID>
+      <DefaultText>Klarheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>289</ID>
-      <DefaultText>Schwache Zauberbindung: Segen der Vergessenen</DefaultText>
+      <ID>361</ID>
+      <DefaultText>Schwache Zauberbindung: Segen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>290</ID>
-      <DefaultText>Zäh</DefaultText>
+      <ID>362</ID>
+      <DefaultText>Zephyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>291</ID>
-      <DefaultText>Verflucht</DefaultText>
+      <ID>363</ID>
+      <DefaultText>Zauberausdauer: Unbeugsam</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>292</ID>
-      <DefaultText>Starke Zauberbindung: Concelhauts Visage</DefaultText>
+      <ID>364</ID>
+      <DefaultText>Hinrichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>293</ID>
-      <DefaultText>Durgan-veredelt</DefaultText>
+      <ID>365</ID>
+      <DefaultText>Gnadenstoß</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>294</ID>
-      <DefaultText>Durgan-verstärkt</DefaultText>
+      <ID>366</ID>
+      <DefaultText>des Intellekts +4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>295</ID>
-      <DefaultText>Durgan-verstärkt</DefaultText>
+      <ID>367</ID>
+      <DefaultText>Furchterregend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>296</ID>
-      <DefaultText>Große Reflexion</DefaultText>
+      <ID>380</ID>
+      <DefaultText>Legendär</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>297</ID>
-      <DefaultText>Hinterhalt</DefaultText>
+      <ID>403</ID>
+      <DefaultText>Aufgeladene Zauberbindung: Seele verbrennen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>298</ID>
-      <DefaultText>Zauberchance: Mal der Natur</DefaultText>
+      <ID>404</ID>
+      <DefaultText>Erschlagen (Augenlose)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>299</ID>
-      <DefaultText>Schwache Zauberbindung: Säuberung von Giften</DefaultText>
+      <ID>405</ID>
+      <DefaultText>Zauberschlag: Augenlose Zerstörung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>300</ID>
-      <DefaultText>Zauberschlag: Madenbefall</DefaultText>
+      <ID>406</ID>
+      <DefaultText>Zauberbindung: Abydons Arbeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>301</ID>
-      <DefaultText>Schwache Zauberbindung: Madenbefall</DefaultText>
+      <ID>407</ID>
+      <DefaultText>Zauberbindung: Ring der antiken Esse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>302</ID>
-      <DefaultText>Schwache Zauberbindung: Widerwärtige Dornen</DefaultText>
+      <ID>408</ID>
+      <DefaultText>Mythisch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>303</ID>
-      <DefaultText>Krankmachend</DefaultText>
+      <ID>409</ID>
+      <DefaultText>Echo des Schöpfers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>304</ID>
-      <DefaultText>Zauberchance: Verwundbarkeiten bloßstellen</DefaultText>
+      <ID>410</ID>
+      <DefaultText>Abydons Macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>305</ID>
-      <DefaultText>Zauberchance: Verbrennende Wunden</DefaultText>
+      <ID>411</ID>
+      <DefaultText>Zaubertöten: Gnadenloses Starren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>306</ID>
-      <DefaultText>Schwache Zauberbindung: Feuerball</DefaultText>
+      <ID>412</ID>
+      <DefaultText>Gift</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>307</ID>
-      <DefaultText>Starke Zauberbindung: Concelhauts ätzender Abfluss</DefaultText>
+      <ID>413</ID>
+      <DefaultText>Präzise 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>308</ID>
-      <DefaultText>Zauberchance: Benommenheit</DefaultText>
+      <ID>414</ID>
+      <DefaultText>Reine Peitsche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>309</ID>
-      <DefaultText>Schwache Zauberbindung: Gebet gegen Hinterlist</DefaultText>
+      <ID>415</ID>
+      <DefaultText>Verstärkte Peitsche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>310</ID>
-      <DefaultText>Starke Zauberbindung: Dominieren</DefaultText>
+      <ID>416</ID>
+      <DefaultText>Zauberchance: Dominiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>311</ID>
-      <DefaultText>Schnell ziehen</DefaultText>
+      <ID>417</ID>
+      <DefaultText>Zaubertöten: Verängstigt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>312</ID>
-      <DefaultText>Glück</DefaultText>
+      <ID>418</ID>
+      <DefaultText>Zauberwirkung: Llengraths Verlegung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>313</ID>
-      <DefaultText>Präzision</DefaultText>
+      <ID>419</ID>
+      <DefaultText>Zauberchance: Insektenplage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>314</ID>
-      <DefaultText>Schnelligkeit</DefaultText>
+      <ID>420</ID>
+      <DefaultText>Zauberchance: Heilungskette</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>315</ID>
-      <DefaultText>Reflexion</DefaultText>
+      <ID>421</ID>
+      <DefaultText>Zauberausdauer: Aura der Furcht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>316</ID>
-      <DefaultText>Verfolger</DefaultText>
+      <ID>422</ID>
+      <DefaultText>Schlagen 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>317</ID>
-      <DefaultText>Schwache Zauberbindung: Zurückziehen</DefaultText>
+      <ID>429</ID>
+      <DefaultText>Zauberchance: Sonnenlanze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>318</ID>
-      <DefaultText>Zauberschlag: Hieb der tausend Schleier</DefaultText>
+      <ID>430</ID>
+      <DefaultText>Zauberverteidigung: Umfassende Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>319</ID>
-      <DefaultText>Starke Zauberbindung: Koordinierte Positionierung</DefaultText>
+      <ID>431</ID>
+      <DefaultText>Zaubertöten: Segen des Champions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>320</ID>
-      <DefaultText>Starke Zauberbindung: Geringe arkane Reflexion</DefaultText>
+      <ID>432</ID>
+      <DefaultText>Ausmanövrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>321</ID>
-      <DefaultText>Zauberwirkung: Spiegelbild</DefaultText>
+      <ID>433</ID>
+      <DefaultText>Immunität: Verängstigen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>322</ID>
-      <DefaultText>Entziehend</DefaultText>
+      <ID>442</ID>
+      <DefaultText>Zauberchance: Flammen der Hingabe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>323</ID>
-      <DefaultText>Hartnäckigkeit</DefaultText>
+      <ID>454</ID>
+      <DefaultText>Zauberchance: Feuerkäfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>324</ID>
-      <DefaultText>Unbewaffneter Schlag</DefaultText>
+      <ID>457</ID>
+      <DefaultText>Spinnenfinger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>325</ID>
-      <DefaultText>Schwache Zauberbindung: Wachsame Präsenz</DefaultText>
+      <ID>460</ID>
+      <DefaultText>Schwache Zauberbindung: Arkemyrs blendende Lichter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>326</ID>
-      <DefaultText>Unbezwingbar</DefaultText>
+      <ID>466</ID>
+      <DefaultText>der Macht +4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>327</ID>
-      <DefaultText>Zauberwirkung: Abwehrsiegel</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>328</ID>
-      <DefaultText>Zauberchance: Lähmen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>329</ID>
-      <DefaultText>Starke Zauberbindung: Geister verlangsamen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>330</ID>
-      <DefaultText>Zauberchance: Besessene rufen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>331</ID>
-      <DefaultText>Zauberchance: Zwillingsstein</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>332</ID>
-      <DefaultText>Zauberschlag: Verwirren</DefaultText>
+      <ID>467</ID>
+      <DefaultText>Präzise 6</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
