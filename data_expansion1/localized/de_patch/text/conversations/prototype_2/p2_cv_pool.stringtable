@@ -18,7 +18,7 @@
       <ID>218</ID>
       <DefaultText>Du spürst, wie ein Funken von Energie von dir auf die Teufelin von Caroc überspringt. Sie blinzelt und richtet ihre schwarzen Augen für einen kurzen Moment auf dich.
 
-Sie fällt auf die Knie, ächzend und hustend. Eine dunkle, ölige Flüssigkeit schießt aus ihren Gelenken auf die Pflastersteine und versammelt sich zu einer Pfütze. Sie schreit auf, aber die Flüssigkeit erstickt das Geräusch.</DefaultText>
+Sie fällt auf die Knie, ächzend und hustend. Eine dunkle, ölige Flüssigkeit schießt aus ihren Gelenken auf die Pflastersteine und sammelt sich in einer Pfütze. Sie schreit auf, aber die Flüssigkeit erstickt das Geräusch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@ Sie fällt auf die Knie, ächzend und hustend. Eine dunkle, ölige Flüssigkeit 
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Die Teufelin von Caroc steht stillt, den Kopf zum Boden gesenkt. Es ist unmöglich zu sagen, ob sie eine alte Blutkruste studiert oder döst.</DefaultText>
+      <DefaultText>Die Teufelin von Caroc steht still, den Kopf zum Boden gesenkt. Es ist unmöglich zu sagen, ob sie eine alte Blutkruste studiert oder döst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
