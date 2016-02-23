@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>18</EntryCount>
+  <EntryCount>20</EntryCount>
   <Entries>
     <Entry>
       <ID>406</ID>
@@ -15,63 +15,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>408</ID>
-      <DefaultText>Du hast die Ogermatronin Beregan in der Höhle ihres Clans im Rotwald gefunden und getötet.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>409</ID>
-      <DefaultText>Du hast die Ogermatronin Beregan aufgesucht und einen Waffenstillstand mit ihr ausgehandelt. Sie hat versprochen, dass ihr Clan dich und Stalwart in Frieden lassen würde.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>410</ID>
-      <DefaultText>Du bist Galvino begegnet, einem exzentrischen und übellaunigen alten Erfinder, der in der Nähe von Durgans Batterie lebt. Er hat dir von der Tradition der ‚Festungslieder‘ unter den Pargrunen-Zwergen berichtet. Und er hat dich der Teufelin von Caroc vorgestellt, einem Konstrukt, das er gebaut hat.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>411</ID>
-      <DefaultText>Die Teufelin von Caroc, ein Konstrukt mit der Seele einer Mörderin, hat gebeten, dich begleiten zu dürfen. Du hast zugestimmt.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>412</ID>
-      <DefaultText>Die Teufelin von Caroc hat offenbart, dass sie noch immer nach einem Mann jagt, der an der Auslöschung ihres Dorfs beteiligt war.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>413</ID>
-      <DefaultText>Ihr habt Harmke gefunden, den Mann, den die Teufelin von Caroc gesucht hatte. Du hast seine Seele gelesen und der Teufelin erklärt, dass er nicht dafür verantwortlich ist, dass ihr Haus in Kaltmorg niedergebrannt wurde. Die Teufelin hat ihn ziehen lassen.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>414</ID>
-      <DefaultText>Ihr habt Harmke gefunden, den Mann, den die Teufelin von Caroc gesucht hatte. Du hast seine Seele gelesen und der Teufelin erklärt, dass er dafür verantwortlich ist, dass ihr Haus in Kaltmorg niedergebrannt wurde. Die Teufelin hat Rache an ihm genommen.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>415</ID>
-      <DefaultText>Die Teufelin von Caroc wurde zerstört.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>416</ID>
       <DefaultText>Du bist in Stalwart einem Mönch aus Ixamitl begegnet, Zahua. Du hast ihn eingeladen, sich dir anzuschließen.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>417</ID>
-      <DefaultText>Zahua hat dir von seiner Ausbildung zum Krieger berichtet. Und davon, wie sein Meister ihm den letzten Teil dieser Ausbildung verwehrt hat.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>418</ID>
-      <DefaultText>Zahua ist gestorben.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>419</ID>
-      <DefaultText>Du hast herausgefunden, wie sich die Tore von Durgans Batterie öffnen lassen - und hast die alte Festung als erste Person seit zweihundert Jahren betreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,8 +35,73 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>423</ID>
-      <DefaultText>Nachdem du mit den Kommandanten der Batterie gesprochen hast, hast du die Seelen der Zwerge an die Kanonen auf den Zinnen der Festung gebunden. So können sie die Verteidigung der mächtigen Festung verbessern, die sie über Generationen errichtet haben.</DefaultText>
+      <ID>427</ID>
+      <DefaultText>Nach deinen Abenteuern in Durgans Batterie hattest du einen Traum von einer Armee, die aus den Bergen herabsteigt und dich bis zu deiner Festung verfolgt. Du erkanntest, dass irgendeine Macht in der Weißmark dich vernichten würde, wenn du sie nicht daran hindern würdest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Du hast von dem Eisenflegel erfahren, einer bewaffneten Bande von Readceranern, die in der Nähe von Durgans Batterie eine Festung erreichtet hatte, um die Weiße Esse zu erobern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>In der Festung des Eisenflegels bist du einer mysteriösen Ondritin begegnet. Sie hat sich selbst das Leben genommen, bevor du mit ihr sprechen konntest, aber in ihrer schwindenden Seele hast du die Abtei des Gefallenen Mondes gesehen&#160;… den Schlüssel, um die Armee der Augenlosen aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Du hast die Abtei des Gefallenen Mondes erreicht und Abydons uralten Leichnam entdeckt. Du hast erfahren, dass er sich selbst geopfert hat, um Eoras Zivilisationen vor einem Fragment des Mondes zu beschützen, den Ondra vom Himmel gezerrt hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Du hast Abydons Hammer mit einem Fragment wiederhergestellt, das du unter seinen Überresten gefunden hast. Mit diesem Hammer bewaffnet warst du bereit, dich den Augenlosen zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Du hast die Augenlosen zu einem hohlen Stück des Mondes verfolgt, das sich in Cayrons Narbe gebohrt hatte. Du hast dieses Fragment mit den Augenlosen darin zerstört und damit der Bedrohung durch diese eigenartigen Wesen ein für alle Mal ein Ende bereitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>In der Essenz der Augenlosen hast du Teile von Abydon erkannt, ihrem ursprünglichen Schöpfer. Du hast diese Essenz wieder Abydon verliehen. Dadurch erhielt er Erinnerungen an seinen Tod und an seinen früheren Zweck der Bewahrung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>In der Essenz der Augenlosen hast du Teile von Abydon erkannt, ihrem ursprünglichen Schöpfer. Du hast diese Essenz wieder Abydon verliehen. Dadurch erhielt er Erinnerungen an seinen Tod, sein früherer Zweck der Bewahrung wurde jedoch gemäßigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>In der Essenz der Augenlosen hast du Teile von Abydon erkannt, ihrem ursprünglichen Schöpfer. Du hast diese Essenz zerstreut, auf dass Abydon sich weder an seinen Tod noch an seinen früheren Zweck der Bewahrung erinnere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>In Stalwart bist du Maneha begegnet, einer ondritischen Gabenbringerin. Sie hat erklärt, dass sie auf der Suche nach der Abtei des Gefallenen Mondes sei, wo sie Erinnerungsstücke der Gläubigen ablegen solle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Du hast erfahren, dass Maneha unter einer schrecklichen Last leidet&#160;… der Erinnerung an ihre Verbrechen aus einem früheren Leben. Sie hat dir anvertraut, dass sie in Wahrheit diese Erinnerungen in der Abtei zurücklassen wolle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Mit deiner Hilfe hat Maneha den Salzbrunnen in der Abtei des Gefallenen Mondes gefunden. Dort hat sie ihre schmerzlichen Erinnerungen Ondra überlassen. Als sie wieder aus dem Brunnen gestiegen ist, konnte sie sich nicht mehr an die Ereignisse erinnern, die sie so geplagt hatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Mit deiner Hilfe hat Maneha den Salzbrunnen in der Abtei des Gefallenen Mondes gefunden. Du hast sie aber überzeugt, die Erinnerung zu behalten und mit ihrer Vergangenheit leben zu lernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Maneha ist während eurer gemeinsamen Abenteuer gestorben.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
