@@ -12838,7 +12838,7 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2224</ID>
-      <DefaultText>Auf einem kleinen Etikette auf der Seite steht: „Eigentum von A. Thorel. Nur zur Verwendung auf verrosteten Materialien.“</DefaultText>
+      <DefaultText>Auf einem kleinen Etikett auf der Seite steht: „Eigentum von A. Thorel. Nur zur Verwendung auf verrosteten Materialien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13134,7 +13134,7 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2278</ID>
-      <DefaultText>Dieser Leinensack enthält den Kopf von Roedwith, Anführer von Magrans Anhängern.</DefaultText>
+      <DefaultText>Dieser Leinensack enthält den Kopf von Roedwith, Anführerin von Magrans Anhängern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13164,7 +13164,7 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2284</ID>
-      <DefaultText>Die Brosche des Karawanenmeisters Saefol, die du eingefroren im Schrecken der Weißsteinsenke gefunden hast.</DefaultText>
+      <DefaultText>Die Brosche des Karawanenmeisters Saefol, die du eingefroren in der Mitte des Schreckens der Weißsteinsenke gefunden hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13308,7 +13308,7 @@ Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn
     </Entry>
     <Entry>
       <ID>2314</ID>
-      <DefaultText>Adaryc Cendamyr, der einzige überlebende Sohn eines Leibeigenen, war einer von unzähligen Readceranern, der sich bei Ausbruch des Kriegs des Heiligen Waidwens Armee angeschlossen hat. Trotz seiner Jugend und Unerfahrenheit schlug Adaryc sich auf dem Schlachtfeld gut und war wegen seiner Vernunft, Leidenschaft und Loyalität bald äußerst beliebt bei seinen Kameraden. Entschlossen, Waidwen zu ehren, erwies Adaryc sich als disziplinierter und engagierter Soldat.</DefaultText>
+      <DefaultText>Adaryc Cendamyr, der einzige überlebende Sohn eines Leibeigenen, war einer von unzähligen Readceranern, der sich bei Ausbruch des „Kriegs des Heiligen“ Waidwens Armee angeschlossen hat. Trotz seiner Jugend und Unerfahrenheit schlug Adaryc sich auf dem Schlachtfeld gut und war wegen seiner Vernunft, Leidenschaft und Loyalität bald äußerst beliebt bei seinen Kameraden. Entschlossen, Waidwen zu ehren, erwies Adaryc sich als disziplinierter und engagierter Soldat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13802,7 +13802,7 @@ Die Berge sind wunderschön. Ich hoffe, dass du bald mit eigenen Augen sehen kan
     </Entry>
     <Entry>
       <ID>2396</ID>
-      <DefaultText>„Der Artillerieaufzug bleibt bis auf weiteres geschlossen. Die Zahnränder fangen an zu rosten und ein Versagen des Mechanismus könnte katastrophale Folgen haben. Trankmeister Andren arbeitet daran, die Zahnräder zu patinieren, um sie wetterfest zu machen.“</DefaultText>
+      <DefaultText>„Der Artillerieaufzug bleibt bis auf weiteres geschlossen. Die Zahnräder fangen an zu rosten und ein Versagen des Mechanismus könnte katastrophale Folgen haben. Trankmeister Andren arbeitet daran, die Zahnräder zu patinieren, um sie wetterfest zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14122,7 +14122,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2460</ID>
-      <DefaultText>Diesen Wasserschlauch hat dir ein Mann in Zahuas Vision gegeben. Er hat dich gebeten, in an einem Wasserfall in der Weißsteinsenke zu füllen.</DefaultText>
+      <DefaultText>Diesen Wasserschlauch hat dir ein Mann in Zahuas Vision gegeben. Er hat dich gebeten, ihn an einem Wasserfall in der Weißsteinsenke zu füllen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14152,7 +14152,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2466</ID>
-      <DefaultText>Eine kleine, delikate Phiole, die an einer dünnen, goldenen Halskette hängt, enthält angeblich die Tränen von St. Borragia, einer magranitischen Heiligen. Das Relikt ging irgendwann während des Kriegs des Heiligen verloren, als die Kirche der Windenden Flamme von Readceranern geplündert wurde.</DefaultText>
+      <DefaultText>Eine kleine, zierliche Phiole, die an einer dünnen, goldenen Halskette hängt. Sie enthält angeblich die Tränen von St. Borragia, einer magranitischen Heiligen. Das Relikt ging irgendwann während des Kriegs des Heiligen verloren, als die Kirche der Windenden Flamme von Readceranern geplündert wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14272,7 +14272,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2490</ID>
-      <DefaultText>Diese wunderschönen Handschuhe bestehen aus einem seltsamen, versteinerten Holz, das so stark wie Eisen ist. Du hast sie im Tals aus Glas im Land der Lebenden gefunden, doch es ist nicht bekannt, wer sie gefertigt hat oder zu welchem Zweck.</DefaultText>
+      <DefaultText>Diese wunderschönen Handschuhe bestehen aus einem seltsamen, versteinerten Holz, das so stark wie Eisen ist. Du hast sie im Tal aus Glas im Land der Lebenden gefunden, doch es ist nicht bekannt, wer sie gefertigt hat oder zu welchem Zweck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14287,7 +14287,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2493</ID>
-      <DefaultText>Diese seltsamen Kohlen brennen nicht, scheinen aber ständig eine gefährliche Wärme abzugeben, wenn man sie berührt. Sie wurden in den Schwarzen Hügeln von Abet gefunden, wo ein schreckliches Monster sie zurückgelassen hat, das die dortigen Bergarbeiter terrorisiert hat.</DefaultText>
+      <DefaultText>Diese seltsamen Kohlen brennen nicht, scheinen aber ständig eine gefährliche Wärme abzugeben, wenn man sie berührt. Sie wurden in den Schwarzen Hügeln von Abet gefunden, wo ein schreckliches Monster sie zurückgelassen hat, das die dortigen Bergarbeiter terrorisiert hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14349,7 +14349,7 @@ Trotz seiner Proteste wurde Lirat als Held gefeiert. Die Kunde von seiner Tat ve
     </Entry>
     <Entry>
       <ID>2503</ID>
-      <DefaultText>Dieser Mantel erlaubt es Steuereintreibern im ganzen Dyrwald, sich in die Geldbörsen und Bücher ehrlicher Leute zu schleichen.</DefaultText>
+      <DefaultText>Dieser Mantel erlaubt es Steuereintreibern im ganzen Dyrwald, an die Geldbörsen und Bücher ehrlicher Leute heranzukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14411,7 +14411,7 @@ Trotz seiner Proteste wurde Lirat als Held gefeiert. Die Kunde von seiner Tat ve
       <ID>2515</ID>
       <DefaultText>„Welch seltsamen und wunderbaren Ort wir gefunden haben!
 
-Unsere Väter und Mütter haben entschieden, dass eine gute Verteidigung hier unsere oberste Priorität sein sollte. Wir haben daher hohe, robuste Mauern gebaut und in der Esse Kanonen gegossen. Doch so hoch unsere Mauern auch sind, die Berge sind noch höher. Auf Gabels genialen Vorschlag hin haben wir daher einen hohen Turm erreicht und unsere besten Kanonen darauf in Position gebracht. Mit dieser Verteidigung kann keine Armee der Welt uns belagern!
+Unsere Väter und Mütter haben entschieden, dass eine gute Verteidigung hier unsere oberste Priorität sein sollte. Wir haben daher hohe, robuste Mauern gebaut und in der Esse Kanonen gegossen. Doch so hoch unsere Mauern auch sind, die Berge sind noch höher. Auf Gabels genialen Vorschlag hin haben wir daher einen hohen Turm errichtet und unsere besten Kanonen darauf in Position gebracht. Mit dieser Verteidigung kann keine Armee der Welt uns belagern!
 
 Wir sind jedoch auf ein Problem gestoßen. Beißende Winde und heftige Schneestürme peitschen Tag und Nacht um die Spitze des Turmes, in jeder Jahreszeit. Sie lassen nicht nur unsere Wachposten frieren, sondern auch die Kanonen. Wir haben einen Heizkessel gebaut, der sie beide erwärmen kann, genährt von der Hitze der Esse. Es war jedoch schwieriger als erwartet, ihn am richtigen Ort zu platzieren. Unser erster Versuch hat zu viel Rauch in der Esse selbst eingesperrt. Unser zweiter hat sich durch die Hitze verformt&#160;… und zwar derart, dass der Heizkessel fast in die Esse gestürzt wäre! Was für ein Desaster das gewesen wäre.
 
@@ -14470,7 +14470,7 @@ Alt und gebrechlich, wie Durgan war, verbrachte er einen Tag und eine Nacht alle
     </Entry>
     <Entry>
       <ID>2524</ID>
-      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Verbrennungsschaden.</DefaultText>
+      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Verbrennungsschaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
