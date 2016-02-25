@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText>Ein Blick durch den Ritz zeigt einen langen, steilen Weg nach unten.</DefaultText>
+      <DefaultText>Ein Blick durch den Spalt zeigt einen langen, steilen Weg nach unten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>1063</ID>
-      <DefaultText>Die Schienen liegen zerquetscht unter dem eingestürzten Tunnel.</DefaultText>
+      <DefaultText>Die Schienen liegen zertrümmert unter dem eingestürzten Tunnel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,7 +601,7 @@
     </Entry>
     <Entry>
       <ID>1098</ID>
-      <DefaultText>Ein gewaltiger Kristall, dessen zackige Kanten unheimlich leuchten, ragt durch die Kuppel. Mosaike und Teile wurden sorgfältig um den seltsamen Stein herum angeordnet.</DefaultText>
+      <DefaultText>Ein gewaltiger Kristall, dessen zackige Kanten unheimlich leuchten, ragt durch die Kuppel. Mosaike und Kacheln wurden sorgfältig um den seltsamen Stein herum angeordnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,7 +631,7 @@
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Eine dünne Schicht, Frost glitzert über diesem Vorrat an Brot und Kohlköpfen.</DefaultText>
+      <DefaultText>Eine dünne Schicht Frost glitzert über diesem Vorrat an Brot und Kohlköpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,12 +751,12 @@
     </Entry>
     <Entry>
       <ID>1153</ID>
-      <DefaultText>Eine Barriere liegt über dieser Tür. Sie summt vor seltsamer Energie. Du siehst keinen offensichtlichen Weg daran vorbei.</DefaultText>
+      <DefaultText>Eine Barriere liegt über dieser Tür. Sie summt vor einer seltsamen Energie. Du siehst keinen offensichtlichen Weg daran vorbei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>Ein gelblicher Dampf steigt aus diesen Schächten auf und hinterlässt einen beißenden Geruch in der Luft.</DefaultText>
+      <DefaultText>Ein gelblicher Dampf steigt gelegentlich aus diesen Schächten auf und hinterlässt einen beißenden Geruch in der Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>1166</ID>
-      <DefaultText>Der Entfernung zu dem nahegelegenen Schädel nach zu urteilen muss eine gewaltige Kraft diese Wirbelknochen von dem Rest des riesigen Körpers getrennt haben.</DefaultText>
+      <DefaultText>Der Entfernung zu dem nahegelegenen Schädel nach zu urteilen, muss eine gewaltige Kraft diese Wirbelknochen von dem Rest des riesigen Körpers getrennt haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>1179</ID>
-      <DefaultText>Warmes Bratenfett köchelt am Boden dieses Topfes.</DefaultText>
+      <DefaultText>Heißes Bratenfett köchelt am Boden dieses Topfes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
