@@ -82,7 +82,7 @@ Der zweite tritt den Körper des sterbenden Mannes mit dem Stiefel aus dem Weg, 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Du ... du willst sie gehen lassen? Du willst sie ANHEUERN, nach allem, was sie getan haben?“</DefaultText>
+      <DefaultText>„Du&#160;… du willst sie gehen lassen? Du willst sie ANHEUERN, nach allem, was sie getan haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@ Die Düsteren Schreiter sehen teilnahmslos zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Überraschung macht sich auf Eskas Gesicht breit ... und verhärtet sich dann zu resigniertem Zorn.
+      <DefaultText>Überraschung macht sich auf Eskas Gesicht breit&#160;… und verhärtet sich dann zu resigniertem Zorn.
 
 Er bewegt sich langsam in Richtung Tür. Die Düsteren Schreiter sehen teilnahmslos zu.</DefaultText>
       <FemaleText />
@@ -330,7 +330,7 @@ Er bewegt sich langsam in Richtung Tür. Die Düsteren Schreiter sehen teilnahms
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Nein, nein. Wir haben schon einen Auftrag ... und du hast uns dabei gestört.“</DefaultText>
+      <DefaultText>„Nein, nein. Wir haben schon einen Auftrag&#160;… und du hast uns dabei gestört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -352,12 +352,12 @@ Er bewegt sich langsam in Richtung Tür. Die Düsteren Schreiter sehen teilnahms
       <ID>72</ID>
       <DefaultText>„Sieh an, sieh an. Ein wandelndes, sprechendes Relikt der alten Welt.“
 
-Du hörst ein verächtliches Schnauben von einem der Männer hinter ihm</DefaultText>
+Du hörst ein verächtliches Schnauben von einem der Männer hinter ihm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Eska hier kann es dir sagen ... die Gestandenen in Stalwart lieben ihre erbärmlichen kleinen Fehden. Sie gehen sich laufend gegenseitig an die Gurgel.“</DefaultText>
+      <DefaultText>„Eska hier kann es dir sagen&#160;… die Gestandenen in Stalwart lieben ihre erbärmlichen kleinen Fehden. Sie gehen sich laufend gegenseitig an die Gurgel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,8 +428,8 @@ Cevestin lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„He, wartet ... ihr hört doch nicht etwa auf ihn, oder? Wir arbeiten seit Jahren zusammen!“</DefaultText>
-      <FemaleText>„He, wartet ... ihr hört doch nicht etwa auf sie, oder? Wir arbeiten seit Jahren zusammen!“</FemaleText>
+      <DefaultText>„He, wartet&#160;… ihr hört doch nicht etwa auf ihn, oder? Wir arbeiten seit Jahren zusammen!“</DefaultText>
+      <FemaleText>„He, wartet&#160;… ihr hört doch nicht etwa auf sie, oder? Wir arbeiten seit Jahren zusammen!“</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -778,7 +778,7 @@ Er wirbelt zu ihnen herum.</DefaultText>
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>„Du ... du lässt sie gehen? Nach allem, was sie getan haben? Kern hat sie dafür bezahlt, meine Familie zu töten!“</DefaultText>
+      <DefaultText>„Du&#160;… du lässt sie gehen? Nach allem, was sie getan haben? Kern hat sie dafür bezahlt, meine Familie zu töten!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
