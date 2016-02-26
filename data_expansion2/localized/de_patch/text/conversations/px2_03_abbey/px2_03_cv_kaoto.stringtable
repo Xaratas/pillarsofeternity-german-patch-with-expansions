@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Nun, da ich hier bin ... was wünschst du von mir?“</DefaultText>
+      <DefaultText>„Nun, da ich hier bin&#160;… was wünschst du von mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Die ... Konklave ... hat etwas von einem Reliquiar gesagt.“</DefaultText>
+      <DefaultText>„Die&#160;… Konklave&#160;… hat etwas von einem Reliquiar gesagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,7 +83,7 @@ Er sieht dich verwundert an.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Wegen der Rezitation ...“</DefaultText>
+      <DefaultText>„Wegen der Rezitation&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@ Er zwinkert dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„In den unteren Hallen findest du ein Relikt, Ondras Zeugen. Ein Aspergill, um Weihwasser zu verteilen ... und noch etwas anderes.“</DefaultText>
+      <DefaultText>„In den unteren Hallen findest du ein Relikt, Ondras Zeugen. Ein Aspergill, um Weihwasser zu verteilen&#160;… und noch etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,8 +287,8 @@ Er streicht sich mit der Hand seine dicken Haarbüschel nach unten. Eine graue S
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Du sprichst gefährliche Worte. Ein Gezeitenbringer muss frei von jedem Zweifel sein. Verzeih mir, aber ich kann nicht zulassen, dass du Oberabt wirst ... oder diese Abtei je wieder verlässt.“</DefaultText>
-      <FemaleText>„Du sprichst gefährliche Worte. Eine Gezeitenbringerin muss frei von jedem Zweifel sein. Verzeih mir, aber ich kann nicht zulassen, dass du Oberäbtissin wirst ... oder diese Abtei je wieder verlässt.“</FemaleText>
+      <DefaultText>„Du sprichst gefährliche Worte. Ein Gezeitenbringer muss frei von jedem Zweifel sein. Verzeih mir, aber ich kann nicht zulassen, dass du Oberabt wirst&#160;… oder diese Abtei je wieder verlässt.“</DefaultText>
+      <FemaleText>„Du sprichst gefährliche Worte. Eine Gezeitenbringerin muss frei von jedem Zweifel sein. Verzeih mir, aber ich kann nicht zulassen, dass du Oberäbtissin wirst&#160;… oder diese Abtei je wieder verlässt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -307,7 +307,7 @@ Er streicht sich mit der Hand seine dicken Haarbüschel nach unten. Eine graue S
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Ich weiß, was es bedeutet, dieses Relikt zu verwenden, um die Flut zu rufen. Obwohl es notwendig ist, obwohl es gnadenvoll ist ... vergisst man es nicht. Niemals.“</DefaultText>
+      <DefaultText>„Ich weiß, was es bedeutet, dieses Relikt zu verwenden, um die Flut zu rufen. Obwohl es notwendig ist, obwohl es gnadenvoll ist&#160;… vergisst man es nicht. Niemals.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,7 +360,7 @@ Dein Herz pocht.</DefaultText>
       <ID>74</ID>
       <DefaultText>Du bleibst bei einer Anordnung von Tafeln stehen, die zu verwaschen sind, um sie zu lesen. Du ordnest sie neu an und eine versteckte Kachel gleitet zurück in die Wand.
 
-An dieser Stelle führst du eine seltsame Geste mit deinen Händen aus ... und der Weg öffnet sich dir.</DefaultText>
+An dieser Stelle führst du eine seltsame Geste mit deinen Händen aus&#160;… und der Weg öffnet sich dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,7 +484,7 @@ Er blickt dich von der Seite an.</DefaultText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Ich weiß nicht, woher du von diesem Ort erfahren hast ... oder von den Dingen, von denen du sprichst ... aber du wirst nie wieder von ihnen sprechen.“</DefaultText>
+      <DefaultText>„Ich weiß nicht, woher du von diesem Ort erfahren hast&#160;… oder von den Dingen, von denen du sprichst&#160;… aber du wirst nie wieder von ihnen sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,7 +555,7 @@ Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Ich lasse nur zu, dass du zum Oberabt wirst, wenn du mich töten kannst ... und jene, die an meiner Seite stehen ... hier und jetzt.“</DefaultText>
+      <DefaultText>„Ich lasse nur zu, dass du zum Oberabt wirst, wenn du mich töten kannst&#160;… und jene, die an meiner Seite stehen&#160;… hier und jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -695,9 +695,9 @@ Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Das Leuchten dieses Mondrochens war in meinem Leben immer ein Leuchtfeuer.
+      <DefaultText>„Das Leuchten dieses Mondrochens war in meinem Leben immer ein Leuchtfeuer.“
 
-„Wenn ich unten eingesperrt bin, muss ich es loslassen ... und eintausend andere Erinnerungen, die mich zu dem machen, was ich bin.“</DefaultText>
+„Wenn ich unten eingesperrt bin, muss ich es loslassen&#160;… und eintausend andere Erinnerungen, die mich zu dem machen, was ich bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,7 +707,7 @@ Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Ich werde dich besiegen und weiter Oberabt bleiben ... oder ich werde hier sterben, in dem Wissen, wer ich bin. Beides ist besser als die Alternative.“</DefaultText>
+      <DefaultText>„Ich werde dich besiegen und weiter Oberabt bleiben&#160;… oder ich werde hier sterben, in dem Wissen, wer ich bin. Beides ist besser als die Alternative.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -727,7 +727,7 @@ Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Ich ... weiß nicht, wie das möglich ist, aber ich werde dafür sorgen, dass du scheiterst.“</DefaultText>
+      <DefaultText>„Ich&#160;… weiß nicht, wie das möglich ist, aber ich werde dafür sorgen, dass du scheiterst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -754,7 +754,7 @@ Er nickt.</DefaultText>
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Die Mönche hier haben alle als Gabenbringer gedient. Wir tragen die schmerzlichsten Erinnerungen der Leute fort ... und jedes Mal bleibt ein Teil davon in uns zurück.“</DefaultText>
+      <DefaultText>„Die Mönche hier haben alle als Gabenbringer gedient. Wir tragen die schmerzlichsten Erinnerungen der Leute fort&#160;… und jedes Mal bleibt ein Teil davon in uns zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -859,7 +859,7 @@ Er atmet tief durch und sammelt sich.</DefaultText>
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>„Leben Sie wohl.“</DefaultText>
+      <DefaultText>„Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,7 +916,7 @@ Er atmet tief durch und sammelt sich.</DefaultText>
       <ID>202</ID>
       <DefaultText>Du fällst wieder durch Erinnerungen, landest aber plötzlich hart vor einem ummauerten Gebiet, das auf die Fassade der Abtei blickt.
 
-Wasser fließt über einen Torbogen wie ein Wasserfall ohne Quelle. Du blickst auf deine Hand, in der du das Relikt vorfindest, das du aus der Maschine genommen hast. Du hältst es nach vorne und das Wasser scheint davon abgestoßen zu werden. Es öffnet sich ein Weg für dich ...</DefaultText>
+Wasser fließt über einen Torbogen wie ein Wasserfall ohne Quelle. Du blickst auf deine Hand, in der du das Relikt vorfindest, das du aus der Maschine genommen hast. Du hältst es nach vorne und das Wasser scheint davon abgestoßen zu werden. Es öffnet sich ein Weg für dich&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@ Wasser fließt über einen Torbogen wie ein Wasserfall ohne Quelle. Du blickst a
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>„In den unteren Hallen findest du ein Relikt, Ondras Zeugen. Ein Aspergill, um Weihwasser zu verteilen ... und noch etwas anderes.“</DefaultText>
+      <DefaultText>„In den unteren Hallen findest du ein Relikt, Ondras Zeugen. Ein Aspergill, um Weihwasser zu verteilen&#160;… und noch etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -988,7 +988,7 @@ Er blickt dir mit strenger Miene in die Augen.</DefaultText>
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>„Ihr anderen, die ihr Kaoto beisteht, seid ihr so feige? Oder werdet ihr eurem Glauben treu bleiben?“</DefaultText>
+      <DefaultText>„Ihr anderen, die bei Kaoto stehen, seid ihr so feige? Oder werdet ihr eurem Glauben treu bleiben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,7 +1016,7 @@ Kaoto wendet sich wieder zu dir und blickt dich an.</DefaultText>
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>„Mönche Ondras ... ihr tut gut daran, die Worte eures Anführers anzuzweifeln. Er folgt nicht länger dem Willen unserer Göttin.“</DefaultText>
+      <DefaultText>„Mönche Ondras&#160;… ihr tut gut daran, die Worte eures Anführers anzuzweifeln. Er folgt nicht länger dem Willen unserer Göttin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,7 +1081,7 @@ Kaoto wendet sich wieder zu dir und blickt dich an.</DefaultText>
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>„Ich war nie begeistert von Doktrinen, aber es muss hier doch irgendetwas geben, was uns hilft. Eine Abtei ohne stapelweise alte Bücher ist keine echte Abtei.“</DefaultText>
+      <DefaultText>„Ich war nie ein großer Freund von Doktrinen, aber es muss hier doch irgendetwas geben, was uns hilft. Eine Abtei ohne stapelweise alte Bücher ist keine echte Abtei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

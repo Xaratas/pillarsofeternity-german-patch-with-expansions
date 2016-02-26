@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Die Erinnerung beherrscht jeden Gedanken, beeinflusst jede Entscheidung.
+      <DefaultText>„Die Erinnerung beherrscht jeden Gedanken, beeinflusst jede Entscheidung.“
 
 „Sie kann Leidenschaft nähren. Verständnis. Liebe. Oder sie kann Besessenheit schaffen. Wahnsinn.“</DefaultText>
       <FemaleText />
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Sie könnten frei von ihren Lasten sein ... wenn sie nur vergessen könnten.“</DefaultText>
+      <DefaultText>„Sie könnten frei von ihren Lasten sein&#160;… wenn sie nur vergessen könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Diese Erinnerung ist das Band, das dich festhält, Nalpazca. Wie frei dein Verstand ohne sie wäre.“</DefaultText>
+      <DefaultText>„Diese Erinnerung ist das Band, das dich ankettet, Nalpazca. Wie frei dein Verstand ohne sie wäre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Sie hat Dinge erlitten, die zu schlimme Erinnerungen verursachten.“</DefaultText>
+      <DefaultText>„Sie hat Dinge erlitten, an die niemand sich erinnern müssen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,12 +268,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Deine Argumentation ist ... interessant, Sterblicher. Vielleicht liegt etwas Wahrheit darin. Aber es ist nicht mein Wille, einfach nur Gutes zu tun.“</DefaultText>
-      <FemaleText>„Deine Argumentation ist ... interessant, Sterbliche. Vielleicht liegt etwas Wahrheit darin. Aber es ist nicht mein Wille, einfach nur Gutes zu tun.“</FemaleText>
+      <DefaultText>„Deine Argumentation ist&#160;… interessant, Sterblicher. Vielleicht liegt etwas Wahrheit darin. Aber es ist nicht mein Wille, einfach nur Gutes zu tun.“</DefaultText>
+      <FemaleText>„Deine Argumentation ist&#160;… interessant, Sterbliche. Vielleicht liegt etwas Wahrheit darin. Aber es ist nicht mein Wille, einfach nur Gutes zu tun.“</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„Diese zerbrochenen Seelen, die deine Prüfung nicht bestehen ... sie sind es, die ich am meisten liebe, denn kein anderer Gott will sie.“</DefaultText>
+      <DefaultText>„Diese zerbrochenen Seelen, die deine Prüfung nicht bestehen&#160;… sie sind es, die ich am meisten liebe, denn kein anderer Gott will sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,7 +418,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Sie hätte jetzt eine andere Identität, ein friedlicheres Leben ... wenn sie vergessen könnte, was sie auf diesen Pfad geführt hat.“</DefaultText>
+      <DefaultText>„Sie hätte jetzt eine andere Identität, ein friedlicheres Leben&#160;… wenn sie vergessen könnte, was sie auf diesen Pfad geführt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

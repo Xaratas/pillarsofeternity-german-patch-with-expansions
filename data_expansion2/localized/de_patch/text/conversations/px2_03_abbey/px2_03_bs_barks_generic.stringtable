@@ -27,7 +27,7 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>„Bist du der Besucher, auf den wir gewartet haben?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Bist du die Besucherin, auf die wir gewartet haben?“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
