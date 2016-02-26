@@ -87,7 +87,7 @@ Aufgrund der Größe der Schollen wird dein Zaubereis die Reihe jedoch nicht lan
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Slot 0] paddelt zum Rand der Eisscholle und klettert nass und zitternd aus dem Wasser.</DefaultText>
+      <DefaultText>[Specified 0] paddelt zum Rand der Eisscholle und klettert nass und zitternd aus dem Wasser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,12 +114,12 @@ Du kannst gerade noch verhindern, dass du von einem weiteren Eisbrocken zerdrüc
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Trotz der gnadenlosen Kälte ist [Slot 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
+      <DefaultText>Trotz der gnadenlosen Kälte ist [Specified 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Trotz der gnadenlosen Kälte ist [Slot 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
+      <DefaultText>Trotz der gnadenlosen Kälte ist [Specified 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@ Du kannst gerade noch verhindern, dass du von einem weiteren Eisbrocken zerdrüc
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Trotz der gnadenlosen Kälte ist [Slot 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
+      <DefaultText>Trotz der gnadenlosen Kälte ist [Specified 0] zäh genug, um ihrer lähmenden Wirkung zu widerstehen und rasch zur nächsten Eisscholle zu schwimmen und sich aus dem Wasser zu ziehen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

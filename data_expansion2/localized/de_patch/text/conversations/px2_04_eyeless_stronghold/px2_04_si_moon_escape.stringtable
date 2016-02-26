@@ -95,7 +95,7 @@ Er schlägt gegen den Kristall.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Du gibst [Specified 0] den Tauchhelm. Nur zur Sicherheit.
+      <DefaultText>Du gibst [Specified 0] den Taucherhelm. Nur zur Sicherheit.
 
 [Specified 0] schenkt dir ein dankbares grimmiges Lächeln.</DefaultText>
       <FemaleText />
@@ -184,7 +184,7 @@ Aber es ist besser, als zu ertrinken.
       <ID>32</ID>
       <DefaultText>Endlich erreicht [Specified 0] das seichte Wasser.
 
-[Specified 0] schlägt durch eine dünne Kruste aus Eis und kriecht an Land ... zitternd, aber am Leben.</DefaultText>
+[Specified 0] schlägt durch eine dünne Kruste aus Eis und kriecht an Land&#160;… zitternd, aber am Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Du bist gefangen.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Ich ... dachte nicht, dass ich noch einmal die Gelegenheit bekommen würde, die Meinen zu beschützen.“
+      <DefaultText>„Ich&#160;… dachte nicht, dass ich noch einmal die Gelegenheit bekommen würde, die Meinen zu beschützen.“
 
 „Es wäre mir eine Ehre, das für dich zu tun.“</DefaultText>
       <FemaleText />
@@ -229,15 +229,15 @@ Du bist gefangen.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Äh ... drei Runden, wer zweimal verliert?“
+      <DefaultText>„Äh&#160;… drei Runden, wer zweimal verliert?“
 
 Er blickt einen Augenblick zur Decke, atmet tief ein und blickt dann wieder zu dir zurück. Er nickt resigniert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, mein Freund. Das ist alles, worum ich dich bitte.“</DefaultText>
-      <FemaleText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein? ... Erinnere dich an mich, meine Freundin. Das ist alles, worum ich dich bitte.“</FemaleText>
+      <DefaultText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein?&#160;… Erinnere dich an mich, mein Freund. Das ist alles, worum ich dich bitte.“</DefaultText>
+      <FemaleText>„Das war es also. Ein dramatisches Ende eines großen Abenteuers. Werden die Kantoren nicht überrascht sein?&#160;… Erinnere dich an mich, meine Freundin. Das ist alles, worum ich dich bitte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -248,7 +248,7 @@ Er blickt einen Augenblick zur Decke, atmet tief ein und blickt dann wieder zu d
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Als wir uns in Ondras Geschenk begegnet sind, war mir nicht klar, dass ich mich auf so etwas einlasse ...“
+      <DefaultText>„Als wir uns in Ondras Geschenk begegnet sind, war mir nicht klar, dass ich mich auf so etwas einlasse&#160;…“
 
 Ein trauriges Lächeln spielt um ihre Lippen, weicht aber unmittelbar einem entschlossenen Ausdruck.</DefaultText>
       <FemaleText />
@@ -979,7 +979,7 @@ Die gesamte Höhle dreht sich und taucht dich in eine eisige Suppe aus spitzem M
       <ID>182</ID>
       <DefaultText>Deine Lungen beginnen zu brennen und deine Glieder werden taub. Zumindest wird dein Tod den Rest von Eora vor den Augenlosen retten.
 
-Eines Tages wird man Lieder über dich singen. Vielleicht Festmahle zu deinen Ehren abhalten. Vielleicht ...
+Eines Tages wird man Lieder über dich singen. Vielleicht Festmahle zu deinen Ehren abhalten. Vielleicht&#160;…
 
 Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll eisigem Wasser. Du stirbst qualvoll.</DefaultText>
       <FemaleText />
@@ -1281,7 +1281,7 @@ Du rettest dich heftig zitternd wieder auf das Eis.</DefaultText>
       <ID>241</ID>
       <DefaultText>Endlich erreichst du das seichte Wasser.
 
-Du schlägst durch eine dünne Kruste aus Eis und kriechst an Land ... zitternd, aber am Leben.</DefaultText>
+Du schlägst durch eine dünne Kruste aus Eis und kriechst an Land&#160;… zitternd, aber am Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1376,7 +1376,7 @@ Die Lagufaeth, besessen von den Geistern Marunns und einigen der anderen Pargrun
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>„Ich ... jeder wird erfahren, was du für uns getan hast. Ich werde es jedem sagen, den ich kenne. Nicht einmal die Seekönigin selbst könnte mich aufhalten.“</DefaultText>
+      <DefaultText>„Ich&#160;… jeder wird erfahren, was du für uns getan hast. Ich werde es jedem sagen, den ich kenne. Nicht einmal die Seekönigin selbst könnte mich aufhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1605,7 +1605,7 @@ Das Wasser drückt dich wie eine Hand in Richtung des gespenstischen Lichts der 
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText />
+      <DefaultText>„Lass es mich tun. Ich habe meine Entscheidungen so lange bereut, es wäre ein guter Weg, die Waage wieder ins Gleichgewicht zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

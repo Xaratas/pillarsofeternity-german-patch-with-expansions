@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Ein Schlag gegen den Kristall würde durch die Mauern hier hallen. Schlägt man hart und oft genug dagegen ... zerbröckelt das ganze Gebilde. Die Augenlosen würden begraben werden.“</DefaultText>
+      <DefaultText>„Ein Schlag gegen den Kristall würde durch die Mauern hier hallen. Schlägt man hart und oft genug dagegen&#160;… zerbröckelt das ganze Gebilde. Die Augenlosen würden begraben werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Schlage mit dem Hammer gegen Abydons Kristall. Die Augenlosen werden erwachen und seinem Ruf folgen ... und ebenfalls gegen den Kristall schlagen.“</DefaultText>
+      <DefaultText>„Schlage mit dem Hammer gegen Abydons Kristall. Die Augenlosen werden erwachen und seinem Ruf folgen&#160;… und ebenfalls gegen den Kristall schlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Du wirst bleiben müssen, bis ihre Arbeit getan ist ... und den Hammer schwingen, bis die Wände einzustürzen beginnen.“</DefaultText>
+      <DefaultText>„Du wirst bleiben müssen, bis ihre Arbeit getan ist&#160;… und den Hammer schwingen, bis die Wände einzustürzen beginnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,12 +176,12 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Ich hatte nicht bedacht, welche Gefahren es mit sich bringt, sie gewähren zu lassen ... bis ein Wächter in meiner Abtei erschien.“</DefaultText>
-      <FemaleText>„Ich hatte nicht bedacht, welche Gefahren es mit sich bringt, sie gewähren zu lassen ... bis eine Wächterin in meiner Abtei erschien.“</FemaleText>
+      <DefaultText>„Ich hatte nicht bedacht, welche Gefahren es mit sich bringt, sie gewähren zu lassen&#160;… bis ein Wächter in meiner Abtei erschien.“</DefaultText>
+      <FemaleText>„Ich hatte nicht bedacht, welche Gefahren es mit sich bringt, sie gewähren zu lassen&#160;… bis eine Wächterin in meiner Abtei erschien.“</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Ich habe erkannt, dass es am besten ist, ihnen ein Ende zu setzen. Denn jeder von ihnen trägt ein kleines Stück von Abydon selbst in sich.
+      <DefaultText>„Ich habe erkannt, dass es am besten ist, ihnen ein Ende zu setzen. Denn jeder von ihnen trägt ein kleines Stück von Abydon selbst in sich.“
 
 „Bei ihrem Tod werden diese Fragmente und die darin enthaltenen Erinnerungen ohne Gefahr zerstreut.“</DefaultText>
       <FemaleText />
@@ -218,7 +218,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Was? Aber das würde bedeuten ... oh.“</DefaultText>
+      <DefaultText>„Was? Aber das würde bedeuten&#160;… oh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,7 +228,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Pah ... ein jämmerliches Ende für die Meereskönigin! Aber wir werden unser eigenes schreiben! Nicht wahr?“</DefaultText>
+      <DefaultText>„Pah&#160;… ein jämmerliches Ende für die Meereskönigin! Aber wir werden unser eigenes schreiben! Nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Das kann nur Ondras Haar sein – wenn auch deutlich kleiner als Seeleute es berichten, die das Pech hatten, diesem Phänomen auf dem offenen Meer zu begegnen.</DefaultText>
+      <DefaultText>Das kann nur Ondras Haar sein – wenn auch deutlich kleiner als Seeleute es berichten, die das Pech haben, diesem Phänomen auf dem offenen Meer zu begegnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
