@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Schwacher Zauber: Tanzende Blitze</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Tanzende Blitze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Große Reflektion</DefaultText>
+      <DefaultText>Große Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Schwacher Zauber: Widerwärtige Dornen</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Widerwärtige Dornen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>Starke Zauberbindung: Dominieren</DefaultText>
+      <DefaultText>Starke Zauberbindung: Beherrschen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Reflektion</DefaultText>
+      <DefaultText>Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Starke Zauberbindung: Geringe arkane Reflektion</DefaultText>
+      <DefaultText>Starke Zauberbindung: Geringe arkane Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,12 +691,12 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText />
+      <DefaultText>Zauberchance: Seelenentzündung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText />
+      <DefaultText>Flash Shot</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
