@@ -54,14 +54,14 @@ Wer diskret vorgeht, der schafft es vielleicht, hinüberzuklettern und das Tor z
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du erhaschst deinen ersten Blick auf das geschäftige Lager ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+      <DefaultText>Du erhaschst deinen ersten Blick auf das geschäftige Lager&#160;… und auf den Wachmann, der in einiger Entfernung postiert ist.
 
 Als du dich auf den Boden wirfst, bemerkt er, dass sich etwas bewegt hat. Er dreht sich in deine Richtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Du erhaschst deinen ersten Blick auf das Lager, das in der Abenddämmerung verschleiert daliegt ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+      <DefaultText>Du erhaschst deinen ersten Blick auf das Lager, das in der Abenddämmerung verschleiert daliegt&#160;… und auf den Wachmann, der in einiger Entfernung postiert ist.
 
 Als du ihn kurz beobachtest, stellst du fest, dass der Mann schnarcht. Er schläft tief und fest. Du schleichst vorwärts, um das Tor zu entriegeln.</DefaultText>
       <FemaleText />
@@ -73,7 +73,7 @@ Als du ihn kurz beobachtest, stellst du fest, dass der Mann schnarcht. Er schlä
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du erhaschst deinen ersten Blick auf das Lager, das in der Abenddämmerung verschleiert daliegt ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+      <DefaultText>Du erhaschst deinen ersten Blick auf das Lager, das in der Abenddämmerung verschleiert daliegt&#160;… und auf den Wachmann, der in einiger Entfernung postiert ist.
 
 Als du ihn kurz beobachtest, stellst du fest, dass der Mann schnarcht. Er schläft tief und fest. Du schleichst vorwärts, um das Tor zu entriegeln.</DefaultText>
       <FemaleText />
@@ -131,21 +131,21 @@ Kurz darauf bewegt [Specified 0] sich auf der anderen Seite der Wand, innerhalb 
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Von dort erhascht [Specified 0] einen Blick auf das geschäftige Lager ... und auf den Wachmann, der in einiger Entfernung postiert ist.
+      <DefaultText>Von dort erhascht [Specified 0] einen Blick auf das geschäftige Lager&#160;… und auf den Wachmann, der in einiger Entfernung postiert ist.
 
 [Specified 0] wirft sich auf den Boden. Der Wachmann bemerkt, dass sich etwas bewegt hat. Er dreht sich in die Richtung von [Specified 0].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Von dort kann [Specified 0] das Lager sehen, das in der Abenddämmerung verschleiert daliegt ... und den Wachmann, der in einiger Entfernung postiert ist.
+      <DefaultText>Von dort kann [Specified 0] das Lager sehen, das in der Abenddämmerung verschleiert daliegt&#160;… und den Wachmann, der in einiger Entfernung postiert ist.
 
 Der Mann schnarcht. Er schläft tief und fest. [Specified 0] schleicht vorwärts, um das Tor zu entriegeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Von dort kann [Specified 0] das Lager sehen, das in der Abenddämmerung verschleiert daliegt ... und den Wachmann, der in einiger Entfernung postiert ist.
+      <DefaultText>Von dort kann [Specified 0] das Lager sehen, das in der Abenddämmerung verschleiert daliegt&#160;… und den Wachmann, der in einiger Entfernung postiert ist.
 
 Der Mann schnarcht. Er schläft tief und fest. [Specified 0] schleicht vorwärts, um das Tor zu entriegeln.</DefaultText>
       <FemaleText />

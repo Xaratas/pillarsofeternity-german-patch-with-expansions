@@ -187,7 +187,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Wenn Kupferdraht und Glasröhren ausreichen würden ... Aber falls jemals der Tag kommt, an dem ein Beseeler ähnliche Kompetenz an den Tag legt wie Concelhaut, werden wir ihm gewiss einen Besuch abstatten.“</DefaultText>
+      <DefaultText>„Wenn Kupferdraht und Glasröhren ausreichen würden&#160;… Aber falls jemals der Tag kommt, an dem ein Beseeler ähnliche Kompetenz an den Tag legt wie Concelhaut, werden wir ihm gewiss einen Besuch abstatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,7 +259,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Llengraths Lehren sind ... interessant.“</DefaultText>
+      <DefaultText>„Llengraths Lehren sind&#160;… interessant.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,8 +364,8 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Seine Erinnerungen, sein Bewusstsein ... sie sind mit ihm gestorben. Aber seine Stärke bleibt. Als Wächter weißt du doch inzwischen hoffentlich, dass manche Seelen mehr Stärke besitzen als andere.“</DefaultText>
-      <FemaleText>„Seine Erinnerungen, sein Bewusstsein ... sie sind mit ihm gestorben. Aber seine Stärke bleibt. Als Wächterin weißt du doch inzwischen hoffentlich, dass manche Seelen mehr Stärke besitzen als andere.“</FemaleText>
+      <DefaultText>„Seine Erinnerungen, sein Bewusstsein&#160;… sie sind mit ihm gestorben. Aber seine Stärke bleibt. Als Wächter weißt du doch inzwischen hoffentlich, dass manche Seelen mehr Stärke besitzen als andere.“</DefaultText>
+      <FemaleText>„Seine Erinnerungen, sein Bewusstsein&#160;… sie sind mit ihm gestorben. Aber seine Stärke bleibt. Als Wächterin weißt du doch inzwischen hoffentlich, dass manche Seelen mehr Stärke besitzen als andere.“</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
@@ -419,8 +419,8 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Hm. Es ist eine Weile her, dass ich mich mit einem fähigen Wirker unterhalten habe ...“</DefaultText>
-      <FemaleText>„Hm. Es ist eine Weile her, dass ich mich mit einer fähigen Wirkerin unterhalten habe ...“</FemaleText>
+      <DefaultText>„Hm. Es ist eine Weile her, dass ich mich mit einem fähigen Wirker unterhalten habe&#160;…“</DefaultText>
+      <FemaleText>„Hm. Es ist eine Weile her, dass ich mich mit einer fähigen Wirkerin unterhalten habe&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
@@ -468,7 +468,7 @@ Sie lächelt den schwebenden Schädel an.</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Naja, hier ist es schön ruhig, abgeschieden ... und die Tiere halten den Pöbel fern.“
+      <DefaultText>„Naja, hier ist es schön ruhig, abgeschieden&#160;… und die Tiere halten den Pöbel fern.“
 
 Sie lacht.</DefaultText>
       <FemaleText />
@@ -510,7 +510,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Ja ... es fühlt sich ein wenig makaber an für meinen Geschmack. Wie Stelgaer mit dem Kaninchen.“</DefaultText>
+      <DefaultText>„Ja&#160;… es fühlt sich ein wenig makaber an für meinen Geschmack. Wie Stelgaer mit dem Kaninchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +565,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>„Zu viele blicken einfach weg und lassen andere ungezügelt zerstören, was sie wollen. Wir sind keine Wachmänner ... aber manche Dinge sind zu ernst, um sie zu ignorieren.“</DefaultText>
+      <DefaultText>„Zu viele blicken einfach weg und lassen andere ungezügelt zerstören, was sie wollen. Wir sind keine Wachmänner&#160;… aber manche Dinge sind zu ernst, um sie zu ignorieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -655,7 +655,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>„Das habe ich gehört ...“</DefaultText>
+      <DefaultText>„Das habe ich gehört&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -735,7 +735,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Er war ein kluger Mann ... allerdings hatte er wenig Sinn für Humor. Ich weiß nicht, ob ihr euch verstanden hättet.“</DefaultText>
+      <DefaultText>„Er war ein kluger Mann&#160;… allerdings hatte er wenig Sinn für Humor. Ich weiß nicht, ob ihr euch verstanden hättet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -780,7 +780,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>„Ich ... gebe mein Bestes?“</DefaultText>
+      <DefaultText>„Ich&#160;… gebe mein Bestes?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@ Sie lacht.</DefaultText>
     <Entry>
       <ID>159</ID>
       <DefaultText>Llengrath lacht.
-„Ach, wenn wir nur solche Dinge hätten. Vielleicht würden wir uns seltener gegenseitig an die Gurgel gehen ... oder häufiger.“</DefaultText>
+„Ach, wenn wir nur solche Dinge hätten. Vielleicht würden wir uns seltener gegenseitig an die Gurgel gehen&#160;… oder häufiger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,7 +856,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Als Llengrath die Hände von deinem Gesicht nimmt, spürst du einen schwachen Verlust. Du glaubst, etwas vergessen zu haben ... aber du erinnerst dich nicht was, oder warum es dich kümmern sollte.</DefaultText>
+      <DefaultText>Als Llengrath die Hände von deinem Gesicht nimmt, spürst du einen schwachen Verlust. Du glaubst, etwas vergessen zu haben&#160;… aber du erinnerst dich nicht was, oder warum es dich kümmern sollte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -889,12 +889,12 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>„Ich hoffe, dass viel Gutes aus unserer Allianz erwächst. In diesem Sinne ... ein Abschiedsgeschenk.“</DefaultText>
+      <DefaultText>„Ich hoffe, dass viel Gutes aus unserer Allianz erwächst. In diesem Sinne&#160;… ein Abschiedsgeschenk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>„Als seine Zeit gekommen war, war Llengrath bereit, loszulassen ... seine Erinnerungen und seinen Körper zurückzulassen. Er vertraute das Geschenk seiner Lebenskraft, seinen lebhaften Geist, einem würdigen Nachfolger an.“</DefaultText>
+      <DefaultText>„Als seine Zeit gekommen war, war Llengrath bereit, loszulassen&#160;… seine Erinnerungen und seinen Körper zurückzulassen. Er vertraute das Geschenk seiner Lebenskraft, seinen lebhaften Geist, einem würdigen Nachfolger an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -959,7 +959,7 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>„Mit 'Seelenessenz' meinst du ...?“</DefaultText>
+      <DefaultText>„Mit 'Seelenessenz' meinst du&#160;…?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -994,7 +994,7 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>„Ich verstehe langsam Concelhauts Interesse. Das ist kein ... angenehmes Gefühl.“</DefaultText>
+      <DefaultText>„Ich verstehe langsam Concelhauts Interesse. Das ist kein&#160;… angenehmes Gefühl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1004,7 +1004,7 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>„Das Phylakterium sollte Concelhauts großer Triumph über den Tod sein. All die bösen Taten, die Gestandene begangen haben, weil sie Lügen hinterhergejagt sind ... sie würden verblassen gegenüber dem, was sie für die Wahrheit zu tun bereit sind.“</DefaultText>
+      <DefaultText>„Das Phylakterium sollte Concelhauts großer Triumph über den Tod sein. All die bösen Taten, die Gestandene begangen haben, weil sie Lügen hinterhergejagt sind&#160;… sie würden verblassen gegenüber dem, was sie für die Wahrheit zu tun bereit sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1024,7 +1024,7 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Andere Erinnerungen nehmen den Platz ein ... keine Bilder oder Ereignisse, aber ein Quell der Informationen, über Jahrzehnte gesammelt. Du fühlst dich durch die Entdeckung belebt, mächtig.</DefaultText>
+      <DefaultText>Andere Erinnerungen nehmen den Platz ein&#160;… keine Bilder oder Ereignisse, aber ein Quell der Informationen, über Jahrzehnte gesammelt. Du fühlst dich durch die Entdeckung belebt, mächtig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

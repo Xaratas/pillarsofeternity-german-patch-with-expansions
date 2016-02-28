@@ -165,12 +165,12 @@ Sie lächelt unbekümmert, aber es wirkt arg erzwungen.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Ich hatte Ondras Doktrin zwar schon einmal gehört, aber so wie sie über den Frieden des Vergessens sprachen, darüber, das Alte mit der Flut wegzuspülen ...“</DefaultText>
+      <DefaultText>„Ich hatte Ondras Doktrin zwar schon einmal gehört, aber so wie sie über den Frieden des Vergessens sprachen, darüber, das Alte mit der Flut wegzuspülen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Das klang gut. Und das Werk eines Gabenbringers ... auf Wanderschaft zu gehen und den Leuten zu helfen, ihre Lasten loszuwerden ... das klang auch gut.“</DefaultText>
+      <DefaultText>„Das klang gut. Und das Werk eines Gabenbringers&#160;… auf Wanderschaft zu gehen und den Leuten zu helfen, ihre Lasten loszuwerden&#160;… das klang auch gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,7 +220,7 @@ Sie lächelt unbekümmert, aber es wirkt arg erzwungen.</DefaultText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Kurz. Dort ist es so kalt, dass man nur eins tun kann ... schnell weiterziehen.“</DefaultText>
+      <DefaultText>„Kurz. Dort ist es so kalt, dass man nur eins tun kann&#160;… schnell weiterziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@ Sie lächelt unbekümmert, aber es wirkt arg erzwungen.</DefaultText>
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„In einem Wort: Gefährlich. Es gibt Piraten und Seemonster ... und von den Kaufleuten will ich gar nicht erst anfangen.“</DefaultText>
+      <DefaultText>„In einem Wort: Gefährlich. Es gibt Piraten und Seemonster&#160;… und von den Kaufleuten will ich gar nicht erst anfangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@ Sie lächelt unbekümmert, aber es wirkt arg erzwungen.</DefaultText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Es ist einfach alles ein wenig wilder ... sowohl die Leute als auch die Kreaturen.“</DefaultText>
+      <DefaultText>„Es ist einfach alles ein wenig wilder&#160;… sowohl die Leute als auch die Kreaturen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,7 +275,7 @@ Sie lächelt unbekümmert, aber es wirkt arg erzwungen.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„In dem Wissen, dass ich meine Erinnerungen den Rest dieses Lebens mit mir herumschleppen muss ... und möglicherweise auch das nächste noch?“
+      <DefaultText>„In dem Wissen, dass ich meine Erinnerungen den Rest dieses Lebens mit mir herumschleppen muss&#160;… und möglicherweise auch das nächste noch?“
 
 Sie lacht.</DefaultText>
       <FemaleText />
@@ -303,7 +303,7 @@ Sie lächelt und legt dir eine Hand auf die Schulter.</DefaultText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Was ich sagen will ... du musst dir keine Sorgen um mich machen, [Player Name].“</DefaultText>
+      <DefaultText>„Was ich sagen will&#160;… du musst dir keine Sorgen um mich machen, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -420,7 +420,7 @@ Der Gedanke bringt sie zum Lächeln.</DefaultText>
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Die anderen Gabenbringer haben mir gesagt, dass Stalwart in der Nähe der Abtei liegt ... und mir geraten, in der Stadt nach dem Weg zu fragen.“</DefaultText>
+      <DefaultText>„Die anderen Gabenbringer haben mir gesagt, dass Stalwart in der Nähe der Abtei liegt&#160;… und mir geraten, in der Stadt nach dem Weg zu fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -455,7 +455,7 @@ Der Gedanke bringt sie zum Lächeln.</DefaultText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Sie ist einfach so ... aufrichtig! Und ich hatte schon immer eine Schwäche für Frauen in Rüstungen.“</DefaultText>
+      <DefaultText>„Sie ist einfach so&#160;… aufrichtig! Und ich hatte schon immer eine Schwäche für Frauen in Rüstungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

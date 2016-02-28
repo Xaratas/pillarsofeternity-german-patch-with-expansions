@@ -11,27 +11,27 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Bist du das, Eddith? Ich ... ich dachte, ich hätte dich verloren.“</DefaultText>
+      <DefaultText>„Bist du das, Eddith? Ich&#160;… ich dachte, ich hätte dich verloren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Ich habe nach dir gerufen. Ich wollte auch auf die Suche gehen, aber der Schneesturm hat tagelang nicht nachgelassen. Es ... es tut mir so leid.“
+      <DefaultText>„Ich habe nach dir gerufen. Ich wollte auch auf die Suche gehen, aber der Schneesturm hat tagelang nicht nachgelassen. Es&#160;… es tut mir so leid.“
 
 Er streckt eine Hand zu einer Geste der Entschuldigung aus, zieht sie dann jedoch wieder zurück. Er kneift die Augen zusammen, wie um dich besser zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Aber nein. Wir haben dich gefunden. Als es endlich getaut hat. Ich habe dich gesehen. Steif ... erfroren. Du kannst nicht Eddith sein.“</DefaultText>
+      <DefaultText>„Aber nein. Wir haben dich gefunden. Als es endlich getaut hat. Ich habe dich gesehen. Steif&#160;… erfroren. Du kannst nicht Eddith sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Nein. Wir sind in ... in der Abtei. Gabenbringer. Und du ... du musst der Gezeitenbringer sein.“
+      <DefaultText>„Nein. Wir sind in&#160;… in der Abtei. Gabenbringer. Und du&#160;… du musst der Gezeitenbringer sein.“
 
 Seine Augen weiten sich.</DefaultText>
-      <FemaleText>„Nein. Wir sind in ... in der Abtei. Gabenbringer. Und du ... du musst die Gezeitenbringerin sein.“
+      <FemaleText>„Nein. Wir sind in&#160;… in der Abtei. Gabenbringer. Und du&#160;… du musst die Gezeitenbringerin sein.“
 
 Seine Augen weiten sich.</FemaleText>
     </Entry>
@@ -42,7 +42,7 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Nein ... ich bin hier, um etwas zu finden. Ein Reliquiar.“</DefaultText>
+      <DefaultText>„Nein&#160;… ich bin hier, um etwas zu finden. Ein Reliquiar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,12 +57,12 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Die Halle des Schweigens ... sie raubt uns den Verstand, Erinnerung um Erinnerung. Es wäre ganz friedlich, haben sie uns gesagt. Als würde man einschlafen.“</DefaultText>
+      <DefaultText>„Die Halle des Schweigens&#160;… sie raubt uns den Verstand, Erinnerung um Erinnerung. Es wäre ganz friedlich, haben sie uns gesagt. Als würde man einschlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Sieh dich um. Wir, die Ebbe, die seit so vielen Jahren hier unten eingesperrt sind ... sehen wir aus, als hätten wir unseren Frieden gefunden? Wir sind verloren. Verängstigt.“</DefaultText>
+      <DefaultText>„Sieh dich um. Wir, die Ebbe, die seit so vielen Jahren hier unten eingesperrt sind&#160;… sehen wir aus, als hätten wir unseren Frieden gefunden? Wir sind verloren. Verängstigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Verwirrt ... ja. Mein Gedächtnis ist nicht mehr das beste. Genau wie mein Augenlicht.“</DefaultText>
+      <DefaultText>„Verwirrt&#160;… ja. Mein Gedächtnis ist nicht mehr das beste. Genau wie mein Augenlicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Der Gezeitenbringer kommt, um den Oberabt abzulösen. Das Ritual heißt ... es heißt ... ah ja ... der Anstieg. Ja.“</DefaultText>
-      <FemaleText>„Die Gezeitenbringerin kommt, um den Oberabt abzulösen. Das Ritual heißt ... es heißt ... ah ja ... der Anstieg. Ja.“</FemaleText>
+      <DefaultText>„Der Gezeitenbringer kommt, um den Oberabt abzulösen. Das Ritual heißt&#160;… es heißt&#160;… ah ja&#160;… der Anstieg. Ja.“</DefaultText>
+      <FemaleText>„Die Gezeitenbringerin kommt, um den Oberabt abzulösen. Das Ritual heißt&#160;… es heißt&#160;… ah ja&#160;… der Anstieg. Ja.“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Wir tragen so viele Erinnerungen in uns. Tragische oder ... oder manchmal auch gefährliche. Wir leben eine Weile oben, im Dienste Ondras.“</DefaultText>
+      <DefaultText>„Wir tragen so viele Erinnerungen in uns. Tragische oder&#160;… oder manchmal auch gefährliche. Wir leben eine Weile oben, im Dienste Ondras.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,7 +102,7 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Die über uns, die Flut. Sie werden zur Ebbe. Das bedeutet ... sie werden hierher gebracht, in die Halle des Schweigens.“</DefaultText>
+      <DefaultText>„Die über uns, die Flut. Sie werden zur Ebbe. Das bedeutet&#160;… sie werden hierher gebracht, in die Halle des Schweigens.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,12 +132,12 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Ich ... das hat mich ... schon ewig niemand gefragt. Ich war ... wer war ich? Ich war ... der Oberabt, oder nicht?“</DefaultText>
+      <DefaultText>„Ich&#160;… das hat mich&#160;… schon ewig niemand gefragt. Ich war&#160;… wer war ich? Ich war&#160;… der Oberabt, oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Oberabt ... Farentis. Das war ich. Oder mein Vorgänger vielleicht. Aber jetzt nicht mehr. Ich bin nur noch ein einfacher Bruder der Ebbe.“</DefaultText>
+      <DefaultText>„Oberabt&#160;… Farentis. Das war ich. Oder mein Vorgänger vielleicht. Aber jetzt nicht mehr. Ich bin nur noch ein einfacher Bruder der Ebbe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Ich erinnere mich an eine Frau. War sie meine Gemahlin? Sie hatte ... lockiges Haar. Und sie sprach mit sanfter Stimme. Was ist aus ihr geworden?“</DefaultText>
+      <DefaultText>„Ich erinnere mich an eine Frau. War sie meine Gemahlin? Sie hatte&#160;… lockiges Haar. Und sie sprach mit sanfter Stimme. Was ist aus ihr geworden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Und es gibt so viele Löcher. Jedes Bild ist verschwommen oder ... leer.“</DefaultText>
+      <DefaultText>„Und es gibt so viele Löcher. Jedes Bild ist verschwommen oder&#160;… leer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +167,7 @@ Seine Augen weiten sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Es gibt ein ... ein Relikt. Ein Aspergill. Es hieß ... wie hieß es doch gleich?“
+      <DefaultText>„Es gibt ein&#160;… ein Relikt. Ein Aspergill. Es hieß&#160;… wie hieß es doch gleich?“
 
 Er denkt eine Weile mit gequälter Miene nach. Seine Lippen formen sich zu stummen Wörtern.</DefaultText>
       <FemaleText />
@@ -181,7 +181,7 @@ Er denkt eine Weile mit gequälter Miene nach. Seine Lippen formen sich zu stumm
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Es ist hier unten, aber ... ich weiß nicht mehr, wie man daran gelangt. Der Oberabt weiß es.“</DefaultText>
+      <DefaultText>„Es ist hier unten, aber&#160;… ich weiß nicht mehr, wie man daran gelangt. Der Oberabt weiß es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@ Farentis lächelt. Es ist schwer zu sagen, ob er dich erkennt.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Aber nicht, ehe die alte Ebbe entfernt wurde. Ertränkt. Durch eine Flut. Und fortgespült.
+      <DefaultText>„Aber nicht, ehe die alte Ebbe entfernt wurde. Ertränkt. Durch eine Flut. Und fortgespült.“
 
 „Der Anstieg.“</DefaultText>
       <FemaleText />
@@ -262,7 +262,7 @@ Farentis lächelt. Es ist schwer zu sagen, ob er dich erkennt.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Wenn du es von ihm herausfindest, könntest du uns befreien. Die Tore öffnen.
+      <DefaultText>„Wenn du es von ihm herausfindest, könntest du uns befreien. Die Tore öffnen.“
 
 „Wir würden in Frieden gehen und unser Leben in Würde zu Ende leben.“</DefaultText>
       <FemaleText />
@@ -279,7 +279,7 @@ Farentis lächelt. Es ist schwer zu sagen, ob er dich erkennt.</DefaultText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Ich weiß es nicht ... wir hatten in Goldtal so einen alten Burschen. Er sah harmlos aus, konnte nicht sprechen. Aber er hat einen gebissen, wenn man versucht hat, seinen Braten zu stehlen.“</DefaultText>
+      <DefaultText>„Ich weiß es nicht&#160;… wir hatten in Goldtal so einen alten Burschen. Er sah harmlos aus, konnte nicht sprechen. Aber er hat einen gebissen, wenn man versucht hat, seinen Braten zu stehlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

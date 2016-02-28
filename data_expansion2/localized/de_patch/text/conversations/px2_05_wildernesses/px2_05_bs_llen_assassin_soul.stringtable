@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die kalte Leiche einer Frau liegt halb vergraben im Schnee. Die Todesursache ist offenkundig ... eine schmale Wunde unter ihrem Hals.
+      <DefaultText>Die kalte Leiche einer Frau liegt halb vergraben im Schnee. Die Todesursache ist offenkundig&#160;… eine schmale Wunde unter ihrem Hals.
 
 Die Essenz hier ist bereits schwach und schwindet schnell immer weiter.</DefaultText>
       <FemaleText />
@@ -25,7 +25,7 @@ Die Essenz hier ist bereits schwach und schwindet schnell immer weiter.</Default
       <ID>4</ID>
       <DefaultText>Du tauchst in eine kalte Dunkelheit ein. Unvollständige Bilder gleiten an dir vorbei, ehe du mehr als ein Echo erfassen kannst.
 
-Dann, plötzlich ... Licht –</DefaultText>
+Dann, plötzlich&#160;… Licht –</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -69,12 +69,12 @@ Es ist ein Mantra in deinen Gedanken. Erreiche Stalwart. Finde die Wächtern. Fo
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Die Erinnerungen der Reise der toten Frau bleiben jedoch in dir zurück. Im Südwesten, jenseits der Weißmark, liegt ein Sumpf ... und dort wartet ein Feind auf dich.</DefaultText>
+      <DefaultText>Die Erinnerungen der Reise der toten Frau bleiben jedoch in dir zurück. Im Südwesten, jenseits der Weißmark, liegt ein Sumpf&#160;… und dort wartet ein Feind auf dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Die Erinnerungen der Reise der toten Frau bleiben jedoch in dir zurück. Im Südwesten, jenseits der Weißmark, liegt ein Sumpf ... und dort wartet ein Feind auf dich.</DefaultText>
+      <DefaultText>Die Erinnerungen der Reise der toten Frau bleiben jedoch in dir zurück. Im Südwesten, jenseits der Weißmark, liegt ein Sumpf&#160;… und dort wartet ein Feind auf dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

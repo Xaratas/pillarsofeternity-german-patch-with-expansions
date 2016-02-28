@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2421</EntryCount>
+  <EntryCount>2423</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -8785,7 +8785,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1751</ID>
-      <DefaultText>Nicht</DefaultText>
+      <DefaultText>Nicht {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11471,7 +11471,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2298</ID>
-      <DefaultText>Belagerungsgeräte</DefaultText>
+      <DefaultText>Belagerungsausrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11780,6 +11780,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2362</ID>
+      <DefaultText>Magran-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2363</ID>
       <DefaultText>Fragment von Ionni Brathr</DefaultText>
       <FemaleText />
@@ -12011,7 +12016,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2409</ID>
-      <DefaultText>Kanonenkugelschmiede</DefaultText>
+      <DefaultText>Kugelschmiede</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12212,6 +12217,11 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2452</ID>
       <DefaultText>Drachen oder Jungdrachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2453</ID>
+      <DefaultText>checks Disposition</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

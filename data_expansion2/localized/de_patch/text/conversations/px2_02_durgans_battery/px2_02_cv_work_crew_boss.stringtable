@@ -25,7 +25,7 @@ Schließlich entspannt sie sich.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Das war unglaublich! Ich weiß nicht, was du gemacht hast, aber die ganze Esse hat Flammen ausgespuckt ... und der Rauch! Ich habe ihn von hier aus gesehen.“</DefaultText>
+      <DefaultText>„Das war unglaublich! Ich weiß nicht, was du gemacht hast, aber die ganze Esse hat Flammen ausgespuckt&#160;… und der Rauch! Ich habe ihn von hier aus gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,12 +45,12 @@ Schließlich entspannt sie sich.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Wir haben wohl nicht vor, in naher Zukunft von hier fortzugehen. Und so lange jemand die Weiße Esse bearbeitet, muss auch jemand die Kanonen beaufsichtigen ... nur für den Fall.“ Sie grinst.</DefaultText>
+      <DefaultText>„Wir haben wohl nicht vor, in naher Zukunft von hier fortzugehen. Und so lange jemand die Weiße Esse bearbeitet, muss auch jemand die Kanonen beaufsichtigen&#160;… nur für den Fall.“ Sie grinst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Aber bald muss ich anfangen, die Kanonen zu testen.“ Ihre Stimme ist zu einem Flüstern abgefallen ... soweit man das bei ihr so nennen kann.
+      <DefaultText>„Aber bald muss ich anfangen, die Kanonen zu testen.“ Ihre Stimme ist zu einem Flüstern abgefallen&#160;… soweit man das bei ihr so nennen kann.
 
 Sie verschränkt die Hände und blickt mit fast schon religiöser Ehrerbietung den hohen Turm hinauf.</DefaultText>
       <FemaleText />
@@ -112,7 +112,7 @@ Sie verschränkt die Hände und blickt mit fast schon religiöser Ehrerbietung d
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Also, wo war ich? Sag mal ... kenn ich dich nicht irgendwoher?“ Sie kratzt sich an einer kahlen Stelle an der Wange.</DefaultText>
+      <DefaultText>„Also, wo war ich? Sag mal&#160;… kenn ich dich nicht irgendwoher?“ Sie kratzt sich an einer kahlen Stelle an der Wange.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@ Sie verschränkt die Hände und blickt mit fast schon religiöser Ehrerbietung d
       <ID>43</ID>
       <DefaultText>Die Worte versetzen dich plötzlich zurück in deinen Traum von der mysteriösen Armee und der Zerstörung Caed Nuas.
 
-Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die dich beobachten, und etwas, was gerade außer deiner Reichweite ...</DefaultText>
+Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die dich beobachten, und etwas, was gerade außer deiner Reichweite&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +219,7 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Aber ... willst du nicht sehen, wie die Langstreckenkanonen funktionieren?“</DefaultText>
+      <DefaultText>„Aber&#160;… willst du nicht sehen, wie die Langstreckenkanonen funktionieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,7 +249,7 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Das wäre eine große Hilfe. Es wäre ein Jammer, diese Schönheiten da oben verrosten zu lassen ...“ Sie zappelt nervös herum wie ein Säufer, der sich auf seinen ersten Schluck freut.</DefaultText>
+      <DefaultText>„Das wäre eine große Hilfe. Es wäre ein Jammer, diese Schönheiten da oben verrosten zu lassen&#160;…“ Sie zappelt nervös herum wie ein Säufer, der sich auf seinen ersten Schluck freut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@ Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Das muss wirklich ein Anblick gewesen sein, so aus der Nähe. Das ganze Feuer ...“ Sie atmet tief durch.</DefaultText>
+      <DefaultText>„Das muss wirklich ein Anblick gewesen sein, so aus der Nähe. Das ganze Feuer&#160;…“ Sie atmet tief durch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@ Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>„Flammen überall und ein Dröhnen, das so tief ist, dass es die Knochen erzittern lässt ...“</DefaultText>
+      <DefaultText>„Flammen überall und ein Dröhnen, das so tief ist, dass es die Knochen erzittern lässt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@ Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>„Ach, weißt du. Tunnel freilegen. Alte Barrikaden sprengen. Einfach ... aufräumen.“ Sie grinst und zeigt ihre Zähne.</DefaultText>
+      <DefaultText>„Ach, weißt du. Tunnel freilegen. Alte Barrikaden sprengen. Einfach&#160;… aufräumen.“ Sie grinst und zeigt ihre Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@ Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>„Aber das ist, als würde man ...“ Sie stammelt und rudert mit den Armen.</DefaultText>
+      <DefaultText>„Aber das ist, als würde man&#160;…“ Sie stammelt und rudert mit den Armen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@ Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>„Ach, weißt du. Tunnel freilegen. Alte Barrikaden sprengen. Einfach ... aufräumen.“ Sie grinst und zeigt ihre Zähne.</DefaultText>
+      <DefaultText>„Ach, weißt du. Tunnel freilegen. Alte Barrikaden sprengen. Einfach&#160;… aufräumen.“ Sie grinst und zeigt ihre Zähne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@ Auf dem Weg zur Tür fällt ihr plötzlich etwas ein.</DefaultText>
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Sie strahlt. „In Stalwart habe ich alles gelernt, was Taena über Schießpulver wusste ... und manches, was sie nicht wusste.“</DefaultText>
+      <DefaultText>Sie strahlt. „In Stalwart habe ich alles gelernt, was Taena über Schießpulver wusste&#160;… und manches, was sie nicht wusste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@ Sie kratzt sich am Arm. Ein Büschel verbrannter Haare fällt in den Schnee.</De
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>„Diese drei? Das sind ... ach, ich weiß es nicht mehr.“</DefaultText>
+      <DefaultText>„Diese drei? Das sind&#160;… ach, ich weiß es nicht mehr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,12 +528,12 @@ Sie kratzt sich am Arm. Ein Büschel verbrannter Haare fällt in den Schnee.</De
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Sie sind in ihre Festung abgezogen, aber sie kommen sicher wieder. Deryan hat eine Gruppe aus Stalwart geschickt, um zu verhandeln ... aber sie ist nicht zurückgekommen.“ Sie blickt dich vielsagend an.</DefaultText>
+      <DefaultText>„Sie sind in ihre Festung abgezogen, aber sie kommen sicher wieder. Deryan hat eine Gruppe aus Stalwart geschickt, um zu verhandeln&#160;… aber sie ist nicht zurückgekommen.“ Sie blickt dich vielsagend an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Mit Readceranern kann man nicht vernünftig reden. Deswegen müssen wir diese Langstreckenkanonen reparieren ... damit wir bereit sind, wenn sie kommen.“</DefaultText>
+      <DefaultText>„Mit Readceranern kann man nicht vernünftig reden. Deswegen müssen wir diese Langstreckenkanonen reparieren&#160;… damit wir bereit sind, wenn sie kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,7 +679,7 @@ Sie blickt dich verschlagen an.</DefaultText>
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>„Wobei, wenn ich darüber nachdenke ... meine echte Mutter will nichts mit mir zu tun haben. Wenn du also findest, dass wir zueinander passen ...“
+      <DefaultText>„Wobei, wenn ich darüber nachdenke&#160;… meine echte Mutter will nichts mit mir zu tun haben. Wenn du also findest, dass wir zueinander passen&#160;…“
 
 Hiravias wendet sich der Frau zu. Er blickt zu ihr auf, als würde er sie das erste Mal erkennen. Langsam, vorsichtig bildet sein Mund ein Wort.</DefaultText>
       <FemaleText />

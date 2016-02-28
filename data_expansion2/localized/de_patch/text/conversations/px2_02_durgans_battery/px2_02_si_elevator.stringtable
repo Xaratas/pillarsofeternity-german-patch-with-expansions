@@ -13,7 +13,7 @@
       <ID>2</ID>
       <DefaultText>Er bleibt rumpelnd stehen und die ganze Plattform schwingt gefährlich hin und her. Ein scharfer, metallischer Geruch strömt aus einer der Winden.
 
-Du hörst ein kreischendes Geräusch. Erst denkst du, es käme aus der Winde, aber dann merkst du, dass es von oben kommt ...</DefaultText>
+Du hörst ein kreischendes Geräusch. Erst denkst du, es käme aus der Winde, aber dann merkst du, dass es von oben kommt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,7 +354,7 @@ Und die Skuldrak über euch werden immer tollkühner.</DefaultText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Leider sieht das Problem immer komplexer aus. Es ist nicht klar, wie schnell [Specified 0] die Winde reparieren kann ... wenn überhaupt.</DefaultText>
+      <DefaultText>Leider sieht das Problem immer komplexer aus. Es ist nicht klar, wie schnell [Specified 0] die Winde reparieren kann&#160;… wenn überhaupt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

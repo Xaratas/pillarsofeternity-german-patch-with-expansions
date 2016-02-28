@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1910</ID>
-      <DefaultText>Adra-Kugel</DefaultText>
+      <DefaultText>Adrakugel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>1912</ID>
-      <DefaultText>Adra-Scheibe</DefaultText>
+      <DefaultText>Adrascheibe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
       <ID>1915</ID>
       <DefaultText>Im Ledereinband dieses Tagebuchs ist ein Schlüssel eingeprägt. Die meisten Seiten sind voller rostroter Flecken oder Schrift, die zu klein zum Lesen ist. Gegen Ende des Tagebuchs kannst du jedoch einen Abschnitt entziffern:
 
-„... konnte nicht feststellen, wie die Vordertür sich öffnen lässt, selbst nachdem sie die eiserne Kachel aus dem Relief gehebelt hatte. Je mehr ich darüber nachdenke, desto mehr scheint mir, dass der alte Vailianer Recht hatte. Wir müssen ihn loswerden, aber wir können erst handeln, wenn wir die Weiße Esse zerstört haben. Selbst sein dürftiges Wissen war für uns eine Erleuchtung.
+„… konnte nicht feststellen, wie die Vordertür sich öffnen lässt, selbst nachdem sie die eiserne Kachel aus dem Relief gehebelt hatte. Je mehr ich darüber nachdenke, desto mehr scheint mir, dass der alte Vailianer Recht hatte. Wir müssen ihn loswerden, aber wir können erst handeln, wenn wir die Weiße Esse zerstört haben. Selbst sein dürftiges Wissen war für uns eine Erleuchtung.“
 
 „Und wenn er Recht hat, müssen wir hoffen, dass das Lied, von dem er spricht, irgendwo niedergeschrieben wurde. Wir haben beschlossen, unser Lager aufzuschlagen und nach Büchern oder Unterlagen zu suchen. Alles ist besser, als nur in diesem Schneesturm herumzusitzen.“</DefaultText>
       <FemaleText />
@@ -101,7 +101,7 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
 
 Tag 6 - Es kommt ein Schneesturm. Wir bleiben hier, bis er vorüber ist.
 
-Tag 9 - Zwei Oger sind aufgetaucht. Zum Glück haben sie uns nicht gesehen. 
+Tag 9 - Zwei Oger sind aufgetaucht. Zum Glück haben sie uns nicht gesehen.
 
 Tag 11 - Verfolgen einen großen Bären, den Nurin vom Hügel aus gesehen hat. Vielleicht ist es Grauschnauze. Mein Großvater hat mir Geschichten von ihm erzählt. Wäre es nicht toll, wenn wir es sind, die ihn endlich töten?
 
@@ -125,7 +125,7 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>Trank der Versperrenden Tür des Todes</DefaultText>
+      <DefaultText>Trank der Gnadenfrist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,7 +135,7 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>1954</ID>
-      <DefaultText>Trank der Geringen arkanen Reflektion</DefaultText>
+      <DefaultText>Trank der Geringen arkanen Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,11 +190,11 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>2019</ID>
-      <DefaultText>Der Legende nach ist dieser Schild einer von zwölfen, die für eine kleine Gruppe von Paladinen aus dem Orden der Gütigen Wanderer geschmiedet wurden. Diese Paladine nannten sich selbst 'Die Türme'. Sie hatten es sich zur Aufgabe gemacht, die kleinen Dörfer und Städte im Vorgebirge der Weißmark zu beschützen.  
+      <DefaultText>Der Legende nach ist dieser Schild einer von zwölfen, die für eine kleine Gruppe von Paladinen aus dem Orden der Gütigen Wanderer geschmiedet wurden. Diese Paladine nannten sich selbst ‚Die Türme‘. Sie hatten es sich zur Aufgabe gemacht, die kleinen Dörfer und Städte im Vorgebirge der Weißmark zu beschützen.
 
 Ihre Gruppe war zwar klein, doch die Paladine waren für ihre standhafte Hingabe bekannt, mit der sie ohne zu zögern jede Bedrohung für unschuldige Reisende bekämpften. Alle, die je das Glück hatten, an der Seite dieser Krieger zu kämpfen, berichteten, dass eigentlich tödliche Hiebe harmlos von ihren Rüstungen abprallten. Die Paladine, so sagten sie, hätten ihnen Glück gebracht.
 
-Die Jahre vergingen und die Paladine starben im Kampf oder an Altersschwäche ... bis nur noch eine einzige übrig blieb. Der letzte Turm, wie man sie nannte, wurde auch allein zur Legende. Ganz allein patrouillierte sie die östlichen Straßen des Dyrwalds.
+Die Jahre vergingen und die Paladine starben im Kampf oder an Altersschwäche&#160;… bis nur noch eine einzige übrig blieb. Der letzte Turm, wie man sie nannte, wurde auch allein zur Legende. Ganz allein patrouillierte sie die östlichen Straßen des Dyrwalds.
 
 Ein Bürger von Guthoffnung, so heißt es, hat diesen Schild aus dem See der versenkten Gräber gezogen. Dieser ramponierte Drachenschild ist hervorragend gefertigt, auch wenn die grüne Farbe des Wappenturms an einigen Stellen schon abblättert.</DefaultText>
       <FemaleText />
@@ -211,9 +211,9 @@ Ein Bürger von Guthoffnung, so heißt es, hat diesen Schild aus dem See der ver
     </Entry>
     <Entry>
       <ID>2025</ID>
-      <DefaultText>Kommandant Baelorin, 
+      <DefaultText>Kommandant Baelorin,
 
-Ihr müsst unverzüglich nach Crägholdt eilen. Concelhaut wird sich nicht freiwillig von dem engwithanischen Phylakterium trennen, doch Ihr müsst es in Euren Besitz bringen, mit allen Mitteln. Seid gewanrt - alle bisherigen Versuche, an das Artefakt zu gelangen sind bitterlich gescheitert. Wir wissen sehr wenig über das Phylakterium. Nur, dass es nahezu unzerstörbar ist. Ich schlage daher vor, dass Ihr Eure beträchtliche Stärke nutzt, um Crägholdt zu belagern. Wenn Concelhaut tot ist, könnt ihr die Überreste seines Turms nach dem Phylakterium durchsuchen. Die Lieferung des Artefakts ist Euer Hauptauftrag. Ein unzweifelhafter Beweis des Ablebens Concelhauts bringt Euch jedoch einen beträchtlichen Bonus ein.
+Ihr müsst unverzüglich nach Crägholdt eilen. Concelhaut wird sich nicht freiwillig von dem engwithanischen Phylakterium trennen, doch Ihr müsst es in Euren Besitz bringen, mit allen Mitteln. Seid gewarnt - alle bisherigen Versuche, an das Artefakt zu gelangen sind bitterlich gescheitert. Wir wissen sehr wenig über das Phylakterium. Nur, dass es nahezu unzerstörbar ist. Ich schlage daher vor, dass Ihr Eure beträchtliche Stärke nutzt, um Crägholdt zu belagern. Wenn Concelhaut tot ist, könnt ihr die Überreste seines Turms nach dem Phylakterium durchsuchen. Die Lieferung des Artefakts ist Euer Hauptauftrag. Ein unzweifelhafter Beweis des Ablebens Concelhauts bringt Euch jedoch einen beträchtlichen Bonus ein.
 
 Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von externen Parteien stellt jedoch einen Verstoß gegen diese Vereinbarung dar. Ich habe beträchtliche Ressourcen aufgewendet, um sicherzustellen, dass die örtlichen Behörden wegblicken. Übermäßig neugierige andere Parteien sind mit geeigneten Mitteln von ihrer Neugier abzubringen.</DefaultText>
       <FemaleText />
@@ -225,15 +225,15 @@ Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von e
     </Entry>
     <Entry>
       <ID>2031</ID>
-      <DefaultText>„Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der 'Erbauer', wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
+      <DefaultText>„Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der ‚Erbauer‘, wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
 
 Wir entdeckten eine Art Gießerei, wie sie weder wir noch unsere entfernten Verwandten jemals gesehen hatten. Durch sorgfältige Beobachtung schlossen wir, dass die Altvorderen diesen Ort verwendet hatten, um Seelen zu extrahieren und in Rüstungen zu übertragen. Heikle und schwierige Arbeit, doch das Ausmaß, in dem sie darin Erfolg hatten, machte uns sprachlos und demütig.
 
-Am bemerkenswertesten waren vielleicht die 'Golems' - lebende Rüstungen, von Essenz beseelt! Wir verloren zwei unserer Lehrlinge, als die Kreaturen uns unerwartet überraschten. Nachdem wir sie aber gebändigt hatten, erwiesen sie sich als höchst faszinierend.
+Am bemerkenswertesten waren vielleicht die ‚Golems‘ - lebende Rüstungen, von Essenz beseelt! Wir verloren zwei unserer Lehrlinge, als die Kreaturen uns unerwartet überraschten. Nachdem wir sie aber gebändigt hatten, erwiesen sie sich als höchst faszinierend.
 
 Wir wussten, dass unsere Gastgeber uns - oder anderen neugierigen Reisenden - nie wieder gestatten würden, diesen Ort zu besuchen. So machten wir uns umfangreiche Notizen über alles, was wir sahen, und nahmen genauestens Maß. Wir verzichteten auf das Essen und das Schlafen, bis die Arbeit vollbracht war.
 
-Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weitertrieb. Denn wenn ein solcher Ort verlassen im Wald liegt ... wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?“</DefaultText>
+Wir erstatteten Floren über alles Bericht, woraufhin sie unser Werk lobte und uns eilig weiter trieb. Denn wenn ein solcher Ort verlassen im Wald liegt&#160;… wer weiß, welche anderen Mysterien Götter und Gestandene in diesem fremden und wilden Land zurückgelassen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,19 +274,19 @@ Wie eine Klinge, die in mehreren Feuern gestählt wurde, so ist die Arbeit, die 
 
 „Das Entfernen und Übertragen von Seelen ist eine ebenso alte wie erhabene Kunst. Es ist erwiesen, dass die Engwithaner sie besonders gut beherrschten, auch wenn die Einzelheiten mit ihnen untergegangen sind.“
 
-Unter diesen Absatz hat jemand gekritzelt „Annalen der Pargrunen, Seite 382-386“.
+Unter diesen Absatz hat jemand gekritzelt ‚Annalen der Pargrunen, Seite 382-386‘.
 
 „Was über das Entfernen einer Seele bekannt ist, ist ein schwieriger Prozess, der eine erfahrene Hand und präzise Werkzeuge erfordert, wenn er Erfolg haben soll. Erste Versuche an insgesamt einhundertachtunddreißig Ziegen haben die meisten Versuchsobjekte mit zerstörten oder zerspalteten Seelen zurückgelassen. In elf Fällen gelang es, die Seele erfolgreich zu entfernen. In neun dieser Fälle verflüchtigte die Essenz sich, ehe die Forscher sie einfangen konnten.“
 
-Die Worte „in Aufbewahrungsbehälter übertragen“ wurden an den Rand geschrieben und unterstrichen.
+Die Worte ‚in Aufbewahrungsbehälter übertragen‘ wurden an den Rand geschrieben und unterstrichen.
 
 „Der Prozess erfordert leitende Materialien - insbesondere Kupfer und Adra. Ein Eintauchen in Wasser ist nötig, um sicherzustellen, dass die Seele in gleichmäßiger und einheitlicher Weise gezogen wird, ohne Verzerrungen oder Brüche. Eine verzerrte Seele ist bestenfalls nutzlos und schlimmstenfalls unvorhersehbar.“
 
-„Ein Pfeil deutet von diesem Absatz zu einer gekritzelten Notiz: „Extraktionsbecken in C.R.: 18 Fuß breit, 3 Fuß tief.“
+„Ein Pfeil deutet von diesem Absatz zu einer gekritzelten Notiz: ‚Extraktionsbecken in C.R.: 18 Fuß breit, 3 Fuß tief.‘“
 
 „Wir haben inzwischen den Prozess der Seelenübertragung gemeistert und haben gesehen, welche Vorteile es hat, Schmiedewerk mit der Essenz von Tieren und Wilden zu durchtränken. Zu erforschen ist noch, ob die Verwendung von Seelen Gestandener eine noch größere Wirkung erzeugt; wo wir die geeigneten Versuchsobjekte finden; und wie viel Persönlichkeit und Unabhängigkeit wir in diesen Fällen intakt lassen sollten.“
 
-Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit „Verbrecher, Kriegsgefangene, Freiwillige?“ und endend mit „Essewächter“ in Druckbuchstaben.</DefaultText>
+Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit ‚Verbrecher, Kriegsgefangene, Freiwillige?‘ und endend mit ‚Essewächter‘ in Druckbuchstaben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,11 +310,11 @@ Am Ende der Seite findet sich eine Notiz in einer anderen Handschrift:
       <ID>2038</ID>
       <DefaultText>Abenteurer aus ganz Eora kommen auf der Suche nach Ruhm und Reichtum in das Land der Lebenden. Antonino kam, um sie auszurauben.
 
-Er hatte sich in Biageppe einen Ruf als listenreicher Dieb gemacht, aber ein Ruf ist das letzte, was ein listenreicher Dieb brauchen kann. Also verließ er Biageppe - ja, er verließ sogar die Vailianischen Republiken, um sein Glück im Land der Lebenden zu verursachen. Sein Gepäck bestand aus nichts weiter als seinem Geldbeutel und einem Satz frischer Unterwäsche.
+Er hatte sich in Biageppe einen Ruf als listenreicher Dieb gemacht, aber ein Ruf ist das letzte, was ein listenreicher Dieb brauchen kann. Also verließ er Biageppe - ja, er verließ sogar die Vailianischen Republiken, um sein Glück im Land der Lebenden zu versuchen. Sein Gepäck bestand aus nichts weiter als seinem Geldbeutel und einem Satz frischer Unterwäsche.
 
 Leider musste Antonino bald feststellen, dass die abgehärteten Schatzjäger im Land der Lebenden wenig mit den fetten Kaufleuten in den Republiken gemein hatten. Nach wenigen Wochen schon hatte er seine dürftigen Vorräte aufgebraucht und nichts verdient. Er war verzweifelt. Eines Tages stolperte er vor zwei grob aussehende Burschen aus dem Todesfeuer-Archipel und bat darum, sich an ihrem Feuer wärmen zu dürfen. Sie stimmten bereitwillig zu.
 
-Als die Banditen zuschlagen wollten, war Antonino bereit. Er entriss dem einen die Pistole und feuerte auf den anderen. Während der erste Angreifer auf ihn zukam, zog er erneut den Abzug ... hörte aber nur ein dumpfes Geräusch. Sein Angreifer lachte, Antonino aber hob seinen Arm und schlug ihm mit der Pistole auf die Glatze. Der Bandit brach tot zusammen.
+Als die Banditen zuschlagen wollten, war Antonino bereit. Er entriss dem einen die Pistole und feuerte auf den anderen. Während der erste Angreifer auf ihn zukam, zog er erneut den Abzug&#160;… hörte aber nur ein dumpfes Geräusch. Sein Angreifer lachte, Antonino aber hob seinen Arm und schlug ihm mit der Pistole auf die Glatze. Der Bandit brach tot zusammen.
 
 Antonino wurde zu einem erfolgreichen und gefürchteten Räuber - und zum Gegenstand vieler Lagerfeuergeschichten. Selbst, als sein Wohlstand sich mehrte, behielt er die gestohlene Pistole, eine robuste Waffe aus gehärtetem Metall, die ihm im Lauf seiner Karriere treue Dienste erwies.</DefaultText>
       <FemaleText />
@@ -323,7 +323,7 @@ Antonino wurde zu einem erfolgreichen und gefürchteten Räuber - und zum Gegens
       <ID>2039</ID>
       <DefaultText>Das Elfenkönigreich von Kulklin lag fast zwei Jahrhunderte lang mit dem Reich Aedyr im Krieg, ehe die zwei Mächte sich zusammenschlossen. Während dieser Zeit wurden viele der heftigsten Konflikte am Rand des Cythwalds ausgetragen, wo die zwei Nationen aneinander grenzten.
 
-Die Elfen des Cythwalds nutzten den Urwald zu ihrem Vorteil und waren bald berüchtigt für ihre listenreichen und brutalen Taktiken. Scharmützler fällten Bäume hinter den Invasionstrupps der Aedyraner, während Druiden neue in ihrem Pfad wachsen ließen. So verwirrten sie den Feind und verlangsamten seinen Vormarsch. Oft paarten sie diese Manöver mit verheerenden, blitzschnellen Angriffen. Sie umzingelten verirrte Trupps und zerrten Nachzügler in den Wald. Vor allem aber waren sie dafür bekannt, ihre Opfer an den Baumen aufzuhängen, um weitere Angreifer abzuschrecken.
+Die Elfen des Cythwalds nutzten den Urwald zu ihrem Vorteil und waren bald berüchtigt für ihre listenreichen und brutalen Taktiken. Scharmützler fällten Bäume hinter den Invasionstrupps der Aedyrer, während Druiden neue in ihrem Pfad wachsen ließen. So verwirrten sie den Feind und verlangsamten seinen Vormarsch. Oft paarten sie diese Manöver mit verheerenden, blitzschnellen Angriffen. Sie umzingelten verirrte Trupps und zerrten Nachzügler in den Wald. Vor allem aber waren sie dafür bekannt, ihre Opfer an den Bäumen aufzuhängen, um weitere Angreifer abzuschrecken.
 
 Die Kulklin des Cythwalds waren schnell und verstanden es, in Windeseile ihre Angriffe zu improvisieren - auch, weil sie Alltagsgegenstände wie Äxte, Messer und Bögen als Kriegswaffen einsetzten. Äxte wie Wodewys wurden sowohl gegen Feinde als auch gegen Bäume eingesetzt.</DefaultText>
       <FemaleText />
@@ -334,21 +334,21 @@ Die Kulklin des Cythwalds waren schnell und verstanden es, in Windeseile ihre An
 
 Die Piraten lachten und lehnten seine Bitte ab, aber der alte Mann beharrte darauf. Er warnte sie vor schrecklichen Krankheiten und Strafen, die sie ereilen würden. Sie weigerten sich weiter. Als er seine Stimme im Zorn erhob, zog die Steuerfrau ihren Säbel und durchbohrte den Sklaven. Stinkender grüner Schleim quoll aus der Wunde und floss das Schwert hinauf, während die Piraten entsetzt zusahen. Die Fäule breitete sich von der Brust des sterbenden Sklaven auf den Säbel und den Arm der Steuerfrau auf. Sie füllte ihre Adern mit Gift und ihr Fleisch mit sich windenden Maden.
 
-Der Rest der Besatzung ließ das Schiff auf Grund laufen und floh. Auch die Sklaven flohen ... und die Steuerfrau verfaulte neben ihrer vergifteten Klinge.</DefaultText>
+Der Rest der Besatzung ließ das Schiff auf Grund laufen und floh. Auch die Sklaven flohen&#160;… und die Steuerfrau verfaulte neben ihrer vergifteten Klinge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2041</ID>
-      <DefaultText>Aschfall war eine der am erbittertsten umkämpften aedyranischen Siedlungen im Dyrwald. Für Baldwen Strangbrod war es eine Ehre, zum Thayn des Ortes ernannt zu werden. Er sorgte sich jedoch um seine zwei Kinder, die sein Talent für die Kampfkunst offenbar nicht geerbt hatten.
+      <DefaultText>Aschfall war eine der am erbittertsten umkämpften aedyrischen Siedlungen im Dyrwald. Für Baldwen Strangbrod war es eine Ehre, zum Thayn des Ortes ernannt zu werden. Er sorgte sich jedoch um seine zwei Kinder, die sein Talent für die Kampfkunst offenbar nicht geerbt hatten.
 
-Er beauftragte einen vailianischen Zauberer, die Ausblidung seiner Kinder voranzutreiben. Dieser Zauberer fertigte einen Stab eigens für diesen Zweck. Er versprach, dass die Geschosse des Stabs harmlos genug waren, um die Erben des Thayns nicht ernstlich zu verletzen ... dass die Waffe mit der Zeit aber ihre Schwäche genauesten offenlegen würde.
+Er beauftragte einen vailianischen Zauberer, die Ausbildung seiner Kinder voranzutreiben. Dieser Zauberer fertigte einen Stab eigens für diesen Zweck. Er versprach, dass die Geschosse des Stabs harmlos genug waren, um die Erben des Thayns nicht ernstlich zu verletzen&#160;… dass die Waffe mit der Zeit aber ihre Schwäche genauesten offenlegen würde.
 
-Der Stab hielt die Versprechen des Zauberers. Doch auch nach monatelangen Übungen waren Baldwens Kinder nicht zu besseren Kämpfern geworden. Dafür kannte ganz Aschfall ihre schwache Abwehr und ihre wunden Punkte. Als beide Erben einem glanfathanischen Überfall zum Opfer fielen, floh der Zauberer ... und nahm Goldener Blick mit sich.</DefaultText>
+Der Stab hielt die Versprechen des Zauberers. Doch auch nach monatelangen Übungen waren Baldwens Kinder nicht zu besseren Kämpfern geworden. Dafür kannte ganz Aschfall ihre schwache Abwehr und ihre wunden Punkte. Als beide Erben einem glanfathanischen Überfall zum Opfer fielen, floh der Zauberer&#160;… und nahm Goldener Blick mit sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2042</ID>
-      <DefaultText>Curoc war ein aedyranischer Adliger in Readceras, dem sechshundert Morgen Vorlas-Felder gehörten. Er hielt sich für einen frommen Mann, und unter seinen Nachbarn und Pächtern war er für seine Hingabe zu Woedica bekannt. Er schuftete an der Seite seiner Pächter und führte genau Buch über den Ernteertrag und den Verkauf. Er war aber auch für sein umbarmherziges Gemüt und seine Gnadenlosigkeit im Umgang mit Faulpelzen bekannt. Er trug einen Stock bei sich und prügelte wild auf jeden Arbeiter ein, den er beim Trödeln oder Ausruhen erwischte.
+      <DefaultText>Curoc war ein aedyrischer Adliger in Readceras, dem sechshundert Morgen Vorlas-Felder gehörten. Er hielt sich für einen frommen Mann, und unter seinen Nachbarn und Pächtern war er für seine Hingabe zu Woedica bekannt. Er schuftete an der Seite seiner Pächter und führte genau Buch über den Ernteertrag und den Verkauf. Er war aber auch für sein unbarmherziges Gemüt und seine Gnadenlosigkeit im Umgang mit Faulpelzen bekannt. Er trug einen Stock bei sich und prügelte wild auf jeden Arbeiter ein, den er beim Trödeln oder Ausruhen erwischte.
 
 Da er aber beim kaiserlichen Statthalter in der Gunst stand, wurde über sein Verhalten hinweggesehen.
 
@@ -366,14 +366,14 @@ Curoc schnaubte verächtlich. „Du willst seinen Ungehorsam belohnen! Es ist me
 
 Aber Waidwen beharrte: „Folgt nicht auf den stillen Winter der fruchtbare Frühling? Durch Eothas Gnade erleben wir die Wiedergeburt in jedem neuen Leben und die Wiederherstellung mit jedem neuen Morgen. Und es ist Eothas' Jahreszeit, die deine Felder segnet. Ich sage dir erneut: Lasse diesen Mann gehen.“
 
-In seinem Zorn wandte Curoc sich gegen Waidwen, den Stock zum Schlag erhoben. Doch plötzlich wurde der Stab heiß in seiner Hand. Er schrie auf und der Stab entzündete sich. Die Flamme, die hervorschoß, raubte ihm das Augenlicht und ließ sein Gesicht so vernarbt zurück wie das der Verbrannten Königin.
+In seinem Zorn wandte Curoc sich gegen Waidwen, den Stock zum Schlag erhoben. Doch plötzlich wurde der Stab heiß in seiner Hand. Er schrie auf und der Stab entzündete sich. Die Flamme, die hervorschoss, raubte ihm das Augenlicht und ließ sein Gesicht so vernarbt zurück wie das der Verbrannten Königin.
 
 Curoc ließ den qualmenden Stab fallen und floh, um dem Statthalter zu berichten, was er erlebt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2043</ID>
-      <DefaultText>Zauberzunge wurde in Rauatai als Duellwaffe geschmiedet und hat seitdem dutzende Male den Besitzer gewechselt. Ihre gespaltene Spitze, die gewellte Klinge und die blaue Farbe machten die Waffe äußerst beliebt bei Novizen, deren Selbstbewusstein oft ihr Können überstieg.
+      <DefaultText>Zauberzunge wurde in Rauatai als Duellwaffe geschmiedet und hat seitdem dutzende Male den Besitzer gewechselt. Ihre gespaltene Spitze, die gewellte Klinge und die blaue Farbe machten die Waffe äußerst beliebt bei Novizen, deren Selbstbewusstsein oft ihr Können überstieg.
 
 Zuletzt befand Zauberzunge sich im Besitz von Matapa, einer jungen Frau aus einer der reichen Aumaua-Familien von Tongira. Mit der Klinge in der Hand verkündete sie ihren Eltern, dass sie in Tâkowa ihr Glück als Duellantin versuchen wollte. Ihre Eltern bemühten sich, sie davon abzubringen, doch ihr Entschluss stand fest. Schließlich beglückwünschten ihre Eltern sie zögerlich und gaben ein großes Festmahl zu ihren Ehren.
 
@@ -384,7 +384,7 @@ Matapas Mutter war wendig, und Matapas Stöße und Gegenschläge waren zwar schn
     </Entry>
     <Entry>
       <ID>2049</ID>
-      <DefaultText>Dieser Bogen ist so glatt und leicht wie Treibholz, aber so hart wie ein robuster Mast. Er fühlt sich warm an, als hätte sein Vorbesitzer in gerade erst an dich weitergegeben. Als du ihn hältst, spürst du fast die Meeresgischt auf deinen Wangen und hörst fast die sturmgepeitschten Wellen in deinen Ohren.</DefaultText>
+      <DefaultText>Dieser Bogen ist so glatt und leicht wie Treibholz, aber so hart wie ein robuster Mast. Er fühlt sich warm an, als hätte sein Vorbesitzer ihn gerade erst an dich weitergegeben. Als du ihn hältst, spürst du fast die Meeresgischt auf deinen Wangen und hörst fast die sturmgepeitschten Wellen in deinen Ohren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +521,7 @@ gutes Handeln rettet vorm Schafott ihn und vorm Beil.“</DefaultText>
       <ID>2095</ID>
       <DefaultText>Der Großteil der wenigen verbleibenden Seiten ist vom Schlamm ruiniert, aber gegen Ende des Tagebuchs kannst du noch einen Eintrag entziffern:
 
-„Folcsdag. Als ich heute morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
+„Folcsdag. Als ich heute Morgen erwachte, sah ich, dass meine Zehen blau waren. Ich habe den Rest meines Brennstoffs verbraucht, um sie aufzuwärmen, aber diesmal habe ich nur eine Stunde gebraucht, um das Lagerfeuer zu entfachen. Wie weit ich es doch gebracht habe!
 
 Gestern bin ich an einem Dorf vorbeigekommen und habe überlegt, Halt zu machen. Ein warmes Bett und eine anständige Mahlzeit wären ein Fest gewesen, nach fast einer Woche in diesen Bergen! Aber ich wollte die Fährte meines Seelenzwillings nicht verlieren. Nicht, wo ich ihm so nah bin.
 
@@ -536,13 +536,13 @@ Die nächste Seite fehlt und der Rest der Seiten ist unleserlich.</DefaultText>
 
 du bist der talentierteste meiner Lehrlinge. Aber dein Verständnis ist lediglich eine Seite aus den Büchern des Wissens, das ich erlangt habe.
 
-Zäume deinen Stolz, bis du ihn dir verdient hast. Keine Schwäche ist tödlicher.
+Zügle deinen Stolz, bis du ihn dir verdient hast. Keine Schwäche ist tödlicher.
 
 Ich kann fast sehen, wie deine Hände zittern und dein Gesicht errötet, als du diese Worte liest. Du glaubst, du wärest mein würdiger Schüler, weil du ein paar einfache Zauber gemeistert hast? Ich habe den Parasitenstab geschaffen, als ich halb so alt war wie du.
 
 Und während ich gearbeitet habe, haben meine Kameraden Pläne gegen mich geschmiedet.
 
-Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich zusammenrotten, wenn du ihnen einen Grund dazu gibst. Verberge dein Können durch Fehler. Verstecke deine Boshaftigkeit hinter einem Lächeln. Opfere deine Eitelkeit einige wertvolle Jahre lang, auf dass du lang genug überlebst, um dir den Titel 'Zauberer' zu verdienen.“</DefaultText>
+Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich zusammenrotten, wenn du ihnen einen Grund dazu gibst. Verberge dein Können durch Fehler. Verstecke deine Boshaftigkeit hinter einem Lächeln. Opfere deine Eitelkeit einige wertvolle Jahre lang, auf dass du lang genug überlebst, um dir den Titel ‚Zauberer‘ zu verdienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -617,7 +617,7 @@ Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich
     </Entry>
     <Entry>
       <ID>2224</ID>
-      <DefaultText>Auf einem kleinen Etikette auf der Seite steht: „Eigentum von A. Thorel. Nur zur Verwendung auf verrosteten Materialien.“</DefaultText>
+      <DefaultText>Auf einem kleinen Etikett auf der Seite steht: „Eigentum von A. Thorel. Nur zur Verwendung auf verrosteten Materialien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -632,7 +632,7 @@ Vorerst hast du die anderen hinter dir gelassen. Aber sie werden sich gegen dich
     </Entry>
     <Entry>
       <ID>2227</ID>
-      <DefaultText>Eine treue Gabenbringerin Ondras reist eine Straße entlang, als sie einem weinenden Mann begegnet, der einen Pergamentfetzen in den Händen hält. „Warum weinst du?“, fragt die Gabenbringerin. „Ich habe hier einen Brief meiner Frau. Ich habe versucht, ihr ein guter Gemahl zu sein, aber sie schreibt, dass ich das nicht war. Sie ist fortgegangen, um einen besseren Mann zu finden. Dieser Brief ist alles, was mir jetzt noch von ihr bleibt.“„Dann gib mir den Brief”, sagt die Gabenbringerin. „Wenn du den Brief vergessen hast, kann deine Frau dir kein weiteres Leid bereiten.“ Der Mann gibt ihr den Brief und stellt fest, dass seine Tränen getrocknet sind. Er dankt der Gabenbringerin und geht, im Frieden mit sich und der Welt. Die Gabenbringerin geht weiter und denkt über die Geschichte des Mannes nach. Nach einem kurzen Wegstück aber trifft sie auf einen weinenden jungen Knaben, der ein hölzernes Spielzeug in den Händen hält. „Warum weinst du?“, fragt die Gabenbringerin. „Ich habe hier ein Spielzeug, das mein Vater mir geschnitzt hat. Oft war er liebevoll und großzügig, oft aber auch zornig und gewalttätig. Nun, da er tot ist, ist das alles, was mir noch von ihm bleibt.“ „Dann gib mir das Spielzeug“, sagt die Gabenbringerin. „Wenn du das Spielzeug vergessen hast, kann dein Vater dir kein weiteres Leid bereiten. Der Knabe gibt ihr das Spielzeug und stellt fest, dass seine Trauer verflogen ist. Er dankt der Gabenbringerin und geht, im Frieden mit sich und der Welt. Die Gabenbringerin geht weiter und denkt über das Leid des Knaben nach. Nach einem kurzen Wegstück aber trifft sie auf eine weinende alte Frau, die eine Perlenkette in den Händen hält. „Warum weinst du?“, fragt die Gabenbringerin. „Ich habe hier eine Perlenkette, die das Lebensalter meiner Tochter zählte. Sie ist noch als Kind erkrankt und gestorben. Die Freuden eines vollen Lebens blieben ihr verwehrt … und mir die Freuden einer Mutter. Diese Kette ist alles, was mir noch von ihr bleibt.” „Dann gib mir die Kette”, sagt die Gabenbringerin. „Wenn du die Kette vergessen hast, kann deine Tochter echte Ruhe finden.” Die alte Frau gibt ihr die Kette und stellt fest, dass ihre Trauer nicht mehr an ihrer Seele nagt. Sie dankt der Gabenbringerin und geht, im Frieden mit sich und der Welt. Die Gabenbringerin denkt über den Schmerz der Frau nach und folgt der Straße bis zum Meer. In ihren Händen hält sie den Brief, das Spielzeug und die Kette. Sie liegen leicht in ihren Händen, aber schwer in ihrem Herzen. Sie weint. Sie betet zu Ondra, dass die Gegenstände vergessen werden können, und wirft sie in das Wasser. Und doch weint die Gabenbringerin noch lange, nachdem sie in den Wellen versunken sind. „Gütige Ondra“, bittet die Gabenbringerin. „In deinem Dienst habe ich Leidenden geholfen, ihre Sorgen zu vergessen. Doch obwohl ich sie an dich weitergab, spüre ich sie noch immer, als wären es die meinen. Wie kann das sein?“ Die Gabenbringerin lauscht der Weisheit der brechenden Wellen, bis sie Erkenntnis erlangt: Die Sorgen anderer in der eigenen Seele zu spüren ist selbst eine Last. Sie hat jedoch kein Symbol, das sie Ondra überlassen kann, auf dass diese es forttrage. Denn es sind nicht ihre Sorgen, die sie vergessen möchte. „Dann gebe ich mich selbst“, sagt die Gabenbringerin. „Denn wenn ich erst in deinen Armen ruhe, kann keine Erinnerung mich mehr plagen.“ Und damit rauscht die Welle heran und umarmt die Gabenbringerin. Und als sie abebbt, ist sie fort.</DefaultText>
+      <DefaultText>Eine treue Gabenbringerin Ondras reist eine Straße entlang, als sie einem weinenden Mann begegnet, der einen Pergamentfetzen in den Händen hält. „Warum weinst du?“, fragt die Gabenbringerin. „Ich habe hier einen Brief meiner Frau. Ich habe versucht, ihr ein guter Gemahl zu sein, aber sie schreibt, dass ich das nicht war. Sie ist fortgegangen, um einen besseren Mann zu finden. Dieser Brief ist alles, was mir jetzt noch von ihr bleibt.“ „Dann gib mir den Brief”, sagt die Gabenbringerin. „Wenn du den Brief vergessen hast, kann deine Frau dir kein weiteres Leid bereiten.“ Der Mann gibt ihr den Brief und stellt fest, dass seine Tränen getrocknet sind. Er dankt der Gabenbringerin und geht, im Frieden mit sich und der Welt. Die Gabenbringerin geht weiter und denkt über die Geschichte des Mannes nach. Nach einem kurzen Wegstück aber trifft sie auf einen weinenden jungen Knaben, der ein hölzernes Spielzeug in den Händen hält. „Warum weinst du?“, fragt die Gabenbringerin. „Ich habe hier ein Spielzeug, das mein Vater mir geschnitzt hat. Oft war er liebevoll und großzügig, oft aber auch zornig und gewalttätig. Nun, da er tot ist, ist das alles, was mir noch von ihm bleibt.“ „Dann gib mir das Spielzeug“, sagt die Gabenbringerin. „Wenn du das Spielzeug vergessen hast, kann dein Vater dir kein weiteres Leid bereiten. Der Knabe gibt ihr das Spielzeug und stellt fest, dass seine Trauer verflogen ist. Er dankt der Gabenbringerin und geht, im Frieden mit sich und der Welt. Die Gabenbringerin geht weiter und denkt über das Leid des Knaben nach. Nach einem kurzen Wegstück aber trifft sie auf eine weinende alte Frau, die eine Perlenkette in den Händen hält. „Warum weinst du?“, fragt die Gabenbringerin. „Ich habe hier eine Perlenkette, die das Lebensalter meiner Tochter zählte. Sie ist noch als Kind erkrankt und gestorben. Die Freuden eines vollen Lebens blieben ihr verwehrt … und mir die Freuden einer Mutter. Diese Kette ist alles, was mir noch von ihr bleibt.” „Dann gib mir die Kette”, sagt die Gabenbringerin. „Wenn du die Kette vergessen hast, kann deine Tochter echte Ruhe finden.” Die alte Frau gibt ihr die Kette und stellt fest, dass ihre Trauer nicht mehr an ihrer Seele nagt. Sie dankt der Gabenbringerin und geht, im Frieden mit sich und der Welt. Die Gabenbringerin denkt über den Schmerz der Frau nach und folgt der Straße bis zum Meer. In ihren Händen hält sie den Brief, das Spielzeug und die Kette. Sie liegen leicht in ihren Händen, aber schwer in ihrem Herzen. Sie weint. Sie betet zu Ondra, dass die Gegenstände vergessen werden können, und wirft sie in das Wasser. Und doch weint die Gabenbringerin noch lange, nachdem sie in den Wellen versunken sind. „Gütige Ondra“, bittet die Gabenbringerin. „In deinem Dienst habe ich Leidenden geholfen, ihre Sorgen zu vergessen. Doch obwohl ich sie an dich weitergab, spüre ich sie noch immer, als wären es die meinen. Wie kann das sein?“ Die Gabenbringerin lauscht der Weisheit der brechenden Wellen, bis sie Erkenntnis erlangt: Die Sorgen anderer in der eigenen Seele zu spüren ist selbst eine Last. Sie hat jedoch kein Symbol, das sie Ondra überlassen kann, auf dass diese es forttrage. Denn es sind nicht ihre Sorgen, die sie vergessen möchte. „Dann gebe ich mich selbst“, sagt die Gabenbringerin. „Denn wenn ich erst in deinen Armen ruhe, kann keine Erinnerung mich mehr plagen.“ Und damit rauscht die Welle heran und umarmt die Gabenbringerin. Und als sie abebbt, ist sie fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -728,7 +728,7 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2241</ID>
-      <DefaultText>Mascas Essehammer wurde zwar häufig verwendet ... nach dem, was sie dir berichtet hat, aber nicht gut.</DefaultText>
+      <DefaultText>Mascas Essehammer wurde zwar häufig verwendet&#160;… nach dem, was sie dir berichtet hat, aber nicht gut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,7 +738,7 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2243</ID>
-      <DefaultText>Er-trägt-viele-Narbens Helm</DefaultText>
+      <DefaultText>Er-trägt-viele-Narben Helm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -798,7 +798,7 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2284</ID>
-      <DefaultText>Die Brosche des Karawanenmeisters Saefol, die du eingefroren im Schrecken der Weißsteinsenke gefunden hast.</DefaultText>
+      <DefaultText>Die Brosche des Karawanenmeisters Saefol, die du eingefroren in der Mitte des Schreckens der Weißsteinsenke gefunden hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -853,25 +853,25 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2298</ID>
-      <DefaultText>Dieser Morgenstern scheint engwithanischer Herkunft zu sein. Er hat lange, lange Zeit in einem Torfsumpf gelegen, wo er vor den Elementen geschützt war. Seit dem Beginn der dyrwäldischen Expeditionen in engwithanische Ruinen wurden nur wenige engwithanische Waffen in brauchbarem Zustand gefunden. Dieser Morgenstern ist eine seltene Ausnahme.
+      <DefaultText>Dieser Morgenstern scheint engwithanischer Herkunft zu sein. Er hat lange, lange Zeit in einem Torfsumpf gelegen, wo er vor den Elementen geschützt war. Seit dem Beginn der dyrwälderischen Expeditionen in engwithanische Ruinen wurden nur wenige engwithanische Waffen in brauchbarem Zustand gefunden. Dieser Morgenstern ist eine seltene Ausnahme.
 
 Die Waffe besteht aus einem bronzenen Schaft und einem Kopf aus lebendem Adra. Der Griff ist fest mit Kupfer umwickelt und die Stacheln am Kopf bestehen ebenfalls aus Kupfer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2300</ID>
-      <DefaultText>Der Piratenkapitän Viccilo wurde von seinen Männern für seinen Humor geliebt und war berüchtigt für seine Streiche. Eines Tages entschied die Crew, es ihm heimzuzahlen. Sie gaben vor zu meutern und setzten ihn zwei Tage lang auf einer Wüsteninsel aus. Sie gaben ihm nur ein Beil, um Kokosnüsse zu zerteilen ... wohl wissend, dass es auf der Insel keine Kokospalmen gab.
+      <DefaultText>Der Piratenkapitän Viccilo wurde von seinen Männern für seinen Humor geliebt und war berüchtigt für seine Streiche. Eines Tages entschied die Crew, es ihm heimzuzahlen. Sie gaben vor zu meutern und setzten ihn zwei Tage lang auf einer Wüsteninsel aus. Sie gaben ihm nur ein Beil, um Kokosnüsse zu zerteilen&#160;… wohl wissend, dass es auf der Insel keine Kokospalmen gab.
 
-Als sie ihn wieder aufs Schiff zerrten, war er schon halb verdurstet. Der Steuermann bot ihm einen Becher Wasser an. Viccilo leerte ihn gierig in einem Zug ... und stellte fest, dass es Salzwasser war. Er wälzte sich lange auf dem Deck und übergab sich, zu schwach, um überhaupt aufzustehen. Die Crew lachte aus vollen Hälsen und Viccilo sagte hinterher, er wäre niemandem böse.
+Als sie ihn wieder aufs Schiff zerrten, war er schon halb verdurstet. Der Steuermann bot ihm einen Becher Wasser an. Viccilo leerte ihn gierig in einem Zug&#160;… und stellte fest, dass es Salzwasser war. Er wälzte sich lange auf dem Deck und übergab sich, zu schwach, um überhaupt aufzustehen. Die Crew lachte aus vollen Hälsen und Viccilo sagte hinterher, er wäre niemandem böse.
 
 Aber nach seiner Begegnung mit dem Tod veränderte Viccilo sich. Er lachte mit seinen Männern, aber unter der Oberfläche brodelte er vor Wut. Es dauerte Wochen, bis er sich vollständig erholt hatte. Als er sich endlich stark genug fühlte, nahm er das Beil und ermordete seine Crew, während sie schlief.
 
-Das Beil ist dunkelgrau. Im Griff und in der Klinge wachsen rote Korallen. Ein Teil von Kapitän Viccilos rachsüchtiger Essenz soll in die Klinge geglitten sein. Es heißt, dass manche, die von der Klinge getroffen wurden, nicht an ihren Wunden gestorben sind ... sondern elendig verdurstet.</DefaultText>
+Das Beil ist dunkelgrau. Im Griff und in der Klinge wachsen rote Korallen. Ein Teil von Kapitän Viccilos rachsüchtiger Essenz soll in die Klinge geglitten sein. Es heißt, dass manche, die von der Klinge getroffen wurden, nicht an ihren Wunden gestorben sind&#160;… sondern elendig verdurstet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2302</ID>
-      <DefaultText>Wygelt war eine treue Anhängerin Woedicas, die von Träumen geplagt wurde. In diesen Träumen verübten Verbrecher schreckliche Gewalttaten ... wurden dafür aber nicht oder viel zu leicht bestraft. Wygelt war überzeugt, dass Woedica durch diese Träume zu ihr sprach und forderte, dass diese Verbrecher ihre gerechte Strafe erhielten.
+      <DefaultText>Wygelt war eine treue Anhängerin Woedicas, die von Träumen geplagt wurde. In diesen Träumen verübten Verbrecher schreckliche Gewalttaten&#160;… wurden dafür aber nicht oder viel zu leicht bestraft. Wygelt war überzeugt, dass Woedica durch diese Träume zu ihr sprach und forderte, dass diese Verbrecher ihre gerechte Strafe erhielten.
 
 Wygelt spürte die Verbrecher in ihren Häusern oder Verstecken auf. Oft auch im Gefängnis, wo sie milde Strafen absaßen. Sie schlich sich in diese Gebäude hinein, die oft schwer bewacht waren, fand die Verbrecher und verkündete das Urteil Woedicas. (Die aberwitzigen Methoden, wie sie in diese Orte gelangte, wurden später bei ihrer Heiligsprechung teilweise zu Wundern erklärt.) Wenn der Verbrecher Glück hatte, wurde er nur entstellt. Die meisten aber wurden an Ort und Stelle mit Wygelts Knüppel hingerichtet.
 
@@ -887,7 +887,7 @@ St. Wygelts Knüppel ist eine einfache Stachelkeule mit lederumwickeltem Griff. 
     </Entry>
     <Entry>
       <ID>2304</ID>
-      <DefaultText>Silberblitz ist die Erfindung des dyrwäldischen Silberschürfers Engar Resc, der in einer ansonsten leeren Höhle eine große Silberader entdeckte. Er hatte gerade begonnen, das Erz abzutragen, als der Bewohner der Höhle ihn dort vorfand und zum Angriff ansetzte ... der größte Bär, den Engar je gesehen hatte, wenn man seiner Darstellung Glauben schenken mag.
+      <DefaultText>Silberblitz ist die Erfindung des dyrwälderischen Silberschürfers Engar Resc, der in einer ansonsten leeren Höhle eine große Silberader entdeckte. Er hatte gerade begonnen, das Erz abzutragen, als der Bewohner der Höhle ihn dort vorfand und zum Angriff ansetzte&#160;… der größte Bär, den Engar je gesehen hatte, wenn man seiner Darstellung Glauben schenken mag.
 
 Engar war vorbereitet und feuerte seine Donnerbüchse auf das wilde Tier ab, als es auf ihn zustürmte. Die Waffe traf aber selten ihr Ziel und Engar wurde schrecklich entstellt. Er konnte nur deswegen mit dem Leben entkommen, weil er sich totstellte.
 
@@ -898,7 +898,7 @@ Engar schwor, so etwas würde ihm nie wieder passieren. Aus seinem eigenen Silbe
       <ID>2306</ID>
       <DefaultText>Auf Geheiß von Escimo IV, Duc von Ancenze, wurden ein Dutzend einzigartige Mordäxte für seine königliche Leibgarde gefertigt. Jede von ihnen sollte einem der zentralen Elemente des maritimen Lebens Tribut zollen. Zusätzliche Mordäxte wurden gefertigt, um den Regen, die Sterne, die Sonne, die Wellen und andere Symbole zu ehren.
 
-Der Arm des Windes war das Lieblingsstück von Escimo IV, der sich in seinen Jahren in der Marine von Ancenze den Beinamen „Casità mel Alisias“ verdient hatte ... Kapitän des Windes. Ganz egal, wohin Escimo auch segeln wollte, so hieß es ... die Winde wehten immer in die richtige Richtung. Er gab den Arm des Windes seinem fähigsten Leibwächter, der die Waffe mehr als einmal einsetzte, um übereifrige Vailianer daran zu hindern, dem Thron zu nahe zu kommen.
+Der Arm des Windes war das Lieblingsstück von Escimo IV, der sich in seinen Jahren in der Marine von Ancenze den Beinamen „Casità mel Alisias“ verdient hatte&#160;… Kapitän des Windes. Ganz egal, wohin Escimo auch segeln wollte, so hieß es&#160;… die Winde wehten immer in die richtige Richtung. Er gab den Arm des Windes seinem fähigsten Leibwächter, der die Waffe mehr als einmal einsetzte, um übereifrige Vailianer daran zu hindern, dem Thron zu nahe zu kommen.
 
 Die Mordaxt ist nach dem Vorbild des Windes selbst gefertigt. In den Axtkopf ist ein Gesicht eingraviert, das den Wind nach außen pustet, an den Kurven der Klinge entlang. Die Maserung des Holzes ist nicht vertikal, sondern windet sich um den aschgrauen Stab.</DefaultText>
       <FemaleText />
@@ -910,7 +910,7 @@ Die Mordaxt ist nach dem Vorbild des Windes selbst gefertigt. In den Axtkopf ist
     </Entry>
     <Entry>
       <ID>2309</ID>
-      <DefaultText>Ine Gyrd ist das berühmteste Zepter in Aedyr und vielleicht in ganz Eora. Es befindet sich im gemeinsamen Besitz der Mecwyn und des Fercönyngs, als Symbol der königlichen Autorität. Man sagt, es trage die Seelen früher Häuptlinge in seinem Adra-Kopf. Obwohl es traditionell als rein symbolisch gilt, kam es im Laufe seiner Geschichte zu mehreren berühmten Gelegenheiten auch tatsächlich zum Einsatz. 
+      <DefaultText>Ine Gyrd ist das berühmteste Zepter in Aedyr und vielleicht in ganz Eora. Es befindet sich im gemeinsamen Besitz der Mecwyn und des Fercönyngs, als Symbol der königlichen Autorität. Man sagt, es trage die Seelen früher Häuptlinge in seinem Adra-Kopf. Obwohl es traditionell als rein symbolisch gilt, kam es im Laufe seiner Geschichte zu mehreren berühmten Gelegenheiten auch tatsächlich zum Einsatz.
 
 Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn Eleya deren Thron, weil sie die rechtmäßige Erbin sei. Eleya lud sie an ihren Hof ein, auf dass die Leute ihre Argumente mit eigenen Ohren hören und sich selbst ein Urteil bilden könnten. Die Frau sprach lange und legte eine Reihe beeidigter Dokumente vor. Eleya rief sie zum Thron und sagte ihr, dass die Mecwyn abdanken würde, wenn die Häuptlinge von Ine Gyrd die Thronanwärterin für würdig befänden.</DefaultText>
       <FemaleText />
@@ -927,21 +927,21 @@ Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn
     </Entry>
     <Entry>
       <ID>2324</ID>
-      <DefaultText>Es ist nicht eindeutig zu sagen, aber die Klinge scheint etwas dunkler geworden zu sein, obwohl sie relativ wenig verwendet wurde, seit der Dolch in deinem Besitz ist. Es ist kaum denkbar, dass die Waffe so schlecht gefertigt wurde, dass sie sich schon dem Ende ihrer Nützlichkeit nähert ... und doch scheint genau das der Fall zu sein.
+      <DefaultText>Es ist nicht eindeutig zu sagen, aber die Klinge scheint etwas dunkler geworden zu sein, obwohl sie relativ wenig verwendet wurde, seit der Dolch in deinem Besitz ist. Es ist kaum denkbar, dass die Waffe so schlecht gefertigt wurde, dass sie sich schon dem Ende ihrer Nützlichkeit nähert&#160;… und doch scheint genau das der Fall zu sein.
 
 Eine einzige Rune ist auf der Klinge zu sehen. Zunächst sah sie mehr aus wie ein Kratzer. Es ist unmöglich, sich noch zu erinnern, ob diese Rune schon immer dort gewesen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2332</ID>
-      <DefaultText>Matha Faett wurde schlafend in einer engwithanischen Ruine tief im Herzen von Eir Glanfath gefunden. Sie war ein großer Lindwurm, ein unterirdisches Lebewesen, das Gestandene nur selten zu Gesicht bekommen. Fast ihr gesamter Körper war in den Dreck hinter den Mauern der Ruinen eingegraben … die dyrwäldischen Plünderer, die sie aufweckten, waren also völlig geschockt, als sie hervorkam und sie feststellten, dass sie dreimal so hoch und dreißigmal so lang wie ein Mensch war. Die erste Gruppe von Plünderern kam mit dem Leben davon und kehrte mit großen Jagdgesellschaften zurück, um Matha Faett zu töten. Denn die Ruinen, in denen sie hauste, beherbergten eine der wertvollsten Ansammlungen an Relikten, die in Eir Glanfath bis dahin entdeckt worden waren. Aber Matha Faett tötete dutzendweise Jäger. Ihr Körper war mit einem Säureschleim überzogen, der Waffen verschlang, ehe sie ihr Fleisch durchbrechen konnten. Sie spuckte Galle über ihre Angreifer, die Fleisch und Knochen gleichermaßen wegätzte und von den Jägern keine Spur zurückließ, die zukünftige Plünderer noch hätten finden können. Ihre Herrschaft in der Ruine endete, als die Hunde von Galawain eine gewaltige Summe für ihren Tod bezahlten. Sie schickten eine einzige Frau los, Cillanna Fealmes, deren Statur so imposant war, dass kaum jemand Zweifel an der Entscheidung äußerte, sie alleine in die Ruinen gehen zu lassen. Sie ließ eigens Waffen und Rüstungsteile anfertigen und schwärzen, damit sie der ätzenden Galle des Monsters widerstehen konnten. Darunter befand sich auch dieser Brustpanzer. Als sie die Ruinen betrat, stellte sie fest, dass Matha Faett einige Wochen zuvor gestorben war. Der Gestank war so überwältigend, dass sie das Bewusstsein verlor und erst nach mehreren Stunden wieder erwachte. Als sie in ihrer schwarzen Rüstung unverletzt aus den Ruinen trat, erhielt sie den Spitznamen “Die Schwarzwächterin”, ehe sie auch nur berichten konnte, was geschehen war. Der Name gefiel ihr so gut, dass sie bereitwillig die Wahrheit ein wenig verdrehte, um ihn zu behalten. Der Geruch blieb noch lange nach Cillannas Tod an der Rüstung haften, weshalb sie kaum Abnutzungserscheinungen zeigt.</DefaultText>
+      <DefaultText>Matha Faett wurde schlafend in einer engwithanischen Ruine tief im Herzen von Eir Glanfath gefunden. Sie war ein großer Lindwurm, ein unterirdisches Lebewesen, das Gestandene nur selten zu Gesicht bekommen. Fast ihr gesamter Körper war in den Dreck hinter den Mauern der Ruinen eingegraben … die dyrwälderischen Plünderer, die sie aufweckten, waren also völlig geschockt, als sie hervorkam und sie feststellten, dass sie dreimal so hoch und dreißigmal so lang wie ein Mensch war. Die erste Gruppe von Plünderern kam mit dem Leben davon und kehrte mit großen Jagdgesellschaften zurück, um Matha Faett zu töten. Denn die Ruinen, in denen sie hauste, beherbergten eine der wertvollsten Ansammlungen an Relikten, die in Eir Glanfath bis dahin entdeckt worden waren. Aber Matha Faett tötete dutzendweise Jäger. Ihr Körper war mit einem Säureschleim überzogen, der Waffen verschlang, ehe sie ihr Fleisch durchbrechen konnten. Sie spuckte Galle über ihre Angreifer, die Fleisch und Knochen gleichermaßen wegätzte und von den Jägern keine Spur zurückließ, die zukünftige Plünderer noch hätten finden können. Ihre Herrschaft in der Ruine endete, als die Hunde von Galawain eine gewaltige Summe für ihren Tod bezahlten. Sie schickten eine einzige Frau los, Cillanna Fealmes, deren Statur so imposant war, dass kaum jemand Zweifel an der Entscheidung äußerte, sie alleine in die Ruinen gehen zu lassen. Sie ließ eigens Waffen und Rüstungsteile anfertigen und schwärzen, damit sie der ätzenden Galle des Monsters widerstehen konnten. Darunter befand sich auch dieser Brustpanzer. Als sie die Ruinen betrat, stellte sie fest, dass Matha Faett einige Wochen zuvor gestorben war. Der Gestank war so überwältigend, dass sie das Bewusstsein verlor und erst nach mehreren Stunden wieder erwachte. Als sie in ihrer schwarzen Rüstung unverletzt aus den Ruinen trat, erhielt sie den Spitznamen “Die Schwarzwächterin”, ehe sie auch nur berichten konnte, was geschehen war. Der Name gefiel ihr so gut, dass sie bereitwillig die Wahrheit ein wenig verdrehte, um ihn zu behalten. Der Geruch blieb noch lange nach Cillannas Tod an der Rüstung haften, weshalb sie kaum Abnutzungserscheinungen zeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2334</ID>
-      <DefaultText>Es begann als ein einfacher Unfall. Ein dyrwäldischer Jäger trat während einer Expedition auf den Schwanz eines schlafenden Stelgaer. Das Tier hätte ihn in Stücke gerissen, hätte sich nicht einer seiner Zähne im Kettenpanzer des Jägers verfangen ... wodurch dieser die Gelegenheit bekam, das Ungeheuer zu töten. Den Zahn ließ er in dem Panzer stecken, als eine Art Trophäe.
+      <DefaultText>Es begann als ein einfacher Unfall. Ein dyrwälderischer Jäger trat während einer Expedition auf den Schwanz eines schlafenden Stelgaer. Das Tier hätte ihn in Stücke gerissen, hätte sich nicht einer seiner Zähne im Kettenpanzer des Jägers verfangen&#160;… wodurch dieser die Gelegenheit bekam, das Ungeheuer zu töten. Den Zahn ließ er in dem Panzer stecken, als eine Art Trophäe.
 
-Auf anderen Expeditionen sammelte er weitere Trophäen – Zähne oder Knochen. Er nähte sie in den Panzer ein, als Zeichen seines Stolzes. Der Jäger selbst wurde schließlich von einer Gruppe von Reißzähnen getötet, die ihn aus einer engwithanischen Ruine kommen sahen – mit einem Sack voller Dinge, die ihrer Meinung nach nicht ihm gehörten. Sie behielten seine Tradition aber bei und nähten einen seiner Zähne in den Kettenpanzer. 
+Auf anderen Expeditionen sammelte er weitere Trophäen – Zähne oder Knochen. Er nähte sie in den Panzer ein, als Zeichen seines Stolzes. Der Jäger selbst wurde schließlich von einer Gruppe von Reißzähnen getötet, die ihn aus einer engwithanischen Ruine kommen sahen – mit einem Sack voller Dinge, die ihrer Meinung nach nicht ihm gehörten. Sie behielten seine Tradition aber bei und nähten einen seiner Zähne in den Kettenpanzer.
 
 Im Laufe der Jahre erweiterten sie die Trophäensammlung, bis der Besitzer des Panzers getötet wurde. So wurde der Panzer immer weiter gereicht, aber jeder neue Besitzer erweiterte ihn um seine Trophäen. Heute ist der Panzer eine furchterregende Collage aus menschlichen und tierischen Überresten.</DefaultText>
       <FemaleText />
@@ -1190,7 +1190,7 @@ Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist s
     </Entry>
     <Entry>
       <ID>2415</ID>
-      <DefaultText>Obwohl diese Waffe lediglich mit einem Fragment von Abydons ursprünglichem Hammer versehen ist, ist sie dennoch ein Instrument von gewaltiger zerstörerischer Kraft ... und nun auch klein genug für die Hände von Gestandenen. Auf der Hammerspitze sind noch die Werkzeugspuren des Schöpfers zu sehen. Nicht einmal die Feuer der Weißen Esse konnten Abydons Arbeit auslöschen.</DefaultText>
+      <DefaultText>Obwohl diese Waffe lediglich mit einem Fragment von Abydons ursprünglichem Hammer versehen ist, ist sie dennoch ein Instrument von gewaltiger zerstörerischer Kraft&#160;… und nun auch klein genug für die Hände von Gestandenen. Auf der Hammerspitze sind noch die Werkzeugspuren des Schöpfers zu sehen. Nicht einmal die Feuer der Weißen Esse konnten Abydons Arbeit auslöschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1240,7 +1240,7 @@ Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist s
     </Entry>
     <Entry>
       <ID>2432</ID>
-      <DefaultText>Hirnmaden gelten heute als Vithrack-Delikatesse, ursprünglich hatte das Ernten der Maden aber wohl einen pragmatischen Zweck. Hirnmaden durchlaufen einen sehr langen Entwicklungszyklus. Die zunächst blassen, schwächlichen Larven werden durch eine dramatische Metamorphose zu großen und äußerst gefährlichen ausgewachsenen Maden. Nur wenige Gestandene haben eine Begegnung mit diesen Geschöpfen in der Wildnis überlebt, und die sehr abgeschottet lebenden Vithrack sind nicht sehr auskunftsfreudig ... doch einigen reißerischen Fabeln zufolge sind die Hirnmaden lediglich die Überreste einer zweiten, intelligenten Kultur, die einst mit den Vithrack um die Vorherrschaft kämpfte. Wie dem auch sei, die Vithrack finden großen Gefallen daran, die Hirnmaden in den frühen Phasen ihrer Entwicklung zu verspeisen.
+      <DefaultText>Hirnmaden gelten heute als Vithrack-Delikatesse, ursprünglich hatte das Ernten der Maden aber wohl einen pragmatischen Zweck. Hirnmaden durchlaufen einen sehr langen Entwicklungszyklus. Die zunächst blassen, schwächlichen Larven werden durch eine dramatische Metamorphose zu großen und äußerst gefährlichen ausgewachsenen Maden. Nur wenige Gestandene haben eine Begegnung mit diesen Geschöpfen in der Wildnis überlebt, und die sehr abgeschottet lebenden Vithrack sind nicht sehr auskunftsfreudig&#160;… doch einigen reißerischen Fabeln zufolge sind die Hirnmaden lediglich die Überreste einer zweiten, intelligenten Kultur, die einst mit den Vithrack um die Vorherrschaft kämpfte. Wie dem auch sei, die Vithrack finden großen Gefallen daran, die Hirnmaden in den frühen Phasen ihrer Entwicklung zu verspeisen.
 
 Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. Die Maden selbst sind für Gestandene jedoch nahezu unverdaulich, so dass als Wirkung meist vor allem heftige Bauchschmerzen in Erinnerung bleiben.</DefaultText>
       <FemaleText />
@@ -1272,12 +1272,12 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2448</ID>
-      <DefaultText>Readceranische Fennings sind meist mit dem Wappen der Bußregentschaft geprägt. Alternativ tragen sie Bilder der Vorlas-Pflanze, die als Symbol für den einst florierenden Export von Färbemitteln steht. Der Wert der Münze ist identisch mit dem des silbernen aedyranischen Fennings, der im gesamten Reich und dessen Kolonien verwendet wird. Readceranische Münzen dagegen sind weitaus weniger verbreitet.</DefaultText>
+      <DefaultText>Readceranische Fennings sind meist mit dem Wappen der Bußregentschaft geprägt. Alternativ tragen sie Bilder der Vorlas-Pflanze, die als Symbol für den einst florierenden Export von Färbemitteln steht. Der Wert der Münze ist identisch mit dem des silbernen aedyrischen Fennings, der im gesamten Reich und dessen Kolonien verwendet wird. Readceranische Münzen dagegen sind weitaus weniger verbreitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2449</ID>
-      <DefaultText>Eine kleine Kupfermünze, deren Wert identisch mit der aedyranischen Münze desselben Namens sowie mit dem dyrwäldischen Pand ist.</DefaultText>
+      <DefaultText>Eine kleine Kupfermünze, deren Wert identisch mit der aedyrischen Münze desselben Namens sowie mit dem dyrwälderischen Pand ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1322,7 +1322,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2466</ID>
-      <DefaultText>Eine kleine, delikate Phiole, die an einer dünnen, goldenen Halskette hängt, enthält angeblich die Tränen von St. Borragia, einer magranitischen Heiligen. Das Relikt ging irgendwann während des Kriegs des Heiligen verloren, als die Kirche der Windenden Flamme von Readceranern geplündert wurde.</DefaultText>
+      <DefaultText>Eine kleine, zierliche Phiole, die an einer dünnen, goldenen Halskette hängt. Sie enthält angeblich die Tränen von St. Borragia, einer magranitischen Heiligen. Das Relikt ging irgendwann während des Kriegs des Heiligen verloren, als die Kirche der Windenden Flamme von Readceranern geplündert wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1347,7 +1347,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2471</ID>
-      <DefaultText>Dieser Ring von unbekannter Herkunft wurde bei den Besitztümern einer Frau gefunden, die ein Gabenbringer Ondras im Schwarzwyr abgelegt hatte. Du hast ihre Besitztümer für die trauernde Tochter der Frau zurückgeholt. Die Tochter sagte jedoch, der Ring hätte nicht ihrer Mutter gehört. Woher er gekommen ist, ist ein Rätsel ... ebenso wie die Quelle seiner Macht.</DefaultText>
+      <DefaultText>Dieser Ring von unbekannter Herkunft wurde bei den Besitztümern einer Frau gefunden, die ein Gabenbringer Ondras im Schwarzwyr abgelegt hatte. Du hast ihre Besitztümer für die trauernde Tochter der Frau zurückgeholt. Die Tochter sagte jedoch, der Ring hätte nicht ihrer Mutter gehört. Woher er gekommen ist, ist ein Rätsel&#160;… ebenso wie die Quelle seiner Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1357,7 +1357,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2473</ID>
-      <DefaultText>Dieses kleine Stück Zinn ist alles, was du von dem verstörenden Nachtspiegel behalten hast – einem engwithanischen Artefakt, das in der südwestlichen Ecke von Eir Glanfath einige Glanfathaner in seinen Bann gezogen hatte. Nachdem du geholfen hast, den Spiegel zu zerstören, ist eine mysteriöse Gruppe von Orlanern erschienen und hat eilig die Überreste des Spiegels weggeschafft ... abgesehen von dem Splitter, der sich zufällig unter deinem Fuß befand. Selbst dieser winzige Splitter des Spiegels übt noch immer eine starke Anziehungskraft auf deinen Verstand aus, sobald du hineinblickst.</DefaultText>
+      <DefaultText>Dieses kleine Stück Zinn ist alles, was du von dem verstörenden Nachtspiegel behalten hast – einem engwithanischen Artefakt, das in der südwestlichen Ecke von Eir Glanfath einige Glanfathaner in seinen Bann gezogen hatte. Nachdem du geholfen hast, den Spiegel zu zerstören, ist eine mysteriöse Gruppe von Orlanern erschienen und hat eilig die Überreste des Spiegels weggeschafft&#160;… abgesehen von dem Splitter, der sich zufällig unter deinem Fuß befand. Selbst dieser winzige Splitter des Spiegels übt noch immer eine starke Anziehungskraft auf deinen Verstand aus, sobald du hineinblickst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1372,7 +1372,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2476</ID>
-      <DefaultText>Diese Handschuhe gehörten einst dem als 'Trauerzirkel' bekannten Beseelungskult, der durch den Östlichen Abschnitt reiste und den Leuten versprach, ihre Toten zurückzuholen. Diese Versprechen waren jedoch nur die Tarnung für grauenhafte Experimente, Entführungen, Morde und Vivisektionen. Die Macht der Handschuhe wird entfesselt, nachdem der Träger damit einen Feind getötet hat ... was den Namen der Gruppe wie Spott und Hohn wirken lässt.</DefaultText>
+      <DefaultText>Diese Handschuhe gehörten einst dem als 'Trauerzirkel' bekannten Beseelungskult, der durch den Östlichen Abschnitt reiste und den Leuten versprach, ihre Toten zurückzuholen. Diese Versprechen waren jedoch nur die Tarnung für grauenhafte Experimente, Entführungen, Morde und Vivisektionen. Die Macht der Handschuhe wird entfesselt, nachdem der Träger damit einen Feind getötet hat&#160;… was den Namen der Gruppe wie Spott und Hohn wirken lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1382,7 +1382,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2478</ID>
-      <DefaultText>Dieses grausame Instrument wurde von einem Bewohner von Helstor gefertigt, der glaubte, eine Lösung für das Problem der Hohlgeburten gefunden zu haben. Er wollte mit dem Seil eine Jungfrau fesseln und sie bei lebendigem Leibe vergraben ... um später ihre Leiche auszugraben und ihre Haare als „Heilmittel“ zu verwenden. Trotz seines schändlichen Zwecks besitzt das Seil nützliche Kräfte.</DefaultText>
+      <DefaultText>Dieses grausame Instrument wurde von einem Bewohner von Helstor gefertigt, der glaubte, eine Lösung für das Problem der Hohlgeburten gefunden zu haben. Er wollte mit dem Seil eine Jungfrau fesseln und sie bei lebendigem Leibe vergraben&#160;… um später ihre Leiche auszugraben und ihre Haare als „Heilmittel“ zu verwenden. Trotz seines schändlichen Zwecks besitzt das Seil nützliche Kräfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1392,7 +1392,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2480</ID>
-      <DefaultText>Dieser schäbige, fleckige Umhang wurde einst als großes Wickeltuch verwendet ... für ein unglückseliges hohlgeborenes Kind, das in den Brunnen des Dorfes Weißkranz geworfen worden war. Als es am Grund des Brunnens lag, zwischen den Fundamenten aus lebendem Adra und einem Clan von Wichten, gewann das Tuch seltsame Kräfte.</DefaultText>
+      <DefaultText>Dieser schäbige, fleckige Umhang wurde einst als großes Wickeltuch verwendet&#160;… für ein unglückseliges hohlgeborenes Kind, das in den Brunnen des Dorfes Weißkranz geworfen worden war. Als es am Grund des Brunnens lag, zwischen den Fundamenten aus lebendem Adra und einem Clan von Wichten, gewann das Tuch seltsame Kräfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1442,22 +1442,22 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2490</ID>
-      <DefaultText>Diese wunderschönen Handschuhe bestehen aus einem seltsamen, versteinerten Holz, das so stark wie Eisen ist. Du hast sie im Tals aus Glas im Land der Lebenden gefunden, doch es ist nicht bekannt, wer sie gefertigt hat oder zu welchem Zweck.</DefaultText>
+      <DefaultText>Diese wunderschönen Handschuhe bestehen aus einem seltsamen, versteinerten Holz, das so stark wie Eisen ist. Du hast sie im Tal aus Glas im Land der Lebenden gefunden, doch es ist nicht bekannt, wer sie gefertigt hat oder zu welchem Zweck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2491</ID>
-      <DefaultText>Dieses seltsame Amulett befand sich einst im Besitz eines Kults mit dem Namen 'die Weiße Flamme'. Dieser Kult entführte in ganz Eora Personen, die seiner Ansicht nach ein 'Mal' trugen. Die Mitglieder der Weißen Flamme glaubten, diese Personen wären entscheidend, um den Gott Eothas wiederzubeleben. Nachdem du geholfen hast, im Cythwald eine Festung des Kults zu räumen, war seine Macht gebrochen ... wenn auch nicht vollständig ausgelöscht. Dieses Amulett blieb auf einem der Altare zurück.</DefaultText>
+      <DefaultText>Dieses seltsame Amulett befand sich einst im Besitz eines Kults mit dem Namen 'die Weiße Flamme'. Dieser Kult entführte in ganz Eora Personen, die seiner Ansicht nach ein „Mal“ trugen. Die Mitglieder der Weißen Flamme glaubten, diese Personen wären entscheidend, um den Gott Eothas wiederzubeleben. Nachdem du geholfen hast, im Cythwald eine Festung des Kults zu räumen, war seine Macht gebrochen&#160;… wenn auch nicht vollständig ausgelöscht. Dieses Amulett blieb auf einem der Altare zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2492</ID>
-      <DefaultText>Die vailianische Beseelerin Accetta, ursprünglich aus Biageppe stammend, hat diesen wunderschönen Helm aus Kupfer und Adra verzaubert. Er zeichnet sich mehr durch seine magischen Eigenschaften als durch seinen Nutzen als Rüstung aus, denn er besitzt eine seltsame Kraft. Die Songretta Ducala von Biageppe hat ihn dir vermacht, nachdem du festgestellt hast, dass Accetta zwar nicht tot war ... aber sicherlich nicht mehr im Reich der Lebenden weilte.</DefaultText>
+      <DefaultText>Die vailianische Beseelerin Accetta, ursprünglich aus Biageppe stammend, hat diesen wunderschönen Helm aus Kupfer und Adra verzaubert. Er zeichnet sich mehr durch seine magischen Eigenschaften als durch seinen Nutzen als Rüstung aus, denn er besitzt eine seltsame Kraft. Die Songretta Ducala von Biageppe hat ihn dir vermacht, nachdem du festgestellt hast, dass Accetta zwar nicht tot war&#160;… aber sicherlich nicht mehr im Reich der Lebenden weilte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2493</ID>
-      <DefaultText>Diese seltsamen Kohlen brennen nicht, scheinen aber ständig eine gefährliche Wärme abzugeben, wenn man sie berührt. Sie wurden in den Schwarzen Hügeln von Abet gefunden, wo ein schreckliches Monster sie zurückgelassen hat, das die dortigen Bergarbeiter terrorisiert hat.</DefaultText>
+      <DefaultText>Diese seltsamen Kohlen brennen nicht, scheinen aber ständig eine gefährliche Wärme abzugeben, wenn man sie berührt. Sie wurden in den Schwarzen Hügeln von Abet gefunden, wo ein schreckliches Monster sie zurückgelassen hat, das die dortigen Bergarbeiter terrorisiert hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

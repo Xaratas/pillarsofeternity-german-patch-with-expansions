@@ -53,7 +53,7 @@ Einer der Gesandten deutet vorwurfsvoll auf eine andere Gesandte, die einige Sch
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Oh ja. Ich weiß nicht, ob ich noch eine Nacht in dieser Grube aushalten würde ...“</DefaultText>
+      <DefaultText>„Oh ja. Ich weiß nicht, ob ich noch eine Nacht in dieser Grube aushalten würde&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,7 +115,7 @@ Sie setzt sich die Klinge an die eigene Kehle.</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Oh. Naja, trotzdem ... verdanken wir dir unsere Leben.“</DefaultText>
+      <DefaultText>„Oh. Naja, trotzdem&#160;… verdanken wir dir unsere Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,7 +154,7 @@ Unter dem nackten Grauen des Todes findest du einen tröstlichen Faden der Entsc
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Ein plötzlicher ohrenbetäubender Lärm draußen schreckt die Gesandten auf. Es folgt ein Grollen wie von Donner. Du hörst weitere Geräusche von zerberstendem Holz ... und panische Schreie.</DefaultText>
+      <DefaultText>Ein plötzlicher ohrenbetäubender Lärm draußen schreckt die Gesandten auf. Es folgt ein Grollen wie von Donner. Du hörst weitere Geräusche von zerberstendem Holz&#160;… und panische Schreie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@ Die übrigen Gesandten starren entsetzt auf die Blutlache.</DefaultText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Die Worte reißen dich aus der Erinnerung und werfen dich zurück zu dem Augenblick, in dem die Frau stirbt ... und dann wieder in deine eigene Haut.
+      <DefaultText>Die Worte reißen dich aus der Erinnerung und werfen dich zurück zu dem Augenblick, in dem die Frau stirbt&#160;… und dann wieder in deine eigene Haut.
 
 Spuren ihrer Erinnerung verbleiben aber in der deinen zurück. Du kennst den Weg zu der Abtei, zu der sie zurückkehren sollte. Sie liegt tief in den Bergen im Norden.</DefaultText>
       <FemaleText />
@@ -248,7 +248,7 @@ Spuren ihrer Erinnerung verbleiben aber in der deinen zurück. Du kennst den Weg
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Wenn du enttarnt wirst, Schwester ... weißt du, was du tun musst.“
+      <DefaultText>„Wenn du enttarnt wirst, Schwester&#160;… weißt du, was du tun musst.“
 
 Er legt dir eine Hand auf die Schulter. „Ich bete für deine Rückkehr. Aber wir werden Trost in dem Wissen finden, dass du dich Ondras Günstlingen in ihrer Obhut angeschlossen hast.“</DefaultText>
       <FemaleText />
@@ -282,7 +282,7 @@ Er legt dir eine Hand auf die Schulter. „Ich bete für deine Rückkehr. Aber w
       <ID>63</ID>
       <DefaultText>Du wirst stolpernd in eine weitere Erinnerung geführt, so vollständig und lebendig wie die erste. Du schreitest durch die Gänge einer Abtei, nur düster erleuchtet und völlig still. Deine Schritte hallen laut wider.
 
-Deine Sicht verschwimmt ... und du stehst in einem kaum beleuchteten Raum. Dir gegenüber befindet sich ein in Roben gehüllter Aumaua. Du erkennst ihn als Kaoto, den Oberabt. Er bedeutet dir, vorzutreten.</DefaultText>
+Deine Sicht verschwimmt&#160;… und du stehst in einem kaum beleuchteten Raum. Dir gegenüber befindet sich ein in Roben gehüllter Aumaua. Du erkennst ihn als Kaoto, den Oberabt. Er bedeutet dir, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,7 +334,7 @@ Sie blickt dich an. „Von wem geschickt?“</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Kaoto? ... Oh, ja. Er ist vor einer Weile durch die Stadt gekommen. Hat im Tempel von Stalwart Halt gemacht. Das war kurz nachdem die Stadt entschieden hatte, ihn umzuweihen ... ihn Abydon zu weihen.“</DefaultText>
+      <DefaultText>„Kaoto?&#160;… Oh, ja. Er ist vor einer Weile durch die Stadt gekommen. Hat im Tempel von Stalwart Halt gemacht. Das war kurz nachdem die Stadt entschieden hatte, ihn umzuweihen&#160;… ihn Abydon zu weihen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@ Der Gesandte deutet auf die tote Frau.</DefaultText>
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Falls du meinst, du willst zu dieser Abtei gehen ... sei vorsichtig. Es gibt Geschichten von Händlern, die nach Norden ziehen und von seltsamen Bewachern verjagt oder sogar getötet werden.“</DefaultText>
+      <DefaultText>„Falls du meinst, du willst zu dieser Abtei gehen&#160;… sei vorsichtig. Es gibt Geschichten von Händlern, die nach Norden ziehen und von seltsamen Bewachern verjagt oder sogar getötet werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@ Der Gesandte deutet auf die tote Frau.</DefaultText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Ja ... und dort werde ich das 'Reliquiar' finden, mit dem ich ihre Armee zurückpfeifen kann.“</DefaultText>
+      <DefaultText>„Ja&#160;… und dort werde ich das 'Reliquiar' finden, mit dem ich ihre Armee zurückpfeifen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

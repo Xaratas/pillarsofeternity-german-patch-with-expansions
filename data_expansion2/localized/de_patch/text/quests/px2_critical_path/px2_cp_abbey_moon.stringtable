@@ -127,7 +127,9 @@ Irgendwo in diesem ummauerten Bereich befindet sich das Werkzeug, mit dem Kaoto 
       <DefaultText>Der Oberabt hat erklärt, dass ich ihn nach Abschluss des Anstiegs – desselben Rituals, von dem Farentis gesprochen hat – als Anführer der Abtei ersetzen werde und dann auch Zugang zum Reliquiar haben werde.
 
 Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Oberabt hat erklärt, dass ich ihn nach Abschluss des Anstiegs – desselben Rituals, von dem Farentis gesprochen hat – als Anführerin der Abtei ersetzen werde und dann auch Zugang zum Reliquiar haben werde.
+
+Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</FemaleText>
     </Entry>
     <Entry>
       <ID>10010</ID>

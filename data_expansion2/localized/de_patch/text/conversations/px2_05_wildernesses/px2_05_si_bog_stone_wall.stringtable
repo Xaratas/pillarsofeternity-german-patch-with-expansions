@@ -72,12 +72,12 @@ Mit einem scharfen Schrei landet [SkillCheck 0] unsanft auf einem Dornengestrüp
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Du suchst dir eine geeignete Stelle aus, wappnest dich ... und springst. Du landest hart, rollst dich aber gekonnt ab, um den Aufprall zu mindern.</DefaultText>
+      <DefaultText>Du suchst dir eine geeignete Stelle aus, wappnest dich&#160;… und springst. Du landest hart, rollst dich aber gekonnt ab, um den Aufprall zu mindern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Du suchst dir eine geeignete Stelle aus, wappnest dich ... und springst. Du scheinst die Kraft deines Sprungs jedoch falsch eingeschätzt zu haben, denn du verfehlst dein Ziel und landest unsanft in einem Gewirr aus Ranken.</DefaultText>
+      <DefaultText>Du suchst dir eine geeignete Stelle aus, wappnest dich&#160;… und springst. Du scheinst die Kraft deines Sprungs jedoch falsch eingeschätzt zu haben, denn du verfehlst dein Ziel und landest unsanft in einem Gewirr aus Ranken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@ Mit einem scharfen Schrei landet [SkillCheck 0] unsanft auf einem Dornengestrüp
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Deine Gefährten folgen dir ... oder versuchen es zumindest. [SkillCheck 0] landet unglücklich, verdreht sich den Knöchel und fällt mit schmerzverzerrtem Gesicht zu Boden.</DefaultText>
+      <DefaultText>Deine Gefährten folgen dir&#160;… oder versuchen es zumindest. [SkillCheck 0] landet unglücklich, verdreht sich den Knöchel und fällt mit schmerzverzerrtem Gesicht zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@ Mit einem scharfen Schrei landet [SkillCheck 0] unsanft auf einem Dornengestrüp
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Deine Gefährten folgen dir ... oder versuchen es zumindest. [SkillCheck 1] landet unglücklich, verdreht sich den Knöchel und fällt mit schmerzverzerrtem Gesicht zu Boden.</DefaultText>
+      <DefaultText>Deine Gefährten folgen dir&#160;… oder versuchen es zumindest. [SkillCheck 1] landet unglücklich, verdreht sich den Knöchel und fällt mit schmerzverzerrtem Gesicht zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

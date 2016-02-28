@@ -38,7 +38,7 @@ Eine Stimme ertönt von überall gleichzeitig und die gewaltige Druckwelle jedes
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Ich tue nur, was ich tun muss, um zu überleben. Wenn man deswegen über mich urteilt ... nun, so sei es.“</DefaultText>
+      <DefaultText>„Ich tue nur, was ich tun muss, um zu überleben. Wenn man deswegen über mich urteilt&#160;… nun, so sei es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@ Eine Stimme ertönt von überall gleichzeitig und die gewaltige Druckwelle jedes
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Die Armee, die diese Zwerge ausgelöscht hat ... die Augenlosen ... sind sie dein?“</DefaultText>
+      <DefaultText>„Die Armee, die diese Zwerge ausgelöscht hat&#160;… die Augenlosen&#160;… sind sie dein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,7 +272,7 @@ Das Wasser um dich herum ist plötzlich eiskalt. Du spürst, wie es die Wärme a
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Ich habe den Mond zu mir hinabgerufen. Ionni Brathr. Es war ... gegen seinen Wunsch. Er wollte keine Vernunft annehmen. Wollte nicht auf mich hören.“</DefaultText>
+      <DefaultText>„Ich habe den Mond zu mir hinabgerufen. Ionni Brathr. Es war&#160;… gegen seinen Wunsch. Er wollte keine Vernunft annehmen. Wollte nicht auf mich hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +357,7 @@ Das Wasser um dich herum ist plötzlich eiskalt. Du spürst, wie es die Wärme a
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Selbst, wenn es ist, wie du sagst ... man kann nichts tun.“</DefaultText>
+      <DefaultText>„Selbst, wenn es ist, wie du sagst&#160;… man kann nichts tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,12 +412,12 @@ Das Wasser um dich herum ist plötzlich eiskalt. Du spürst, wie es die Wärme a
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>„Ich kenne einen Weg ... allerdings nur aus der Mitte der Höhle des Löwen heraus. Nur, wenn der Hammer ihres Meisters dir gehorcht.“</DefaultText>
+      <DefaultText>„Ich kenne einen Weg&#160;… allerdings nur aus der Mitte der Höhle des Löwen heraus. Nur, wenn der Hammer ihres Meisters dir gehorcht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Wenn dir all das gelingt ... wenn du aus den Überresten von Abydons Hammer das Werkzeug wiederherstellen und es in ihr Versteck bringen kannst ... dann kann ich dich anweisen, was du dort tun musst.“</DefaultText>
+      <DefaultText>„Wenn dir all das gelingt&#160;… wenn du aus den Überresten von Abydons Hammer das Werkzeug wiederherstellen und es in ihr Versteck bringen kannst&#160;… dann kann ich dich anweisen, was du dort tun musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,7 +634,7 @@ Vereinzelte Lichtstrahlen treffen von weit über dir auf grüngoldene Säulen au
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>„Das ... das haben wir wohl. Aber die Götter konnten schon immer viel größere Werke verbringen, wenn sie zusammenarbeiten.“
+      <DefaultText>„Das&#160;… das haben wir wohl. Aber die Götter konnten schon immer viel größere Werke verbringen, wenn sie zusammenarbeiten.“
 
 In der Nähe siehst du, wie ein Hai durch einen Schwarm Fische schwimmt. Die Fische stieben auseinander, um dem Räuber auszuweichen.</DefaultText>
       <FemaleText />
@@ -690,7 +690,7 @@ Das Licht verschwindet aus deiner Umgebung. Der Kelpwald wird zu einem Dickicht 
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>„Der Tod eines Gottes ist eine Katastrophe. Du lebst in den Nachwirkungen eines solchen Todes. Gewiss kannst du verstehen ...“</DefaultText>
+      <DefaultText>„Der Tod eines Gottes ist eine Katastrophe. Du lebst in den Nachwirkungen eines solchen Todes. Gewiss kannst du verstehen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -700,7 +700,7 @@ Das Licht verschwindet aus deiner Umgebung. Der Kelpwald wird zu einem Dickicht 
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>„Ich ... ja. Dafür habe ich ihn bewundert.“</DefaultText>
+      <DefaultText>„Ich&#160;… ja. Dafür habe ich ihn bewundert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,7 +772,7 @@ Du landest triefend nass auf dem steinernen Boden des Reliquiars und ringst nach
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>„Nach allem, was du über sie erfahren hast, über die Weiße Esse, über Abydon ... sei versichert, sie werden dich finden.“</DefaultText>
+      <DefaultText>„Nach allem, was du über sie erfahren hast, über die Weiße Esse, über Abydon&#160;… sei versichert, sie werden dich finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -792,7 +792,7 @@ Du landest triefend nass auf dem steinernen Boden des Reliquiars und ringst nach
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>„Und es gibt noch etwas viel Schlimmeres ... etwas, was viel furchterregender und gefährlicher ist als jeder Augenlose. Hoffen wir, dass du nicht seine Aufmerksamkeit auf dich ziehst.“</DefaultText>
+      <DefaultText>„Und es gibt noch etwas viel Schlimmeres&#160;… etwas, was viel furchterregender und gefährlicher ist als jeder Augenlose. Hoffen wir, dass du nicht seine Aufmerksamkeit auf dich ziehst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -817,7 +817,7 @@ Du landest triefend nass auf dem steinernen Boden des Reliquiars und ringst nach
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>„Wenn nicht, dann sei versichert ... sie werden dich finden, wie sie die Pargrunen gefunden haben.“
+      <DefaultText>„Wenn nicht, dann sei versichert&#160;… sie werden dich finden, wie sie die Pargrunen gefunden haben.“
 
 Eine unruhige Turbulenz stört die Ruhe wie ein unerwünschter Gedanke.</DefaultText>
       <FemaleText />
@@ -849,7 +849,7 @@ Eine unruhige Turbulenz stört die Ruhe wie ein unerwünschter Gedanke.</Default
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>„Die Entscheidungen von Göttern sind nicht weniger kompliziert als die von Sterblichen. Das ist kaum jemandem bewusst.“</DefaultText>
+      <DefaultText>„Die Entscheidungen eines Gottes sind nicht weniger kompliziert als die eines Sterblichen. Das ist nur wenigen bewusst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -859,7 +859,7 @@ Eine unruhige Turbulenz stört die Ruhe wie ein unerwünschter Gedanke.</Default
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>„Es ist gar nicht lange her, dass der Konflikt zwischen uns zu einer Katastrophe in eurer Welt führte ... und zum Tod eines der unseren.“</DefaultText>
+      <DefaultText>„Es ist gar nicht lange her, dass der Konflikt zwischen uns zu einer Katastrophe in eurer Welt führte&#160;… und zum Tod eines der unseren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,12 +884,12 @@ Eine unruhige Turbulenz stört die Ruhe wie ein unerwünschter Gedanke.</Default
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>„Es ist falsch, ihn zu täuschen. Von einer Göttin hätte ich mehr erwartet.“</DefaultText>
+      <DefaultText>„Es ist falsch, ihn zu täuschen. Von einem Gott hätte ich mehr erwartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>„Solange die Völker von Eora besser dran sind, wenn er sich nicht erinnert, ist das alles, was zählt.“</DefaultText>
+      <DefaultText>„Wenn die Völker von Eora besser dran sind, wenn er sich nicht erinnert, ist das alles, was zählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

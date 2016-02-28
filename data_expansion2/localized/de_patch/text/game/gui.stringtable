@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>71</EntryCount>
+  <EntryCount>70</EntryCount>
   <Entries>
     <Entry>
       <ID>1903</ID>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>2032</ID>
-      <DefaultText>Willst du {0} wirklich an {1} seelenbinden? Wenn die Bindung hergestellt ist, kann dieser Gegenstand nicht mehr von einem anderen Charakter ausgerüstet werden.</DefaultText>
+      <DefaultText>Willst du {0} wirklich an {1} seelenbinden? Wenn die Bindung hergestellt ist, kann dieser Gegenstand nicht mehr von einem anderen Charakter verwendet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>2048</ID>
-      <DefaultText>Diese Waffe binden,</DefaultText>
+      <DefaultText>Diese Waffe binden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>2083</ID>
-      <DefaultText>Will'O'Wisps</DefaultText>
+      <DefaultText>Irrlichter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>2092</ID>
-      <DefaultText>Animaten</DefaultText>
+      <DefaultText>Animate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>2298</ID>
-      <DefaultText>Belagerungsgeräte</DefaultText>
+      <DefaultText>Belagerungsausrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,11 +347,6 @@
     <Entry>
       <ID>2318</ID>
       <DefaultText>Weißsteinsenke</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2362</ID>
-      <DefaultText>Magran-Schrein</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

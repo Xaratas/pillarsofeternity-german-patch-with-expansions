@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Haeferic war mein Onkel. Ein guter, fleißiger Mann ... und du hast ihn getötet.“</DefaultText>
+      <DefaultText>„Haeferic war mein Onkel. Ein guter, fleißiger Mann&#160;… und du hast ihn getötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Wie dem auch sei ...“</DefaultText>
+      <DefaultText>„Wie dem auch sei&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

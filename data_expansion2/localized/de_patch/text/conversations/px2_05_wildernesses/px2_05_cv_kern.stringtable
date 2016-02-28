@@ -13,7 +13,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Ich glaube das alles einfach nicht ...“</DefaultText>
+      <DefaultText>„Ich glaube das alles einfach nicht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Mein Nachbar, Haddi ... Wir haben uns selbst an guten Tagen nicht verstanden. Dieser Streit um das Land, dass ich die Hälfte meines Eigentums verloren habe ... es ist ausgeartet.“</DefaultText>
+      <DefaultText>„Mein Nachbar, Haddi&#160;… Wir haben uns selbst an guten Tagen nicht verstanden. Dieser Streit um das Land, dass ich die Hälfte meines Eigentums verloren habe&#160;… es ist ausgeartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Bei den Göttern, nein ... was habe ich getan?“ Kern legt den Kopf in die Hände.
+      <DefaultText>„Bei den Göttern, nein&#160;… was habe ich getan?“ Kern legt den Kopf in die Hände.
 
 „Sie alle? Seine Familie?“</DefaultText>
       <FemaleText />
@@ -135,7 +135,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Richte deinen Zorn gegen diese Paladine! Was Haddi angeht ... bitte tu ihm nichts. Bitte!“</DefaultText>
+      <DefaultText>„Richte deinen Zorn gegen diese Paladine! Was Haddi angeht&#160;… bitte tu ihm nichts. Bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,7 +155,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Nicht um ihn zu töten! Ich war zornig, betrunken ... Haddi hat mich fast ruiniert. Aber deswegen will ich doch nicht seine Familie umbringen lassen!“</DefaultText>
+      <DefaultText>„Nicht um ihn zu töten! Ich war zornig, betrunken&#160;… Haddi hat mich fast ruiniert. Aber deswegen will ich doch nicht seine Familie umbringen lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,17 +180,17 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Hier ... nimm das. Und danke, dass du mir einen letzten Fleck auf meiner Seele erspart hast.“</DefaultText>
+      <DefaultText>„Hier&#160;… nimm das. Und danke, dass du mir einen letzten Fleck auf meiner Seele erspart hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Ich dachte, vielleicht würdest du ... alle töten. Ich bin so froh, dass ich mich getäuscht habe!“</DefaultText>
+      <DefaultText>„Ich dachte, vielleicht würdest du&#160;… alle töten. Ich bin so froh, dass ich mich getäuscht habe!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Nein, nein, das darf nicht ... Moment. Was ist mit ihrem Sohn? Eska?“</DefaultText>
+      <DefaultText>„Nein, nein, das darf nicht&#160;… Moment. Was ist mit ihrem Sohn? Eska?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Aber ... Hilft mir denn niemand?“</DefaultText>
+      <DefaultText>„Aber&#160;… Hilft mir denn niemand?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,7 +300,7 @@ Das Gesicht dieses Zwergs ist feucht und fleckig. Sein Ausbruch scheint ihn Kraf
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„W-was? Aber warum ...“
+      <DefaultText>„W-was? Aber warum&#160;…“
 
 Kerns Gesicht wird zornesrot. „Warum habe ich je geglaubt, dass du anders wärest? Du bist genauso ein Monster wie alle anderen! Verschwinde!“</DefaultText>
       <FemaleText />
@@ -312,9 +312,9 @@ Kerns Gesicht wird zornesrot. „Warum habe ich je geglaubt, dass du anders wär
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Eska? Haddis Sohn? Möge Hylea ihn schützen! Ich dachte ...“
+      <DefaultText>„Eska? Haddis Sohn? Möge Hylea ihn schützen! Ich dachte&#160;…“
 
-Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin ... dieser Wahnsinnige! Er sollte doch nie jemanden töten!“</DefaultText>
+Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin&#160;… dieser Wahnsinnige! Er sollte doch nie jemanden töten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,7 +364,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Ich muss verrückt sein, einen weiteren Düsteren Schreiter zu fragen. Aber wenn jemand ihn aufhalten kann ...“</DefaultText>
+      <DefaultText>„Ich muss verrückt sein, einen weiteren Düsteren Schreiter zu fragen. Aber wenn jemand ihn aufhalten kann&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,7 +399,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Die Götter mögen mir vergeben ...“</DefaultText>
+      <DefaultText>„Die Götter mögen mir vergeben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,8 +419,8 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Sie sind alle fort ... du ... du Verräter! Du hast nichts von dem getan, worum ich dich gebeten habe! Keine einzige Münze bekommst du von mir!“</DefaultText>
-      <FemaleText>„Sie sind alle fort ... du ... du Verräterin! Du hast nichts von dem getan, worum ich dich gebeten habe! Keine einzige Münze bekommst du von mir!“</FemaleText>
+      <DefaultText>„Sie sind alle fort&#160;… du&#160;… du Verräter! Du hast nichts von dem getan, worum ich dich gebeten habe! Keine einzige Münze bekommst du von mir!“</DefaultText>
+      <FemaleText>„Sie sind alle fort&#160;… du&#160;… du Verräterin! Du hast nichts von dem getan, worum ich dich gebeten habe! Keine einzige Münze bekommst du von mir!“</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
@@ -434,7 +434,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Ich bin zufällig bei Haddis Haus vorbeigekommen ...“</DefaultText>
+      <DefaultText>„Ich bin zufällig bei Haddis Haus vorbeigekommen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -444,7 +444,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„Oh, nein. Du musst mir glauben ... ich wusste es nicht! Ich wusste nicht, dass dieser Wahnsinnige Cevestin ein Düsterer Schreiter war!“</DefaultText>
+      <DefaultText>„Oh, nein. Du musst mir glauben&#160;… ich wusste es nicht! Ich wusste nicht, dass dieser Wahnsinnige Cevestin ein Düsterer Schreiter war!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Nicht um ihn zu töten! Ich war zornig, betrunken ... Haddi hat mich fast ruiniert. Aber deswegen will ich doch nicht seine Familie umbringen lassen!“</DefaultText>
+      <DefaultText>„Nicht um ihn zu töten! Ich war zornig, betrunken&#160;… Haddi hat mich fast ruiniert. Aber deswegen will ich doch nicht seine Familie umbringen lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Aber ... Hilft mir denn niemand?“</DefaultText>
+      <DefaultText>„Aber&#160;… Hilft mir denn niemand?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Eska ... dann sind sie alle fort. Wie konntest du das zulassen? Verschwinde! Weg von mir!“</DefaultText>
+      <DefaultText>„Eska&#160;… dann sind sie alle fort. Wie konntest du das zulassen? Verschwinde! Weg von mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,7 +531,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„He, du ... du hast doch die Batterie geöffnet, oder? Du hast einen von Renengilds Briefen bekommen und bist hergekommen ... vielleicht kannst du mir helfen?“</DefaultText>
+      <DefaultText>„He, du&#160;… du hast doch die Batterie geöffnet, oder? Du hast einen von Renengilds Briefen bekommen und bist hergekommen&#160;… vielleicht kannst du mir helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>„Was? ... Oh, ja, natürlich! Ich bezahle dich. Ich gebe dir, was der Düstere Schreiter verlangt hat.“</DefaultText>
+      <DefaultText>„Was?&#160;… Oh, ja, natürlich! Ich bezahle dich. Ich gebe dir, was der Düstere Schreiter verlangt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,7 +601,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„Eure Orden unterhalten sich wohl eher selten. Die Düsteren Schreiter ... soweit ich das verstehe, glaubt ihr Orden, dass Brutalität der beste Weg ist, um den Frieden zu wahren.“</DefaultText>
+      <DefaultText>„Eure Orden unterhalten sich wohl eher selten. Die Düsteren Schreiter&#160;… soweit ich das verstehe, glaubt ihr Orden, dass Brutalität der beste Weg ist, um den Frieden zu wahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -618,7 +618,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
       <ID>140</ID>
       <DefaultText>„Meistens reicht es, wenn sie sich zeigen. Sie werden dafür bezahlt, herumzustehen und gefährlich zu wirken.“
 
-„Ich ... ich verstehe nicht, warum Cevestin das tut.“</DefaultText>
+„Ich&#160;… ich verstehe nicht, warum Cevestin das tut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,7 +658,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>„Zunächst nicht. Nicht, bis es zu spät war. Ich hatte ein bisschen was getrunken, aber ... ich glaube, ich würde mich daran erinnern, wenn er es groß verkündet hatte.“</DefaultText>
+      <DefaultText>„Zunächst nicht. Nicht, bis es zu spät war. Ich hatte ein bisschen was getrunken, aber&#160;… ich glaube, ich würde mich daran erinnern, wenn er es groß verkündet hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -688,7 +688,7 @@ Kern wischt sich die Stirn ab. „Ich wollte nicht, dass das passiert. Cevestin 
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>„Bei den Göttern ... Haddi ... aber Eska lebt? Du hast ihn gerettet? Dann schulde ich dir dafür alles. Ich werde es nie wiedergutmachen können, aber ich werde es versuchen.“</DefaultText>
+      <DefaultText>„Bei den Göttern&#160;… Haddi&#160;… aber Eska lebt? Du hast ihn gerettet? Dann schulde ich dir dafür alles. Ich werde es nie wiedergutmachen können, aber ich werde es versuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

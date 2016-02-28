@@ -35,7 +35,7 @@ Zahuas weit aufgerissene Augen verfolgen die Bewegungen eines unsichtbaren Tiere
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Ich habe geschworen, zurückzukehren und mein Volk zu befreien, wenn ich einmal gelernt habe, zum Anitlei zu werden. Das ... dieser Löwe ... das ist es, worauf ich gewartet habe.“</DefaultText>
+      <DefaultText>„Ich habe geschworen, zurückzukehren und mein Volk zu befreien, wenn ich einmal gelernt habe, zum Anitlei zu werden. Das&#160;… dieser Löwe&#160;… das ist es, worauf ich gewartet habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@ Tiefe Sorgenfalten machen sich auf Zahuas üblicherweise gelassener Miene breit.
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Di verus? Das kann nicht dein Ernst sein ...“</DefaultText>
+      <DefaultText>„Di verus? Das kann nicht dein Ernst sein&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,7 +164,7 @@ Tiefe Sorgenfalten machen sich auf Zahuas üblicherweise gelassener Miene breit.
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Nach Wissen und Verständnis zu streben ist nie schlecht ...“</DefaultText>
+      <DefaultText>„Nach Wissen und Verständnis zu streben ist nie schlecht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Zahua sieht deinen Gesichtsausdruck und lacht.</DefaultText>
       <ID>41</ID>
       <DefaultText>Zahua verteilt die Kräutermischung. Einen großzügigen Teil davon behält er für sich selbst.
 
-Die Pflanzen geben ein Bouquet aus starken, widersprüchlichen Düften ab ... einige süß, einige scharf, mindestens einer, der dich sofort niesen lässt. Optisch sind sie dir größtenteils unbekannt.</DefaultText>
+Die Pflanzen geben ein Bouquet aus starken, widersprüchlichen Düften ab&#160;… einige süß, einige scharf, mindestens einer, der dich sofort niesen lässt. Optisch sind sie dir größtenteils unbekannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@ Die Pflanzen geben ein Bouquet aus starken, widersprüchlichen Düften ab ... ei
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Aber ich frage mich, ob es mich nicht auch stolz gemacht hat ... und töricht. Ob ich meine eigene Niederlage ignoriert habe, weil ich sie nicht für möglich hielt.“</DefaultText>
+      <DefaultText>„Aber ich frage mich, ob es mich nicht auch stolz gemacht hat&#160;… und töricht. Ob ich meine eigene Niederlage ignoriert habe, weil ich sie nicht für möglich hielt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@ Die Pflanzen geben ein Bouquet aus starken, widersprüchlichen Düften ab ... ei
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Der Stolz ist eine der einfachsten Fesseln. Eine der ersten, die die Nalpazca abwerfen. Wir verbringen Jahre damit, Werke von großer Schönheit zu erbauen ... und müssen sie dann vernichten.“
+      <DefaultText>„Der Stolz ist eine der einfachsten Fesseln. Eine der ersten, die die Nalpazca abwerfen. Wir verbringen Jahre damit, Werke von großer Schönheit zu erbauen&#160;… und müssen sie dann vernichten.“
 
 Zahua schüttelt den Kopf.</DefaultText>
       <FemaleText />
@@ -479,7 +479,7 @@ Zahua schüttelt den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Sie war die Gemahlin des Tacan-Häuptlings ... zumindest sollte sie es werden. Wenn die Tacan nicht gefallen wären.“</DefaultText>
+      <DefaultText>„Sie war die Gemahlin des Tacan-Häuptlings&#160;… zumindest sollte sie es werden. Wenn die Tacan nicht gefallen wären.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,7 +568,7 @@ Sein Gesicht ist angespannt, seine Haut nicht glatt wie sonst. Er sieht alt aus.
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>„Rache ist niemals der Pfad der Nalpazca. Sie führt von der Erleuchtung fort ... ins Leid.“</DefaultText>
+      <DefaultText>„Rache ist niemals der Pfad der Nalpazca. Sie führt von der Erleuchtung fort&#160;… ins Leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -637,7 +637,7 @@ Die Worte scheinen ihn zu überraschen.</DefaultText>
       <ID>130</ID>
       <DefaultText>Die leuchtenden Farben um dich herum scheinen trübe zu werden. Gegenstände bewegen sich und verwandeln sich wieder in ihre ursprüngliche Gestalt zurück.
 
-Zahua sieht aus wie immer ... dieselbe zerrissene Haut, dieselbe flüssige Körperhaltung.</DefaultText>
+Zahua sieht aus wie immer&#160;… dieselbe zerrissene Haut, dieselbe flüssige Körperhaltung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -703,7 +703,7 @@ Er starrt eine Weile in diese Richtung. Dann blickt er langsam zu dir auf.</Defa
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Zahua blickt auf den Staub auf seinen Händen. Er hält sie zusammen, die Handflächen nach oben, wie zu einer Schale geformt ... als würde er eine wichtige Weisheit seines Meisters beschützen wollen.
+      <DefaultText>Zahua blickt auf den Staub auf seinen Händen. Er hält sie zusammen, die Handflächen nach oben, wie zu einer Schale geformt&#160;… als würde er eine wichtige Weisheit seines Meisters beschützen wollen.
 
 Trotz seiner Bemühungen trägt der Wind die Überreste fort und er bleibt mit leeren Händen zurück. Er runzelt die Stirn.</DefaultText>
       <FemaleText />

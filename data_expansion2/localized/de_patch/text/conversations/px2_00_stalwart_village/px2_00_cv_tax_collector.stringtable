@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Bei den Göttern, ist das frostig. Bringen wir es schnell hinter uns. Ich würde ja auch in die Fischerei gehen, aber der Gestank ... bäh.“</DefaultText>
+      <DefaultText>„Bei den Göttern, ist das frostig. Bringen wir es schnell hinter uns. Ich würde ja auch in die Fischerei gehen, aber der Gestank&#160;… bäh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Ich will zuerst die Fischerei von Stalwart sehen ... meine Mandanten haben Sorge, dass sie ein Hindernis für Stalwarts Wohlstand darstellen könnte. Wir treffen uns davor.“</DefaultText>
+      <DefaultText>„Ich will zuerst die Fischerei von Stalwart sehen&#160;… meine Mandanten haben Sorge, dass sie ein Hindernis für Stalwarts Wohlstand darstellen könnte. Wir treffen uns davor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,7 +115,7 @@ Sie verneigt sich. „Vielen Dank für das Geleit, [Player Name]. Leb wohl!“</
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Eines muss ich mir noch ansehen ... die Weiße Esse. Ich würde gerne die Fähigkeiten der Schmiede bewerten, die dort arbeiten. Wir sehen uns dort.“</DefaultText>
+      <DefaultText>„Eines muss ich mir noch ansehen&#160;… die Weiße Esse. Ich würde gerne die Fähigkeiten der Schmiede bewerten, die dort arbeiten. Wir sehen uns dort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@ Sie verneigt sich. „Vielen Dank für das Geleit, [Player Name]. Leb wohl!“</
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Ich bin etwas besorgt ob dieses Zwischenfalls mit einigen Bergarbeitern. Irgendetwas löste bei ihnen verwirrtes, unberechenbares Verhalten aus. Es heißt, du hättest das Problem behoben ... möchtest du mich vielleicht aufklären?“</DefaultText>
+      <DefaultText>„Ich bin etwas besorgt ob dieses Zwischenfalls mit einigen Bergarbeitern. Irgendetwas löste bei ihnen verwirrtes, unberechenbares Verhalten aus. Es heißt, du hättest das Problem behoben&#160;… möchtest du mich vielleicht aufklären?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@ Sie verneigt sich. „Vielen Dank für das Geleit, [Player Name]. Leb wohl!“</
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Hmmm ... eine pragmatische Antwort. Ich sorge dafür, dass die Fischerei geöffnet bleibt, falls es Beschwerden deswegen gibt.“</DefaultText>
+      <DefaultText>„Hmmm&#160;… eine pragmatische Antwort. Ich sorge dafür, dass die Fischerei geöffnet bleibt, falls es Beschwerden deswegen gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@ Sie verneigt sich. „Vielen Dank für das Geleit, [Player Name]. Leb wohl!“</
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Er wollte mit einem Mord davonkommen ... ich habe es ihm nicht erlaubt.“</DefaultText>
+      <DefaultText>„Er wollte mit einem Mord davonkommen&#160;… ich habe es ihm nicht erlaubt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,7 +280,7 @@ Sie verneigt sich. „Vielen Dank für das Geleit, [Player Name]. Leb wohl!“</
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Du fängst an, meine Zeit zu vergeuden ...“</DefaultText>
+      <DefaultText>„Du fängst an, meine Zeit zu vergeuden&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,14 +340,14 @@ Sie verneigt sich. „Vielen Dank für das Geleit, [Player Name]. Leb wohl!“</
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Aber diese Schmiede, die in der Esse arbeiten ... welche Qualifikationen haben sie? Wer hat sie ausgebildet? Die Esse wird doch sicher nicht so effektiv genutzt, wie sie es eigentlich könnte.“
+      <DefaultText>„Aber diese Schmiede, die in der Esse arbeiten&#160;… welche Qualifikationen haben sie? Wer hat sie ausgebildet? Die Esse wird doch sicher nicht so effektiv genutzt, wie sie es eigentlich könnte.“
 
 „Ich glaube, es wäre profitabler für alle, wenn Schmiede von Burg Schmelztiegel den Betrieb hier leiten würden. Stimmst du mir da nicht zu?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„So lange die neuen Schmiede ihre Erfahrung teilen anstatt einfach alles zu übernehmen ... wäre das eine gute Idee.“</DefaultText>
+      <DefaultText>„So lange die neuen Schmiede ihre Erfahrung teilen anstatt einfach alles zu übernehmen&#160;… wäre das eine gute Idee.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

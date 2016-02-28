@@ -93,7 +93,7 @@ Die überraschende Geschwindigkeit hilft euch. Ihr rennt mit dem Rammbock auf da
       <ID>18</ID>
       <DefaultText>Ihr sammelt eure Kräfte, packt den Baumstamm und rennt schneller.
 
-Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 0] schwindet und ein Pfeil findet sein Ziel ... er trifft [SkillCheck 0] am Bein.</DefaultText>
+Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 0] schwindet und ein Pfeil findet sein Ziel&#160;… er trifft [SkillCheck 0] am Bein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,7 +252,7 @@ Ihr schwingt den Rammbock nach vorne und die Tore geben mit einem gewaltigen Kra
       <ID>56</ID>
       <DefaultText>Ihr sammelt eure Kräfte, packt den Baumstamm und rennt schneller.
 
-Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 1] schwindet und ein Pfeil findet sein Ziel ... er trifft [SkillCheck 1] im Bein.</DefaultText>
+Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 1] schwindet und ein Pfeil findet sein Ziel&#160;… er trifft [SkillCheck 1] im Bein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,7 +322,7 @@ Die überraschende Geschwindigkeit hilft euch. Ihr rennt mit dem Rammbock auf da
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Du hast einen Atemzug Zeit, um zu entscheiden, welchem deiner Gefährten du zur Seite springst ...</DefaultText>
+      <DefaultText>Du hast einen Atemzug Zeit, um zu entscheiden, welchem deiner Gefährten du zur Seite springst&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

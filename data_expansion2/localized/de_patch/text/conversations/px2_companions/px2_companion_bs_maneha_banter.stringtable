@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„All die Zeit auf den Meeren ... du hast gewiss viele Geschichten zu erzählen.“</DefaultText>
+      <DefaultText>„All die Zeit auf den Meeren&#160;… du hast gewiss viele Geschichten zu erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Weißt du, Maneha ... ich ... du bist wirklich gut auf dem Schlachtfeld.“</DefaultText>
+      <DefaultText>„Weißt du, Maneha&#160;… ich&#160;… du bist wirklich gut auf dem Schlachtfeld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ach, das ist ab- ... Moment mal, willst du mir den Hof machen?“</DefaultText>
+      <DefaultText>„Ach, das ist ab-&#160;… Moment mal, willst du mir den Hof machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Wie du möchtest. Sie hat dir die ganze Zeit schöne Augen gemacht, da dachte ich ...“</DefaultText>
+      <DefaultText>„Wie du möchtest. Sie hat dir die ganze Zeit schöne Augen gemacht, da dachte ich&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Ähh ... sciòderie. Tonderie? Agh. Be cente com ane niscàmonet.“</DefaultText>
+      <DefaultText>„Ähh&#160;… sciòderie. Tonderie? Agh. Be cente com ane niscàmonet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Ich hätte nicht erwartet, dass eine seeschlampenanbetende Seeschlampe es versteht ...“</DefaultText>
+      <DefaultText>„Ich hätte nicht erwartet, dass eine seeschlampenanbetende Seeschlampe es versteht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

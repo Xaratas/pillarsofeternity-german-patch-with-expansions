@@ -1503,7 +1503,7 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2278</ID>
-      <DefaultText>Dieser Leinensack enthält den Kopf von Roedwith, Anführer von Magrans Anhängern.</DefaultText>
+      <DefaultText>Dieser Leinensack enthält den Kopf von Roedwith, Anführerin von Magrans Anhängern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1528,7 +1528,7 @@ Die andere Seite sieht aus wie ein Gedicht, ist aber von Schmutz bedeckt und nic
     </Entry>
     <Entry>
       <ID>2314</ID>
-      <DefaultText>Adaryc Cendamyr, der einzige überlebende Sohn eines Leibeigenen, war einer von unzähligen Readceranern, der sich bei Ausbruch des Kriegs des Heiligen Waidwens Armee angeschlossen hat. Trotz seiner Jugend und Unerfahrenheit schlug Adaryc sich auf dem Schlachtfeld gut und war wegen seiner Vernunft, Leidenschaft und Loyalität bald äußerst beliebt bei seinen Kameraden. Entschlossen, Waidwen zu ehren, erwies Adaryc sich als disziplinierter und engagierter Soldat.</DefaultText>
+      <DefaultText>Adaryc Cendamyr, der einzige überlebende Sohn eines Leibeigenen, war einer von unzähligen Readceranern, der sich bei Ausbruch des „Kriegs des Heiligen“ Waidwens Armee angeschlossen hat. Trotz seiner Jugend und Unerfahrenheit schlug Adaryc sich auf dem Schlachtfeld gut und war wegen seiner Vernunft, Leidenschaft und Loyalität bald äußerst beliebt bei seinen Kameraden. Entschlossen, Waidwen zu ehren, erwies Adaryc sich als disziplinierter und engagierter Soldat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1812,7 +1812,7 @@ Die Berge sind wunderschön. Ich hoffe, dass du bald mit eigenen Augen sehen kan
     </Entry>
     <Entry>
       <ID>2396</ID>
-      <DefaultText>„Der Artillerieaufzug bleibt bis auf weiteres geschlossen. Die Zahnränder fangen an zu rosten und ein Versagen des Mechanismus könnte katastrophale Folgen haben. Trankmeister Andren arbeitet daran, die Zahnräder zu patinieren, um sie wetterfest zu machen.“</DefaultText>
+      <DefaultText>„Der Artillerieaufzug bleibt bis auf weiteres geschlossen. Die Zahnräder fangen an zu rosten und ein Versagen des Mechanismus könnte katastrophale Folgen haben. Trankmeister Andren arbeitet daran, die Zahnräder zu patinieren, um sie wetterfest zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1912,7 +1912,7 @@ Die Berge sind wunderschön. Ich hoffe, dass du bald mit eigenen Augen sehen kan
     </Entry>
     <Entry>
       <ID>2460</ID>
-      <DefaultText>Diesen Wasserschlauch hat dir ein Mann in Zahuas Vision gegeben. Er hat dich gebeten, in an einem Wasserfall in der Weißsteinsenke zu füllen.</DefaultText>
+      <DefaultText>Diesen Wasserschlauch hat dir ein Mann in Zahuas Vision gegeben. Er hat dich gebeten, ihn an einem Wasserfall in der Weißsteinsenke zu füllen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1989,7 +1989,7 @@ Trotz seiner Proteste wurde Lirat als Held gefeiert. Die Kunde von seiner Tat ve
     </Entry>
     <Entry>
       <ID>2503</ID>
-      <DefaultText>Dieser Mantel erlaubt es Steuereintreibern im ganzen Dyrwald, sich in die Geldbörsen und Bücher ehrlicher Leute zu schleichen.</DefaultText>
+      <DefaultText>Dieser Mantel erlaubt es Steuereintreibern im ganzen Dyrwald, an die Geldbörsen und Bücher ehrlicher Leute heranzukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2036,7 +2036,7 @@ Trotz seiner Proteste wurde Lirat als Held gefeiert. Die Kunde von seiner Tat ve
       <ID>2515</ID>
       <DefaultText>„Welch seltsamen und wunderbaren Ort wir gefunden haben!
 
-Unsere Väter und Mütter haben entschieden, dass eine gute Verteidigung hier unsere oberste Priorität sein sollte. Wir haben daher hohe, robuste Mauern gebaut und in der Esse Kanonen gegossen. Doch so hoch unsere Mauern auch sind, die Berge sind noch höher. Auf Gabels genialen Vorschlag hin haben wir daher einen hohen Turm erreicht und unsere besten Kanonen darauf in Position gebracht. Mit dieser Verteidigung kann keine Armee der Welt uns belagern!
+Unsere Väter und Mütter haben entschieden, dass eine gute Verteidigung hier unsere oberste Priorität sein sollte. Wir haben daher hohe, robuste Mauern gebaut und in der Esse Kanonen gegossen. Doch so hoch unsere Mauern auch sind, die Berge sind noch höher. Auf Gabels genialen Vorschlag hin haben wir daher einen hohen Turm errichtet und unsere besten Kanonen darauf in Position gebracht. Mit dieser Verteidigung kann keine Armee der Welt uns belagern!
 
 Wir sind jedoch auf ein Problem gestoßen. Beißende Winde und heftige Schneestürme peitschen Tag und Nacht um die Spitze des Turmes, in jeder Jahreszeit. Sie lassen nicht nur unsere Wachposten frieren, sondern auch die Kanonen. Wir haben einen Heizkessel gebaut, der sie beide erwärmen kann, genährt von der Hitze der Esse. Es war jedoch schwieriger als erwartet, ihn am richtigen Ort zu platzieren. Unser erster Versuch hat zu viel Rauch in der Esse selbst eingesperrt. Unser zweiter hat sich durch die Hitze verformt&#160;… und zwar derart, dass der Heizkessel fast in die Esse gestürzt wäre! Was für ein Desaster das gewesen wäre.
 
@@ -2080,7 +2080,7 @@ Alt und gebrechlich, wie Durgan war, verbrachte er einen Tag und eine Nacht alle
     </Entry>
     <Entry>
       <ID>2524</ID>
-      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Verbrennungsschaden.</DefaultText>
+      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Verbrennungsschaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Gott, wie groß sie waren ...“</DefaultText>
+      <DefaultText>„Gott, wie groß sie waren&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Du hast uns gerettet ... schon wieder!“</DefaultText>
+      <DefaultText>„Du hast uns gerettet&#160;… schon wieder!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1307,7 +1307,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Mit deiner Unterstützung konnte {0} sein Treffen mit dem Fischerkranich-Stamm erreichen. {0} schickt Grüße und verspricht, deine Festung bald wieder zu besuchen.</DefaultText>
+      <DefaultText>Mit deiner Unterstützung hat es {0} zu seinem Treffen mit dem Fischerkranich-Stamm geschafft. {0} schickt Grüße und verspricht, deine Festung bald wieder zu besuchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1342,7 +1342,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>{1} kehrte nach Dyrfurt zurück, wo er mit viel Feindseligkeit empfangen wurde, die Situation aber entschärften konnte. Dank deiner Hilfe konnte er seine Schulden zurückzahlen.</DefaultText>
+      <DefaultText>{1} kehrte nach Dyrfurt zurück, wo er mit viel Feindseligkeit empfangen wurde, die Situation aber entschärfen konnte. Dank deiner Hilfe konnte er seine Schulden zurückzahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1357,7 +1357,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>{0} bricht mit {1} auf, um ihn die Vailianischen Republiken zu geleiten.</DefaultText>
+      <DefaultText>{0} bricht mit {1} auf, um ihn in die Vailianischen Republiken zu geleiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1422,7 +1422,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>{1} tritt mit deinem Geld in der Hand den Heimweg an, entschlossen, damit Söldner anzuheuern.</DefaultText>
+      <DefaultText>{1} tritt mit deinem Geld in der Tasche den Heimweg an, entschlossen, damit Söldner anzuheuern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1487,7 +1487,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>{0} ein Sklaventreiber aus Readceras, ist in deiner Festung erschienen und hat deinen geschäftlichen Rat erbeten.</DefaultText>
+      <DefaultText>{0}, ein Sklaventreiber aus Readceras, ist in deiner Festung erschienen und hat deinen geschäftlichen Rat erbeten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1497,7 +1497,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Mit deinem Geld in der Hand eilt {1} zum nächsten Hafen.</DefaultText>
+      <DefaultText>Mit deinem Geld in der Tasche eilt {1} zum nächsten Hafen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

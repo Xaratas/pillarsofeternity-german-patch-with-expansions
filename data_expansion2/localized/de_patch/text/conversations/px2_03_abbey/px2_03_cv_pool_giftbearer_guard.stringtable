@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Leben Sie wohl.“</DefaultText>
+      <DefaultText>„Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Soweit ich weiß einfach immer geradeaus. Der mittlere Pfad auf der rechten Seite, mit dem kaputten Bogen.
+      <DefaultText>„Soweit ich weiß einfach immer geradeaus. Der mittlere Pfad auf der rechten Seite, mit dem kaputten Bogen.“
 
 „Wenn sie dich hineinlassen. Ondriten sind nur zu ihresgleichen einigermaßen freundlich.“</DefaultText>
       <FemaleText />
@@ -107,7 +107,7 @@ Er zuckt mit den Schultern, als wäre das selbstverständlich.</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Was ist da drin passiert? Ich war ... Moment, was ist das!“</DefaultText>
+      <DefaultText>„Was ist da drin passiert? Ich war&#160;… Moment, was ist das!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@ Er beißt mit grimmiger Miene auf seine Pfeife.</DefaultText>
       <ID>28</ID>
       <DefaultText>„Und was hat eine Abtei schon, das sich zu verstecken lohnt? Mönche?“
 
-Er grunzt noch einmal und schüttelt den Kopf und murmelt „Wenn ich ein wenig jünger wäre ...“.</DefaultText>
+Er grunzt noch einmal und schüttelt den Kopf und murmelt „Wenn ich ein wenig jünger wäre&#160;…“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

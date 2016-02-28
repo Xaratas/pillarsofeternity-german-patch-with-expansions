@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ihr Verstand ist krank ... infiziert. Sie sind nicht sie selbst, Wächter.“</DefaultText>
-      <FemaleText>„Ihr Verstand ist krank ... infiziert. Sie sind nicht sie selbst, Wächterin.“</FemaleText>
+      <DefaultText>„Ihr Verstand ist krank&#160;… infiziert. Sie sind nicht sie selbst, Wächter.“</DefaultText>
+      <FemaleText>„Ihr Verstand ist krank&#160;… infiziert. Sie sind nicht sie selbst, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Ich weiß, dass die Gestandenen hier oben etwas seltsam wirken können, aber ... irgendetwas stimmt hier nicht.“</DefaultText>
+      <DefaultText>„Ich weiß, dass die Gestandenen hier oben etwas seltsam wirken können, aber&#160;… irgendetwas stimmt hier nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

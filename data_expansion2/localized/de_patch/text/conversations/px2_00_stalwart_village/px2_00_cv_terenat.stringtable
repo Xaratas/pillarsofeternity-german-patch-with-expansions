@@ -95,7 +95,7 @@ Der Vithrack grunzt rasselnd und verstummt dann.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Eine Infektion hat unser Volk dahingerafft. Es begann, als die Späher eine seltsame Pflanze fanden. Einen ... Strahlenpilz.“</DefaultText>
+      <DefaultText>„Eine Infektion hat unser Volk dahingerafft. Es begann, als die Späher eine seltsame Pflanze fanden. Einen&#160;… Strahlenpilz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,12 +145,12 @@ Der Vithrack grunzt rasselnd und verstummt dann.</DefaultText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Die Tür zu dieser Kammer ist durch eine Glyphe versiegelt. Es gibt einen Kristall, der in einem bestimmten Ton resoniert, wenn man ihn vor die Glyphe hält ... dadurch öffnen sich die Türen.“</DefaultText>
+      <DefaultText>„Die Tür zu dieser Kammer ist durch eine Glyphe versiegelt. Es gibt einen Kristall, der in einem bestimmten Ton resoniert, wenn man ihn vor die Glyphe hält&#160;… dadurch öffnen sich die Türen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Ich habe ihn in den Nestern im Süden versteckt. Die ... Säulen aus Netz. An der Stelle, die am weitesten von der Tür entfernt ist.“</DefaultText>
+      <DefaultText>„Ich habe ihn in den Nestern im Süden versteckt. Die&#160;… Säulen aus Netz. An der Stelle, die am weitesten von der Tür entfernt ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +199,7 @@ Du spürst den Ärger des Vithracks als wäre es dein eigener. Er strahlt Frust 
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Ich ... habe etwas Wichtiges versteckt. Den Resonanzkristall.“</DefaultText>
+      <DefaultText>„Ich&#160;… habe etwas Wichtiges versteckt. Den Resonanzkristall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,17 +286,17 @@ Du spürst den Ärger des Vithracks als wäre es dein eigener. Er strahlt Frust 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über ... schwächere Geister verstärkt.“</DefaultText>
+      <DefaultText>„Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über&#160;… schwächere Geister verstärkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein ... sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten.“</DefaultText>
+      <DefaultText>„Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein&#160;… sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>„Es ist ... Irrsinn.“
+      <DefaultText>„Es ist&#160;… Irrsinn.“
 
 Du spürst eine Welle der Reue von dem Vithrack ausgehen.</DefaultText>
       <FemaleText />
@@ -308,7 +308,7 @@ Du spürst eine Welle der Reue von dem Vithrack ausgehen.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Wir nannten es das Geschöpf, denn es hatte ein Licht an sich ... ich habe ähnliche Tiere in den Höhlen gesehen, aber noch nie eines wie dieses.“</DefaultText>
+      <DefaultText>„Wir nannten es das Geschöpf, denn es hatte ein Licht an sich&#160;… ich habe ähnliche Tiere in den Höhlen gesehen, aber noch nie eines wie dieses.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,7 +318,7 @@ Du spürst eine Welle der Reue von dem Vithrack ausgehen.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Ich war ... vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren.“</DefaultText>
+      <DefaultText>„Ich war&#160;… vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,7 +432,7 @@ Seine Sprache bildet sich mit einem gleichmäßigen, tiefen Ton in deinen Gedank
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>„Ich war ... vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren.“</DefaultText>
+      <DefaultText>„Ich war&#160;… vorsichtig. Ich habe nichts zu mir genommen. Manche wurden von den Infizierten gezwungen, die Sporen zu inhalieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,7 +449,7 @@ Du spürst einen schwachen Puls der Scham unter diesem Eingeständnis.</DefaultT
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>„Eine Infektion hat mein Volk krank gemacht. Es begann, als die Späher eine seltsame Pflanze fanden. Einen ... Strahlenpilz.“</DefaultText>
+      <DefaultText>„Eine Infektion hat mein Volk krank gemacht. Es begann, als die Späher eine seltsame Pflanze fanden. Einen&#160;… Strahlenpilz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,27 +474,27 @@ Du spürst einen schwachen Puls der Scham unter diesem Eingeständnis.</DefaultT
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>„Ich ... habe etwas Wichtiges versteckt. Den Resonanzkristall.“</DefaultText>
+      <DefaultText>„Ich&#160;… habe etwas Wichtiges versteckt. Den Resonanzkristall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>„Derselbe, den du verwendet hast, um das Gemeinschaftshaus zu betreten und den Strahlenpilz zu besiegen. Ich wollte mein Volk vor dem Pilz beschützen ... es weckte aber nur Verzweiflung in ihnen.“</DefaultText>
+      <DefaultText>„Derselbe, den du verwendet hast, um das Gemeinschaftshaus zu betreten und den Strahlenpilz zu besiegen. Ich wollte mein Volk vor dem Pilz beschützen&#160;… es weckte aber nur Verzweiflung in ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>„Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über ... schwächere Geister verstärkt.“</DefaultText>
+      <DefaultText>„Lange Zeit haben wir die Tunnel der Gestandenen einfach gemieden. Aber die Infektion hat die Macht meines Volkes über&#160;… schwächere Geister verstärkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein, ohne es überhaupt zu wollen ... sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten.“</DefaultText>
+      <DefaultText>„Die Infizierten breiten ihre Gedanken aus, ihr Bewusstsein, ohne es überhaupt zu wollen&#160;… sie finden sich in fremden, weichen Körpern wieder und es schert sie nicht, welchen Schaden sie anrichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Es war ... Irrsinn.“
+      <DefaultText>„Es war&#160;… Irrsinn.“
 
 Du spürst eine Welle der Reue von dem Vithrack ausgehen.</DefaultText>
       <FemaleText />

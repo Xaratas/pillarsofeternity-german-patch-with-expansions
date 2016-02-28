@@ -13,7 +13,7 @@ Der Kommandant des Eisenflegels ist ein junger, drahtiger Mann. Seine braunen Ha
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Was ...? Natürlich. Diese Feiglinge hätten die Kanonen niemals allein erobern können!“</DefaultText>
+      <DefaultText>„Was&#160;…? Natürlich. Diese Feiglinge hätten die Kanonen niemals allein erobern können!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -25,7 +25,7 @@ Der Kommandant des Eisenflegels ist ein junger, drahtiger Mann. Seine braunen Ha
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Eine plötzliche Welle von Erinnerungen durchflutet deinen Verstand, so klar wie an dem Tag, an dem sie gebildet wurden ...
+      <DefaultText>Eine plötzliche Welle von Erinnerungen durchflutet deinen Verstand, so klar wie an dem Tag, an dem sie gebildet wurden&#160;…
 
 Du siehst Odemas Lager, von dem Bîawac verwüstet. Die Hallen von Caed Nua.</DefaultText>
       <FemaleText />
@@ -49,7 +49,7 @@ Du siehst Odemas Lager, von dem Bîawac verwüstet. Die Hallen von Caed Nua.</De
       <ID>13</ID>
       <DefaultText>„Ja. Und ich werde schon bald wissen, wer du bist.“
 
-Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne ungebeten, sich auszubreiten, als hättest du dich nach einer Essenzquelle ausgestreckt ...</DefaultText>
+Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne ungebeten, sich auszubreiten, als hättest du dich nach einer Essenzquelle ausgestreckt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@ Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne u
       <ID>31</ID>
       <DefaultText>Einige Augenblicke lang herrscht in der Hütte völliges Schweigen.
 
-Dann hörst du das Schaben von Metall, als Adaryc sein Schwert aufhebt ... und flach auf seine Handflächen legt.</DefaultText>
+Dann hörst du das Schaben von Metall, als Adaryc sein Schwert aufhebt&#160;… und flach auf seine Handflächen legt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Diese gewaltige Zerstörung, die wir gesehen haben ... Glaubst du wirklich, dass ein paar törichte Hinterwäldler dazu in der Lage sind?“</DefaultText>
+      <DefaultText>„Diese gewaltige Zerstörung, die wir gesehen haben&#160;… Glaubst du wirklich, dass ein paar törichte Hinterwäldler dazu in der Lage sind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,15 +177,15 @@ Seelenenergie wabert durch die Luft und du hörst das Schaben von Metall, als Ad
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Einen unangenehmen Augenblick lang spürst du, wie euer verbundenes Bewusstsein sich in sich selbst zurückzieht ... dann wird die Verbindung gekappt.
+      <DefaultText>Einen unangenehmen Augenblick lang spürst du, wie euer verbundenes Bewusstsein sich in sich selbst zurückzieht&#160;… dann wird die Verbindung gekappt.
 
 Adaryc sieht überrascht aus. Sein Gesicht ist aschfahl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Du bist ...“, Adaryc räuspert sich. „Du bist der Wächter von Caed Nua? Es hieß, er wäre ein seniler Eremit.“</DefaultText>
-      <FemaleText>„Du bist ...“, Adaryc räuspert sich. „Du bist die Wächterin von Caed Nua? Es hieß, der Wächter wäre ein seniler Eremit.“</FemaleText>
+      <DefaultText>„Du bist&#160;…“, Adaryc räuspert sich. „Du bist der Wächter von Caed Nua? Es hieß, er wäre ein seniler Eremit.“</DefaultText>
+      <FemaleText>„Du bist&#160;…“, Adaryc räuspert sich. „Du bist die Wächterin von Caed Nua? Es hieß, der Wächter wäre ein seniler Eremit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -224,7 +224,7 @@ Adaryc sieht überrascht aus. Sein Gesicht ist aschfahl.</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Ich gehe nicht ohne sie. Tritt beiseite, sonst ...“</DefaultText>
+      <DefaultText>„Ich gehe nicht ohne sie. Tritt beiseite, sonst&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,8 +283,8 @@ Er zieht seine Klinge und seine Männer tun es ihm gleich.</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Ich weiß nicht, wem du zu helfen glaubst, Fürst von Caed Nua ... aber du hättest nicht herkommen sollen.“</DefaultText>
-      <FemaleText>„Ich weiß nicht, wem du zu helfen glaubst, Fürstin von Caed Nua ... aber du hättest nicht herkommen sollen.“</FemaleText>
+      <DefaultText>„Ich weiß nicht, wem du zu helfen glaubst, Fürst von Caed Nua&#160;… aber du hättest nicht herkommen sollen.“</DefaultText>
+      <FemaleText>„Ich weiß nicht, wem du zu helfen glaubst, Fürstin von Caed Nua&#160;… aber du hättest nicht herkommen sollen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
@@ -319,12 +319,12 @@ Du steigst eine Wendeltreppe hinauf, auf einen Turm, der die Wolken spaltet.</De
       <ID>89</ID>
       <DefaultText>In den Höhlen unter der Festung brüllt der Stein um dich herum Warnungen in einer toten Sprache.
 
-Noch tiefer im Fels klafft ein Schlund voller Zähne wie eine Wunde in der Welt ...</DefaultText>
+Noch tiefer im Fels klafft ein Schlund voller Zähne wie eine Wunde in der Welt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Gaun ... vergib mir ...“</DefaultText>
+      <DefaultText>„Gaun&#160;… vergib mir&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,7 +407,7 @@ Langsam beschleicht dich das Gefühl, als würdest du beobachtet werden.</Defaul
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Du lenkst deine Sinne und verfolgst die Invasion zurück zu ihrem Ursprung ... Adaryc. Überzeugung brennt in ihm, so hell wie ein Leuchtfeuer.
+      <DefaultText>Du lenkst deine Sinne und verfolgst die Invasion zurück zu ihrem Ursprung&#160;… Adaryc. Überzeugung brennt in ihm, so hell wie ein Leuchtfeuer.
 
 Einen Augenblick lang teilst du seine Emotionen und eine Verzweiflung ohne Herkunft schießt durch deinen Schädel.</DefaultText>
       <FemaleText />
@@ -450,7 +450,7 @@ Neben dir sieht Adaryc überrascht aus, sein Gesicht aschfahl.</DefaultText>
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Readceras hat genug gelitten. Seine Söhne und Töchter haben nichts. Wir ...“
+      <DefaultText>„Readceras hat genug gelitten. Seine Söhne und Töchter haben nichts. Wir&#160;…“
 
 Er blickt Edér an. Sein Kiefer mahlt.</DefaultText>
       <FemaleText />
@@ -543,14 +543,14 @@ Du hörst das Knarzen von Rüstungen, als seine Soldaten ihre Waffen bereitmache
       <ID>144</ID>
       <DefaultText>Adaryc hält inne.
 
-„Dass du Vieles gesehen und Vieles getan hast. Dinge, die ich ... ansonsten nicht geglaubt hätte.“</DefaultText>
+„Dass du Vieles gesehen und Vieles getan hast. Dinge, die ich&#160;… ansonsten nicht geglaubt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
       <DefaultText>Adaryc hält inne.
 
-„Und dass du Vieles gesehen und Vieles getan hast. Dinge, die ich ... ansonsten nicht geglaubt hätte.“</DefaultText>
+„Und dass du Vieles gesehen und Vieles getan hast. Dinge, die ich&#160;… ansonsten nicht geglaubt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,7 +560,7 @@ Du hörst das Knarzen von Rüstungen, als seine Soldaten ihre Waffen bereitmache
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Die Erinnerungen, die ich gesehen habe ... einige davon können nicht die deinen sein. Du bist erweckt, nicht wahr?“</DefaultText>
+      <DefaultText>„Die Erinnerungen, die ich gesehen habe&#160;… einige davon können nicht die deinen sein. Du bist erweckt, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,12 +580,12 @@ Du hörst das Knarzen von Rüstungen, als seine Soldaten ihre Waffen bereitmache
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Was wir verloren haben ... wir wurden im Stich gelassen. Wenn es je ein besseres Land für unsere Kinder geben soll, wird das unser gesamtes Leben dauern.“</DefaultText>
+      <DefaultText>„Was wir verloren haben&#160;… wir wurden im Stich gelassen. Wenn es je ein besseres Land für unsere Kinder geben soll, wird das unser gesamtes Leben dauern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>„Wir haben schon gesehen, dass Stalwart zu lügen bereit ist. Und wir ... wir sind gekommen, um Readceras zu retten.“</DefaultText>
+      <DefaultText>„Wir haben schon gesehen, dass Stalwart zu lügen bereit ist. Und wir&#160;… wir sind gekommen, um Readceras zu retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -637,7 +637,7 @@ Adaryc geht einige Schritte, bevor er sich fängt.</DefaultText>
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>„Dann hast du es wirklich gespürt. Ich ... bin noch nie einem anderen-“</DefaultText>
+      <DefaultText>„Dann hast du es wirklich gespürt. Ich&#160;… bin noch nie einem anderen-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +652,7 @@ Adaryc geht einige Schritte, bevor er sich fängt.</DefaultText>
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>„Ha. Das ganze Chaos draußen ... einen Augenblick lang habe ich dir geglaubt, Weib.“ Sein Stiefel schlägt hart auf das Gitter.</DefaultText>
+      <DefaultText>„Ha. Das ganze Chaos draußen&#160;… einen Augenblick lang habe ich dir geglaubt, Weib.“ Sein Stiefel schlägt hart auf das Gitter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,35 +669,35 @@ Der Kommandant des Eisenflegels ist ein junger, drahtiger Mann. Seine braunen Ha
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Ungebeten schweifen deine Sinne ab, als hättest du sie nach einer Essenzquelle ausgestreckt. Du spürst ein Zerren in deiner Brust, ein fast schmerzhaftes Gefühl, nach vorne gezogen zu werden ...</DefaultText>
+      <DefaultText>Ungebeten schweifen deine Sinne ab, als hättest du sie nach einer Essenzquelle ausgestreckt. Du spürst ein Zerren in deiner Brust, ein fast schmerzhaftes Gefühl, nach vorne gezogen zu werden&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
       <DefaultText>„Ja. Und du schleichst durch mein Lag-“
 
-Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist ... bis du es selbst zu spüren beginnst.</DefaultText>
+Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist&#160;… bis du es selbst zu spüren beginnst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
       <DefaultText>„Du willst reden? Dann leg deine Wa-“
 
-Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist ... bis du es selbst zu spüren beginnst.</DefaultText>
+Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist&#160;… bis du es selbst zu spüren beginnst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
       <DefaultText>„Dafür wirst du bezahl-“
 
-Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist ... bis du es selbst zu spüren beginnst.</DefaultText>
+Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist&#160;… bis du es selbst zu spüren beginnst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
       <DefaultText>„Wertlose Hunde! Ich hätte euch-“
 
-Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist ... bis du es selbst zu spüren beginnst.</DefaultText>
+Adaryc bleiben die Worte im Halse stecken, seine Miene ist wie versteinert. Es ist unklar, was geschehen ist&#160;… bis du es selbst zu spüren beginnst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,7 +724,7 @@ Adaryc berührt mit schmerzverzerrter Miene seine Stirn.</DefaultText>
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>„Über unsere ... gemeinsame Begabung ...“</DefaultText>
+      <DefaultText>„Über unsere&#160;… gemeinsame Begabung&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -744,7 +744,7 @@ Adaryc berührt mit schmerzverzerrter Miene seine Stirn.</DefaultText>
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>„Ich ... sehe und höre Geister, es ist wahr. Ich habe viele Jahre gebraucht, um es zu verstehen.“
+      <DefaultText>„Ich&#160;… sehe und höre Geister, es ist wahr. Ich habe viele Jahre gebraucht, um es zu verstehen.“
 
 Adarycs Kiefer zuckt.</DefaultText>
       <FemaleText />
@@ -765,7 +765,7 @@ Adaryc verzieht zornig das Gesicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>„Über Wächter ...“</DefaultText>
+      <DefaultText>„Über Wächter&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,8 +861,8 @@ Diese Vorstellung scheint ihn zu beunruhigen.</DefaultText>
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>„Ich warne dich, wenn du mich verspotten willst, Wächter ...“</DefaultText>
-      <FemaleText>„Ich warne dich, wenn du mich verspotten willst, Wächterin ...“</FemaleText>
+      <DefaultText>„Ich warne dich, wenn du mich verspotten willst, Wächter&#160;…“</DefaultText>
+      <FemaleText>„Ich warne dich, wenn du mich verspotten willst, Wächterin&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>234</ID>
@@ -940,7 +940,7 @@ Adaryc verzieht zornig das Gesicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>„Lass es! Spiel nicht den Narren. Diese ... Omen sollen mir Angst machen, mich zweifeln lassen, was ich hier tue. Aber es steht mehr auf dem Spiel als ein kleines Bergdorf.“</DefaultText>
+      <DefaultText>„Lass es! Spiel nicht den Narren. Diese&#160;… Omen sollen mir Angst machen, mich zweifeln lassen, was ich hier tue. Aber es steht mehr auf dem Spiel als ein kleines Bergdorf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -957,7 +957,7 @@ Er blickt auf das Gitter der Zelle, seine Augen plötzlich vor Zorn funkelnd.</D
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>„Ich habe das nie ... geplant. Es war nicht meine Absicht. Wir wollten verhandeln!“</DefaultText>
+      <DefaultText>„Ich habe das nie&#160;… geplant. Es war nicht meine Absicht. Wir wollten verhandeln!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@ Adarycs Blick ist leer.</DefaultText>
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>„... Diese Gebirgskette, der Pass, bietet einen direkten Weg zwischen Readceras und dem Dyrwald. Ein strategischer Punkt ... und einer der vielen Gründe, warum die Zwerge die Batterie hier errichtet haben.“</DefaultText>
+      <DefaultText>„... Diese Gebirgskette, der Pass, bietet einen direkten Weg zwischen Readceras und dem Dyrwald. Ein strategischer Punkt&#160;… und einer der vielen Gründe, warum die Zwerge die Batterie hier errichtet haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1036,7 +1036,7 @@ Adarycs Blick ist leer.</DefaultText>
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>„Das glaubte ich auch ... oder hoffte es vielleicht. Aber das heißt nur, dass sie zornig sind. Sie werden jemanden suchen, dem sie die Schuld geben können. Einen Feind, den sie bekämpfen können.“</DefaultText>
+      <DefaultText>„Das glaubte ich auch&#160;… oder hoffte es vielleicht. Aber das heißt nur, dass sie zornig sind. Sie werden jemanden suchen, dem sie die Schuld geben können. Einen Feind, den sie bekämpfen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1120,7 +1120,7 @@ Zorn scheint ihm Halt gegeben zu haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>„Wenn wir dieselbe Vision gesehen haben ... wenn du wirklich glaubst, dass ich mich täusche, was den Dyrwald angeht ... was bedeutet all das dann?“</DefaultText>
+      <DefaultText>„Wenn wir dieselbe Vision gesehen haben&#160;… wenn du wirklich glaubst, dass ich mich täusche, was den Dyrwald angeht&#160;… was bedeutet all das dann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1167,22 +1167,22 @@ Eine schrille Stimme erhebt sich plötzlich aus der Grube. Adaryc stampft wüten
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>„Ich spüre seine Furcht. Seine Schande ...“</DefaultText>
+      <DefaultText>„Ich spüre seine Furcht. Seine Schande&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>„Ich spüre seine Furcht. Seine Schande ...“</DefaultText>
+      <DefaultText>„Ich spüre seine Furcht. Seine Schande&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>„Ich spüre seine Furcht. Seine Schande ...“</DefaultText>
+      <DefaultText>„Ich spüre seine Furcht. Seine Schande&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>„Ich möchte mit den Leuten sprechen, die diese wilden Visionen gesehen haben ... um ... äh ... Erfahrungen auszutauschen.“</DefaultText>
+      <DefaultText>„Ich möchte mit den Leuten sprechen, die diese wilden Visionen gesehen haben&#160;… um&#160;… äh&#160;… Erfahrungen auszutauschen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

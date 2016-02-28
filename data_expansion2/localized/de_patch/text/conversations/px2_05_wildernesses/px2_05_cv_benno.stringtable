@@ -65,14 +65,14 @@ Er blickt suchend an dir vorbei.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Ja, es ist eine ... Wand oder sowas. Ich weiß nicht, was hier vor sich geht, aber es muss irgendein Zauber sein, oder nicht? Ich verstehe nichts von der Zauberei.“
+      <DefaultText>„Ja, es ist eine&#160;… Wand oder sowas. Ich weiß nicht, was hier vor sich geht, aber es muss irgendein Zauber sein, oder nicht? Ich verstehe nichts von der Zauberei.“
 
 Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringliche Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Was? Ja, das bin ich. Woher ... Moment, schickt Herla dich? Ha! Ich wusste, dass sie nicht völlig nutzlos ist!“</DefaultText>
+      <DefaultText>„Was? Ja, das bin ich. Woher&#160;… Moment, schickt Herla dich? Ha! Ich wusste, dass sie nicht völlig nutzlos ist!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,7 +84,7 @@ Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringli
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Unwichtig. Ich brauche Hilfe. Du musst mich hier rausholen. Ich will nicht im Eintopf von irgendeinem Kultanhänger enden ... oder was auch immer die vorhaben.“</DefaultText>
+      <DefaultText>„Unwichtig. Ich brauche Hilfe. Du musst mich hier rausholen. Ich will nicht im Eintopf von irgendeinem Kultanhänger enden&#160;… oder was auch immer die vorhaben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,7 +99,7 @@ Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringli
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ich, äh ... also, wir hatten große Schwierigkeiten, unsere Waren nach Stalwart zu schaffen. Ich dachte, ich könnte vielleicht etwas finden, um unsere Verluste wettzumachen.“</DefaultText>
+      <DefaultText>„Ich, äh&#160;… also, wir hatten große Schwierigkeiten, unsere Waren nach Stalwart zu schaffen. Ich dachte, ich könnte vielleicht etwas finden, um unsere Verluste wettzumachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,7 +129,7 @@ Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringli
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Du ... du hast sie getötet!“</DefaultText>
+      <DefaultText>„Du&#160;… du hast sie getötet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@ Zur Demonstration presst er seine Handflächen gegen die offenbar undurchdringli
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Nein ... naja, dieses ... Flüstern vielleicht. Ich dachte, das wären nur wieder so Zauberertypen.“
+      <DefaultText>„Nein&#160;… naja, dieses&#160;… Flüstern vielleicht. Ich dachte, das wären nur wieder so Zauberertypen.“
 
 Er scheint sich unbehaglich zu fühlen.</DefaultText>
       <FemaleText />
@@ -206,7 +206,7 @@ Er scheint sich unbehaglich zu fühlen.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Willst du, dass ich dich anflehe? Mache ich! BITTE lass mich raus ...“</DefaultText>
+      <DefaultText>„Willst du, dass ich dich anflehe? Mache ich! BITTE lass mich raus&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@ Jenseits der Barriere beobachtet Benno dich mit gebannter Erwartung.</DefaultTex
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„A-ah, Scheiße. Ich wollte hier nicht unbefugt eindringen oder sowas, ich wollte nur ...“
+      <DefaultText>„A-ah, Scheiße. Ich wollte hier nicht unbefugt eindringen oder sowas, ich wollte nur&#160;…“
 
 Er verstummt und blickt mit zusammengekniffenen Augen an den Lichtern vorbei.</DefaultText>
       <FemaleText />
@@ -345,7 +345,7 @@ Er verstummt und blickt mit zusammengekniffenen Augen an den Lichtern vorbei.</D
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Gut, äh ... vielleicht wissen die Einheimischen etwas? Es muss doch einen Weg hier raus geben!“</DefaultText>
+      <DefaultText>„Gut, äh&#160;… vielleicht wissen die Einheimischen etwas? Es muss doch einen Weg hier raus geben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -28,7 +28,7 @@ Einer von ihnen schnarcht heftig.</DefaultText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Du schleichst dich mit dem Messer in der Hand vorwärts ... und im letzten Moment schlägt der Elf plötzlich die Augen auf und blickt dich an.
+      <DefaultText>Du schleichst dich mit dem Messer in der Hand vorwärts&#160;… und im letzten Moment schlägt der Elf plötzlich die Augen auf und blickt dich an.
 
 Du rammst ihm schnell das Messer in die Kehle – aber nicht, bevor sein erschreckter Schrei durch das Lager hallt.</DefaultText>
       <FemaleText />
@@ -55,19 +55,19 @@ Du rammst ihm schnell das Messer in die Kehle – aber nicht, bevor sein erschre
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Du trittst vor, packst den nächsten Elfen an den Ohren und drehst seinen Kopf ruckartig zur Seite ...
+      <DefaultText>Du trittst vor, packst den nächsten Elfen an den Ohren und drehst seinen Kopf ruckartig zur Seite&#160;…
 
 Es ertönen ein scharfer, abgehackter Schrei und ein grauenhaftes Knacken. Der Elf sackt zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du trittst vor, zielst und schwingst deine Waffe gnadenlos nach unten. Du hörst ein nasses Klatschen, als der Hieb den Söldner trifft ... und auch seine Kameraden hören es.</DefaultText>
+      <DefaultText>Du trittst vor, zielst und schwingst deine Waffe gnadenlos nach unten. Du hörst ein nasses Klatschen, als der Hieb den Söldner trifft&#160;… und auch seine Kameraden hören es.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du trittst vor, packst den nächsten Elfen an den Ohren und versuchst, seinen Kopf zu drehen ...
+      <DefaultText>Du trittst vor, packst den nächsten Elfen an den Ohren und versuchst, seinen Kopf zu drehen&#160;…
 
 Er windet sich reflexartig aus deinem Griff und stößt einen Warnschrei aus.</DefaultText>
       <FemaleText />
