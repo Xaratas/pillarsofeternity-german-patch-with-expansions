@@ -215,7 +215,7 @@ Eine Minute vergeht. Zwei. Maneha bleibt weiter unter Wasser.</DefaultText>
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>„Ja, ja. Versprich mir nur, dass wir etwas Warmes trinken, wenn ...“
+      <DefaultText>„Ja, ja. Versprich mir nur, dass wir etwas Warmes trinken, wenn&#160;…“
 
 Sie hält plötzlich mit weit aufgerissenen Augen inne. Dann schnippt sie mit den Fingern.</DefaultText>
       <FemaleText />
@@ -565,7 +565,7 @@ Schließlich schüttelt sie den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>„Meine Eltern haben immer gesagt, dass alles, was zu gut erscheint, um wahr zu sein ... es wahrscheinlich auch ist.“</DefaultText>
+      <DefaultText>„Meine Eltern haben immer gesagt, dass alles, was zu gut erscheint, um wahr zu sein&#160;… es wahrscheinlich auch ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -226,7 +226,7 @@ Aber sie richtet ihre Schultern auf und blickt dich mit plötzlicher Entschlosse
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Ich dachte, ich hätte es alles gesehen. Aber du hast mir Dinge gezeigt ... über mich selbst, über die Welt ... die ich mir niemals hätte vorstellen können.“</DefaultText>
+      <DefaultText>„Ich dachte, ich hätte es alles gesehen. Aber du hast mir Dinge gezeigt&#160;… über mich selbst, über die Welt&#160;… die ich mir niemals hätte vorstellen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@ Aber sie richtet ihre Schultern auf und blickt dich mit plötzlicher Entschlosse
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Und wann war das ... vor ein paar hundert Jahren? Tausend?“
+      <DefaultText>„Und wann war das&#160;… vor ein paar hundert Jahren? Tausend?“
 
 Sie zieht Luft durch die Zähne ein.“</DefaultText>
       <FemaleText />
@@ -345,7 +345,7 @@ Sie blickt auf ihre Hand. Dort, wo die zerbrochene Flasche sie verletzt hat, ist
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Wichtig ist nur eines ... dass wir ihn aufhalten.“</DefaultText>
+      <DefaultText>„Wichtig ist nur eines&#160;… dass wir ihn aufhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
