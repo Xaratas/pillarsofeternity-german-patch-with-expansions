@@ -7480,12 +7480,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1513</ID>
-      <DefaultText>Beginnt den Kampf mit Raserei oder Barbarischer Schrei. Setzt bei unter 50% Ausdauer Brutaler Widerstand ein. Barbarischer Ruf wird eingesetzt, wenn Pro Ruhephase aktiviert ist.</DefaultText>
+      <DefaultText>Beginnt den Kampf mit Raserei oder Barbarischer Schrei. Setzt bei unter 50% Ausdauer Brutaler Widerstand ein. Barbarischer Ruf wird eingesetzt, wenn Pro-Ruhephase aktiviert ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1514</ID>
-      <DefaultText>Beginnt den Kampf mit Wilder Sprint, um auf den Feind mit der niedrigsten Abwehr zuzustürmen. Setzt Raserei und Barbarischer Schrei nach Belieben ein. Setzt Wütendes Herz ein, wenn Pro Ruhephase aktiviert ist.</DefaultText>
+      <DefaultText>Beginnt den Kampf mit Wilder Sprint, um auf den Feind mit der niedrigsten Abwehr zuzustürmen. Setzt Raserei und Barbarischer Schrei nach Belieben ein. Setzt Wütendes Herz ein, wenn Pro-Ruhephase aktiviert ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7520,32 +7520,32 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1521</ID>
-      <DefaultText>Wenn Pro Ruhephase aktiviert ist, wirkt der Druide Tanzende Blitze, Mal der Natur, Reichweite der Krallen, Insektenschwarm, Madenbefall, Sturm der Wiederkehr und Hirschgeweih. Wenn Pro Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
+      <DefaultText>Wenn Pro-Ruhephase aktiviert ist, wirkt der Druide Tanzende Blitze, Mal der Natur, Reichweite der Krallen, Insektenschwarm, Madenbefall, Sturm der Wiederkehr und Hirschgeweih. Wenn Pro-Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1522</ID>
-      <DefaultText>Wenn Pro Ruhephase aktiviert ist, wirkt der Druide Wildtier bezaubern, Mal der Natur, Wildtiere aufhalten, Fäule beschwören, Sich verbreitende Seuche und Schrecken der Natur. Wenn Pro Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
+      <DefaultText>Wenn Pro-Ruhephase aktiviert ist, wirkt der Druide Wildtier bezaubern, Mal der Natur, Wildtiere aufhalten, Fäule beschwören, Sich verbreitende Seuche und Schrecken der Natur. Wenn Pro-Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1523</ID>
-      <DefaultText>Wenn Pro Ruhephase aktiviert ist, wirkt der Druide Unterstützungszauber wie Kraft der Natur, Holzhaut, Trost der Natur, Käferpanzer, Säuberung von Giften und Mondquelle. Wenn Pro Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
+      <DefaultText>Wenn Pro-Ruhephase aktiviert ist, wirkt der Druide Unterstützungszauber wie Kraft der Natur, Holzhaut, Trost der Natur, Käferpanzer, Säuberung von Giften und Mondquelle. Wenn Pro-Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken. Additionally, the druid may cast healing spells and party support spells.</DefaultText>
+      <DefaultText>Bei diesem Verhalten wandelt der Druide seine Gestalt, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro-Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzauber ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken. Zusätlich wird der Druide Heil- und Gruppenunterstützungszauber wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1525</ID>
-      <DefaultText>Der Kämpfer setzt bei erster Gelegenheit Niederstrecken und Diszipliniertes Bombardement ein. Wenn Pro Ruhephase aktiviert ist, wird außerdem automatisch Vertreibung eingesetzt, sobald sich drei Feinde in Reichweite des Kämpfers befinden.</DefaultText>
+      <DefaultText>Der Kämpfer setzt bei erster Gelegenheit Niederstrecken und Diszipliniertes Bombardement ein. Wenn Pro-Ruhephase aktiviert ist, wird außerdem automatisch Vertreibung eingesetzt, sobald sich drei Feinde in Reichweite des Kämpfers befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1526</ID>
-      <DefaultText>Der Kämpfer setzt Energische Verteidigung ein, wenn er von mehr als zwei Gegnern angriffsgebunden wird. Ist Pro Ruhephase aktiviert, setzt er bei unter 50% Ausdauer Unbeugsam ein. Verteidiger ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <DefaultText>Der Kämpfer setzt Energische Verteidigung ein, wenn er von mehr als zwei Gegnern angriffsgebunden wird. Ist Pro-Ruhephase aktiviert, setzt er bei unter 50% Ausdauer Unbeugsam ein. Verteidiger ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7560,12 +7560,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1529</ID>
-      <DefaultText>Der Priester setzt Heiliger Glanz ein, sobald jemand in der Gruppe unter 33% Ausdauer fällt oder zwei oder mehr Charakter unter 50% Ausdauer fallen. Wenn Pro Ruhephase aktiviert ist, setzt der Priester seinen Schwerpunkt auf Heilungs- und Unterstützungszauber wie Rüstung des Glaubens, Segen, Heilige Meditation, Geringe Wiederherstellung von Ausdauer, Zurückziehen und so weiter. Die „Gebet gegen“-Zauber werden reaktiv eingesetzt, wenn mehr als 1 Gruppenmitglied mit dem jeweiligen Effekt belegt ist.</DefaultText>
+      <DefaultText>Der Priester setzt Heiliger Glanz ein, sobald jemand in der Gruppe unter 33% Ausdauer fällt oder zwei oder mehr Charakter unter 50% Ausdauer fallen. Wenn Pro-Ruhephase aktiviert ist, setzt der Priester seinen Schwerpunkt auf Heilungs- und Unterstützungszauber wie Rüstung des Glaubens, Segen, Heilige Meditation, Geringe Wiederherstellung von Ausdauer, Zurückziehen und so weiter. Die „Gebet gegen“-Zauber werden reaktiv eingesetzt, wenn mehr als 1 Gruppenmitglied mit dem jeweiligen Effekt belegt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1530</ID>
-      <DefaultText>Der Priester setzt Verbot ein, sobald der Kampf beginnt. Wenn Pro Ruhephase aktiviert ist, legt der Priester seinen Schwerpunkt auf Schadens- und Massenkontrollzauber wie Widerhaken der Verdammung, Göttliches Mal, Zweifel säen, Mutlose Schläge und Säule des Glaubens.</DefaultText>
+      <DefaultText>Der Priester setzt Verbot ein, sobald der Kampf beginnt. Wenn Pro-Ruhephase aktiviert ist, legt der Priester seinen Schwerpunkt auf Schadens- und Massenkontrollzauber wie Widerhaken der Verdammung, Göttliches Mal, Zweifel säen, Mutlose Schläge und Säule des Glaubens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7590,37 +7590,37 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
+      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro-Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
+      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro-Ruhephase aktiviert ist). Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1537</ID>
-      <DefaultText>Zauberer setzten Arkaner Angriff ein, sobald der Kampf beginnt. Wenn Pro Ruhephase aktiviert ist, setzen sie direkte Schadenszauber ein oder Zauber, die sich nur auf Feinde auswirken - beispielsweise Minolettas kleine Fluggeschosse, Erschütternde Berührung, Kalakoths sonnenloser Griff, Nekrotische Lanze, Geisterklingen usw.</DefaultText>
+      <DefaultText>Zauberer setzten Arkaner Angriff ein, sobald der Kampf beginnt. Wenn Pro-Ruhephase aktiviert ist, setzen sie direkte Schadenszauber ein oder Zauber, die sich nur auf Feinde auswirken - beispielsweise Minolettas kleine Fluggeschosse, Erschütternde Berührung, Kalakoths sonnenloser Griff, Nekrotische Lanze, Geisterklingen usw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1538</ID>
-      <DefaultText>Wenn Pro Ruhephase aktiviert ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
+      <DefaultText>Wenn Pro-Ruhephase aktiviert ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Zauberer setzen Arkaner Schleier und/oder Zauberbuch-Slam ein, sobald sie im Nahkampf angriffsgebunden werden. Wenn Pro Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Spiegelbild und Llengraths verlegtes Bild ein. Ansonsten bleibt er aber auf Distanz und setzt Standardangriffe ein.</DefaultText>
+      <DefaultText>Zauberer setzen Arkaner Schleier und/oder Zauberbuch-Slam ein, sobald sie im Nahkampf angriffsgebunden werden. Wenn Pro-Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Spiegelbild und Llengraths verlegtes Bild ein. Ansonsten bleibt er aber auf Distanz und setzt Standardangriffe ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1540</ID>
-      <DefaultText>Wenn Pro Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Concelhauts Parasitenstab, Llengraths verlegtes Bild, Flammenschild und Citzals Seelenlanze ein, um sich zu stärken, bevor er sich kopfüber in die Schlacht stürzt.</DefaultText>
+      <DefaultText>Wenn Pro-Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Concelhauts Parasitenstab, Llengraths verlegtes Bild, Flammenschild und Citzals Seelenlanze ein, um sich zu stärken, bevor er sich kopfüber in die Schlacht stürzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1541</ID>
-      <DefaultText>Der Paladin setzt Handauflegen ein, sobald ein Verbündeter unter 50% Ausdauer fällt. Setzt Befreiende Ermunterung ein, wenn ein Verbündeter mit einem feindlichen Statuseffekt mit einer Dauer von mehr als 5 Sekunden belegt wird. Setzt Verstärkende Ermunterung auf Verbündete ein, die von mehr als zwei Feinden angegriffen werden. Setzt Wiederbelebende Ermunterung auf den ersten Verbündeten ein, der im Kampf bewusstlos geschlagen wird. Setzt Beschleunigende Ermunterung auf Verbündete ein (nur, wenn Pro Ruhephase aktiviert ist). Eifrige Ausdauer ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <DefaultText>Der Paladin setzt Handauflegen ein, sobald ein Verbündeter unter 50% Ausdauer fällt. Setzt Befreiende Ermunterung ein, wenn ein Verbündeter mit einem feindlichen Statuseffekt mit einer Dauer von mehr als 5 Sekunden belegt wird. Setzt Verstärkende Ermunterung auf Verbündete ein, die von mehr als zwei Feinden angegriffen werden. Setzt Wiederbelebende Ermunterung auf den ersten Verbündeten ein, der im Kampf bewusstlos geschlagen wird. Setzt Beschleunigende Ermunterung auf Verbündete ein (nur, wenn Pro-Ruhephase aktiviert ist). Eifrige Ausdauer ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
