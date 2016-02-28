@@ -161,7 +161,7 @@ Die Konstrukte hinter ihr drehen sich alle gleichzeitig um, ihre Klauenfinger be
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Deine Faust streift Cillans Schläfe und lässt sie benommen zurück ... aber nahezu unverletzt. Mit aufgerissenen Augen stürzt sie auf dich zu.</DefaultText>
+      <DefaultText>Deine Faust streift Cillans Schläfe und lässt sie benommen zurück&#160;… aber nahezu unverletzt. Mit aufgerissenen Augen stürzt sie auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Sie verzieht das Gesicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Ich hätte nie gedacht, das Gamel so durchdreht. Aber manchmal, naja, benehmen die Leute sich eben plötzlich seltsam. So wie damals, als ... äh ... wer war das ...?“
+      <DefaultText>„Ich hätte nie gedacht, das Gamel so durchdreht. Aber manchmal, naja, benehmen die Leute sich eben plötzlich seltsam. So wie damals, als&#160;… äh&#160;… wer war das&#160;…?“
 
 Sie runzelt die Stirn.</DefaultText>
       <FemaleText />
@@ -287,7 +287,7 @@ Sie runzelt die Stirn.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Komm vorbei, wenn du noch mehr hast ...“
+      <DefaultText>„Komm vorbei, wenn du noch mehr hast&#160;…“
 
 Cillans Blick scheint von dir abzugleiten.</DefaultText>
       <FemaleText />

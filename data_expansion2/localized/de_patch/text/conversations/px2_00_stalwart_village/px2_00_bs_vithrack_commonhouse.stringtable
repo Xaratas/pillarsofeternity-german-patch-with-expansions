@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Hörst du es? Es ruft uns alle ...“</DefaultText>
+      <DefaultText>„Hörst du es? Es ruft uns alle&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Hör zu, hör zu ...“</DefaultText>
+      <DefaultText>„Hör zu, hör zu&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

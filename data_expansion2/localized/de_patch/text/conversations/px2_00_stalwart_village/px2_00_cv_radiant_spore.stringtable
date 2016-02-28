@@ -286,8 +286,8 @@ Die Stimme ist sogar recht angenehm.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Ich weiß nicht, ob das ... tja, er hat es getan.“</DefaultText>
-      <FemaleText>„Ich weiß nicht, ob das ... tja, sie hat es getan.“</FemaleText>
+      <DefaultText>„Ich weiß nicht, ob das&#160;… tja, er hat es getan.“</DefaultText>
+      <FemaleText>„Ich weiß nicht, ob das&#160;… tja, sie hat es getan.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>

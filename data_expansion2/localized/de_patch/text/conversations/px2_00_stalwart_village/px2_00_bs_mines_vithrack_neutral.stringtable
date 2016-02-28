@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Es ist so viel geschehen ...“</DefaultText>
+      <DefaultText>„Es ist so viel geschehen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Die Stimmen ... sie sind endlich fort.“</DefaultText>
+      <DefaultText>„Die Stimmen&#160;… sie sind endlich fort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Wir haben so viele verloren ...“</DefaultText>
+      <DefaultText>„Wir haben so viele verloren&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

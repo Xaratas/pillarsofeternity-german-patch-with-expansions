@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Wo soll ich anfangen?“ Sie deutet auf den rasch abkühlenden Klumpen Eisen auf ihrem Amboss. „Zum einen gelingt es mir nicht, das Metall zu formen, so sehr ich mich auch bemühe. Meister Engrim sagt, ich solle mir 'ein Schwert vorstellen' ... und das tue und tue ich. Ich glaube, am Ende kommt ein Knüppel dabei heraus. Vielleicht ein Streitkolben, wenn ich Glück habe. Aber kein Schwert.“</DefaultText>
+      <DefaultText>„Wo soll ich anfangen?“ Sie deutet auf den rasch abkühlenden Klumpen Eisen auf ihrem Amboss. „Zum einen gelingt es mir nicht, das Metall zu formen, so sehr ich mich auch bemühe. Meister Engrim sagt, ich solle mir 'ein Schwert vorstellen'&#160;… und das tue und tue ich. Ich glaube, am Ende kommt ein Knüppel dabei heraus. Vielleicht ein Streitkolben, wenn ich Glück habe. Aber kein Schwert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Und gerade zur rechten Zeit. Ich sollte gestern mit diesem Schwert fertig sein. Also gut, magischer Hammer ... dann mal los!“ Sie hebt den Hammer, um ihn auf das unfertige Schwert zu schlagen.</DefaultText>
+      <DefaultText>„Und gerade zur rechten Zeit. Ich sollte gestern mit diesem Schwert fertig sein. Also gut, magischer Hammer&#160;… dann mal los!“ Sie hebt den Hammer, um ihn auf das unfertige Schwert zu schlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,17 +61,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Hmm. Talfirs Ritual ... das habe ich schon lange niemanden mehr versuchen sehen.“ Er blickt dich an. „Du hattest natürlich Hilfe, aber das ändert nichts an der Tatsache, dass du der Auslöser warst, Masca. Gibt es einen Grund, warum ich dich nicht augenblicklich aus dem Tempel werfen sollte?“</DefaultText>
+      <DefaultText>„Hmm. Talfirs Ritual&#160;… das habe ich schon lange niemanden mehr versuchen sehen.“ Er blickt dich an. „Du hattest natürlich Hilfe, aber das ändert nichts an der Tatsache, dass du der Auslöser warst, Masca. Gibt es einen Grund, warum ich dich nicht augenblicklich aus dem Tempel werfen sollte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Ich ... nein, Meister.“ Masca blickt zu Boden.</DefaultText>
+      <DefaultText>„Ich&#160;… nein, Meister.“ Masca blickt zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Was ist mit dir?“ Engrim wendet sich dir zu. „Du hast dich zu einem Teil dieser Angelegenheit gemacht ... möchtest du etwas zu Mascas Verteidigung vorbringen?“</DefaultText>
+      <DefaultText>„Was ist mit dir?“ Engrim wendet sich dir zu. „Du hast dich zu einem Teil dieser Angelegenheit gemacht&#160;… möchtest du etwas zu Mascas Verteidigung vorbringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Eine interessante Interpretation der Ereignisse. Masca war schon immer ... unkonventionell.“ Er seufzt. „Also gut, Masca, du darfst bleiben. Aber enttäusche mich nie wieder.“</DefaultText>
+      <DefaultText>„Eine interessante Interpretation der Ereignisse. Masca war schon immer&#160;… unkonventionell.“ Er seufzt. „Also gut, Masca, du darfst bleiben. Aber enttäusche mich nie wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@
       <ID>42</ID>
       <DefaultText>„Wenn meine Arbeit nicht bald besser wird, werfen sie mich aus dem Tempel. Man kann kein Priester sein, wenn man kein guter Schmied ist.“
 
-„Außer, du hilfst mir ...“ Masca blickt sich um.</DefaultText>
+„Außer, du hilfst mir&#160;…“ Masca blickt sich um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,7 +264,7 @@ Aber das Dröhnen hört nicht auf. Es wird schriller und schriller und gerade, a
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Aber ...“ Masca schießen die Tränen in die Augen. „Ja, Meister.“
+      <DefaultText>„Aber&#160;…“ Masca schießen die Tränen in die Augen. „Ja, Meister.“
 
 Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm das. Das ist eine der wenigen Waffen, die ich halbwegs hinbekommen habe.“</DefaultText>
       <FemaleText />
@@ -306,7 +306,7 @@ Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm da
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Selbst, wenn es funktioniert ... wirst du mit dem Wissen leben können, dass du nur im Tempel bleiben durftest, weil du geschummelt hast?“</DefaultText>
+      <DefaultText>„Selbst, wenn es funktioniert&#160;… wirst du mit dem Wissen leben können, dass du nur im Tempel bleiben durftest, weil du geschummelt hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@ Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm da
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Ich ... ach, verdammt. Du hast wahrscheinlich Recht.“ Masca seufzt. „Danke, dass du mich vor einem Fehler bewahrt hast.“</DefaultText>
+      <DefaultText>„Ich&#160;… ach, verdammt. Du hast wahrscheinlich Recht.“ Masca seufzt. „Danke, dass du mich vor einem Fehler bewahrt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@ Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm da
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Ich weiß nicht, was ich jetzt tun soll ...“</DefaultText>
+      <DefaultText>„Ich weiß nicht, was ich jetzt tun soll&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

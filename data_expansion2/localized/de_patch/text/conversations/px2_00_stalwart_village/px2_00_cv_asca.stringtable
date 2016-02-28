@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„'Der Schrecken der Weißsteinsenke'. Eine große Fäule, die nach der Lawine aufgetaucht ist. Das war eine wahre Katastrophe ... ein gewaltiger Schneehaufen, mitten auf einer unserer wichtigsten Handelsrouten.“</DefaultText>
+      <DefaultText>„'Der Schrecken der Weißsteinsenke'. Eine große Fäule, die nach der Lawine aufgetaucht ist. Das war eine wahre Katastrophe&#160;… ein gewaltiger Schneehaufen, mitten auf einer unserer wichtigsten Handelsrouten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Aber es ist sicher nicht leicht für sie, weißt du? Ihr Vater arbeitet in der Batterie, und wenn er noch einmal unentschuldigt fehlt, wird er gefeuert ... wieder mal.“</DefaultText>
+      <DefaultText>„Aber es ist sicher nicht leicht für sie, weißt du? Ihr Vater arbeitet in der Batterie, und wenn er noch einmal unentschuldigt fehlt, wird er gefeuert&#160;… wieder mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Und zuletzt ... Lafda, eine Diebin, die aus Stalwart geflohen ist und kürzlich im Hafenviertel von Trutzbucht gesehen wurde.“</DefaultText>
+      <DefaultText>„Und zuletzt&#160;… Lafda, eine Diebin, die aus Stalwart geflohen ist und kürzlich im Hafenviertel von Trutzbucht gesehen wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Schwer zu übersehen ... 'ne Bleichelfin. Sie ist nach Stalwart gekommen und hat einen kleinen Tempel gegründet, angeblich im Dienst von Ondra.“</DefaultText>
+      <DefaultText>„Schwer zu übersehen&#160;… 'ne Bleichelfin. Sie ist nach Stalwart gekommen und hat einen kleinen Tempel gegründet, angeblich im Dienst von Ondra.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Kleidung des Ladenbesitzers wirkt etwas besser als das, was du sonst in Stalwart siehst ... wenn auch nicht sonderlich warm. Seine Haare sind makellos frisiert und seine rosigen Wangen sehen aus, als wären sie kaum je von den Bergwinden gestreift worden.</DefaultText>
+      <DefaultText>Die Kleidung des Ladenbesitzers wirkt etwas besser als das, was du sonst in Stalwart siehst&#160;… wenn auch nicht sonderlich warm. Seine Haare sind makellos frisiert und seine rosigen Wangen sehen aus, als wären sie kaum je von den Bergwinden gestreift worden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Sie ist außer Kontrolle! Wobei man ihr eigentlich kaum einen Vorwurf machen kann ... so, wie ihre eigene Mutter sie ständig anschreit.“
+      <DefaultText>„Sie ist außer Kontrolle! Wobei man ihr eigentlich kaum einen Vorwurf machen kann&#160;… so, wie ihre eigene Mutter sie ständig anschreit.“
 
 Er lehnt sich über den Tresen und flüstert dir verschwörerisch zu:</DefaultText>
       <FemaleText />

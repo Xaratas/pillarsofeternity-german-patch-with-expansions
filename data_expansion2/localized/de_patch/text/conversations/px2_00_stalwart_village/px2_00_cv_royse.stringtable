@@ -136,7 +136,7 @@ Mylla macht ein paar Schritte nach vorne.</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Ich bin nur froh, dass du sie gefunden hast, bevor ...“ Sie schluchzt und hält sich den Ärmel vor den Mund.
+      <DefaultText>„Ich bin nur froh, dass du sie gefunden hast, bevor&#160;…“ Sie schluchzt und hält sich den Ärmel vor den Mund.
 
 Sie klopft Mylla auf den Rücken und schiebt sie nach vorne.</DefaultText>
       <FemaleText />
@@ -239,7 +239,7 @@ Sie blickt zu Royse, die immer noch abgelenkt ist.</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Sie wendet sich dem Mädchen zu. „Und du gehst einen Monat lang nicht aus dem Haus. Du hast deinem Vater seine Arbeit gekostet, Mädchen! Was sollen wir jetzt nur ...“
+      <DefaultText>Sie wendet sich dem Mädchen zu. „Und du gehst einen Monat lang nicht aus dem Haus. Du hast deinem Vater seine Arbeit gekostet, Mädchen! Was sollen wir jetzt nur&#160;…“
 
 Lödgar bedeutet ihr mit einem sanften Druck auf die Schulter, still zu sein.</DefaultText>
       <FemaleText />
@@ -291,7 +291,7 @@ Lödgar bedeutet ihr mit einem sanften Druck auf die Schulter, still zu sein.</D
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Nun ja, äh ...“ Royse hebt eine Augenbraue, unschlüssig, wie sie deine Körpersprache interpretieren soll. „Wenn du sie siehst, schick sie bitte zu mir. Das wäre nett.“</DefaultText>
+      <DefaultText>„Nun ja, äh&#160;…“ Royse hebt eine Augenbraue, unschlüssig, wie sie deine Körpersprache interpretieren soll. „Wenn du sie siehst, schick sie bitte zu mir. Das wäre nett.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,14 +311,14 @@ Lödgar bedeutet ihr mit einem sanften Druck auf die Schulter, still zu sein.</D
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Mylla? Ich glaube, du verwechselst mich ...“</DefaultText>
+      <DefaultText>„Mylla? Ich glaube, du verwechselst mich&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Oh ... ich ... ich habe dich nicht erkannt. Du hast ... äh ... die Batterie geöffnet, oder?“ Royse sieht beschämt und nervös aus und stolpert über ihre Worte.
+      <DefaultText>„Oh&#160;… ich&#160;… ich habe dich nicht erkannt. Du hast&#160;… äh&#160;… die Batterie geöffnet, oder?“ Royse sieht beschämt und nervös aus und stolpert über ihre Worte.
 
-„Weißt du, sie ... meine Tochter Mylla, meine ich. Sie verbringt viel Zeit bei Hamonds Zelt. Gerät in Schwierigkeiten.“ Sie zuckt die Schultern, erschöpft und ratlos. „Ich dachte, er hätte jemanden geschickt, um sich über sie zu beschweren. Wieder einmal.“</DefaultText>
+„Weißt du, sie&#160;… meine Tochter Mylla, meine ich. Sie verbringt viel Zeit bei Hamonds Zelt. Gerät in Schwierigkeiten.“ Sie zuckt die Schultern, erschöpft und ratlos. „Ich dachte, er hätte jemanden geschickt, um sich über sie zu beschweren. Wieder einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,7 +370,7 @@ Sie lächelt schwach. „Wir sind dir alle sehr dankbar, dass du die Batterie wi
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Sicher, ich war schon einmal dort, aber ...“</DefaultText>
+      <DefaultText>„Sicher, ich war schon einmal dort, aber&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -400,7 +400,7 @@ Sie lächelt schwach. „Wir sind dir alle sehr dankbar, dass du die Batterie wi
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Da war eine Höhle voller Wichte und dann gab es einen Kampf und äh ... es wurde ein wenig unübersichtlich.“</DefaultText>
+      <DefaultText>„Da war eine Höhle voller Wichte und dann gab es einen Kampf und äh&#160;… es wurde ein wenig unübersichtlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,7 +415,7 @@ Sie lächelt schwach. „Wir sind dir alle sehr dankbar, dass du die Batterie wi
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[Lügen] „Sie wurde tragischerweise ... von Wichten getötet. Ich konnte nichts tun.“</DefaultText>
+      <DefaultText>[Lügen] „Sie wurde tragischerweise&#160;… von Wichten getötet. Ich konnte nichts tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
