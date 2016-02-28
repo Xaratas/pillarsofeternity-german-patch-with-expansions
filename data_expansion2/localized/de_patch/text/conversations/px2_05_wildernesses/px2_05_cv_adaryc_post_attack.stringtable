@@ -13,7 +13,7 @@ Er sieht recht benommen aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Diese Dinger ... sie kamen von allen Seiten! Die Gesandten ... nein, DU hattest Recht. Die Visionen sind wahr.“
+      <DefaultText>„Diese Dinger&#160;… sie kamen von allen Seiten! Die Gesandten&#160;… nein, DU hattest Recht. Die Visionen sind wahr.“
 
 Adaryc mustert dich.</DefaultText>
       <FemaleText />
@@ -35,7 +35,7 @@ Adaryc mustert dich.</DefaultText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Ich führe den Rest unserer Truppen ... jedenfalls die, die bereit sind, mir zu folgen ... weiter den Berg hinauf. Wir müssen vorbereitet sein, falls ... wenn diese Monster zurückkehren.“</DefaultText>
+      <DefaultText>„Ich führe den Rest unserer Truppen&#160;… jedenfalls die, die bereit sind, mir zu folgen&#160;… weiter den Berg hinauf. Wir müssen vorbereitet sein, falls&#160;… wenn diese Monster zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@ Adaryc verneigt sich und wendet sich ab.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Du hast gut gekämpft. Und es freut mich, dass du überlebt hast ... auch wenn ich den Verlust meiner Männer bedauere.“</DefaultText>
+      <DefaultText>„Du hast gut gekämpft. Und es freut mich, dass du überlebt hast&#160;… auch wenn ich den Verlust meiner Männer bedauere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

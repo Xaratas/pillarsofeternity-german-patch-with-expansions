@@ -15,7 +15,7 @@ Sie spült über dich hinweg und du findest dich in den Erinnerungen der Augenlo
       <ID>2</ID>
       <DefaultText>Die gewaltigen Kreaturen umzingeln dich. Ihre mit Sehnen umwickelten Skelette rattern und quietschen im Halbdunkel. Ihre Körper füllen die Luft mit einem metallischen Schweißgestank.
 
-In der Höhle, in der du stehst ... jedenfalls sieht es aus wie eine Höhle ... leuchtet ein schwaches Licht. Stahl blitzt auf, wenn die Augenlosen sich rühren. Sie stampfen mit den Füßen und stöhnen mit krächzenden, metallischen Stimmen. Ihre rastlose Energie lässt dir die Haare im Genick aufstehen.</DefaultText>
+In der Höhle, in der du stehst&#160;… jedenfalls sieht es aus wie eine Höhle&#160;… leuchtet ein schwaches Licht. Stahl blitzt auf, wenn die Augenlosen sich rühren. Sie stampfen mit den Füßen und stöhnen mit krächzenden, metallischen Stimmen. Ihre rastlose Energie lässt dir die Haare im Genick aufstehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@ Du siehst nicht, wo du bist, aber du hörst einen kalten Wind durch die Lücke p
       <ID>10</ID>
       <DefaultText>Die Höhle wird vor dir breiter. Sie schwillt mit Echos an, bis du die knurrenden, mahlenden Geräusche der Augenlosen überall um dich herum hörst. Du ziehst dich auf einen leuchtenden kristallinen Vorsprung und überblickst die Menge von stumpfen Köpfen und Kolbenarmen.
 
-Es sind nicht dutzende ... es sind hunderte.</DefaultText>
+Es sind nicht dutzende&#160;… es sind hunderte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

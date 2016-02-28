@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Sie ... sie haben mir gesagt, dass sie meine Eltern getötet haben. Stimmt das?“</DefaultText>
+      <DefaultText>„Sie&#160;… sie haben mir gesagt, dass sie meine Eltern getötet haben. Stimmt das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@ Eska wendet sich mit geballten Fäusten ab. Du hörst ein unterdrücktes Schluch
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Wen schert es, was er beabsichtigt hat?! Dieser Bas- ... ich werde dafür sorgen, dass er alles bereut, was er getan hat!“</DefaultText>
+      <DefaultText>„Wen schert es, was er beabsichtigt hat?! Dieser Bas-&#160;… ich werde dafür sorgen, dass er alles bereut, was er getan hat!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,12 +73,12 @@ Eska wendet sich mit geballten Fäusten ab. Du hörst ein unterdrücktes Schluch
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Und damit wird es enden. Hier ... ich bin dir dankbar, dass du mich gerettet hast. Wirklich. Ich wünschte nur, du wärest früher aufgetaucht.“</DefaultText>
+      <DefaultText>„Und damit wird es enden. Hier&#160;… ich bin dir dankbar, dass du mich gerettet hast. Wirklich. Ich wünschte nur, du wärest früher aufgetaucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Tut mir leid. Hier ... ich bin dir dankbar, dass du mich gerettet hast. Wirklich. Ich wünschte nur, du wärest früher aufgetaucht.“</DefaultText>
+      <DefaultText>„Tut mir leid. Hier&#160;… ich bin dir dankbar, dass du mich gerettet hast. Wirklich. Ich wünschte nur, du wärest früher aufgetaucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,14 +88,14 @@ Eska wendet sich mit geballten Fäusten ab. Du hörst ein unterdrücktes Schluch
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Wirklich? ... Gut.“ Der Zorn weicht aus Eskas Gesicht. Zurück bleibt Trauer.
+      <DefaultText>„Wirklich?&#160;… Gut.“ Der Zorn weicht aus Eskas Gesicht. Zurück bleibt Trauer.
 
-„Ich gehe nach Hause, um meine Mutter und meinen Vater zu beerdigen. Hier ... es ist nicht viel, aber es ist alles, was ich habe. Du hast es verdient.“</DefaultText>
+„Ich gehe nach Hause, um meine Mutter und meinen Vater zu beerdigen. Hier&#160;… es ist nicht viel, aber es ist alles, was ich habe. Du hast es verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ich sollte nach Hause gehen. Meine Mutter und meinen Vater beerdigen. Hier ... es ist nicht viel, aber es ist alles, was ich habe. Abgesehen von meinem Leben. Danke noch einmal.“</DefaultText>
+      <DefaultText>„Ich sollte nach Hause gehen. Meine Mutter und meinen Vater beerdigen. Hier&#160;… es ist nicht viel, aber es ist alles, was ich habe. Abgesehen von meinem Leben. Danke noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@ Eska wendet sich mit geballten Fäusten ab. Du hörst ein unterdrücktes Schluch
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Ich sollte nach Hause gehen. Meine Mutter und meinen Vater beerdigen. Hier ... es ist nicht viel, aber es ist alles, was ich habe. Abgesehen von meinem Leben. Danke noch einmal.“</DefaultText>
+      <DefaultText>„Ich sollte nach Hause gehen. Meine Mutter und meinen Vater beerdigen. Hier&#160;… es ist nicht viel, aber es ist alles, was ich habe. Abgesehen von meinem Leben. Danke noch einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

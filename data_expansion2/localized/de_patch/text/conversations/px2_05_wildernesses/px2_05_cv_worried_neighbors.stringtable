@@ -13,10 +13,10 @@ Das Paar blickt auf, als du dich näherst.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Wer ist da- ... oh. Verzeihung.“
+      <DefaultText>„Wer ist da-&#160;… oh. Verzeihung.“
 
 Der Dorfbewohner wendet sich dir zu.</DefaultText>
-      <FemaleText>„Wer ist da- ... oh. Verzeihung.“
+      <FemaleText>„Wer ist da-&#160;… oh. Verzeihung.“
 
 Der Dorfbewohner wendet sich dir zu.</FemaleText>
     </Entry>
@@ -32,7 +32,7 @@ Der Dorfbewohner wendet sich dir zu.</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Vielleicht sollten wir hineingehen und nachsehen ...“</DefaultText>
+      <DefaultText>„Vielleicht sollten wir hineingehen und nachsehen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,8 +47,8 @@ Der Dorfbewohner wendet sich dir zu.</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Hey, Brys, er ist ein führender Paladin ...“</DefaultText>
-      <FemaleText>„Hey, Brys, sie ist ein führender Paladin ...“</FemaleText>
+      <DefaultText>„Hey, Brys, er ist ein führender Paladin&#160;…“</DefaultText>
+      <FemaleText>„Hey, Brys, sie ist ein führender Paladin&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -162,7 +162,7 @@ Der Dorfbewohner wendet sich dir zu.</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Au! ... Ich meine, wir glauben, dass etwas Schlimmes passiert ist.“</DefaultText>
+      <DefaultText>„Au!&#160;… Ich meine, wir glauben, dass etwas Schlimmes passiert ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,7 +182,7 @@ Der Dorfbewohner wendet sich dir zu.</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Ich glaube, ich weiß, was hier vor sich geht ...“</DefaultText>
+      <DefaultText>„Ich glaube, ich weiß, was hier vor sich geht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,7 +207,7 @@ Der Dorfbewohner wendet sich dir zu.</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Ich wusste, dass es übel sein muss ... danke, dass du es uns hast wissen lassen.“</DefaultText>
+      <DefaultText>„Ich wusste, dass es übel sein muss&#160;… danke, dass du es uns hast wissen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

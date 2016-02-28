@@ -111,7 +111,7 @@ Er beugt sich vor, um dir die Hand zu schütteln. Du bemerkst, dass er dabei nur
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Das ist ...“ Zunächst ist er verwirrt, dann grinst er aber, während er die gekritzelten Linien betrachtet. „Die Weißsteinsenke? He.“ Er tappt mit einem schwieligen Finger auf einen Punkt der Zeichnung. „Ich glaube, das sollen die Menhire sein.“</DefaultText>
+      <DefaultText>„Das ist&#160;…“ Zunächst ist er verwirrt, dann grinst er aber, während er die gekritzelten Linien betrachtet. „Die Weißsteinsenke? He.“ Er tappt mit einem schwieligen Finger auf einen Punkt der Zeichnung. „Ich glaube, das sollen die Menhire sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@ Er beugt sich vor, um dir die Hand zu schütteln. Du bemerkst, dass er dabei nur
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Danke. Ich weiß nicht, was ich tun würde, wenn ...“
+      <DefaultText>„Danke. Ich weiß nicht, was ich tun würde, wenn&#160;…“
 
 Er schüttelt den Kopf.</DefaultText>
       <FemaleText />

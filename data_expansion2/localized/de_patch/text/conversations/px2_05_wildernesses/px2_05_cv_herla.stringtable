@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Verflucht soll er sein, dieser ...“
+      <DefaultText>„Verflucht soll er sein, dieser&#160;…“
 
 Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
       <FemaleText />
@@ -88,7 +88,7 @@ Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Wem sagst du das. Wir sind den Lampen gefolgt ... dachten wir. Aber einmal falsch geschoben und der Karren landet geradewegs im Schlamm.“</DefaultText>
+      <DefaultText>„Wem sagst du das. Wir sind den Lampen gefolgt&#160;… dachten wir. Aber einmal falsch geschoben und der Karren landet geradewegs im Schlamm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@ Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Tja, wenn du meinst! Also ehrlich ... sich an eine Frau anschleichen und sie dann auch noch schwach anreden ...“</DefaultText>
+      <DefaultText>„Tja, wenn du meinst! Also ehrlich&#160;… sich an eine Frau anschleichen und sie dann auch noch schwach anreden&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@ Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Noch ...“</DefaultText>
+      <DefaultText>„Noch&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@ Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Ich hasse es, noch mehr von dir zu erbitten, aber ... könntest du ihn befreien? Du wirkst recht fähig, und ich muss auf den Karren aufpassen.“</DefaultText>
+      <DefaultText>„Ich hasse es, noch mehr von dir zu erbitten, aber&#160;… könntest du ihn befreien? Du wirkst recht fähig, und ich muss auf den Karren aufpassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@ Sie seufzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Wir sind auf dem Weg nach Stalwart. Naja, wir waren es ...“</DefaultText>
+      <DefaultText>„Wir sind auf dem Weg nach Stalwart. Naja, wir waren es&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Sie seufzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Hui ... ich habe ihn noch nie ein freundliches Wort über jemanden sagen hören. Du hast wohl wirklich Eindruck gemacht!“</DefaultText>
+      <DefaultText>„Hui&#160;… ich habe ihn noch nie ein freundliches Wort über jemanden sagen hören. Du hast wohl wirklich Eindruck gemacht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@ Sie seufzt.</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Naja, so würde ich es nicht ...“</DefaultText>
+      <DefaultText>„Naja, so würde ich es nicht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,7 +257,7 @@ Sie seufzt. „Hoffentlich geht es ihm gut. Die Gegend hier ist nicht die beste 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Er ist wütend geworden, als der Karren umgefallen ist ... und ist beleidigt abgehauen. Jetzt sitze ich hier fest, bis er sich beruhigt hat.“</DefaultText>
+      <DefaultText>„Er ist wütend geworden, als der Karren umgefallen ist&#160;… und ist beleidigt abgehauen. Jetzt sitze ich hier fest, bis er sich beruhigt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

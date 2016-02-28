@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Wir sollten einen Spaten holen ...“</DefaultText>
+      <DefaultText>„Wir sollten einen Spaten holen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

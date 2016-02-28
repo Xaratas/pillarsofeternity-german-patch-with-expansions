@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Pssst! Sonst hört er dich noch ...“</DefaultText>
-      <FemaleText>„Pssst! Sonst hört sie dich noch ...“</FemaleText>
+      <DefaultText>„Pssst! Sonst hört er dich noch&#160;…“</DefaultText>
+      <FemaleText>„Pssst! Sonst hört sie dich noch&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>

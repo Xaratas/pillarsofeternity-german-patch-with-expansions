@@ -159,7 +159,7 @@ Die Wichte knurren und zischen, als Myllas Stimme lauter wird.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[So tun, als würdest du weggehen.] „Dann muss ich es eben deinen Eltern sagen ...“</DefaultText>
+      <DefaultText>[So tun, als würdest du weggehen.] „Dann muss ich es eben deinen Eltern sagen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@ Die Wichte knurren und zischen, als Myllas Stimme lauter wird.</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Das hat wirklich gereicht, um deine ... 'Freunde' zu beruhigen?“</DefaultText>
+      <DefaultText>„Das hat wirklich gereicht, um deine&#160;… 'Freunde' zu beruhigen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,7 +419,7 @@ Die Wichte knurren und zischen, als Myllas Stimme lauter wird.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[Mit der Hand in Richtung Mylla wedeln.] „Sagani, wärst du so nett ...?“</DefaultText>
+      <DefaultText>[Mit der Hand in Richtung Mylla wedeln.] „Sagani, wärst du so nett&#160;…?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

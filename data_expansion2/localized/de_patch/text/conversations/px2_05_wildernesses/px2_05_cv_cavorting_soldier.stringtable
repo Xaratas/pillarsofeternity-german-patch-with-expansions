@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Viel zu kalt, um irgendwas im Schilde zu führen ...“</DefaultText>
+      <DefaultText>„Viel zu kalt, um irgendwas im Schilde zu führen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@ Sie kichert.</DefaultText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Nun ... wozu bist du dann hier? Wenn die Patrouillen dich erwischen, werfen sie dich den Hunden zum Fraß vor.“</DefaultText>
+      <DefaultText>„Nun&#160;… wozu bist du dann hier? Wenn die Patrouillen dich erwischen, werfen sie dich den Hunden zum Fraß vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Sie kichert.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Nur das Offensichtliche ... sie haben nicht gut verhandelt.“</DefaultText>
+      <DefaultText>„Nur das Offensichtliche&#160;… sie haben nicht gut verhandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@ Sie kichert.</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Egal, was du gehört hast ... wir sind nicht nur hier, um ein paar Nasen blutig zu schlagen. Dieser Pass und die Batterie ... die Berge bilden einen Wall.“</DefaultText>
+      <DefaultText>„Egal, was du gehört hast&#160;… wir sind nicht nur hier, um ein paar Nasen blutig zu schlagen. Dieser Pass und die Batterie&#160;… die Berge bilden einen Wall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,17 +146,17 @@ Sie kichert.</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Außerdem ... scheint Gamel hier recht vernünftig zu sein.“</DefaultText>
+      <DefaultText>„Außerdem&#160;… scheint Gamel hier recht vernünftig zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Pass auf dich auf! Also ... wo waren wir?“</DefaultText>
+      <DefaultText>„Pass auf dich auf! Also&#160;… wo waren wir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Hier ... ich habe dir einen Schal mitgebracht.“</DefaultText>
+      <DefaultText>„Hier&#160;… ich habe dir einen Schal mitgebracht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@ Sie kichert.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„N-nein, wir sind nur ... Dorfbewohner.“</DefaultText>
+      <DefaultText>„N-nein, wir sind nur&#160;… Dorfbewohner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

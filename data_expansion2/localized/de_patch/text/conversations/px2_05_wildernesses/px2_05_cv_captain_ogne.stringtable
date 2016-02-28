@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Äh, ja ...“ Ogne sieht dich verwirrt an und zuckt dann mit den Schultern.
+      <DefaultText>„Äh, ja&#160;…“ Ogne sieht dich verwirrt an und zuckt dann mit den Schultern.
 
 „Also 'beliebt' würde ich nicht unbedingt sagen. Sie hat es offenbar irgendwie auf dich abgesehen.“</DefaultText>
       <FemaleText />
@@ -158,7 +158,7 @@ Ogne stupst die Leiche vor sich mit der Stiefelspitze an.</DefaultText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Maneha hebt eine Augenbraue. „Vielleicht hast du das einmal erwähnt ...“</DefaultText>
+      <DefaultText>Maneha hebt eine Augenbraue. „Vielleicht hast du das einmal erwähnt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
