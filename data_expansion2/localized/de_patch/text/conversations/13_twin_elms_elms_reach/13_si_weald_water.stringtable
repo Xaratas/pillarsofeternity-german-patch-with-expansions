@@ -97,17 +97,17 @@ Als der Wasserschlauch voll ist, zieht er ihn wieder hinaus und schließt ihn mi
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>You hold the waterskin in place, despite the agony in your fingers. Skin gives way to flesh, and then to bones, and still you feel the waterskin in your grip.</DefaultText>
+      <DefaultText>Trotz der Höllenqualen hälst du den Wasserschlauch in den Wasserfall. Deine Haut löst sich auf und lässt das Fleisch erkennen, dann die Knochen, und dennoch spürst du den Wasserschlauch im Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>It's all an illusion, you realize - and with that realization, the pain fades. From one moment to the next, the enchantment falls away, leaving an ordinary hand holding an ordinary - and full - waterskin.</DefaultText>
+      <DefaultText>Dir wird klar, dass das alles eine Illusion ist, und mit dieser Einsicht lässt der Schmerz nach. Von einem Augenblick auf den nächsten verschwindet die Verzauberung und übrig bleibt eine normale Hand die einen normalen, gefüllten, Wasserschlauch hällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>For a moment the illusion holds: You hold the waterskin in place, despite the agony in your fingers. Skin gives way to flesh, and then to bone.</DefaultText>
+      <DefaultText>Für einen Moment hält die Illusion: Trotz der Höllenqualen hälst du den Wasserschlauch in den Wasserfall. Deine Haut löst sich auf und lässt das Fleisch erkennen, dann die Knochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,22 +124,22 @@ Die Schmerzen lassen nach und verschwinden dann ganz. Auch der grauenhafte Anbli
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>But in the face of your surety, the enchantment weakens quickly. The pain fades, and from one moment to the next, the ghastly image of your melting hand is gone.</DefaultText>
+      <DefaultText>Gegen dein konzentriertes Bewusstsein verblasst die Verzauberung schell. Der Schmerz lässt nach und von einem Moment auf den nächsten ist auch der grauenhafte Anblick deiner verstümmelten Hand Vergangenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>The waterskin is quite full, and you are able to draw it away without further incident.</DefaultText>
+      <DefaultText>Der Wasserschlauch ist fast voll und du kannst ihn ohne weitere Zwischenfälle zurückziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>You palm a mouthful of the clear water, and take a careful sip.</DefaultText>
+      <DefaultText>Du füllst deine Handfäche mit dem klaren Wasser und schlürfst es vorsichtig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Despite its clean appearance, the water tastes brackish and foul. Whatever refreshment is drawn from it is surely not worth the rise of bile in your throat.</DefaultText>
+      <DefaultText>Obwohl es klar ist schmeckt es brackig und faul. Was auch immer die Erfrischung davon ist, es ist sicher nicht wert, dass dir die Galle hochkommt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
