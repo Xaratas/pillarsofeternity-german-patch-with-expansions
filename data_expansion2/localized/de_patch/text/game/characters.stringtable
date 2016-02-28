@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>1501</ID>
-      <DefaultText>Fampyr-Nahkämpfer</DefaultText>
+      <DefaultText>Fampir-Nahkämpfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>1504</ID>
-      <DefaultText>Fampyr-Verführer</DefaultText>
+      <DefaultText>Fampir-Verführer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,7 +481,7 @@
     </Entry>
     <Entry>
       <ID>1529</ID>
-      <DefaultText>Söldner-Soldat</DefaultText>
+      <DefaultText>Söldnersoldat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,32 +536,32 @@
     </Entry>
     <Entry>
       <ID>1544</ID>
-      <DefaultText />
+      <DefaultText>Bob der Stellvertreter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1545</ID>
-      <DefaultText />
+      <DefaultText>Jim der Stellvertreter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1546</ID>
-      <DefaultText />
+      <DefaultText>Sally die Stellvertreterin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1547</ID>
-      <DefaultText />
+      <DefaultText>Julie die Stellvertreterin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1548</ID>
-      <DefaultText />
+      <DefaultText>Biff der Stellvertreter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1549</ID>
-      <DefaultText />
+      <DefaultText>Amy die Stellvertreterin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1381,7 +1381,7 @@
     </Entry>
     <Entry>
       <ID>1724</ID>
-      <DefaultText />
+      <DefaultText>ycg Br Tomb Fragment</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>1870</ID>
-      <DefaultText>Batteriewachen</DefaultText>
+      <DefaultText>Wachen der Batterie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

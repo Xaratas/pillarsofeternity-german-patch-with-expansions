@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>1443</ID>
-      <DefaultText>Sie schützten ihre Augen gegen den Blick des Fampyrs</DefaultText>
+      <DefaultText>Sie schützten ihre Augen gegen den Blick des Fampirs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>1457</ID>
-      <DefaultText>Behälter zerstören</DefaultText>
+      <DefaultText>Gefäß zerstören</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Verbrennungs-, Säure-, Frost- und Elektroschockschaden.</DefaultText>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Verbrennungs-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>1471</ID>
-      <DefaultText>Ein einzelner Verbündeter wird wiederbelebt und geheilt. Er wird mit der Wirkung von „Versperrende Tür des Todes“ belegt und Verbündete in der Nähe werden geheilt.</DefaultText>
+      <DefaultText>Ein einzelner Verbündeter wird wiederbelebt und geheilt. Er wird mit der Wirkung von ‚Gnadenfrist‘ belegt und Verbündete in der Nähe werden geheilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>1480</ID>
-      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyranischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
+      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyrischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>1573</ID>
-      <DefaultText>Concelhauts verheerender Niedergang ist ein wahrlich einzigartiger Zauber. Er ruft einen gewaltigen magischen Hammer herbei, der wiederholt auf das Ziel niedersaust. Dabei wird dem Ziel Schmetterschaden zugefügt und es wird Niedergestreckt. Der Hammer schlägt wiederholt zu und wird dabei immer größer, genauer und schädlicher.</DefaultText>
+      <DefaultText>Concelhauts verheerender Niedergang ist ein wahrlich einzigartiger Zauber. Er ruft einen gewaltigen magischen Hammer herbei, der wiederholt auf das Ziel niedersaust. Dabei wird dem Ziel Wuchtschaden zugefügt und es wird Niedergestreckt. Der Hammer schlägt wiederholt zu und wird dabei immer größer, genauer und schädlicher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>1589</ID>
-      <DefaultText>Belegt ein einzelnes Ziel für kurze Zeit mit der Wirkung Dominiert.</DefaultText>
+      <DefaultText>Belegt ein einzelnes Ziel für kurze Zeit mit der Wirkung Beherrscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>1598</ID>
-      <DefaultText>Löscht jeden Besessenen aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
+      <DefaultText>Löscht jedes Gefäß aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,12 +571,12 @@
     </Entry>
     <Entry>
       <ID>1604</ID>
-      <DefaultText>Besessene rufen</DefaultText>
+      <DefaultText>Gefäße rufen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1605</ID>
-      <DefaultText>Beschwört mehrere zufällige Besessene</DefaultText>
+      <DefaultText>Beschwört mehrere zufällige Gefäße.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText>Erzeugt einen Strahl zwischen dem Zauberwirker und dem Ziel, der allen Feinden, die von ihm berührt werden, anhaltenden Schmetterschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen Strahl zwischen dem Zauberwirker und dem Ziel, der allen Feinden, die von ihm berührt werden, anhaltenden Wuchtschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,27 +601,27 @@
     </Entry>
     <Entry>
       <ID>1674</ID>
-      <DefaultText>Der Gefährte von Concelhauts Schädel kann den Schatten des Erzmagiers zu Hilfe rufen. Solange Concelhauts Visage manifestiert bleibt, wirkt sie Zauber. Der Beschwörer erleidet aber während der gesamten Dauer reinen Schaden, da der untote Zauberer ihm die Lebenskraft entzieht.</DefaultText>
+      <DefaultText>Der Begleiter von Concelhauts Schädel hat die Fähigkeiten den Schatten eines Erzmagiers zu Hilfe zu rufen. Solange die Beschwörung andauert wird das untote Gesicht des Schädels Zauber wirken, die der Beschwörer mit Direktschaden an seiner Lebensessenz bezahlt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1677</ID>
-      <DefaultText>Heilen</DefaultText>
+      <DefaultText>Heilt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>Der Priester setzt Heiliger Glanz ein, sobald jemand in der Gruppe unter 33% Ausdauer fällt oder zwei oder mehr Charaktere unter 50% Ausdauer fallen. Wenn Pro Ruhephase aktiviert ist, setzt der Priester Heilungs- und Wiederbelebungszauber ein.</DefaultText>
+      <DefaultText>Der Priester nutzt Heiliger Glanz, immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Charaktere unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1679</ID>
-      <DefaultText>Wendiger Rückzug</DefaultText>
+      <DefaultText>Flinker Rückzug</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1680</ID>
-      <DefaultText>Entziehende Berührung</DefaultText>
+      <DefaultText>Auszehrender Griff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,12 +726,12 @@
     </Entry>
     <Entry>
       <ID>1739</ID>
-      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner „Haut“ und bekommen die Eigenschaften von Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen die Wirkung Festgesetzt.</DefaultText>
+      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner „Haut“ und bekommen die Eigenschaften von Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen die Wirkung Bewegungsunfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1740</ID>
-      <DefaultText>Der Kämpfer sprintet blitzschnell über das Schlachtfeld und fügt jedem, der ihm im Weg steht, Schmetterschaden zu.</DefaultText>
+      <DefaultText>Der Kämpfer sprintet blitzschnell über das Schlachtfeld und fügt jedem, der ihm im Weg steht, Wuchtschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>1747</ID>
-      <DefaultText>Charaktere, die unter den Wirkungen Bezaubert, Verwirrt oder Dominiert stehen, werden mit einem schweren Malus auf ihre Genauigkeit belegt, wenn sie den Paladin angreifen. Außerdem verursachen die Angriffe des Paladins gegen solche Charaktere nur minimalen Schaden und heben die Wirkung immer auf.</DefaultText>
+      <DefaultText>Charaktere, die unter den Wirkungen Bezaubert, Verwirrt oder Beherrscht stehen, werden mit einem schweren Malus auf ihre Genauigkeit belegt, wenn sie den Paladin angreifen. Außerdem verursachen die Angriffe des Paladins gegen solche Charaktere nur minimalen Schaden und heben die Wirkung immer auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>1749</ID>
-      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Feinden Säureschaden zufügt und sie Geschwächt zurücklässt.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Feinden Zersetzungsschaden zufügt und sie Geschwächt zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@
     </Entry>
     <Entry>
       <ID>1752</ID>
-      <DefaultText>Zeichnet das Symbol von Ondra auf den Boden, das Feinden in regelmäßigen Abständen Schmetterschaden zufügt und Verbündeten Schadensreduktion verleiht.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Ondra auf den Boden, das Feinden in regelmäßigen Abständen Wuchtschaden zufügt und Verbündeten Schadensreduktion verleiht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>1754</ID>
-      <DefaultText>Zeichnet das Symbol von Wael auf den Boden, das Feinden in regelmäßigen Abständen Frostschaden zufügt und Verbündeten Resistenz gegen die Wirkungen Bezaubert, Verwirrt oder Dominiert verleiht.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Wael auf den Boden, das Feinden in regelmäßigen Abständen Frostschaden zufügt und Verbündeten Resistenz gegen die Wirkungen Bezaubert, Verwirrt oder Beherrscht verleiht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,12 +806,12 @@
     </Entry>
     <Entry>
       <ID>1757</ID>
-      <DefaultText>Verleiht einem einzigen Verbündeten vorübergehende Immunität gegen die Wirkungen Geblendet, Verwirrt, Benommen, Abgelenkt, Verängstigt, Humpelnd, Niedergestreckt, Erkrankt und Festgesetzt.</DefaultText>
+      <DefaultText>Verleiht einem einzigen Verbündeten vorübergehende Immunität gegen die Wirkungen Geblendet, Verwirrt, Benommen, Abgelenkt, Verängstigt, Humpelnd, Niedergestreckt, Erkrankt und Bewegungsunfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1758</ID>
-      <DefaultText>Verleiht einem einzigen Verbündeten vorübergehende Immunität gegen die Wirkungen Bezaubert, Dominiert, Gelähmt, Versteinert, Betäubt, Geschockt und Geschwächt.</DefaultText>
+      <DefaultText>Verleiht einem einzigen Verbündeten vorübergehende Immunität gegen die Wirkungen Bezaubert, Beherrscht, Gelähmt, Versteinert, Betäubt, Geschockt und Geschwächt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>1793</ID>
-      <DefaultText>Führt einen psychischen Angriff auf Feinde in der Umgebung des Wirkers aus. Jeder im Wirkungsradius erleidet reinen Schaden und wird mit der Wirkung Benommen belegt.</DefaultText>
+      <DefaultText>Führt einen psychischen Angriff auf Feinde in der Umgebung des Wirkers aus. Jeder im Wirkungsradius erleidet direkten Schaden und wird mit der Wirkung Benommen belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

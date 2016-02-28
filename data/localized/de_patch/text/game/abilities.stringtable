@@ -7970,12 +7970,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1611</ID>
-	  <DefaultText>Verwirren</DefaultText>
+      <DefaultText>Verwirren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1612</ID>
-	  <DefaultText>Löst für kurze Zeit die Wirkung Verwirrt aus.</DefaultText>
+      <DefaultText>Löst für kurze Zeit die Wirkung Verwirrt aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8300,7 +8300,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>Der Priester nutzt Heiliger Glanz, immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Leute unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
+      <DefaultText>Der Priester nutzt Heiliger Glanz, immer wenn einer aus der Gruppe unter 33% Ausdauer fällt oder wenn zwei oder mehr Charaktere unter 50% Ausdauer fallen. Ist Pro-Ruhephase aktiviert, dann wird der Priester Heilungs- und Wiederbelebungszaubersprüche einsetzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8513,7 +8513,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <DefaultText>Der Dieb fällt zu Boden und täuscht vor, dass er außer Gefecht ist. Er regeneriert seine Ausdauer und wartet ab, bis der rechte Augenblick gekommen ist, wieder in den Kampf einzusteigen. Wenn der Dieb aufsteht, wird er für kurze Zeit unsichtbar.</DefaultText>
       <FemaleText />
     </Entry>
-	<Entry>
+    <Entry>
       <ID>1721</ID>
       <DefaultText>Indem er durch die Zwischenwelt tritt, kann der Dieb sich einige Augenblicke lang scheinbar über das Schlachtfeld teleportieren. Wenn die Wirkung nachlässt, kehrt er automatisch zu seinem Ausgangspunkt zurück.</DefaultText>
       <FemaleText />

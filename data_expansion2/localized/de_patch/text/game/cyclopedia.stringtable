@@ -8,19 +8,19 @@
       <ID>301</ID>
       <DefaultText>Lagufaeth sind vierarmige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen - dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.
 
-Eine Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, Männchen oder Weibchen. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe - immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
+Ein Lagufaeth-Rotflosse ist ein dominanter, ausgewachsener Lagufaeth, egal ob Männchen oder Weibchen. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe - immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
       <DefaultText>Das Schicksal der Zwerge von Durgans Batterie blieb Gelehrten zweihundert Jahre lang ein Rätsel. Die wenigen Bruchstücke, die bekannt waren, ließen darauf schließen, dass eine Meinungsverschiedenheit zwischen ihren Kommandanten die Zwerge gespaltet hatten. Sie verriegelten die Tür der Batterie und kamen nie wieder heraus.
 
-Diese Skelette haben die Größe von Zwergen. Die Rüstungen, die sie tragen, waren einst von hervorragender Qualität ... genau wie der legendäre Durganstahl. Im Gegensatz zu den meisten Skeletten kämpfen sie in organisierten Formationen. Ihr Können und ihre Disziplin in der Schlacht machen sie zu formidablen Gegnern, genau wie ihre robuste Rüstung.</DefaultText>
+Diese Skelette haben die Größe von Zwergen. Die Rüstungen, die sie tragen, waren einst von hervorragender Qualität&#160;… genau wie der legendäre Durganstahl. Im Gegensatz zu den meisten Skeletten kämpfen sie in organisierten Formationen. Ihr Können und ihre Disziplin in der Schlacht machen sie zu formidablen Gegnern, genau wie ihre robuste Rüstung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>Gespenster sind - wie Phantome auch - Geister, die nach einem besonders gewalttätigen Leben oder Tod zurückgeblieben sind. Sie erscheinen zwar überall in Eora, doch die Pässe der Weißmark bringen sie mit alarmierender Häufigkeit hervor ... wimmelt es hier doch von Ogern, Lagufaeth, Banditen und Sklaven.
+      <DefaultText>Gespenster sind - wie Phantome auch - Geister, die nach einem besonders gewalttätigen Leben oder Tod zurückgeblieben sind. Sie erscheinen zwar überall in Eora, doch die Pässe der Weißmark bringen sie mit alarmierender Häufigkeit hervor&#160;… wimmelt es hier doch von Ogern, Lagufaeth, Banditen und Sklaven.
 
 Gespenster scheinen sich von lebender Essenz zu ernähren, und sie greifen jeden Gestandenen oder Wilden in ihrer Nähe an. Sie scheinen zwar wahllos in ihrer Aggression zu sein, sind jedoch klug genug, um Gruppen zu trennen und einzelne Opfer zu attackieren.</DefaultText>
       <FemaleText />
@@ -61,7 +61,7 @@ Mondspinnen sind berüchtigt dafür, symbiotische Beziehungen mit anderen, meist
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>Kriegshunde sind ein recht häufiger Anblick auf dem Schlachtfeld, auch wenn sie in den offenen Schlachten zwischen dyrwäldischen und readceranischen Truppen nie eine sonderlich große Rolle gespielt haben. Die Hunde des Eisenflegels gehören zu einer großen, kräftigen Rasse aus den ländlichen Gebieten von Readceras. Die Tiere der Rasse werden dort als Wachhunde gegen Wölfe und anderer Räuber eingesetzt. Die Kriegshunde des Eisenflegels wurden natürlich gezüchtet und erzogen, um es mit weitaus stärkeren Gegnern aufzunehmen.</DefaultText>
+      <DefaultText>Kriegshunde sind ein recht häufiger Anblick auf dem Schlachtfeld, auch wenn sie in den offenen Schlachten zwischen dyrwälderischen und readceranischen Truppen nie eine sonderlich große Rolle gespielt haben. Die Hunde des Eisenflegels gehören zu einer großen, kräftigen Rasse aus den ländlichen Gebieten von Readceras. Die Tiere der Rasse werden dort als Wachhunde gegen Wölfe und anderer Räuber eingesetzt. Die Kriegshunde des Eisenflegels wurden natürlich gezüchtet und erzogen, um es mit weitaus stärkeren Gegnern aufzunehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
