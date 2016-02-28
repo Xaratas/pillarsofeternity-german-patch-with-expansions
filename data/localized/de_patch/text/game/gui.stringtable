@@ -8785,7 +8785,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1751</ID>
-      <DefaultText>Nicht</DefaultText>
+      <DefaultText>Nicht {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
