@@ -250,6 +250,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2086</ID>
+      <DefaultText>Lindwürmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2087</ID>
       <DefaultText>Skuldrs</DefaultText>
       <FemaleText />
