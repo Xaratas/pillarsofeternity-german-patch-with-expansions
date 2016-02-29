@@ -29,7 +29,7 @@ Eine Frau tritt vor und fixiert den jungen Mann mit ihrem Blick.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Wegen dem Eisenflegel laufen die Leute Sturm gegen Ausländer, und zwar nicht nur gegen Readceraner. Ich hoffe, dass sich alle etwas beruhigen, wenn er erst einmal Geschichte ist.“ Sie blickt dich stirnrunzelnd an.</DefaultText>
+      <DefaultText>„Wegen des Eisenflegels laufen die Leute Sturm gegen Ausländer, und zwar nicht nur gegen Readceraner. Ich hoffe, dass sich alle etwas beruhigen, wenn er erst einmal Geschichte ist.“ Sie blickt dich stirnrunzelnd an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@ Nach einer unangenehmen Pause schluckt er und fährt fort.</DefaultText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Zumindest können sie uns wegen dem Eisenflegel nicht mehr blöd anreden. Aber es ist noch zu früh, um zu sagen, ob sich etwas ändert.“</DefaultText>
+      <DefaultText>„Zumindest können sie uns wegen des Eisenflegels nicht mehr blöd anreden. Aber es ist noch zu früh, um zu sagen, ob sich etwas ändert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -898,7 +898,7 @@ Er atmet zitternd aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>„Ein readceranischer Gesandter kam heute morgen, um über den Aufbau einer Handelsroute mitten durch die Stadt zu verhandeln.“</DefaultText>
+      <DefaultText>„Ein readceranischer Gesandter kam heute Morgen, um über den Aufbau einer Handelsroute mitten durch die Stadt zu verhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
