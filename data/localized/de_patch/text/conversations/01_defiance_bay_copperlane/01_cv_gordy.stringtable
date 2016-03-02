@@ -255,7 +255,7 @@ Er erwacht aus seiner Trance, beobachtet dich aber weiter fasziniert.</DefaultTe
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Hey, soll ich dir ein Geheimnis verraten?“ Er wischt sich die Nase am Ärmel ab. „Ich kenne ein echt gutes Geheimnis.“</DefaultText>
+      <DefaultText>„Hey du, soll ich dir ein Geheimnis verraten?“ Er wischt sich die Nase am Ärmel ab. „Ich kenne ein echt gutes Geheimnis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Er erwacht aus seiner Trance, beobachtet dich aber weiter fasziniert.</DefaultTe
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Ihm den Dolch zuwerfen.] „Bring dich nicht aus Versehen selber um oder sowas.“</DefaultText>
+      <DefaultText>[Ihm den Dolch zuwerfen.] „Bring dich nicht aus Versehen selbst um oder sowas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -287,7 +287,11 @@ Er schubst sie nach vorne.</DefaultText>
 „Und die einzige Geschichte, die die Leute hören werden, ist, dass Nestor Harond in Dyrfurt von einem Briganten ermordet wurde&#160;… und nicht, dass er seine eigene Nichte geschwängert hat, um einen edelblütigen Erben zu erlangen.“
 
 Er wendet sich den anderen vermummten Gestalten zu. „Tötet ihn.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich sollte dir für die Tötung des alten Mannes danken, aber du hast meine wochenlangen Vorbereitungen nutzlos gemacht.“ Er schaut auf den regungslosen Körper zu seinen Füßen hinab.
+
+„Und die einzige Geschichte, die die Leute hören werden, ist, dass Nestor Harond in Dyrfurt von einem Briganten ermordet wurde&#160;… und nicht, dass er seine eigene Nichte geschwängert hat, um einen edelblütigen Erben zu erlangen.“
+
+Er wendet sich den anderen vermummten Gestalten zu. „Tötet sie.“</FemaleText>
     </Entry>
     <Entry>
       <ID>116</ID>

@@ -119,9 +119,9 @@ Sie schaut mit fragenden Augen zu dir zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>113</ID>
-      <DefaultText>„Schau mich nicht so an. Das gehört mir nicht.“</DefaultText>
-      <FemaleText />
+      <ID>113</ID> <!-- Kontext ist 102, der schwangere Bauch, vom Onkel Fürst Harond. Ob der Spieler das zu der Zeit schon weiß, ka, nicht geprüft -->
+      <DefaultText>„Schau mich nicht so an. Das ist nicht von mir.“</DefaultText>
+      <FemaleText>„Das kommt leider auch in den besten Familen vor.“</FemaleText>
     </Entry>
     <Entry>
       <ID>114</ID>

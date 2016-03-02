@@ -65,9 +65,9 @@
       <FemaleText>„Ist doch egal, wer das ist! Sie hat es auf die Schriftrolle abgesehen!“</FemaleText>
     </Entry>
     <Entry>
-      <ID>15</ID>
-      <DefaultText>„Schnappt ihn euch!“</DefaultText>
-      <FemaleText>„Schnappt sie euch!“</FemaleText>
+      <ID>15</ID> <!-- Plural oder die Schriftrolle -->
+      <DefaultText>„Schnappt sie euch!“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
