@@ -97,7 +97,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ich habe eine Späherin geschickt. Ihre Auftrag lautete, dir zu folgen. Mehr nicht. Aber ihr Tod war immer eine Möglichkeit. Die sie akzeptierte.“</DefaultText>
+      <DefaultText>„Ich habe eine Späherin geschickt. Ihr Auftrag lautete, dir zu folgen. Mehr nicht. Aber ihr Tod war immer eine Möglichkeit. Die sie akzeptierte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,7 +284,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„... Wenn du es so ausdrückst, klingt es wirklich übel.“</DefaultText>
+      <DefaultText>„… Wenn du es so ausdrückst, klingt es wirklich übel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -710,7 +710,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Concelhaut ist nie dazu gekommen, eine riesige Adra-Statue zu bauen.“</DefaultText>
+      <DefaultText>„Concelhaut ist nie dazu gekommen, eine riesige Adrastatue zu bauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -725,7 +725,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„... Aber vielleicht gibt es einen Weg.“</DefaultText>
+      <DefaultText>„… Aber vielleicht gibt es einen Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -740,7 +740,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>„... Vielleicht gibt es einen Weg.“</DefaultText>
+      <DefaultText>„… Vielleicht gibt es einen Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -944,7 +944,7 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>[LR ALOTH: Animancers can be just as dangerous/ guess Llengrath doesn't think much of non-magi.]</DefaultText>
+      <DefaultText>"Unterschätze nicht die Gefahren von blindwütiger Inkompentenz, Llengrath."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
