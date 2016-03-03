@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ich habe die Dyrfurt-Mühle erreicht ... und darin Eska gefunden, der gerade gegen die Düsteren Schreiter kämpfte. Ich bezweifle, dass die Paladine über die Unterbrechung erfreut sein werden.</DefaultText>
+      <DefaultText>Ich habe die Dyrfurt-Mühle erreicht&#160;… und darin Eska gefunden, der gerade gegen die Düsteren Schreiter kämpfte. Ich bezweifle, dass die Paladine über die Unterbrechung erfreut sein werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>30004</ID>
-      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden. Eska hat die Begegnung nicht überlebt ... aber ich habe neue Verbündete.</DefaultText>
+      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden. Eska hat die Begegnung nicht überlebt&#160;… aber ich habe neue Verbündete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,12 +126,12 @@
     </Entry>
     <Entry>
       <ID>30007</ID>
-      <DefaultText>Ich habe die Düsteren Schreiter getötet und Eska gerettet. Er war froh zu hören, dass Kern dafür bezahlt hat, dass er so viel Tod über Eskas Familie gebracht hat ... und sehr dankbar für mein Einschreiten.</DefaultText>
+      <DefaultText>Ich habe die Düsteren Schreiter getötet und Eska gerettet. Er war froh zu hören, dass Kern dafür bezahlt hat, dass er so viel Tod über Eskas Familie gebracht hat&#160;… und sehr dankbar für mein Einschreiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30008</ID>
-      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden ... sehr zu Eskas Verärgerung. Der Knabe ist unbeschadet entkommen und ich habe nun einen Paladin in meinen Diensten stehen.</DefaultText>
+      <DefaultText>Ich habe entschieden, dass die Düsteren Schreiter nützlich sein könnten, und habe zwei von ihnen überzeugt, sich gegen ihren Anführer zu wenden&#160;… sehr zu Eskas Verärgerung. Der Knabe ist unbeschadet entkommen und ich habe nun einen Paladin in meinen Diensten stehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Einer der Einheimischen in der Weißsteinsenke wurde von bedrohlich wirkenden und bewaffneten Fremden besucht ... und wurde seitdem nicht gesehen. Seine Nachbarn befürchten das Schlimmste.</DefaultText>
+      <DefaultText>Einer der Einheimischen in der Weißsteinsenke wurde von bedrohlich wirkenden und bewaffneten Fremden besucht&#160;… und wurde seitdem nicht gesehen. Seine Nachbarn befürchten das Schlimmste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

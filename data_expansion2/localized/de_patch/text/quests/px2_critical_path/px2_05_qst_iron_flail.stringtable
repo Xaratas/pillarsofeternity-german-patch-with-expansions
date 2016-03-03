@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Diese readceranische Bande ist organisiert und gut ausgerüstet. Vielleicht finde ich in der Festung Hinweise auf ihre Beweggründe ... ansonsten lösche ich diese Bedrohung aus, bevor sie zu groß wird.</DefaultText>
+      <DefaultText>Diese readceranische Bande ist organisiert und gut ausgerüstet. Vielleicht finde ich in der Festung Hinweise auf ihre Beweggründe&#160;… ansonsten lösche ich diese Bedrohung aus, bevor sie zu groß wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ich bin dem Kommandanten der Festung begegnet. Er hat die Gesandten aus Stalwart gefangen genommen ... und er wird nicht erfreut über meine Einmischung sein.</DefaultText>
+      <DefaultText>Ich bin dem Kommandanten der Festung begegnet. Er hat die Gesandten aus Stalwart gefangen genommen&#160;… und er wird nicht erfreut über meine Einmischung sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,8 +86,8 @@
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Es hat sich herausgestellt, dass eine der Gesandten die Verhandlungen sabotiert hat. Sie hat sich selbst das Leben genommen, bevor sie auf die übliche Weise befragt werden konnte. Aus ihrer Erinnerung habe ich Wissen über den Tempelkomplex erlangt, von dem sie geschickt wurde. 
-Jede weitere Untersuchung muss warten ... es klingt, als gäbe es vor den Toren Konflikte.</DefaultText>
+      <DefaultText>Es hat sich herausgestellt, dass eine der Gesandten die Verhandlungen sabotiert hat. Sie hat sich selbst das Leben genommen, bevor sie auf die übliche Weise befragt werden konnte. Aus ihrer Erinnerung habe ich Wissen über den Tempelkomplex erlangt, von dem sie geschickt wurde.
+Jede weitere Untersuchung muss warten&#160;… es klingt, als gäbe es vor den Toren Konflikte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@ Die Tore sehen aus, als könnten sie allem widerstehen außer vielleicht einem R
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Ich habe Kommandant Adaryc zur Rede gestellt, den Anführer des Eisenflegels ... der offenbar ebenfalls ein Wächter ist. Durch seinen Tod ist die readceranische Bedrohung für Stalwart eliminiert. Allerdings hat sich der wahre Feind gezeigt: Eine Armee gigantischer Kreaturen, welche die Augenlosen genannt werden.</DefaultText>
+      <DefaultText>Ich habe Kommandant Adaryc zur Rede gestellt, den Anführer des Eisenflegels&#160;… der offenbar ebenfalls ein Wächter ist. Durch seinen Tod ist die readceranische Bedrohung für Stalwart eliminiert. Allerdings hat sich der wahre Feind gezeigt: Eine Armee gigantischer Kreaturen, welche die Augenlosen genannt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ Die Tore sehen aus, als könnten sie allem widerstehen außer vielleicht einem R
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Auf meiner Reise durch den Nordwesten von Stalwart bin ich auf eine Festung gestoßen, an der ausländische Banner wehen. Was die Besitzer der Festung auch für Absichten haben ... es sind nicht wenige.</DefaultText>
+      <DefaultText>Auf meiner Reise durch den Nordwesten von Stalwart bin ich auf eine Festung gestoßen, an der ausländische Banner wehen. Was die Besitzer der Festung auch für Absichten haben&#160;… es sind nicht wenige.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

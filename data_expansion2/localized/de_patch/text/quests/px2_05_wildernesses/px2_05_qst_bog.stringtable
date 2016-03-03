@@ -61,18 +61,18 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Der Architekt der Belagerung von Concelhauts Turm hat sich als eine Erbin des Erzmagiers Llengrath entpuppt, die seinen Namen und seinen Titel geerbt hat. Ihr Tod – und der ihrer beiden Drachenverbündeten – setzt ihren Intrigen ein Ende ... und sichert mein eigenes Vermächtnis.</DefaultText>
+      <DefaultText>Der Architekt der Belagerung von Concelhauts Turm hat sich als eine Erbin des Erzmagiers Llengrath entpuppt, die seinen Namen und seinen Titel geerbt hat. Ihr Tod – und der ihrer beiden Drachenverbündeten – setzt ihren Intrigen ein Ende&#160;… und sichert mein eigenes Vermächtnis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Der Architekt der Belagerung von Concelhauts Turm hat sich als eine Erbin des Erzmagiers Llengrath entpuppt, die seinen Namen und seinen Titel geerbt hat. Nach einigen Verhandlungen haben wir uns geeinigt, anstatt uns zu bekämpfen. Llengrath hat einen Teil ihres angehäuften Wissens mit mir geteilt ... und ein Paar Drachen an meiner Seite zu haben wird bestimmt nützlich sein.</DefaultText>
+      <DefaultText>Der Architekt der Belagerung von Concelhauts Turm hat sich als eine Erbin des Erzmagiers Llengrath entpuppt, die seinen Namen und seinen Titel geerbt hat. Nach einigen Verhandlungen haben wir uns geeinigt, anstatt uns zu bekämpfen. Llengrath hat einen Teil ihres angehäuften Wissens mit mir geteilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte ... den Meister von Caed Nua.</DefaultText>
-      <FemaleText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte ... die Meisterin von Caed Nua.</FemaleText>
+      <DefaultText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte&#160;… den Meister von Caed Nua.</DefaultText>
+      <FemaleText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte&#160;… die Meisterin von Caed Nua.</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
