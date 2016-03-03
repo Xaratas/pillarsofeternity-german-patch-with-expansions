@@ -12,17 +12,17 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>„Der Assassine, der Eldrid Wenfeld erwischt hat?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Assassine, die Eldrid Wenfeld erwischt hat?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>„Nicht so laut, sonst hört er dich!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nicht so laut, sonst hört sie dich!“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>„Wenn er sich an den Hauptmann angeschlichen hat, hat er das vermutlich schon.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenn sie sich an den Hauptmann angeschlichen hat, hat sie das vermutlich schon.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

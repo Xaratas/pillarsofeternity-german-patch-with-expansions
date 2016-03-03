@@ -131,8 +131,8 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Das wird er nicht lange sein, wenn er weiterhin solche Ansprüche erhebt.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Das wird er nicht mehr lange sein, wenn er weiterhin solche Ansprüche erhebt.“</DefaultText>
+      <FemaleText>„Das wird sie nicht mehr lange sein, wenn sie weiterhin solche Ansprüche erhebt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -399,8 +399,8 @@ Der Raum lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Noch eine Vermutung! Werfen wir ihn einfach raus, Euer Gnaden. Er verschwendet nur unsere Zeit.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Noch eine Vermutung! Werfen sie ihn einfach raus, Euer Gnaden. Er verschwendet nur unsere Zeit.“</DefaultText>
+      <FemaleText>„Noch eine Vermutung! Werfen sie sie einfach raus, Euer Gnaden. Sie verschwendet nur unsere Zeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -509,8 +509,8 @@ Der Raum lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Ich&#160;… das habe ich nicht so gemeint. Er hat mir die Worte im Mund umgedreht.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Ich&#160;… das habe ich so nicht gemeint. Er hat mir die Worte im Mund umgedreht.“</DefaultText>
+      <FemaleText>„Ich&#160;… das habe ich so nicht gemeint. Sie hat mir die Worte im Mund umgedreht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
@@ -725,7 +725,7 @@ In Palleginas Worten und der Art, wie sie ihren Landsmann ansieht, spürst du so
     <Entry>
       <ID>159</ID>
       <DefaultText>„Gut so, Wächter, diese Anhörung beim Schopf zu packen. Vergeude deine Chance nicht.“</DefaultText>
-      <FemaleText>Gut so, Wächterin, diese Anhörung beim Schopf zu packen. Vergeude deine Chance nicht.</FemaleText>
+      <FemaleText>„Gut so, Wächterin, diese Anhörung beim Schopf zu packen. Vergeude deine Chance nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>
