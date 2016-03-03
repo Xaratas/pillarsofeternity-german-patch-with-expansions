@@ -107,7 +107,7 @@ Sie lächelt schwach. „Wir sind dir alle sehr dankbar, dass du die Batterie wi
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+       <DefaultText>Hör auf zu motzen. Mylla ist wieder zurück. Lödgar ist tot.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@ Sie klopft Mylla auf den Rücken und schiebt sie nach vorne.</DefaultText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>Schachere um eine höhere Belohnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@ Lödgar bedeutet ihr mit einem sanften Druck auf die Schulter, still zu sein.</D
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Sie ist schon seit einer ganzen Weile fort. Das ist nichts Neues.“ Sie kauft nachdenklich auf ihrer Lippe herum. „Aber ich mache mir trotzdem Sorgen, dass sie vielleicht in Schwierigkeiten steckt.“</DefaultText>
+      <DefaultText>„Sie ist schon seit einer ganzen Weile fort. Das ist nichts Neues.“ Sie kaut nachdenklich auf ihrer Lippe herum. „Aber ich mache mir trotzdem Sorgen, dass sie vielleicht in Schwierigkeiten steckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
