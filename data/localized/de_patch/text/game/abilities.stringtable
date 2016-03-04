@@ -1846,7 +1846,7 @@
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>Blutdurst</DefaultText>
+      <DefaultText>Blutgier</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4286,7 +4286,7 @@
     </Entry>
     <Entry>
       <ID>874</ID>
-      <DefaultText>Flößt dem Barbaren einen unstillbaren Blutdurst ein, durch den seine Geschwindigkeit im Kampf vorübergehend erhöht wird, sobald er persönlich zwei Gegner erledigt hat.</DefaultText>
+      <DefaultText>Flößt dem Barbaren eine unstillbare Blutgier ein, durch die seine Geschwindigkeit im Kampf vorübergehend erhöht wird, sobald er persönlich zwei Gegner erledigt hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
