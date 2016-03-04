@@ -97,7 +97,7 @@ Sie verschränkt die Hände und blickt mit fast schon religiöser Ehrerbietung d
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Ich will diesen Schönheiten nicht zu nahe treten, aber mit den Langstreckenkanonen können sie nicht mithalten.“ Sie deutet auf eine der eingefrorenen Kanonen.</DefaultText>
+      <DefaultText>„Ich will diesen Schönheiten nicht zu nahe treten, aber mit den grossen Kanonen können sie weder in Reichweite noch Feuerkraft mithalten.“ Sie deutet auf eine der eingefrorenen Kanonen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,7 +184,7 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Wenn wir einmal die Langstreckenkanonen haben.“ Sie blickt wieder nach oben.</DefaultText>
+      <DefaultText>„Wenn wir einmal die schweren Kanonen haben.“ Sie blickt wieder nach oben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -209,7 +209,7 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>„Ich will diesen Schönheiten nicht zu nahe treten, aber mit den Langstreckenkanonen können sie nicht mithalten.“ Sie deutet auf eine der eingefrorenen Kanonen.</DefaultText>
+      <DefaultText>„Ich will diesen Schönheiten nicht zu nahe treten, aber mit den grossen Kanonen können sie weder in Reichweite noch Feuerkraft mithalten.“ Sie deutet auf eine der eingefrorenen Kanonen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,12 +219,12 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Aber&#160;… willst du nicht sehen, wie die Langstreckenkanonen funktionieren?“</DefaultText>
+      <DefaultText>„Aber&#160;… willst du nicht sehen, wie die großen Kanonen funktionieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Was ist das Problem mit den Langstreckenkanonen?“</DefaultText>
+      <DefaultText>„Was ist das Problem mit den schweren Kanonen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,7 +264,7 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Culmar hat den Schutt beiseite geräumt, bevor er sich praktischerweise verletzt hat. Von dort aus solltest du dich zu den Langstreckenkanonen vorarbeiten können.“</DefaultText>
+      <DefaultText>„Culmar hat den Schutt beiseite geräumt, bevor er sich praktischerweise verletzt hat. Von dort aus solltest du dich zu den Kanonen vorarbeiten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,7 +274,7 @@ Als das Bild verblasst, siehst du wieder die Vision von einhundert Augen, die di
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Culmar hat den Schutt beiseite geräumt, bevor er sich praktischerweise verletzt hat. Von dort aus solltest du dich zu den Langstreckenkanonen vorarbeiten können.“</DefaultText>
+      <DefaultText>„Culmar hat den Schutt beiseite geräumt, bevor er sich praktischerweise verletzt hat. Von dort aus solltest du dich zu den Kanonen vorarbeiten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,7 +533,7 @@ Sie kratzt sich am Arm. Ein Büschel verbrannter Haare fällt in den Schnee.</De
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Mit Readceranern kann man nicht vernünftig reden. Deswegen müssen wir diese Langstreckenkanonen reparieren&#160;… damit wir bereit sind, wenn sie kommen.“</DefaultText>
+      <DefaultText>„Mit Readceranern kann man nicht vernünftig reden. Deswegen müssen wir diese Kanonen reparieren&#160;… damit wir bereit sind, wenn sie kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -602,7 +602,7 @@ Langsam blickt sie wieder zu dir zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Wenn die anderen das hören, MÜSSEN sie mir erlauben, die Langstreckenkanonen zu verwenden.“ Ein Lächeln breitet sich langsam in ihrem Gesicht aus.</DefaultText>
+      <DefaultText>„Wenn die anderen das hören, MÜSSEN sie mir erlauben, die großen Kanonen zu verwenden.“ Ein Lächeln breitet sich langsam in ihrem Gesicht aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

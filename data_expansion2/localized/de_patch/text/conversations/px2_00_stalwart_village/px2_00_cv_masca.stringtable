@@ -276,7 +276,7 @@ Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm da
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Als erstes musst du zum Abydon-Schrein auf Burg Schmelztiegel gehen. Sie liegt im Bezirk Urfeuer in Trutzbucht. Ich war selbst noch nie dort. Leg den Hammer einfach auf den Schrein, dann wird er gesegnet. Oder vor den Schrein. Oder irgendwie so.“</DefaultText>
+      <DefaultText>„Als Erstes musst du zum Abydon-Schrein auf Burg Schmelztiegel gehen. Sie liegt im Bezirk Urfeuer in Trutzbucht. Ich war selbst noch nie dort. Leg den Hammer einfach auf den Schrein, dann wird er gesegnet. Oder vor den Schrein. Oder irgendwie so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@ Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm da
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Warte. Vielleicht ist das keine Gute Idee. Verwende den Hammer nicht.“</DefaultText>
+      <DefaultText>„Warte. Vielleicht ist das keine gute Idee. Verwende den Hammer nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

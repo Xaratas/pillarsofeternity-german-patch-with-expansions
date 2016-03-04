@@ -801,7 +801,7 @@
     </Entry>
     <Entry>
       <ID>1730</ID>
-      <DefaultText>Der Sänger erschafft zwei reflektierende Strahlen aus purem Licht. Verbündete, die von ihnen getroffen werden, regenerieren Ausdauer und erhalten Immunität gegen die Wirkungen Verängstigt und Geschockt.</DefaultText>
+      <DefaultText>Der Sänger erschafft zwei reflektierende Strahlen aus purem Licht. Verbündete, die von ihnen getroffen werden, regenerieren Ausdauer und erhalten Immunität gegen die Wirkungen Verängstigt und Verschreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,7 +861,7 @@
     </Entry>
     <Entry>
       <ID>1764</ID>
-      <DefaultText>Der Zauberer beschwört einen furchterregenden Bogen, der Feinden Zersetzungschaden zufügt und sie Geschockt zurücklässt. Jeder Energiebolzen, den der Zauberer abfeuert, springt zu einem zusätzlichen Ziel weiter.</DefaultText>
+      <DefaultText>Der Zauberer beschwört einen furchterregenden Bogen, der Feinden Zersetzungschaden zufügt und sie Verschreckt zurücklässt. Jeder Energiebolzen, den der Zauberer abfeuert, springt zu einem zusätzlichen Ziel weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>1834</ID>
-      <DefaultText>Der Kämpfer ist immun gegen die Wirkungen Verängstigt und Geschockt.</DefaultText>
+      <DefaultText>Der Kämpfer ist immun gegen die Wirkungen Verängstigt und Verschreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>1850</ID>
-      <DefaultText>Der Wirker erhält Immunität gegen die Wirkungen Bezaubert, Verwirrt, Benommen, Abgelenkt, Beherrscht, Verängstigt, Betäubt und Geschockt. Die Schilde negieren zwei Angriffe von jedem Wirkungstyp.</DefaultText>
+      <DefaultText>Der Wirker erhält Immunität gegen die Wirkungen Bezaubert, Verwirrt, Benommen, Abgelenkt, Beherrscht, Verängstigt, Betäubt und Verschreckt. Die Schilde negieren zwei Angriffe von jedem Wirkungstyp.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

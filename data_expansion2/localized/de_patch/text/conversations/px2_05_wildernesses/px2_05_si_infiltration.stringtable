@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Als du von unten hinaufblickst, bemerkst du, dass der Wachturm beim Seitentor unbemannt zu sein scheint. Es blicken auch keine feindlichen Gesichter über den Zaun.
 
-Das Dach des Turms ist mit den Festungswänden verbunden. Wenn du hinaufkletterst, gelangst du vielleicht irgendwie hinein.</DefaultText>
+Das Dach des Turms ist mit den Festungsmauern verbunden. Wenn du hinaufkletterst, gelangst du vielleicht irgendwie hinein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20,7 +20,7 @@ Du ziehst einige Male an dem Seil. Es scheint zu halten.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Du hörst Stimmen auf der anderen Seite des Tores, die sich lebhaft unterhalten. Am hellichten Tage herrscht in dem Lager reges Treiben.
+      <DefaultText>Du hörst Stimmen auf der anderen Seite des Tores, die sich lebhaft unterhalten. Am helllichten Tage herrscht in dem Lager reges Treiben.
 
 Wer diskret vorgeht, der schafft es vielleicht, das Tor zu öffnen, bevor Alarm geschlagen wird. Mitten am Tag ist das aber natürlich riskant.</DefaultText>
       <FemaleText />

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText />
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@ Die Schmerzen lassen nach und verschwinden dann ganz. Auch der grauenhafte Anbli
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Gegen dein konzentriertes Bewusstsein verblasst die Verzauberung schell. Der Schmerz lässt nach und von einem Moment auf den nächsten ist auch der grauenhafte Anblick deiner verstümmelten Hand Vergangenheit.</DefaultText>
+      <DefaultText>Gegen dein konzentriertes Bewusstsein verblasst die Verzauberung schnell. Der Schmerz lässt nach und von einem Moment auf den nächsten ist auch der grauenhafte Anblick deiner verstümmelten Hand Vergangenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

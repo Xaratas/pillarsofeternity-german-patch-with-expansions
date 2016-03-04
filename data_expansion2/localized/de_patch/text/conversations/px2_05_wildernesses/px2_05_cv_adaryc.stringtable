@@ -104,7 +104,7 @@ Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne u
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„... Und wenn nicht? Wenn das nur der Wahnsinn eines Wächters ist und ich meine Leute ins Verderben führe?“</DefaultText>
+      <DefaultText>„… Und wenn nicht? Wenn das nur der Wahnsinn eines Wächters ist und ich meine Leute ins Verderben führe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +167,7 @@ Seelenenergie wabert durch die Luft und du hörst das Schaben von Metall, als Ad
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Worte, nach denen man leben kann .. und sterben. Ein Jammer, dass du als Feind gekommen bist.“</DefaultText>
+      <DefaultText>„Worte, nach denen man leben kann&#160;… und sterben. Ein Jammer, dass du als Feind gekommen bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,10 +419,10 @@ Einen Augenblick lang teilst du seine Emotionen und eine Verzweiflung ohne Herku
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Ah. Stalwart reicht die Hand des Friedens, hält aber hinter dem Rücken einen Dolch versteckst! Ein einsamer Mörder.“
+      <DefaultText>„Ah. Stalwart reicht die Hand des Friedens, hält aber hinter dem Rücken einen Dolch versteckt! Ein einsamer Mörder.“
 
 „Tja, nun bist du in der Unterzahl, würde ich sagen.“</DefaultText>
-      <FemaleText>„Ah. Stalwart reicht die Hand des Friedens, hält aber hinter dem Rücken einen Dolch versteckst! Eine einsame Mörderin.“
+      <FemaleText>„Ah. Stalwart reicht die Hand des Friedens, hält aber hinter dem Rücken einen Dolch versteckt! Eine einsame Mörderin.“
 
 „Tja, nun bist du in der Unterzahl, würde ich sagen.“</FemaleText>
     </Entry>
@@ -531,7 +531,7 @@ Du hörst das Knarzen von Rüstungen, als seine Soldaten ihre Waffen bereitmache
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Dass ich in dir mehr zu fürchten habe als in jedem Dyrwäldler.“</DefaultText>
+      <DefaultText>„Dass ich in dir mehr zu fürchten habe als in jedem Dyrwälder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -627,7 +627,7 @@ Adaryc geht einige Schritte, bevor er sich fängt.</DefaultText>
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>„... Der Donner hat mich zum Tempel von Morgendämmer geführt und die Erde hat sich unter unseren Füßen aufgetan.“</DefaultText>
+      <DefaultText>„… Der Donner hat mich zum Tempel von Morgendämmer geführt und die Erde hat sich unter unseren Füßen aufgetan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,7 +642,7 @@ Adaryc geht einige Schritte, bevor er sich fängt.</DefaultText>
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>„... Wir würden einen Angriff des Dyrwalds nicht überleben, wenn er kommt. Es sei denn, wir handeln.“</DefaultText>
+      <DefaultText>„… Wir würden einen Angriff des Dyrwalds nicht überleben, wenn er kommt. Es sei denn, wir handeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@ Adarycs Blick ist leer.</DefaultText>
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>„... Diese Gebirgskette, der Pass, bietet einen direkten Weg zwischen Readceras und dem Dyrwald. Ein strategischer Punkt&#160;… und einer der vielen Gründe, warum die Zwerge die Batterie hier errichtet haben.“</DefaultText>
+      <DefaultText>„… Diese Gebirgskette, der Pass, bietet einen direkten Weg zwischen Readceras und dem Dyrwald. Ein strategischer Punkt&#160;… und einer der vielen Gründe, warum die Zwerge die Batterie hier errichtet haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1130,7 +1130,7 @@ Zorn scheint ihm Halt gegeben zu haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>„Das habe ich nicht gemeint.</DefaultText>
+      <DefaultText>„Das habe ich nicht gemeint.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

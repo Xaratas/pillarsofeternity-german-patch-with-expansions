@@ -55,7 +55,7 @@ Das Geheimnis, wie man zu einem erleuchteten Nalpazca-Krieger wird, dem Anitlei,
       <ID>10003</ID>
       <DefaultText>Der Löwe hat uns zu einem Geist geführt, der versucht, einen Edelstein an sich zu nehmen, den er auf einem Podest abgelegt hat.
 
-Die Leichen um das Podest herum scheinen alle von dem Geist zu stammen ... was vermuten lässt, dass die Aufgabe nicht so leicht ist, wie sie scheint.</DefaultText>
+Die Leichen um das Podest herum scheinen alle von dem Geist zu stammen&#160;… was vermuten lässt, dass die Aufgabe nicht so leicht ist, wie sie scheint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@ Wenn sie mit diesem Saft eingerieben wird, kann die Antilope vielleicht überleb
     </Entry>
     <Entry>
       <ID>10011</ID>
-      <DefaultText>Zahua hat einen Ort östlich von Stalwart erwähnt, von dem er glaubt, dass er eine spirituelle Bedeutung für ihn hat ... die sogenannte Weißsteinsenke.
+      <DefaultText>Zahua hat einen Ort östlich von Stalwart erwähnt, von dem er glaubt, dass er eine spirituelle Bedeutung für ihn hat&#160;… die sogenannte Weißsteinsenke.
 
 Er hat darum gebeten, dass wir sie erforschen.</DefaultText>
       <FemaleText />
@@ -116,7 +116,7 @@ Er hat darum gebeten, dass wir sie erforschen.</DefaultText>
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>Zahua hat mich gebeten, dass wir in die Wildnis östlich von Stalwart reisen. Er hat dort einen Ort gefunden, der in seiner Seele widerhallt. Nun hofft er, dort Antworten zu finden ... Antworten, die ihm helfen, sein Volk aus der Sklaverei zu befreien, wie er es geschworen hat.</DefaultText>
+      <DefaultText>Zahua hat mich gebeten, dass wir in die Wildnis östlich von Stalwart reisen. Er hat dort einen Ort gefunden, der in seiner Seele widerhallt. Nun hofft er, dort Antworten zu finden&#160;… Antworten, die ihm helfen, sein Volk aus der Sklaverei zu befreien, wie er es geschworen hat.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

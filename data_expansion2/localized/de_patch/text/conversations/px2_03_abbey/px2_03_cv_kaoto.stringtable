@@ -351,7 +351,7 @@ Du blickst unter dich, in eine strahlend hell leuchtende Erinnerung. Als du scho
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Du schreitest raschen Schrittes durch einen Gang, der von kleinen, mit Gittern verschlossenen Räumen gesäumt ist. Es fühlt sich an wie ein Gefängnis, aber die Architektur entspricht der der Abtei.
+      <DefaultText>Du schreitest raschen Schrittes durch einen Gang, der von kleinen, mit Gittern verschlossenen Räumen gesäumt ist. Es fühlt sich an wie ein Gefängnis, aber die Architektur entspricht der Abtei.
 
 Dein Herz pocht.</DefaultText>
       <FemaleText />
@@ -575,7 +575,7 @@ Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>„Bist du sicher, dass du die Anweisungen nicht falschherum gehalten hast?“</DefaultText>
+      <DefaultText>„Bist du sicher, dass du die Anweisungen nicht falsch herum gehalten hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

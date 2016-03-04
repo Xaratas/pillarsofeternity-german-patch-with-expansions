@@ -230,7 +230,7 @@ Ihr schwingt den Rammbock nach vorne und die Tore geben mit einem gewaltigen Kra
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Ein gleißend helles Licht bricht plötzlich bei den Festungswänden aus und löst überraschte Rufe aus. Du hörst einen schrillen Schrei, als jemand auf der Festung den Halt verliert.</DefaultText>
+      <DefaultText>Ein gleißend helles Licht bricht plötzlich bei den Festungsmauern aus und löst überraschte Rufe aus. Du hörst einen schrillen Schrei, als jemand auf der Festung den Halt verliert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,7 +257,7 @@ Aber das Gewicht fordert seinen Tribut. Die Energie von [SkillCheck 1] schwindet
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Deine Gefährten folgen und bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet. 
+      <DefaultText>Deine Gefährten folgen und bringen sich in Sicherheit, als das Pech in stinkenden, zischenden Klumpen um euch herum niederregnet.
 
 Unverletzt heben deine Kameraden und du den Baumstamm wieder auf.</DefaultText>
       <FemaleText />

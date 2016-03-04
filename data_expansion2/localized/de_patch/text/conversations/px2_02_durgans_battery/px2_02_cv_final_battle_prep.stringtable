@@ -233,14 +233,14 @@ Er blickt dich an und nickt.</DefaultText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>„Weißt du, diese Langstreckenkanonen, die du repariert hast, könnten sich als nützlich erweisen.“ Sie grinst mit schelmisch funkelnden Augen.
+      <DefaultText>„Weißt du, diese schweren Kanonen, die du repariert hast, könnten sich als nützlich erweisen.“ Sie grinst mit schelmisch funkelnden Augen.
 
 Deryan fängt an zu stöhnen und sie hebt beide Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Weißt du, wenn du diese Langstreckenkanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen.“ Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
+      <DefaultText>„Weißt du, wenn du diese schweren Kanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen.“ Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@ Deryan fängt an zu stöhnen und sie hebt beide Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Das ist jetzt eine Gefahr für uns alle.“ 
+      <DefaultText>„Das ist jetzt eine Gefahr für uns alle.“
 
 Matronin Beregan taumelt hinter Deryan und Wengra heran, flankiert von zwei kräftigen Ogern.</DefaultText>
       <FemaleText />
@@ -439,7 +439,7 @@ Nach einer Pause tritt Beregan vor.</DefaultText>
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>„Weißt du, wenn du diese Langstreckenkanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen.“ Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
+      <DefaultText>„Weißt du, wenn du diese schweren Kanonen reparieren könntest, dann könnte ich dich vielleicht mit ein wenig Feuerkraft unterstützen.“ Sie grinst mit schelmisch funkelnden Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -70,14 +70,14 @@
 
 Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im „Reliquiar“ getan werden müsse.
 
-Er sprach auch von einem Besucher, der in der Abtei erwartet werde, um seinen Platz einzunehmen ... dem „Gezeitenbringer“.
+Er sprach auch von einem Besucher, der in der Abtei erwartet werde, um seinen Platz einzunehmen&#160;… dem „Gezeitenbringer“.
 
 Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu dieser Abtei liegt. Ich muss dorthin reisen, wenn ich diese Gefahr aufhalten will.</DefaultText>
       <FemaleText>Eine der Gesandten von Stalwart, die geschickt wurden, um mit dem Eisenflegel zu verhandeln, war eine Ondritin, die aus einer Abtei im Norden entsandt wurde, um die Readceraner von ihrem Kurs abzubringen.
 
 Offenbar wusste der Anführer der Abtei, ein Mann namens Kaoto, wie man die Monsterarmee aufhalten konnte. Er erwähnte, dass es im „Reliquiar“ getan werden müsse.
 
-Er sprach auch von einer Besucherin, die in der Abtei erwartet werde, um seinen Platz einzunehmen ... der „Gezeitenbringerin“.
+Er sprach auch von einer Besucherin, die in der Abtei erwartet werde, um seinen Platz einzunehmen&#160;… der „Gezeitenbringerin“.
 
 Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu dieser Abtei liegt. Ich muss dorthin reisen, wenn ich diese Gefahr aufhalten will.</FemaleText>
     </Entry>
@@ -88,7 +88,7 @@ Aus der Seele der Ondritin konnte ich das Wissen schöpfen, wo der Pfad zu diese
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Die Abtei ist riesig. Ich muss herausfinden, wo sich das Reliquiar aus der Erinnerung des Ondriten befindet ... und dann hineingelangen, um diese Armee aufzuhalten.
+      <DefaultText>Die Abtei ist riesig. Ich muss herausfinden, wo sich das Reliquiar aus der Erinnerung des Ondriten befindet&#160;… und dann hineingelangen, um diese Armee aufzuhalten.
 
 Kaoto, der Abt, der in der Vision mit dem Ondriten gesprochen hat, scheint zu wissen, wie man es betreten kann.</DefaultText>
       <FemaleText />
@@ -112,7 +112,7 @@ Er kann genutzt werden, um die Halle des Schweigens zu überfluten. Möglicherwe
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Das Reliquiar scheint nur ein einziges Relikt zu enthalten ... den Schädel eines gewaltigen Lebewesens.
+      <DefaultText>Das Reliquiar scheint nur ein einziges Relikt zu enthalten&#160;… den Schädel eines gewaltigen Lebewesens.
 
 Irgendwo in diesem ummauerten Bereich befindet sich das Werkzeug, mit dem Kaoto die Augenlosen zurückrufen wollte.</DefaultText>
       <FemaleText />
@@ -126,10 +126,10 @@ Irgendwo in diesem ummauerten Bereich befindet sich das Werkzeug, mit dem Kaoto 
       <ID>10009</ID>
       <DefaultText>Der Oberabt hat erklärt, dass ich ihn nach Abschluss des Anstiegs – desselben Rituals, von dem Farentis gesprochen hat – als Anführer der Abtei ersetzen werde und dann auch Zugang zum Reliquiar haben werde.
 
-Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</DefaultText>
+Als Erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</DefaultText>
       <FemaleText>Der Oberabt hat erklärt, dass ich ihn nach Abschluss des Anstiegs – desselben Rituals, von dem Farentis gesprochen hat – als Anführerin der Abtei ersetzen werde und dann auch Zugang zum Reliquiar haben werde.
 
-Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</FemaleText>
+Als Erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich in die Halle des Schweigens zurückkehren und das Aspergill namens 'Ondras Zeuge' an mich nehmen.</FemaleText>
     </Entry>
     <Entry>
       <ID>10010</ID>
@@ -208,7 +208,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20015</ID>
-      <DefaultText>Ich habe erfahren, dass der Oberabt, Kaoto, in letzter Zeit unter seltsamen Albträumen leidet ... und dass sein Quartier auf der Ostseite der Halle des Schweigens liegt.</DefaultText>
+      <DefaultText>Ich habe erfahren, dass der Oberabt, Kaoto, in letzter Zeit unter seltsamen Albträumen leidet&#160;… und dass sein Quartier auf der Ostseite der Halle des Schweigens liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,12 +228,12 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20019</ID>
-      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören&#160;… und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20020</ID>
-      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören&#160;… und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20022</ID>
-      <DefaultText>Farentis will, dass die Ebbe befreit werden. Er sagte, dazu bräuchte man ein bestimmtes Relikt, das in der Halle des Schweigens liegt. Es ist dasselbe Relikt, mit dem Kaoto mir aufgetragen hat, die Halle zu überfluten ... Ondras Zeuge.</DefaultText>
+      <DefaultText>Farentis will, dass die Ebbe befreit werden. Er sagte, dazu bräuchte man ein bestimmtes Relikt, das in der Halle des Schweigens liegt. Es ist dasselbe Relikt, mit dem Kaoto mir aufgetragen hat, die Halle zu überfluten&#160;… Ondras Zeuge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20025</ID>
-      <DefaultText>Ich habe in die verstreuten Erinnerungen eines längst verstorbenen Ondriten geblickt. Er war zusammen mit anderen Gläubigen in der Halle des Schweigens eingesperrt. Ihre Erinnerungen sind mit der Zeit verblasst, was sie in den Wahnsinn getrieben hat ... und seltsamerweise auch dazu, auf das kleinste Geräusch äußerst aggressiv zu reagieren.</DefaultText>
+      <DefaultText>Ich habe in die verstreuten Erinnerungen eines längst verstorbenen Ondriten geblickt. Er war zusammen mit anderen Gläubigen in der Halle des Schweigens eingesperrt. Ihre Erinnerungen sind mit der Zeit verblasst, was sie in den Wahnsinn getrieben hat&#160;… und seltsamerweise auch dazu, auf das kleinste Geräusch äußerst aggressiv zu reagieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20032</ID>
-      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören&#160;… und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,12 +323,12 @@ Als erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     </Entry>
     <Entry>
       <ID>20038</ID>
-      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören ... und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören&#160;… und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Auf der Abtei des Gefallenen Mondes habe ich das Reliquiar gefunden ... und die Antworten, nach denen ich suchte. Die Augenlosen sind die Armee aus meinen Träumen. Sie werden mich und tausend andere auslöschen, um Ondras Geheimnisse zu bewahren.</DefaultText>
+      <DefaultText>Auf der Abtei des Gefallenen Mondes habe ich das Reliquiar gefunden&#160;… und die Antworten, nach denen ich suchte. Die Augenlosen sind die Armee aus meinen Träumen. Sie werden mich und tausend andere auslöschen, um Ondras Geheimnisse zu bewahren.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
