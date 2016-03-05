@@ -123,7 +123,7 @@ Er sieht dich verwundert an.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„ Ich schlage vor, dass du über die heiligen Werke meditierst, die in der Abtei aufbewahrt werden. Eingehend.“
+      <DefaultText>„Ich schlage vor, dass du über die heiligen Werke meditierst, die in der Abtei aufbewahrt werden. Eingehend.“
 
 Er zwinkert dir zu.</DefaultText>
       <FemaleText />
@@ -837,7 +837,7 @@ Dann zeichnet er mit seiner langen Hand einen Bogen, von der Mitte bis zum Ende,
       <ID>186</ID>
       <DefaultText>„Aber bei ihnen allen wurde ihr Glaube angezweifelt. Bei mir fand niemand einen Grund dafür.“
 
-Er lächelt stolz und zeigt zum ersten Mal seine gelben, alten Zähne. Er scheint sich deiner Blicke bewusst zu sein und vebirgt sie schnell wieder.</DefaultText>
+Er lächelt stolz und zeigt zum ersten Mal seine gelben, alten Zähne. Er scheint sich deiner Blicke bewusst zu sein und verbirgt sie schnell wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
