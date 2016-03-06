@@ -65,12 +65,12 @@ Abgesehen von der Richtung, in die sie fließt, scheint sie ganz gewöhnlich zu 
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Widerstehe der Illusion.] </DefaultText>
+      <DefaultText>[Widerstehe der Illusion.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Fokusiere deine Sinne, und erkunde den Rand der Illusion.] </DefaultText>
+      <DefaultText>[Fokusiere deine Sinne, und erkunde den Rand der Illusion.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@ Als der Wasserschlauch voll ist, zieht er ihn wieder hinaus und schließt ihn mi
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Trotz der Höllenqualen hälst du den Wasserschlauch in den Wasserfall. Deine Haut löst sich auf und lässt das Fleisch erkennen, dann die Knochen, und dennoch spürst du den Wasserschlauch im Griff.</DefaultText>
+      <DefaultText>Trotz der Höllenqualen hältst du den Wasserschlauch in den Wasserfall. Deine Haut löst sich auf und lässt das Fleisch erkennen, dann die Knochen, und dennoch spürst du den Wasserschlauch im Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@ Als der Wasserschlauch voll ist, zieht er ihn wieder hinaus und schließt ihn mi
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Für einen Moment hält die Illusion: Trotz der Höllenqualen hälst du den Wasserschlauch in den Wasserfall. Deine Haut löst sich auf und lässt das Fleisch erkennen, dann die Knochen.</DefaultText>
+      <DefaultText>Für einen Moment hält die Illusion: Trotz der Höllenqualen hältst du den Wasserschlauch in den Wasserfall. Deine Haut löst sich auf und lässt das Fleisch erkennen, dann die Knochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,12 +134,12 @@ Die Schmerzen lassen nach und verschwinden dann ganz. Auch der grauenhafte Anbli
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Du füllst deine Handfäche mit dem klaren Wasser und schlürfst es vorsichtig.</DefaultText>
+      <DefaultText>Du füllst deine Handfläche mit dem klaren Wasser und schlürfst es vorsichtig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Obwohl es klar ist schmeckt es brackig und faul. Was auch immer die Erfrischung davon ist, es ist sicher nicht wert, dass dir die Galle hochkommt.</DefaultText>
+      <DefaultText>Obwohl es klar ist, schmeckt es brackig und faul. Was auch immer die Erfrischung davon ist, es ist sicher nicht wert, dass dir die Galle hochkommt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
