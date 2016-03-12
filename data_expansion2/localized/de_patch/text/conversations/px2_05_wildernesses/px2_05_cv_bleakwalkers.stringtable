@@ -712,10 +712,10 @@ Der Paladin sieht dich stumm an.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Du willst gehässig sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
+      <DefaultText>„Du willst etwas gehässiges sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
 
 Er wendet sich um. „Tötet ihn!“</DefaultText>
-      <FemaleText>„Du willst gehässig sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
+      <FemaleText>„Du willst etwas gehässiges sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
 
 Er wendet sich um. „Tötet sie!“</FemaleText>
     </Entry>
