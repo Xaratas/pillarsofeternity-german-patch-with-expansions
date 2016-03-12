@@ -112,7 +112,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Wir haben von dir gehört. Du hast Sefyra getötet, die Alte. Den Meister in der Tiefe.“</DefaultText>
+      <DefaultText>„Wir haben von dir gehört. Du hast Sefyra getötet, den Alten. Den Meister in der Tiefe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -197,7 +197,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Und ich habe Gafonercos und Turisulfus die Gelegenheit versprochen, sich mit einem der Drachentöter zu messen.“</DefaultText>
+      <DefaultText>„Und ich habe Gafonercos und Turisulfus die Gelegenheit versprochen, sich mit einem Drachentöter zu messen.“</DefaultText>
       <FemaleText>„Und ich habe Gafonercos und Turisulfus die Gelegenheit versprochen, sich mit einer Drachentöterin zu messen.“</FemaleText>
     </Entry>
     <Entry>
