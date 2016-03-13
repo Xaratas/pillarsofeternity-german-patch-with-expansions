@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px2_critical_path\px2_cp_abbey_moon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -324,6 +324,16 @@ Als Erstes muss ich vor Kaoto eine rituelle Rezitation ausführen. Dann kann ich
     <Entry>
       <ID>20038</ID>
       <DefaultText>Ich habe mit einem Gabenbringer gesprochen, der mir gesagt hat, dass alle vergessenen Dinge Ondra gehören&#160;… und dass alle Dinge, die Ondra gehören, vergessen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20039</ID>
+      <DefaultText>I've found a strange set of mechanical panels before a chasm in the Halls of Silence. Despite having arranged them in the proper order, it seems that there's something else I need in order to complete the sequence and trigger whatever mechanism it governs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20040</ID>
+      <DefaultText>I've found a strange set of mechanical panels before a chasm in the Halls of Silence. Despite having arranged them in the proper order, it seems that there's something else I need in order to complete the sequence and trigger whatever mechanism it governs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
