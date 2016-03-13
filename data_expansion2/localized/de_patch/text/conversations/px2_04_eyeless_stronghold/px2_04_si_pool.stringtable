@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_04_eyeless_stronghold\px2_04_si_pool</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>34</EntryCount>
+  <EntryCount>35</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -193,6 +193,11 @@ Sich vor den Lagufaeth zu verstecken wird schwierig, aber ihnen davonzuschwimmen
     </Entry>
     <Entry>
       <ID>35</ID>
+      <DefaultText>[Specified 0] schüttelt die bittere Kälte ab und taucht in Richtung des Lichts, das in den düsteren Tiefen der Eishöhle aufblitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
       <DefaultText>[Specified 0] schüttelt die bittere Kälte ab und taucht in Richtung des Lichts, das in den düsteren Tiefen der Eishöhle aufblitzt.</DefaultText>
       <FemaleText />
     </Entry>

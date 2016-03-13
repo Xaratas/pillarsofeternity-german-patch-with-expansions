@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_03_abbey\px2_03_si_ondra_panels</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>39</EntryCount>
+  <EntryCount>41</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -213,6 +213,16 @@ Dann beschreibst du mit dem Zeigefinger und dem kleinen Finger deiner anderen Ha
     <Entry>
       <ID>39</ID>
       <DefaultText>Du stehst wieder vor den vier Steintafeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
