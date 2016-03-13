@@ -626,12 +626,12 @@
     </Entry>
     <Entry>
       <ID>1647</ID>
-      <DefaultText>Wand aus vielen Farben – [00FF00]Grün![-]</DefaultText>
+      <DefaultText>Wand aus vielen Farben – [007700]Grün![-]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1648</ID>
-      <DefaultText>Wand aus vielen Farben – [26b4fc]Blau![-]</DefaultText>
+      <DefaultText>Wand aus vielen Farben – [0097e3]Blau![-]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@
     </Entry>
     <Entry>
       <ID>1807</ID>
-      <DefaultText>Zerstört Augenlose</DefaultText>
+      <DefaultText>Zerstöre Augenlose</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1436,7 +1436,7 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Der Kämpfer stürzt sich in die Schlacht und zieht einen Feind in unmittelbare Nahkampfentfernung, fügt dabei Wuchtschaden zu und lässt ihn Benommen zurück.</DefaultText>
+      <DefaultText>Der Kämpfer stürzt sich in die Schlacht und zieht einen Feind in unmittelbare Nahkampfentfernung, fügt dabei Stichschaden zu und lässt ihn Benommen zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2841,7 +2841,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch alle Feinde im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
+      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch jeder im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8145,12 +8145,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1647</ID>
-      <DefaultText>Wand aus vielen Farben – [00FF00]Grün![-]</DefaultText>
+      <DefaultText>Wand aus vielen Farben – [007700]Grün![-]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1648</ID>
-      <DefaultText>Wand aus vielen Farben – [26b4fc]Blau![-]</DefaultText>
+      <DefaultText>Wand aus vielen Farben – [0097e3]Blau![-]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8940,7 +8940,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1807</ID>
-      <DefaultText>Zerstört Augenlose</DefaultText>
+      <DefaultText>Zerstöre Augenlose</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
