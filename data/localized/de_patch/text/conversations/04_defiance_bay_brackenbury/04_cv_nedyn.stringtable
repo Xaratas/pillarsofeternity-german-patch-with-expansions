@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_nedyn</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>107</EntryCount>
+  <EntryCount>108</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -553,6 +553,15 @@ Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf d
     <Entry>
       <ID>155</ID>
       <DefaultText>Sie lacht schrill. „Mir auch.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>„Ich bin Beseel-“ 
+
+Sie reißt die Augen auf und blickt sich misstrauisch um. 
+
+„Gelehrte. Ich erforsche Waidwens Vermächtnis.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
