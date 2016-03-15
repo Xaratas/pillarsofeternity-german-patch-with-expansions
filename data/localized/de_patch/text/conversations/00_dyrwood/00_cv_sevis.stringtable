@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Leg deine Kupferstücke und deine Ausrüstung einfach auf einen Haufen vor dich hin&#160;…“</DefaultText>
+      <DefaultText>„Leg deine Kupferpand und deine Ausrüstung einfach auf einen Haufen vor dich hin&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
       <ID>18</ID>
       <DefaultText>Die Banditen schauen einander an. Der Elf öffnet seinen Mund, um zu sprechen, die anderen aber bringen ihn schnell zum Schweigen.
 
-Ihr Anführer setzt wieder dieses selbstbewusste Grinsen auf. „Für ein gut erhaltenes Ei kann man vom richtigen Käufer mit Leichtigkeit 400 Kupferstücke bekommen. Da wir aber zuerst hier waren, müssen wir eine Fundgebühr draufschlagen, um uns für unsere Zeit und Mühen zu entschädigen&#160;…“</DefaultText>
+Ihr Anführer setzt wieder dieses selbstbewusste Grinsen auf. „Für ein gut erhaltenes Ei kann man vom richtigen Käufer mit Leichtigkeit 400 Kupferpand bekommen. Da wir aber zuerst hier waren, müssen wir eine Fundgebühr draufschlagen, um uns für unsere Zeit und Mühen zu entschädigen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@ Ihr Anführer setzt wieder dieses selbstbewusste Grinsen auf. „Für ein gut er
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[800 KS zahlen] „Nimm es. Und jetzt geh.“</DefaultText>
+      <DefaultText>[800 KP zahlen] „Nimm es. Und jetzt geh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
