@@ -48,7 +48,7 @@ Plötzlich lässt ein gewaltiges Beben die Höhle erzittern und du spürst, wie 
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Die Hände von [SkillCheck0] lassen das Seil los und [SkillCheck0] stürzt hinab und landet mit dem Gesicht auf dem nassen Boden.</DefaultText>
+      <DefaultText>Die Hände von [SkillCheck 0] lassen das Seil los und [SkillCheck 0] stürzt hinab und landet mit dem Gesicht auf dem nassen Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

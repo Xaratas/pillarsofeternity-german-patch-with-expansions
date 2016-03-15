@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

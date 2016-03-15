@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Nur zweihundert Kupferstücke für den Held von Ondras Geschenk.“</DefaultText>
-      <FemaleText>„Nur zweihundert Kupferstücke für die Heldin von Ondras Geschenk.“</FemaleText>
+      <DefaultText>„Nur zweihundert Kupferpand für den Held von Ondras Geschenk.“</DefaultText>
+      <FemaleText>„Nur zweihundert Kupferpand für die Heldin von Ondras Geschenk.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Nur sechshundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
+      <DefaultText>„Nur sechshundert Kupferpand für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,22 +41,22 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[200 KS zahlen] „In Ordnung.“</DefaultText>
+      <DefaultText>[200 KP zahlen] „In Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[600 KS zahlen] „In Ordnung.“</DefaultText>
+      <DefaultText>[600 KP zahlen] „In Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Nur vierhundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
+      <DefaultText>„Nur vierhundert Kupferpand für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[400 KS zahlen] „In Ordnung.“</DefaultText>
+      <DefaultText>[400 KP zahlen] „In Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,32 +66,32 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Nur achthundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
+      <DefaultText>„Nur achthundert Kupferpand für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Nur sechshundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
+      <DefaultText>„Nur sechshundert Kupferpand für mein täglich Brot, während du und ich uns an der Liebe laben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Nur vierhundert Kupferstücke für den Held von Ondras Geschenk.“</DefaultText>
-      <FemaleText>„Nur vierhundert Kupferstücke für die Heldin von Ondras Geschenk.“</FemaleText>
+      <DefaultText>„Nur vierhundert Kupferpand für den Held von Ondras Geschenk.“</DefaultText>
+      <FemaleText>„Nur vierhundert Kupferpand für die Heldin von Ondras Geschenk.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[400 KS zahlen] „In Ordnung.“</DefaultText>
+      <DefaultText>[400 KP zahlen] „In Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[600 KS zahlen] „In Ordnung.“</DefaultText>
+      <DefaultText>[600 KP zahlen] „In Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[800 KS zahlen] „In Ordnung.“</DefaultText>
+      <DefaultText>[800 KP zahlen] „In Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

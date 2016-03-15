@@ -170,7 +170,7 @@ Sie ringt nervös die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[2000 KP geben.] „Heuer ein paar starke Männer an. Das sollte helfen.“</DefaultText>
+      <DefaultText>[2.000 KP geben.] „Heuer ein paar starke Männer an. Das sollte helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,7 +185,7 @@ Sie ringt nervös die Hände.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[2000 KP geben.] „Hier. Heuer ein paar Wildhüter an. Das dürfte helfen.“</DefaultText>
+      <DefaultText>[2.000 KP geben.] „Hier. Heuer ein paar Wildhüter an. Das dürfte helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

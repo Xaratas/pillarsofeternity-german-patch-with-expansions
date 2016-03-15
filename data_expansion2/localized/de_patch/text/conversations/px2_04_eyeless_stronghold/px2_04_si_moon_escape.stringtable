@@ -27,27 +27,27 @@ Wen wählst du?</DefaultText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@ Du bist gefangen.</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@ Er blickt einen Augenblick zur Decke, atmet tief ein und blickt dann wieder zu d
       <ID>42</ID>
       <DefaultText>„Ich habe zu viele Befehle befolgt, ohne sie zu verstehen. Aber diesen Befehl werde ich mit Stolz ausführen.“
 
-„Leb wohl, [Player Name].“</DefaultText>
+„Leb wohl, [Player Name]“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,32 +362,32 @@ Die Kreaturen taumeln im Rhythmus der von unten heraufdröhnenden Hammerschläge
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,32 +421,32 @@ Die Augenlosen brüllen und stürzen vergeblich auf die Spiegelbilder zu.</Defau
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -535,32 +535,32 @@ Sie gehen weiter in Richtung der Höhle.</DefaultText>
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -570,32 +570,32 @@ Sie gehen weiter in Richtung der Höhle.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -672,32 +672,32 @@ Aber es wird extrem anstrengende Arbeit.</DefaultText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,32 +781,32 @@ Nach einigen Minuten der hektischen Arbeit ist der Gang endlich freigelegt.</Def
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,32 +816,32 @@ Nach einigen Minuten der hektischen Arbeit ist der Gang endlich freigelegt.</Def
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,32 +851,32 @@ Nach einigen Minuten der hektischen Arbeit ist der Gang endlich freigelegt.</Def
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,32 +1016,32 @@ Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll ei
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1071,32 +1071,32 @@ Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll ei
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,32 +1106,32 @@ Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll ei
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,32 +1141,32 @@ Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll ei
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

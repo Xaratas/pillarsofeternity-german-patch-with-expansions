@@ -327,22 +327,22 @@ Die überraschende Geschwindigkeit hilft euch. Ihr rennt mit dem Rammbock auf da
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Slot 0].</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>[Slot 1].</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[Slot 2].</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>[Slot 3].</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,12 +362,12 @@ Die überraschende Geschwindigkeit hilft euch. Ihr rennt mit dem Rammbock auf da
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Slot 4].</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[Slot 5].</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
