@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[Weggehen.] „Jetzt ist es an der Zeit, diese ‚Königin‘ in der ‚Stadt des Trutzes‘ zu finden.“</DefaultText>
+      <DefaultText>[Weggehen] „Jetzt ist es an der Zeit, diese ‚Königin‘ in der ‚Stadt des Trutzes‘ zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -768,7 +768,7 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +826,7 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>[Nicken.]</DefaultText>
+      <DefaultText>[Nicken]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

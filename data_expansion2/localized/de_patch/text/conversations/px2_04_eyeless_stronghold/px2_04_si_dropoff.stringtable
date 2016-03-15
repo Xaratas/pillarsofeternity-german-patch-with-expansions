@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <DefaultText>[Hinunterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

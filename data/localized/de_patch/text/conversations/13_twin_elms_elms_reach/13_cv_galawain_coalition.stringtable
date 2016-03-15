@@ -27,7 +27,7 @@ Der Hund heult aus den Blättern.</DefaultText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Zurückheulen.]</DefaultText>
+      <DefaultText>[Zurückheulen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -760,7 +760,7 @@ Hiravias löst seinen Blick von dem Klugen Hund, seine Stimme senkt sich zu eine
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

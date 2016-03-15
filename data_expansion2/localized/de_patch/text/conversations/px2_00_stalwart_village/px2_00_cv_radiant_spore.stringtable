@@ -40,7 +40,7 @@ Die Welt um dich herum scheint sich zu drehen, Farben verändern sich, Klänge v
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Vortreten.]</DefaultText>
+      <DefaultText>[Vortreten]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@ Du hörst ein raschelndes, zischendes Geräusch, wie Lachen.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Widerstehen.]</DefaultText>
+      <DefaultText>[Widerstehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Weggehen.] „Auf Wiedersehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Angreifen.] „Osrya bestellt dir ihre Grüße.“</DefaultText>
+      <DefaultText>[Angreifen] „Osrya bestellt dir ihre Grüße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Lügen.] „Er ist in Sicherheit. Er trug mir auf, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch hat.“</DefaultText>
+      <DefaultText>[Lügen] „Er ist in Sicherheit. Er trug mir auf, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

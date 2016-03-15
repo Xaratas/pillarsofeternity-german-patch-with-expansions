@@ -35,7 +35,7 @@ Ein bei ihren Fersen stehender großer Fuchs mit weißem Fell schaut auf, als du
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@ Er wedelt mit seinem buschigen Schwanz.</DefaultText>
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>[Weggehen.] „Nimm die Informationen oder lass es sein, ich wünsche dir in jedem Fall viel Glück.“</DefaultText>
+      <DefaultText>[Weggehen] „Nimm die Informationen oder lass es sein, ich wünsche dir in jedem Fall viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>[Weggehen.] „Dann bleib meinetwegen hier. Ich habe andere Dinge zu tun.“</DefaultText>
+      <DefaultText>[Weggehen] „Dann bleib meinetwegen hier. Ich habe andere Dinge zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,7 +801,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>[Weggehen.] „Ich auch. Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich auch. Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

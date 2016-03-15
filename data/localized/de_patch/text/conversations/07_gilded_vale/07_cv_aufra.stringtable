@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Weggehen.] „Ich werde dann besser gehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich werde dann besser gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Weggehen.] „Tut mir leid, nein. Ich werde jetzt gehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Tut mir leid, nein. Ich werde jetzt gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Weggehen.] „Dann lasse ich dich mal weiter trauern.“</DefaultText>
+      <DefaultText>[Weggehen] „Dann lasse ich dich mal weiter trauern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Weggehen.] „Ich habe ihn noch nicht. Ich komme wieder.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich habe ihn noch nicht. Ich komme wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Weggehen.] „Ich gehe dann besser mal.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe dann besser mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>[Nicken.]</DefaultText>
+      <DefaultText>[Nicken]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

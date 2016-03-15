@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Angreifen.] „Perly bekommt keine zweite Chance, und ihr beiden habt auch keine verdient.“</DefaultText>
+      <DefaultText>[Angreifen] „Perly bekommt keine zweite Chance, und ihr beiden habt auch keine verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Weggehen.] „Auf Wiedersehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Weggehen.] „Bin nur auf der Durchreise. Auf Wiedersehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Bin nur auf der Durchreise. Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Weggehen.] „Tut mir leid, nein. Ich werde jetzt gehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Tut mir leid, nein. Ich werde jetzt gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

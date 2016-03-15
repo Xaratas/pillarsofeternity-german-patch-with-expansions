@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Weggehen.] „Kein Interesse.“</DefaultText>
+      <DefaultText>[Weggehen] „Kein Interesse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[Weggehen.] „Kein Interesse.“</DefaultText>
+      <DefaultText>[Weggehen] „Kein Interesse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[Weggehen.] „Noch nicht. Ich komme wieder.“</DefaultText>
+      <DefaultText>[Weggehen] „Noch nicht. Ich komme wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -548,12 +548,12 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>[Angreifen.] „Du hast es nicht verdient, auch nur einen Tag mehr zu leben.“</DefaultText>
+      <DefaultText>[Angreifen] „Du hast es nicht verdient, auch nur einen Tag mehr zu leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>[Angreifen.] „Ich habe dich gewarnt!“</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe dich gewarnt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -678,7 +678,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>[Angreifen.] „Du hast dich der Gerechtigkeit lange Zeit entzogen. Heute aber nicht.“</DefaultText>
+      <DefaultText>[Angreifen] „Du hast dich der Gerechtigkeit lange Zeit entzogen. Heute aber nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -740,7 +740,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[Angreifen.] „Du hast Recht. Das ist viel mehr, als was du verdient hast.“</DefaultText>
+      <DefaultText>[Angreifen] „Du hast Recht. Das ist viel mehr, als was du verdient hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -790,7 +790,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

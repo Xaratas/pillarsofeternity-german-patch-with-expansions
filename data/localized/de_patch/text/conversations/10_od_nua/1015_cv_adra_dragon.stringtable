@@ -163,7 +163,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Angreifen.] „Du wirst keine Seelen mehr verschlingen, Monster.“</DefaultText>
+      <DefaultText>[Angreifen] „Du wirst keine Seelen mehr verschlingen, Monster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,7 +193,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[Angreifen.] „Wenn es keinen anderen Weg gibt, nun denn.“</DefaultText>
+      <DefaultText>[Angreifen] „Wenn es keinen anderen Weg gibt, nun denn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>[Angreifen.] „Ich kann dir einen Ausweg aus diesem Leben bieten.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich kann dir einen Ausweg aus diesem Leben bieten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,7 +378,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[Weggehen.] „Ich gehe dann.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe dann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

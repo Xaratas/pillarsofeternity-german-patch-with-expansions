@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[Angreifen.] „Deinen Leuten wird endlich Gerechtigkeit widerfahren.“</DefaultText>
+      <DefaultText>[Angreifen] „Deinen Leuten wird endlich Gerechtigkeit widerfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>[Angreifen.] „Od Nua, alle Dinge müssen ein Ende finden. Du bist schon viel zu lange hier gewesen.“</DefaultText>
+      <DefaultText>[Angreifen] „Od Nua, alle Dinge müssen ein Ende finden. Du bist schon viel zu lange hier gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>[Angreifen.] „Ich werde dir hier ein Ende setzen&#160;– und mich dann darum kümmern, was jenseits dieser Stufen liegt.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich werde dir hier ein Ende setzen&#160;– und mich dann darum kümmern, was jenseits dieser Stufen liegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,7 +751,7 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>[Angreifen.] „In dir ist nichts mehr übrig, was sich zu retten lohnen würde.“</DefaultText>
+      <DefaultText>[Angreifen] „In dir ist nichts mehr übrig, was sich zu retten lohnen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -65,7 +65,7 @@ Die improvisierte Stütze scheint zu halten. Vorerst.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Vorbeilaufen.]</DefaultText>
+      <DefaultText>[Vorbeilaufen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,7 +80,7 @@ Die improvisierte Stütze scheint zu halten. Vorerst.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Aufgeben.]</DefaultText>
+      <DefaultText>[Aufgeben]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -545,7 +545,7 @@ Doch die drückende Hitze, der Rauch und die Last auf den Schultern von [Specifi
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>[Weitergehen.]</DefaultText>
+      <DefaultText>[Weitergehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +652,7 @@ Du erwachst etwas später im kalten Schnee. Ein Dorfbewohner steht mit besorgter
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[Vorbeilaufen.]</DefaultText>
+      <DefaultText>[Vorbeilaufen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -893,7 +893,7 @@ Du ergreifst das Ende des Balkens und mühst dich mit aller Kraft, ihn anzuheben
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>[Aufgeben.]</DefaultText>
+      <DefaultText>[Aufgeben]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

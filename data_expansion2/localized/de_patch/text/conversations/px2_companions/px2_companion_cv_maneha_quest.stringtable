@@ -23,7 +23,7 @@ Du blickst hinüber und siehst Maneha im Schlaf zucken und murmeln.</DefaultText
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Weiterschlafen.]</DefaultText>
+      <DefaultText>[Weiterschlafen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@ Du blickst hinüber und siehst Maneha im Schlaf zucken und murmeln.</DefaultText
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Wegtreten.]</DefaultText>
+      <DefaultText>[Wegtreten]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Weggehen.] „Nun gut.“</DefaultText>
+      <DefaultText>[Weggehen] „Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@ Sie verzieht das Gesicht und blickt weg. Sie wischt sich das Gesicht ab.</Defaul
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>[Zuhören.]</DefaultText>
+      <DefaultText>[Zuhören]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -588,12 +588,12 @@ Sie wischt sich Blut vom Hals, riecht an ihrer verschmierten Hand und zuckt mit 
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>[Zuhören.]</DefaultText>
+      <DefaultText>[Zuhören]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>[Zuhören.]</DefaultText>
+      <DefaultText>[Zuhören]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

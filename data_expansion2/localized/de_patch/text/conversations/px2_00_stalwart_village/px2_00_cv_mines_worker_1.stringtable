@@ -65,7 +65,7 @@ Die Verzweiflung steht ihm ins Gesicht geschrieben. „Das ist alles. Mehrere St
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Weggehen.] „Nun gut.“</DefaultText>
+      <DefaultText>[Weggehen] „Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,7 +105,7 @@ Die Verzweiflung steht ihm ins Gesicht geschrieben. „Das ist alles. Mehrere St
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

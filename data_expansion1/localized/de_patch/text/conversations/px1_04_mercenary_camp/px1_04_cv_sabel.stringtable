@@ -32,7 +32,7 @@ Sie greift nach ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Angreifen.]</DefaultText>
+      <DefaultText>[Angreifen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Sie greift nach ihrem Zauberbuch.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Weggehen.] „Noch nicht, aber ich suche weiter.“</DefaultText>
+      <DefaultText>[Weggehen] „Noch nicht, aber ich suche weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Lügen.] „Noch nicht. Ich muss Tcharek über eines dieser Objekte befragen.“</DefaultText>
+      <DefaultText>[Lügen] „Noch nicht. Ich muss Tcharek über eines dieser Objekte befragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[Angreifen.] „Ich habe genug von dir.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe genug von dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Angreifen.] „Wenn du kämpfen willst, dann nur her mit dir.“</DefaultText>
+      <DefaultText>[Angreifen] „Wenn du kämpfen willst, dann nur her mit dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[Gefangennehmen.] „So leicht kommst du mir nicht davon. Ich nehme dich mit zurück nach Caed Nua.“</DefaultText>
+      <DefaultText>[Gefangennehmen] „So leicht kommst du mir nicht davon. Ich nehme dich mit zurück nach Caed Nua.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[Gefangennehmen.] „So leicht kommst du mir nicht davon. Ich nehme dich mit zurück nach Caed Nua.“</DefaultText>
+      <DefaultText>[Gefangennehmen] „So leicht kommst du mir nicht davon. Ich nehme dich mit zurück nach Caed Nua.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Angreifen.] „Du musst für deine Taten bezahlen, die Gerechtigkeit verlangt es.“</DefaultText>
+      <DefaultText>[Angreifen] „Du musst für deine Taten bezahlen, die Gerechtigkeit verlangt es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

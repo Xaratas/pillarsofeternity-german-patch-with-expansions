@@ -115,7 +115,7 @@ Der Schnee reicht dir nun bis zu den Knien. Deine Beine fühlen sich in den Schn
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Warten.]</DefaultText>
+      <DefaultText>[Warten]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,7 +555,7 @@ Ein Eiskristall wächst aus deinem eingefrorenen Finger. Als du ihn untersuchst,
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

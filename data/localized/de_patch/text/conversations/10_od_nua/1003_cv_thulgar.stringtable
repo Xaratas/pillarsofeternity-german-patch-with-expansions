@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Angreifen.] „Ich werde dein Leben beenden, du Biest.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich werde dein Leben beenden, du Biest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[Weggehen.] „Ich werde bald zurückkehren.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich werde bald zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[Angreifen.] „Ich sollte euch besser alle töten.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich sollte euch besser alle töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

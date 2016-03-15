@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Angreifen.] „Ich werde mehr als das nehmen.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich werde mehr als das nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[Angreifen.] „Wie schade, dass du dich von Berath abgewendet hast, Priester, denn du wirst schon bald vor ihm stehen.“</DefaultText>
+      <DefaultText>[Angreifen] „Wie schade, dass du dich von Berath abgewendet hast, Priester, denn du wirst schon bald vor ihm stehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

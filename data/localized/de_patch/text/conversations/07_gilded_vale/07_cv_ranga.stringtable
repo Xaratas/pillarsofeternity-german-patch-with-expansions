@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[Weggehen.] „Noch nicht, ich komme wieder.“</DefaultText>
+      <DefaultText>[Weggehen] „Noch nicht, ich komme wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[Weggehen.] „Ich werde mich um sie kümmern und dann zurückkehren.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich werde mich um sie kümmern und dann zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[Weggehen.] „Nein, momentan nichts. Ich gehe wieder.“</DefaultText>
+      <DefaultText>[Weggehen] „Nein, momentan nichts. Ich gehe wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Weggehen.] „Also gut. Dann gehe ich besser mal.“</DefaultText>
+      <DefaultText>[Weggehen] „Also gut. Dann gehe ich besser mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

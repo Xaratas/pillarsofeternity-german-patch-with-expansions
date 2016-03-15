@@ -79,7 +79,7 @@ Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne u
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Angreifen.] „Du musst nicht mehr lange mit der Schmach leben.“</DefaultText>
+      <DefaultText>[Angreifen] „Du musst nicht mehr lange mit der Schmach leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@ Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne u
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Angreifen.] „Wächter oder nicht, ich kann nicht zulassen, dass du die Batterie eroberst.“</DefaultText>
+      <DefaultText>[Angreifen] „Wächter oder nicht, ich kann nicht zulassen, dass du die Batterie eroberst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1145,7 +1145,7 @@ Zorn scheint ihm Halt gegeben zu haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>[Angreifen.] „Dass du einen Fehler begangen hast.“</DefaultText>
+      <DefaultText>[Angreifen] „Dass du einen Fehler begangen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

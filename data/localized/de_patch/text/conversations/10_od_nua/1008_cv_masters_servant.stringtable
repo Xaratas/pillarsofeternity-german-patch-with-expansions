@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Angreifen.] „Ich gehe wohin ich will.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich gehe wohin ich will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Angreifen.] „Ich habe genug von deiner Sorte gesehen, um zu wissen, dass ich mich nicht um deine Worte schere.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe genug von deiner Sorte gesehen, um zu wissen, dass ich mich nicht um deine Worte schere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Weggehen.] „Nicht so schnell, ich werde zurückkehren.“</DefaultText>
+      <DefaultText>[Weggehen] „Nicht so schnell, ich werde zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Weggehen.] „Dann gehe ich besser mal.“</DefaultText>
+      <DefaultText>[Weggehen] „Dann gehe ich besser mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,7 +566,7 @@
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>[Angreifen.] „Du hast andere gefoltert und ihre Seelen dazu verwendet, dein eigenen Leben zu verlängern. Du hast die Unsterblichkeit nicht verdient.“</DefaultText>
+      <DefaultText>[Angreifen] „Du hast andere gefoltert und ihre Seelen dazu verwendet, dein eigenen Leben zu verlängern. Du hast die Unsterblichkeit nicht verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,7 +626,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>[Weggehen.] „Lass mal gut sein.“</DefaultText>
+      <DefaultText>[Weggehen] „Lass mal gut sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>[Weggehen.] „Nichts, leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Nichts, leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

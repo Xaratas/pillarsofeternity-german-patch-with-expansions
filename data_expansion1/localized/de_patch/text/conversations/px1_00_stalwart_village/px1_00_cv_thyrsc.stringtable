@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,7 +691,7 @@ Thyrsc verzieht das Gesicht und legt sich eine Hand an die Schläfen.</DefaultTe
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[Nicken.]</DefaultText>
+      <DefaultText>[Nicken]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

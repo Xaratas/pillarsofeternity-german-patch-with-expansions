@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Angreifen.] „Ich erledige euch.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich erledige euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Lügen.] „Mestre Barcozzi schickt mich.“</DefaultText>
+      <DefaultText>[Lügen] „Mestre Barcozzi schickt mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,7 +105,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Angreifen.]</DefaultText>
+      <DefaultText>[Angreifen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

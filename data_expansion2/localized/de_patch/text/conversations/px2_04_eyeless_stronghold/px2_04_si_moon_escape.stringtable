@@ -57,7 +57,7 @@ Wen wählst du?</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Auslosen.]</DefaultText>
+      <DefaultText>[Auslosen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +996,7 @@ Deine Reflexe setzen ein und du zuckst zusammen und schluckst einen Mund voll ei
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[Weiterlaufen.]</DefaultText>
+      <DefaultText>[Weiterlaufen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

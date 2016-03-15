@@ -13,12 +13,12 @@ Dicke Ranken winden sich um den unteren Teil der Mauer, mit Dornen besetzt. Es g
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <DefaultText>[Hinunterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@ Mit einem scharfen Schrei landet [SkillCheck 0] unsanft auf einem Dornengestrüp
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Hinaufklettern.]</DefaultText>
+      <DefaultText>[Hinaufklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

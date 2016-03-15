@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Weggehen.] „Ich gehe dann besser mal.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe dann besser mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>[Weggehen.] „Nichts, ich gehe wieder.“</DefaultText>
+      <DefaultText>[Weggehen] „Nichts, ich gehe wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>[Weggehen.] „Noch nicht. Ich komme wieder.“</DefaultText>
+      <DefaultText>[Weggehen] „Noch nicht. Ich komme wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,7 +508,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>[Weggehen.] „Weißt du was? Passt schon.“</DefaultText>
+      <DefaultText>[Weggehen] „Weißt du was? Passt schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

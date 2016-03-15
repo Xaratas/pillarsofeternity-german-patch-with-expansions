@@ -202,7 +202,7 @@ Erst jetzt, da er tot ist, kannst du weitergehen.</DefaultText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -767,7 +767,7 @@ Er klopft dir mit einer schmutzigen Pranke auf die Seite und lächelt. „Thaos 
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

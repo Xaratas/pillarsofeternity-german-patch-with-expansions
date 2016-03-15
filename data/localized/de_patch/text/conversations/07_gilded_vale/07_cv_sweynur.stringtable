@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Weggehen.] „Ich gehe.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Weggehen.] „Ich gehe.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[Weggehen.] „Auf Wiedersehen.“</DefaultText>
+      <DefaultText>[Weggehen] „Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

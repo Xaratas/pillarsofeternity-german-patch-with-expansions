@@ -105,7 +105,7 @@ Du blickst hinab und siehst, dass du neben Hyleas Schrein in Teir Evron stehst. 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,7 +642,7 @@ Ein einsamer Spatz landet auf dem Ast neben dir. Er beobachtet dich.</DefaultTex
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

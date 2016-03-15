@@ -28,7 +28,7 @@ Nach einer Weile halten die Stimmen inne, als würden sie eine Antwort erwarten.
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@ Nach einer Weile halten die Stimmen inne, als würden sie eine Antwort erwarten.
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[Lügen.] „Ich bin gekommen, um Od Nuas Herrschaft ein Ende zu bereiten.“</DefaultText>
+      <DefaultText>[Lügen] „Ich bin gekommen, um Od Nuas Herrschaft ein Ende zu bereiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

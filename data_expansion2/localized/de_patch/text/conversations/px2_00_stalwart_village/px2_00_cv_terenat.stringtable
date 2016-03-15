@@ -155,7 +155,7 @@ Der Vithrack grunzt rasselnd und verstummt dann.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,7 +407,7 @@ Seine Sprache bildet sich mit einem gleichmäßigen, tiefen Ton in deinen Gedank
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

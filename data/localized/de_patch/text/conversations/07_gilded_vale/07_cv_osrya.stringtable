@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[Lügen.] „Das fiele mir nicht mal im Traum ein.“</DefaultText>
+      <DefaultText>[Lügen] „Das fiele mir nicht mal im Traum ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[Angreifen.] „Deine Arbeit endet hier.“</DefaultText>
+      <DefaultText>[Angreifen] „Deine Arbeit endet hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

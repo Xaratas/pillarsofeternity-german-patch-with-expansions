@@ -52,7 +52,7 @@ Der zweite tritt den Körper des sterbenden Mannes mit dem Stiefel aus dem Weg, 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Angreifen.] „Dann könnt ihr alle zusammen sterben.“</DefaultText>
+      <DefaultText>[Angreifen] „Dann könnt ihr alle zusammen sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -470,7 +470,7 @@ Cevestin lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[Angreifen.] „Um den kümmere ich mich. Dich kann ich nicht gebrauchen.“</DefaultText>
+      <DefaultText>[Angreifen] „Um den kümmere ich mich. Dich kann ich nicht gebrauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,7 +505,7 @@ Cevestin lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[Angreifen.] „Wenn du kämpfen willst, bitte.“</DefaultText>
+      <DefaultText>[Angreifen] „Wenn du kämpfen willst, bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -660,7 +660,7 @@ Cevestin grinst mit vorgetäuschtem Mitgefühl.</DefaultText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>[Schweigen.]</DefaultText>
+      <DefaultText>[Schweigen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

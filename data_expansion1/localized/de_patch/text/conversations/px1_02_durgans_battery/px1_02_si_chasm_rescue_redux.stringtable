@@ -23,7 +23,7 @@ Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewo
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,7 +93,7 @@ Auf einem schmalen Vorsprung tief unter dem Rand der Schlucht steht ein Dorfbewo
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <DefaultText>[Hinunterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@ In der Nähe siehst du eine kleine Nische in der Höhlenwand. Sie könnte dir Sc
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Weiterklettern.]</DefaultText>
+      <DefaultText>[Weiterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +292,7 @@ In verzweifelter Panik ergreifst du das Seil und bremst damit deinen eigenen Fal
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[Zusehen.]</DefaultText>
+      <DefaultText>[Zusehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -359,7 +359,7 @@ Du greifst mit deiner freien Hand schnell nach dem Seil, hältst den Mann aber w
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>[Weiterklettern.]</DefaultText>
+      <DefaultText>[Weiterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,7 +505,7 @@ Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[Hinunterklettern.]</DefaultText>
+      <DefaultText>[Hinunterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +575,7 @@ Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[Abseilen.]</DefaultText>
+      <DefaultText>[Abseilen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -647,7 +647,7 @@ In der Nähe befindet sich eine kleine Nische in der Höhlenwand. Sie könnte et
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[Weiterklettern.]</DefaultText>
+      <DefaultText>[Weiterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,7 +751,7 @@ Der Wind legt sich langsam und [Specified 0] setzt den Abstieg fort.</DefaultTex
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>[Zusehen.]</DefaultText>
+      <DefaultText>[Zusehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -817,7 +817,7 @@ In verzweifelter Panik ergreift [Specified 0] mit beiden Händen das Seil.</Defa
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>[Weiterklettern.]</DefaultText>
+      <DefaultText>[Weiterklettern]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

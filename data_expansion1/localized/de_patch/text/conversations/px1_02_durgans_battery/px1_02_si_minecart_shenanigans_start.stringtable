@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Einsteigen.]</DefaultText>
+      <DefaultText>[Einsteigen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Weiterfahren.]</DefaultText>
+      <DefaultText>[Weiterfahren]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

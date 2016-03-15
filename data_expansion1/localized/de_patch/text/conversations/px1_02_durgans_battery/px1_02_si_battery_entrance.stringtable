@@ -35,7 +35,7 @@ Es ist ein Relief, das eine Mauer mit Zinnen zeigt - und darüber eine Vertiefun
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Die winzigen Figuren bewegen sich und tanzen, zum Leben erweckt durch das Flacke
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[Weggehen.]</DefaultText>
+      <DefaultText>[Weggehen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

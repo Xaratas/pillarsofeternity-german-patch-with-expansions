@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[Lügen.] „Ich bringe dir ein Geschenk&#160;– weil du meiner Familie mit dem Jungdrachen geholfen hast, vor einigen Jahren.“</DefaultText>
+      <DefaultText>[Lügen] „Ich bringe dir ein Geschenk&#160;– weil du meiner Familie mit dem Jungdrachen geholfen hast, vor einigen Jahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
+      <DefaultText>[Weggehen] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

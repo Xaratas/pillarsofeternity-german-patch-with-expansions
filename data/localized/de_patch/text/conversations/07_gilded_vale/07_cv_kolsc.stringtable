@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[Lügen.] „Natürlich. Ich bin äußerst hilfsbereit.“</DefaultText>
+      <DefaultText>[Lügen] „Natürlich. Ich bin äußerst hilfsbereit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[Weggehen.] „Noch nicht, aber ich komme wieder, wenn es getan ist.“</DefaultText>
+      <DefaultText>[Weggehen] „Noch nicht, aber ich komme wieder, wenn es getan ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Angreifen.] „Spar dir deine Worte. Ein zweites Mal wirst du mich nicht hereinlegen.“</DefaultText>
+      <DefaultText>[Angreifen] „Spar dir deine Worte. Ein zweites Mal wirst du mich nicht hereinlegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,17 +411,17 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>[Angreifen.] „Ich habe meine Wahl getroffen. Verteidige dich.“</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe meine Wahl getroffen. Verteidige dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[Angreifen.] „Fürst Raedric bestellt seine Grüße.“</DefaultText>
+      <DefaultText>[Angreifen] „Fürst Raedric bestellt seine Grüße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[Weggehen.] „Ich gehe dann besser mal.“</DefaultText>
+      <DefaultText>[Weggehen] „Ich gehe dann besser mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -283,12 +283,12 @@ Raedric atmet durch seine Nase aus. „Und wenn wir jederzeit von seinen verrät
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[Angreifen.] „Für deine Taten gibt es keine Entschuldigung. Verteidige dich.“</DefaultText>
+      <DefaultText>[Angreifen] „Für deine Taten gibt es keine Entschuldigung. Verteidige dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Angreifen.] „Lass uns mal sehen, wie weit du mit Ehre kommst.“</DefaultText>
+      <DefaultText>[Angreifen] „Lass uns mal sehen, wie weit du mit Ehre kommst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
