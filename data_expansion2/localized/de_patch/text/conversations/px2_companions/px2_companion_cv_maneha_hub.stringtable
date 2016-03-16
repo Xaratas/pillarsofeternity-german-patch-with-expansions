@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>„Weshalb nimmst du den langen Weg zur Abtei auf dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@ Sie lächelt und legt dir eine Hand auf die Schulter.</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Es ist seltsam, zu wissen, dass mein Leben durch etwas geprägt werde, an was ich mich nicht erinnere.“ Sie legt den Kopf zur Seite und denkt nach.</DefaultText>
+      <DefaultText>„Es ist seltsam, zu wissen, dass mein Leben durch etwas geprägt wurde, an das ich mich nicht erinnere.“ Sie legt den Kopf zur Seite und denkt nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
