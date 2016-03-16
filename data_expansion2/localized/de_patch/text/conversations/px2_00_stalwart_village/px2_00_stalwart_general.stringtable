@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_00_stalwart_village\px2_00_stalwart_general</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>47</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -237,6 +237,31 @@
     <Entry>
       <ID>54</ID>
       <DefaultText>„Laut dem Trupp bei Durgans Batterie hast du die Kanonen repariert. Danke.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>„Du hast es geschafft! Du hast diese metallenen Monster besiegt!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>„Du hast Stalwart gerettet, [Player Name]. Wieder einmal.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>„Dein Kampf gegen die Augenlosen ist eine Geschichte für die Ewigkeit, [Player Name].“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>„Stimmt es, dass die Augenlosen nur die Haustiere eines hungrigen Kraken waren?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>„Ich habe gehört, du hast die Augenlosen zu Cayrons Narbe verfolgt. Von dort ist noch niemals jemand zurückgekehrt.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

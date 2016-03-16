@@ -54,7 +54,7 @@ Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne u
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Moment, du bist Wächter?“</DefaultText>
+      <DefaultText>„Moment, du bist ein Wächter?“</DefaultText>
       <FemaleText>„Moment, du bist eine Wächterin?“</FemaleText>
     </Entry>
     <Entry>
@@ -627,7 +627,9 @@ Adaryc geht einige Schritte, bevor er sich fängt.</DefaultText>
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>„… Der Donner hat mich zum Tempel von Morgendämmer geführt und die Erde hat sich unter unseren Füßen aufgetan.“</DefaultText>
+      <DefaultText>„… Der Donner hat mich zum Tempel der Morgendämmerung geführt und die Erde hat sich unter unseren Füßen aufgetan.“
+
+Adaryc schluckt und wirkt unsicher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

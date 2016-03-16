@@ -1187,7 +1187,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Dieses Siegel scheint ursprünglich engwithanisch gewesen zu sein. Es handelt sich um ein kreisrundes Stück weißen Adra, das ein Peridotjuwel umfasst. Auf der Rückseite ist ein Meißel eingraviert.</DefaultText>
+      <DefaultText>Dieses Siegel scheint engwithanischen Ursprungs zu sein. Es handelt sich um ein kreisrundes Stück weißen Adra, das ein Peridotjuwel umfasst. Auf der Rückseite ist ein Hammer eingraviert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6500,7 +6500,7 @@ Sie brachten den Bauern zurück zu seinem Haus und die Heilerin tat ihr Bestes, 
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>Wenn diese mächtige Falle ausgelöst wird, bewirkt sie einen schweren Fluch, der alle Feinde in ihrer Reichweite lähmt und anfällig gegen weitere Angriffe macht.</DefaultText>
+      <DefaultText>Wenn diese mächtige Falle ausgelöst wird, wirkt sie einen schweren Fluch, der alle Feinde in ihrer Reichweite versteinert und anfällig gegen weitere Angriffe macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7658,7 +7658,7 @@ Dieser abgewetzte und ramponierte Lederhelm passt über den Kopf und bedeckt den
     </Entry>
     <Entry>
       <ID>1501</ID>
-      <DefaultText>Dieser große Helm hat die Form eines Hirschkopfs, einschließlich eines Geweihs aus glänzendem Silber. Die großen Augenlöcher sind die einzige Öffnung im Gesicht des Helms. Wer den Helm trägt, dem werden die Eigenschaften der Kreatur verliehen, deren Gesicht er trägt&#160;– denn er wird feststellen, dass er flinker, wendiger und ausdauernder ist.</DefaultText>
+      <DefaultText>Dieser große Helm wurde aus dem Kopf eines Hirschen gefertigt. Wer den Helm trägt, dem werden die Eigenschaften der Kreatur verliehen, deren Gesicht er trägt&#160;– denn er wird feststellen, dass er flinker, wendiger und ausdauernder ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11161,7 +11161,7 @@ Tag 12 - Es ist ohne Zweifel Grauschnauze. Wir sind gefährlich nah an der Ogerh
     </Entry>
     <Entry>
       <ID>1958</ID>
-      <DefaultText>Schriftrolle der Erheblichen Wiederherstellung von Ausdauer</DefaultText>
+      <DefaultText>Schriftrolle der Kritischen Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13908,7 +13908,7 @@ Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist s
     </Entry>
     <Entry>
       <ID>2416</ID>
-      <DefaultText>Entlasse die Fragmente von Abydons Seele, die noch an die Augenlosen gebunden sind.</DefaultText>
+      <DefaultText>Zerstöre mit dem Hammer die Armee der Augenlosen bei Cayrons Narbe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

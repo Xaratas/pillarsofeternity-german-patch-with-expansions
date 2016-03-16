@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>243</EntryCount>
+  <EntryCount>244</EntryCount>
   <Entries>
     <Entry>
       <ID>1909</ID>
@@ -1195,7 +1195,7 @@ Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist s
     </Entry>
     <Entry>
       <ID>2416</ID>
-      <DefaultText>Entlasse die Fragmente von Abydons Seele, die noch an die Augenlosen gebunden sind.</DefaultText>
+      <DefaultText>Zerstöre mit dem Hammer die Armee der Augenlosen bei Cayrons Narbe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1463,6 +1463,11 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     <Entry>
       <ID>2494</ID>
       <DefaultText>Dieses gewaltige Buch enthält eine gekürzte Fassung des Lebenswerks der rauataischen Gelehrten Amaia. Es wird noch mehrere Jahre dauern, bis Amaias vollständige Schriften (in zahlreichen Bänden) veröffentlicht werden. Sie hat dir diese gekürzte Fassung aber schon als Geschenk überreicht, weil du ihr geholfen hast, einige wichtige Informationen an schwer zu erreichenden Orten einzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2533</ID>
+      <DefaultText>Roben des Gezeitenbringers</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
