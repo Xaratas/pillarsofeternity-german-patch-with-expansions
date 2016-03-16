@@ -6,39 +6,39 @@
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Ihr die Svef-Lieferung geben.] "Ich habe Beweise, dass Feara, die in der Gréfenrast abgestiegen ist, Svef schmuggelt."</DefaultText>
+      <DefaultText>[Ihr die Svef-Lieferung geben.] „Ich habe Beweise, dass Feara, die in der Gréfenrast abgestiegen ist, Svef schmuggelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Was kannst du mir über Fearas Expedition sagen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über Fearas Expedition sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wir haben hier seit Jahrzehnten Probleme mit Schmugglern. Der legale Handel versiegt und kriminelle Organisationen reißen die Straßen an sich."
+      <DefaultText>„Wir haben hier seit Jahrzehnten Probleme mit Schmugglern. Der legale Handel versiegt und kriminelle Organisationen reißen die Straßen an sich.“
 
 Sie nimmt das Päckchen und hält es in die Luft wie eine Jagdtrophäe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Es ist nicht leicht, die Gauner von den ehrlichen Händlern zu unterscheiden. Oder Reisenden. Oder Abenteurern." Sie lächelt dir leicht zu.</DefaultText>
+      <DefaultText>„Es ist nicht leicht, die Gauner von den ehrlichen Händlern zu unterscheiden. Oder Reisenden. Oder Abenteurern.“ Sie lächelt dir leicht zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Aber du hast gute Arbeit geleistet, und dafür danke ich dir. Nimm das."</DefaultText>
+      <DefaultText>„Aber du hast gute Arbeit geleistet, und dafür danke ich dir. Nimm das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Das heißt aber nicht, dass diese 'Feara' nicht zu einer Expedition gehörte. Gelegentlich kommen hier Gruppen vorbei, die ihrem Glück hinterherjagen."</DefaultText>
+      <DefaultText>„Das heißt aber nicht, dass diese 'Feara' nicht zu einer Expedition gehörte. Gelegentlich kommen hier Gruppen vorbei, die ihrem Glück hinterherjagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Wer? Tut mir leid, der Name sagt mir nichts."
+      <DefaultText>„Wer? Tut mir leid, der Name sagt mir nichts.“
 
 Ihre Stirn legt sich in Falten.</DefaultText>
       <FemaleText />
