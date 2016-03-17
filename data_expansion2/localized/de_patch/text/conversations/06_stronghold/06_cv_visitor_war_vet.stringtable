@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\companions\companion_cv_eder_hub2</Name>
+  <Name>conversations\06_stronghold\06_cv_visitor_war_vet</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
-      <ID>87</ID>
-      <DefaultText>„How was Eothas regarded by his followers in the Dyrwood?“</DefaultText>
+      <ID>36</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
