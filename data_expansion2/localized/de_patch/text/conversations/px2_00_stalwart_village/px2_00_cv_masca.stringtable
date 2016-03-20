@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Wo soll ich anfangen?“ Sie deutet auf den rasch abkühlenden Klumpen Eisen auf ihrem Amboss. „Zum einen gelingt es mir nicht, das Metall zu formen, so sehr ich mich auch bemühe. Meister Engrim sagt, ich solle mir 'ein Schwert vorstellen'&#160;… und das tue und tue ich. Ich glaube, am Ende kommt ein Knüppel dabei heraus. Vielleicht ein Streitkolben, wenn ich Glück habe. Aber kein Schwert.“</DefaultText>
+      <DefaultText>„Wo soll ich anfangen?“ Sie deutet auf den rasch abkühlenden Klumpen Eisen auf ihrem Amboss. „Zum einen gelingt es mir nicht, das Metall zu formen, so sehr ich mich auch bemühe. Meister Engrim sagt, ich solle mir ‚ein Schwert vorstellen‘&#160;… und das tue und tue ich. Ich glaube, am Ende kommt ein Knüppel dabei heraus. Vielleicht ein Streitkolben, wenn ich Glück habe. Aber kein Schwert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„'Alle Fehler können in Lektionen umgeschmiedet werden.' Einer von Abydons Grundsätzen, wenn mich nicht alles täuscht. Eine wertvolle Lektion für Masca, findest du nicht?“</DefaultText>
+      <DefaultText>„‚Alle Fehler können in Lektionen umgeschmiedet werden.‘ Einer von Abydons Grundsätzen, wenn mich nicht alles täuscht. Eine wertvolle Lektion für Masca, findest du nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„'Alle Fehler können in Lektionen umgeschmiedet werden.' So steht es in diesem Buch. Ich würde sagen, Masca hat eine wertvolle Lektion gelernt.“</DefaultText>
+      <DefaultText>„‚Alle Fehler können in Lektionen umgeschmiedet werden.‘ So steht es in diesem Buch. Ich würde sagen, Masca hat eine wertvolle Lektion gelernt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
