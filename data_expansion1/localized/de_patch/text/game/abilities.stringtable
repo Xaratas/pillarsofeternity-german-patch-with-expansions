@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>1478</ID>
-      <DefaultText>Dieser Zauber fügt dem Ziel eine große Menge an reinem Schaden zu. Jeder Nicht-Geist, der durch den Angriff fällt, beschwört einen Geist, der unter der Kontrolle des Zauberwirkers steht.</DefaultText>
+      <DefaultText>Dieser Zauber fügt dem Ziel eine große Menge an Direktschaden zu. Jeder Nicht-Geist, der durch den Angriff fällt, beschwört einen Geist, der unter der Kontrolle des Zauberwirkers steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>1725</ID>
-      <DefaultText>Der Barbar greift reflexartig jeden an, der ihn im Nahkampf trifft. Wer das Pech hat, von diesem Angriff des Barbaren getroffen zu werden, erleidet reinen Schaden.</DefaultText>
+      <DefaultText>Der Barbar greift reflexartig jeden an, der ihn im Nahkampf trifft. Wer das Pech hat, von diesem Angriff des Barbaren getroffen zu werden, erleidet Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>1733</ID>
-      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“aus purer Energie zu schaffen, die aus beiden Händen wachsen. Die Klingen verursachen reinen Schaden und generieren Fokus für das Medium, das sie geschaffen hat.</DefaultText>
+      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“ aus purer Energie zu schaffen, die aus beiden Händen wachsen. Die Klingen verursachen Direktschaden und generieren Fokus für das Medium, das sie geschaffen hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +826,7 @@
     </Entry>
     <Entry>
       <ID>1738</ID>
-      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>1745</ID>
-      <DefaultText>Durch pure Willenskraft kann der Paladin jeden Geist und jede beschworene Kreatur unter der Stufe des Paladins zerstören. Geister und beschworene Kreaturen mit gleicher oder höherer Stufe erleiden reinen Schaden.</DefaultText>
+      <DefaultText>Durch pure Willenskraft kann der Paladin jeden Geist und jede beschworene Kreatur unter der Stufe des Paladins zerstören. Geister und beschworene Kreaturen mit gleicher oder höherer Stufe erleiden Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>1766</ID>
-      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Verbrennungs-, Zersetzungs-, Frost- und Elektroschockschaden bewahren, bis er überwältigt wird oder die Dauer abgelaufen ist.</DefaultText>
+      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Brand-, Zersetzungs-, Frost- und Schockschaden bewahren, bis er überwältigt wird oder die Dauer abgelaufen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -886,7 +886,7 @@
     </Entry>
     <Entry>
       <ID>1769</ID>
-      <DefaultText>Ein trockener Wind bläst über das Schlachtfeld und fügt jedem im Zielgebiet reinen Schaden zu und lässt ihn Geschwächt zurück.</DefaultText>
+      <DefaultText>Ein trockener Wind bläst über das Schlachtfeld und fügt jedem im Zielgebiet Direktschaden zu und lässt ihn Geschwächt zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1191,7 +1191,7 @@
     </Entry>
     <Entry>
       <ID>1853</ID>
-      <DefaultText>Der Zauberer beschwört einen Stab, der einen Ball magischer Energie verschleudert. Wenn der Ball sein Ziel erreicht, schwebt er einige Augenblicke in der Luft, bevor er explodiert. Dabei fügt er Feinden in der Nähe reinen Schaden in schrecklichem Ausmaß zu.</DefaultText>
+      <DefaultText>Der Zauberer beschwört einen Stab, der einen Ball magischer Energie verschleudert. Wenn der Ball sein Ziel erreicht, schwebt er einige Augenblicke in der Luft, bevor er explodiert. Dabei fügt er Feinden in der Nähe Direktschaden in schrecklichem Ausmaß zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1201,7 +1201,7 @@
     </Entry>
     <Entry>
       <ID>1855</ID>
-      <DefaultText>Adarycs readceranische Truppen feuern Katapulte auf deine Feinde in Cayrons Narbe ab. Sie fügen ihnen Verbrennungszeitschaden zu und lassen sie Humpelnd zurück.</DefaultText>
+      <DefaultText>Adarycs readceranische Truppen feuern Katapulte auf deine Feinde in Cayrons Narbe ab. Sie fügen ihnen Brandzeitschaden zu und lassen sie Humpelnd zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1271,7 +1271,7 @@
     </Entry>
     <Entry>
       <ID>1869</ID>
-      <DefaultText>Opfer dieser Falle erleiden zunächst gewaltigen Stichschaden und werden durch dieses Erlebnis Verängstigt. Anschließend erleiden sie reinen Zeitschaden, auch noch lange nachdem die Falle ausgelöst wurde.</DefaultText>
+      <DefaultText>Opfer dieser Falle erleiden zunächst gewaltigen Stichschaden und werden durch dieses Erlebnis Verängstigt. Anschließend erleiden sie für einige Zeit Direktschaden, auch noch lange nachdem die Falle ausgelöst wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

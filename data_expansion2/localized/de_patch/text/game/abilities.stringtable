@@ -291,12 +291,12 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Verbrennungs-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Brand-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Der Kämpfer stellt sich zwischen feindliche Angriffe und seine Verbündeten. Der endgültige Gesamtschaden aller Angriffe auf Verbündete in der Nähe wird halbiert - der Kämpfer erleidet die andere Hälfte als reinen Schaden.</DefaultText>
+      <DefaultText>Der Kämpfer stellt sich zwischen feindliche Angriffe und seine Verbündeten. Der endgültige Gesamtschaden aller Angriffe auf Verbündete in der Nähe wird halbiert. Der Kämpfer erleidet die andere Hälfte als Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>1468</ID>
-      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn die Fähigkeit pulsiert, erleidet der Paladin eine geringe Menge an rohem Schaden - Feinde im Wirkungsbereich aber erleiden Verbrennungsschaden. Verbündete erhalten eine geringe Menge an Ausdauer.</DefaultText>
+      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn die Fähigkeit pulsiert, erleidet der Paladin eine geringe Menge an Direktschaden. Feinde im Wirkungsbereich aber erleiden Brandschaden. Verbündete erhalten eine geringe Menge an Ausdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>1472</ID>
-      <DefaultText>Ein schrecklicher Feuerregen prasselt auf den Wirkungsbereich nieder und fügt jedem, der sich darin befindet, wiederholt Verbrennungsschaden zu.</DefaultText>
+      <DefaultText>Ein schrecklicher Feuerregen prasselt auf den Wirkungsbereich nieder und fügt jedem, der sich darin befindet, wiederholt Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>1476</ID>
-      <DefaultText>Der Zauberer schleudert einen winzigen Feuerball los, der für einen festgelegten Zeitraum liegen bleibt, bevor er explodiert und dabei schweren Verbrennungsschaden verursacht.</DefaultText>
+      <DefaultText>Der Zauberer schleudert einen winzigen Feuerball los, der für einen festgelegten Zeitraum liegen bleibt, bevor er explodiert und dabei schweren Brandschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>1570</ID>
-      <DefaultText>Diese mächtigere Variante des einfachen Feuerstrahl-Zaubers verursacht reinen Schaden. Sie greift die Tapferkeit des Ziels an und wirkt sich nur auf Feinde aus.</DefaultText>
+      <DefaultText>Diese mächtigere Variante des einfachen Feuerstrahl-Zaubers verursacht Direktschaden. Sie greift die Tapferkeit des Ziels an und wirkt sich nur auf Feinde aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>1572</ID>
-      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht reinen Schaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Ausdauer.</DefaultText>
+      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht Direktschaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Ausdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@
     </Entry>
     <Entry>
       <ID>1595</ID>
-      <DefaultText>Der Träger dieses Umhangs enthält Frost-SR. Jeder, der den Träger im Nahkampf angreift, erleidet Verbrennungsschaden.</DefaultText>
+      <DefaultText>Der Träger dieses Umhangs enthält Frost-SR. Jeder, der den Träger im Nahkampf angreift, erleidet Brandschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>1727</ID>
-      <DefaultText>Diese gruselige Beschwörung führt dazu, dass die Leichen und Seelen der Opfer sich rasch auflösen. Feinde im Wirkungsbereich erleiden reinen Schaden.</DefaultText>
+      <DefaultText>Diese gruselige Beschwörung führt dazu, dass die Leichen und Seelen der Opfer sich rasch auflösen. Feinde im Wirkungsbereich erleiden Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,7 +741,7 @@
     </Entry>
     <Entry>
       <ID>1743</ID>
-      <DefaultText>Die Schläge des Mönchs erzeugen eine schwingende Resonanz zwischen dem Mönch und seinem Ziel. Nachfolgende Schläge erhöhen die Intensität der Resonanz. Der Mönch kann den Zeitpunkt bestimmen, zu dem die Resonanz jedem, der momentan mit ihr verbunden ist, verheerenden reinen Schaden zufügt.</DefaultText>
+      <DefaultText>Die Schläge des Mönchs erzeugen eine schwingende Resonanz zwischen dem Mönch und seinem Ziel. Nachfolgende Schläge erhöhen die Intensität der Resonanz. Der Mönch kann den Zeitpunkt bestimmen, zu dem die Resonanz jedem, der momentan mit ihr verbunden ist, verheerenden Direktschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,12 +771,12 @@
     </Entry>
     <Entry>
       <ID>1750</ID>
-      <DefaultText>Zeichnet das Symbol von Eothas auf den Boden, das Feinden in regelmäßigen Abständen Verbrennungsschaden zufügt und Verbündeten Verteidigungsboni verleiht.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Eothas auf den Boden, das Feinden in regelmäßigen Abständen Brandschaden zufügt und Verbündeten Verteidigungsboni verleiht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1751</ID>
-      <DefaultText>Zeichnet das Symbol von Magran auf den Boden, das Feinden in regelmäßigen Abständen Verbrennungsschaden zufügt und sie Geblendet zurücklässt.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Magran auf den Boden, das Feinden in regelmäßigen Abständen Brandschaden zufügt und sie Geblendet zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

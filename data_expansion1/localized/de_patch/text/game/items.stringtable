@@ -1051,7 +1051,7 @@ Ich muss zunächst mehr Skelette beschaffen, bevor ich den anderen Lehrlingen me
     </Entry>
     <Entry>
       <ID>2168</ID>
-      <DefaultText>Feuert fünf Geschosse aus reiner Energie auf das Ziel und fügt jedem Feind in der Nähe des Einschlags Schmetterschaden zu.</DefaultText>
+      <DefaultText>Feuert fünf Geschosse aus reiner Energie auf das Ziel und fügt jedem Feind in der Nähe des Einschlags Wuchtschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1759,7 +1759,7 @@ Irgendwann hatte die Bürgermeisterin von Lachan genug. Sie ernannte Stadthenker
     </Entry>
     <Entry>
       <ID>2361</ID>
-      <DefaultText>Diese Klingen aus Seelenenergie verursachen reinen Schaden und ernten Fokus für das Medium, das sie geschaffen hat.</DefaultText>
+      <DefaultText>Diese Klingen aus Seelenenergie verursachen Direktschaden und ernten Fokus für das Medium, das sie geschaffen hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2080,7 +2080,7 @@ Alt und gebrechlich, wie Durgan war, verbrachte er einen Tag und eine Nacht alle
     </Entry>
     <Entry>
       <ID>2524</ID>
-      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Verbrennungsschaden an.</DefaultText>
+      <DefaultText>Diese verheerende Falle entfesselt die Macht des heiligen Feuers gegen jeden, der das Pech hat, sich in ihrem Wirkungsbereich aufzuhalten. Dieses Feuer richtet verheerenden Brandschaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2110,7 +2110,7 @@ ruhen ewig in ihrer Brust.</DefaultText>
     </Entry>
     <Entry>
       <ID>2528</ID>
-      <DefaultText>Füge Feinden über 50% Ausdauer Schaden zu</DefaultText>
+      <DefaultText>Füge Feinden über 50% Ausdauerschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

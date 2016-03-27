@@ -17,8 +17,8 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * Einfacher Text prüfer für Pillars of Eternity Stringtable Dateien.
- * Könnt man Teilweise in einen Commit Hook wandeln.
+ * Einfacher Text prüfer für Pillars of Eternity Stringtable Dateien. Könnt man Teilweise in einen Commit Hook wandeln.
+ * 
  * @author xar
  *
  */
@@ -106,7 +106,8 @@ public class XmlCompare {
 						}
 						// filePrinted = checkLanguage(tagContent, filePrinted, patch, id);
 						// filePrinted = checkForTags(tagContent, filePrinted, patch, id);
-						filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
+						// filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
+						filePrinted = checkDamageKinds(tagContent, filePrinted, patch, id);
 					}
 					// TODO Token Check […en] equals […de] in Reihenfolge und
 					// Menge
@@ -125,8 +126,9 @@ public class XmlCompare {
 							tagContent += linePatch.trim().replace("</FemaleText>", "");
 						}
 						// filePrinted = checkLanguage(tagContent, filePrinted, patch, id);
-						//filePrinted = checkForTags(tagContent, filePrinted, patch, id);
-						filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
+						// filePrinted = checkForTags(tagContent, filePrinted, patch, id);
+						//filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
+						filePrinted = checkDamageKinds(tagContent, filePrinted, patch, id);
 					}
 					// filePrinted = hasTranslation(file, line, linePatch, id,
 					// filePrinted, "FemaleText");
@@ -141,6 +143,7 @@ public class XmlCompare {
 
 	/**
 	 * Gibts eine Übersetzung wenn es den englischen Text gibt?
+	 * 
 	 * @param file
 	 * @param line
 	 * @param linePatch
@@ -194,10 +197,10 @@ public class XmlCompare {
 
 	SortedSet<String> foundTags = new TreeSet<>();
 
-	/** Replacement Tokens
-	 * [Player Culture] [Player Deity] [Player Name] [Player Race] [OrlansHeadGame_OpponentLastResult] [OrlansHeadGame_OpponentLastScore] [OrlansHeadGame_OpponentTotalScore]
-	 * [OrlansHeadGame_PlayerLastResult] [OrlansHeadGame_PlayerLastScore] [OrlansHeadGame_PlayerTotalScore] [SkillCheck 0] [SkillCheck 1] [SkillCheck 2] [SkillCheck 3] [Slot 0]
-	 * [Slot 1] [Slot 2] [Slot 3] [Slot 4] [Slot 5] [Specified 0] [Specified 1] [{0}]
+	/**
+	 * Replacement Tokens [Player Culture] [Player Deity] [Player Name] [Player Race] [OrlansHeadGame_OpponentLastResult] [OrlansHeadGame_OpponentLastScore]
+	 * [OrlansHeadGame_OpponentTotalScore] [OrlansHeadGame_PlayerLastResult] [OrlansHeadGame_PlayerLastScore] [OrlansHeadGame_PlayerTotalScore] [SkillCheck 0] [SkillCheck 1]
+	 * [SkillCheck 2] [SkillCheck 3] [Slot 0] [Slot 1] [Slot 2] [Slot 3] [Slot 4] [Slot 5] [Specified 0] [Specified 1] [{0}]
 	 * 
 	 * @param text
 	 * @param filePrinted
@@ -229,6 +232,7 @@ public class XmlCompare {
 
 	/**
 	 * Alle Anführungszeichen in der von uns gewünschten version? Und Paarweise? Auslassungszeichen sind noch nicht behandelt.
+	 * 
 	 * @param text
 	 * @param filePrinted
 	 * @param file
@@ -242,18 +246,53 @@ public class XmlCompare {
 		long result1Quote2 = text.chars().filter(ch -> ch == '‘').count();
 		long falseQuotes = text.chars().filter(ch -> ch == '”').count();
 		long falseQuotes1 = text.chars().filter(ch -> ch == '’').count(); // TODO und to test
-		long falseQuotes2 = text.chars().filter(ch -> ch == '\'').count(); // TODO und to test
+		long falseQuotes2 = text.chars().filter(ch -> ch == '\'').count();
 		long falseQuotes3 = text.chars().filter(ch -> ch == '"').count();
 		boolean found = false;
-		if (resultQuote != resultQuote2 || result1Quote != result1Quote2 || falseQuotes != 0 || falseQuotes3 != 0) {
+		if (falseQuotes2 != 0) {
 			found = true;
 		}
+		// if (resultQuote != resultQuote2 || result1Quote != result1Quote2 || falseQuotes != 0 || falseQuotes3 != 0) {
+		// found = true;
+		// }
 		if (found) {
 			if (!filePrinted)
 				System.out.println("File: " + file.toString());
 			filePrinted = true;
 			System.out.println(id);
 			System.out.println(text);
+		}
+		return filePrinted;
+	}
+
+	/**
+	 * Burn (damage) => Brand(schaden) <br />
+	 * Corrode (damage) => Zersetzungs(schaden) <br />
+	 * Crush (damage) => Wucht(schaden) <br />
+	 * Freeze (damage) => Frost(schaden) <br />
+	 * Pierce (damage) => Stich(schaden) <br />
+	 * Raw (damage) => Direkt(schaden) <br />
+	 * Shock (damage) => Schock(schaden) ? Elektroshock? <br />
+	 * Slash (damage) => Hieb(schaden) <br />
+	 * 
+	 * @param text
+	 * @param filePrinted
+	 * @param file
+	 * @param id
+	 * @return
+	 */
+	public boolean checkDamageKinds(String text, boolean filePrinted, Path file, String id) {
+		String lowerCase = text.toLowerCase();
+		if (lowerCase.contains("schaden")) {
+			if (!(text.contains("Brand") || text.contains("Zersetzungs") || text.contains("Wucht")
+					|| text.contains("Frost") || text.contains("Stich") || text.contains("Direkt")
+					|| text.contains("Schock") || text.contains("Hieb"))) {
+				if (!filePrinted)
+					System.out.println("File: " + file.toString());
+				filePrinted = true;
+				System.out.println(id);
+				System.out.println(text);
+			}
 		}
 		return filePrinted;
 	}
