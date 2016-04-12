@@ -83,7 +83,7 @@ Marschall Forwyn nähert sich. „Sie kommen gerade rechtzeitig. Fürst Gathbins
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Dann erscheint von hinter den feindlichen Linien eine Gruppe aedyranischer Kampfmagier. Sie beginnen, mit geübter Präzision ihre Hände synchron zu bewegen. Plötzlich schießen zwischen deinen Truppen Wellen arkanen Feuers auf. Der beißende Gestank von Rauch und brennendem Fleisch ist fast überwältigend.</DefaultText>
+      <DefaultText>Dann erscheint von hinter den feindlichen Linien eine Gruppe aedyrischer Kampfmagier. Sie beginnen, mit geübter Präzision ihre Hände synchron zu bewegen. Plötzlich schießen zwischen deinen Truppen Wellen arkanen Feuers auf. Der beißende Gestank von Rauch und brennendem Fleisch ist fast überwältigend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,7 +407,7 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Marschall Forwyn beginnt, Befehle zu bellen. Deine Truppen formieren sich eilig. Gathbins Armee tut es ihnen gleich, als aedyranische Kriegstrommeln über das Schlachtfeld hallen.</DefaultText>
+      <DefaultText>Marschall Forwyn beginnt, Befehle zu bellen. Deine Truppen formieren sich eilig. Gathbins Armee tut es ihnen gleich, als aedyrische Kriegstrommeln über das Schlachtfeld hallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +422,7 @@ Sie tötet Feind um Feind. Einmal hält sie kurz inne, um dich über das Schlach
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>„Schickt diese aedyranischen Hunde zu Berath!“</DefaultText>
+      <DefaultText>„Schickt diese aedyrischen Hunde zu Berath!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
