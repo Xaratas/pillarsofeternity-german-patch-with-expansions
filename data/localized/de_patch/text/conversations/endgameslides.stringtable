@@ -46,7 +46,7 @@ Kaum war ihm dieser Titel verliehen worden, verließ Hiravias seelenruhig das Do
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Nach der Geburt seines hohlgeborenen Kindes verlor Fürst Raedric vollends den Verstand. Seine Frau bekam seinen Zorn als erstes zu spüren.
+      <DefaultText>Nach der Geburt seines hohlgeborenen Kindes verlor Fürst Raedric vollends den Verstand. Seine Frau bekam seinen Zorn als Erstes zu spüren.
 
 Mit einer Festung, die ihm Schutz bot, und einer Garnison treuer Soldaten, die ihm aufs Wort gehorchten, schlug er weiter jeden aufkeimenden Widerstand von den Bürgern von Goldtal nieder - auch, wenn er ihn sich nur einbildete. Schließlich hingen sie alle von den Bäumen des Dorfes und überblickten mit leeren Augen ihre tote Stadt.</DefaultText>
       <FemaleText />
@@ -244,7 +244,7 @@ In den folgenden Monaten wurden die grenznahen Siedlungen des Dyrwalds unerklär
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Pallegina hatte sich den Befehlen der Ducs Bels widersetzt, indem sie ein neues Handelsabkommen mit den Anamenfath ausgehandelt hatte, um dem sich nur langsam erholenden Markt im Dyrwald entgegen zu kommen. Nachdem die Bewohner des Dyrwalds durch das Seelengeschenk des Wächters gestärkt worden waren, hatten die Vailianischen Republiken Mühe, mit ihrer neuen Konkurrenz Schritt zu halten. Wegen ihres unverfrorenen Ungehorsams wurde Pallegina für mehrere Jahre aus den Republiken verbannt. Nachdem der südliche Wald von Eir Glanfath sich sowohl für die Republiken als auch den Dyrwald geöffnet hatte, stellten die Vailianer fest, dass durch die gemeinsamen Bemühungen aller drei Nationen ein robustes Handelsnetzwerk entstanden war. Die Ducessa von Biageppe begnadigte Pallegina für ihre Voraussicht, auch wenn es Jahre dauern sollte, ehe sie das Vertrauen ihrer Vorgesetzten und Brüder im Orden zurückgewann.</DefaultText>
+      <DefaultText>Pallegina hatte sich den Befehlen der Ducs Bels widersetzt, indem sie ein neues Handelsabkommen mit den Anamenfath ausgehandelt hatte, um dem sich nur langsam erholenden Markt im Dyrwald entgegenzukommen. Nachdem die Bewohner des Dyrwalds durch das Seelengeschenk des Wächters gestärkt worden waren, hatten die Vailianischen Republiken Mühe, mit ihrer neuen Konkurrenz Schritt zu halten. Wegen ihres unverfrorenen Ungehorsams wurde Pallegina für mehrere Jahre aus den Republiken verbannt. Nachdem der südliche Wald von Eir Glanfath sich sowohl für die Republiken als auch den Dyrwald geöffnet hatte, stellten die Vailianer fest, dass durch die gemeinsamen Bemühungen aller drei Nationen ein robustes Handelsnetzwerk entstanden war. Die Ducessa von Biageppe begnadigte Pallegina für ihre Voraussicht, auch wenn es Jahre dauern sollte, ehe sie das Vertrauen ihrer Vorgesetzten und Brüder im Orden zurückgewann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,12 +525,12 @@ Doch die letzte Hohlgeburt war nun Vergangenheit, und die Eltern, die das Risiko
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Die Meere erwiesen sich auch nicht als sicherer. Erbarmungslöse Sturmböen peitschten monatelang über die Häfen an der Küste des Dyrwalds. Viele Schiffe gingen für immer in den Tiefen von Ondras Reich verloren, betrauert oder vergessen&#160;– beides zur Freude der Herrin.</DefaultText>
+      <DefaultText>Die Meere erwiesen sich auch nicht als sicherer. Erbarmungslose Sturmböen peitschten monatelang über die Häfen an der Küste des Dyrwalds. Viele Schiffe gingen für immer in den Tiefen von Ondras Reich verloren, betrauert oder vergessen&#160;– beides zur Freude der Herrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Wer nicht von den Bestien Galawains vernichtet wurde, war oft den Feuern Magrans ausgeliefert. Eine Dürreperiode im ganzen Dyrwald führte zu zahlreichen Waldfeuern von einem Ausmaß, wie man es seit dem Krieg der Schwarzen Bäume nicht gesehen hatte. Viele Siedlungen bezahlten den Preis für ihre Nähe zur Wildnis.
+      <DefaultText>Wer nicht von den Bestien Galawains vernichtet wurde, war oft den Feuern Magrans ausgeliefert. Eine Dürreperiode im ganzen Dyrwald führte zu zahlreichen Waldbränden von einem Ausmaß, wie man es seit dem Krieg der Schwarzen Bäume nicht gesehen hatte. Viele Siedlungen bezahlten den Preis für ihre Nähe zur Wildnis.
 
 In den Städten mussten derweil viele, die sich an der Beseelung versucht hatten und Seelen in Golems oder andere bewegliche Hüllen verpflanzt hatten, feststellen, dass ihre Schöpfungen sich gegen sie erhoben hatten. Solche Konstrukte terrorisierten ihre Umgebung, töteten wahllos und oft in großer Zahl, bevor sie überwältigt wurden.</DefaultText>
       <FemaleText />
@@ -625,7 +625,7 @@ Nachdem die Ritter sowohl die Gefahren als auch das Potenzial der Beseelung gese
       <ID>116</ID>
       <DefaultText>Die Festung von Caed Nua erwies sich als Bastion der Sicherheit inmitten eines ungezähmten Landes. Sie wurde zum Neid jedes Thayns und Grafen im Dyrwald. Ihre Uneinnehmbarkeit wurde bald Stoff von Legenden, an den Herden von Gaststätten im ganzen Dyrwald erzählte man sich Geschichten von furchterregenden Angreifern, die an der Verteidigung der Festung verzweifelten.
 
-So lockte die Festung Reisende, Händler und Würdeträger an. Sie hatte bald den Ruf, die edelste Festung im ganzen Dyrwald zu sein. Die Leute kamen von nah und fern, um ihre sagenumwobene Gastfreundlichkeit und ihren legendären Glanz zu erleben.</DefaultText>
+So lockte die Festung Reisende, Händler und Würdenträger an. Sie hatte bald den Ruf, die edelste Festung im ganzen Dyrwald zu sein. Die Leute kamen von nah und fern, um ihre sagenumwobene Gastfreundlichkeit und ihren legendären Glanz zu erleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
