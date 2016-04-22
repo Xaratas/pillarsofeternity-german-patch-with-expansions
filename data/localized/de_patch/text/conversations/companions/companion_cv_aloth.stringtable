@@ -393,7 +393,7 @@ Er blickt dich vorsichtig optimistisch an. „Vielleicht könnte ich mich dir an
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Als der letzte der Angreifer fällt, wendet sich der Elf dir zu. Die Spannung ist fast gänzlich aus seinem glatten Gesicht verschwunden.</DefaultText>
+      <DefaultText>Als der letzte Angreifer fällt, wendet sich der Elf dir zu. Die Spannung ist fast gänzlich aus seinem glatten Gesicht verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -480,7 +480,7 @@ Er beugt sich etwas näher heran. „Jetzt bin ich neugierig: Was genau hast du 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Als der letzte der Angreifer fällt, wendet sich der Elf dir zu, die Anspannung wie festgefroren in seinem Gesicht.</DefaultText>
+      <DefaultText>Als der letzte Angreifer fällt, wendet sich der Elf dir zu, die Anspannung wie festgefroren in seinem Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
