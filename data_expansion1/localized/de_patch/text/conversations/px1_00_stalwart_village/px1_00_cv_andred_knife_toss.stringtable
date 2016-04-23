@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Nicht schlecht, Fremder. Die Runde geht an dich.“</DefaultText>
-      <FemaleText>„[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Nicht schlecht, Fremde. Die Runde geht an dich.“</FemaleText>
+      <DefaultText> „[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Nicht schlecht, Fremder. Die Runde geht an dich.“</DefaultText>
+      <FemaleText> „[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Nicht schlecht, Fremde. Die Runde geht an dich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Ich habe gewonnen!“</DefaultText>
+      <DefaultText> „[OrlansHeadGame_PlayerTotalScore] für dich und [OrlansHeadGame_OpponentTotalScore] für mich. Ich habe gewonnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„[OrlansHeadGame_PlayerTotalScore] und [OrlansHeadGame_OpponentTotalScore]. Unentschieden.“</DefaultText>
+      <DefaultText> „[OrlansHeadGame_PlayerTotalScore] und [OrlansHeadGame_OpponentTotalScore]. Unentschieden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

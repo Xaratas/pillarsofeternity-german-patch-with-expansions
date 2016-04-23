@@ -821,7 +821,7 @@ Du bist nicht mit derlei belastet. Du siehst die Magie als das, was sie ist - Ma
     </Entry>
     <Entry>
       <ID>2116</ID>
-      <DefaultText>Die Bürger von Stalwart verwenden unterschiedliche geschnitzte Fischgräten als Ersatzwährung. Die meisten ‚Grätlinge‘ werden aus einem großen flachen Teil des Schädels des Fleckenrückenbarschs geschnitzt. Die Schnitzereien sind so filigran, dass Außenstehende sie wegen ihrer Kunstfertigkeit schätzen.</DefaultText>
+      <DefaultText>Die Bürger von Stalwart verwenden unterschiedliche geschnitzte Fischgräten als Ersatzwährung. Die meisten „Grätlinge“ werden aus einem großen flachen Teil des Schädels des Fleckenrückenbarschs geschnitzt. Die Schnitzereien sind so filigran, dass Außenstehende sie wegen ihrer Detailverliebtheit schätzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1207,7 +1207,7 @@ Während der arme junge Lehrling ganz von seinem Hut besessen war, lernten seine
       <ID>2186</ID>
       <DefaultText>Die Anhänger des Verschlungenen Pfads halten es für das höchste Gut, zu Fuß die Welt zu erkunden. Viele von ihnen legen ein striktes Schweigegelübde ab und reisen nur mit den notwendigsten Dingen. Sie schlagen jede Nacht ihr Lager auf, ohne zu wissen, wohin der nächste Tag sie führen wird. Wenn sie aufstehen, wählen sie ihre Route nach ihren Träumen.
 
-Wegen dieses unsteten Lebenswandels kommt es häufig vor, dass man ihre Besitztümer - oder ihre Überreste - in der Wildnis oder am Straßenrand findet.</DefaultText>
+Wegen dieses unsteten Lebenswandels kommt es häufig vor, dass man ihre Besitztümer – oder ihre Überreste – in der Wildnis oder am Straßenrand findet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1217,9 +1217,9 @@ Wegen dieses unsteten Lebenswandels kommt es häufig vor, dass man ihre Besitzt�
     </Entry>
     <Entry>
       <ID>2188</ID>
-      <DefaultText>Dieser Gürtel trägt das Zeichen von Ryona, einer legendären Abenteurerin, die auf der Suche nach Reichtum und Ruhm Eora bereiste. Als sie jung war, wurde sie in einer Kampfkunstschule in Ozia ausgebildet, so sie sich zunächst schwertat. Viele ihrer Mitschüler kamen aus reichen örtlichen Familien. Sie aber war arm und aus dem Ausland.
+      <DefaultText>Dieser Gürtel trägt das Zeichen von Ryona, einer legendären Abenteurerin, die auf der Suche nach Reichtum und Ruhm Eora bereiste. Als sie jung war, wurde sie in einer Kampfkunstschule in Ozia ausgebildet, wo sie sich zunächst schwertat. Viele ihrer Mitschüler kamen aus reichen örtlichen Familien. Sie aber war arm und aus dem Ausland.
 
-Aber sie war klug und sie übte fleißig. Eines Tages forderte ihr größter Rivale - der Neffe eines der Ducs Bels - sie zum Duell heraus. Ryona musste annehmen, um nicht ihr Gesicht zu verlieren. Als sie sich in der Arena gegenüberstanden, bot er ihr an, ihr vor dem Kampf einen beliebigen Teil seiner Rüstung zu überlassen.
+Aber sie war klug und sie übte fleißig. Eines Tages forderte ihr größter Rivale – der Neffe eines der Ducs Bels – sie zum Duell heraus. Ryona musste annehmen, um nicht ihr Gesicht zu verlieren. Als sie sich in der Arena gegenüberstanden, bot er ihr an, ihr vor dem Kampf einen beliebigen Teil seiner Rüstung zu überlassen.
 
 Er wollte damit ihr Können beleidigen, doch als Ryona seinen Gürtel forderte, erkannte er seinen Fehler. Er gab ihr den Gürtel, an dem noch sein Degen in der Scheide hing&#160;… und hatte sich damit selbst entwaffnet. Ryona gewann das Duell kampflos und behielt den Gürtel als Erinnerungsstück.</DefaultText>
       <FemaleText />
