@@ -968,7 +968,7 @@ Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. 
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Eine Fähigkeit, die eine bestimmte Anzahl von Verwendungen pro Begegnung hat, kann pro Kampfbegegnung nur begrenzt oft eingesetzt werden. Eine Fähigkeit mit 3 Verwendungen pro Begegnung kann beispielsweise nur 3 mal in einem einzelnen Kampf eingesetzt werden. Am Ende des Kampfes werden die Verwendungen für die nächste Begegnung wieder zurückgesetzt.</DefaultText>
+      <DefaultText>Eine Fähigkeit, die eine bestimmte Anzahl von Verwendungen pro Begegnung hat, kann pro Kampfbegegnung nur begrenzt oft eingesetzt werden. Eine Fähigkeit mit drei Verwendungen pro Begegnung kann beispielsweise nur dreimal in einem einzelnen Kampf eingesetzt werden. Am Ende des Kampfes werden die Verwendungen für die nächste Begegnung wieder zurückgesetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -978,7 +978,7 @@ Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. 
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Eine Fähigkeit, die eine bestimmte Anzahl von Verwendungen pro Ruhephase hat, kann nur begrenzt oft eingesetzt werden, bevor sie erschöpft ist. Eine Fähigkeit mit 3 Verwendungen pro Ruhephase kann beispielsweise nur 3 mal eingesetzt werden. Um die Verwendungen zurückzusetzen, muss der Charakter rasten.</DefaultText>
+      <DefaultText>Eine Fähigkeit, die eine bestimmte Anzahl von Verwendungen pro Ruhephase hat, kann nur begrenzt oft eingesetzt werden, bevor sie erschöpft ist. Eine Fähigkeit mit drei Verwendungen pro Ruhephase kann beispielsweise nur dreimal eingesetzt werden. Um die Verwendungen zurückzusetzen, muss der Charakter rasten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
