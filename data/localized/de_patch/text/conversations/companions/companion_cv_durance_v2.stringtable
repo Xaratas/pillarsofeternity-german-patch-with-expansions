@@ -18,7 +18,7 @@
       <ID>7</ID>
       <DefaultText>„Bist du auch gekommen, um zur Statue zu beten?“
 
-Die Frage klingt eigentlich kaum wie eine Frage. Als der Mann seine Aussage macht, nimmt die Statue eine rötlichen Farbton an, als ob jemand eine Fackel vor sie halten würde, dann geht sie langsam in wogenden Flammen auf. Der Mann dreht sich nicht um, als die Statue in Flammen aufgeht.</DefaultText>
+Die Frage klingt eigentlich kaum wie eine Frage. Als der Mann seine Aussage macht, nimmt die Statue einen rötlichen Farbton an, als ob jemand eine Fackel vor sie halten würde, dann geht sie langsam in wogenden Flammen auf. Der Mann dreht sich nicht um, als die Statue in Flammen aufgeht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@ Er hält einen Stab locker in seiner Hand&#160;– der einen Augenblick zuvor no
       <ID>21</ID>
       <DefaultText>„Auf der Welt gibt es viele Huren, die wir verehren. Für Respekt gibt es viele Namen.“
 
-„Ich könnte darauf wetten, dass selbst du schon mal für Kupfermünzen gegen deinen Instinkten gehandelt hast&#160;… oder dafür auf unzählige Arten bezahlt hast.“</DefaultText>
+„Ich könnte darauf wetten, dass selbst du schon mal für Kupfermünzen gegen deinen Instinkt gehandelt hast&#160;… oder dafür auf unzählige Arten bezahlt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@ Als du aufblickst, siehst du den Mann, der dich beim Studieren des Stabs beobach
       <ID>29</ID>
       <DefaultText>„Es geht darum, was unter der Haut liegt, und die Buchstaben, die mir etwas bedeuten, brennen von innen heraus. Für mich ist es viel wichtiger, dass du ein Wächter bist, als welche Kultur oder welcher Akzent wie plumpe Kronen deine Buchstaben verzieren.“
 
-„Sei stolz auf deine Taten, nicht darauf, woher du stammst&#160;…“ Einen Moment lang bricht Feuer aus dem Stab des Mannes, dann kommen die glühenden Kohlen zur Ruhe. „…&#160;oder wie dein Namen irgendeinem Lügner von der Zunge geht, dem sie gerade darauf liegt.“</DefaultText>
+„Sei stolz auf deine Taten, nicht darauf, woher du stammst&#160;…“ Einen Moment lang bricht Feuer aus dem Stab des Mannes, dann kommen die glühenden Kohlen zur Ruhe. „…&#160;oder wie dein Name irgendeinem Lügner von der Zunge geht, dem sie gerade darauf liegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -539,7 +539,7 @@ Sein Gesicht verdunkelt sich. „Woedica&#160;… sie muss ihrer eigenen Gerecht
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>„Die anderen, die am Bau des Götterhammers beteiligt waren&#160;… die sind alle gestorben, oder? Das ist der Grund, weshalb ihre ihre Symbole auf deinem Stab verblassen sah.“</DefaultText>
+      <DefaultText>„Die anderen, die am Bau des Götterhammers beteiligt waren&#160;… die sind alle gestorben, oder? Das ist der Grund, weshalb ich ihre Symbole auf deinem Stab verblassen sah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
