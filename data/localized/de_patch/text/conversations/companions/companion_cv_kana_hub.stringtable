@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Fühlt sich gut an, wieder unterwegs zu sein. Die Wanderlust ist dem Volke von Rauatai nichts neues, aber ich danke oft, dass nur ich das Land so sehr wie die See liebe.“
+      <DefaultText>„Fühlt sich gut an, wieder unterwegs zu sein. Die Wanderlust ist dem Volke von Rauatai nichts Neues, aber ich danke oft, dass nur ich das Land so sehr wie die See liebe.“
 
 „Was sollen wir uns als nächsten ansehen?“</DefaultText>
       <FemaleText />
@@ -705,7 +705,7 @@ Kana kichert. „Tut mir leid.“</DefaultText>
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>„Und das zu sein strebst zu an?“</DefaultText>
+      <DefaultText>„Und das zu sein strebst du an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -845,7 +845,7 @@ Kana kichert. „Tut mir leid.“</DefaultText>
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>„Ach nein?“ Er grinst schief. „Ich verstehe, was du meinst. Meine Familie stammt wie du vom Todesfeuer. ich selbst aber habe die Inseln noch nie gesehen. Viele Jahre vor meiner Geburt reisten meine Eltern nach Rauatai.“</DefaultText>
+      <DefaultText>„Ach nein?“ Er grinst schief. „Ich verstehe, was du meinst. Meine Familie stammt wie du vom Todesfeuer, ich selbst aber habe die Inseln noch nie gesehen. Viele Jahre vor meiner Geburt reisten meine Eltern nach Rauatai.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1044,7 +1044,7 @@ Kana kichert. „Tut mir leid.“</DefaultText>
       <ID>219</ID>
       <DefaultText>„Ich beschloss, meinen dritten Abschluss in Geschichte zu machen, und die Engwithaner zu studieren. Im Ausland wurde schließlich so viel über sie diskutiert, so viel entdeckt.“
 
-„Es zog einigen Spott auf sich. Wir hatten beobachtet, wie Aedyr selbst wegen diesen Ruinen in mehrere Konflikte mit den Glanfathanern hineingezogen wurde. Tâkowa aber hatte eigene Sorgen.“</DefaultText>
+„Es zog einigen Spott auf sich. Wir hatten beobachtet, wie Aedyr selbst wegen dieser Ruinen in mehrere Konflikte mit den Glanfathanern hineingezogen wurde. Tâkowa aber hatte eigene Sorgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1584,7 +1584,7 @@ Kana äugt dich an. „Mir ist aufgefallen, dass sie sich nicht sonderlich für 
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>„Es macht Sinn, im besten Interesse deines Volkes zu handeln.“</DefaultText>
+      <DefaultText>„Es ergibt Sinn, im besten Interesse deines Volkes zu handeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

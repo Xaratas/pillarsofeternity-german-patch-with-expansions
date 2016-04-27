@@ -228,7 +228,7 @@ Als das Monster anfängt, sich langsam und schwerfällig umzudrehen, erhaschst d
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Ein treuer Anhänger vertraut den Wegen seines Gottes. Meine Wege entfalten sich schrittweise und aufhaltsam. Entropie, das ist ein Meißel aus Eis und ein Hammer aus Wind. Generationen der Erosion. Sie wird nicht wegen der Ungeduld von Sterblichen beschleunigt. Wenn du zu voreilig bist, um das zu verstehen, dann bist du der Aufgabe nicht gewachsen, die dir bevorsteht.“
+      <DefaultText>„Ein treuer Anhänger vertraut den Wegen seines Gottes. Meine Wege entfalten sich schrittweise und unaufhaltsam. Entropie, das ist ein Meißel aus Eis und ein Hammer aus Wind. Generationen der Erosion. Sie wird nicht wegen der Ungeduld von Sterblichen beschleunigt. Wenn du zu voreilig bist, um das zu verstehen, dann bist du der Aufgabe nicht gewachsen, die dir bevorsteht.“
 
 Als das Monster anfängt, sich langsam und schwerfällig umzudrehen, erhaschst du einen letzten Blick auf den entstellten Mann, der sich an seine Beine klammert. Er verengt seine schwarzen Augen und blickt dich mit selbstzufriedener, gehässiger Freude an.</DefaultText>
       <FemaleText />
@@ -500,7 +500,7 @@ Ein Eiskristall wächst aus deinem eingefrorenen Finger. Als du ihn untersuchst,
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Skaens Lachen ist dünn und schrill. „Und so fordern wir dich auf, das Selbe zu tun. Dies sind die Intrigen der Vergangenen Königin.“</DefaultText>
+      <DefaultText>Skaens Lachen ist dünn und schrill. „Und so fordern wir dich auf, dasselbe zu tun. Dies sind die Intrigen der Vergangenen Königin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,7 +620,7 @@ Ein Eiskristall wächst aus deinem eingefrorenen Finger. Als du ihn untersuchst,
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Du spürst plötzlich einen kalten Windzug, als würde der Schrein in das Winterleben eintreten. Die Kälte schneidet in deine Haut wie ein scharfe Klinge, und Dunkelheit beginnt sich am Rand deiner Augen breitzumachen.</DefaultText>
+      <DefaultText>Du spürst plötzlich einen kalten Windzug, als würde der Schrein in das Winterleben eintreten. Die Kälte schneidet in deine Haut wie eine scharfe Klinge, und Dunkelheit beginnt sich am Rand deiner Augen breitzumachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,7 +707,7 @@ Sofort verschmelzen die Splitter wieder und du findest dich wieder in Teir Evron
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>„Ein treuer Anhänger vertraut den Wegen seines Gottes. Meine Wege entfalten sich schrittweise und aufhaltsam. Entropie, das ist ein Meißel aus Eis und ein Hammer aus Wind. Generationen der Erosion. Sie wird nicht wegen der Ungeduld von Sterblichen beschleunigt. Deine Reise, von Unbesonnenheit und Ungeduld geprägt, zeigt, dass du den kommenden Aufgaben nicht gewachsen bist.“
+      <DefaultText>„Ein treuer Anhänger vertraut den Wegen seines Gottes. Meine Wege entfalten sich schrittweise und unaufhaltsam. Entropie, das ist ein Meißel aus Eis und ein Hammer aus Wind. Generationen der Erosion. Sie wird nicht wegen der Ungeduld von Sterblichen beschleunigt. Deine Reise, von Unbesonnenheit und Ungeduld geprägt, zeigt, dass du den kommenden Aufgaben nicht gewachsen bist.“
 
 Als das Monster anfängt, sich langsam und schwerfällig umzudrehen, erhaschst du einen letzten Blick auf den entstellten Mann, der sich an seine Beine klammert. Er verengt seine schwarzen Augen und blickt dich mit selbstzufriedener, gehässiger Freude an.</DefaultText>
       <FemaleText />

@@ -79,7 +79,7 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Den Empfänger von Woedicas Segen. Sie hatte immer einen Platz für Sterbliche von besonderem Nutzen. Wenn du ihr jetzt hilfst, wird sie zum mächtigsten aller Götter&#160;… und du machst sie dazu. Denk nur an die vielen Leben voller Belohnungen, die dir zuteil werden würden.“</DefaultText>
+      <DefaultText>„Den Empfänger von Woedicas Segen. Sie hatte immer einen Platz für Sterbliche von besonderem Nutzen. Wenn du ihr jetzt hilfst, wird sie zum mächtigsten aller Götter&#160;… und du machst sie dazu. Denk nur an die vielen Leben voller Belohnungen, die dir zuteilwerden würden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@ Er geht weiter die Straße entlang, und als die Sonne hinter dem Horizont versin
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Aloths Gesicht wird zu einer misstrauischen Grimasse. „Mir scheint, dass ist seine Art, dir neue Befehle im Namen seiner eigenen Herrin zu erteilen. Sei auf der Hut, [Player Name].“</DefaultText>
+      <DefaultText>Aloths Gesicht wird zu einer misstrauischen Grimasse. „Mir scheint, das ist seine Art, dir neue Befehle im Namen seiner eigenen Herrin zu erteilen. Sei auf der Hut, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@ Ein schrilles Gackern ertönt. Du blickst dich um.</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Seine schwarzen Augen funkeln. „Du hast dich einst fettgefressen, während andere die Währung ihres Lebens in deinen Diensten ausgaben. Ich würde nur zu gerne deinen Rücken mit der Peitsche geißeln und für jeden Tropfen Blut, den du vergossen hast, für jede Narbe, die du in unschuldiges Fleisch gebrannt hast, den Zins einfordern.“
+      <DefaultText>Seine schwarzen Augen funkeln. „Du hast dich einst fett gefressen, während andere die Währung ihres Lebens in deinen Diensten ausgaben. Ich würde nur zu gerne deinen Rücken mit der Peitsche geißeln und für jeden Tropfen Blut, den du vergossen hast, für jede Narbe, die du in unschuldiges Fleisch gebrannt hast, den Zins einfordern.“
 
 Er verneigt sich stockend und übertrieben vor dir, zornig zu dir aufblickend, selbst während seine Knie zittern und wanken. „Aber meine Herrin möchte an deinen Sinn für&#160;… Perspektive appellieren. Denn du weißt, dass alle Dinge ihren Platz haben.“</DefaultText>
       <FemaleText />

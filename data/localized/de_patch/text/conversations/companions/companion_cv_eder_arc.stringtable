@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Ich bin sicher, dass sie sie gerne jedes Mal, wenn sie ihren Namen verwenden, gerne in Brand stecken würde, aber gegen sowas haben die Götter wahrscheinlich Regeln.“</DefaultText>
+      <DefaultText>„Ich bin sicher, dass sie sie gerne jedes Mal, wenn sie ihren Namen verwenden, in Brand stecken würde, aber gegen sowas haben die Götter wahrscheinlich Regeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Burg Schmelztiegel scheint mir ein merkwürdiger Ort für einen Abydon-Schrein zu sein. Vielleicht hat es früher mal mehr Sinn gemacht, bevor sie all den Staub angesetzt hat.“
+      <DefaultText>„Burg Schmelztiegel scheint mir ein merkwürdiger Ort für einen Abydon-Schrein zu sein. Vielleicht hat es früher mal mehr Sinn ergeben, bevor sie all den Staub angesetzt hat.“
 
 „Wenn ich es recht verstanden habe, dann verehren die Schmelztiegelritter heutzutage nur noch den Adel.“</DefaultText>
       <FemaleText />
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Darüber nachzudenken, was wir nie erfahren werden, macht keinen Sinn.“</DefaultText>
+      <DefaultText>„Darüber nachzudenken, was wir nie erfahren werden, ergibt keinen Sinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,7 +288,7 @@ Er blickt zu Boden und trommelt mit seinen Fingern unruhig gegen seine Seite. Al
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Sie blickt bleibt nach unten und in die Ferne gerichtet. „Als Woden in den Krieg aufbrach, hatten wir, äh–“
+      <DefaultText>Sein Blick bleibt nach unten und in die Ferne gerichtet. „Als Woden in den Krieg aufbrach, hatten wir, äh–“
 
 Edér beginnt fast zu weinen. Er atmet langsam ein. „Wir hatten eine Auseinandersetzung. Unter Brüdern.“</DefaultText>
       <FemaleText />
@@ -372,7 +372,7 @@ Edér beißt sich auf die Unterlippe. „Mit Familien verhält es sich wie mit G
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Letzten Endes fand ich meinen eigenen Weg, und es war nicht der meines Bruder, und auch nicht der meines Gottes. Ich weiß nicht, ob das richtig war, aber ich konnte nicht ertragen, was Waidwen seinen Eigenen antat, Gott oder nicht.“</DefaultText>
+      <DefaultText>„Letzten Endes fand ich meinen eigenen Weg, und es war nicht der meines Bruders, und auch nicht der meines Gottes. Ich weiß nicht, ob das richtig war, aber ich konnte nicht ertragen, was Waidwen seinen Eigenen antat, Gott oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
