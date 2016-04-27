@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Hier wären wir also. Wenn man sich überlegt, wie nahe wie sind! Direkt unter unseren Füßen liegen die Endlosen Pfade, gebaut von Od Nua, dem großen engwithanischen König.“
+      <DefaultText>„Hier wären wir also. Wenn man sich überlegt, wie nahe wir sind! Direkt unter unseren Füßen liegen die Endlosen Pfade, gebaut von Od Nua, dem großen engwithanischen König.“
 
 Kana hält inne. „Naja, hier oben ist natürlich alles aedyrischer Bauart, aber sollten wir tief genug hinabsteigen, werden wir wahre Geschichte erleben!“</DefaultText>
       <FemaleText />
@@ -48,7 +48,7 @@ Kana hält inne. „Naja, hier oben ist natürlich alles aedyrischer Bauart, abe
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Nur sterbenskrank wegen deinen Fragen.“</DefaultText>
+      <DefaultText>„Nur sterbenskrank wegen deiner Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Er beugt sich über die zerschmetterten Fragmente und legt die größten von ihn
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Diese Gravuren&#160;… ‚Bleibt&#160;… weg‘? S-so etwas ähnliches, ja. …&#160;Gab es Experimente?“</DefaultText>
+      <DefaultText>„Diese Gravuren&#160;… ‚Bleibt&#160;… weg‘? S-so etwas Ähnliches, ja. …&#160;Gab es Experimente?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -749,7 +749,7 @@ Er beäugt dich neugierig. „Du sprichst Engwithanisch. Vielleicht könntest du
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Oh nein, nicht schon wieder. Jetzt? Ausgerechnet jetzt?“ Kana knirscht mit den Zähne und sein Gesicht wird dunkel vor Wut.</DefaultText>
+      <DefaultText>„Oh nein, nicht schon wieder. Jetzt? Ausgerechnet jetzt?“ Kana knirscht mit den Zähnen und sein Gesicht wird dunkel vor Wut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -769,7 +769,7 @@ Er beäugt dich neugierig. „Du sprichst Engwithanisch. Vielleicht könntest du
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>„Genau das wollten sie. Sie hätten sie selbst zertrümmert.“ Kana zieht sich zu voller Größe hoch. „Also kommt schon. Die anderen vier Mal seid ihr gescheitert. Lasst uns fünf daraus machen.“</DefaultText>
+      <DefaultText>„Genau das wollten sie. Sie hätten sie selbst zertrümmert.“ Kana zieht sich zu voller Größe hoch. „Also kommt schon. Die anderen viermal seid ihr gescheitert. Lasst uns fünf daraus machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -824,7 +824,7 @@ Er beäugt dich neugierig. „Du sprichst Engwithanisch. Vielleicht könntest du
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Kana stupst sich gedankenverloren mit seinem Daumen gegen einen Zahn. „Das macht keinen Sinn. Sie konnten nur wissen, dass wir in die Ruinen hinabgestiegen sind, und das war ihnen Rechtfertigung genug für ihren Angriff.“</DefaultText>
+      <DefaultText>Kana stupst sich gedankenverloren mit seinem Daumen gegen einen Zahn. „Das ergibt keinen Sinn. Sie konnten nur wissen, dass wir in die Ruinen hinabgestiegen sind, und das war ihnen Rechtfertigung genug für ihren Angriff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1018,7 +1018,7 @@ Er runzelt die Stirn. „Als wenn wir uns auf dem rechten Weg befinden, wie du b
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>„Genau das wollten sie. Sie hätten sie selbst zertrümmert.“ Kana zieht sich zu voller Größe hoch. „Also kommt schon. Die anderen vier Mal seid ihr gescheitert. Lasst uns fünf daraus machen.“</DefaultText>
+      <DefaultText>„Genau das wollten sie. Sie hätten sie selbst zertrümmert.“ Kana zieht sich zu voller Größe hoch. „Also kommt schon. Die anderen viermal seid ihr gescheitert. Lasst uns fünf daraus machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
