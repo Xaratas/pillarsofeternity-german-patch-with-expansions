@@ -27,7 +27,7 @@ Der Kommandant des Eisenflegels ist ein junger, drahtiger Mann. Seine braunen Ha
       <ID>9</ID>
       <DefaultText>Eine plötzliche Welle von Erinnerungen durchflutet deinen Verstand, so klar wie an dem Tag, an dem sie gebildet wurden&#160;…
 
-Du siehst Odemas Lager, von dem Bîawac verwüstet. Die Hallen von Caed Nua.</DefaultText>
+Du siehst Odemas Lager, von dem Bîaŵac verwüstet. Die Hallen von Caed Nua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,7 +649,7 @@ Adaryc schluckt und wirkt unsicher.</DefaultText>
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Zu seinen Füßen befindet sich ein Gitter, das offenbar über einer Grube liegt. Du hörst einige unruhige Schreie aus der Zelle aufsteigen, als der Kommandant vortritt.</DefaultText>
+      <DefaultText>Zu seinen Füßen befindet sich ein Gitter, das offenbar über einer Grube liegt. Du hörst einige unruhige Schreie aus der Zelle aufsteigen, als der Kommandant darüber geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -659,7 +659,7 @@ Adaryc schluckt und wirkt unsicher.</DefaultText>
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Du bemerkst ein Gitter zu den Füßen des Kommandanten, das offenbar über einer Grube liegt. Einige unruhige Schreie steigen aus der Zelle auf, als der Kommandant vortritt.</DefaultText>
+      <DefaultText>Du bemerkst ein Gitter zu den Füßen des Kommandanten, das offenbar über einer Grube liegt. Einige unruhige Schreie steigen aus der Zelle auf, als der Kommandant darüber geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

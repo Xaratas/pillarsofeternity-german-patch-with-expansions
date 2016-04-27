@@ -92,7 +92,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Du hast die Assassinin geschickt?“</DefaultText>
+      <DefaultText>„Du hast die Assassine geschickt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,7 +279,7 @@ Sie blickt dich vielsagend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Nein. Du hast dich nur in meine Pläne eingemischt, etwas gestohlen, was du kaum verstehst, und dafür gesorgt, das es jedem Idioten, der zufällig darüberstolpert, in die Hände fallen kann.“</DefaultText>
+      <DefaultText>„Nein. Du hast dich nur in meine Pläne eingemischt, etwas gestohlen, was du kaum verstehst, und dafür gesorgt, dass es jedem Idioten, der zufällig darüber stolpert, in die Hände fallen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -944,7 +944,7 @@ Llengrath wirkt unverändert, von ihrem zufriedenen Lächeln abgesehen.</Default
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>„Unterschätze nicht die Gefahren von blindwütiger Inkompentenz, Llengrath.“</DefaultText>
+      <DefaultText>„Unterschätze nicht die Gefahren von blindwütiger Inkompetenz, Llengrath.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
