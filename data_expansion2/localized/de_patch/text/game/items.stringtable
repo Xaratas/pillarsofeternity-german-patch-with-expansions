@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
@@ -220,12 +220,12 @@ Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von e
     </Entry>
     <Entry>
       <ID>2027</ID>
-      <DefaultText>Aegis-Ablenker</DefaultText>
+      <DefaultText>Ägis-Ablenker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2031</ID>
-      <DefaultText>„Es war zu Zeiten Florens der Flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der ‚Erbauer‘, wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
+      <DefaultText>„Es war zu Zeiten Florens der flinkfüßigen, dass wir nach Clîaban Rilag kamen - an einen uralten Ort der ‚Erbauer‘, wie die Einheimischen sagen. Es war ein wunderbarer Anblick: Eine Tür im Berg, eingerahmt von einem Paar gulischer Erscheinungen. Durch eine gerissene List gelang es Floren, unseren Gelehrten Zugang zu verschaffen, auf dass wir studieren und aufzeichnen können, was im Inneren liegt.
 
 Wir entdeckten eine Art Gießerei, wie sie weder wir noch unsere entfernten Verwandten jemals gesehen hatten. Durch sorgfältige Beobachtung schlossen wir, dass die Altvorderen diesen Ort verwendet hatten, um Seelen zu extrahieren und in Rüstungen zu übertragen. Heikle und schwierige Arbeit, doch das Ausmaß, in dem sie darin Erfolg hatten, machte uns sprachlos und demütig.
 
@@ -278,7 +278,7 @@ Unter diesen Absatz hat jemand gekritzelt ‚Annalen der Pargrunen, Seite 382-38
 
 „Was über das Entfernen einer Seele bekannt ist, ist ein schwieriger Prozess, der eine erfahrene Hand und präzise Werkzeuge erfordert, wenn er Erfolg haben soll. Erste Versuche an insgesamt einhundertachtunddreißig Ziegen haben die meisten Versuchsobjekte mit zerstörten oder zerspalteten Seelen zurückgelassen. In elf Fällen gelang es, die Seele erfolgreich zu entfernen. In neun dieser Fälle verflüchtigte die Essenz sich, ehe die Forscher sie einfangen konnten.“
 
-Die Worte ‚in Aufbewahrungsbehälter übertragen‘ wurden an den Rand geschrieben und unterstrichen.
+Die Worte „in Aufbewahrungsbehälter übertragen“ wurden an den Rand geschrieben und unterstrichen.
 
 „Der Prozess erfordert leitende Materialien - insbesondere Kupfer und Adra. Ein Eintauchen in Wasser ist nötig, um sicherzustellen, dass die Seele in gleichmäßiger und einheitlicher Weise gezogen wird, ohne Verzerrungen oder Brüche. Eine verzerrte Seele ist bestenfalls nutzlos und schlimmstenfalls unvorhersehbar.“
 
@@ -286,7 +286,7 @@ Die Worte ‚in Aufbewahrungsbehälter übertragen‘ wurden an den Rand geschri
 
 „Wir haben inzwischen den Prozess der Seelenübertragung gemeistert und haben gesehen, welche Vorteile es hat, Schmiedewerk mit der Essenz von Tieren und Wilden zu durchtränken. Zu erforschen ist noch, ob die Verwendung von Seelen Gestandener eine noch größere Wirkung erzeugt; wo wir die geeigneten Versuchsobjekte finden; und wie viel Persönlichkeit und Unabhängigkeit wir in diesen Fällen intakt lassen sollten.“
 
-Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit ‚Verbrecher, Kriegsgefangene, Freiwillige?‘ und endend mit ‚Essewächter‘ in Druckbuchstaben.</DefaultText>
+Dieser Absatz ist mit mehreren Notizen versehen, angefangen mit „Verbrecher, Kriegsgefangene, Freiwillige?“ und endend mit „Essewächter“ in Druckbuchstaben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,7 +1012,7 @@ In der ganzen Zitadelle wurde Alarm geschlagen und die Spielerin wich den Speere
       <ID>2342</ID>
       <DefaultText>Die Comtessa von Manetti war dem Marceso von Veralta versprochen worden, doch ihr Herz gehörte dem Hauptmann der Wache. Als sie erfuhr, dass ihr Geliebter den Marceso zu einem Duell herausfordern wollte, verzauberte sie seinen Handschuh, um ihn zu beschützen. Als der junge Hauptmann ihn dem Marceso vor die Füße warf, zogen die zwei Männer ihre Schwerter und fochten auf dem gesamten Gelände des Palasts des Marceso.
 
-Wann immer sie in der Nähe des am Boden liegenden Handschuhs kämpften, hatte der Hauptmann die Oberhand. Aber jedesmal, wenn der junge Hauptmann den Marceso zurückgedrängt hatte, wendete sich das Blatt.
+Wann immer sie in der Nähe des am Boden liegenden Handschuhs kämpften, hatte der Hauptmann die Oberhand. Aber jedes Mal, wenn der junge Hauptmann den Marceso zurückgedrängt hatte, wendete sich das Blatt.
 
 Schließlich begriff der Hauptmann. Er gestattete dem Marceso, ihn noch einmal zurückzudrängen. Als sie den Handschuh passierten, legte er alle seine Kraft in einen letzten Angriff und gewann das Duell – und die Hand seiner Geliebten – mit seiner Klinge an der Kehle des Marcesos.</DefaultText>
       <FemaleText />
@@ -1116,7 +1116,7 @@ Schließlich begriff der Hauptmann. Er gestattete dem Marceso, ihn noch einmal z
       <ID>2383</ID>
       <DefaultText>„Vedren –
 
-ich danke dir, dass du mich zu unterstützen suchst, aber als ich um Freiwillige bat, meinte ich genau das. Ich habe kein Interesse daran, Leichen zum Leben zu erwecken, und deine bemitleidenswerten Opfer sind für mich nicht von Nutzen. Ich habe Vorkehrungen getroffen, um zu verhindern, dass wir uns plötzlich knietief in Ghuls wiederfinden. Während du den Müllhaufen aufräumst, zu dem du meinen rituellen Kreis gemacht hast, kannst du dir vielleicht die Zeit nehmen, dich wieder mit dem einfachen Grundgedanken vertraut zu machen, dass ein toter Mann eine schlechte Quelle von Seelenessenz abgibt.
+ich danke dir, dass du mich zu unterstützen suchst, aber als ich um Freiwillige bat, meinte ich genau das. Ich habe kein Interesse daran, Leichen zum Leben zu erwecken, und deine bemitleidenswerten Opfer sind für mich nicht von Nutzen. Ich habe Vorkehrungen getroffen, um zu verhindern, dass wir uns plötzlich knietief in Guls wiederfinden. Während du den Müllhaufen aufräumst, zu dem du meinen rituellen Kreis gemacht hast, kannst du dir vielleicht die Zeit nehmen, dich wieder mit dem einfachen Grundgedanken vertraut zu machen, dass ein toter Mann eine schlechte Quelle von Seelenessenz abgibt.
 
 – Badrwn“</DefaultText>
       <FemaleText />
@@ -1417,7 +1417,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2477</ID>
-      <DefaultText>Diese grauenhafte Halskette besteht aus den Zähnen eines toten Orlaners – dem unglückseligen Vater eines wahnsinnigen Mediums. Seine Tochter nutzte ihre Kräfte, um Reisende in der Nähe der glanfathanischen Ruinen von Ibrels Brunnen zu terrorisieren. Die „Töchter“ des Mediums (gedankenkontrollierte Pwgra) fertigten die Kette als Geschenk für sie an.</DefaultText>
+      <DefaultText>Diese grauenhafte Halskette besteht aus den Zähnen eines toten Orlaners – dem unglückseligen Vater eines wahnsinnigen Mediums. Seine Tochter nutzte ihre Kräfte, um Reisende in der Nähe der glanfathanischen Ruinen von Ibrels Brunnen zu terrorisieren. Die „Töchter“ des Mediums (gedankenkontrollierte Pŵgra) fertigten die Kette als Geschenk für sie an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1457,7 +1457,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2485</ID>
-      <DefaultText>Dieser an einer einfachen Lederkordel befestigte Finger gehörte einst einem berüchtigten glanfathanischen Mörder. Die Einheimischen haben seine Leiche ausgegraben, um heilige Relikte daraus zu fertigen. Du hast jedoch einer glanfathanischen Anamfatha geholfen, sie zurückzubeschaffen. Die Anamfatha bestand zwar darauf, dass die Leiche an einem neuen, geheimen Ort wieder bestattet wird, hat dich jedoch nie gebeten, den Finger zurückzugeben, der im ursprünglichen Grab des Mörders gefunden wurde.</DefaultText>
+      <DefaultText>Dieser an einer einfachen Lederkordel befestigte Finger gehörte einst einem berüchtigten glanfathanischen Mörder. Die Einheimischen haben seine Leiche ausgegraben, um heilige Relikte daraus zu fertigen. Du hast jedoch einer glanfathanischen Anamfatha geholfen, sie zurück zu beschaffen. Die Anamfatha bestand zwar darauf, dass die Leiche an einem neuen, geheimen Ort wieder bestattet wird, hat dich jedoch nie gebeten, den Finger zurückzugeben, der im ursprünglichen Grab des Mörders gefunden wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1487,7 +1487,7 @@ Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. D
     </Entry>
     <Entry>
       <ID>2491</ID>
-      <DefaultText>Dieses seltsame Amulett befand sich einst im Besitz eines Kults mit dem Namen „die Weiße Flamme“. Dieser Kult entführte in ganz Eora Personen, die seiner Ansicht nach ein „Mal“ trugen. Die Mitglieder der Weißen Flamme glaubten, diese Personen wären entscheidend, um den Gott Eothas wiederzubeleben. Nachdem du geholfen hast, im Cythwald eine Festung des Kults zu räumen, war seine Macht gebrochen&#160;… wenn auch nicht vollständig ausgelöscht. Dieses Amulett blieb auf einem der Altare zurück.</DefaultText>
+      <DefaultText>Dieses seltsame Amulett befand sich einst im Besitz eines Kults mit dem Namen „die Weiße Flamme“. Dieser Kult entführte in ganz Eora Personen, die seiner Ansicht nach ein „Mal“ trugen. Die Mitglieder der Weißen Flamme glaubten, diese Personen wären entscheidend, um den Gott Eothas wiederzubeleben. Nachdem du geholfen hast, im Cythwald eine Festung des Kults zu räumen, war seine Macht gebrochen&#160;… wenn auch nicht vollständig ausgelöscht. Dieses Amulett blieb auf einem der Altäre zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

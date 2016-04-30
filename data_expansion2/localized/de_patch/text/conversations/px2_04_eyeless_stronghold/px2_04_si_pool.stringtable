@@ -116,7 +116,7 @@ Als [Specified 0] endlich aus dem Wasser entkommt, ist das Bein nur durch Glück
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Auf das glänzende Licht zutauchen.]</DefaultText>
+      <DefaultText>[Auf das glänzende Licht zu tauchen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@ Als du dich endlich aus dem Becken ziehst, ist das Bein nur durch Glück noch mi
       <ID>33</ID>
       <DefaultText>Du findest rasch einen Schatz der Lagufaeth, darunter zahlreiche Münzen und ein Paar erstaunlich gut erhaltener Plattenbeinschienen.
 
-Leider hat ein Rudel von Lagufaeth bemerkt, das ihr Schatz gestört wurde, und kommt angeschwommen.
+Leider hat ein Rudel von Lagufaeth bemerkt, dass ihr Schatz gestört wurde, und kommt angeschwommen.
 
 Sich vor den Lagufaeth zu verstecken wird schwierig, aber ihnen davonzuschwimmen wäre nur mit phänomenaler Athletik möglich.</DefaultText>
       <FemaleText />

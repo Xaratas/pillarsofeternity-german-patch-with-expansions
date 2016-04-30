@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_03_abbey\px2_03_cv_kaoto</Name>
   <NextEntryID>1</NextEntryID>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Die&#160;… Konklave&#160;… hat etwas von einem Reliquiar gesagt.“</DefaultText>
+      <DefaultText>„Das&#160;… Konklave&#160;… hat etwas von einem Reliquiar gesagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Die Konklave hat dir deine Aufgabe doch sicher irgendwie erklärt.“
+      <DefaultText>„Das Konklave hat dir deine Aufgabe doch sicher irgendwie erklärt.“
 
 Er sieht dich verwundert an.</DefaultText>
       <FemaleText />
@@ -395,8 +395,8 @@ An dieser Stelle führst du eine seltsame Geste mit deinen Händen aus&#160;… 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Ah, gut. Die Konklave hat doch noch einen Gezeitenbringer gewählt. Ich fing schon an, mir Sorgen zu machen.“</DefaultText>
-      <FemaleText>„Ah, gut. Die Konklave hat doch noch eine Gezeitenbringerin gewählt. Ich fing schon an, mir Sorgen zu machen.“</FemaleText>
+      <DefaultText>„Ah, gut. Das Konklave hat doch noch einen Gezeitenbringer gewählt. Ich fing schon an, mir Sorgen zu machen.“</DefaultText>
+      <FemaleText>„Ah, gut. Das Konklave hat doch noch eine Gezeitenbringerin gewählt. Ich fing schon an, mir Sorgen zu machen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -435,12 +435,12 @@ An dieser Stelle führst du eine seltsame Geste mit deinen Händen aus&#160;… 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Die Konklave hat dich aus einem bestimmten Grund erwählt. Du bist ein treuer Anhänger Ondras, die Antworten werden dir ganz natürlich zufließen.“</DefaultText>
-      <FemaleText>„Die Konklave hat dich aus einem bestimmten Grund erwählt. Du bist eine treue Anhängerin Ondras, die Antworten werden dir ganz natürlich zufließen.“</FemaleText>
+      <DefaultText>„Das Konklave hat dich aus einem bestimmten Grund erwählt. Du bist ein treuer Anhänger Ondras, die Antworten werden dir ganz natürlich zufließen.“</DefaultText>
+      <FemaleText>„Das Konklave hat dich aus einem bestimmten Grund erwählt. Du bist eine treue Anhängerin Ondras, die Antworten werden dir ganz natürlich zufließen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„Ich erinnere mich noch an meinen eigenen Anstieg. Die Konklave hat mich auf dieselbe anstrengende Reise geschickt. Als die Zeit für die Rezitation gekommen war, konnte ich mich an kein Wort erinnern.“</DefaultText>
+      <DefaultText>„Ich erinnere mich noch an meinen eigenen Anstieg. Das Konklave hat mich auf dieselbe anstrengende Reise geschickt. Als die Zeit für die Rezitation gekommen war, konnte ich mich an kein Wort erinnern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -650,7 +650,7 @@ Die anderen Ondriten blicken einander mit gerunzelter Stirn an.</DefaultText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„Als junger Mann in Rauatai paddelte ich immer in einem kleinen Kajak hinaus in den Golf, um speerzufischen.“</DefaultText>
+      <DefaultText>„Als junger Mann in Rauatai paddelte ich immer in einem kleinen Kajak hinaus in den Golf, um mit dem Speer zu fischen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -825,7 +825,7 @@ Dann zeichnet er mit seiner langen Hand einen Bogen, von der Mitte bis zum Ende,
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>„Ich wurde von der Konklave erwählt, genau wie du. Aber das wusstest du bereits.“</DefaultText>
+      <DefaultText>„Ich wurde von dem Konklave erwählt, genau wie du. Aber das wusstest du bereits.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

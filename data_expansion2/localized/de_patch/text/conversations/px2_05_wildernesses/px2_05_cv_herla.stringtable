@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_05_wildernesses\px2_05_cv_herla</Name>
   <NextEntryID>1</NextEntryID>
@@ -168,7 +168,7 @@ Sie wendet sich dir zu und springt vor Überraschung auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Wir sind nur auf der Durchreise. Oder waren es. Wir sind auf dem Weg nach Stalwart, mit ein paar Gütern zum Handeln.“</DefaultText>
+      <DefaultText>„Wir sind nur auf der Durchreise – oder waren es. Wir sind auf dem Weg nach Stalwart, mit ein paar Gütern zum Handeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_05_wildernesses\px2_05_bs_llen_assassin_soul</Name>
   <NextEntryID>1</NextEntryID>
@@ -30,7 +30,7 @@ Dann, plötzlich&#160;… Licht –</DefaultText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Sonnenlicht scheint durch Lücken im Blätterdach und erhellt kleine Flecken des Sumpfs. Schlamm und knieftiefes Wasser erschweren jeden Schritt. Deine Beine sind jetzt schon müde, obwohl du gerade erst begonnen hast.</DefaultText>
+      <DefaultText>Sonnenlicht scheint durch Lücken im Blätterdach und erhellt kleine Flecken des Sumpfs. Schlamm und knietiefes Wasser erschweren jeden Schritt. Deine Beine sind jetzt schon müde, obwohl du gerade erst begonnen hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

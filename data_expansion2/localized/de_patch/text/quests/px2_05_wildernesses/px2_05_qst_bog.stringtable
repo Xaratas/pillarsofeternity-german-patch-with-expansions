@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px2_05_wildernesses\px2_05_qst_bog</Name>
   <NextEntryID>1</NextEntryID>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Untersuche die Assassinin.</DefaultText>
+      <DefaultText>Untersuche die Assassine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,8 +36,8 @@
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Die Assassinin ist tot. Aber das ist für einen Wächter keine Abschreckung. Vielleicht finde ich einen Hinweis darauf, warum mir diese Frau auf den Hals gehetzt wurde.</DefaultText>
-      <FemaleText>Die Assassinin ist tot. Aber das ist für eine Wächterin keine Abschreckung. Vielleicht finde ich einen Hinweis darauf, warum mir diese Frau auf den Hals gehetzt wurde.</FemaleText>
+      <DefaultText>Die Assassine ist tot. Aber das ist für einen Wächter keine Abschreckung. Vielleicht finde ich einen Hinweis darauf, warum mir diese Frau auf den Hals gehetzt wurde.</DefaultText>
+      <FemaleText>Die Assassine ist tot. Aber das ist für eine Wächterin keine Abschreckung. Vielleicht finde ich einen Hinweis darauf, warum mir diese Frau auf den Hals gehetzt wurde.</FemaleText>
     </Entry>
     <Entry>
       <ID>10002</ID>
@@ -71,8 +71,8 @@
     </Entry>
     <Entry>
       <ID>40001</ID>
-      <DefaultText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte&#160;… den Meister von Caed Nua.</DefaultText>
-      <FemaleText>In Stalwart wurde eine gewalttätige Assassinin von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte&#160;… die Meisterin von Caed Nua.</FemaleText>
+      <DefaultText>In Stalwart wurde eine gewalttätige Assassine von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte&#160;… den Meister von Caed Nua.</DefaultText>
+      <FemaleText>In Stalwart wurde eine gewalttätige Assassine von der Stadtwache unschädlich gemacht, bevor sie ihr Ziel töten konnte&#160;… die Meisterin von Caed Nua.</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

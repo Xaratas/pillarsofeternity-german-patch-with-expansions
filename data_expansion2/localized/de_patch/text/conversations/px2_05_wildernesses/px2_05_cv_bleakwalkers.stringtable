@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_05_wildernesses\px2_05_cv_bleakwalkers</Name>
   <NextEntryID>1</NextEntryID>
@@ -552,7 +552,7 @@ Der andere Paladin neben ihm lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Vor kurzem noch war ihre größte Sorge, die Angriff der Oger zu überleben.“</DefaultText>
+      <DefaultText>„Vor kurzem noch war ihre größte Sorge, die Angriffe der Oger zu überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -712,10 +712,10 @@ Der Paladin sieht dich stumm an.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Du willst etwas gehässiges sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
+      <DefaultText>„Du willst etwas Gehässiges sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
 
 Er wendet sich um. „Tötet ihn!“</DefaultText>
-      <FemaleText>„Du willst etwas gehässiges sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
+      <FemaleText>„Du willst etwas Gehässiges sehen? Ich lasse deinen Kopf vor deiner albernen Festung auf einem Pfahl aufspießen.“
 
 Er wendet sich um. „Tötet sie!“</FemaleText>
     </Entry>
