@@ -492,7 +492,7 @@ Nachdem das Schwarzstand-Fort von seinem neuen Grafen verstärkt worden war, ver
       <ID>103</ID>
       <DefaultText>Die Rose ist eine junge Waffe mit einer relativ kurzen Geschichte. Sie wurde aus geschwärztem ymyranischen Stahl geschmiedet und mit einer „Blüte“ aus stark dornigen Blütenblättern versehen. Die Ähnlichkeit dieses Morgensterns mit seiner Namensvetterin hört aber nicht beim Blütenkopf auf. Sein langer, geschwungener Schaft ist auf der gesamten Länge mit kleinen Dornen besetzt, die selbst einem gepanzerten Waffenführer Unbehagen bereiten.
 
-Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber rissen, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eir&#160;Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
+Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber gerissen hatten, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eir&#160;Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2622,7 +2622,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
       <ID>535</ID>
       <DefaultText>Dieser Brief ist größtenteils intakt, obwohl das Pergament selbst zerknittert wurde.
 
-„Gjestr&#160;– ich weiß, dass die Bäder im Tempel großartige Heileigenschaften haben, und dass dir dein Rücken noch immer Schmerzen bereitet. Solltest du dich aber weiterhin den größten Teils des Tages verwöhnen lassen, so möchte ich dich doch bitten, deinen Schlüssel zum Allerheiligsten jemand anderem zur Aufbewahrung zu geben. Wir waren jetzt nicht zum ersten Mal dazu gezwungen, auf die Durchführung der täglichen Riten zu warten, und Rectrix Obrica ist oft zu weit unten, um unser Klopfen zu hören.“</DefaultText>
+„Gjestr&#160;– ich weiß, dass die Bäder im Tempel großartige Heileigenschaften haben, und dass dir dein Rücken noch immer Schmerzen bereitet. Solltest du dich aber weiterhin den größten Teil des Tages verwöhnen lassen, so möchte ich dich doch bitten, deinen Schlüssel zum Allerheiligsten jemand anderem zur Aufbewahrung zu geben. Wir waren jetzt nicht zum ersten Mal dazu gezwungen, auf die Durchführung der täglichen Riten zu warten, und Rectrix Obrica ist oft zu weit unten, um unser Klopfen zu hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5649,7 +5649,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Nachdem er mehrfach von Dieben heimgesucht wurde, ließ der Kaufmann Bereden diese schwere Donnerbüchse fertigen, um seine Waren zu beschützen. Die Waffe feuerte auf jeden, der es wagte, sich des nachts an Beredens Wagen heranzuschleichen, einen tödlichen Hagel aus Eisen ab. Bereden war äußerst zufrieden mit der Waffe, genau wie die Räuber, die sie ihm schließlich stahlen.</DefaultText>
+      <DefaultText>Nachdem er mehrfach von Dieben heimgesucht wurde, ließ der Kaufmann Bereden diese schwere Donnerbüchse fertigen, um seine Waren zu beschützen. Die Waffe feuerte auf jeden, der es wagte, sich des Nachts an Beredens Wagen heranzuschleichen, einen tödlichen Hagel aus Eisen ab. Bereden war äußerst zufrieden mit der Waffe, genau wie die Räuber, die sie ihm schließlich stahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ Alle Zauberbücher haben ihre Grenzen, da sie aus einer begrenzten Anzahl an Sei
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wolfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
+      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
