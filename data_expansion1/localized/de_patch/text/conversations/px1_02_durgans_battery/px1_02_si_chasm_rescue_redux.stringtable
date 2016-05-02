@@ -480,7 +480,7 @@ Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[SkillCheck 0] kennt sich mit Knoten aus und tritt vor, um das Seil mit einem robusten Knoten um deine Hüften zu binden.</DefaultText>
+      <DefaultText>[SkillCheck 0] kennt sich mit Knoten aus und tritt vor, um das Seil mit einem robusten Knoten um [Specified 0]s Hüften zu binden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,7 +630,7 @@ Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die
       <ID>120</ID>
       <DefaultText>„Ich glaube, es hält nicht mehr lange!“
 
-Es ertönt ein Klirren, dann ein kurzer Schrei. [Specified 0] blickt hinab und sieht, dass der Mann ausgerutscht ist - er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
+Es ertönt ein Klirren, dann ein kurzer Schrei. [Specified 0] blickt hinab und sieht, dass der Mann ausgerutscht ist – er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
