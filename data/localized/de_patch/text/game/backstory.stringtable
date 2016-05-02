@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Du folgtest Thaos’ Spur zur Dunrydstraße, deren Medien du allesamt ermordet auffandest&#160;– darunter Lady Webb. Durch die Untersuchung ihrer Seele nach den letzten Moment ihres Lebens konntest du jedoch erfahren, dass sich Thaos als nächstes nach Zwillingsulmen begeben würde.</DefaultText>
+      <DefaultText>Du folgtest Thaos’ Spur zur Dunrydstraße, deren Medien du allesamt ermordet auffandest&#160;– darunter Lady Webb. Durch die Untersuchung ihrer Seele nach den letzten Moment ihres Lebens konntest du jedoch erfahren, dass sich Thaos als Nächstes nach Zwillingsulmen begeben würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1366,8 +1366,8 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Du bist schon immer ein Soldat gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als nächstes führen würde.</DefaultText>
-      <FemaleText>Du bist schon immer eine Soldatin gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als nächstes führen würde.</FemaleText>
+      <DefaultText>Du bist schon immer ein Soldat gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als Nächstes führen würde.</DefaultText>
+      <FemaleText>Du bist schon immer eine Soldatin gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als Nächstes führen würde.</FemaleText>
     </Entry>
     <Entry>
       <ID>274</ID>

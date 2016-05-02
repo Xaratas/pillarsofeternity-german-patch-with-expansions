@@ -1012,7 +1012,7 @@ Er kratzt an seiner Augenklappe und kichert leicht. „Durance gibt mir das Gef�
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>„Ein weiser Jäger tut das Notwendige, um die hier und jetzt Lebenden zu schützen. Die Seelen werden uns alle stärken, und vielleicht wird dies auch jenen helfen, die von den Bîaŵacs übel zugerichtet wurden. Egal was als nächstes kommt, deine Taten haben uns alle gebessert.“
+      <DefaultText>„Ein weiser Jäger tut das Notwendige, um die hier und jetzt Lebenden zu schützen. Die Seelen werden uns alle stärken, und vielleicht wird dies auch jenen helfen, die von den Bîaŵacs übel zugerichtet wurden. Egal was als Nächstes kommt, deine Taten haben uns alle gebessert.“
 
 Hiravias lächelt und gibt dir einen Klaps auf die Seite. „Fast möchte ich deswegen über all deine Verbrechen, dein Eindringen hinwegsehen.“</DefaultText>
       <FemaleText />
@@ -1063,8 +1063,8 @@ Hiravias verneigt sich mit einem breiten Grinsen. „Es war eine Ehre, dich auf 
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>„Aber ich habe kein Mitspracherecht“, sagt er und errötet. „Es ist deine Entscheidung, mein Wächter-Freund, du solltest deinen eigenen Instinkten vertrauen. Es war mir eine Ehre, Teil deiner Reise zu sein, ganz gleich, was als nächstes passiert.“</DefaultText>
-      <FemaleText>„Aber ich habe kein Mitspracherecht“, sagt er und errötet. „Es ist deine Entscheidung, meine Wächter-Freundin, du solltest deinen eigenen Instinkten vertrauen. Es war mir eine Ehre, Teil deiner Reise zu sein, ganz gleich, was als nächstes passiert.“</FemaleText>
+      <DefaultText>„Aber ich habe kein Mitspracherecht“, sagt er und errötet. „Es ist deine Entscheidung, mein Wächter-Freund, du solltest deinen eigenen Instinkten vertrauen. Es war mir eine Ehre, Teil deiner Reise zu sein, ganz gleich, was als Nächstes passiert.“</DefaultText>
+      <FemaleText>„Aber ich habe kein Mitspracherecht“, sagt er und errötet. „Es ist deine Entscheidung, meine Wächter-Freundin, du solltest deinen eigenen Instinkten vertrauen. Es war mir eine Ehre, Teil deiner Reise zu sein, ganz gleich, was als Nächstes passiert.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
