@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Auf der Spitze dieses schlanken Stahlzepters sitzt eine vergoldete Frauenhand, bei der jeder Finger mit einem Fingernagel aus Perlmutt endet. Dieses Zepter wurde von den Schmieden und Kunsthandwerkern von Delwin geschmiedet und gefertigt, einer kleinen Stadt in den Ausläufern des Magmear-Gebirges im südlichen Teil des Kaiserreichs Aedyr. Die Empfängern war Lady Ryga Adalwan, die 3. Margréfa von Maghanon, die erst kürzlich siegreich aus einem brutalen Feldzug von Barbaren und Agenten einer rivalisierenden Familie gegen ihre Mark hervorgegangen war. Sie verlor ihre linke Hand, als sie die Verteidigung der Mark anführte. Als Dank für ihr Opfer während der Beschützung des damals südlichsten Gebiets des Kaiserreichs ließ der Kaiser dieses Zepter fertigen.
+      <DefaultText>Auf der Spitze dieses schlanken Stahlzepters sitzt eine vergoldete Frauenhand, bei der jeder Finger mit einem Fingernagel aus Perlmutt endet. Dieses Zepter wurde von den Schmieden und Kunsthandwerkern von Delwin geschmiedet und gefertigt, einer kleinen Stadt in den Ausläufern des Magmear-Gebirges im südlichen Teil des Kaiserreichs Aedyr. Die Empfängerin war Lady Ryga Adalwan, die 3. Margréfa von Maghanon, die erst kürzlich siegreich aus einem brutalen Feldzug von Barbaren und Agenten einer rivalisierenden Familie gegen ihre Mark hervorgegangen war. Sie verlor ihre linke Hand, als sie die Verteidigung der Mark anführte. Als Dank für ihr Opfer während der Beschützung des damals südlichsten Gebiets des Kaiserreichs ließ der Kaiser dieses Zepter fertigen.
 
 Bedauerlicherweise konnte die Familie Adalwan die Maghanon-Territorien nur noch zwei weitere Generationen halten. Mit wenig Geld und ohne Land machte sich die Familie schließlich in die jungen Kolonien des Dyrwalds auf. Während des Krieges der Schwarzen Bäume wurde die Damenhand von Branon Adalwan, Thayn der Niederauen, in der Schlacht benutzt. Branon besiegte damit glanfathanische Krieger und beseelte Bäume, die aus dem tiefen Wald marschierten. Für seine Verdienste um die Kolonien wurde Branon zum Graf des neuen Territoriums Schwarzstand ernannt, doch das Pech war der Familie Adalwan auch ein zweites Mal hold. Nur ein Jahr, nachdem er ein Grenzfort errichtet hatte, wurde Branon von glanfathanischen Widerstandskämpfern in einen Hinterhalt gelockt. Nachdem sie ihr Hauptziel eliminiert hatten, verfolgten die Mörder dann seine kleine Familie und brachten sie alle um, weshalb das Haus Adalwan plötzlich ohne Erben war.
 
@@ -492,7 +492,7 @@ Nachdem das Schwarzstand-Fort von seinem neuen Grafen verstärkt worden war, ver
       <ID>103</ID>
       <DefaultText>Die Rose ist eine junge Waffe mit einer relativ kurzen Geschichte. Sie wurde aus geschwärztem ymyranischen Stahl geschmiedet und mit einer „Blüte“ aus stark dornigen Blütenblättern versehen. Die Ähnlichkeit dieses Morgensterns mit seiner Namensvetterin hört aber nicht beim Blütenkopf auf. Sein langer, geschwungener Schaft ist auf der gesamten Länge mit kleinen Dornen besetzt, die selbst einem gepanzerten Waffenführer Unbehagen bereiten.
 
-Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber rissen, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eir&#160;Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
+Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber gerissen hatten, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eir&#160;Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1553,7 +1553,7 @@ Irgendwo weit weg von hier.“</DefaultText>
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Aelys scheint es nicht gut zu gehen, aber sie ist am Leben. Sie atmet flach und ihre Augen jagen unter ihren Liedern hin und her. Ihre Bewusstlosigkeit scheint verbal und physisch nicht beeinflussbar zu sein.</DefaultText>
+      <DefaultText>Aelys scheint es nicht gut zu gehen, aber sie ist am Leben. Sie atmet flach und ihre Augen jagen unter ihren Lidern hin und her. Ihre Bewusstlosigkeit scheint verbal und physisch nicht beeinflussbar zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2622,7 +2622,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
       <ID>535</ID>
       <DefaultText>Dieser Brief ist größtenteils intakt, obwohl das Pergament selbst zerknittert wurde.
 
-„Gjestr&#160;– ich weiß, dass die Bäder im Tempel großartige Heileigenschaften haben, und dass dir dein Rücken noch immer Schmerzen bereitet. Solltest du dich aber weiterhin den größten Teils des Tages verwöhnen lassen, so möchte ich dich doch bitten, deinen Schlüssel zum Allerheiligsten jemand anderem zur Aufbewahrung zu geben. Wir waren jetzt nicht zum ersten Mal dazu gezwungen, auf die Durchführung der täglichen Riten zu warten, und Rectrix Obrica ist oft zu weit unten, um unser Klopfen zu hören.“</DefaultText>
+„Gjestr&#160;– ich weiß, dass die Bäder im Tempel großartige Heileigenschaften haben, und dass dir dein Rücken noch immer Schmerzen bereitet. Solltest du dich aber weiterhin den größten Teil des Tages verwöhnen lassen, so möchte ich dich doch bitten, deinen Schlüssel zum Allerheiligsten jemand anderem zur Aufbewahrung zu geben. Wir waren jetzt nicht zum ersten Mal dazu gezwungen, auf die Durchführung der täglichen Riten zu warten, und Rectrix Obrica ist oft zu weit unten, um unser Klopfen zu hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5649,7 +5649,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Nachdem er mehrfach von Dieben heimgesucht wurde, ließ der Kaufmann Bereden diese schwere Donnerbüchse fertigen, um seine Waren zu beschützen. Die Waffe feuerte auf jeden, der es wagte, sich des nachts an Beredens Wagen heranzuschleichen, einen tödlichen Hagel aus Eisen ab. Bereden war äußerst zufrieden mit der Waffe, genau wie die Räuber, die sie ihm schließlich stahlen.</DefaultText>
+      <DefaultText>Nachdem er mehrfach von Dieben heimgesucht wurde, ließ der Kaufmann Bereden diese schwere Donnerbüchse fertigen, um seine Waren zu beschützen. Die Waffe feuerte auf jeden, der es wagte, sich des Nachts an Beredens Wagen heranzuschleichen, einen tödlichen Hagel aus Eisen ab. Bereden war äußerst zufrieden mit der Waffe, genau wie die Räuber, die sie ihm schließlich stahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ Alle Zauberbücher haben ihre Grenzen, da sie aus einer begrenzten Anzahl an Sei
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wolfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
+      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7090,7 +7090,7 @@ Die Handschuhe gehörten einst einem Waffenschmied aus dem Todesfeuer-Archipel. 
     </Entry>
     <Entry>
       <ID>1403</ID>
-      <DefaultText>Es war einmal eine Assassinin aus Selona, die ihre Arbeit so erfolgreich verrichtete, dass sie sich nicht mehr um Geld scherte. Durch unzählige profitable Aufträge hatte sie mit den Jahren mehr Geld verdient, als sie brauchte. Als sie aber den Höhepunkt ihrer Fähigkeiten erreichte und schließlich überschritt, begann sie sich zu sorgen.
+      <DefaultText>Es war einmal eine Assassine aus Selona, die ihre Arbeit so erfolgreich verrichtete, dass sie sich nicht mehr um Geld scherte. Durch unzählige profitable Aufträge hatte sie mit den Jahren mehr Geld verdient, als sie brauchte. Als sie aber den Höhepunkt ihrer Fähigkeiten erreichte und schließlich überschritt, begann sie sich zu sorgen.
 
 Sie übte und lernte, doch mit jedem Jahr wurden ihre Bewegungen etwas langsamer, ihre Hände etwas schwächer. Und während sie sich panisch mühte, ihre Fähigkeiten beizubehalten, hatten ihre Rivalen und Schüler schon längst begonnen, sie zu ersetzen.
 
@@ -7165,7 +7165,7 @@ Mit der Zeit ging die Krankheit auch auf ihn über, schmolz ihm das Fleisch vom 
       <ID>1416</ID>
       <DefaultText>Dieses Amulett wurde im Jahr 2664 AI von kaiserlichen Agenten aus den Ruinen von Eir&#160;Glanfath geborgen. In dem Versuch, den neuen und instabilen Frieden zwischen Gréf Admeth Hadret und den Glanfathanern zu zerschlagen, fanden sie sich plötzlich im Besitz zahlreicher mächtiger und mysteriöser Artefakte wieder.
 
-Aedyrische Zauberer und Beseeler zeigten besonders großes Interesse an diesem Stück&#160;– zumal, nachdem ein kaiserlicher Wächter behauptete, er würde darin die Seele der Wälder des Dyrwalds sehen. Als einer der Zauberer, die das Amulett studierten, allerdings in den Wahnsinn getrieben wurde, kamen die Forschungen zum Erliegen. Das Artefakt wechselte den Besitzer und es wird angenommen, dass es von einem glanfathanischen Schurken zurückgestohlen wurde.
+Aedyrische Zauberer und Beseeler zeigten besonders großes Interesse an diesem Stück&#160;– zumal, nachdem ein kaiserlicher Wächter behauptet hatte, er würde darin die Seele der Wälder des Dyrwalds sehen. Als einer der Zauberer, die das Amulett studierten, allerdings in den Wahnsinn getrieben wurde, kamen die Forschungen zum Erliegen. Das Artefakt wechselte den Besitzer und es wird angenommen, dass es von einem glanfathanischen Schurken zurückgestohlen wurde.
 
 Das tränenförmige Amulett hängt an einer silbernen Kette. Auf der Vorderseite zeigt es das Bild eines Kardinals im Flug, auf der Rückseite ist es mit Runen versehen. Wenn man es trägt, gibt es eine seltsame Vibration ab, die eher gespürt als gehört wird, als würde irgendetwas in dem Amulett die Seele des Trägers zum Schwingen bringen.</DefaultText>
       <FemaleText />
@@ -7611,7 +7611,7 @@ Sie verbrachte das letzte Jahrhundert ihres Lebens damit, einen Weg zu suchen, i
     </Entry>
     <Entry>
       <ID>1494</ID>
-      <DefaultText>Casŵen war eine der Brîshalgwin von Eir&#160;Glanfath, die um das Jahr 2785 AI von Beseelern aus dem Dyrwald ausgebildet wurden. Als fünfzehn Jahre später die Dunrydstraße gegründet wurde, schloß sie sich der neuen Einrichtung als eines der ersten Medien überhaupt an. Obwohl sie für eine Orlanerin relativ alt war, war sie eine der engagiertesten und fähigsten Agentinnen der Dunrydstraße. Sie wurde „Dunryd-Dämon“ genannt, wegen ihrer gnadenlos methodischen Vorgehensweise. Sie war in ganz Trutzbucht berüchtigt dafür, mit ihrem Helm durch die Straßen zu streifen, auf der Suche nach Hinweisen und Verbindungen. Als der Krieg des Heiligen endete, war sie über vierzig und wurde in die Götterhammerzitadelle geschickt, um nach Spuren von St. Waidwen zu suchen. Sie kam niemals dort an. Jahre später wurde ihr Helm auf der Straße von Echoschlucht gefunden.</DefaultText>
+      <DefaultText>Casŵen war eine der Brîshalgwin von Eir&#160;Glanfath, die um das Jahr 2785 AI von Beseelern aus dem Dyrwald ausgebildet wurden. Als fünfzehn Jahre später die Dunrydstraße gegründet wurde, schloss sie sich der neuen Einrichtung als eines der ersten Medien überhaupt an. Obwohl sie für eine Orlanerin relativ alt war, war sie eine der engagiertesten und fähigsten Agentinnen der Dunrydstraße. Sie wurde „Dunryd-Dämon“ genannt, wegen ihrer gnadenlos methodischen Vorgehensweise. Sie war in ganz Trutzbucht berüchtigt dafür, mit ihrem Helm durch die Straßen zu streifen, auf der Suche nach Hinweisen und Verbindungen. Als der Krieg des Heiligen endete, war sie über vierzig und wurde in die Götterhammerzitadelle geschickt, um nach Spuren von St. Waidwen zu suchen. Sie kam niemals dort an. Jahre später wurde ihr Helm auf der Straße von Echoschlucht gefunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7658,7 +7658,7 @@ Dieser abgewetzte und ramponierte Lederhelm passt über den Kopf und bedeckt den
     </Entry>
     <Entry>
       <ID>1501</ID>
-      <DefaultText>Dieser große Helm wurde aus dem Kopf eines Hirschen gefertigt. Wer den Helm trägt, dem werden die Eigenschaften der Kreatur verliehen, deren Gesicht er trägt&#160;– denn er wird feststellen, dass er flinker, wendiger und ausdauernder ist.</DefaultText>
+      <DefaultText>Dieser große Helm wurde aus dem Kopf eines Hirsches gefertigt. Wer den Helm trägt, dem werden die Eigenschaften der Kreatur verliehen, deren Gesicht er trägt&#160;– denn er wird feststellen, dass er flinker, wendiger und ausdauernder ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8533,11 +8533,11 @@ Als die Bevölkerung in der Gegend immer größer wird, etabliert der Fercönyng
       <ID>1569</ID>
       <DefaultText>Wie ich bereits sagte, weiß die Welt im Allgemeinen nur wenig über diese Gruppe, da diese keine Außenseiter aufnimmt. Viele halten sie für fremdenfeindlich und offen feindselig gegenüber allen, die nach Eir&#160;Glanfath kommen. Doch die Wahrheit ist nicht so allumfassend und tödlich&#160;– und gewiss nicht so einfach.
 
-Es gibt viele Orte in Eir&#160;Glanfath, die für die Glanfathaner „magisch“ oder „heilig“ sind. Einer Legende nach verließen die Engwithaner urplötzlich ihr Königreich und brachen zu einem unbekannten Ort auf&#160;– nicht aber, ohne vorher die uralten glanfathanischen Stämme in das nun unbewohnte Land zu führen. Die Glanfathaner erhielten das fruchtbare Land als neue Heimat, doch im Gegenzug mussten sie einen Eid leisten. Die Glanfathaner erhielten den Auftrag, die engwithanischen Ruinen zu beschützen, bis die Engwithaner zurückkehren konnten. Sie mussten schwören, dass keine lebende Person, auch die Glanfathaner selbst nicht, Zugang zu den Ruinen erhalten würde. Anderen Berichten zufolge wurde den Glanfathanern mehr versprochen als nur eine Heimat&#160;– die Engwithaner sollen demnach die Gunst der Götter genossen haben und den Glanfathanern würde diese Ehre schließlich auch zuteil werden, wenn sie ihren Eid ehrten.
+Es gibt viele Orte in Eir&#160;Glanfath, die für die Glanfathaner „magisch“ oder „heilig“ sind. Einer Legende nach verließen die Engwithaner urplötzlich ihr Königreich und brachen zu einem unbekannten Ort auf&#160;– nicht aber, ohne vorher die uralten glanfathanischen Stämme in das nun unbewohnte Land zu führen. Die Glanfathaner erhielten das fruchtbare Land als neue Heimat, doch im Gegenzug mussten sie einen Eid leisten. Die Glanfathaner erhielten den Auftrag, die engwithanischen Ruinen zu beschützen, bis die Engwithaner zurückkehren konnten. Sie mussten schwören, dass keine lebende Person, auch die Glanfathaner selbst nicht, Zugang zu den Ruinen erhalten würde. Anderen Berichten zufolge wurde den Glanfathanern mehr versprochen als nur eine Heimat&#160;– die Engwithaner sollen demnach die Gunst der Götter genossen haben und den Glanfathanern würde diese Ehre schließlich auch zuteilwerden, wenn sie ihren Eid ehrten.
 
 Seltsamerweise scheinen die Regeln innerhalb der Grenzen von Zwillingsulmen nicht so streng zu gelten, einer Siedlung, die auf einer großen Konzentration engwithanischer Gebäude errichtet wurde. Dies scheint aber wohl kein selektives Versehen der Glanfathaner zu sein, sondern Teil der ursprünglichen Abmachung.
 
-Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandtschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
+Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuerhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandtschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
 
 Die Tatsache, dass ihr Fanatismus und Eifer nicht so allumfassend sind, wie manche glauben, macht sie nicht weniger gefährlich. Die Reißzähne sind nicht dafür bekannt zu verhandeln, wenn sie sich im Recht fühlen. Wenn sie der Meinung sind, man habe eine heilige Stätte entweiht, so erfolgen ihr Urteil und ihre Strafe schnell und hart. Berichte über die Angriffe der Reißzähne sind bereits in Unterlagen aus der Zeit der ersten Erkundungen Eir&#160;Glanfath&#x2060;s zu finden. Selbst der kleinste Verstoß rechtfertigt in ihren Augen eine Hinrichtung.
 
@@ -8546,7 +8546,7 @@ Der Orden selbst scheint vor allem aus Jägern zu bestehen. Ob sie als fähige J
     </Entry>
     <Entry>
       <ID>1570</ID>
-      <DefaultText>Eines Tages saß Eothas auf einer Mauer und beobachtete eine Katze, die in der Sonne spielte. Ein Kristall, der in einem nahegelegenen Baum hing, hatte einen Sonnenstrahl gebrochen und kleine Lichtflecken auf den Boden geworfen. Sie tanzten um die Katze herum und glitten über sie, während sie verzweifelt nach ihnen schlug. Sie wirbelte herum, um einen der Lichtflecken zu schnappen. Sie sprang auf ihn, um ihn festzuhalten. Eothas lächelte, amüsiert von der Hartnäckigkeit des Tieres. Die Katze landete auf einem Flecken und bedeckte ihn mit den Pfoten&#160;– nur um zu sehen, wie er wieder davontanzte. Eothas beobachte, wie der Schwanz der Katze zuckte und auf den Boden schlug, verärgert, dass sie ihre Beute nicht fangen konnte.
+      <DefaultText>Eines Tages saß Eothas auf einer Mauer und beobachtete eine Katze, die in der Sonne spielte. Ein Kristall, der in einem nahegelegenen Baum hing, hatte einen Sonnenstrahl gebrochen und kleine Lichtflecken auf den Boden geworfen. Sie tanzten um die Katze herum und glitten über sie, während sie verzweifelt nach ihnen schlug. Sie wirbelte herum, um einen der Lichtflecke zu schnappen. Sie sprang auf ihn, um ihn festzuhalten. Eothas lächelte, amüsiert von der Hartnäckigkeit des Tieres. Die Katze landete auf einem Flecken und bedeckte ihn mit den Pfoten&#160;– nur um zu sehen, wie er wieder davontanzte. Eothas beobachte, wie der Schwanz der Katze zuckte und auf den Boden schlug, verärgert, dass sie ihre Beute nicht fangen konnte.
 
 „Warum musst du sie necken?“, sprach eine Stimme hinter ihm, begleitet von dem Knirschen von Sandalen auf Kies.
 
@@ -8558,7 +8558,7 @@ Der Orden selbst scheint vor allem aus Jägern zu bestehen. Ob sie als fähige J
 
 „Ich habe die ultimative Beute erschaffen“, brach Eothas schließlich das Schweigen. „Man kann ihre Fährten lesen. Man kann sie verfolgen. Man kann sie sehen. Aber man kann sie niemals fangen.“ Galawain lachte leicht. „Stimmst du mir nicht zu, Galawain?“, fragte Eothas.
 
-„Es mag stimmen, dass deine Schöpfung schwer zu fassen ist. Doch man kann sie kaum als die ultimative Beute betrachte, weil sie nie gefangen werden kann.“ Er hielt inne, die Stirn gedankenverloren in Falten gelegt. „Hätte dieser Lichtflecken Masse, könnte der Jäger ihn erlegen. Andernfalls ist er nichts als ein Traum&#160;– ein vergebliches Unterfangen.“
+„Es mag stimmen, dass deine Schöpfung schwer zu fassen ist. Doch man kann sie kaum als die ultimative Beute betrachte, weil sie nie gefangen werden kann.“ Er hielt inne, die Stirn gedankenverloren in Falten gelegt. „Hätte dieser Lichtfleck Masse, könnte der Jäger ihn erlegen. Andernfalls ist er nichts als ein Traum&#160;– ein vergebliches Unterfangen.“
 
 „Alle Geschöpfe verbringen ihr Leben damit, vergeblichen Unterfangen hinterherzujagen“, sagte Hylea. „Das ist die Natur des Sterblichen“, lachte Galawain wieder.
 
@@ -10905,7 +10905,7 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
     </Entry>
     <Entry>
       <ID>1911</ID>
-      <DefaultText>Diese Kugel wurde aus einem massiven Stück Adra gefertigt. Sie ist mit aufwändigen Gravierungen verziert, die sie wie ein Auge aussehen lassen.</DefaultText>
+      <DefaultText>Diese Kugel wurde aus einem massiven Stück Adra gefertigt. Sie ist mit aufwendigen Gravierungen verziert, die sie wie ein Auge aussehen lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11488,7 +11488,7 @@ Wer den Umhang seitdem sein eigen genannt hat, fand die Verzauberungen durchweg 
     </Entry>
     <Entry>
       <ID>2016</ID>
-      <DefaultText>Der Erfinder Galvino schuf den Körper der Teufelin von Caroc aus geschmiedeter Bronze, eingelegt mit silbernen Paneelen und verziert mit aufwändigen Gravuren im vailianischen Stil. Zusammengehalten wird der Körper mit unzähligen kleinen Blechbolzen und -scharnieren. Er ist ein wahres Meisterwerk der Handwerkskunst und dient als mobiles Behältnis für ihre Seele.
+      <DefaultText>Der Erfinder Galvino schuf den Körper der Teufelin von Caroc aus geschmiedeter Bronze, eingelegt mit silbernen Paneelen und verziert mit aufwendigen Gravuren im vailianischen Stil. Zusammengehalten wird der Körper mit unzähligen kleinen Blechbolzen und -scharnieren. Er ist ein wahres Meisterwerk der Handwerkskunst und dient als mobiles Behältnis für ihre Seele.
 
 Ob aus ästhetischen oder aus funktionellen Gründen, das Gesicht stattete Galvino mit Onyxaugen aus. Diese Augen sind so glatt poliert, dass sie die Umgebung der Teufelin unbeteiligt widerspiegeln. Gelegentlich aber blitzt ein kleiner Makel im Stein auf&#160;… oder ein tief sitzender Funken der Boshaftigkeit.</DefaultText>
       <FemaleText />
@@ -11555,7 +11555,7 @@ Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von e
     </Entry>
     <Entry>
       <ID>2027</ID>
-      <DefaultText>Aegis-Ablenker</DefaultText>
+      <DefaultText>Ägis-Ablenker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11565,7 +11565,7 @@ Scheut für die Durchführung dieser Aufgabe keine Kosten. Die Einmischung von e
     </Entry>
     <Entry>
       <ID>2029</ID>
-      <DefaultText>Trotz der grünen Rostschicht, die diesen Schlüssel bedeckt, erkennst du aufwändige Runen auf seiner Oberfläche.</DefaultText>
+      <DefaultText>Trotz der grünen Rostschicht, die diesen Schlüssel bedeckt, erkennst du aufwendige Runen auf seiner Oberfläche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11601,7 +11601,7 @@ Brüchiger Stahl ist schlimmer als ein untreuer Freund. Härte deine Arbeit, auf
 
 Narren loben das Aussehen, der Meister aber lobt die Stärke.
 
-Wahre Tugend liegt in gut ausgeführter Arbeit. Hochwertiger Stahl muss mindestens sieben Mal gefaltet werden.
+Wahre Tugend liegt in gut ausgeführter Arbeit. Hochwertiger Stahl muss mindestens siebenmal gefaltet werden.
 
 Auch der beste Schmied kann kein schlechtes Material formen. Lege deine Hände nur auf Stahl, der gut mit Kohle behandelt wurde.
 
@@ -13112,7 +13112,7 @@ Der Rest des Manuskripts ist dem Zahn der Zeit zum Opfer gefallen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2274</ID>
-      <DefaultText>Das Metall dieses aufwändig verzierten Schlüssels ist voller Risse.</DefaultText>
+      <DefaultText>Das Metall dieses aufwendig verzierten Schlüssels ist voller Risse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13263,7 +13263,7 @@ St. Wygelts Knüppel ist eine einfache Stachelkeule mit lederumwickeltem Griff. 
       <ID>2304</ID>
       <DefaultText>Silberblitz ist die Erfindung des dyrwälderischen Silberschürfers Engar Resc, der in einer ansonsten leeren Höhle eine große Silberader entdeckte. Er hatte gerade begonnen, das Erz abzutragen, als der Bewohner der Höhle ihn dort vorfand und zum Angriff ansetzte&#160;… der größte Bär, den Engar je gesehen hatte, wenn man seiner Darstellung Glauben schenken mag.
 
-Engar war vorbereitet und feuerte seine Donnerbüchse auf das wilde Tier ab, als es auf ihn zustürmte. Die Waffe traf aber selten ihr Ziel und Engar wurde schrecklich entstellt. Er konnte nur deswegen mit dem Leben entkommen, weil er sich totstellte.
+Engar war vorbereitet und feuerte seine Donnerbüchse auf das wilde Tier ab, als es auf ihn zustürmte. Die Waffe traf aber selten ihr Ziel und Engar wurde schrecklich entstellt. Er konnte nur deswegen mit dem Leben entkommen, weil er sich tot stellte.
 
 Engar schwor, so etwas würde ihm nie wieder passieren. Aus seinem eigenen Silber schuf er eine neue Donnerbüchse, die niemals ihr Ziel verfehlen würde – und darüber hinaus den Ansturm eines jeden Bären aufhalten. Der Lauf ist wunderschön mit glänzendem Silber überzogen. Wenn die Waffe abgefeuert wird, gibt sie einen gleißend hellen Blitz ab, der so hell ist, dass jedes Tor sofort reglos stehenbleibt.</DefaultText>
       <FemaleText />
@@ -13272,7 +13272,7 @@ Engar schwor, so etwas würde ihm nie wieder passieren. Aus seinem eigenen Silbe
       <ID>2306</ID>
       <DefaultText>Auf Geheiß von Escimo IV, Duc von Ancenze, wurden ein Dutzend einzigartige Mordäxte für seine königliche Leibgarde gefertigt. Jede von ihnen sollte einem der zentralen Elemente des maritimen Lebens Tribut zollen. Zusätzliche Mordäxte wurden gefertigt, um den Regen, die Sterne, die Sonne, die Wellen und andere Symbole zu ehren.
 
-Der Arm des Windes war das Lieblingsstück von Escimo IV, der sich in seinen Jahren in der Marine von Ancenze den Beinamen „Casità mel Alisias“ verdient hatte&#160;… Kapitän des Windes. Ganz egal, wohin Escimo auch segeln wollte, so hieß es&#160;… die Winde wehten immer in die richtige Richtung. Er gab den Arm des Windes seinem fähigsten Leibwächter, der die Waffe mehr als einmal einsetzte, um übereifrige Vailianer daran zu hindern, dem Thron zu nahe zu kommen.
+Der Arm des Windes war das Lieblingsstück von Escimo IV, der sich in seinen Jahren in der Marine von Ancenze den Beinamen „Casità mel Alisias“ verdient hatte&#160;… Kapitän des Windes. Ganz egal, wohin Escimo auch segeln wollte, so hieß es&#160;… die Winde wehten immer in die richtige Richtung. Er gab den Arm des Windes seinem fähigsten Leibwächter, der die Waffe mehr als einmal einsetzte, um übereifrige Vailianer daran zu hindern, dem Thron zu nahezukommen.
 
 Die Mordaxt ist nach dem Vorbild des Windes selbst gefertigt. In den Axtkopf ist ein Gesicht eingraviert, das den Wind nach außen pustet, an den Kurven der Klinge entlang. Die Maserung des Holzes ist nicht vertikal, sondern windet sich um den aschgrauen Stab.</DefaultText>
       <FemaleText />
@@ -13349,7 +13349,7 @@ Darden Guthroc scheiterte bei seinem ersten Auftrag als Mitglied des Giftschuppe
     </Entry>
     <Entry>
       <ID>2323</ID>
-      <DefaultText>„Einfach“ ist wohl das treffendste Wort, um diesen Dolch zu beschreiben. Der Griff ist mit Leder umwickelt und schmucklos. Die Klinge besteht aus Bronze. Der Dolch hat keine Verzierungen, keine Gravuren, keine Edelsteine, keine aufwändigen Schmiedearbeiten. Er scheint solide gefertigt zu sein, ist aber so unscheinbar, dass es schwierig zu sagen ist.
+      <DefaultText>„Einfach“ ist wohl das treffendste Wort, um diesen Dolch zu beschreiben. Der Griff ist mit Leder umwickelt und schmucklos. Die Klinge besteht aus Bronze. Der Dolch hat keine Verzierungen, keine Gravuren, keine Edelsteine, keine aufwendigen Schmiedearbeiten. Er scheint solide gefertigt zu sein, ist aber so unscheinbar, dass es schwierig zu sagen ist.
 
 Hält man ihn in der Hand, so hat man das Gefühl, als müsse da noch mehr sein&#160;… wenn auch nur, weil es schwer vorstellbar ist, dass ein Handwerker so wenig Berufsehre besitzt, eine solche Waffe zu verkaufen.</DefaultText>
       <FemaleText />
@@ -13462,7 +13462,7 @@ Der Marceso der Festung diskutierte mit seinen Herren, aber die Düsteren Schrei
       <ID>2342</ID>
       <DefaultText>Die Comtessa von Manetti war dem Marceso von Veralta versprochen worden, doch ihr Herz gehörte dem Hauptmann der Wache. Als sie erfuhr, dass ihr Geliebter den Marceso zu einem Duell herausfordern wollte, verzauberte sie seinen Handschuh, um ihn zu beschützen. Als der junge Hauptmann ihn dem Marceso vor die Füße warf, zogen die zwei Männer ihre Schwerter und fochten auf dem gesamten Gelände des Palasts des Marceso.
 
-Wann immer sie in der Nähe des am Boden liegenden Handschuhs kämpften, hatte der Hauptmann die Oberhand. Aber jedesmal, wenn der junge Hauptmann den Marceso zurückgedrängt hatte, wendete sich das Blatt.
+Wann immer sie in der Nähe des am Boden liegenden Handschuhs kämpften, hatte der Hauptmann die Oberhand. Aber jedes Mal, wenn der junge Hauptmann den Marceso zurückgedrängt hatte, wendete sich das Blatt.
 
 Schließlich begriff der Hauptmann. Er gestattete dem Marceso, ihn noch einmal zurückzudrängen. Als sie den Handschuh passierten, legte er alle seine Kraft in einen letzten Angriff und gewann das Duell – und die Hand seiner Geliebten – mit seiner Klinge an der Kehle des Marcesos.</DefaultText>
       <FemaleText />
@@ -13488,7 +13488,7 @@ Als sie am nächsten Tag erwachte, fand sie ihn am Feuer vor, wo er saß und ein
       <ID>2344</ID>
       <DefaultText>Dieser dunkelgrüne emaillierte Stahlbrustpanzer war das Eigentum von Ryona, einer Abenteurerin aus den Vailianischen Republiken. Sie fand ihre Berufung darin, mit Expeditionstrupps den Dyrwald zu erforschen. Unter dem Brustpanzer befindet sich ein kupferner Kettenpanzer als zusätzlicher Schutz.
 
-Ryona beendete ihre Laufbahn verfrüht, nachdem sie ihren Expeditionstrupp in der Weißmark an einen Drachen verriet, um ihr eigenes Leben zu retten.</DefaultText>
+Ryona beendete ihre Laufbahn verfrüht, nachdem sie ihren Expeditionstrupp in der Weißmark an einen Drachen verraten hatte, um ihr eigenes Leben zu retten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13502,7 +13502,7 @@ In Trutzbucht fand sie den Witwer einer Expeditionsteilnehmerin. Seine Frau hatt
       <ID>2346</ID>
       <DefaultText>In Mittelwald half sie der Familie eines adligen Expeditionsteilnehmers, der das Haus des Verlobten seiner Tochter mit seiner Mitgift nicht hatte zufriedenstellen können. Die zornigen Eltern des Verlobten schworen, die Familie für diese Beleidigung auszulöschen und heuerten zu diesem Zweck eine Bande von Düsteren Schreitern an.
 
-Ryona versammelte eine Armee aus den Lehnsmännern des Expeditionsteilnehmern. Sie motivierte sie mit einer eindrucksvollen Rede darüber, was für ein Mann er gewesen war, und gemeinsam töteten sie die Düsteren Schreiter bis auf den letzten Mann.</DefaultText>
+Ryona versammelte eine Armee aus den Lehnsmännern des Expeditionsteilnehmers. Sie motivierte sie mit einer eindrucksvollen Rede darüber, was für ein Mann er gewesen war, und gemeinsam töteten sie die Düsteren Schreiter bis auf den letzten Mann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13514,7 +13514,7 @@ Sie rüstete sich und machte sich zu einer letzten Reise in die Weißmark auf&#1
     </Entry>
     <Entry>
       <ID>2348</ID>
-      <DefaultText>Cuetzpac war ein berühmter Räuber aus den Ixamitl-Ebenen. Athrek war sein treuer Hengst. Cuetzpac war für seine Geschwindigkeit und sein Können zu Pferde berühmt. Er konnte einen Feind in der Zeit entwaffnen, die die meisten Bogenschützen benötigten, um einen Pfeil einzuspannen. Er verabscheute schwere und aufwändige Rüstung. Ein wahrer Krieger, so pflegte er zu sagen, kann in allem kämpfen. Um das zu beweisen, fertigte er seinen Gürtel aus Athreks Zügeln.</DefaultText>
+      <DefaultText>Cuetzpac war ein berühmter Räuber aus den Ixamitl-Ebenen. Athrek war sein treuer Hengst. Cuetzpac war für seine Geschwindigkeit und sein Können zu Pferde berühmt. Er konnte einen Feind in der Zeit entwaffnen, die die meisten Bogenschützen benötigten, um einen Pfeil einzuspannen. Er verabscheute schwere und aufwendige Rüstung. Ein wahrer Krieger, so pflegte er zu sagen, kann in allem kämpfen. Um das zu beweisen, fertigte er seinen Gürtel aus Athreks Zügeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
