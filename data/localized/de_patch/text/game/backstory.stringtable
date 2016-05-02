@@ -756,8 +756,8 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Du stammst aus [Player Culture], wo du zeitweise im Baugewerbe beschäftigt warst.</DefaultText>
-      <FemaleText />
+      <DefaultText>Du stammst aus [Player Culture], wo du zeitweise als Baumeister beschäftigt warst.</DefaultText>
+      <FemaleText>Du stammst aus [Player Culture], wo du zeitweise als Baumeisterin beschäftigt warst.</FemaleText>
     </Entry>
     <Entry>
       <ID>152</ID>
