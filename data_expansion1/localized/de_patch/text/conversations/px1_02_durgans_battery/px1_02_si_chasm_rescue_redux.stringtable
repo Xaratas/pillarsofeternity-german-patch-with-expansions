@@ -662,17 +662,17 @@ In der Nähe befindet sich eine kleine Nische in der Höhlenwand. Sie könnte et
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>[Slot 0] sucht Schutz in der Nische. Mehrere lange Augenblicke vergehen, bevor der Wind sich wieder legt.</DefaultText>
+      <DefaultText>[Specified 0] sucht Schutz in der Nische. Mehrere lange Augenblicke vergehen, bevor der Wind sich wieder legt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>In der Stille, die folgt, klettert [Slot 0] weiter.</DefaultText>
+      <DefaultText>In der Stille, die folgt, klettert [Specified 0] weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>[Slot 0] hört ein dumpfes Geräusch von unten und blickt hinab. Der Mann ist ausgerutscht. Er versucht verzweifelt, wieder Halt am Eis zu finden, aber der gesamte Vorsprung bricht plötzlich ab.</DefaultText>
+      <DefaultText>[Specified 0] hört ein dumpfes Geräusch von unten und blickt hinab. Der Mann ist ausgerutscht. Er versucht verzweifelt, wieder Halt am Eis zu finden, aber der gesamte Vorsprung bricht plötzlich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
