@@ -480,7 +480,7 @@ Du hältst das Seil fest umklammert und merkst, wie du plötzlich mühelos nach 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[SkillCheck 0] kennt sich mit Knoten aus und tritt vor, um das Seil mit einem robusten Knoten um deine Hüften zu binden.</DefaultText>
+      <DefaultText>[SkillCheck 0] kennt sich mit Knoten aus und tritt vor, um das Seil mit einem robusten Knoten um [Specified 0]s Hüften zu binden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,7 +630,7 @@ Das dünne Eis ist durchzogen von Luftblasen. Wenn man sich zu schnell über die
       <ID>120</ID>
       <DefaultText>„Ich glaube, es hält nicht mehr lange!“
 
-Es ertönt ein Klirren, dann ein kurzer Schrei. [Specified 0] blickt hinab und sieht, dass der Mann ausgerutscht ist - er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
+Es ertönt ein Klirren, dann ein kurzer Schrei. [Specified 0] blickt hinab und sieht, dass der Mann ausgerutscht ist – er hält sich aber gerade noch rechtzeitig an der Felswand fest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -662,17 +662,17 @@ In der Nähe befindet sich eine kleine Nische in der Höhlenwand. Sie könnte et
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>[Slot 0] sucht Schutz in der Nische. Mehrere lange Augenblicke vergehen, bevor der Wind sich wieder legt.</DefaultText>
+      <DefaultText>[Specified 0] sucht Schutz in der Nische. Mehrere lange Augenblicke vergehen, bevor der Wind sich wieder legt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>In der Stille, die folgt, klettert [Slot 0] weiter.</DefaultText>
+      <DefaultText>In der Stille, die folgt, klettert [Specified 0] weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>[Slot 0] hört ein dumpfes Geräusch von unten und blickt hinab. Der Mann ist ausgerutscht. Er versucht verzweifelt, wieder Halt am Eis zu finden, aber der gesamte Vorsprung bricht plötzlich ab.</DefaultText>
+      <DefaultText>[Specified 0] hört ein dumpfes Geräusch von unten und blickt hinab. Der Mann ist ausgerutscht. Er versucht verzweifelt, wieder Halt am Eis zu finden, aber der gesamte Vorsprung bricht plötzlich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
