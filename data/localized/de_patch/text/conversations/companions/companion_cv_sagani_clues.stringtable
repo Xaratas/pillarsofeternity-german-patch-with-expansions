@@ -32,7 +32,7 @@ Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor ein
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich weiß, wo ich als nächstes nach Persoq suchen muss.“</DefaultText>
+      <DefaultText>„Ich weiß, wo ich als Nächstes nach Persoq suchen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@ Sie kniet sich neben den gefallenen Hirsch hin, legt ihm ihre Hand auf den Kopf,
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Dann lass uns weiterdrängen.“</DefaultText>
+      <DefaultText>„Dann lass uns weiter drängen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

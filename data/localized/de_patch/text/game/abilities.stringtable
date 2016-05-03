@@ -2666,7 +2666,7 @@
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Ein fürchterlicher Feuerball springt bis zu acht Mal von Feind zu Feind und verursacht Brandschaden.</DefaultText>
+      <DefaultText>Ein fürchterlicher Feuerball springt bis zu achtmal von Feind zu Feind und verursacht Brandschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4666,7 +4666,7 @@
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>Gewährt dem Kämpfer einen weiteren Niederstrecken pro Begegnung.</DefaultText>
+      <DefaultText>Gewährt dem Kämpfer ein weiteres Niederstrecken pro Begegnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5585,7 +5585,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Erhöht die Chance, mit einem schadenverursachenden Angriff eine Unterbrechung auszulösen.</DefaultText>
+      <DefaultText>Erhöht die Chance, mit einem Schaden verursachenden Angriff eine Unterbrechung auszulösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7240,7 +7240,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Verbrennungs-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Ägis gegen die Mächte der Natur. Die Ägis verleiht einen starken Widerstand gegen Verbrennungs-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7260,7 +7260,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1469</ID>
-      <DefaultText>Der Paladin wählt einen einzelnen Verbündeten als Ziel zum Heilen aus. Die Wirkung springt jedoch bis zu sechs Mal (einschließlich des ursprünglichen Treffers) zwischen Verbündeten hin und her.</DefaultText>
+      <DefaultText>Der Paladin wählt einen einzelnen Verbündeten als Ziel zum Heilen aus. Die Wirkung springt jedoch bis zu sechsmal (einschließlich des ursprünglichen Treffers) zwischen Verbündeten hin und her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7325,7 +7325,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1482</ID>
-      <DefaultText>Kanalisiert eine Kraft, der der geballten Zorns eines Barbaren ähnelt. Angriffsgeschwindigkeit, Macht und Verfassung werden erhöht. Die Abwehr wird geschwächt, die Ausdauer und Gesundheit des Charakters werden getarnt.</DefaultText>
+      <DefaultText>Kanalisiert eine Kraft, die dem geballten Zorn eines Barbaren ähnelt. Angriffsgeschwindigkeit, Macht und Verfassung werden erhöht. Die Abwehr wird geschwächt, die Ausdauer und Gesundheit des Charakters werden getarnt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
