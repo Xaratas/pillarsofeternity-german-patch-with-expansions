@@ -256,12 +256,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Slot 2] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 0] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
+      <DefaultText>[Slot 2] hängt sich mit beeindruckender Geschicklichkeit aus der Lore und packt den heranrauschenden Hebel. Der Hebel rastet ein. [Slot 2] wird durch die Wucht des Aufpralls fast aus der Lore geschleudert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[Slot 2] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 0] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
+      <DefaultText>[Slot 2] hängt sich aus der Lore, streckt die Hände nach dem Hebel aus&#160;… und fällt fast kopfüber auf die Gleise. Als ihr [Slot 2] endlich wieder in die Lore gezogen habt, ist der Hebel längst vorbeigerauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

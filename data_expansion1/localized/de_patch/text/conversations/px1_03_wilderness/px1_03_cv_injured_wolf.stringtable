@@ -106,9 +106,9 @@ Langsam beruhigt der Wolf sich, auch wenn er weiterhin verängstigt zu dir aufbl
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Slot 0] bewegt sich auf das Tier zu, um ihm zu helfen. Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still. Es winselt nur gelegentlich.
+      <DefaultText>[SkillCheck 0] bewegt sich auf das Tier zu, um ihm zu helfen. Deine Bemühungen, den Wolf zu beruhigen, haben sich gelohnt. Das Tier bleibt ganz still. Es winselt nur gelegentlich.
 
-[Slot 0] entfernt vorsichtig den Pfeil und verbindet dann die Wunde.</DefaultText>
+[SkillCheck 0] entfernt vorsichtig den Pfeil und verbindet dann die Wunde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,7 +127,7 @@ Du entfernst vorsichtig den Pfeil und verbindest dann die Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Kaum ist [Slot 0] fertig, steht der Wolf holprig auf.
+      <DefaultText>Kaum ist [SkillCheck 0] fertig, steht der Wolf holprig auf.
 
 Er betrachtet dich für einen langen Augenblick und verschwindet dann humpelnd in den Bäumen.</DefaultText>
       <FemaleText />

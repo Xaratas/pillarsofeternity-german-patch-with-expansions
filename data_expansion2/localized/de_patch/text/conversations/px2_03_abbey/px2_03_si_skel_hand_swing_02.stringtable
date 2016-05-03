@@ -117,16 +117,16 @@ Du ziehst das Seil schnell aus der Tiefe, um den Haken zurückzuholen.</DefaultT
 
 Trotz der ungewöhnlichen Flugkurve segelt der Haken schließlich über den Mittelfinger und das Seil windet sich sicher um den gefrorenen Knochen.
 
-[Slot 0] zieht zweimal daran, um sich zu überzeugen, dass es nicht abrutscht.</DefaultText>
+[Specified 0] zieht zweimal daran, um sich zu überzeugen, dass es nicht abrutscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>[Specified 0] lässt den Haken vorsichtig baumeln und wartet auf den richtigen Augenblick, in dem die Winde kurz nachlassen.
 
-Als der Moment gekommen zu sein scheint, schwingt [Slot 0] den Haken nach hinten und setzt zum Wurf an. Als [Slot 0] gerade loslassen will, schießt ein Luftstoß aus der Schlucht. [Slot 0] zuckt und wirft den Haken im falschen Winkel. Er knallt mit einem krachenden Geräusch gegen die riesige Elle des Skeletts&#160;… auch wenn der laut heulende Wind das Geräusch fast übertönt.
+Als der Moment gekommen zu sein scheint, schwingt [Specified 0] den Haken nach hinten und setzt zum Wurf an. Als [Specified 0] gerade loslassen will, schießt ein Luftstoß aus der Schlucht. [Specified 0] zuckt und wirft den Haken im falschen Winkel. Er knallt mit einem krachenden Geräusch gegen die riesige Elle des Skeletts&#160;… auch wenn der laut heulende Wind das Geräusch fast übertönt.
 
-[Slot 0] zieht das Seil schnell aus der Tiefe, um den Haken zurückzuholen.</DefaultText>
+[Specified 0] zieht das Seil schnell aus der Tiefe, um den Haken zurückzuholen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
