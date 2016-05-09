@@ -162,7 +162,7 @@
     <Entry>
       <ID>37</ID>
       <DefaultText>„Seien Sie gegrüßt, Fürst [Player Name]! Darf ich sprechen?“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, Fürstin[Player Name]! Darf ich sprechen?“</FemaleText>
+      <FemaleText>„Seien Sie gegrüßt, Fürstin [Player Name]! Darf ich sprechen?“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
