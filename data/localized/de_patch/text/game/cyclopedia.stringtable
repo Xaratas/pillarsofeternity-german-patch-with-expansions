@@ -250,7 +250,7 @@ Da Schatten spirituelle Energie absorbieren, sind sie für Kreaturen, die sich a
       <ID>47</ID>
       <DefaultText>Junge Drachen beginnen ihren Lebenskreislauf als Lindwürmer, obwohl die meisten nicht über diese Entwicklungsstufe hinauskommen. Lindwürmer sind schlau und gerissen, aber nicht sonderlich intelligent. Um sich zu einem Jungdrachen (und schließlich zu einem Drachen) zu entwickeln, muss ein Lindwurm genügend Platz und Ressourcen haben. Wenn sie in der Nähe anderer Jungdrachen und Drachen leben, entwickeln sie sich nicht weiter. Sie müssen sich einen Lebensraum suchen, der nicht bereits von einem größeren Artgenossen beansprucht wird.
 
-Da ihre weiteren Entwicklungschancen gering sind, schließen sich die meisten Lindwürmern in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent&#160;– der starke Konkurrenzkampf um Nahrung und Territorien erfordert dies.</DefaultText>
+Da ihre weiteren Entwicklungschancen gering sind, schließen sich die meisten Lindwürmer in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent&#160;– der starke Konkurrenzkampf um Nahrung und Territorien erfordert dies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,7 +364,7 @@ Drachen sind intelligenter als die meisten anderen fühlenden Wesen, ihr einsied
       <ID>61</ID>
       <DefaultText>Jungdrachen repräsentieren das mittlere Stadium im Lebenskreislauf eines Drachen. Sie haben sich aus Lindwürmern entwickelt, aber das Drachenstadium noch nicht erreicht (viele werden das nie). Jungdrachen verteidigen ihre Territorien aggressiv und versuchen, es so weit wie möglich zu erweitern. Anderen Jungdrachen gegenüber sind sie feindselig eingestellt, da sie Konkurrenten um die knappen Ressourcen sind.
 
-Ihre Farbgebung richtet sich nach beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten.</DefaultText>
+Ihre Farbgebung richtet sich nach dem beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,7 +405,7 @@ Wie alle anderen lebenden Kreaturen verfügen sie über ein Maß an Seelenessenz
       <ID>68</ID>
       <DefaultText>In den Städten des Dyrwalds haben die Irrlichter einen fast mythologischen Status und kommen in mehreren Ammenmärchen vor. Eines der beliebtesten davon deutet an, dass Irrlichter die Seelen verlorener Kinder sind, die auf ihre nächsten Leben zuwandern. In ländlichen Gebieten betrachten jene, die regelmäßig in Kontakt mit Irrlichtern kommen, diese Geschichte einigermaßen amüsiert.
 
-Irrlichter sind bekannt dafür, verlassene Ruinen und andere verlorene Orte zu bewohnen. Man hält sie für neugierige Kreaturen, da sie Reisende manchmal für kurze Zeit verfolgen. Obwohl Irrlichter normalerweise friedlich sind, reagieren sie auf Provokationen mit notorischen Aggressivität, und wenn sie eine Bedrohung ihrer Territorien wahrnehmen, verteidigen sie diese mit äußerster Brutalität. Aus diesem Grund werden Irrlichter oft als das Unkraut der Geisterwelt beschrieben&#160;– schnell, zur schnellen Regeneration fähig und in großer Zahl fast nicht aufzuhalten.</DefaultText>
+Irrlichter sind bekannt dafür, verlassene Ruinen und andere verlorene Orte zu bewohnen. Man hält sie für neugierige Kreaturen, da sie Reisende manchmal für kurze Zeit verfolgen. Obwohl Irrlichter normalerweise friedlich sind, reagieren sie auf Provokationen mit notorischer Aggressivität, und wenn sie eine Bedrohung ihrer Territorien wahrnehmen, verteidigen sie diese mit äußerster Brutalität. Aus diesem Grund werden Irrlichter oft als das Unkraut der Geisterwelt beschrieben&#160;– schnell, zur schnellen Regeneration fähig und in großer Zahl fast nicht aufzuhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1653,7 +1653,7 @@ Es heißt, dass Sirenen meistens die Gestalt einer verführerischen Frau annehme
       <ID>305</ID>
       <DefaultText>Groll gehört zu den beständigsten negativen Emotionen. Hass klingt mit der Zeit oft ab. Trauer weicht Akzeptanz. Aber die Entrüstung, die durch Grausamkeit, Ungerechtigkeit oder schlichtem Verdruss entsteht, kann den Geist vergiften und selbst über den Tod hinaus andauern.
 
-Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als eine Mischung aus aufgebrachten Instinkte. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. ‚Bittergeist‘ ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist&#160;… und auf den nahezu dieselbe Beschreibung passt.</DefaultText>
+Das ist auch der Fall bei Bittergeistern. Sie sind kaum mehr als eine Mischung aus aufgebrachten Instinkten. Sie neigen dazu, jeden zu attackieren, den sie sehen. Zufrieden sind sie erst, wenn ihr Opfer gelitten hat und gestorben ist. ‚Bittergeist‘ ist auch der Name für selbstgebrannten Schnaps, der in den ländlichen Gegenden des nördlichen Dyrwalds weit verbreitet ist&#160;… und auf den nahezu dieselbe Beschreibung passt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

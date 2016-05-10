@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
   <NextEntryID>1</NextEntryID>
@@ -91,7 +91,7 @@ Allerdings könnte auch ein großzügiger Einsatz von Münzen oder Gewalt die Wa
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Ich habe den Ghul getötet, den ich auf dem Turm in der Vision des Akolythen gesehen habe. Ich glaube, er wollte herausfinden, wie die engwithanische Maschine bedient wird. Offensichtlich war ihm das noch nicht gelungen, aber vielleicht besitzt er etwas, was mir helfen kann.</DefaultText>
+      <DefaultText>Ich habe den Gul getötet, den ich auf dem Turm in der Vision des Akolythen gesehen habe. Ich glaube, er wollte herausfinden, wie die engwithanische Maschine bedient wird. Offensichtlich war ihm das noch nicht gelungen, aber vielleicht besitzt er etwas, was mir helfen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

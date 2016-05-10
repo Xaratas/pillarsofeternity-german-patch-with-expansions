@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -17,15 +18,38 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * Einfacher Text prüfer für Pillars of Eternity Stringtable Dateien. Könnt man Teilweise in einen Commit Hook wandeln.
+ * Einfacher Text Prüfer für Pillars of Eternity Stringtable Dateien. Könnt man Teilweise in einen Commit Hook wandeln.
  * 
  * @author xar
  *
  */
 public class XmlCompare {
 
+	/** modus 0 = 2 Sprachen vergleichen, modus 1 = Alle Sprachen vegleichen. */
+	private int modus = 1;
+	/** gender 0 = Default Text, gender 1 = Female Text, gender 2 = alle */
+	private int gender = 0;
+
 	public static void main(String[] args) {
 		XmlCompare xmlCompare = new XmlCompare();
+		if (xmlCompare.modus == 0) {
+			xmlCompare.xmlCompareTwo();
+		}
+		if (xmlCompare.modus == 1) {
+			xmlCompare.xmlTokenCompare();
+		}
+	}
+	
+	private boolean isInterestingFile(Path file) {
+		return !file.getParent().getFileName().toString().contains("test")
+				&& !file.getFileName().toString().contains("test")
+				&& !file.getParent().getFileName().toString().contains("debug")
+				&& !file.getFileName().toString().contains("debug")
+				&& !file.getFileName().toString().contains("voice_set")
+				&& !file.getParent().getFileName().toString().contains("prototype");
+	}
+
+	private void xmlCompareTwo() {
 		String baseGameFolder;
 		String patchGameFolder;
 		String data = "";
@@ -55,16 +79,10 @@ public class XmlCompare {
 					for (Path patch : filesPathFolder) {
 						if (file.getParent().getFileName().equals(patch.getParent().getFileName())
 								&& file.getFileName().equals(patch.getFileName())) {
-							if (file.getParent().getFileName().toString().contains("test")
-									|| file.getFileName().toString().contains("test")
-									|| file.getParent().getFileName().toString().contains("debug")
-									|| file.getFileName().toString().contains("debug")
-									|| file.getFileName().toString().contains("voice_set")
-									|| file.getParent().getFileName().toString().contains("prototype")) {
-								continue outer;
+							if (isInterestingFile(file)) {
+								this.compare(file, patch);
+								System.out.println();
 							}
-							xmlCompare.compare(file, patch);
-							System.out.println();
 							continue outer;
 						}
 					}
@@ -75,9 +93,199 @@ public class XmlCompare {
 			}
 
 		}
-		for (String string : xmlCompare.foundTags) {
+
+		for (String string : this.foundTags) {
 			System.out.println(string);
 		}
+	}
+
+	private void xmlTokenCompare() {
+		String data = null;
+		for (int i = 0; i < 3; i++) {
+			if (i == 0) {
+				System.out.println("Basegame");
+				data = "data";
+			}
+			if (i == 1) {
+				System.out.println("Expansion 1");
+				data = "data_expansion1";
+			}
+			if (i == 2) {
+				System.out.println("Expansion 2");
+				data = "data_expansion2";
+			}
+			String patchGameFolderDE_PATCH = "/home/xar/gitrepos/poe_translation/" + data + "/localized/de_patch";
+
+			languages = new String[] { "en", "de_patch", "es", "it", "pl", "ru", "fr" };
+			String baseGameFolder = "/opt/gog/Pillars of Eternity/game/PillarsOfEternity_Data/" + data + "/localized/";
+
+			try {
+				int j = 0;
+				List<Path> filesPathFolder = Files.walk(Paths.get(baseGameFolder + languages[j]))
+						.filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+
+				for (Path file : filesPathFolder) {
+					if (isInterestingFile(file)) {
+						this.compareFile(file);
+					}
+				}
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+
+
+
+	/**
+	 * Ließt syncron über alle Sprachvarianten die gleichen ids. Die Texte in lines können dann verschiedenen Checkfunktionen zugefürt werden.
+	 * 
+	 * @param file
+	 *            - Basis Datei, für die anderen Sprachen wird nur der Language Ordner im Pfad ersetzt.
+	 */
+	private void compareFile(Path file) {
+		// Die / sind wichtig, damit die Endgame Slides nicht kaputt ersetzt werden ;) Da kommt en vor.
+		String[] lang = { "/en/", "/de_patch/", "/es/", "/it/", "/pl/", "/ru/", "/fr/" };
+		int a = 0;
+		List<BufferedReader> readers = new ArrayList<>();
+		BufferedReader reader;
+		boolean femaleDone;
+
+		try {
+			readers.add(Files.newBufferedReader(file));
+			for (a = 1; a < lang.length; a++) {
+				reader = Files.newBufferedReader(Paths.get(file.toString().replace(lang[0], lang[a])));
+				readers.add(reader);
+			}
+			String[] lines = new String[lang.length];
+			String id;
+			String[] tagContent = new String[lang.length];
+			boolean filePrinted = false;
+			while ((lines[0] = readers.get(0).readLine()) != null) {
+				if (lines[0].contains("<ID>")) {
+					id = lines[0];
+					for (a = 1; a < readers.size(); a++) {
+						lines[a] = readers.get(a).readLine();
+						while (!lines[a].contains(lines[0])) {
+							// read Line, sync to number
+							lines[a] = readers.get(a).readLine();
+						}
+					}
+					lines[0] = readers.get(0).readLine(); // <DefaultText>
+					for (a = 1; a < readers.size(); a++) {
+						lines[a] = readers.get(a).readLine(); // <DefaultText>
+					}
+
+					for (a = 0; a < readers.size(); a++) {
+						if (!lines[a].contains("<DefaultText />")) {
+							tagContent[a] = lines[a].trim().replace("<DefaultText>", "").replace("</DefaultText>", "");
+							while (!lines[a].contains("</DefaultText>")) {
+								lines[a] = readers.get(a).readLine();
+								tagContent[a] += lines[a].trim().replace("</DefaultText>", "");
+							}
+
+						}
+					}
+					// Default Text ist immer gefüllt, da reichen die ersten Beiden
+					if (tagContent[0] != null && tagContent[1] != null) {
+						if (gender % 2 == 0) {
+							/* Insert check methods here */
+							filePrinted = this.compareTags(tagContent, filePrinted, file, id);
+						}
+					}
+
+					tagContent = new String[tagContent.length];
+					for (a = 0; a < readers.size(); a++) {
+						while (!lines[a].contains("<Female")) {
+							lines[a] = readers.get(a).readLine();
+						}
+					}
+					for (a = 0; a < readers.size(); a++) {
+						if (!lines[a].contains("<FemaleText />")) {
+							tagContent[a] = lines[a].trim().replace("<FemaleText>", "").replace("</FemaleText>", "");
+							while (!lines[a].contains("</FemaleText>")) {
+								lines[a] = readers.get(a).readLine();
+								tagContent[a] += lines[a].trim().replace("</FemaleText>", "");
+							}
+						}
+					}
+					femaleDone = false;
+					// Female Text ist stark sprachabhängig gefüllt.
+					if (gender >= 1) {
+						for (int i = 0; i < tagContent.length; i++) {
+							if (tagContent[i] != null && !femaleDone) {
+								/* Insert check methods here */
+								filePrinted = this.compareTags(tagContent, filePrinted, file, id);
+								femaleDone = true;
+							}
+						}
+					}
+				}
+			}
+		} catch (Exception e) {
+			System.out.println(e);
+		} finally {
+			for (BufferedReader br : readers) {
+				try {
+					br.close();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		}
+	}
+
+	/**
+	 * Vergleicht Auto Ersetzungs Tags (Genauer: alles in []) über alle Sprachvarianten und schreit bei offensichtlichen Unterschieden. Sonst werden alle gesichteten Tags
+	 * ausgegeben. (Könnnte man beruhigen)
+	 * 
+	 * @param tagContent
+	 * @param filePrinted
+	 * @param file
+	 * @param id
+	 * @return
+	 */
+	private boolean compareTags(String[] tagContent, boolean filePrinted, Path file, String id) {
+		String regex = "(\\[.*?\\])*"; // non greedy
+		Pattern pattern = Pattern.compile(regex);
+		StringBuilder sb = new StringBuilder();
+		int oldCount = 0;
+		int newCount = 0;
+		boolean found = false;
+		boolean bad = false;
+		for (int a = 0; a < tagContent.length; a++) {
+			if (tagContent[a] == null)
+				continue;
+			Matcher matcher = pattern.matcher(tagContent[a]);
+			newCount = 0;
+			while (matcher.find()) {
+				if (matcher.group() != null && matcher.group().length() > 0) {
+					newCount++;
+					foundTags.add(matcher.group());
+					sb.append(matcher.group() + " ");
+					found = true;
+				}
+			}
+			if (a != 0 && oldCount != newCount) {
+				// Anzahl stimmt nicht
+				System.out.println("Anzahl stimmt nicht!");
+				bad = true;
+				break;
+			}
+			oldCount = newCount;
+		}
+		if (found) {
+			System.out.println(file + " ID:" + id);
+			System.out.println(sb.toString());
+			if (bad) {
+				for (int i = 0; i < tagContent.length; i++) {
+					System.out.println(languages[i] + ": " + tagContent[i]);
+				}
+			}
+		}
+		return false;
 	}
 
 	// jaha, fast ein xml reader *hust*
@@ -104,13 +312,14 @@ public class XmlCompare {
 							linePatch = patchReader.readLine();
 							tagContent += linePatch.trim().replace("</DefaultText>", "");
 						}
-						// filePrinted = checkLanguage(tagContent, filePrinted, patch, id);
-						// filePrinted = checkForTags(tagContent, filePrinted, patch, id);
-						// filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
-						filePrinted = checkDamageKinds(tagContent, filePrinted, patch, id);
+						if (gender % 2 == 0) {
+							/* Insert check methods here */
+							// filePrinted = checkLanguage(tagContent, filePrinted, patch, id);
+							// filePrinted = checkForTags(tagContent, filePrinted, patch, id);
+							// filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
+							filePrinted = checkDamageKinds(tagContent, filePrinted, patch, id);
+						}
 					}
-					// TODO Token Check […en] equals […de] in Reihenfolge und
-					// Menge
 					// filePrinted = hasTranslation(file, line, linePatch, id,
 					// filePrinted, "DefaultText");
 					while (!line.contains("<Female")) {
@@ -125,13 +334,15 @@ public class XmlCompare {
 							linePatch = patchReader.readLine();
 							tagContent += linePatch.trim().replace("</FemaleText>", "");
 						}
-						// filePrinted = checkLanguage(tagContent, filePrinted, patch, id);
-						// filePrinted = checkForTags(tagContent, filePrinted, patch, id);
-						//filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
-						filePrinted = checkDamageKinds(tagContent, filePrinted, patch, id);
+						if (gender >= 1) {
+							/* Insert check methods here */
+							// filePrinted = checkLanguage(tagContent, filePrinted, patch, id);
+							// filePrinted = checkForTags(tagContent, filePrinted, patch, id);
+							// filePrinted = checkForPairedQuotation(tagContent, filePrinted, patch, id);
+							filePrinted = checkDamageKinds(tagContent, filePrinted, patch, id);
+						}
 					}
-					// filePrinted = hasTranslation(file, line, linePatch, id,
-					// filePrinted, "FemaleText");
+					// filePrinted = hasTranslation(file, line, linePatch, id, filePrinted, "FemaleText");
 				}
 			}
 		} catch (IOException e) {
@@ -196,6 +407,7 @@ public class XmlCompare {
 	}
 
 	SortedSet<String> foundTags = new TreeSet<>();
+	private String[] languages;
 
 	/**
 	 * Replacement Tokens [Player Culture] [Player Deity] [Player Name] [Player Race] [OrlansHeadGame_OpponentLastResult] [OrlansHeadGame_OpponentLastScore]
