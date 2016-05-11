@@ -221,12 +221,12 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesone getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
+      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über einem Gambeson getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine an Ort und Stelle gehalten.</DefaultText>
+      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigantine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine an Ort und Stelle gehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1760,7 +1760,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>Auf diesem alten Brustharnisch finden sich zwar reichlich Kampfspuren, trotzdem aber wurde er im Verlauf der Jahre eindeutig gut gepflegt und hat sich dadurch einen Teil seines ursprünglichen Glanzes bewahrt. In seiner Mitte ist er mit einem Flammensymbol geschmückt.</DefaultText>
+      <DefaultText>Auf diesem alten Brustharnisch finden sich zwar reichlich Kampfspuren, trotzdem wurde er aber im Verlauf der Jahre eindeutig gut gepflegt und hat sich dadurch einen Teil seines ursprünglichen Glanzes bewahrt. In seiner Mitte ist er mit einem Flammensymbol geschmückt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2368,12 +2368,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>Außergewöhnliche Brigandine</DefaultText>
+      <DefaultText>Außergewöhnliche Brigantine</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Gute Brigandine</DefaultText>
+      <DefaultText>Gute Brigantine</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5409,7 +5409,7 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Diese robuste Brigandine wurde von der aedyrischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen den Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
+      <DefaultText>Diese robuste Brigantine wurde von der aedyrischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen den Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8207,7 +8207,7 @@ Wenn ein Kandidat ausreichend Talent für die Schmiedekunst beweist (oder in let
 
 Novize
 
-Nach ausreichender Ausbildung legt der Knappe eine dreiteilige Prüfung ab. Er muss eine kaputte Rüstung reparieren, er muss die Lobgesänge von Abydon aus dem Gedächtnis rezitieren und er muss in der Lage sein, einen Novizen im Kampf zu treffen. Wenn er diese drei Aufgaben bewältigt, wird er in die Stellung eines Novizen befördert. An diesem Punkt erhält er seine erste offizielle Rüstung als Schmelztiegelritter&#160;– eine Brigandine. Sein Ausbildungspensum verdoppelt sich nun, da nur die wackersten Kandidaten die nächste Ebene erreichen.
+Nach ausreichender Ausbildung legt der Knappe eine dreiteilige Prüfung ab. Er muss eine kaputte Rüstung reparieren, er muss die Lobgesänge von Abydon aus dem Gedächtnis rezitieren und er muss in der Lage sein, einen Novizen im Kampf zu treffen. Wenn er diese drei Aufgaben bewältigt, wird er in die Stellung eines Novizen befördert. An diesem Punkt erhält er seine erste offizielle Rüstung als Schmelztiegelritter&#160;– eine Brigantine. Sein Ausbildungspensum verdoppelt sich nun, da nur die wackersten Kandidaten die nächste Ebene erreichen.
 
 Justiziar und Templus
 

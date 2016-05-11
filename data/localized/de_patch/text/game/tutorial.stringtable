@@ -135,7 +135,7 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Wenn du dich auf einen anderen Charakter zubewegst, entdeckt er dich schneller. Wenn der Auswahlkreis deines Charakters den eines anderen Charakters berührst, wirst du sofort entdeckt.</DefaultText>
+      <DefaultText>Wenn du dich auf einen anderen Charakter zubewegst, entdeckt er dich schneller. Wenn der Auswahlkreis deines Charakters den eines anderen Charakters berührt, wirst du sofort entdeckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

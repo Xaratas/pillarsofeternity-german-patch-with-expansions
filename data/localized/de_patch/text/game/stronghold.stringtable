@@ -512,7 +512,7 @@ Seit einiger Zeit färbt ein rätselhaftes Phänomen das klare Wasser des Sees s
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Nach mehreren vergeblichen Nächten des Wartens entdeckte {0} schließlich, was das Wasser schwarz färbte: Die Cean gŵla einer Hexe, die sich vor über einem Jahrhundert in Airanas Tränen niedergelassen hatte. Die Einheimischen hatten versehentlich ihre Grabstätte umgepflügt. Ihre Überreste waren während eines heftigen Sturms in den See gerutscht.
+      <DefaultText>Nach mehreren vergeblichen Nächten des Wartens entdeckte {0} schließlich, was das Wasser schwarz färbte: Die Cean Gŵla einer Hexe, die sich vor über einem Jahrhundert in Airanas Tränen niedergelassen hatte. Die Einheimischen hatten versehentlich ihre Grabstätte umgepflügt. Ihre Überreste waren während eines heftigen Sturms in den See gerutscht.
 
 Der Geist der Hexe, der sich vorher damit begnügt hatte, auf dem Feld zu spuken, hatte begonnen, ihre alten Nachbarn hinab in den See zu sich zu rufen. Mit der Hilfe der Einheimischen gelang es {0}, den Geist zur Ruhe zu betten.
 
@@ -625,7 +625,7 @@ Mit der Hilfe der von den Druiden angeheuerten Söldner konnte {0} die Angreifer
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Eine Serie von verstörenden Morden und Selbstmorden am westlichen Rand von Eir Glanfathan steht offenbar im Zusammenhang mit einem kürzlich entdeckten engwithanischen Artefakt. Überlebende sprechen von einem großen Zinnspiegel, der in Vollmondnächten jedem, der in ihn hineinblickt, wahnsinnige Botschaften zuflüstert.
+      <DefaultText>Eine Serie von verstörenden Morden und Selbstmorden am westlichen Rand von Eir Glanfath steht offenbar im Zusammenhang mit einem kürzlich entdeckten engwithanischen Artefakt. Überlebende sprechen von einem großen Zinnspiegel, der in Vollmondnächten jedem, der in ihn hineinblickt, wahnsinnige Botschaften zuflüstert.
 
 Die Dunrydstraße und das Sanatorium von Farnheim haben versucht, Überlebende der Gewalt noch weiter zu verhören&#160;… aber die meisten sind zu verstört, um verständlich zu berichten, was geschehen ist oder wohin der Spiegel gebracht wurde.</DefaultText>
       <FemaleText />
@@ -954,7 +954,7 @@ Die Einheimischen waren froh zu hören, dass der Käfer tot war&#160;… aber en
       <ID>163</ID>
       <DefaultText>Wenn ein Mitglied der Gütigen Wanderer eines natürlichen Todes stirbt, dann bittet der Paladin üblicherweise darum, an einem gefährlichen und schwer zu erreichenden Ort begraben zu werden. Um ihrem gefallenen Kameraden diesen Wunsch zu erfüllen, beschreiten die übrigen Gütigen Wanderer neue Wege, denen andere leichter folgen können.
 
-Als der älteste Paladin Adrem Delfar starbt, machten sich seine Brüder und Schwestern auf den Weg zum Rotblumensee in einer abgeschiedenen Gegend von Readceras. Sie erreichten ihr Ziel jedoch nie. Da es in diesem Teil des Östlichen Abschnitts nur noch so wenige Gütige Wanderer gibt, hat der Orden von außerhalb Hilfe angefordert, um seine Kameraden zu finden.</DefaultText>
+Als der älteste Paladin Adrem Delfar starb, machten sich seine Brüder und Schwestern auf den Weg zum Rotblumensee in einer abgeschiedenen Gegend von Readceras. Sie erreichten ihr Ziel jedoch nie. Da es in diesem Teil des Östlichen Abschnitts nur noch so wenige Gütige Wanderer gibt, hat der Orden von außerhalb Hilfe angefordert, um seine Kameraden zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1000,7 +1000,7 @@ Wieder auf Caed Nua angekommen bemerkte {0}, dass die Anamfath Nîdhens Ringfing
 
 Jahrzehnte nach dem Krieg entdeckten die Stämme die Arbeit der Astronomen wieder. Leider waren alle ursprünglichen Astronomen längst verstorben und ihre Schriften waren zu weiten Teilen in einem unbekannten Code verfasst.
 
-Zwei vailianische Ducs haben eine Belohnung für den ausgesetzt, der den Code der Glanfathaner knacken kann. Die Stämme gewähren zwar nur ungern Einblick in die Unterlagen&#160;… aber sie halten es für besser, das Wissen zu teilen, als es für immer unentschlüsselt zu lassen.</DefaultText>
+Zwei vailianische Ducs haben eine Belohnung für den ausgesetzt, der den Code der Glanfathaner knacken kann. Die Stämme gewähren zwar nur ungern Einblick in die Unterlagen&#160;… aber sie halten es für besser, das Wissen zu teilen, als es für immer verschlüsselt zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1122,7 +1122,7 @@ Sie haben den verschiedenen Fürsten in Readceras und im Dyrwald Nachrichten zuk
       <ID>185</ID>
       <DefaultText>{0} bereiste den ganzen Östlichen Abschnitt und stellte Nachforschungen an, um die verschwundenen Mönche zu finden. Einer nach dem anderen kreuzten die Mönche den Pfad von {0} als unterschiedlichste Gestalten&#160;… manche als Gestandene, manche als Bestien, manche in ganz einzigartiger Form.
 
-Nachdem sie offenbar vergessen hatten, warum sie zu ihrer Meditation aufgebrochen waren, verwickelten die Mönche {0} in eine Reihe philosophischer Diskussionen. Letztlich reiste jeder der Mönche zurück durch das mentale Labyrinth, dass er erschaffen hatte. Dadurch wurde eine spontane Erkenntnis ausgelöst und sie „verschmolzen“ wieder zu ihrer ursprünglichen Gestalt.
+Nachdem sie offenbar vergessen hatten, warum sie zu ihrer Meditation aufgebrochen waren, verwickelten die Mönche {0} in eine Reihe philosophischer Diskussionen. Letztlich reiste jeder der Mönche zurück durch das mentale Labyrinth, das er erschaffen hatte. Dadurch wurde eine spontane Erkenntnis ausgelöst und sie „verschmolzen“ wieder zu ihrer ursprünglichen Gestalt.
 
 Nachdem sie alle in ihr Kloster zurückgekehrt waren, überreichten sie {0} ein Glockenspiel. Jeder Mönch hatte eine der insgesamt zwölf Glocken beigesteuert.</DefaultText>
       <FemaleText />
