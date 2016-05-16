@@ -7473,7 +7473,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die geisterwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
+      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die gestaltwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9150,22 +9150,22 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1611</ID>
-      <DefaultText>Geisterwandlerfell</DefaultText>
+      <DefaultText>Gestaltwandlerfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1612</ID>
-      <DefaultText>Beim Geisterwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen.</DefaultText>
+      <DefaultText>Beim Gestaltwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText>Fell eines Geisterwandlerbären</DefaultText>
+      <DefaultText>Fell eines Gestaltwandlerbären</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Beim Geisterwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen. Das Fell der Bärengestalt ist besonders widerstandsfähig.</DefaultText>
+      <DefaultText>Beim Gestaltwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen. Das Fell der Bärengestalt ist besonders widerstandsfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10448,7 +10448,7 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1822</ID>
-      <DefaultText>Alle Geisterwandlergestalten des Druiden besitzen furchterregende natürliche Waffen, von Krallen über Zähne bis zu Geweihen.</DefaultText>
+      <DefaultText>Alle Gestaltwandlerformen des Druiden besitzen furchterregende natürliche Waffen, von Krallen über Zähne bis zu Geweihen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

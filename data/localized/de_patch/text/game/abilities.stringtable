@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Geisterwandler</DefaultText>
+      <DefaultText>Gestaltwandler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1696,7 +1696,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Brandschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Gestaltwandeln zusätzlichen Brandschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1706,7 +1706,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Zersetzungsschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Gestaltwandeln zusätzlichen Zersetzungsschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Frostschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Gestaltwandeln zusätzlichen Frostschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Schockschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Gestaltwandeln zusätzlichen Schockschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3086,22 +3086,22 @@
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>Geisterwandler Bär</DefaultText>
+      <DefaultText>Gestaltwandler Bär</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Geisterwandler Kater</DefaultText>
+      <DefaultText>Gestaltwandler Kater</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>Geisterwandler Hirsch</DefaultText>
+      <DefaultText>Gestaltwandler Hirsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Geisterwandler Wolf</DefaultText>
+      <DefaultText>Gestaltwandler Wolf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3286,7 +3286,7 @@
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>Geisterwandler Eber</DefaultText>
+      <DefaultText>Gestaltwandler Eber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3366,7 +3366,7 @@
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>Bonus Geisterwandler</DefaultText>
+      <DefaultText>Bonus Gestaltwandler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3571,32 +3571,32 @@
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>Bonus Geisterwandler Bär</DefaultText>
+      <DefaultText>Bonus Gestaltwandler Bär</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>732</ID>
-      <DefaultText>Bonus Geisterwandler Eber</DefaultText>
+      <DefaultText>Bonus Gestaltwandler Eber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>Bonus Geisterwandler Kater</DefaultText>
+      <DefaultText>Bonus Gestaltwandler Kater</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>Bonus Geisterwandler Wächter</DefaultText>
+      <DefaultText>Bonus Gestaltwandler Wächter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>735</ID>
-      <DefaultText>Bonus Geisterwandler Hirsch</DefaultText>
+      <DefaultText>Bonus Gestaltwandler Hirsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>736</ID>
-      <DefaultText>Bonus Geisterwandler Wolf</DefaultText>
+      <DefaultText>Bonus Gestaltwandler Wolf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3856,7 +3856,7 @@
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>Geisterwandler Stelgaer</DefaultText>
+      <DefaultText>Gestaltwandler Stelgaer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4306,27 +4306,27 @@
     </Entry>
     <Entry>
       <ID>878</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Bären, wodurch er vorübergehend diese Form annehmen kann. Die Bär-Geisterwandlerform verfügt über hohe Schadensreduktion und kann fürchterlich brüllen.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Bären, wodurch er vorübergehend diese Form annehmen kann. Die Bär-Gestaltwandlerform verfügt über hohe Schadensreduktion und kann fürchterlich brüllen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Eber, wodurch er vorübergehend diese Form annehmen kann. Die Eber-Geisterwandlerform regeneriert verlorene Ausdauer und fügt mit ihren Nahkampfangriffen Zeitschaden zu.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Eber, wodurch er vorübergehend diese Form annehmen kann. Die Eber-Gestaltwandlerform regeneriert verlorene Ausdauer und fügt mit ihren Nahkampfangriffen Zeitschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>880</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Kater, wodurch er vorübergehend diese Form annehmen kann. Die Katze-Geisterwandlerform greift naturgemäß schnell an und kann kurzfristig sogar noch schneller angreifen.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Kater, wodurch er vorübergehend diese Form annehmen kann. Die Katze-Gestaltwandlerform greift naturgemäß schnell an und kann kurzfristig sogar noch schneller angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Hirsch, wodurch er vorübergehend diese Form annehmen kann. Die Hirsch-Geisterwandlerform hat höhere Verteidigungswerte und kann mit ihrem Blutbad-Nahkampfangriff ganze Gruppen von Feinden gleichzeitig angreifen.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Hirsch, wodurch er vorübergehend diese Form annehmen kann. Die Hirsch-Gestaltwandlerform hat höhere Verteidigungswerte und kann mit ihrem Blutbad-Nahkampfangriff ganze Gruppen von Feinden gleichzeitig angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Wolf, wodurch er vorübergehend diese Form annehmen kann. Die Wolf-Geisterwandlerform bewegt sich schnell und verfügt über einen Angriff, der Feinde Niederstrecken kann.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Wolf, wodurch er vorübergehend diese Form annehmen kann. Die Wolf-Gestaltwandlerform bewegt sich schnell und verfügt über einen Angriff, der Feinde Niederstrecken kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4656,7 +4656,7 @@
     </Entry>
     <Entry>
       <ID>948</ID>
-      <DefaultText>Vertieft die Verbindung des Druiden zu seiner Geisterwandlerform, wodurch er einen weiteren Wandel pro Ruhephase durchführen kann.</DefaultText>
+      <DefaultText>Vertieft die Verbindung des Druiden zu seiner Gestaltwandlerform, wodurch er einen weiteren Wandel pro Ruhephase durchführen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4951,7 +4951,7 @@
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Die Keiler-Geisterwandlerform ermöglicht es dem Druiden, fortlaufend mit mäßigem Tempo Ausdauer zu regenerieren.</DefaultText>
+      <DefaultText>Die Keiler-Gestaltwandlerform ermöglicht es dem Druiden, fortlaufend mit mäßigem Tempo Ausdauer zu regenerieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7455,7 +7455,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1508</ID>
-      <DefaultText>Geisterwandler</DefaultText>
+      <DefaultText>Gestaltwandler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
