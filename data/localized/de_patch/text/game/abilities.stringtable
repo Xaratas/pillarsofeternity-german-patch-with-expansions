@@ -3086,22 +3086,22 @@
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>Gestaltwandler Bär</DefaultText>
+      <DefaultText>Gestaltwandler: Bär</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Gestaltwandler Kater</DefaultText>
+      <DefaultText>Gestaltwandler: Kater</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>Gestaltwandler Hirsch</DefaultText>
+      <DefaultText>Gestaltwandler: Hirsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Gestaltwandler Wolf</DefaultText>
+      <DefaultText>Gestaltwandler: Wolf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3286,7 +3286,7 @@
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>Gestaltwandler Eber</DefaultText>
+      <DefaultText>Gestaltwandler: Eber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3571,32 +3571,32 @@
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>Bonus Gestaltwandler Bär</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Bär</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>732</ID>
-      <DefaultText>Bonus Gestaltwandler Eber</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Eber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>Bonus Gestaltwandler Kater</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Kater</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>Bonus Gestaltwandler Wächter</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Wächter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>735</ID>
-      <DefaultText>Bonus Gestaltwandler Hirsch</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Hirsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>736</ID>
-      <DefaultText>Bonus Gestaltwandler Wolf</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Wolf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3856,7 +3856,7 @@
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>Gestaltwandler Stelgaer</DefaultText>
+      <DefaultText>Gestaltwandler: Stelgaer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
