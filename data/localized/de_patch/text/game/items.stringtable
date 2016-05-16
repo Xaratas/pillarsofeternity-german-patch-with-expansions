@@ -893,7 +893,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>In diesen Silberanhänger wurde ein einfach geschnittener Adra-Stein integriert. Mit einem dicken Lederband kann dieser Talisman um den Hals getragen werden. Das Zentrum des Steins strahlt ein sanftes, goldenes Licht aus.</DefaultText>
+      <DefaultText>In diesen Silberanhänger wurde ein einfach geschnittener Adrastein integriert. Mit einem dicken Lederband kann dieser Talisman um den Hals getragen werden. Das Zentrum des Steins strahlt ein sanftes, goldenes Licht aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1623,7 +1623,7 @@ Irgendwo weit weg von hier.“</DefaultText>
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>Ein poliertes, gebogenes Stück Adra aus den Überresten eines Animaten. Im Adra-Stein sind Kupferlitzen aufgewickelt, die an mehreren Punkten bis zur Oberfläche des Steins hinauf ragen und die Rüstung durchdringen.</DefaultText>
+      <DefaultText>Ein poliertes, gebogenes Stück Adra aus den Überresten eines Animaten. Im Adrastein sind Kupferlitzen aufgewickelt, die an mehreren Punkten bis zur Oberfläche des Steins hinauf ragen und die Rüstung durchdringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3280,7 +3280,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>Dieser große Adra-Stein ist für seine Größe ziemlich leicht. Er strahlt Wut mit fast spürbarer Wärme aus und flüstert dir wie die Kreatur zu, der du ihn abgenommen hast.</DefaultText>
+      <DefaultText>Dieser große Adrastein ist für seine Größe ziemlich leicht. Er strahlt Wut mit fast spürbarer Wärme aus und flüstert dir wie die Kreatur zu, der du ihn abgenommen hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3797,7 +3797,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>769</ID>
-      <DefaultText>Du fühlst dich mit diesem Adra-Stein verbunden. Du kannst zwar nicht durch die Oberflächenschicht sehen, aber du weißt, dass sich darin ein Teil von dir befindet.</DefaultText>
+      <DefaultText>Du fühlst dich mit diesem Adrastein verbunden. Du kannst zwar nicht durch die Oberflächenschicht sehen, aber du weißt, dass sich darin ein Teil von dir befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
