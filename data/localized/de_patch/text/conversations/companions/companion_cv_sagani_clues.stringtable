@@ -17,7 +17,7 @@ Du schließt deine Augen und lässt den Äther für eine Spur von Persoqs Gegenw
       <ID>2</ID>
       <DefaultText>Dieses Mal spürst du, wie Persoq durch den Wald rennt, wobei er um Felsen und Bäume saust und flitzt. Die Landschaft zischt zu schnell vorbei&#160;– du kannst zwischen dem verschwommenen Grün keine Einzelheiten erkennen.
 
-Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor einem Adra-Bogen zum Stehen.</DefaultText>
+Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor einem Adrabogen zum Stehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -37,7 +37,7 @@ Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor ein
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Siehst du den natürlichen Adra-Bogen?“</DefaultText>
+      <DefaultText>„Siehst du den natürlichen Adrabogen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,14 +222,14 @@ Itumaak gähnt und hätschelt ungeduldig ihre Hand.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Der Adra-Bogen ragt vor dir empor, wie du es durch Persoqs Augen gesehen hattest. Sagani dreht sich um und sucht die Bäume nach Bewegungen ab.
+      <DefaultText>Der Adrabogen ragt vor dir empor, wie du es durch Persoqs Augen gesehen hattest. Sagani dreht sich um und sucht die Bäume nach Bewegungen ab.
 
 Als sich der Schatten des Bogens über dich legt, wandelt sich die bewaldete Küste zu einer anderen Landschaft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Adra-Bogen. Direkt da vorne.“</DefaultText>
+      <DefaultText>„Adrabogen. Direkt da vorne.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
