@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Unter einem Mantel unheilvollen Schattens, der nur von den matten Farbtönen der Adra-Statue erleuchtet wird, kommt etwas hervor, bei dem es sich nur um einen Drachen handeln kann. Seine Haut ist mit leuchtenden, lebenden Adraschuppen bedeckt, und die Bewegungen seiner großen Gelenke hören sich an wie das Aneinandermahlen von Felsbrocken.</DefaultText>
+      <DefaultText>Unter einem Mantel unheilvollen Schattens, der nur von den matten Farbtönen der Adrastatue erleuchtet wird, kommt etwas hervor, bei dem es sich nur um einen Drachen handeln kann. Seine Haut ist mit leuchtenden, lebenden Adraschuppen bedeckt, und die Bewegungen seiner großen Gelenke hören sich an wie das Aneinandermahlen von Felsbrocken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,7 +505,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Das kannst du doch bestimmt erraten, oder?“ Der Drache hebt seinen Kopf und betrachtet die turmhohen Beine der Adra-Statue.</DefaultText>
+      <DefaultText>„Das kannst du doch bestimmt erraten, oder?“ Der Drache hebt seinen Kopf und betrachtet die turmhohen Beine der Adrastatue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
