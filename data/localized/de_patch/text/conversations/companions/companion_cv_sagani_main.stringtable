@@ -94,7 +94,7 @@ Sie beobachtet skeptisch, aber neugierig, wie du es untersuchst.</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Du hebst den Adra-Bär hoch und hältst ihn gegen das Licht. Als deine Augen einen winzigen, schimmernden Kratzer entdecken, beginnt die Landschaft um dich herum hinwegzuschmelzen.</DefaultText>
+      <DefaultText>Du hebst den Adrabär hoch und hältst ihn gegen das Licht. Als deine Augen einen winzigen, schimmernden Kratzer entdecken, beginnt die Landschaft um dich herum hinwegzuschmelzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Mit zusammengekniffenen Augen schaut sie den Adra-Bär an, und dann wieder dich. „Warum?“</DefaultText>
+      <DefaultText>Mit zusammengekniffenen Augen schaut sie den Adrabär an, und dann wieder dich. „Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,7 +741,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>Sie schaut den Adra-Bär selbst an und dreht ihn ein paar Mal in ihren Händen. „Wovon sprichst du?“ Sie schaut dich wieder an. „Was ist gerade passiert?“</DefaultText>
+      <DefaultText>Sie schaut den Adrabär selbst an und dreht ihn ein paar Mal in ihren Händen. „Wovon sprichst du?“ Sie schaut dich wieder an. „Was ist gerade passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
