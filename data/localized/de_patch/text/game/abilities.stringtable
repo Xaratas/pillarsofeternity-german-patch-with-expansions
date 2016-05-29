@@ -3091,7 +3091,7 @@
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Gestaltwandler: Kater</DefaultText>
+      <DefaultText>Gestaltwandler: Raubkatze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3581,7 +3581,7 @@
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>Bonus Gestaltwandler: Kater</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Raubkatze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4316,7 +4316,7 @@
     </Entry>
     <Entry>
       <ID>880</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Kater, wodurch er vorübergehend diese Form annehmen kann. Die Katze-Gestaltwandlerform greift naturgemäß schnell an und kann kurzfristig sogar noch schneller angreifen.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zur Raubkatze, wodurch er vorübergehend diese Form annehmen kann. Die Raubkatze-Gestaltwandlerform greift naturgemäß schnell an und kann kurzfristig sogar noch schneller angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
