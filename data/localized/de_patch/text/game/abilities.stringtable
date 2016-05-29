@@ -3286,7 +3286,7 @@
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>Gestaltwandler: Eber</DefaultText>
+      <DefaultText>Gestaltwandler: Keiler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3576,7 +3576,7 @@
     </Entry>
     <Entry>
       <ID>732</ID>
-      <DefaultText>Bonus Gestaltwandler: Eber</DefaultText>
+      <DefaultText>Bonus Gestaltwandler: Keiler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4311,7 +4311,7 @@
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Eber, wodurch er vorübergehend diese Form annehmen kann. Die Eber-Gestaltwandlerform regeneriert verlorene Ausdauer und fügt mit ihren Nahkampfangriffen Zeitschaden zu.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Keiler, wodurch er vorübergehend diese Form annehmen kann. Die Keiler-Gestaltwandlerform regeneriert verlorene Ausdauer und fügt mit ihren Nahkampfangriffen Zeitschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4861,7 +4861,7 @@
     </Entry>
     <Entry>
       <ID>989</ID>
-      <DefaultText>Eber-Gefährte</DefaultText>
+      <DefaultText>Keiler-Gefährte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4951,7 +4951,7 @@
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Die Eber-Gestaltwandlerform ermöglicht es dem Druiden, fortlaufend mit mäßigem Tempo Ausdauer zu regenerieren.</DefaultText>
+      <DefaultText>Die Keiler-Gestaltwandlerform ermöglicht es dem Druiden, fortlaufend mit mäßigem Tempo Ausdauer zu regenerieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5014,7 +5014,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Eber-Gefährten richten mehr Schaden an, wenn ihre Ausdauer auf unter 50&#160;% fällt.
+      <DefaultText>Keiler-Gefährten richten mehr Schaden an, wenn ihre Ausdauer auf unter 50&#160;% fällt.
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
@@ -5028,7 +5028,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>Alle Eber-Gefährten erhalten einen Bonus auf ihren Schaden, solange ihre Ausdauer unter 50&#160;% liegt.</DefaultText>
+      <DefaultText>Alle Keiler-Gefährten erhalten einen Bonus auf ihren Schaden, solange ihre Ausdauer unter 50&#160;% liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6485,7 +6485,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1313</ID>
-      <DefaultText>Eber-Regeneration</DefaultText>
+      <DefaultText>Keiler-Regeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
