@@ -331,12 +331,12 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Engwithanisches Adra-Bannamulett</DefaultText>
+      <DefaultText>Engwithanisches Adrabannamulett</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Engwithanisches Adra-Bannamulett</DefaultText>
+      <DefaultText>Engwithanisches Adrabannamulett</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2031,7 +2031,7 @@
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>Adra-Drachen</DefaultText>
+      <DefaultText>Adradrachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3236,7 +3236,7 @@
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>Adra-Animat</DefaultText>
+      <DefaultText>Adraanimat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3496,7 +3496,7 @@
     </Entry>
     <Entry>
       <ID>756</ID>
-      <DefaultText>Adra-Animat</DefaultText>
+      <DefaultText>Adraanimat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3706,7 +3706,7 @@
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>Adra-Käfer</DefaultText>
+      <DefaultText>Adrakäfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

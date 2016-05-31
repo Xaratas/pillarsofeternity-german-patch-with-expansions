@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Als du den Rand der Klippe erreichst, erkennst du den genauen Ort aus deiner Vision von Persoq. Er ist vor nicht allzu langer Zeit hier gewesen.
 
-Sagani steht mit dem Adra-Figürchen in einer Hand in Habachtstellung, während sie die Klippe prüft.
+Sagani steht mit dem Adrafigürchen in einer Hand in Habachtstellung, während sie die Klippe prüft.
 
 Du schließt deine Augen und lässt den Äther für eine Spur von Persoqs Gegenwart auf dich wirken. Die Dunkelheit hinter deinen Augenlidern nimmt Formen an.</DefaultText>
       <FemaleText />
@@ -17,7 +17,7 @@ Du schließt deine Augen und lässt den Äther für eine Spur von Persoqs Gegenw
       <ID>2</ID>
       <DefaultText>Dieses Mal spürst du, wie Persoq durch den Wald rennt, wobei er um Felsen und Bäume saust und flitzt. Die Landschaft zischt zu schnell vorbei&#160;– du kannst zwischen dem verschwommenen Grün keine Einzelheiten erkennen.
 
-Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor einem Adra-Bogen zum Stehen.</DefaultText>
+Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor einem Adrabogen zum Stehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -37,7 +37,7 @@ Etwas ragt zwischen den Bäumen vor dir empor. Persoq kommt schließlich vor ein
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Siehst du den natürlichen Adra-Bogen?“</DefaultText>
+      <DefaultText>„Siehst du den natürlichen Adrabogen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,14 +222,14 @@ Itumaak gähnt und hätschelt ungeduldig ihre Hand.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Der Adra-Bogen ragt vor dir empor, wie du es durch Persoqs Augen gesehen hattest. Sagani dreht sich um und sucht die Bäume nach Bewegungen ab.
+      <DefaultText>Der Adrabogen ragt vor dir empor, wie du es durch Persoqs Augen gesehen hattest. Sagani dreht sich um und sucht die Bäume nach Bewegungen ab.
 
 Als sich der Schatten des Bogens über dich legt, wandelt sich die bewaldete Küste zu einer anderen Landschaft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Adra-Bogen. Direkt da vorne.“</DefaultText>
+      <DefaultText>„Adrabogen. Direkt da vorne.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@ Inmitten all dem stehen Elfen und Orlaner mit bemalten Gesichtern und gezückten
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Sie schlägt mit ihrem Handballen gegen die Adra-Wand. „Aber ich handle mal wieder vorschnell. Zuerst müssen wir Persoq und dein Opfer finden, [Player Name].“
+      <DefaultText>Sie schlägt mit ihrem Handballen gegen die Adrawand. „Aber ich handle mal wieder vorschnell. Zuerst müssen wir Persoq und dein Opfer finden, [Player Name].“
 
 „Sollte mir genug Zeit zum überlegen geben, was ich ihm sagen werde.“</DefaultText>
       <FemaleText />
@@ -333,7 +333,7 @@ Inmitten all dem stehen Elfen und Orlaner mit bemalten Gesichtern und gezückten
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Du kommst an eine Lichtung und siehst eine Gruppe Glanfathaner in einem großen Kreis dastehen. Sagani schaut von dem Adra-Figürchen zu den Jägern und versucht, eine Verbindung herzustellen.
+      <DefaultText>Du kommst an eine Lichtung und siehst eine Gruppe Glanfathaner in einem großen Kreis dastehen. Sagani schaut von dem Adrafigürchen zu den Jägern und versucht, eine Verbindung herzustellen.
 
 Währenddessen drehen sich die Jäger um und bemerken dich. Die Bogen werden gezogen.</DefaultText>
       <FemaleText />
@@ -529,7 +529,7 @@ Du spürst eine Gegenwart in dem Biest, etwas Uraltes und Vertrautes. Bevor du a
       <ID>103</ID>
       <DefaultText>Sie schaut auf, und einen Moment lang blitzen Schrecken und Zorn in ihren Augen auf.
 
-Als sie aber den toten Hirsch ansieht, zuckt sie mit den Achseln und wendet sich ab. Das matte Adra-Figürchen lässt sie im Schmutz liegen.</DefaultText>
+Als sie aber den toten Hirsch ansieht, zuckt sie mit den Achseln und wendet sich ab. Das matte Adrafigürchen lässt sie im Schmutz liegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@ Als sie aber den toten Hirsch ansieht, zuckt sie mit den Achseln und wendet sich
       <ID>106</ID>
       <DefaultText>Sie schaut mit grellem Schrecken und Zorn in ihren Augen auf. „Hast du keinerlei Respekt? In diesem Körper wohnte eine große Seele.“
 
-Sie nimmt das matte Adra-Figürchen.</DefaultText>
+Sie nimmt das matte Adrafigürchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -975,7 +975,7 @@ Sie kniet sich neben den gefallenen Hirsch hin, legt ihm ihre Hand auf den Kopf,
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>…&#160;stürzt etwas zu Boden. Du siehst nach unten und erblickst den Adra-Bär, dessen helle Augen flackern.</DefaultText>
+      <DefaultText>…&#160;stürzt etwas zu Boden. Du siehst nach unten und erblickst den Adrabär, dessen helle Augen flackern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

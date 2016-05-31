@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Adra-Augen des Steingesichts leuchten und eine Stimme ertönt aus seinem offenen Mund.</DefaultText>
+      <DefaultText>Die Adraaugen des Steingesichts leuchten und eine Stimme ertönt aus seinem offenen Mund.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@ Ein Symbol brennt an der Wand hinter dem Steinkopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Der Steinkopf bleibt stumm. Seine Adra-Augen sind trüb.</DefaultText>
+      <DefaultText>Der Steinkopf bleibt stumm. Seine Adraaugen sind trüb.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

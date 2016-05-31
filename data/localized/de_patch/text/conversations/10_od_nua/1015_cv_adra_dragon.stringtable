@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Unter einem Mantel unheilvollen Schattens, der nur von den matten Farbtönen der Adra-Statue erleuchtet wird, kommt etwas hervor, bei dem es sich nur um einen Drachen handeln kann. Seine Haut ist mit leuchtenden, lebenden Adraschuppen bedeckt, und die Bewegungen seiner großen Gelenke hören sich an wie das Aneinandermahlen von Felsbrocken.</DefaultText>
+      <DefaultText>Unter einem Mantel unheilvollen Schattens, der nur von den matten Farbtönen der Adrastatue erleuchtet wird, kommt etwas hervor, bei dem es sich nur um einen Drachen handeln kann. Seine Haut ist mit leuchtenden, lebenden Adraschuppen bedeckt, und die Bewegungen seiner großen Gelenke hören sich an wie das Aneinandermahlen von Felsbrocken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
       <ID>46</ID>
       <DefaultText>„All das, was vom größten Wunsch eines toten Mannes übrig ist. Ein großes Denkmal&#160;… oder lediglich ein mickriges, kleines Grab.“
 
-Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier mehr als nur Od Nuas kostbarer Sohn begraben. Viele mehr. Hier laufen die Adra-Adern zusammen, bevor sie nach unten in den Höhlen der Welt verschwinden.“</DefaultText>
+Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier mehr als nur Od Nuas kostbarer Sohn begraben. Viele mehr. Hier laufen die Adraadern zusammen, bevor sie nach unten in den Höhlen der Welt verschwinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Es gibt da ein altes Amulett, das mir die Xaurips gegeben haben&#160;… mit einem Adra-Talisman, der zu meinen Schuppen passt. Solche Erinnerungsstücke stellen eine gute Basis dar. Und wenn du ein Gefäß finden könntest, das eine so mächtige Seele wie meine aufnehmen kann&#160;…“</DefaultText>
+      <DefaultText>„Es gibt da ein altes Amulett, das mir die Xaurips gegeben haben&#160;… mit einem Adratalisman, der zu meinen Schuppen passt. Solche Erinnerungsstücke stellen eine gute Basis dar. Und wenn du ein Gefäß finden könntest, das eine so mächtige Seele wie meine aufnehmen kann&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,7 +343,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Das Adra-Amulett leuchtet plötzlich in deinen Händen auf.</DefaultText>
+      <DefaultText>Das Adraamulett leuchtet plötzlich in deinen Händen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,7 +435,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>„Ein Teil der Statue überlebt, so wie ich. Wir beide haben uns sehr verändert.“ Der Drache erhebt Adra-beladene Flügel, die über dir wie eine zweite Decke thronen. „Nichts kann die Seelen Tausender verschlingen und sich nicht verändern.“</DefaultText>
+      <DefaultText>„Ein Teil der Statue überlebt, so wie ich. Wir beide haben uns sehr verändert.“ Der Drache erhebt adrabeladene Flügel, die über dir wie eine zweite Decke thronen. „Nichts kann die Seelen Tausender verschlingen und sich nicht verändern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -480,7 +480,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>„Od Nua sagte, die Engwithaner hätten die Statue aus den Adra-Adern geschnitten.“</DefaultText>
+      <DefaultText>„Od Nua sagte, die Engwithaner hätten die Statue aus den Adraadern geschnitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,7 +505,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Das kannst du doch bestimmt erraten, oder?“ Der Drache hebt seinen Kopf und betrachtet die turmhohen Beine der Adra-Statue.</DefaultText>
+      <DefaultText>„Das kannst du doch bestimmt erraten, oder?“ Der Drache hebt seinen Kopf und betrachtet die turmhohen Beine der Adrastatue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,7 +560,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Während du zusiehst, beginnt das Adra-Juwel erst schwach, dann gleichmäßig zu leuchten, bis es wie die goldenen Augen des Drachen glüht.</DefaultText>
+      <DefaultText>Während du zusiehst, beginnt das Adrajuwel erst schwach, dann gleichmäßig zu leuchten, bis es wie die goldenen Augen des Drachen glüht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

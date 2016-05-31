@@ -256,12 +256,12 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Ich glaube, ich bin deinem ‚Wolf‘ begegnet. Er ist ein Geisterwandler. Irgendetwas stimmt nicht mit ihm.“</DefaultText>
+      <DefaultText>„Ich glaube, ich bin deinem ‚Wolf‘ begegnet. Er ist ein Gestaltwandler. Irgendetwas stimmt nicht mit ihm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Ich weiß nichts über Riesenwölfe, aber ich habe einen Geisterwandler getötet.“</DefaultText>
+      <DefaultText>„Ich weiß nichts über Riesenwölfe, aber ich habe einen Gestaltwandler getötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +397,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Suldrun ist fort. Er ist nicht länger in seiner Geisterwandlergestalt gefangen.“</DefaultText>
+      <DefaultText>„Suldrun ist fort. Er ist nicht länger in seiner Gestaltwandlerform gefangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,7 +509,7 @@ Wärme strömt in deine Glieder, Frost und Schnee weichen dem verrauchten Innere
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Der Geisterwandler - kanntest du ihn?“</DefaultText>
+      <DefaultText>„Der Gestaltwandler - kanntest du ihn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,7 +1078,7 @@ Er blickt Thyrsc an und grinst unschuldig.</DefaultText>
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>„Suldrun ist nicht länger in seiner Geisterwandlergestalt gefangen.“</DefaultText>
+      <DefaultText>„Suldrun ist nicht länger in seiner Gestaltwandlerform gefangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

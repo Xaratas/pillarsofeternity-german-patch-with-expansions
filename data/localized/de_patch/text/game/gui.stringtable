@@ -2553,7 +2553,7 @@ Tierischer Gefährte: Alle Waldläufer besitzen eine starke Verbindung zu einem 
 
 Anfängliche Fähigkeiten:
 
-Geisterwandeln: Alle Druiden haben eine animalistische Gestalt gemeistert. Diese Gestalten verleihen dem Druiden starke Nahkampffähigkeiten. Außerdem besitzt der Druide in seiner tierischen Gestalt eine weitere Fähigkeit.
+Gestaltwandeln: Alle Druiden haben eine animalistische Gestalt gemeistert. Diese Gestalten verleihen dem Druiden starke Nahkampffähigkeiten. Außerdem besitzt der Druide in seiner tierischen Gestalt eine weitere Fähigkeit.
 
 Zauber: Der Druide hat Zugang zu verschiedenen Angriffs- und einigen Unterstützungszaubern. Bei jedem zweiten Stufenaufstieg erhält der Druide automatisch Zugang zu neuen Zaubern. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn der Druide mächtiger wird, gehen seine schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
@@ -3515,7 +3515,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>Adra-Formation</DefaultText>
+      <DefaultText>Adraformation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6445,7 +6445,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1284</ID>
-      <DefaultText>Adra-Bogen</DefaultText>
+      <DefaultText>Adrabogen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7216,7 +7216,7 @@ Nach dem sechsten Rang werden die zuvor erhaltenen Boni mächtiger, in derselben
     </Entry>
     <Entry>
       <ID>1436</ID>
-      <DefaultText>Geisterwandlungen</DefaultText>
+      <DefaultText>Gestaltwandlungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10436,7 +10436,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2090</ID>
-      <DefaultText>Adra-Drachen</DefaultText>
+      <DefaultText>Adradrachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

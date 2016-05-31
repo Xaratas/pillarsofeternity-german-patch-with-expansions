@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Der Rumpf dieses gestrandeten Bootes ist mit Seepocken verkrustet. Irgendetwas –&#160;vermutlich die gezackten Adra-Finger&#160;– haben tiefe Rillen in das Holz gekratzt. Wer auch immer versucht hat, durch sie hindurchzusegeln, muss entweder verzweifelt oder sehr unerfahren gewesen sein.</DefaultText>
+      <DefaultText>Der Rumpf dieses gestrandeten Bootes ist mit Seepocken verkrustet. Irgendetwas –&#160;vermutlich die gezackten Adrafinger&#160;– haben tiefe Rillen in das Holz gekratzt. Wer auch immer versucht hat, durch sie hindurchzusegeln, muss entweder verzweifelt oder sehr unerfahren gewesen sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -878,7 +878,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Die Symbole auf der Wand fangen das nun spärliche Licht der Adra-Kristalle ein und verkünden: „Wiederkehr in Einigkeit!“</DefaultText>
+      <DefaultText>Die Symbole auf der Wand fangen das nun spärliche Licht der Adrakristalle ein und verkünden: „Wiederkehr in Einigkeit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2230,7 +2230,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>535</ID>
-      <DefaultText>Unter der Adra-Oberfläche verlaufen dicke Kupferadern, die ein skelettartiges Gerüst erzeugen, das an Knochen erinnert, die aus verfaulendem Fleisch herausragen.</DefaultText>
+      <DefaultText>Unter der Adraoberfläche verlaufen dicke Kupferadern, die ein skelettartiges Gerüst erzeugen, das an Knochen erinnert, die aus verfaulendem Fleisch herausragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2854,7 +2854,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Aller Essenz entleert, verbleibt der Adra-Apparat bewegungslos und ruhig.</DefaultText>
+      <DefaultText>Aller Essenz entleert, verbleibt der Adraapparat bewegungslos und ruhig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2874,7 +2874,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>Diese Schriftrolle enthält ein mit Feder und Tinte gezeichnetes Diagramm des Adra-Geräts, dass sich durch den Turm erstreckt. Trotz zahlreicher Messwerte und sorgfältig gezeichneten Details gibt es keine Hinweise auf den Zweck der Maschine.</DefaultText>
+      <DefaultText>Diese Schriftrolle enthält ein mit Feder und Tinte gezeichnetes Diagramm des Adrageräts, dass sich durch den Turm erstreckt. Trotz zahlreicher Messwerte und sorgfältig gezeichneten Details gibt es keine Hinweise auf den Zweck der Maschine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3558,7 +3558,7 @@ G. Doemenel“</DefaultText>
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>Der Adra-Zehennagel ist so hart und glatt wie ein Turmschild aus Stahl.</DefaultText>
+      <DefaultText>Der Adrazehennagel ist so hart und glatt wie ein Turmschild aus Stahl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3796,7 +3796,7 @@ Zum Salzigen Mast im Süden</DefaultText>
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Dicke, rostrote Adra-Adern winden sich durch das Handgelenk der Statue und in die Dunkelheit dahinter.</DefaultText>
+      <DefaultText>Dicke, rostrote Adraadern winden sich durch das Handgelenk der Statue und in die Dunkelheit dahinter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

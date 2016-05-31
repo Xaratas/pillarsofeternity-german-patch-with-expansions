@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>In einem Bereich der Höhlen unter Caed Nua haben sich Vithrack angesiedelt, die sich auf der Suche nach neuem Wissen weit von ihrer Heimatkolonie entfernt haben. Das offensichtliche Geschick des Meisters bei der Adra-Bearbeitung respektieren sie besonders, und sie möchten lernen, wie sie Adra für ihre eigenen Zwecke formen können.</DefaultText>
+      <DefaultText>In einem Bereich der Höhlen unter Caed Nua haben sich Vithrack angesiedelt, die sich auf der Suche nach neuem Wissen weit von ihrer Heimatkolonie entfernt haben. Das offensichtliche Geschick des Meisters bei der Adrabearbeitung respektieren sie besonders, und sie möchten lernen, wie sie Adra für ihre eigenen Zwecke formen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Ich habe die Ruinen unterhalb der Höhlen erreicht und kann nun mit meiner Suche beginnen. Die Vithrack haben mich gebeten, drei Gegenstände für sie zu besorgen: Einen veredelten Adra-Kristall, die Rüstung eines der mit Adra bedeckten Animaten, die durch die Gegend streifen, und ein Stück aus einer der uralten engwithanischen Maschinen. Dadurch werden die Vithrack hoffentlich genügend Material für ihre eigenen Experimente zur Verfügung haben.</DefaultText>
+      <DefaultText>Ich habe die Ruinen unterhalb der Höhlen erreicht und kann nun mit meiner Suche beginnen. Die Vithrack haben mich gebeten, drei Gegenstände für sie zu besorgen: Einen veredelten Adrakristall, die Rüstung eines der mit Adra bedeckten Animaten, die durch die Gegend streifen, und ein Stück aus einer der uralten engwithanischen Maschinen. Dadurch werden die Vithrack hoffentlich genügend Material für ihre eigenen Experimente zur Verfügung haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Bei einem der inaktiven Wächter in den Ruinen habe ich ein Stück Adra-besetzter Animat-Rüstung gefunden.</DefaultText>
+      <DefaultText>Bei einem der inaktiven Wächter in den Ruinen habe ich ein Stück adrabesetzter Animat-Rüstung gefunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

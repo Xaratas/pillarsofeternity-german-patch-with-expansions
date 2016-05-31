@@ -451,17 +451,17 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Adra-Eniach</DefaultText>
+      <DefaultText>Adraeniach</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Eniachs sind keine Währung im traditionellen Sinn, sondern werden Glanfathanern für bemerkenswerte Taten verliehen. Es handelt sich dabei um handflächengroße und kompliziert eingeritzte Adra-Stücke zum Gedenken an die Taten des Empfängers.</DefaultText>
+      <DefaultText>Eniachs sind keine Währung im traditionellen Sinn, sondern werden Glanfathanern für bemerkenswerte Taten verliehen. Es handelt sich dabei um handflächengroße und kompliziert eingeritzte Adrastücke zum Gedenken an die Taten des Empfängers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Adra-Eniach</DefaultText>
+      <DefaultText>Adraeniach</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -893,7 +893,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>In diesen Silberanhänger wurde ein einfach geschnittener Adra-Stein integriert. Mit einem dicken Lederband kann dieser Talisman um den Hals getragen werden. Das Zentrum des Steins strahlt ein sanftes, goldenes Licht aus.</DefaultText>
+      <DefaultText>In diesen Silberanhänger wurde ein einfach geschnittener Adrastein integriert. Mit einem dicken Lederband kann dieser Talisman um den Hals getragen werden. Das Zentrum des Steins strahlt ein sanftes, goldenes Licht aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1033,7 +1033,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Ein Goldring mit Adra-Verzierungen</DefaultText>
+      <DefaultText>Ein Goldring mit Adraverzierungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1107,7 +1107,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Diese Adra-Rüstung ist gebrochen und wurde in Bruchstücke zerschmettert. Du kannst die ursprüngliche Form der Rüstung kaum noch erkennen.</DefaultText>
+      <DefaultText>Diese Adrarüstung ist gebrochen und wurde in Bruchstücke zerschmettert. Du kannst die ursprüngliche Form der Rüstung kaum noch erkennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1127,12 +1127,12 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>An diesem abgenutzten Adra-Schlüssel kleben immer noch Reste von Spinnenseide.</DefaultText>
+      <DefaultText>An diesem abgenutzten Adraschlüssel kleben immer noch Reste von Spinnenseide.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Adra-Schlüssel</DefaultText>
+      <DefaultText>Adraschlüssel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1518,7 +1518,7 @@ Irgendwo weit weg von hier.“</DefaultText>
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>Schimmerndes Adra-Fragment</DefaultText>
+      <DefaultText>Schimmerndes Adrafragment</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1528,12 +1528,12 @@ Irgendwo weit weg von hier.“</DefaultText>
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Intakter Adra-Animat-Brustharnisch</DefaultText>
+      <DefaultText>Intakter Adraanimat-Brustharnisch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>Die intakte Adra-Rüstung eines großen Animaten.</DefaultText>
+      <DefaultText>Die intakte Adrarüstung eines großen Animaten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1618,12 +1618,12 @@ Irgendwo weit weg von hier.“</DefaultText>
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>Adra-Panzer</DefaultText>
+      <DefaultText>Adrapanzer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>Ein poliertes, gebogenes Stück Adra aus den Überresten eines Animaten. Im Adra-Stein sind Kupferlitzen aufgewickelt, die an mehreren Punkten bis zur Oberfläche des Steins hinauf ragen und die Rüstung durchdringen.</DefaultText>
+      <DefaultText>Ein poliertes, gebogenes Stück Adra aus den Überresten eines Animaten. Im Adrastein sind Kupferlitzen aufgewickelt, die an mehreren Punkten bis zur Oberfläche des Steins hinauf ragen und die Rüstung durchdringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3280,7 +3280,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>Dieser große Adra-Stein ist für seine Größe ziemlich leicht. Er strahlt Wut mit fast spürbarer Wärme aus und flüstert dir wie die Kreatur zu, der du ihn abgenommen hast.</DefaultText>
+      <DefaultText>Dieser große Adrastein ist für seine Größe ziemlich leicht. Er strahlt Wut mit fast spürbarer Wärme aus und flüstert dir wie die Kreatur zu, der du ihn abgenommen hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3751,12 +3751,12 @@ Icantha.</DefaultText>
     </Entry>
     <Entry>
       <ID>761</ID>
-      <DefaultText>Gravierte Adra-Scheibe</DefaultText>
+      <DefaultText>Gravierte Adrascheibe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>762</ID>
-      <DefaultText>Diese handflächengroße Adra-Scheibe wurde zu einem perfekten Kreis geformt. Entlang der Ränder wurden Runen eingraviert, die allerdings zu klein sind, um sie entschlüsseln zu können.</DefaultText>
+      <DefaultText>Diese handflächengroße Adrascheibe wurde zu einem perfekten Kreis geformt. Entlang der Ränder wurden Runen eingraviert, die allerdings zu klein sind, um sie entschlüsseln zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3797,7 +3797,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>769</ID>
-      <DefaultText>Du fühlst dich mit diesem Adra-Stein verbunden. Du kannst zwar nicht durch die Oberflächenschicht sehen, aber du weißt, dass sich darin ein Teil von dir befindet.</DefaultText>
+      <DefaultText>Du fühlst dich mit diesem Adrastein verbunden. Du kannst zwar nicht durch die Oberflächenschicht sehen, aber du weißt, dass sich darin ein Teil von dir befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4018,7 +4018,7 @@ Diese Handschuhe sollen Fulvano gehört haben, der beim Erklettern rauen Geländ
       <ID>812</ID>
       <DefaultText>Dieser Bronzespeer scheint mit großer Sorgfalt angefertigt worden zu sein. Die Spitze ist trotz des Alters der Waffe bemerkenswert scharf.
 
-Der Griff ist mit Adra-Stücken versehen und in den Schaft wurden Runen eingeritzt. Du spürst den Adra-Kern, der sich durch die Waffe erstreckt.</DefaultText>
+Der Griff ist mit Adrastücken versehen und in den Schaft wurden Runen eingeritzt. Du spürst den Adrakern, der sich durch die Waffe erstreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4083,7 +4083,7 @@ Der Griff ist mit Adra-Stücken versehen und in den Schaft wurden Runen eingerit
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Adra-Drachenschuppe</DefaultText>
+      <DefaultText>Adradrachenschuppe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5309,7 +5309,7 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>Weißer Adra ist ein außerordentlich seltener Edelstein, der in manchen Adra-Formationen zu finden ist, die sich manchmal anscheinend direkt neben den Kupferleitern engwithanischer Gebäude befinden. Er leuchtet weiß und verfügt über rosa und violette Einschlüsse, die ihn streifenförmig durchziehen.</DefaultText>
+      <DefaultText>Weißer Adra ist ein außerordentlich seltener Edelstein, der in manchen Adraformationen zu finden ist, die sich manchmal anscheinend direkt neben den Kupferleitern engwithanischer Gebäude befinden. Er leuchtet weiß und verfügt über rosa und violette Einschlüsse, die ihn streifenförmig durchziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5751,7 +5751,7 @@ Die gekrümmte Klinge des Dolchs ist mit Runen verziert. Wenn man den Schaft aus
     </Entry>
     <Entry>
       <ID>1163</ID>
-      <DefaultText>Diese Adra-Figur ist geformt wie ein kleiner Käfer. Sein bunter Panzer reflektiert das Licht auf seltsame Art und Weise. Wenn man ihn hin und her wendet, ändert sich seine Farbe.</DefaultText>
+      <DefaultText>Diese Adrafigur ist geformt wie ein kleiner Käfer. Sein bunter Panzer reflektiert das Licht auf seltsame Art und Weise. Wenn man ihn hin und her wendet, ändert sich seine Farbe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7233,7 +7233,7 @@ Dieser pinkfarbene Umhang mit silbernem Rand zieht jede Aufmerksamkeit auf sich.
     </Entry>
     <Entry>
       <ID>1426</ID>
-      <DefaultText>Im Dyrwald erzählt man sich die Legende einer Jägerin, die Tage im Wald verbrachte, um Nahrung für ihre Familie zu finden. In ihrer ersten Falle fing sie einen Eber. „Bitte, große Jägerin“, bat der Eber, als sie sich näherte. „Ich bin kein gewöhnlicher Eber. Ich bin der Herrscher meines Volkes. Wenn du mich befreist, werde ich dich reich belohnen!“ Die Jägerin befreite also den Eber, der lachend davonrannte und nie wieder gesehen ward.
+      <DefaultText>Im Dyrwald erzählt man sich die Legende einer Jägerin, die Tage im Wald verbrachte, um Nahrung für ihre Familie zu finden. In ihrer ersten Falle fing sie einen Keiler. „Bitte, große Jägerin“, bat der Keiler, als sie sich näherte. „Ich bin kein gewöhnlicher Keiler. Ich bin der Herrscher meines Volkes. Wenn du mich befreist, werde ich dich reich belohnen!“ Die Jägerin befreite also den Keiler, der lachend davonrannte und nie wieder gesehen ward.
 
 In ihrer zweiten Falle fing sie einen Truthahn. „Bitte, mächtige Jägerin“, sagte der Truthahn, als sie sich näherte. „Ich bin kein gewöhnlicher Truthahn! Ich bin der Herrscher meines Volkes. Wenn du mich befreist, erhältst du Belohnungen jenseits deiner Vorstellungskraft.“ Die Jägerin befreite den Truthahn, der ebenfalls lachend davonrannte und nie wieder gesehen ward.
 
@@ -7473,7 +7473,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die geisterwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
+      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die gestaltwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8834,7 +8834,7 @@ Vergesst nicht eure Königin.</DefaultText>
     </Entry>
     <Entry>
       <ID>1579</ID>
-      <DefaultText>Im Jahr 2626 AI warf eine Gruppe von Bauern, die Ackerland schaffen wollte, versehentlich einen der uralten Adra-Hinkelsteine auf ihrem Land um. Dieses unschuldige Versehen weckte den Zorn der Ureinwohner und führte zum Ausbruch des Kriegs des Zerbrochenen Steins. Im Verlauf des Kriegs starben mehrere tausend Kolonisten und einige hundert Glanfathaner. Nachdem der Krieg offiziell beendet war, setzten die Glanfathaner noch zwei Jahre lang ihre Angriffe auf die Siedler mit unverminderter oder gar noch gesteigerter Aggressivität fort. Ihren brutalen Taktiken fielen unzählige Kolonisten, mehrere hochrangige Militärs, ein Graf und sechs Thayns zum Opfer.
+      <DefaultText>Im Jahr 2626 AI warf eine Gruppe von Bauern, die Ackerland schaffen wollte, versehentlich einen der uralten Adrahinkelsteine auf ihrem Land um. Dieses unschuldige Versehen weckte den Zorn der Ureinwohner und führte zum Ausbruch des Kriegs des Zerbrochenen Steins. Im Verlauf des Kriegs starben mehrere tausend Kolonisten und einige hundert Glanfathaner. Nachdem der Krieg offiziell beendet war, setzten die Glanfathaner noch zwei Jahre lang ihre Angriffe auf die Siedler mit unverminderter oder gar noch gesteigerter Aggressivität fort. Ihren brutalen Taktiken fielen unzählige Kolonisten, mehrere hochrangige Militärs, ein Graf und sechs Thayns zum Opfer.
 
 Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angriffen ein Ende zu bereiten. Edrang war angesehen und galt als Meister der militärischen Taktik. Er erhielt den Auftrag, die glanfathanische Bedrohung zu beseitigen. Zwei Jahre lang bekämpfte Edrang die Glanfathaner, die von einem Orlaner namens Regd angeführt wurden. Keine der beiden Seiten konnte einen entscheidenden Vorteil gegenüber der anderen erlangen. Es kam zu einer angespannten Pattsituation. Dieses Patt führte dazu, dass die Feindseligkeiten sich im Sande verliefen. Im Jahr 2631 unterzeichneten die Dyrwälder einen Vertrag mit den Glanfathanern. Regd legte sein Amt nieder, die Glanfathaner stellten ihre Angriffe ein und die Dyrwälder betraten die Ruinen nicht mehr. Der Vertrag erzürnte den Adel von Aedyr, da er den Nachschub an Artefakten versiegen ließ. Edrang versuchte auch, die Sklaverei verbieten zu lassen, was ihm jedoch nicht gelang. Der Frieden zwischen dem Dyrwald und Eir&#160;Glanfath war daher instabil und wackelig. Es kam immer wieder zu kleinen gewalttätigen Auseinandersetzungen auf dem Lande. Diese waren aber nie von langer Dauer, da keine Seite einen weiteren Krieg wollte.</DefaultText>
       <FemaleText />
@@ -9150,22 +9150,22 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1611</ID>
-      <DefaultText>Geisterwandlerfell</DefaultText>
+      <DefaultText>Gestaltwandlerfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1612</ID>
-      <DefaultText>Beim Geisterwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen.</DefaultText>
+      <DefaultText>Beim Gestaltwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText>Fell eines Geisterwandlerbären</DefaultText>
+      <DefaultText>Fell eines Gestaltwandlerbären</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Beim Geisterwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen. Das Fell der Bärengestalt ist besonders widerstandsfähig.</DefaultText>
+      <DefaultText>Beim Gestaltwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen. Das Fell der Bärengestalt ist besonders widerstandsfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9716,12 +9716,12 @@ Retsim Namotatop</DefaultText>
     </Entry>
     <Entry>
       <ID>1708</ID>
-      <DefaultText>Leuchtender Adra-Splitter</DefaultText>
+      <DefaultText>Leuchtender Adrasplitter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1709</ID>
-      <DefaultText>Dieser Adra-Splitter ist von Licht durchzogen, das unter seiner facettenartigen Oberfläche leuchtet wie strahlende Glanzadern, von einem Herz aus Feuer genährt.</DefaultText>
+      <DefaultText>Dieser Adrasplitter ist von Licht durchzogen, das unter seiner facettenartigen Oberfläche leuchtet wie strahlende Glanzadern, von einem Herz aus Feuer genährt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10448,7 +10448,7 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1822</ID>
-      <DefaultText>Alle Geisterwandlergestalten des Druiden besitzen furchterregende natürliche Waffen, von Krallen über Zähne bis zu Geweihen.</DefaultText>
+      <DefaultText>Alle Gestaltwandlerformen des Druiden besitzen furchterregende natürliche Waffen, von Krallen über Zähne bis zu Geweihen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10956,7 +10956,7 @@ Fennlan-Schnaps wird ausschließlich in der kleinen readceranischen Stadt Fennla
     </Entry>
     <Entry>
       <ID>1920</ID>
-      <DefaultText>Weiße Adra-Edelsteine</DefaultText>
+      <DefaultText>Weiße Adraedelsteine</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13284,7 +13284,7 @@ Die Mordaxt ist nach dem Vorbild des Windes selbst gefertigt. In den Axtkopf ist
     </Entry>
     <Entry>
       <ID>2309</ID>
-      <DefaultText>Ine Gyrd ist das berühmteste Zepter in Aedyr und vielleicht in ganz Eora. Es befindet sich im gemeinsamen Besitz der Mecwyn und des Fercönyngs, als Symbol der königlichen Autorität. Man sagt, es trage die Seelen früher Häuptlinge in seinem Adra-Kopf. Obwohl es traditionell als rein symbolisch gilt, kam es im Laufe seiner Geschichte zu mehreren berühmten Gelegenheiten auch tatsächlich zum Einsatz.
+      <DefaultText>Ine Gyrd ist das berühmteste Zepter in Aedyr und vielleicht in ganz Eora. Es befindet sich im gemeinsamen Besitz der Mecwyn und des Fercönyngs, als Symbol der königlichen Autorität. Man sagt, es trage die Seelen früher Häuptlinge in seinem Adrakopf. Obwohl es traditionell als rein symbolisch gilt, kam es im Laufe seiner Geschichte zu mehreren berühmten Gelegenheiten auch tatsächlich zum Einsatz.
 
 Bei einer solchen Gelegenheit beanspruchte eine ältere Halbschwester von Mecwyn Eleya deren Thron, weil sie die rechtmäßige Erbin sei. Eleya lud sie an ihren Hof ein, auf dass die Leute ihre Argumente mit eigenen Ohren hören und sich selbst ein Urteil bilden könnten. Die Frau sprach lange und legte eine Reihe beeidigter Dokumente vor. Eleya rief sie zum Thron und sagte ihr, dass die Mecwyn abdanken würde, wenn die Häuptlinge von Ine Gyrd die Thronanwärterin für würdig befänden.</DefaultText>
       <FemaleText />

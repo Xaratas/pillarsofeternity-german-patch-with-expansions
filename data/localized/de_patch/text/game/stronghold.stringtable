@@ -556,7 +556,7 @@ Der Stamm von Ausgestoßenen konnte die Druidin bisher nicht finden. Die übrige
       <ID>107</ID>
       <DefaultText>Anhand der Informationen der Zweimal Gespaltenen Pfeile gelang es {0}, die wahnsinnige Druidin in die Wälder nördlich von Dyrfurt zu verfolgen. Es war jedoch kaum möglich, ein Gespräch mit der Druidin zu führen, da ihre Emotionen jäh und oft gewalttätig von einem Extrem ins andere umschlugen.
 
-Schließlich fand {0} heraus, dass die Seele der Druidin erweckt worden war, als sie gerade geisterwandelte. Ihre erweckte Seele wurde besessen davon, das Fell des Bären zu finden und an sich zu nehmen, den ihr früherer Besitzer vor vielen Generationen erlegt hatte. Schließlich attackierte die Druidin {0} und einige Einheimische von Dyrfurt und wurde im Kampf getötet.
+Schließlich fand {0} heraus, dass die Seele der Druidin erweckt worden war, als sie gerade gestaltwandelte. Ihre erweckte Seele wurde besessen davon, das Fell des Bären zu finden und an sich zu nehmen, den ihr früherer Besitzer vor vielen Generationen erlegt hatte. Schließlich attackierte die Druidin {0} und einige Einheimische von Dyrfurt und wurde im Kampf getötet.
 
 Die Zweimal Gespaltenen Pfeile waren dankbar, dass sie ihr Bärenfell zurückerhielten, aber auch betrübt über den Ausgang der Geschichte. Sie gaben {0} als Abschiedsgeschenk ein Paar meisterhaft gefertigte Jagdstiefel.</DefaultText>
       <FemaleText />
@@ -735,9 +735,9 @@ Da die Apahuillo wenig Erfahrung mit Adrasäulen haben, bitten sie Readceraner, 
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Die Reise in die Ixamitl-Ebenen war größtenteils ereignislos, aber bei der Ankunft im Adra-Kreis von Apahuillo entdeckte {0} einen grauenhaften Anblick. Über 50 versteinerte Einheimische befanden sich in dem Kreis.
+      <DefaultText>Die Reise in die Ixamitl-Ebenen war größtenteils ereignislos, aber bei der Ankunft im Adrakreis von Apahuillo entdeckte {0} einen grauenhaften Anblick. Über 50 versteinerte Einheimische befanden sich in dem Kreis.
 
-Nach einigen Tagen der Nachforschungen entdeckte {0}, dass die Entführungen alle zu bestimmten Nachtzeiten und in einem bestimmten Muster einige Meilen um die Steine herum geschahen. Mit der Hilfe eines Mathematikers und Philosophen aus Apahuillo konnte {0} den Mörder enttarnen – eine extrem mächtige Adragan, die den Adra-Kreis seit Jahrhunderten beschützte. Als Gestandene den geheimen Ort entdeckten, begann sie, systematisch jeden zu jagen und zu versteinern, der in der Nähe der Stätte lebte und sie zu Fuß erreichen könnte.
+Nach einigen Tagen der Nachforschungen entdeckte {0}, dass die Entführungen alle zu bestimmten Nachtzeiten und in einem bestimmten Muster einige Meilen um die Steine herum geschahen. Mit der Hilfe eines Mathematikers und Philosophen aus Apahuillo konnte {0} den Mörder enttarnen – eine extrem mächtige Adragan, die den Adrakreis seit Jahrhunderten beschützte. Als Gestandene den geheimen Ort entdeckten, begann sie, systematisch jeden zu jagen und zu versteinern, der in der Nähe der Stätte lebte und sie zu Fuß erreichen könnte.
 
 {0} führte mit der Hilfe von Einheimischen eine langwierige Schlacht gegen die Kreatur.</DefaultText>
       <FemaleText />
@@ -1019,7 +1019,7 @@ Letztlich waren die vailianischen Ducs etwas enttäuscht, da sie gehofft hatten,
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Im Hof der verneigenden Eschen steht eine gewaltige Adra-Statue, die mit lebenden Bäumen verbunden ist. Sie stammt aus der Zeit der Engwithaner und man vermutet, dass sie einen orlanischen Herrscher dieses verlorenen Reichs zeigt.
+      <DefaultText>Im Hof der verneigenden Eschen steht eine gewaltige Adrastatue, die mit lebenden Bäumen verbunden ist. Sie stammt aus der Zeit der Engwithaner und man vermutet, dass sie einen orlanischen Herrscher dieses verlorenen Reichs zeigt.
 
 Der natürliche Lauf der Zeit hat der Statue zwar etwas zugesetzt, aber die Glanfathaner erinnern sich auch an einen Akt des Vandalismus aus der frühen Kolonialzeit. Im Chaos des Kriegs des Zerbrochenen Steins drangen aedyrische Entdecker tief nach Eir Glanfath vor, verschafften sich Zugang zum Hof der verneigenden Eschen und kletterten auf die Statue, um ein einziges Auge auszubrechen – so groß wie der Kopf eines Aumaua und aus purem Adra. Der Großteil dieser Bande wurde von den Glanfathanern geschnappt und getötet, aber das Auge wurde nie gefunden.
 
@@ -1028,7 +1028,7 @@ Seit einigen Jahren gibt es Gerüchte im Östlichen Abschnitt, dass ein neuer �
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Eine erschöpfende Suche und Nachforschung in drei Ländern war nötig, aber schließlich fand {0} eine Spur des gestohlenen Adra-Auges. Nach dem Krieg des Zerbrochenen Steins reiste der aumauische Dieb nach Süden, nach Abet, von dort weiter nach Naasitaq. Unter den Nordzwergen fand der Dieb einen reichen Käufer, den Anführer eines wohlhabenden Stammes. Eine Generation später wendete sich das Schicksal des Stammes und er wurde sowohl von Piraten aus dem Todesfeuer-Archipel als auch von Bleichelfen aus dem Ewigen Weiß überfallen. Die Bleichelfen verkauften das gestohlene Auge an Kaufleute aus Alt-Vailia. Diese brachten es nach Norden, zum Prinzen von Darcozzi, wo es zwei Generationen lang verblieb.
+      <DefaultText>Eine erschöpfende Suche und Nachforschung in drei Ländern war nötig, aber schließlich fand {0} eine Spur des gestohlenen Adraauges. Nach dem Krieg des Zerbrochenen Steins reiste der aumauische Dieb nach Süden, nach Abet, von dort weiter nach Naasitaq. Unter den Nordzwergen fand der Dieb einen reichen Käufer, den Anführer eines wohlhabenden Stammes. Eine Generation später wendete sich das Schicksal des Stammes und er wurde sowohl von Piraten aus dem Todesfeuer-Archipel als auch von Bleichelfen aus dem Ewigen Weiß überfallen. Die Bleichelfen verkauften das gestohlene Auge an Kaufleute aus Alt-Vailia. Diese brachten es nach Norden, zum Prinzen von Darcozzi, wo es zwei Generationen lang verblieb.
 
 Als der Darcozzi-Palast geplündert wurde, nahm einer der Invasoren das Auge als Kriegsbeute an sich und brachte es über das Meer nach Ozia in den Vailianischen Republiken. Dort befand es sich noch immer, als {0} eintraf. Der reiche Patriarch, in dessen Besitz sich das Auge befand, verlangte zwar eine dreiste Summe, aber die glanfathanischen Anamfatha zögerten nicht, diesen hohen Preis zu bezahlen.</DefaultText>
       <FemaleText />
@@ -1190,7 +1190,7 @@ Manche fürchten, sie sei für ihre Prahlerei getötet worden. Andere fürchten,
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Eine Beseelerin durch den massiven Fels von Eora zu verfolgen erwies sich als schwierige Aufgabe für {0}. Durch Gespräche mit verschiedenen vailianischen Kartographen und Entdeckern konnte {0} ein gewaltiges Höhlennetzwerk in den Bergen nördlich von Gualfi durchqueren, das entlang mehrerer langer Adra-Adern verlief.
+      <DefaultText>Eine Beseelerin durch den massiven Fels von Eora zu verfolgen erwies sich als schwierige Aufgabe für {0}. Durch Gespräche mit verschiedenen vailianischen Kartographen und Entdeckern konnte {0} ein gewaltiges Höhlennetzwerk in den Bergen nördlich von Gualfi durchqueren, das entlang mehrerer langer Adraadern verlief.
 
 Die Hilfe von fünf angesehenen Beseelern war nötig, um Accetta zu kontaktieren. Sie antwortete durch aufblitzende Bilder, die sie durch das Adra schickte. Unglücklicherweise lockte das Pulsieren im Adra eine besonders feindselige Gemeinde Vithracks an. {0} und die Beseeler waren gezwungen, sich vorübergehend in einen anderen Teil des Höhlennetzwerks zurückzuziehen.
 
@@ -1238,7 +1238,7 @@ Diese letzten Sagen sollen ihr Lebenswerk vervollständigen und sie ist auf der 
       <ID>201</ID>
       <DefaultText>{0} benötigte mehr als drei Versuche, die Glamfellen aus dem Ewigen Weiß zu kontaktieren, ohne angegriffen zu werden. Als Amaia endlich mit den Ältesten sprechen durfte, schrieb sie ihre Geschichten über die Herkunft der Glamfellen nieder&#160;… darüber, wie sie vor so langer Zeit am unteren Ende der Welt angelangten.
 
-Zugang zur heiligen Adra-Grabstätte der aedyrischen Kaiser zu erhalten, zur Ine Sycthrúa, erforderte mehr als nur ein wenig List. Obwohl Amaia nur wenige Minuten mit den Geistern der toten Kaiser sprechen konnte, reichte das aus, um diesen Teil ihrer Forschung abzuschließen.
+Zugang zur heiligen Adragrabstätte der aedyrischen Kaiser zu erhalten, zur Ine Sycthrúa, erforderte mehr als nur ein wenig List. Obwohl Amaia nur wenige Minuten mit den Geistern der toten Kaiser sprechen konnte, reichte das aus, um diesen Teil ihrer Forschung abzuschließen.
 
 Die Weisen von Eir Glanfath, die Rîow, gewährten Amaias Bitte zwar, befragten sie aber tagelang, um sicherzugehen, dass sie ihre heiligen Geheimnisse nicht teilen oder ihr Volk in schlechtem Licht dastehen lassen würde. Die Rîow erzählten Amaia ihre Geschichten über die frühen Tage von Eir Glanfath. Wie sie dort angekommen waren und wie sie die Anweisung erhalten hatten, für alle Zeiten die engwithanischen Ruinen zu bewachen.
 
