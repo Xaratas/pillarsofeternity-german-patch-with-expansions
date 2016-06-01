@@ -300,7 +300,7 @@ Er verschränkt die Arme. „Ich hatte immer geglaubt, Iselmyr sei eine Krankhei
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er verdreht die Augen. „Du kannst mich ja gerne dramatisch nennen, aber ist die Existenz oder das Fehlen mächtiger Wesen, die unser Schicksal nach unserem Tod kontrollieren nicht Grund genug, sich zu sorgen? Fragst du dich nicht, in welchem Zustand wir wären, wenn es keine Macht gäbe, die uns in diesem Leben leitet, und uns ins nächste führt?“</DefaultText>
+      <DefaultText>Er verdreht die Augen. „Du kannst mich ja gerne dramatisch nennen, aber ist die Existenz oder das Fehlen mächtiger Wesen, die unser Schicksal nach unserem Tod kontrollieren, nicht Grund genug, sich zu sorgen? Fragst du dich nicht, in welchem Zustand wir wären, wenn es keine Macht gäbe, die uns in diesem Leben leitet, und uns ins nächste führt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@ Nach mehreren Sekunden seufzt er und schaut zu dir zurück.
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Was für einen Unterschied macht das denn? Die Leute werden so sein wie sie sind, ganz gleich, ober sie an Götter glauben oder nicht.“</DefaultText>
+      <DefaultText>„Was für einen Unterschied macht das denn? Die Leute werden so sein, wie sie sind, ganz gleich, ob sie an Götter glauben oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
