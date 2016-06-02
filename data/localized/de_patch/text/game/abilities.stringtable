@@ -4266,7 +4266,7 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>Der Barbar stellt sich tapfer jedem Angreifer. Gewährt einen Bonus auf Nahkampfschaden, wenn der Barbar von zwei oder mehr Feinden angegriffen wird. Der Barbar kann nicht flankiert werden, sofern er nicht von mehr als drei Feinden angegriffen wird.</DefaultText>
+      <DefaultText>Der Barbar stellt sich tapfer jedem Angreifer. Gewährt einen Bonus auf Nahkampfschaden, wenn der Barbar neben zwei oder mehr Feinden steht. Der Barbar kann nicht flankiert werden, sofern er nicht von mehr als drei Feinden angegriffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4521,7 +4521,7 @@
     </Entry>
     <Entry>
       <ID>921</ID>
-      <DefaultText>Ermöglicht es dem Schurken, jegliche Kampfhandlung zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen, wobei er außer Reichweite eines bestimmten Ortes springt.</DefaultText>
+      <DefaultText>Ermöglicht es dem Schurken, jegliche Kampfhandlung zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen, wobei er außer Reichweite eines bestimmten Ortes springt und einen temporären Verteidigungsbonus erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4536,7 +4536,7 @@
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Der Schurke sucht nach Möglichkeiten zu einem Gegenangriff im Kampf. Bei eingehenden Nahkampfangriffen, die auf Abwehr und Fehlschlag gerichtet sind, besteht eine Wahrscheinlichkeit, dass ein sofortiger Gegenschlag möglich ist. Nur aktiv, wenn Nahkampfwaffen ausgerüstet sind.</DefaultText>
+      <DefaultText>Der Schurke sucht nach Möglichkeiten zu einem Gegenangriff im Kampf. Bei eingehenden Nahkampfangriffen, die auf Abwehr und Fehlschlag oder Leichte Treffer gerichtet sind, besteht eine Wahrscheinlichkeit, dass ein sofortiger Gegenschlag möglich ist. Nur aktiv, wenn Nahkampfwaffen ausgerüstet sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt viele Leichte Treffer in Fehlschläge.</DefaultText>
+      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt viele Treffer in Leichte Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5515,7 +5515,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Wenn er eine Einhand-Nahkampfwaffe einsetzt, werden einige der Leichten Treffer des Angreifers in Treffer umgewandelt.</DefaultText>
+      <DefaultText>Wenn er eine Einhand-Nahkampfwaffe einsetzt, werden einige der Treffer des Angreifers in Kritische Treffer umgewandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
