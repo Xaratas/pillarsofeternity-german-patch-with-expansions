@@ -12231,12 +12231,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2455</ID>
-      <DefaultText>{0} of Hits converted to Crits with one-handed melee weapons</DefaultText>
+      <DefaultText>{0} der T&#x2060;reffer umgewandelt zu Kritischen Treffern mit Einhand-Nahkampfwaffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2456</ID>
-      <DefaultText>{0} of incoming Hits converted to Grazes (Reflex only)</DefaultText>
+      <DefaultText>{0} der eingehenden T&#x2060;reffer umgewandelt zu Leichten Treffern (Nur Reflex)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
