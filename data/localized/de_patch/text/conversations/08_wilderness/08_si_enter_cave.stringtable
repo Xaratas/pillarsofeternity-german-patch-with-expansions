@@ -38,7 +38,7 @@ In der Nähe des Abhangs liegt ein großer Felsen. Er wirkt massiv und robust.</
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Der Wind wird stärker und lässt [SkillCheck 1] gegen die Wand krachen. [SkillCheck 1] lässt das Seil los und beginnt zu fallen.</DefaultText>
+      <DefaultText>Der Wind wird stärker und lässt [SkillCheck 0] gegen die Wand krachen. [SkillCheck 0] lässt das Seil los und beginnt zu fallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
