@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2424</EntryCount>
+  <EntryCount>2426</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12227,6 +12227,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2454</ID>
       <DefaultText>Greife {1} anstatt {0} an, wenn {1} niedriger ist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2455</ID>
+      <DefaultText>{0} of Hits converted to Crits with one-handed melee weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2456</ID>
+      <DefaultText>{0} of incoming Hits converted to Grazes (Reflex only)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
