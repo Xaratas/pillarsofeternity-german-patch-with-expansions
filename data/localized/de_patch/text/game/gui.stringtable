@@ -6115,7 +6115,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} {1}-Zeitschaden bei T&#x2060;reffer</DefaultText>
+      <DefaultText>{0} {1}-Zeitschaden bei ausgeteilten Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
