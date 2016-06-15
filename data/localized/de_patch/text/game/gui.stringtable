@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2424</EntryCount>
+  <EntryCount>2426</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6115,7 +6115,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} {1}-Zeitschaden bei T&#x2060;reffer</DefaultText>
+      <DefaultText>{0} {1}-Zeitschaden bei ausgeteilten Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12227,6 +12227,16 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2454</ID>
       <DefaultText>Greife {1} anstatt {0} an, wenn {1} niedriger ist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2455</ID>
+      <DefaultText>{0} der T&#x2060;reffer umgewandelt zu Kritischen Treffern mit Einhand-Nahkampfwaffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2456</ID>
+      <DefaultText>{0} der eingehenden T&#x2060;reffer umgewandelt zu Leichten Treffern (Nur Reflex)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

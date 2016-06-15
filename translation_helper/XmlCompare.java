@@ -18,14 +18,14 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * Einfacher Text Prüfer für Pillars of Eternity Stringtable Dateien. Könnt man Teilweise in einen Commit Hook wandeln.
+ * Einfacher Textprüfer für Pillars of Eternity Stringtable Dateien. Könnte man teilweise in einen Commit Hook wandeln.
  * 
  * @author xar
  *
  */
 public class XmlCompare {
 
-	/** modus 0 = 2 Sprachen vergleichen, modus 1 = Alle Sprachen vegleichen. */
+	/** modus 0 = 2 Sprachen vergleichen, modus 1 = Alle Sprachen vergleichen. */
 	private int modus = 1;
 	/** gender 0 = Default Text, gender 1 = Female Text, gender 2 = alle */
 	private int gender = 0;
@@ -139,7 +139,7 @@ public class XmlCompare {
 
 
 	/**
-	 * Ließt syncron über alle Sprachvarianten die gleichen ids. Die Texte in lines können dann verschiedenen Checkfunktionen zugefürt werden.
+	 * Liest syncron über alle Sprachvarianten die gleichen ids. Die Texte in lines können dann verschiedenen Checkfunktionen zugeführt werden.
 	 * 
 	 * @param file
 	 *            - Basis Datei, für die anderen Sprachen wird nur der Language Ordner im Pfad ersetzt.
@@ -353,7 +353,7 @@ public class XmlCompare {
 	}
 
 	/**
-	 * Gibts eine Übersetzung wenn es den englischen Text gibt?
+	 * Gibts eine Übersetzung, wenn es den englischen Text gibt?
 	 * 
 	 * @param file
 	 * @param line
@@ -443,7 +443,7 @@ public class XmlCompare {
 	}
 
 	/**
-	 * Alle Anführungszeichen in der von uns gewünschten version? Und Paarweise? Auslassungszeichen sind noch nicht behandelt.
+	 * Alle Anführungszeichen in der von uns gewünschten Version? Und Paarweise? Auslassungszeichen sind noch nicht behandelt.
 	 * 
 	 * @param text
 	 * @param filePrinted
