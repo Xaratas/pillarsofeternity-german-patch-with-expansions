@@ -4561,7 +4561,7 @@
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Der Schurke wechselt in einer schnellen Bewegung die Position mit einem Ziel innerhalb von 1&#160;m, wodurch jegliche Kampfhandlung aufgelöst wird. Automatisch, wenn ein Verbündeter anvisiert wird, muss ansonsten gegen die Reflexe eines Feindes erfolgreich sein.</DefaultText>
+      <DefaultText>Der Schurke wechselt in einer schnellen Bewegung die Position mit einem Ziel innerhalb von 1&#160;m, wodurch jegliche Kampfhandlung aufgelöst wird. Das gelingt automatisch, wenn ein Verbündeter anvisiert wird, ansonsten muss ein Wurf gegen die Reflexe des Feindes erfolgreich sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
