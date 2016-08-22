@@ -3750,7 +3750,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Während einer Friedensverhandlung schoss ein Bogenschütze aus dem Reich von Aedyr der adligen Abgesandten von Kulkin, Elcga, in den Arm, um einen Kampf zu provozieren. Nichtsdestotrotz machte Elcga einen zweiten Verhandlungsversuch und wurde währenddessen von drei Elfenkriegern begleitet, die nur mit einem Schild ausgerüstet waren, den sie vor Elcga hielten, um sie zu beschützen. Elcga hatte Erfolg und half bei der Gründung des Reiches Aedyr mit. Die Ritter, die sie beschützt hatten, gründeten die Schildknappen der heiligen Elcga, die weiterhin als Beschützer und Diplomaten in Aedyr und jenseits davon agieren. Sie sind für ihre Rechtschaffenheit und ihre Verhandlungsfertigkeit sehr bekannt.</DefaultText>
+      <DefaultText>Während einer Friedensverhandlung schoss ein Bogenschütze aus dem Reich von Aedyr der adligen Abgesandten von Kulklin, Elcga, in den Arm, um einen Kampf zu provozieren. Nichtsdestotrotz machte Elcga einen zweiten Verhandlungsversuch und wurde währenddessen von drei Elfenkriegern begleitet, die nur mit einem Schild ausgerüstet waren, den sie vor Elcga hielten, um sie zu beschützen. Elcga hatte Erfolg und half bei der Gründung des Reiches Aedyr mit. Die Ritter, die sie beschützt hatten, gründeten die Schildknappen der heiligen Elcga, die weiterhin als Beschützer und Diplomaten in Aedyr und jenseits davon agieren. Sie sind für ihre Rechtschaffenheit und ihre Verhandlungsfertigkeit sehr bekannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12141,12 +12141,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2435</ID>
-      <DefaultText>Lord Byrnwigars Truppen wurden gesichtet wie sie sich der Festung nähern. Sie werden bald eintreffen!</DefaultText>
+      <DefaultText>Lord Brynwigars Truppen wurden gesichtet wie sie sich der Festung nähern. Sie werden bald eintreffen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2436</ID>
-      <DefaultText>Byrnwigars Truppen</DefaultText>
+      <DefaultText>Brynwigars Truppen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
