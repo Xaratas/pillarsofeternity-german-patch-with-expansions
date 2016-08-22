@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>„Endlich! Ich bin froh, dass Sie hier sind, mein Fürst. Ich heiße Solmar. Ich habe eine wichtige Angelegenheit zu besprechen, wenn Sie Zeit haben.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Endlich! Ich bin froh, dass Sie hier sind, meine Fürstin. Ich heiße Solmar. Ich habe eine wichtige Angelegenheit zu besprechen, wenn Sie Zeit haben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -218,7 +218,7 @@ Solmars Schreie sind weiter zu hören, während die Wachen ihn aus dem Saal zerr
     <Entry>
       <ID>42</ID>
       <DefaultText>„Mein Fürst? Was haben Sie mit diesen Orlanern vor?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Meine Fürstin? Was haben Sie mit diesen Orlanern vor?“</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
