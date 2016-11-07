@@ -56,8 +56,8 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor Kurzem hast du dir deinen Lebensunterhalt als Händler verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</DefaultText>
-      <FemaleText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor Kurzem hast du dir deinen Lebensunterhalt als Händlerin verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</FemaleText>
+      <DefaultText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor kurzem hast du dir deinen Lebensunterhalt als Händler verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</DefaultText>
+      <FemaleText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor kurzem hast du dir deinen Lebensunterhalt als Händlerin verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Calisca hatte ihr Missfallen darüber zum Ausdruck gebracht, an einem Ort zu rasten, wo man im Schlaf von Plünderern ermordet werden könnte. Trotz Heodans Wunden entschlosst du dich zum Weitergehen.</DefaultText>
+      <DefaultText>Calisca hatte ihr Missfallen darüber zum Ausdruck gebracht, an einem Ort zu rasten, wo man im Schlaf von Plünderern ermordet werden könnte. Trotz Heodans Wunden entschlossest du dich zum Weitergehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Als du in Goldtal ankamst, fandest du das Dorf nicht als die wachsende und florierende Siedlung vor, als das es dir beschrieben worden war. Stattdessen fandest du ein sterbendes Dorf vor, das der Gnade eines Phänomens namens Waidwens Vermächtnis ausgeliefert war, und ein örtlicher Magistrat hieß dich kühl willkommen. Deine Aussichten, dich in Goldtal niederzulassen, waren eh bereits ziemlich düster, aber als das Glockengeläut von Raedrics Festung das schlimme Schicksal des neugeborenen Kindes ihres Herren verkündete, schienen sie ganz zerschmetter zu werden. Der Magistrat riet dir, dich in der Schänke auszuruhen.</DefaultText>
+      <DefaultText>Als du in Goldtal ankamst, fandest du das Dorf nicht als die wachsende und florierende Siedlung vor, als das es dir beschrieben worden war. Stattdessen fandest du ein sterbendes Dorf vor, das der Gnade eines Phänomens namens Waidwens Vermächtnis ausgeliefert war, und ein örtlicher Magistrat hieß dich kühl willkommen. Deine Aussichten, dich in Goldtal niederzulassen, waren eh bereits ziemlich düster, aber als das Glockengeläut von Raedrics Festung das schlimme Schicksal des neugeborenen Kindes ihres Herren verkündete, schienen sie ganz zerschmettert zu werden. Der Magistrat riet dir, dich in der Schänke auszuruhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Anstatt die Seelen zu befreien oder zu zerstören entschlosst du dich, die Maschine auf Teir Nowneth zu benutzen, um dich selbst mit der darin gefangenen Essenz zu stärken.</DefaultText>
+      <DefaultText>Anstatt die Seelen zu befreien oder zu zerstören entschlossest du dich, die Maschine auf Teir Nowneth zu benutzen, um dich selbst mit der darin gefangenen Essenz zu stärken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Nach all dem, was du gesehen hattest, konntest du Lady Webb davon überzeugen, dass der Bleierne Schlüssel hinter Waidwens Vermächtnis steckt, und dass es zu ihrer Verschwörung gehört, Beseelern die Schuld dafür zuzuschieben. Sie riet dir, Duc Aevar Wolfsgrinsen aufzusuchen, der derzeit in seinem Palast Anhörungen über die Zukunft der Beseelung abhält. Sie war der Meinung, das er dir zuhören würde, sofern du dir eine Einladung zu den Anhörungen verschaffen könntest.</DefaultText>
+      <DefaultText>Nach all dem, was du gesehen hattest, konntest du Lady Webb davon überzeugen, dass der Bleierne Schlüssel hinter Waidwens Vermächtnis steckt, und dass es zu ihrer Verschwörung gehört, Beseelern die Schuld dafür zuzuschieben. Sie riet dir, Duc Aevar Wolfsgrinsen aufzusuchen, der derzeit in seinem Palast Anhörungen über die Zukunft der Beseelung abhält. Sie war der Meinung, dass er dir zuhören würde, sofern du dir eine Einladung zu den Anhörungen verschaffen könntest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Du folgtest Thaos’ Spur zur Dunrydstraße, deren Medien du allesamt ermordet auffandest&#160;– darunter Lady Webb. Durch die Untersuchung ihrer Seele nach den letzten Moment ihres Lebens konntest du jedoch erfahren, dass sich Thaos als Nächstes nach Zwillingsulmen begeben würde.</DefaultText>
+      <DefaultText>Du folgtest Thaos’ Spur zur Dunrydstraße, deren Medien du allesamt ermordet auffandest&#160;– darunter Lady Webb. Durch die Untersuchung ihrer Seele nach dem letzten Moment ihres Lebens konntest du jedoch erfahren, dass sich Thaos als Nächstes nach Zwillingsulmen begeben würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Berath verlangte die Tode des Erzdruiden Rehstin von den Ethik Nôl sowie von Erona, der Hochovatin des Goldenen Hains. Und du erfülltest seinen Wunsch.</DefaultText>
+      <DefaultText>Berath verlangte die Tode des Erzdruiden Rehstin von den Ethik Nôl sowie von Erona, der Hoheovatin des Goldenen Hains. Und du erfülltest seinen Wunsch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Du stammst aus [Player Culture], wo du Verbrechen beschuldigt und im Gefängnis saßt.</DefaultText>
+      <DefaultText>Du stammst aus [Player Culture], wo du Verbrechen beschuldigt wurdest und im Gefängnis saßt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Obwohl du aus [Player Culture] stammst, haste du deine Tage auf dem Meer bei denen zugebracht, die andere unterjochen.</DefaultText>
+      <DefaultText>Obwohl du aus [Player Culture] stammst, hast du deine Tage auf dem Meer bei denen zugebracht, die andere unterjochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +826,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Als ehemaliges Mitglied des Klerus deines Heimatlandes [Player Culture] entschlosst du dich schließlich, ihm den Rücken zu kehren.</DefaultText>
+      <DefaultText>Als ehemaliges Mitglied des Klerus deines Heimatlandes [Player Culture] entschlossest du dich schließlich, ihm den Rücken zu kehren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Du stammst ursprünglich aus [Player Culture], wo dich die Aussicht auf Plünderungen auf hoher See zu einem Piratenleben verleiteten.</DefaultText>
+      <DefaultText>Du stammst ursprünglich aus [Player Culture], wo dich die Aussicht auf Plünderungen auf hoher See zu einem Piratenleben verleitete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1086,7 +1086,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Dort beschlosst du, dass deine Strafe viel zu lang war, nahmst ihre Verkürzung durch einen Gefängnisausbruch in die eigenen Hände und zogst somit ein Leben auf der Flucht einem in Ketten vor.</DefaultText>
+      <DefaultText>Dort beschlossest du, dass deine Strafe viel zu lang war, nahmst ihre Verkürzung durch einen Gefängnisausbruch in die eigenen Hände und zogst somit ein Leben auf der Flucht einem in Ketten vor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1261,7 +1261,7 @@
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Begierig darauf, dich zu beweisen, nahmst du es mit einem berüchtigten Biest auf, aber du musstest herausfinden, dass der Tod deine Trophäe bereits für sich beansprucht hatte. Deiner Ambitionen beraubt entschlosst du dich, deinem Heimatland den Rücken zu kehren.</DefaultText>
+      <DefaultText>Begierig darauf, dich zu beweisen, nahmst du es mit einem berüchtigten Biest auf, aber du musstest herausfinden, dass der Tod deine Trophäe bereits für sich beansprucht hatte. Deiner Ambitionen beraubt entschlossest du dich, deinem Heimatland den Rücken zu kehren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,12 +1276,12 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Du hegtest Ambitionen, die über das Leben eines Jägers hinausgingen. Dein Dorf verdammte dich für deine Entscheidung, und dein Aufbruch brachte allen großen Schande.</DefaultText>
+      <DefaultText>Du hegtest Ambitionen, die über das Leben eines Jägers hinausgingen. Dein Dorf verdammte dich für deine Entscheidung, sodass dein Aufbruch mit dem Stigma der Schande belegt war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>Dein Fischerboot konnte aber bei der Geschwindigkeit mit viel größeren Schiffen nicht mithalten, und im Laufe der Zeit wurden die Fischbestände knapp. Den Hungertod vor Augen sahst du dich gezwungen, fortzugehen.</DefaultText>
+      <DefaultText>Dein Fischerboot konnte aber mit der Geschwindigkeit von viel größeren Schiffen nicht mithalten, und im Laufe der Zeit wurden die Fischbestände knapp. Den Hungertod vor Augen sahst du dich gezwungen, fortzugehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Die Verantwortung, eine Familie zu ernähren, begann aber schwer auf dir zu lasten. Du entschlosst dich zu gehen und deine Verantwortungen zurückzulassen.</DefaultText>
+      <DefaultText>Die Verantwortung, eine Familie zu ernähren, begann aber schwer auf dir zu lasten. Du entschlossest dich zu gehen und deine Verantwortungen zurückzulassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Eines Tages beschlosst du, einen Adligen vorzuführen, indem du ihm ins Essen spucktest. Dies stellte sich als folgenschwere Entscheidung heraus. Als Reaktion auf deine Tat machte er dir das Leben zur Qual, und bevor die Angelegenheit noch weiter eskalierte, musstest du aus deinem Zuhause fliehen.</DefaultText>
+      <DefaultText>Eines Tages beschlossest du, einen Adligen vorzuführen, indem du ihm ins Essen spucktest. Dies stellte sich als folgenschwere Entscheidung heraus. Als Reaktion auf deine Tat machte er dir das Leben zur Qual, und bevor die Angelegenheit noch weiter eskalierte, musstest du aus deinem Zuhause fliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1346,7 +1346,8 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Deine Arbeitgeber wussten deine kulinarischen Meisterwerke aber nicht zu schätzen, um im Laufe der Zeit begannst du, ihre unkultivierten Geschmäcker zu verachten. Du beschlosst, dass deine Bemühungen andernorts besser aufgehoben wären.</DefaultText>
+      <DefaultText>Deine Arbeitgeber wussten deine kulinarischen Meisterwerke aber nicht zu schätzen, um im Laufe der Zeit begannst du, ihre unkultivierten Geschmäcker zu verachten. Du beschlossest, dass deine Bemühungen andernorts besser aufgehoben wären.</DefaultText>
+      <DefaultText>Deine Arbeitgeber wussten deine kulinarischen Meisterwerke aber nicht zu schätzen, um im Laufe der Zeit begannst du, ihre unkultivierten Geschmäcker zu verachten. Du beschlossest, dass deine Bemühungen andernorts besser aufgehoben wären.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1376,13 +1377,13 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>Das Leben eines Söldners kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldner eines gefährlichen Individuums wieder. Du brachst in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt, zur Arbeitssuche auf.</DefaultText>
-      <FemaleText>Das Leben einer Söldnerin kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldnerin eines gefährlichen Individuums wieder. Du brachst in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt, zur Arbeitssuche auf.</FemaleText>
+      <DefaultText>Das Leben eines Söldners kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldner eines gefährlichen Individuums wieder. Du brachst zur Arbeitssuche auf, in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt.</DefaultText>
+      <FemaleText>Das Leben einer Söldnerin kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldnerin eines gefährlichen Individuums wieder. Du brachst  zur Arbeitssuche auf, in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt.</FemaleText>
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Deine Arbeit als Söldner brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen du gar nichts zu tun hattest. Du entschlosst dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</DefaultText>
-      <FemaleText>Deine Arbeit als Söldnerin brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen zu gar nichts zu tun hattest. Du entschlosst dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</FemaleText>
+      <DefaultText>Deine Arbeit als Söldner brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen du gar nichts zu tun hattest. Du entschlossest dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</DefaultText>
+      <FemaleText>Deine Arbeit als Söldnerin brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen zu gar nichts zu tun hattest. Du entschlossest dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</FemaleText>
     </Entry>
     <Entry>
       <ID>277</ID>
@@ -1401,7 +1402,7 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>Im Laufe der Zeit begann das raue und ungewisse Abenteurerleben für dich an Reiz zu verlieren. Du entschlosst dich, loszuziehen und etwas anderes zu suchen.</DefaultText>
+      <DefaultText>Im Laufe der Zeit begann das raue und ungewisse Abenteurerleben für dich an Reiz zu verlieren. Du entschlossest dich, loszuziehen und etwas anderes zu suchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1412,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>Trotz der Wichtigkeit deiner Arbeit sprang nur wenig dabei heraus, und du musstest schnorren, um über die Runden zu kommen. In der Hoffnung, etwas Einträglicheres zu finden, beschlosst du, deinen Weg woanders zu gehen.</DefaultText>
+      <DefaultText>Trotz der Wichtigkeit deiner Arbeit sprang nur wenig dabei heraus, und du musstest schnorren, um über die Runden zu kommen. In der Hoffnung, etwas Einträglicheres zu finden, beschlossest du, deinen Weg woanders zu gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1462,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Durch deinen Erfolg zogst du dir aber den Zorn deiner eifersüchtigen Konkurrenten zu, und ein besonders neidischer warb Schläger zur Zerstörung deines Geschäfts an. Deiner Lebensgrundlage beraubt beschlosst du, dass dich an diesem Ort nichts mehr hielt.</DefaultText>
+      <DefaultText>Durch deinen Erfolg zogst du dir aber den Zorn deiner eifersüchtigen Konkurrenten zu, und ein besonders neidischer warb Schläger zur Zerstörung deines Geschäfts an. Deiner Lebensgrundlage beraubt beschlossest du, dass dich an diesem Ort nichts mehr hielt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,12 +1507,12 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Deine Ausbildung war streng, aber du wusstest, dass sie nur ein Schritt auf deiner Reise war. Nach Abschluss deiner Ausbildung beschlosst du, alleine loszuziehen und soviel wie möglich von der Außenwelt zu lernen.</DefaultText>
+      <DefaultText>Deine Ausbildung war streng, aber du wusstest, dass sie nur ein Schritt auf deiner Reise war. Nach Abschluss deiner Ausbildung beschlossest du, alleine loszuziehen und so viel wie möglich von der Außenwelt zu lernen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Nach jahrelangen Studien beschlosst du, dass es an der Zeit war, in die Welt hinauszuziehen und deine Theorien in die Praxis umzusetzen.</DefaultText>
+      <DefaultText>Nach jahrelangen Studien beschlossest du, dass es an der Zeit war, in die Welt hinauszuziehen und deine Theorien in die Praxis umzusetzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1521,7 +1522,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>Du fühltest dich aber immer tiefer in philosophische Debatten und akademische Mutmaßungen hineingezogen, und dir wurde klar, das nichts, das du gelernt hattest, tatsächlich auch bewiesen werden konnte.</DefaultText>
+      <DefaultText>Du fühltest dich aber immer tiefer in philosophische Debatten und akademische Mutmaßungen hineingezogen, und dir wurde klar, dass nichts, das du gelernt hattest, tatsächlich auch bewiesen werden konnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1571,7 +1572,7 @@
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>Die Leute deines Heimatdorfs schenkten deinen Lehren aber keine Beachtung, weshalb du beschlosst, sie woanders zu verbreiten.</DefaultText>
+      <DefaultText>Die Leute deines Heimatdorfs schenkten deinen Lehren aber keine Beachtung, weshalb du beschlossest, sie woanders zu verbreiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1671,7 +1672,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>Du aber verschworst dich mit den anderen Sklaven. Zusammen übernahmt ihr die Kontrolle über das Schiff und warft all euer Herren über Bord.</DefaultText>
+      <DefaultText>Du aber verschworst dich mit den anderen Sklaven. Zusammen übernahmt ihr die Kontrolle über das Schiff und warft all eure Herren über Bord.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1717,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>Nach jahrelangem Studium wurde es dir schließlich überdrüssig, ständig von den Heldentaten anderer zu lesen, und du beschlosst, der Welt deinen eigenen Stempel aufzudrücken.</DefaultText>
+      <DefaultText>Nach jahrelangem Studium wurde es dir schließlich überdrüssig, ständig von den Heldentaten anderer zu lesen, und du beschlossest, der Welt deinen eigenen Stempel aufzudrücken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

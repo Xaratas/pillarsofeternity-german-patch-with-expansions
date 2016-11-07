@@ -1511,7 +1511,7 @@
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Bewirkt ein Schutzschild aus Magie, das die Abwehr des Zauberers erheblich steigert.</DefaultText>
+      <DefaultText>Bewirkt einen Schutzschild aus Magie, der die Abwehr des Zauberers erheblich steigert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2951,7 +2951,7 @@
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>Erzeugt ein geisterhaftes Duplikat des Zauberwirkers und fügt den Feinden Schockschaden zu, die von ihm getroffen werden.</DefaultText>
+      <DefaultText>Erzeugt ein geisterhaftes Duplikat des Zauberwirkers, welches von ihm getroffenen Feinden Schockschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4201,7 +4201,7 @@
     </Entry>
     <Entry>
       <ID>857</ID>
-      <DefaultText>Erzeugt eine halbdurchdringliche Barriere, die jedem Feind Wuchtschaden zufügt und jeden behindert, der hindurchschreitet. Verbündete bleiben jedoch unversehrt.</DefaultText>
+      <DefaultText>Erzeugt eine halbdurchlässige Barriere, die jedem Feind Wuchtschaden zufügt und jeden behindert, der hindurchschreitet. Verbündete bleiben jedoch unversehrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4476,7 +4476,7 @@
     </Entry>
     <Entry>
       <ID>912</ID>
-      <DefaultText>Jeder Fernangriff durch den Waldläufer birgt soviel Kraft, dass er durch das erste Ziel schießt und ein anderes, dahinter stehendes Ziel trifft (innerhalb eines Radius von 20&#160;Grad) und geringeren Schaden zufügt.</DefaultText>
+      <DefaultText>Jeder Fernangriff durch den Waldläufer birgt so viel Kraft, dass er das erste Ziel durchschlägt und ein anderes, dahinter stehendes Ziel trifft (innerhalb eines Radius von 20&#160;Grad) und geringeren Schaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4791,7 +4791,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Führt dazu, dass eine Gruppe von Feinden umgehend einschläft und kurzzeitig Bewusstlos werden.</DefaultText>
+      <DefaultText>Führt dazu, dass eine Gruppe von Feinden umgehend einschläft und kurzzeitig Bewusstlos wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7505,7 +7505,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1518</ID>
-      <DefaultText>Das Medium beginnt mit einem körperlichen Angriff und konzentriert sich dann darauf, Kräfte einzusetzen, die Schaden verstärken - beispielsweise Psychowelle und Seelenschock. Als zweiten Schwerpunkt setzt das Medium Massenkontrollfähigkeiten wie Augenschlag, Schwächlicher Griff und Betrügerisches Geflüster ein.</DefaultText>
+      <DefaultText>Das Medium beginnt mit einem körperlichen Angriff und konzentriert sich dann darauf, Kräfte einzusetzen, die Schaden verstärken – beispielsweise Psychowelle und Seelenschock. Als zweiten Schwerpunkt setzt das Medium Massenkontrollfähigkeiten wie Augenschlag, Schwächlicher Griff und Betrügerisches Geflüster ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8570,7 +8570,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1733</ID>
-      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“aus purer Energie zu schaffen, die aus beiden Händen wachsen. Die Klingen verursachen reinen Schaden und generieren Fokus für das Medium, das sie geschaffen hat.</DefaultText>
+      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“ aus purer Energie zu schaffen, die aus beiden Händen wachsen. Die Klingen verursachen reinen Schaden und generieren Fokus für das Medium, das sie geschaffen hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8725,7 +8725,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1764</ID>
-      <DefaultText>Der Zauberer beschwört einen furchterregenden Bogen, der Feinden Zersetzungschaden zufügt und sie Verschreckt zurücklässt. Jeder Energiebolzen, den der Zauberer abfeuert, springt zu einem zusätzlichen Ziel weiter.</DefaultText>
+      <DefaultText>Der Zauberer beschwört einen furchterregenden Bogen, der Feinden Zersetzungsschaden zufügt und sie Verschreckt zurücklässt. Jeder Energiebolzen, den der Zauberer abfeuert, springt zu einem zusätzlichen Ziel weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
