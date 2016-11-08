@@ -74,12 +74,14 @@
       <DefaultText>„Ja, mein Fürst? Was haben Sie geplant?“
 
 Azzuro blickt dich gespannt an, die Hände begierig vor sich verschränkt.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja, meine Fürstin? Was haben Sie geplant?“
+
+Azzuro blickt dich gespannt an, die Hände begierig vor sich verschränkt.</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>„Ich-ich, äh, bin sicher, sie werden einlenken, mein Fürst! Danke für Ihre Intervention! Sobald alles in Ordnung ist, kann ich Ihnen gewiss mehr Waren anbieten!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich-ich, äh, bin sicher, sie werden einlenken, meine Fürstin! Danke für Ihre Intervention! Sobald alles in Ordnung ist, kann ich Ihnen gewiss mehr Waren anbieten!“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
