@@ -8,9 +8,9 @@
       <ID>1</ID>
       <DefaultText>Eine mit Fellen und Leder bekleidete Zwergenfrau lehnt sich gegen den Wegweiser. Ihr Gesicht ist nach unten gerichtet, ihre Augen werden von einem dicken Streifen Gesichtsfarbe verdunkelt.
 
-Mit einem Messer mit Walrosszahngriff schärft sie eine knöcherne Pfeilspitze, ihre Aufmerksamkeit aber gilt einem Bär-Figürchen zwischen ihren Füßen.
+Mit einem Messer mit Walrosszahngriff schärft sie eine knöcherne Pfeilspitze, ihre Aufmerksamkeit aber gilt einem Bärenfigürchen zwischen ihren Füßen.
 
-Ein bei ihren Fersen stehender großer Fuchs mit weißem Fell schaut auf, als du dich näherst.</DefaultText>
+Ein großer Fuchs mit weißem Fell steht an ihrer Seite und schaut auf, als du dich näherst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@ Sie beobachtet skeptisch, aber neugierig, wie du es untersuchst.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Du stehst auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von Biestern zwischen dem frischen Geruch von Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
+      <DefaultText>Du stehst auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von wilden Tieren zwischen dem frischen Geruch von Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
 
 Du blickst gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte Meter weiter unten ins Meer tauchen zu sehen.</DefaultText>
       <FemaleText />
@@ -156,7 +156,7 @@ Du blickst gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>In der festgetretenen Erde befinden sich tiefe Spurrillen. Das sind Spuren von zahlreichen, schwerbeladenen Wagen. Die große Stadt ist nah.</DefaultText>
+      <DefaultText>Tiefe Spurrillen durchfurchen die festgetretene Erde. Es sind Spuren von zahlreichen, schwerbeladenen Wagen. Eine große Stadt befindet sich in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,7 +846,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>Sie schüttelt den Kopf und blickt sich um. „Ich hätte nie gedacht, dass ich auf meinen Reisen mal so etwas sehe. Das rückt alles in ein anderes Licht, nicht wahr?“</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf und blickt sich staunend um. „Ich hätte nie gedacht, dass ich auf meinen Reisen mal so etwas sehe. Das rückt alles in ein anderes Licht, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
