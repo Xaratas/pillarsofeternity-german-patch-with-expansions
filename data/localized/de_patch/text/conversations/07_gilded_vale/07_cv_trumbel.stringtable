@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Angesichts all des Gifts, dass ihnen Sweynur in die Ohren geträufelt hat, wird es nicht mehr lange dauern, bis sich jemand entscheidet, auf Gewalt zurückzugreifen. Und ich werde es nicht zulassen, dass meiner Familie etwas geschieht.“</DefaultText>
+      <DefaultText>„Angesichts all des Gifts, das ihnen Sweynur in die Ohren geträufelt hat, wird es nicht mehr lange dauern, bis sich jemand entscheidet, auf Gewalt zurückzugreifen. Und ich werde es nicht zulassen, dass meiner Familie etwas geschieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Der Verlust dieses Getreides hat ihnen nicht ausgemacht, wenn sie es in der Schänke direkt zu Met gemacht haben. Sie sind nicht gerade freundliche Nachbarn&#160;– sie beleidigen meinen Sohn und taumeln betrunken durch meine eigenen Feldfrüchte. Meinst du, dass sie die Einzigen sind, die etwas essen müssen?“</DefaultText>
+      <DefaultText>„Der Verlust dieses Getreides hat ihnen nichts ausgemacht, solange sie es in der Schänke direkt zu Met gemacht haben. Sie sind nicht gerade freundliche Nachbarn&#160;– sie beleidigen meinen Sohn und taumeln betrunken durch meine eigenen Feldfrüchte. Meinst du, dass sie die Einzigen sind, die etwas essen müssen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,12 +233,12 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Scheint mir eine ziemlich geradelinige Geschichte für eine chaotische Situation zu sein.“</DefaultText>
+      <DefaultText>„Scheint mir eine ziemlich geradlinige Geschichte für eine chaotische Situation zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Trumbel schaut böse. „Es ist keine&#160;…“ Er hält inne. „Schaumal, Sweynur ist schon immer ein schäbiger Bastard gewesen. Da die Vorräte schon so gering sind, sollte ich die guten Sachen vielleicht für die Leute zurückhalten, die sie verdient haben. Aufra zum Beispiel. Sie erwartet ein Kind. Soll ich sie stattdessen verhungern lassen?“</DefaultText>
+      <DefaultText>Trumbel schaut böse. „Es ist keine&#160;…“ Er hält inne. „Schau mal, Sweynur ist schon immer ein schäbiger Bastard gewesen. Da die Vorräte schon so gering sind, sollte ich die guten Sachen vielleicht für die Leute zurückhalten, die sie verdient haben. Aufra zum Beispiel. Sie erwartet ein Kind. Soll ich sie stattdessen verhungern lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Stattdessen hebt Trumbel die Keule nur noch weiter hoch. „Ich mein's ernst! Ich werde mich nicht in meiner eigenen Mühle von Sweynur und seinen Lakaien bedrohen lassen!“</DefaultText>
+      <DefaultText>Stattdessen hebt Trumbel die Keule nur noch weiter hoch. „Ich meins ernst! Ich werde mich nicht in meiner eigenen Mühle von Sweynur und seinen Lakaien bedrohen lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
