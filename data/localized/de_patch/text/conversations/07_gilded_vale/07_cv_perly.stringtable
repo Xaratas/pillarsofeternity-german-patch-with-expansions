@@ -77,7 +77,7 @@ Die Leiche liegt zu deinen Füßen, und der Geist verweilt immer noch. Im Energi
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Die Verwirrung strahlt wellenförmig vom Geist aus. Plötzlich spürst du mächtige Wut, in die sich Triumph mischt. Der Geist scheint durch die Kraft seines eigenen Jubels zu verblassen. Er wird immer schwächer und schwächer, bist du abermals in der Höhle alleine bist.</DefaultText>
+      <DefaultText>Die Verwirrung strahlt wellenförmig vom Geist aus. Plötzlich spürst du mächtige Wut, in die sich Triumph mischt. Der Geist scheint durch die Kraft seines eigenen Jubels zu verblassen. Er wird immer schwächer und schwächer, bis du abermals in der Höhle alleine bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@ Die Leiche liegt zu deinen Füßen, und der Geist verweilt immer noch. Im Energi
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Er ist jetzt genau so tot wie du.“</DefaultText>
+      <DefaultText>„Er ist jetzt genauso tot wie du.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

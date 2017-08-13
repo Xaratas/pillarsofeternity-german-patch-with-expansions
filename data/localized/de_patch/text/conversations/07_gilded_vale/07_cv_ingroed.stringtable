@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ingroed erbleicht. Sie wirft eine Hand zur Seite, als ob sie ihr Gleichgewicht halten wollten, und sinkt dann zu Boden. Anstatt zu seufzen, atmet sie kehlig aus. „Du&#160;… du hast alles zunichte gemacht.“</DefaultText>
+      <DefaultText>Ingroed erbleicht. Sie wirft eine Hand zur Seite, als ob sie ihr Gleichgewicht halten wollten, und sinkt dann zu Boden. Anstatt zu seufzen, atmet sie kehlig aus. „Du&#160;… du hast alles zunichtegemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Ja, kann ich mir vorstellen.“ Ingroed lacht. „Wir packen tatsächlich unsere Sachen für eine Reise. Ich wollte Trutzbucht besuchen, und&#160;…“ Sie schaut Nonton an. „Naja, ehrlich gesagt habe ich die Schnauze voll von diesem Dorf.“</DefaultText>
+      <DefaultText>„Ja, kann ich mir vorstellen.“ Ingroed lacht. „Wir packen tatsächlich unsere Sachen für eine Reise. Ich wollte Trutzbucht besuchen, und&#160;…“ Sie schaut Nonton an. „Na ja, ehrlich gesagt habe ich die Schnauze voll von diesem Dorf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Meine Ehemann, und einer seiner Freunde. Sie sind im Talholz auf die Jagd gegangen, und sie hätten wirklich längst zurück sein sollen. Hast du sie wirklich nicht gesehen?“</DefaultText>
+      <DefaultText>„Mein Ehemann, und einer seiner Freunde. Sie sind im Talholz auf die Jagd gegangen, und sie hätten wirklich längst zurück sein sollen. Hast du sie wirklich nicht gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,8 +241,8 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe ihn vor dem Bär gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</DefaultText>
-      <FemaleText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe sie vor dem Bär gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</FemaleText>
+      <DefaultText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe ihn vor dem Bären gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</DefaultText>
+      <FemaleText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe sie vor dem Bären gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
