@@ -52,7 +52,7 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>„Vielleicht haben die Reißzähne in ihm einen Verbündeten gefunden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vielleicht haben die Reißzähne in ihr eine Verbündete gefunden.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
