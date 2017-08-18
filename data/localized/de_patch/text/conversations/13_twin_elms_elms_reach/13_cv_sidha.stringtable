@@ -25,10 +25,10 @@ Ihre Haare hängen unter dem Schatten von gezackten Blättern wie die hängenden
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Die andere starrt dich ohne zu blinzeln an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
+      <DefaultText>Die andere starrt dich, ohne zu blinzeln, an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
 
 „Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir ihn nieder und sparen uns den Ärger. Damit wäre die Schuld seines Vorgängers beglichen.“</DefaultText>
-      <FemaleText>Die andere starrt dich ohne zu blinzeln an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
+      <FemaleText>Die andere starrt dich, ohne zu blinzeln, an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
 
 „Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir sie nieder und sparen uns den Ärger. Damit wäre die Schuld ihres Vorgängers beglichen.“</FemaleText>
     </Entry>
@@ -679,7 +679,7 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Wenn du sonst nichts schaffst dann sorge zumindest dafür, dass dieser Mann, für das, was er hier getan hat, bezahlt.“</DefaultText>
+      <DefaultText>„Wenn du sonst nichts schaffst, dann sorge zumindest dafür, dass dieser Mann, für das, was er hier getan hat, bezahlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
