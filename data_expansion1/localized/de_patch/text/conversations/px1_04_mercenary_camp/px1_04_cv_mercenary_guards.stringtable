@@ -135,14 +135,14 @@ Die Wachen beobachten dich misstrauisch, während du weggehst.</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Moment&#160;… Caed Nua? Von dir reden zur Zeit alle? Waisen retten, Banditen verjagen, all das Zeug?“
+      <DefaultText>„Moment&#160;… Caed Nua? Von dir reden zurzeit alle? Waisen retten, Banditen verjagen, all das Zeug?“
 
 Die Wache grinst, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Moment&#160;… Caed Nua? Von dir reden zur Zeit alle? Du scheust keinen Kampf sagt man.“
+      <DefaultText>„Moment&#160;… Caed Nua? Von dir reden zurzeit alle? Du scheust keinen Kampf sagt man.“
 
 Die Wache grinst, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
       <FemaleText />
@@ -159,7 +159,7 @@ Die Wache grinst, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosit�
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Moment&#160;… von dir reden zur Zeit alle? Für manche von den Männern bist du ein Vorbild. Keine Gnade, eiskalt&#160;…“
+      <DefaultText>„Moment&#160;… von dir reden zurzeit alle? Für manche von den Männern bist du ein Vorbild. Keine Gnade, eiskalt&#160;…“
 
 Die Wache lacht, in ihrem spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
       <FemaleText />
