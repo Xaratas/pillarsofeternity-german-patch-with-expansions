@@ -1171,7 +1171,7 @@ Einige weit gereiste Vailianer sagen, eine nicht ganz so geheime Geheimgesellsch
 
 Die Gruppe nannte sich die Weiße Flamme und glaubte, dass die gekennzeichneten Personen als Wirtskörper für eine „Reinkarnation“ von Eothas dienen sollten. Der Kult hatte begonnen, Personen mit dem Mal zu entführen und sie in Geheimverstecke zu bringen, um sie zu beobachten und Experimente an ihnen durchzuführen. Eine Karte, die {0} entdeckte, zeigte mehrere dieser Zellen sowie neue Orte, die ihre nächsten Ziele sein sollten.
 
-Mit Hilfe der Schildträger von St. Elcga konnte {0} eine ihrer Festungen im Cythwald überfallen. Es ist ungewiss, ob die Macht der Weißen Flamme wirklich gebrochen ist, aber die Entführungen endeten kurz nach dem Eingreifen von {0}.</DefaultText>
+Mithilfe der Schildträger von St. Elcga konnte {0} eine ihrer Festungen im Cythwald überfallen. Es ist ungewiss, ob die Macht der Weißen Flamme wirklich gebrochen ist, aber die Entführungen endeten kurz nach dem Eingreifen von {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1427,7 +1427,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Mit Hilfe der Söldner, die du bereitgestellt hast, konnte {1} die Unruhestifter verjagen. Die Einheimischen werden deinen Namen nicht so bald vergessen.</DefaultText>
+      <DefaultText>Mithilfe der Söldner, die du bereitgestellt hast, konnte {1} die Unruhestifter verjagen. Die Einheimischen werden deinen Namen nicht so bald vergessen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
