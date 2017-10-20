@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Der Mann hält sein Schwert weiter auf dich gerichtet, blickt seine Gefährten von der Seite an und nickt. Die Soldaten senken ihre Waffen. „Ein seltener und willkommener Anblick&#160;– Freunde so weit von zuhause entfernt.“ Er lässt seinen Arm durch das Gewicht seines Schwertes sinken.</DefaultText>
+      <DefaultText>Der Mann hält sein Schwert weiter auf dich gerichtet, blickt seine Gefährten von der Seite an und nickt. Die Soldaten senken ihre Waffen. „Ein seltener und willkommener Anblick&#160;– Freunde so weit von zu Hause entfernt.“ Er lässt seinen Arm durch das Gewicht seines Schwertes sinken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,8 +241,8 @@ Er nimmt die Kette mit dem Amulett vom Hals und gibt sie einem Soldaten. „Du w
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Der Mann hält sein Schwert weiter auf dich gerichtet, blickt seine Gefährten von der Seite an und nickt. Die Soldaten senken ihre Waffen. „Bei der Flamme, der Held von Trutzbucht. Ein seltener und willkommener Anblick&#160;– Freunde so weit von zuhause entfernt.“ Er lässt seinen Arm durch das Gewicht seines Schwertes sinken.</DefaultText>
-      <FemaleText>Der Mann hält sein Schwert weiter auf dich gerichtet, blickt seine Gefährten von der Seite an und nickt. Die Soldaten senken ihre Waffen. „Bei der Flamme, die Heldin von Trutzbucht. Ein seltener und willkommener Anblick&#160;– Freunde so weit von zuhause entfernt.“ Er lässt seinen Arm durch das Gewicht seines Schwertes sinken.</FemaleText>
+      <DefaultText>Der Mann hält sein Schwert weiter auf dich gerichtet, blickt seine Gefährten von der Seite an und nickt. Die Soldaten senken ihre Waffen. „Bei der Flamme, der Held von Trutzbucht. Ein seltener und willkommener Anblick&#160;– Freunde so weit von zu Hause entfernt.“ Er lässt seinen Arm durch das Gewicht seines Schwertes sinken.</DefaultText>
+      <FemaleText>Der Mann hält sein Schwert weiter auf dich gerichtet, blickt seine Gefährten von der Seite an und nickt. Die Soldaten senken ihre Waffen. „Bei der Flamme, die Heldin von Trutzbucht. Ein seltener und willkommener Anblick&#160;– Freunde so weit von zu Hause entfernt.“ Er lässt seinen Arm durch das Gewicht seines Schwertes sinken.</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
