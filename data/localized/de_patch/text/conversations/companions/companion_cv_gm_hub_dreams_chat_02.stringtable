@@ -41,14 +41,14 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Es herrscht Stille, und als deine Atmung ruhiger wird, hörst du in der Ferne das schwache Weinen eines Kindes, eines Neugeborenen, das sich genau so anhört wie im Traum.
+      <DefaultText>Es herrscht Stille, und als deine Atmung ruhiger wird, hörst du in der Ferne das schwache Weinen eines Kindes, eines Neugeborenen, das sich genauso anhört wie im Traum.
 
 Während du zuhörst, hebt die Trauernde Mutter beide Hände, als würde sie flechten, und ihre Handgelenke läuten dazu&#160;… was dem sanften Drehen ähnelt mit dem sie dem Kopf des Neugeborenen heraushalf&#160;… und zu deiner Überraschung erkennst du die Bewegungen und Worte aus der Erinnerung, obwohl sie neu für dich sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Als sie mit ihren Händen vor sich in der Luft flechtet, lässt das Weinen des Kindes nach&#160;… und dennoch wirkt das Glockengeläut in deinen Gedanken fast hypnotisch. Der Himmel scheint klar und deutlich zu sein&#160;… und du fühlst dich, als würdest du dich&#160;… über deiner Umgebung stehen, so als ob du auf einer großen Säule knien würdest&#160;… genau so wie sie in der Erinnerung.</DefaultText>
+      <DefaultText>Als sie mit ihren Händen vor sich in der Luft flechtet, lässt das Weinen des Kindes nach&#160;… und dennoch wirkt das Glockengeläut in deinen Gedanken fast hypnotisch. Der Himmel scheint klar und deutlich zu sein&#160;… und du fühlst dich, als würdest du dich&#160;… über deiner Umgebung stehen, so als ob du auf einer großen Säule knien würdest&#160;… genauso wie sie in der Erinnerung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ Aus dem Film auf ihren Augen bilden sich Tränen, die ihr langsam die Wangen hin
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Dieselben Glocken die du trägst.“</DefaultText>
+      <DefaultText>„Dieselben Glocken, die du trägst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@ Sie schluckt, einmal, zweimal&#160;… und du spürst sie abermals in deinen Ged
       <ID>39</ID>
       <DefaultText>Zusammen mit den Worten kommt ein Strom an Impulsen, Gedanken, als ob ein Bann gebrochen wäre&#160;… und als dein Verstand die Impulse zu Worten formt, erkennst du, dass es sich um ihre Muskeln und ihre erhärteten Gedanken handelt, die sich entspannen und wieder atmen&#160;…
 
-…&#160;und zwar mit solcher Intensität, dass du vor dem Stoß fast einen Schritt zurückweichen möchtest, aber du siehst, dass die Impulswelle Fragen an die Oberfläche treiben lässt.
+…,&#160;und zwar mit solcher Intensität, dass du vor dem Stoß fast einen Schritt zurückweichen möchtest, aber du siehst, dass die Impulswelle Fragen an die Oberfläche treiben lässt.
 
 Unter ihnen ist auch ein Name&#160;– „Wächter“.</DefaultText>
       <FemaleText />
@@ -252,7 +252,7 @@ In der Luft liegt der Geschmack von Blut&#160;– neu, frisch, salzig&#160;… e
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Zu deiner Überraschung widersetzt sich dir ihre dünne Gestalt und bleibt aufrecht, und dennoch scheint sie sich nicht zu bemühen&#160;… sie scheint ihre Stärke von der schrecklichen Atmung zu beziehen die du hörst.</DefaultText>
+      <DefaultText>Zu deiner Überraschung widersetzt sich dir ihre dünne Gestalt und bleibt aufrecht, und dennoch scheint sie sich nicht zu bemühen&#160;… sie scheint ihre Stärke von der schrecklichen Atmung zu beziehen, die du hörst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

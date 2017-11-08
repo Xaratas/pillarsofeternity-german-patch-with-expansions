@@ -716,7 +716,7 @@ Die besorgten Empfänger dieser Fracht suchen diskret nach Hilfe bei der Wiederb
 
 Hinweise und Gerüchte von Kaufleuten und aus der Unterwelt führten {0} zu den Knocheninseln, einem kleinen Archipel nordwestlich von Readceras. Die tollkühneren unter den Piraten wehrten sich, aber die meisten flohen mit kleinen Teilen der Beute.
 
-Am Ende gelang es {0}, über die Hälfte des Diebesguts zurückzubeschaffen. Ein Gegenstand, eine kleine, seltsame Tauchglocke, gehörte allerdings niemandem in dem Konglomerat aus Kaufleuten, das für die Wiederbeschaffung bezahlt hatte.</DefaultText>
+Am Ende gelang es {0}, über die Hälfte des Diebesguts wiederzubeschaffen. Ein Gegenstand, eine kleine, seltsame Tauchglocke, gehörte allerdings niemandem in dem Konglomerat aus Kaufleuten, das für die Wiederbeschaffung bezahlt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -977,7 +977,7 @@ Beim Abstieg platzierten die Novizen Steinhügel entlang des Weges, als Zeichen 
 
 Während eines Säuberungsfests stolperte vor kurzem ein orlanisches Mädchen über Nîdhens Grab. Nicht ahnend, was sie da gefunden hatte, berichtete sie ihren Eltern davon. Diese hatten schnell die Vermutung, es müsse sich um das Grab des Mörders handeln, und erzählten anderen Stammesmitgliedern davon. Innerhalb eines Tages wurde Nîdhens Grab von einigen törichten Glanfathanern geplündert und die Leiche zu rituellen Zwecken fortgetragen. Zurück blieb nur der Ringfinger der rechten Hand.
 
-Die Anamfatha verbieten die Herstellung von Reliquien aus Nîdhens Leiche und belohnen den, der sie zurückbeschafft.</DefaultText>
+Die Anamfatha verbieten die Herstellung von Reliquien aus Nîdhens Leiche und belohnen den, der sie wiederbeschafft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,7 +1023,7 @@ Letztlich waren die vailianischen Ducs etwas enttäuscht, da sie gehofft hatten,
 
 Der natürliche Lauf der Zeit hat der Statue zwar etwas zugesetzt, aber die Glanfathaner erinnern sich auch an einen Akt des Vandalismus aus der frühen Kolonialzeit. Im Chaos des Kriegs des Zerbrochenen Steins drangen aedyrische Entdecker tief nach Eir Glanfath vor, verschafften sich Zugang zum Hof der verneigenden Eschen und kletterten auf die Statue, um ein einziges Auge auszubrechen – so groß wie der Kopf eines Aumaua und aus purem Adra Ban. Der Großteil dieser Bande wurde von den Glanfathanern geschnappt und getötet, aber das Auge wurde nie gefunden.
 
-Seit einigen Jahren gibt es Gerüchte im Östlichen Abschnitt, dass ein neuer „Besitzer“ des Auges versucht, es auf dem Schwarzmarkt zu verkaufen. Die Anamfatha von mindestens drei Stämmen wären bereit, eine Belohnung zu bezahlen, wenn jemand das Auge zurückbeschafft.</DefaultText>
+Seit einigen Jahren gibt es Gerüchte im Östlichen Abschnitt, dass ein neuer „Besitzer“ des Auges versucht, es auf dem Schwarzmarkt zu verkaufen. Die Anamfatha von mindestens drei Stämmen wären bereit, eine Belohnung zu bezahlen, wenn jemand das Auge wiederbeschafft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,7 +1171,7 @@ Einige weit gereiste Vailianer sagen, eine nicht ganz so geheime Geheimgesellsch
 
 Die Gruppe nannte sich die Weiße Flamme und glaubte, dass die gekennzeichneten Personen als Wirtskörper für eine „Reinkarnation“ von Eothas dienen sollten. Der Kult hatte begonnen, Personen mit dem Mal zu entführen und sie in Geheimverstecke zu bringen, um sie zu beobachten und Experimente an ihnen durchzuführen. Eine Karte, die {0} entdeckte, zeigte mehrere dieser Zellen sowie neue Orte, die ihre nächsten Ziele sein sollten.
 
-Mit Hilfe der Schildträger von St. Elcga konnte {0} eine ihrer Festungen im Cythwald überfallen. Es ist ungewiss, ob die Macht der Weißen Flamme wirklich gebrochen ist, aber die Entführungen endeten kurz nach dem Eingreifen von {0}.</DefaultText>
+Mithilfe der Schildträger von St. Elcga konnte {0} eine ihrer Festungen im Cythwald überfallen. Es ist ungewiss, ob die Macht der Weißen Flamme wirklich gebrochen ist, aber die Entführungen endeten kurz nach dem Eingreifen von {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1427,7 +1427,7 @@ Nachdem ihre Forschung nun endlich abgeschlossen war, kehrte Amaia nach Rauatai 
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Mit Hilfe der Söldner, die du bereitgestellt hast, konnte {1} die Unruhestifter verjagen. Die Einheimischen werden deinen Namen nicht so bald vergessen.</DefaultText>
+      <DefaultText>Mithilfe der Söldner, die du bereitgestellt hast, konnte {1} die Unruhestifter verjagen. Die Einheimischen werden deinen Namen nicht so bald vergessen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

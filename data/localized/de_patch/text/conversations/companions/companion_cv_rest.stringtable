@@ -61,7 +61,7 @@ Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furc
       <ID>11</ID>
       <DefaultText>Du hast gerade begonnen, dich zu strecken und die Schmerzen aus deinem Körper herauszubekommen, als du spürst, wie dir Aloth über die Schulter schaut. Als du ihn bemerkst, schaut er schnell weg und knetet seine Hände zu sich windenden Fäusten.
 
-„Tut mir leid, [Player Name], ich wollte mich nicht an dich heranschleichen. Ich dachte nur, naja, du scheinst&#160;… geistesabwesend zu sein.“</DefaultText>
+„Tut mir leid, [Player Name], ich wollte mich nicht an dich heranschleichen. Ich dachte nur, na ja, du scheinst&#160;… geistesabwesend zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,7 +319,7 @@ Er schüttelt den Kopf. „Du musst damit aufhören. Ich habe dich halb verprüg
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Was würde ich nur ohne einen Freund tun der mich schlägt?“</DefaultText>
+      <DefaultText>„Was würde ich nur ohne einen Freund tun, der mich schlägt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,7 +334,7 @@ Er schüttelt den Kopf. „Du musst damit aufhören. Ich habe dich halb verprüg
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Du bist zur Zeit sehr unruhig. Das erinnert mich an Maerwald&#160;– mehr, als mir lieb ist. Wenn ich etwas tun kann, sag es mir einfach.“
+      <DefaultText>„Du bist zurzeit sehr unruhig. Das erinnert mich an Maerwald&#160;– mehr, als mir lieb ist. Wenn ich etwas tun kann, sag es mir einfach.“
 
 „Es fehlt nicht mehr viel. Halte noch eine Weile durch, wir kriegen dich wieder hin.“</DefaultText>
       <FemaleText />

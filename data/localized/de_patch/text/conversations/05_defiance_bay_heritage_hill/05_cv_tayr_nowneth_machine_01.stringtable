@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Eine zackige Adrasäule erhebt sich vor dir, umgeben von einer Steinmauer und durchzogen von Kupferadern. Das Panel ist mit Runen bedeckt, die du nicht verstehst.</DefaultText>
+      <DefaultText>Eine zackige Adrasäule erhebt sich vor dir, umgeben von einer Steinmauer und durchzogen von Kupferadern. Das Paneel ist mit Runen bedeckt, die du nicht verstehst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,7 +57,7 @@ Um die Scheibe herum befinden sich Runen.</DefaultText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Eine zackige Adrasäule erhebt sich vor dir, umgeben von einer Steinmauer und durchzogen von Kupferadern. Das Panel ist mit Runen bedeckt, die du nun verstehst.
+      <DefaultText>Eine zackige Adrasäule erhebt sich vor dir, umgeben von einer Steinmauer und durchzogen von Kupferadern. Das Paneel ist mit Runen bedeckt, die du nun verstehst.
 
 Du erkennst Wörter für „Ende“ und „Halten“. Im Moment steht die Scheibe auf „Halten“. Du erkennst an einer Inschrift auch, dass die Art und Weise, wie man die Scheibe dreht, dazu dient, das Gerät zu bremsen.</DefaultText>
       <FemaleText />

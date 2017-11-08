@@ -46,13 +46,13 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Wer hätte je geglaubt, dass ein Estramor uns Mittagsfrost zurückbeschafft.“</DefaultText>
+      <DefaultText>„Wer hätte je geglaubt, dass ein Estramor uns Mittagsfrost zurückbringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>„Vielleicht haben die Reißzähne in ihm einen Verbündeten gefunden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vielleicht haben die Reißzähne in ihr eine Verbündete gefunden.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
