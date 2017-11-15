@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2438</EntryCount>
+  <EntryCount>2475</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -14535,6 +14535,267 @@ Wenn sie also einen mächtigen Berggipfel sehen, oder eine Reihe von Adrasäulen
 So stark ist Abydons Bild als Gottheit, dass wir durch seine Legende vertraute Formen in der natürlichen Welt erkennen. Wenn wir also eine Landform sehen, die einem Säulengang ähnelt, oder einem Torbogen, oder einem mächtigen Haus, so sehen wir das Werk einer Hand und eines Verstandes, die den unseren ähneln.
 
 Und während Abydons eigene Identität als Konstrukt auf manche abschreckend wirkt, ist seine einfache, aber praktische Gestalt für viele von uns umso tröstlicher. Während die anderen Götter die Gestalten von Vögeln, Tieren oder dem Meer annehmen, nimmt Abydon die Gestalt unserer gängigsten Werkzeuge und Bauten an. Seine Herabsetzung zu einem Stück Eisen erhebt unsere eigenen Werke und Mühen und bietet uns allen große Hoffnung. Denn wenn ein Gott sich aus Eisen neu erschaffen kann, welche Wunder können dann Gestandene mit ihren eigenen Händen erschaffen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2534</ID>
+      <DefaultText>Gürtel des Königlichen Todesfeuer-Kanoniers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2535</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft ist teils paramilitärische Marine, teils Handelsgilde und trachtet danach, die Vorherrschaft der Rauatai im Todesfeuer-Archipel zu verbreiten. Die Gesellschaft besitzt eisenbeschlagene Schiffe mit schweren Waffen und loyalen und gut ausgebildeten Seeleuten – ein Vorteil, der ihr ermöglicht, großen Einfluss in der Region zu haben.
+
+Dieser Gürtel aus feinem Haifischleder hat die in der Mode der Rauatai typische geometrischen Muster. In den flachen Kerben der rechten Winkel sind arkane Siegel versteckt. Das Material fühlt sich nicht ungewöhnlich an. Der Gürtel verleiht dem Träger jedoch ein Gefühl komfortabler Wärme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2536</ID>
+      <DefaultText>Kapitänsmütze der Gesellschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2537</ID>
+      <DefaultText>Die Vailianische Handelsgesellschaft ist die einzige Handelsgesellschaft, die von allen fünf Ducs Bels der Vailianischen Republiken unterstützt wird und hat sich als blühende Macht im Todesfeuer-Archipel etabliert. Zwar ist die Gesellschaft an einer Reihe von Geschäften beteiligt, ihr hauptsächliches Interesse in der Region gilt jedoch einer seltenen und wertvollen Form des Adra. 
+
+Dieser Dreispitz mit Feder hat das Zeichen der Gesellschaft auf seinem Innenfutter. Der elegante Hut betont Erhabenheit und Charisma des Trägers und ermöglicht es, auch in den verzwicktesten Situationen die Autorität zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2538</ID>
+      <DefaultText>Keule der Mataru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2539</ID>
+      <DefaultText>Die Huana sind ein Zusammenschluss der im Todesfeuer-Archipel lebenden Aumaua-Stämme im Kampf gegen die Plünderungen der Príncipi-Piraten und die Machenschaften der Handelsgesellschaften, welche das Todesfeuer ausbeuten wollen. Die Mataru sind die militärische Kaste der Huana. Sie üben Macht über die Stämme aus und verteidigen sie gegen ihre zahlreichen Feinde und die Gefahren, die auf dem Meer lauern.
+
+Diese robuste und schwere Keule wurde im Todesfeuer-Archipel hergestellt und von den Priestern von Ngati gesegnet. Sie ist mit Symbolen des Meeres verziert, doch ihre einst bunten Farben sind im Laufe der Zeit und durch häufige Nutzung beinahe völlig verblasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2540</ID>
+      <DefaultText>Molina Einauges Goldgesäumte Bolzenschleuder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2541</ID>
+      <DefaultText>Die gefürchteten Príncipi sen Patrena machen die Meere des Todesfeuers unsicher und sind eine ständige Bedrohung für organisierte Handelsgesellschaften, gesetzlose Schmuggler und Sklavenhändler gleichermaßen. Diese Piraten waren ursprünglich Flüchtlinge aus Alt-Vailia und einige von ihnen halten die Traditionen ihrer alten Heimat aufrecht. Andere dagegen gehören zu den brutalsten und anarchistischsten Freibeutern, die diese Meere jemals gesehen haben.
+
+Da Feuerwaffen auf Schiffen immer ein gewisses Risiko darstellen, bevorzugen viele Piraten Armbrüste. Diese irre schwere Armbrust verschießt Bolzen mit solcher Kraft, dass sie die Opfer von den Beinen fegen. Blattgoldverzierungen an Schaft und Bügel kennzeichnen sie als eine vailianische Weiterentwicklung einer gewöhnlicheren Armbrust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2542</ID>
+      <DefaultText>Säbel der Meere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2543</ID>
+      <DefaultText>Die Form der Klinge dieses Säbels erinnert an die tosenden Wellen einer stürmischen See. Die Klinge fühlt stets ein wenig kühler an als erwartet und ist von einer dünnen Schicht Feuchtigkeit benetzt, welche sie noch zu verstärken scheint. 
+
+Säbel sind zwar auch im Dyrwald nicht unbekannt, werden aber häufiger auf Schiffen geschwungen, wo die Seeleute nur ungern schwere Rüstungen tragen, die den Untergang für jeden bedeuten können, der über Bord geht. Das in die Klinge dieses Säbels eingestanzte Symbol von Ondra weist auf seinen Ursprung hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2544</ID>
+      <DefaultText>Fulvanos Donnerbüchse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2545</ID>
+      <DefaultText>Auch wenn er nie so berühmt war, wie er gerne behauptete, war der vailianische Entdecker Fulvano doch als Exzentriker bekannt, der die Welt sehen wollte. Wo immer möglich, reiste er zu Fuß, um Anblicke, Geräusche und Düfte der Lande, die er bereiste, so wahrzunehmen wie die Einheimischen. Tatsächlich kam Fulvano auf seinen Reisen jedoch oft zu dem Schluss, dass die Welt außerhalb der Vailianischen Republiken ein stinkender und widerlicher Ort war, der in keiner Weise mit seiner Heimat mithalten konnte.
+
+Auch wenn er mehr für seine Wanderlust als für seine Fähigkeiten im Kampf bekannt war, hatte Fulvano doch ein gutes Auge für Ausrüstung, und diese Donnerbüchse scheint das zu bestätigen. Trotz ihres verschlissenen Aussehens funktioniert diese Waffe noch wie neu. Sie feuert so reibungslos und präzise, wie man es von einer Schusswaffe nur erwarten kann. 
+
+Ihr guter Zustand könnte jedoch auch darauf hindeuten, dass Fulvano sie nie abgefeuert hat, was ein historisch fragwürdiges, aber ihm oft zugeschriebenes Zitat bestätigen würde: "Blei und Stahl können dir einen Feind vom Leibe schaffen, aber nur der Wein kann ihn zu einem Freund machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2546</ID>
+      <DefaultText>Uniform des Steuermanns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2547</ID>
+      <DefaultText>Das Wetter auf hoher See ist extrem. Es schwankt zwischen brennender trockener Hitze tagsüber und der brutalen Kälte und Nässe nächtlicher Stürme. Seeleute, die es sich leisten können, tragen mehrere Schichten und warme Mäntel über Hemden oder Blusen aus leichtem, atmungsaktivem Material. 
+
+Insbesondere Piraten, denen ihr (schlechter) Ruf besonders wichtig ist, neigen zu knallbunter, auffälliger Kleidung, die nicht nur ihren erbeuteten Reichtum zeigt, sondern sie auch als Freibeuter zu erkennen gibt und so Opfer oder Gegner einzuschüchtern vermag.
+
+Der Steuermann steht am Steuerrad des Schiffes. Er benötigt große Kraft, um das Ruder gegen die Gewalt des Ozeans zu bewegen, und Konzentration und Widerstandsfähigkeit, um auch während heftiger Stürme, blutiger Kämpfe und endloser Stunden, in denen nichts passiert, aufmerksam zu bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2548</ID>
+      <DefaultText>Nur wenig ist für ein Hochseeschiff gefährlicher als ein außer Kontrolle geratenes Feuer, und das gilt doppelt, wenn das Schiff Pulverfässer und anderen Sprengstoff geladen hat. Zwar heuern nicht alle Schiffe der Königlichen Todesfeuer-Gesellschaft Magier an, die Flammen manipulieren können, dennoch sind diese äußerst begehrt und können ihren Lohn praktisch selbst bestimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2549</ID>
+      <DefaultText>Als Yuraska Rona sich dem eisenbeschlagenen Schiff Löwenkralle anschloss, verdiente sie dank ihrer geschickten Manipulation der Flammen, ihrem beinahe instinktiven Verständnis für Trigonometrie und ihrem Geschick mit dem Hammer einen beachtlichen Lohn. Mehr als am Geld war Yuraska zwar daran interessiert, die alte Heimat ihres Volkes zu sehen, doch sie wusste es zu schätzen, dass sie mit Kisten voller Lebensmittel und sonstigen Waren zum kleinen und desolaten Hof ihrer Familie zurückkehren würde können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2550</ID>
+      <DefaultText>Die Löwenkralle war ein unglaublich effektives Kriegsschiff und regelmäßig in Kämpfe verwickelt, zunächst gegen die Wahaki, dann gegen gesetzlose Sklavenhändler und schließlich gegen vailianische Plünderer. Yuraska blieb auch in brenzligen Situationen stets ruhig, war ungemein kompetent und wurde rasch unverzichtbar für das Schiff. Bald gab der Kapitän ihr eine eigene Koje, während der Rest der Crew an Deck kämpfte und starb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2551</ID>
+      <DefaultText>Es war unvermeidlich, dass sie den Neid ihrer Kameraden auf sich zog. Schließlich brachen diese in ihre Koje ein und schleiften sie über den Boden in das offene Kanonendeck. Sie schrie um Hilfe und flehte ihre Entführer an, sie loszulassen, doch ihr Flehen brachte ihr lediglich einen Schlag ins Gesicht und ein gebrochenes Knie ein.
+
+Als ihre Entführer zur Treppe zum Hauptdeck und damit zu einem nassen Grab zogen, ergriff Yuraska die letzte Chance, die ihr geblieben war: Den Blick auf die Pulvervorräte gerichtet sprach sie einen Zauber, der einen Funken entzündete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2552</ID>
+      <DefaultText>Die Vailianische Handelsgesellschaft hat eine beachtliche Flotte Handelsschiffe und gut bewaffneten Begleitschiffe, um ihre Güter vor Piraten und Plünderern zu schützen. Die Offiziere auf diesen Schiffen tragen Hüte wie diesen, um sich vor den Elementen zu schützen und sich von den Mitgliedern anderer Gruppen in der Region ebenso abzuheben wie von den gewöhnlichen Seeleuten unter ihrem Kommando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2553</ID>
+      <DefaultText>Mercario Menzallini, ein Mitglied der ersten Expeditionen der Vailianischen Handelsgesellschaft im Todesfeuer, war weniger von den Handelsaussichten motiviert als von der geschäftstüchtigen Mutter, die ihn nötigte, in ihre Fußstapfen zu treten. Als Maat an Bord einer Galeere der Handelsgesellschaft stach er mit einer Mischung aus Furcht und Verbitterung in See und war sich sicher, dass er seine Heimat zum letzten Mal gesehen hatte.
+
+Seine Befürchtungen waren begründet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2554</ID>
+      <DefaultText>Als Menzallinis Schiff das Todesfeuer erreichte, war er bereits Kapitän – seine rasche Beförderung war eine Folge des Ablebens der früheren Befehlshaber. Die Kapitänin, mit der sie in See gestochen waren, bekam bei einem Scharmützel mit einer aedyranischen Galeone vor der Südspitze des Kontinents eine Kugel ab und ihr Nachfolger hatte das Pech, bei einem verheerenden Angriff über Bord zu fallen.
+
+Menzallini erwies sich jedoch als überraschend kompetenter Kapitän. Sich seiner eigenen Defizite bewusst, hörte er auf die Ratschläge seiner Seeleute und belohnte sie dafür mit besseren Rationen und mehr Münzen, als sie auf anderen Schiffen je bekommen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2555</ID>
+      <DefaultText>Menzallini war bei seiner Crew beliebt, doch seine Reisen waren nicht so profitabel wie die seiner weniger freigiebigen Kollegen und die Handelsgesellschaft bestellte ihn in die Republiken zurück, um ihm sein Kommando zu entziehen. Menzallini wurde jedoch von einer ehemaligen Navigatorin, die dank seiner relativ hohen Heuer eine Stelle als Buchhalterin in der Heimat annehmen konnte, rechtzeitig gewarnt. 
+
+Anstatt also mit seinem Schiff und seiner Crew in die Republiken zurückzukehren, ließ Menzallini die Fahnen der Handelsgesellschaft einholen und bot sie jedem an, der lieber bei der Gesellschaft bleiben als ihm ins Exil folgen wollte. Niemand nahm das Angebot an. Menzallini legte die Fahnen zusammen und sperrte sie weg. Danach warf er seinen Hut ins Meer, ließ Kurs in Richtung Horizont setzen und segelte in unbekannte Gewässer davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2556</ID>
+      <DefaultText>Nicht alle Todesfeuer-Stämme unterstützen die Huana-Königin bei ihren Zugeständnissen gegenüber den Handelsgesellschaften der Vailianischen Republiken und der Rauatai. Die kriegerischeren Stämme zogen in einen Krieg gegen die Eindringlinge, der zu furchtbaren Verlusten auf beiden Seiten führte.
+
+Eine vailianische Händlerin fand diese Keule unter den Überresten eines solchen Gemetzels und behielt sie als Trophäe von ihren Reisen zu den östlichen Inseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2557</ID>
+      <DefaultText>Bevor sie in vailianische Hände fiel, wurde diese Keule unter den Mataru des Wahaki-Stammes weitergegeben. Den Priestern des Stammes zufolge gehörte die Keule einer einzigen Seele und jeder ihrer Träger war eine Reinkarnation davon. 
+
+Dies kennzeichnete den Träger der Keule als eine Person, von der Großes erwartet wurde – etwas, das in den Traditionen der Huana keineswegs üblich war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2558</ID>
+      <DefaultText>Die Priester behaupteten, die Waffe wäre ein mächtiges Artefakt. Ursprünglich war sie für den Kriegerpriester Timauko gefertigt worden, der später zum Stammeshäuptling wurde. Nachdem er sein Leben gegeben hatte, um die Speerfischer des Stammes vor einem Kraken zu beschützen, wurde sie dem Erben seiner Seele vermacht. 
+
+Da die Keule aus den Wurzeln eines Baumes gemacht wurde, der in einem Adra-Vorkommen wuchs, konnte sie den Priestern zufolge die Erinnerungen der Seele ihres früheren Trägers in dem Krieger hervorbringen, der sie gerade besaß. Mit jedem Mataru, der sie in Besitz nahm, wuchs die Kraft der Waffe, und je länger ein Krieger sie besaß, desto mehr dieser Kraft konnte er nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2559</ID>
+      <DefaultText>Durama war die letzte Trägerin der Keule. Als sie noch ein Kind war, half sie den Wahaki, Vailianer zu vertreiben, die einen Hafen auf ihren Inseln errichten wollten. Bei diesem Kampf machte sie ihren Vorfahren alle Ehre, indem sie einen vailianischen Klipper enterte und mitten im Kugelhagel den Kapitän und den Ersten Maat erschlug, bevor sie sich ins Wasser rettete.
+
+Die Huana konnten die vailianische Aggression abwehren, doch Duramas Boot wurde von einer Kanonenkugel getroffen und es blieb nur eine Masse zersplitterter Planken und zerfetzter Leiber übrig. Die Huana haben ihre Keule nie wieder gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2560</ID>
+      <DefaultText>Molina Einauges blutige Rache
+
+Molina Einauge, geboren war sie mit zwei,
+Häng ihn auf da droben am Mast!
+Hatte beide noch als sie segelte nach Todesfeuer,
+Füll ihn, bis er voll ist wie ein Fass!
+
+Molina Einauge von Palmin'a Einmauer,
+Hey-ho, ein zähes Mädel war sie!
+Königin und Kapitänin von Anker und Tau,
+Hey-ho, ein zähes Mädel war sie!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2561</ID>
+      <DefaultText>Mit zwei Augen segelt Molina los von Port Maje,
+Häng ihn auf hoch droben am Mast!
+Entert ein Handelsschiff und stürzt sich in den Kampf,
+Füll ihn, bis er voll ist wie ein Fass!
+
+Molina Einauge von Palmin'a Einmauer,
+Hey-ho, ein zähes Mädel war sie!
+Sie und die ihren, dem Galgen stets ein Schritt voraus,
+Hey-ho, ein zähes Mädel war sie!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2562</ID>
+      <DefaultText>Molina und Fero unterm Besan im Kampf bis aufs Blut,
+Häng ihn auf hoch droben am Mast!
+Er stach ihr linkes Auge aus, da sah sie nur mehr halb so gut,
+Füll ihn, bis er voll ist wie ein Fass!
+
+Molina Einauge von Palmin'a Einmauer,
+Hey-ho, ein zähes Mädel war sie!
+Auf wen ihr Auge auch fiel, der lebte nicht mehr lang,
+Hey-ho, ein zähes Mädel war sie!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2563</ID>
+      <DefaultText>Taue um die Knöchel, so hängen sie Fero, den Tor
+Häng ihn auf hoch droben am Mast!
+Molina den Säbel weg und die Armbrust hervor,
+Füll ihn, bis er voll ist wie ein Fass!
+
+Molina Einauge von Palmin'a Einmauer,
+Hey-ho, ein zähes Mädel war sie!
+Für ihr Auge zahlt er mit dem Leben im Hagel der Bolzen,
+Hey-ho, ein zähes Mädel war sie!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2564</ID>
+      <DefaultText>Trinke ein Getränk in jeder Bar im Östlichen Abschnitt, um die nächste Stufe freizuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2565</ID>
+      <DefaultText>Uniform des Matrosen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2566</ID>
+      <DefaultText>Uniform des Bootsmanns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2567</ID>
+      <DefaultText>Erleide 100 Schaden von Gegnern im Fernkampf, um die nächste Stufe freizuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2568</ID>
+      <DefaultText>Erleide 200 Schaden von Gegnern im Nahkampf, um die nächste Stufe freizuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2569</ID>
+      <DefaultText>Das Wetter auf hoher See ist extrem. Es schwankt zwischen brennender trockener Hitze tagsüber und der brutalen Kälte und Nässe nächtlicher Stürme. Seeleute, die es sich leisten können, tragen mehrere Schichten und warme Mäntel über Hemden oder Blusen aus leichtem, atmungsaktivem Material. 
+
+Insbesondere Piraten, denen ihr (schlechter) Ruf besonders wichtig ist, neigen zu knallbunter, auffälliger Kleidung, die nicht nur ihren erbeuteten Reichtum ausdrückt, sondern sie auch als Freibeuter zu erkennen gibt und so Opfer oder Gegner einzuschüchtern vermag.
+
+Matrosen sind Herz und Seele eines Schiffes und erledigen eine Vielzahl von Arbeiten, darunter Reparaturen, Reinigung und das Setzen der Segel. Ein Seemann muss flink und geschickt sein, denn bei stürmischer See kann bereits ein falscher Schritt oder Fehlgriff einen grausamen Tod bedeuten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2570</ID>
+      <DefaultText>Das Wetter auf hoher See ist extrem. Es schwankt zwischen brennender trockener Hitze tagsüber und der brutalen Kälte und Nässe nächtlicher Stürme. Seeleute, die es sich leisten können, tragen mehrere Schichten und warme Mäntel über Hemden oder Blusen aus leichtem, atmungsaktivem Material. 
+
+Insbesondere Piraten, denen ihr (schlechter) Ruf besonders wichtig ist, neigen zu knallbunter, auffälliger Kleidung, die nicht nur ihren erbeuteten Reichtum ausdrückt, sondern sie auch als Freibeuter zu erkennen gibt und so Opfer oder Gegner einzuschüchtern vermag.
+
+Als Erster Maat ist der Bootsmann für den größten Teil der Crew verantwortlich. Dazu muss er nicht nur jeden Aspekt der Seemannskunst beherrschen. sondern auch stets genau über den Zustand von Schiff und Crew Bescheid wissen. Ein erstklassiger Bootsmann vereint diese Eigenschaften mit Führungsstärke. Ein beliebter Bootsmann kann den Unterschied machen zwischen einer unzufriedenen Crew und einem meuternden Mob.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
