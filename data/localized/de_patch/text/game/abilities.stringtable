@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1852</EntryCount>
+  <EntryCount>1864</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -9288,6 +9288,66 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <DefaultText>Wenn ein Nalpazca-Krieger gelernt hat, sich von den Fesseln zu befreien, die ihn an die materielle Welt binden, wird er der Legende nach zum Anitlei.
 
 Zu den vielen Gaben des Anitlei gehört auch ein übernatürliches Verständnis des Leids aller Wesen. Dank dieser Einsicht kann er die Absichten eines Gegners vorausahnen und auf sie reagieren, ehe der Gegner sie überhaupt in die Tat umsetzt. Der Anitlei weiß daher genau, wo und wann er zuschlagen muss, und kann dies mit Zuversicht und großer Geschwindigkeit tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1878</ID>
+      <DefaultText>Verwirren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1879</ID>
+      <DefaultText>Verursacht bei einem einzelnen Ziel für kurze Zeit Verwirrung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1880</ID>
+      <DefaultText>Bezaubern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1881</ID>
+      <DefaultText>Verursacht bei einem einzelnen Ziel für kurze Zeit Bezauberung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1882</ID>
+      <DefaultText>Humpeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1883</ID>
+      <DefaultText>Verursacht bei einem einzelnen Ziel für kurze Zeit Humpeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1884</ID>
+      <DefaultText>Niedergeschlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Verursacht bei einem einzelnen Ziel für kurze Zeit Niedergeschlagenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1886</ID>
+      <DefaultText>Betäuben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1887</ID>
+      <DefaultText>Verursacht bei einem einzelnen Ziel für kurze Zeit Betäubung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1888</ID>
+      <DefaultText>Schwächen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1889</ID>
+      <DefaultText>Verursacht bei einem einzelnen Ziel für kurze Zeit Schwächung.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
