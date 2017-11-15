@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_ponamu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Nett von dir, dass du mit mir plauderst, Freund aus dem Westen."
+
+Vor dir steht ein Aumaua mit verfilzten Haaren und zerrissenen Kleidern mit ausgebleichten Farben. Sein Gesicht ist zerfurcht von einem Muster von dünnen Narben, durchkreuzt von größeren Wunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Willkommen zurück, mein Freund aus dem Westen! Bist du gekommen, um meine Waren anzusehen?"</DefaultText>
+      <FemaleText>"Willkommen zurück, meine Freundin aus dem Westen! Bist du gekommen, um meine Waren anzusehen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ahoi! Ahoi!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Habe keinen Kith mehr gesehen, seit mein Schiff gesunken ist. Du hast nicht zufällig etwas Geld, das du loswerden möchtest?"</DefaultText>
+      <FemaleText>"Habe keine Kith mehr gesehen, seit mein Schiff gesunken ist. Du hast nicht zufällig etwas Geld, das du loswerden möchtest?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du bist ein Schiffbrüchiger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Was verkaufst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich bin Ponamu Vogelverschmähter, der Chronist der Huana. Ein seltsamer Name, ich weiß, aber wir können uns unsere Namen nicht aussuchen, nicht wahr?"
+
+Er kichert und fährt sich mit der Hand über das vernarbte Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Aye. Wir brachten Waren von Todesfeuer zur Trotzbucht, als uns ein Sturm vom Kurs abbrachte und wir hier strandeten. Ich bin der einzige Überlebende."
+
+Er runzelt kurz die Stirn. Dann schüttelt er den Kopf und seine Gesichtszüge entspannen sich wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du solltest die Inseln des Todesfeuers segeln, Freund. Einen schöneren Ort wirst du auf der ganzen weiten Welt nicht finden!"</DefaultText>
+      <FemaleText>"Du solltest die Inseln des Todesfeuers segeln, meine Dame. Einen schöneren Ort wirst du auf der ganzen weiten Welt nicht finden!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Die Ladung meines Schiffes, Waren von Todesfeuer, einige persönliche Schmuckgegenstände, alles von allerfeinster Qualität. Normalerweise würde ich sie nicht verkaufen, aber ich brauche das Geld, um nachhause zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Duft umgibt die Burgvogtin – ein warmer Duft nach fremden Gewürzen und modrigem Salzwasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gute Nachrichten, mein Herr."</DefaultText>
+      <FemaleText>"Gute Nachrichten, meine Dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Euer Ruf reicht weit über die Grenzen dieser Festung hinaus. Wir haben Geschenke aus dem Östlichen Abschnitt erhalten. Ihre Überbringer sprachen von ihren einzigartigen und außergewöhnlichen Kräften, doch ich fürchte, die Legenden zu diesen Objekten sind mit der Zeit in Vergessenheit geraten."
+
+Du fühlst die dir übergebenen Objekte, ihre Leere und ihr Verlangen, benutzt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_sabre_of_the_seas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aus den knorrigen Wurzeln des gewaltigen Baumes steht etwas hervor, das auf den ersten Blick wie ein verkümmerter, verbogener Ast aussieht. Bei genauerer Untersuchung stellt es sich jedoch als Griff einer Waffe heraus, deren Klinge tief in das Holz gestoßen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Waffe nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du umfasst den Griff und ziehst. Die Waffe lässt sich überraschend leicht aus dem Holz holen. Als du sie herausziehst, läuft Wasser wie Blut von ihrer Spitze und tropft auf die Erde am Fuß des Baumes.
+
+Selbst in der Dunkelheit des Goldtals glänzt der Säbel, seine gekrümmte Klinge ist mit Feuchtigkeit benetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
