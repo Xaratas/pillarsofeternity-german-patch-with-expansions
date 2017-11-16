@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Gute Nachrichten, mein Herr."</DefaultText>
-      <FemaleText>"Gute Nachrichten, meine Dame."</FemaleText>
+      <DefaultText>„Gute Nachrichten, mein Herr.“</DefaultText>
+      <FemaleText>„Gute Nachrichten, meine Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Euer Ruf reicht weit über die Grenzen dieser Festung hinaus. Wir haben Geschenke aus dem Östlichen Abschnitt erhalten. Ihre Überbringer sprachen von ihren einzigartigen und außergewöhnlichen Kräften, doch ich fürchte, die Legenden zu diesen Objekten sind mit der Zeit in Vergessenheit geraten."
+      <DefaultText>„Euer Ruf reicht weit über die Grenzen dieser Festung hinaus. Wir haben Geschenke aus dem Östlichen Abschnitt erhalten. Ihre Überbringer sprachen von ihren einzigartigen und außergewöhnlichen Kräften, doch ich fürchte, die Legenden zu diesen Objekten sind mit der Zeit in Vergessenheit geraten.“
 
 Du fühlst die dir übergebenen Objekte, ihre Leere und ihr Verlangen, benutzt zu werden.</DefaultText>
       <FemaleText />
