@@ -5509,7 +5509,7 @@ Ihre ehrliche Art, Geschäfte zu machen, ihr Mut im Kampf und ihr Können auf Se
       <ID>1121</ID>
       <DefaultText>Diese hervorragend gefertigte Rüstung ist dunkelbraun gefärbt. Die Farbe ist ungleichmäßig und fleckig, als wäre die Rüstung von einem Amateur gefärbt worden. Was sie in gewisser Weise auch wurde. Vengiatta Rugia („Rote Rache“) wurde von einer jungen Vailianerin getragen, die mitansehen musste, wie ihre Familie von Söldnern im Dienst einer mächtigen Fürstin ermordet wurde. Als die Behörden sie befragten, gab sie an, das Trauma hätte jede Erinnerung an den Vorfall ausgelöscht.
 
-Heimlich aber bildete sie sich zur Kämpferin aus. Da sie keine Rüstungen oder Waffen tragen konnte, ohne aufzufallen, nahm sie eine Stellung als Näherin an und lernte, ein robustes Gewand zu nähen, das ihr Schutz bot, ohne zu viel Aufmerksamkeit zu wecken. Zudem ersetzte sie den Knauf eines Stiletts durch den Griff einer Ahle, so dass sie es jederzeit bei sich tragen konnte.
+Heimlich aber bildete sie sich zur Kämpferin aus. Da sie keine Rüstungen oder Waffen tragen konnte, ohne aufzufallen, nahm sie eine Stellung als Näherin an und lernte, ein robustes Gewand zu nähen, das ihr Schutz bot, ohne zu viel Aufmerksamkeit zu wecken. Zudem ersetzte sie den Knauf eines Stiletts durch den Griff einer Ahle, sodass sie es jederzeit bei sich tragen konnte.
 
 Als sie schließlich im Umgang mit dem Stilett geübt war, zog sie aus, die Mörder ihrer Familie zu jagen&#160;– in ihre unauffällige gepolsterte Rüstung gekleidet. Sie richtete die Mörder einen nach dem anderen und tränkte jedes Mal einen Teil ihrer Rüstung in dem Blut ihres letzten Opfers.</DefaultText>
       <FemaleText />
@@ -5624,7 +5624,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>Händler behaupten, diese Axt stamme aus dem Ewigen Weiß, dem kargen, eisigen Heimatland der Bleichelfen. Sie besitzt dieselben Eigenschaften wie ihre Heimat, denn die Klinge ist mit einer ewigen Frostschicht überzogen und strahlt eine tödliche Kälte aus. Der Kopf der Axt ist dennoch überraschend leicht, so dass sie leicht zu handhaben und nach einem Hieb besser zu kontrollieren ist.</DefaultText>
+      <DefaultText>Händler behaupten, diese Axt stamme aus dem Ewigen Weiß, dem kargen, eisigen Heimatland der Bleichelfen. Sie besitzt dieselben Eigenschaften wie ihre Heimat, denn die Klinge ist mit einer ewigen Frostschicht überzogen und strahlt eine tödliche Kälte aus. Der Kopf der Axt ist dennoch überraschend leicht, sodass sie leicht zu handhaben und nach einem Hieb besser zu kontrollieren ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5644,7 +5644,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Carow Golan wird aus einer heiligen und seltenen Pflanze hergestellt, die tief in Eir&#160;Glanfath wächst. Die Mixtur wird fast ausschließlich für zeremonielle Zwecke oder von Kriegern, die in eine wichtige Schlacht ziehen, verwendet. Sie soll das Bewusstsein der eigenen Position auf der Welt schärfen, so dass man Gefahren besser erkennen und kontern kann.</DefaultText>
+      <DefaultText>Carow Golan wird aus einer heiligen und seltenen Pflanze hergestellt, die tief in Eir&#160;Glanfath wächst. Die Mixtur wird fast ausschließlich für zeremonielle Zwecke oder von Kriegern, die in eine wichtige Schlacht ziehen, verwendet. Sie soll das Bewusstsein der eigenen Position auf der Welt schärfen, sodass man Gefahren besser erkennen und kontern kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6063,7 +6063,7 @@ Als der örtliche Duc von ihrem Mut und der Not der Kinder hörte, ließ er Notv
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>Legenden berichten von einem Druiden, weise und mächtig, der von einem Schwarm von Raben begleitet wurde. Im Kampf griff der Druide seine Feinde mit einem Streitkolben an, während die Raben sich von oben herabstürzten und die Feinde ablenkten und flankierten. Durch jahrelange koordinierte Angriffe und die Magie des Druiden soll sein Streitkolben verzaubert worden sein, so dass er dem, der ihn führt, ähnliche Gaben verleiht. Der Streitkolben ist filigran gearbeitet und von geringem Gewicht, so dass er leicht zu führen ist, gegen direkte Angriffe aber anfällig. Gegen einen abgelenkten Feind erweist sich jedoch häufig ein einziger Schlag als ausreichend.</DefaultText>
+      <DefaultText>Legenden berichten von einem Druiden, weise und mächtig, der von einem Schwarm von Raben begleitet wurde. Im Kampf griff der Druide seine Feinde mit einem Streitkolben an, während die Raben sich von oben herabstürzten und die Feinde ablenkten und flankierten. Durch jahrelange koordinierte Angriffe und die Magie des Druiden soll sein Streitkolben verzaubert worden sein, sodass er dem, der ihn führt, ähnliche Gaben verleiht. Der Streitkolben ist filigran gearbeitet und von geringem Gewicht, sodass er leicht zu führen ist, gegen direkte Angriffe aber anfällig. Gegen einen abgelenkten Feind erweist sich jedoch häufig ein einziger Schlag als ausreichend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6210,7 +6210,7 @@ Piken sind außerdem die bevorzugten Waffen der Xaurips. Diese Pike, einfach abe
     </Entry>
     <Entry>
       <ID>1256</ID>
-      <DefaultText>Magieschmiede geben selten Auskunft über die Zutaten, die für die Herstellung dieser Tränke nötig sind. Es gehöre sich nicht, sagen sie. Auf jeden Fall aber machen die Tränke die Haut dessen, der sie trinkt, zäh und robust, so dass er weniger anfällig für Verletzungen ist.</DefaultText>
+      <DefaultText>Magieschmiede geben selten Auskunft über die Zutaten, die für die Herstellung dieser Tränke nötig sind. Es gehöre sich nicht, sagen sie. Auf jeden Fall aber machen die Tränke die Haut dessen, der sie trinkt, zäh und robust, sodass er weniger anfällig für Verletzungen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6329,7 +6329,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1279</ID>
-      <DefaultText>Diese zerfetzte Schriftrolle beschreibt einen Zauber, der eine Gruppe von Gegnern plötzlich anhalten lässt, so dass der Wirker sie unbehindert besiegen kann.</DefaultText>
+      <DefaultText>Diese zerfetzte Schriftrolle beschreibt einen Zauber, der eine Gruppe von Gegnern plötzlich anhalten lässt, sodass der Wirker sie unbehindert besiegen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7212,7 +7212,7 @@ Der Gegenstand, den sein Vater ihm gegeben hatte, war ein altes Silbermedaillon.
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Traumtänzer war ein berühmter Künstler, der zahlreiche männliche und weibliche Rollen tanzte. Auch auf den meisterlichen Umgang mit Pfeil und Bogen verstand er sich. Nach Traumtänzers Tod wurde entdeckt, dass ein silberner Wendelring mit einem glänzenden grünen Stein mit einem Teil seiner Seele versehen worden war, so dass seine oder ihre legendären Fähigkeiten weiterleben konnten. Aufgrund Traumtänzers schlanken Körperbaus und seiner Zurückgezogenheit konnte nie endgültig geklärt werden, ob er ein Mann oder eine Frau war.</DefaultText>
+      <DefaultText>Traumtänzer war ein berühmter Künstler, der zahlreiche männliche und weibliche Rollen tanzte. Auch auf den meisterlichen Umgang mit Pfeil und Bogen verstand er sich. Nach Traumtänzers Tod wurde entdeckt, dass ein silberner Wendelring mit einem glänzenden grünen Stein mit einem Teil seiner Seele versehen worden war, sodass seine oder ihre legendären Fähigkeiten weiterleben konnten. Aufgrund Traumtänzers schlanken Körperbaus und seiner Zurückgezogenheit konnte nie endgültig geklärt werden, ob er ein Mann oder eine Frau war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7473,7 +7473,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die gestaltwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
+      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die gestaltwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, sodass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7963,7 +7963,7 @@ Du Versiegelter wirst die Schwelle überschreiten.</DefaultText>
 
 Pandgram war fasziniert –&#160;manche würden sagen besessen&#160;– von dem Konzept der Beseelung. Sie beherrschte sein ganzes Leben, das er allein seinen Bemühungen widmete, sie zu verstehen. Er reiste häufig nach Eir&#160;Glanfath und in den Dyrwald, um die engwithanischen Ruinen zu besuchen. Dort machte er sich Notizen und fertigte Skizzen an. Er nahm mit zurück, was er nur konnte, um die Geheimnisse zu ergründen. Nach jahrelanger Forschung war Pandgram an dem Punkt angekommen, wo er nicht mehr alleine weiterarbeiten konnte. Er nahm einen Assistenten auf&#160;– Helig von Thein. Bald reiste Helig an Pandgrams statt nach Eir&#160;Glanfath und sammelte Wissen, während Pandgram zurückblieb, um zu experimentieren. Diese Partnerschaft erwies sich bald als fruchtbar und Pandgram gelang ein Durchbruch&#160;– ein Durchbruch, der sein Leben und die allgemeine Einstellung zur Beseelung für immer verändern sollte.
 
-Die Details seiner Experimente werden wohl nie wirklich bekannt sein, doch den Gerüchten und Geschichten zufolge hatte er Anfragen nach lebenden Versuchspersonen ausgesandt, die bereit wären, bei einem gefährlichen Experiment zu helfen, das ihr Leben verändern könnte&#160;– oder es beenden. Besonders wer ohnehin schon kurz vor dem Tod stand, wurde zur Teilnahme ermutigt. Die Reaktion war überwältigend und Pandgram konnte aus unzähligen Freiwilligen wählen. An diesem Punkt gelang ihm sein Durchbruch. Er entdeckte eine Möglichkeit, eine Seele zu befestigen&#160;– sie an ihren Körper zu binden, so dass sie diesen beim Tod nicht verlassen konnte.
+Die Details seiner Experimente werden wohl nie wirklich bekannt sein, doch den Gerüchten und Geschichten zufolge hatte er Anfragen nach lebenden Versuchspersonen ausgesandt, die bereit wären, bei einem gefährlichen Experiment zu helfen, das ihr Leben verändern könnte&#160;– oder es beenden. Besonders wer ohnehin schon kurz vor dem Tod stand, wurde zur Teilnahme ermutigt. Die Reaktion war überwältigend und Pandgram konnte aus unzähligen Freiwilligen wählen. An diesem Punkt gelang ihm sein Durchbruch. Er entdeckte eine Möglichkeit, eine Seele zu befestigen&#160;– sie an ihren Körper zu binden, sodass sie diesen beim Tod nicht verlassen konnte.
 
 Er hatte das ewige Leben entdeckt.
 
@@ -8121,7 +8121,7 @@ Das Fest der Ahnen findet während des Frühlingserwachens statt und wird zu Ehr
 
 Die Säuberung
 
-Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathanern von den aedyrischen Kolonisten zugefügt wurde, als diese begannen, sich im Dyrwald niederzulassen. Mit den Jahren hat die Säuberung sich gewandelt, so dass sie heute eher einem Spiel gleicht, das auch dazu dient, die Glanfathaner die Geschichte ihres Volkes zu lehren. Die Säuberung findet an Neujahr und Mittjahr statt und ist nur mehr eine Metapher für reale Ereignisse, keine Nachstellung der Ereignisse selbst mehr. Xaurip-Bildnisse werden im Wald aufgestellt, hohle Tonhüllen, die mit Süßigkeiten und Geschenken gefüllt sind. Die Kinder suchen im Wald nach den Bildnissen und zerstören sie&#160;– sie „säubern“ den Wald, damit die Glanfathaner ihn besetzen können. Nachdem das Gebiet gesäubert wurde, versammelt man sich zu einer Feier und einem Festmahl, bei dem die Ältesten den jüngeren Mitgliedern der Gesellschaft von der wahren Geschichte des Volkes berichten.
+Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathanern von den aedyrischen Kolonisten zugefügt wurde, als diese begannen, sich im Dyrwald niederzulassen. Mit den Jahren hat die Säuberung sich gewandelt, sodass sie heute eher einem Spiel gleicht, das auch dazu dient, die Glanfathaner die Geschichte ihres Volkes zu lehren. Die Säuberung findet an Neujahr und Mittjahr statt und ist nur mehr eine Metapher für reale Ereignisse, keine Nachstellung der Ereignisse selbst mehr. Xaurip-Bildnisse werden im Wald aufgestellt, hohle Tonhüllen, die mit Süßigkeiten und Geschenken gefüllt sind. Die Kinder suchen im Wald nach den Bildnissen und zerstören sie&#160;– sie „säubern“ den Wald, damit die Glanfathaner ihn besetzen können. Nachdem das Gebiet gesäubert wurde, versammelt man sich zu einer Feier und einem Festmahl, bei dem die Ältesten den jüngeren Mitgliedern der Gesellschaft von der wahren Geschichte des Volkes berichten.
 
 Festtag des Schwarzen Baums
 
@@ -8591,7 +8591,7 @@ Cawldha
 
 Vor 315&#160;Jahren wurde das Großreich von Vailia von schrecklichen Stürmen und beängstigenden Gezeiten heimgesucht. Die Aufzeichnungen zeigen, dass im Reich Aedyr dasselbe geschah, und dass mehrere neue aedyrische Kolonien entlang der Küste des Dyrwalds von Stürmen und Fluten völlig zerstört wurden. Zu jener Zeit beobachteten glanfathanische Astronomen während einer Finsternis etwas kleines, das neben Belafa kreiste.
 
-Nach ausgiebiger Erkundung erkannten sie, dass es ein kleiner Satellit mit einer äußerst unregelmäßigen Umlaufbahn war. Sie nannten ihn Cawldha Debh&#160;– den schwarzen Läufer. Da er kleiner ist als Belafa, wirkt er sich kaum auf die Welt aus, doch wenn seine Umlaufbahn mit der von Belafa zusammenfällt, lässt er die Gezeiten und das Wetter verrücktspielen&#160;– überall. Das geschieht mit einer launischen Häufigkeit und Schwere, so dass dieses Ereignis als „Liebespaargezeiten“ bezeichnet wird. Cawldha wurde in den Ondra-Mythos integriert. Wenn beide Monde zu sehen sind, steigert sich Ondras Verlangen, sie zu erreichen, in das Zehnfache, wodurch die Wetterkatastrophen entstehen.</DefaultText>
+Nach ausgiebiger Erkundung erkannten sie, dass es ein kleiner Satellit mit einer äußerst unregelmäßigen Umlaufbahn war. Sie nannten ihn Cawldha Debh&#160;– den schwarzen Läufer. Da er kleiner ist als Belafa, wirkt er sich kaum auf die Welt aus, doch wenn seine Umlaufbahn mit der von Belafa zusammenfällt, lässt er die Gezeiten und das Wetter verrücktspielen&#160;– überall. Das geschieht mit einer launischen Häufigkeit und Schwere, sodass dieses Ereignis als „Liebespaargezeiten“ bezeichnet wird. Cawldha wurde in den Ondra-Mythos integriert. Wenn beide Monde zu sehen sind, steigert sich Ondras Verlangen, sie zu erreichen, in das Zehnfache, wodurch die Wetterkatastrophen entstehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8846,7 +8846,7 @@ Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angrif
     </Entry>
     <Entry>
       <ID>1581</ID>
-      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Dyrwalds noch tödlicher wurden.
+      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, sodass die Kämpfe in den Wäldern für die Soldaten des Dyrwalds noch tödlicher wurden.
 
 Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu führen. Er schickte seinen Sohn Admeth an seiner Statt. Admeth besaß das taktische Geschick seines Vaters. Er setzte den Wald am Fluss Isce Uar in Brand und versperrte den fliehenden Truppen den Weg. Einige der Glanfathaner konnten entkommen, doch Tausende starben in dem Inferno. Regd wurde gefangen genommen und nach Neu-Heomar gebracht. Mehrere Monate lang setzte Admeth immer wieder diese Taktik ein, um die Glanfathaner und Delemgan vom Schlachtfeld zu treiben. Der gesamte Krieg dauerte weniger als ein Jahr. Am Ende obsiegte der Dyrwald, allerdings zu einem grauenhaften Preis. Dieser Konflikt ging als der Krieg der Schwarzen Bäume in die Geschichte ein.
 
@@ -8936,7 +8936,7 @@ Vorlas-Felder wurden nördlich der Wälder des Dyrwalds angelegt, doch durch die
 
 Da der Fercönyng noch immer versuchte, sich einen Namen im Färbemittelhandel zu machen, konnte er nicht angemessen reagieren, als Admeth Hadret sein Ultimatum stellte. Um eine Rebellion zu vermeiden und sich Zeit zu verschaffen, die Vorlas-Höfe in Readceras zu überwachen, gab der Fercönyng nach und machte Admeth zum Gréf-Palatinen. Im Gegenzug investierte Admeth Zeit und Ressourcen in die Handels- und Transportwege des Dyrwalds, was dem Fercönyng ein höheres Einkommen einbrachte.
 
-Sieben Jahre lang versorgte der Dyrwald Aedyr mit regelmäßigen Einnahmen, so dass der Fercönyng Zeit hatte, sein Handelssystem in Readceras zu festigen. Da die Aufmerksamkeit des Fercönyngs auf andere Dinge gerichtet war, ging Admeth die Zehnjahresverträge ein, mit denen er die Sklaverei im Dyrwald beendete und eine der Einnahmequellen der dyrwälderischen Entdecker dauerhaft zum Versiegen brachte&#160;– die Artefakte aus den Ruinen, die im ganzen Dyrwald zu finden sind. Zu dieser Zeit hatte das Wort des Fercönyngs für die Bewohner des Dyrwalds fast keinen Wert mehr. Admeth Hadret hatte ihn als ihren wahren Anführer ersetzt.
+Sieben Jahre lang versorgte der Dyrwald Aedyr mit regelmäßigen Einnahmen, sodass der Fercönyng Zeit hatte, sein Handelssystem in Readceras zu festigen. Da die Aufmerksamkeit des Fercönyngs auf andere Dinge gerichtet war, ging Admeth die Zehnjahresverträge ein, mit denen er die Sklaverei im Dyrwald beendete und eine der Einnahmequellen der dyrwälderischen Entdecker dauerhaft zum Versiegen brachte&#160;– die Artefakte aus den Ruinen, die im ganzen Dyrwald zu finden sind. Zu dieser Zeit hatte das Wort des Fercönyngs für die Bewohner des Dyrwalds fast keinen Wert mehr. Admeth Hadret hatte ihn als ihren wahren Anführer ersetzt.
 
 Um Admeths Stellung zu untergraben, suchte der Fercönyng Verbündete, die bereit waren, entgegen den Bedingungen des Vertrages die Ruinen zu erforschen und Artefakte daraus zu plündern. Bald besaß Aedyr wieder eine Quelle für Artefakte, die es verkaufen konnte. Als seine Agenten schließlich geschnappt worden, distanzierte der Fercönyng sich von dem Geschehen&#160;– wohl wissend, dass es keine Beweise gab, die zu ihm zurückführten.
 
@@ -9075,14 +9075,14 @@ Belmis grunzt und betrachtet seinen Finger. Er geht auf Torfal zu.
 
 TORFAL: Ich muss sagen, diese Wendung ist äußerst erfreulich. Ich war mir sicher, es würde Stunden dauern, Euch–
 BELMIS (streckt seinen Finger Torfals Mund entgegen): Was ist das?
-TORFAL (wendet den Kopf, so dass Belmis’ Finger seine Lippen nur knapp verfehlt): Was?
+TORFAL (wendet den Kopf, sodass Belmis’ Finger seine Lippen nur knapp verfehlt): Was?
 BELMIS (seufzt): Ach, nichts. Mein Fehler&#160;… Ich war mir sicher, etwas gesehen zu haben.
 
 Belmis geht hinter Torfal herum und nähert sich ihm von der anderen Seite.
 
 TORFAL: Ich war mir sicher, es würde Stunden dauern, Euch von meiner Meinung zu überzeugen. Es erfreut mein Herz, zu wissen–
 BELMIS (streckt seinen Finger wieder Torfals Mund entgegen): Da ist es schon wieder?
-TORFAL (wendet den Kopf, so dass Belmis’ Finger seine Lippen nur knapp verfehlt): Was? Wo?
+TORFAL (wendet den Kopf, sodass Belmis’ Finger seine Lippen nur knapp verfehlt): Was? Wo?
 BELMIS (leise zu sich): Verflucht! (lauter) Nichts. Ich sehe wohl Gespenster.
 TORFAL: Das muss unglaublich starkes Svef sein! Ich habe noch nie gehört, dass es vor der Einnahme schon wirkt! Seid bloß vorsichtig!</DefaultText>
       <FemaleText />
@@ -9932,7 +9932,7 @@ Ich fürchte, meine Schülerin wird auf Waels Besuch zurückblicken und sich bet
       <ID>1733</ID>
       <DefaultText>Deine Soldaten sind nicht voll bewaffnet, nicht einmal anständig gekleidet, wenn sie nicht zumindest die Grundlagen der glanfathanischen Sprache beherrschen. Wenn deine Späher nicht lauschen können, wenn deine gefangenen Soldaten die Worte ihrer Wachen nicht erkennen, wenn unsere Offiziere nicht auf Friedensangebote antworten können&#160;– scheitern wir. Selbst wenige Wörter der Gesichtsbemalten zu kennen kann den Unterschied zwischen Sieg oder Niederlage bedeuten.
 
-Die glanfathanische Schrift ist –&#160;wie die aedyrische&#160;– eine Abwandlung des alten vailianischen Alphabets, das vor langer Zeit von den Aedyrern über das Meer getragen wurde. Die Glanfathaner veränderten dieses Alphabet etwas, so dass es einige auffällige Unterschiede gibt, welche für Uninformierte verwirrend sein können.
+Die glanfathanische Schrift ist –&#160;wie die aedyrische&#160;– eine Abwandlung des alten vailianischen Alphabets, das vor langer Zeit von den Aedyrern über das Meer getragen wurde. Die Glanfathaner veränderten dieses Alphabet etwas, sodass es einige auffällige Unterschiede gibt, welche für Uninformierte verwirrend sein können.
 
 A und â ist der Unterschied zwischen „Ball“ und „fahl“.
 E und ê ist der Unterschied zwischen „wenn“ und „wen“.
@@ -13980,7 +13980,7 @@ Aber wie immer greife ich zu weit voraus. Allein diese Kreaturen zu finden ist s
       <ID>2432</ID>
       <DefaultText>Hirnmaden gelten heute als Vithrack-Delikatesse, ursprünglich hatte das Ernten der Maden aber wohl einen pragmatischen Zweck. Hirnmaden durchlaufen einen sehr langen Entwicklungszyklus. Die zunächst blassen, schwächlichen Larven werden durch eine dramatische Metamorphose zu großen und äußerst gefährlichen ausgewachsenen Maden. Nur wenige Gestandene haben eine Begegnung mit diesen Geschöpfen in der Wildnis überlebt, und die sehr abgeschottet lebenden Vithrack sind nicht sehr auskunftsfreudig&#160;… doch einigen reißerischen Fabeln zufolge sind die Hirnmaden lediglich die Überreste einer zweiten, intelligenten Kultur, die einst mit den Vithrack um die Vorherrschaft kämpfte. Wie dem auch sei, die Vithrack finden großen Gefallen daran, die Hirnmaden in den frühen Phasen ihrer Entwicklung zu verspeisen.
 
-Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. Die Maden selbst sind für Gestandene jedoch nahezu unverdaulich, so dass als Wirkung meist vor allem heftige Bauchschmerzen in Erinnerung bleiben.</DefaultText>
+Angeblich soll der Verzehr von Hirnmaden die Sinne und den Verstand schärfen. Die Maden selbst sind für Gestandene jedoch nahezu unverdaulich, sodass als Wirkung meist vor allem heftige Bauchschmerzen in Erinnerung bleiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
