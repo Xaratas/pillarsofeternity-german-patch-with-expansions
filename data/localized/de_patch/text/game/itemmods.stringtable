@@ -2356,12 +2356,12 @@
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>Immunität gegen Bezaubern und Dominieren</DefaultText>
+      <DefaultText>Immunität gegen Bezaubern und Beherrschen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>Immunität gegen Verwirren und Betäuben</DefaultText>
+      <DefaultText>Immunität gegen Verwirren und Benommenheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2391,7 +2391,7 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Zauberchance: Niedergeschlagen</DefaultText>
+      <DefaultText>Zauberchance: Niederstrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
