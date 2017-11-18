@@ -875,7 +875,7 @@ Die Schadensreduktion wird direkt von allem erlittenen Schaden abgezogen. Ein An
 
 Der tatsächlich erlittene Schaden kann nie unter die Schwelle von 20&#160;% des ursprünglichen Wertes sinken. Wird dieser Mindestwert erreicht, erscheint im Kampfprotokoll in der Angriffszeile die Meldung MIN.
 
-Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die verschiedenen Schadenstypen. Eine niedrigere SR schützt weniger gegen Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
+Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die verschiedenen Schadenstypen. Eine niedrigere SR schützt weniger gegen Schaden, sodass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -988,7 +988,7 @@ Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. 
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Eine modale Fähigkeit löst einen Effekt aus, der so lange anhält, solange die Fähigkeit aktiv ist. Die eifrige Aura eines Paladins verleiht beispielsweise jedem in der Nähe des Paladins Boni, solange die Aura aktiv ist. Modale Fähigkeiten werden oft zu Gruppen zusammengefügt, so dass nur eine modale Fähigkeit einer Kategorie gleichzeitig aktiv sein kann. Diese Gruppen werden dadurch widergespiegelt, wie die Fähigkeiten in der Aktionsleiste organisiert sind.</DefaultText>
+      <DefaultText>Eine modale Fähigkeit löst einen Effekt aus, der so lange anhält, solange die Fähigkeit aktiv ist. Die eifrige Aura eines Paladins verleiht beispielsweise jedem in der Nähe des Paladins Boni, solange die Aura aktiv ist. Modale Fähigkeiten werden oft zu Gruppen zusammengefügt, sodass nur eine modale Fähigkeit einer Kategorie gleichzeitig aktiv sein kann. Diese Gruppen werden dadurch widergespiegelt, wie die Fähigkeiten in der Aktionsleiste organisiert sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1085,7 +1085,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Todeswächter sind außerordentlich selten. Sie entstehen manchmal beim Ableben einer besonders entschlossenen Person, die sich weigert, die physische Welt zu verlassen und ins Jenseits überzugehen. Am häufigsten tritt diese schreckliche Verwandlung bei Paladinen auf, aber auch Priester und andere Fanatiker erleiden dieses Schicksal oft. Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, so dass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht. Ihre brüchige Verbindung zum Jenseits ermöglicht es ihnen, furchterregende Feuerbälle oder Schatten zu beschwören und sogar mit einem einzigen Wort die Lebenden zu töten.</DefaultText>
+      <DefaultText>Todeswächter sind außerordentlich selten. Sie entstehen manchmal beim Ableben einer besonders entschlossenen Person, die sich weigert, die physische Welt zu verlassen und ins Jenseits überzugehen. Am häufigsten tritt diese schreckliche Verwandlung bei Paladinen auf, aber auch Priester und andere Fanatiker erleiden dieses Schicksal oft. Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, sodass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht. Ihre brüchige Verbindung zum Jenseits ermöglicht es ihnen, furchterregende Feuerbälle oder Schatten zu beschwören und sogar mit einem einzigen Wort die Lebenden zu töten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1442,7 +1442,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adrasäule, so dass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als „verlorene Seelen“ oder „die Verlorenen“ bezeichnet.</DefaultText>
+      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adrasäule, sodass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als „verlorene Seelen“ oder „die Verlorenen“ bezeichnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

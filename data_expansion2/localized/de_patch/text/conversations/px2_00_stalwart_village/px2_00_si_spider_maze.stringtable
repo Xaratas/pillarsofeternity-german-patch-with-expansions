@@ -651,7 +651,7 @@ Du stolperst benommen nach hinten und das Monster huscht davon in die Dunkelheit
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Der Boden steigt hier unter deinen Füßen steil an, so dass du nur noch halb kriechend vorwärts kommst. Ein kurzes Stück vor dir senkt der Boden sich jedoch ebenso plötzlich wieder.</DefaultText>
+      <DefaultText>Der Boden steigt hier unter deinen Füßen steil an, sodass du nur noch halb kriechend vorwärts kommst. Ein kurzes Stück vor dir senkt der Boden sich jedoch ebenso plötzlich wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
