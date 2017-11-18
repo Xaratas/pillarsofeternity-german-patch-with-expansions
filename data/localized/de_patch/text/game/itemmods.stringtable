@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>468</EntryCount>
+  <EntryCount>486</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2342,6 +2342,96 @@
     <Entry>
       <ID>468</ID>
       <DefaultText>Scharf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Schnell 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Schnell 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>Immunität gegen Bezaubern und Beherrschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Immunität gegen Verwirren und Benommenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Zauberwirkung: Verwirrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Zauberwirkung: Flammenschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Zauberchance: Bezaubern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Zauberchance: Humpeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Zauberchance: Überwältigende Welle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Zauberchance: Niederstrecken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Zauberchance: Betäuben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Zauberchance: Schwächen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Zauberverteidigung: Flammenstrom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Zauberschlag: Feuermal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Der Abwehr +20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Der Tapferkeit +20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Der Reflexe +20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Des Willens +20</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

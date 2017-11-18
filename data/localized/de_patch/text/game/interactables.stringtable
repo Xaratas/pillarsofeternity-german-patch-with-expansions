@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1095</EntryCount>
+  <EntryCount>1096</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Stück Pergament ist abgenutzt und ausgefranst, die Tinte ist verblasst. „In diesen Zeiten der Not&#160;… müssen wir genau so viel Glauben in uns selbst haben&#160;…“</DefaultText>
+      <DefaultText>Dieses Stück Pergament ist abgenutzt und ausgefranst, die Tinte ist verblasst. „In diesen Zeiten der Not&#160;… müssen wir genauso viel Glauben in uns selbst haben&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5204,7 +5204,7 @@ Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz.�
     </Entry>
     <Entry>
       <ID>1132</ID>
-      <DefaultText>Das Licht dieser Pilze beleuchtet den Staub in der Luft, so dass die dicken Sporenwolken zu sehen sind. Du spürst jeden Atemzug schwer in deiner Nase.</DefaultText>
+      <DefaultText>Das Licht dieser Pilze beleuchtet den Staub in der Luft, sodass die dicken Sporenwolken zu sehen sind. Du spürst jeden Atemzug schwer in deiner Nase.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5344,7 +5344,7 @@ Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz.�
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>Zwischen den Knochen dieser Skeletthand hat sich Eis gebildet, so dass ein glattes Gefälle hinunter zu den schroffen Klippen entstanden ist.</DefaultText>
+      <DefaultText>Zwischen den Knochen dieser Skeletthand hat sich Eis gebildet, sodass ein glattes Gefälle hinunter zu den schroffen Klippen entstanden ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5545,6 +5545,11 @@ Dennoch sind wir Pargrunen. Schreibe unsere Namen in deine Halle und dein Herz.�
     <Entry>
       <ID>1200</ID>
       <DefaultText>Eine Falle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>Todesfeuer-Material</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

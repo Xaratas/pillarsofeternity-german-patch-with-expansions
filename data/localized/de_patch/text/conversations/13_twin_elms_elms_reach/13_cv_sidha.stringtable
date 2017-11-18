@@ -25,12 +25,12 @@ Ihre Haare hängen unter dem Schatten von gezackten Blättern wie die hängenden
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Die andere starrt dich ohne zu blinzeln an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
+      <DefaultText>Die andere starrt dich, ohne zu blinzeln, an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
 
-„Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir ihn nieder und sparen uns den Ärger. Damit wäre die Schuld seines Vorgängers beglichen.“</DefaultText>
-      <FemaleText>Die andere starrt dich ohne zu blinzeln an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
+„Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen, um zu schänden. Strecken wir ihn nieder und sparen uns den Ärger. Damit wäre die Schuld seines Vorgängers beglichen.“</DefaultText>
+      <FemaleText>Die andere starrt dich, ohne zu blinzeln, an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
 
-„Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir sie nieder und sparen uns den Ärger. Damit wäre die Schuld ihres Vorgängers beglichen.“</FemaleText>
+„Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen, um zu schänden. Strecken wir sie nieder und sparen uns den Ärger. Damit wäre die Schuld ihres Vorgängers beglichen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -380,7 +380,7 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Du glaubst lieber an eine tröstliche Lüge als eine harte Wahrheit zu akzeptieren. Ein häufiger Wesenszug in deinesgleichen. In gewisser Weise liebenswert, aber es ist ein Hindernis. Eine Lüge in einer Lüge. Erst, wenn du dich dieser Wahrheit stellst, die Hoffnung auf eine Erlösung aufgibst und die gnadenlose Absolutheit akzeptierst, wird das wahre Wesen einer Seele offengelegt.“</DefaultText>
+      <DefaultText>„Du glaubst lieber an eine tröstliche Lüge, als eine harte Wahrheit zu akzeptieren. Ein häufiger Wesenszug in deinesgleichen. In gewisser Weise liebenswert, aber es ist ein Hindernis. Eine Lüge in einer Lüge. Erst, wenn du dich dieser Wahrheit stellst, die Hoffnung auf eine Erlösung aufgibst und die gnadenlose Absolutheit akzeptierst, wird das wahre Wesen einer Seele offengelegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,7 +679,7 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Wenn du sonst nichts schaffst dann sorge zumindest dafür, dass dieser Mann, für das, was er hier getan hat, bezahlt.“</DefaultText>
+      <DefaultText>„Wenn du sonst nichts schaffst, dann sorge zumindest dafür, dass dieser Mann, für das, was er hier getan hat, bezahlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

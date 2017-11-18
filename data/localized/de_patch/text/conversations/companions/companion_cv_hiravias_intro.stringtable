@@ -8,9 +8,9 @@
       <ID>1</ID>
       <DefaultText>Ein kleiner Orlaner in zerlumpter Lederkleidung, der auf einem Stück rohen Fleisch herumkaut, murmelt eine Begrüßung und winkt mit seiner Hand.
 
-Trotz seines zufriedenen Lächelns ist der obere rechte Teil seines Gesichts schlimm zugerichtet. Eine mit einem Augapfel bestickte Augenklappe ist um seinen Kopf gebunden und während sein eines Ohr als verstümmelter Rest dessen nur noch zuckt und krampft, stellt sich das andere munter auf als du dich näherst.
+Trotz seines zufriedenen Lächelns ist der obere rechte Teil seines Gesichts schlimm zugerichtet. Eine mit einem Augapfel bestickte Augenklappe ist um seinen Kopf gebunden und während sein eines Ohr als verstümmelter Rest dessen nur noch zuckt und krampft, stellt sich das andere munter auf, als du dich näherst.
 
-Neben ihm ist der Kadaver eines Hirsches auf dem Boden ausgebreitet, der aussieht, als sei er von einem Bär oder Wolf zerrissen worden.</DefaultText>
+Neben ihm ist der Kadaver eines Hirsches auf dem Boden ausgebreitet, der aussieht, als sei er von einem Bären oder Wolf zerrissen worden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,7 +57,7 @@ Er geht einen Schritt zurück, wobei er die Arme ausbreitet und dir den Kadaver 
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Ich wurde von den Zelebranten des Habicht und Efeu-Zirkels des Fischerkranich-Stammes ausgebildet. Ich weiß mehr als genug über Naturmagie und&#160;… naja&#160;…“ Auf seinem Gesicht macht sich ein spitzbübisches Grinsen breit. „Einem guten Kampf gehe ich jedenfalls auch nicht aus dem Weg.“</DefaultText>
+      <DefaultText>„Ich wurde von den Zelebranten des Habicht und Efeu-Zirkels des Fischerkranich-Stammes ausgebildet. Ich weiß mehr als genug über Naturmagie und&#160;… na ja&#160;…“ Auf seinem Gesicht macht sich ein spitzbübisches Grinsen breit. „Einem guten Kampf gehe ich jedenfalls auch nicht aus dem Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@ Er geht einen Schritt zurück, wobei er die Arme ausbreitet und dir den Kadaver 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Er kneift sein gutes Auge zusammen und legt seine Stirn in Falten. „Naja, vielleicht überlegst du es dir ja nochmal.“
+      <DefaultText>Er kneift sein gutes Auge zusammen und legt seine Stirn in Falten. „Na ja, vielleicht überlegst du es dir ja nochmal.“
 
 Er beugt seinen Kopf zu dir und kaut weiter an einem Fetzen Hirschfleisch. „Mach's gut, Reisender, und pass in der Schlucht auf, wohin du trittst.“</DefaultText>
       <FemaleText />
@@ -150,7 +150,7 @@ Er wendet seine Aufmerksamkeit dem Kadaver zu und stößt seine Hände in die au
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Naja, dann musst du eben den Stelgaer finden, der das hier getan hat.“ Er beißt ein weiteres Mal in das rohe Fleisch. „Ich habe den Kadaver gerade erst gefunden. Wenn ich richtig informiert bin, dann ist es hierzulande kein Verbrechen, ein Geier zu sein.“</DefaultText>
+      <DefaultText>„Na ja, dann musst du eben den Stelgaer finden, der das hier getan hat.“ Er beißt ein weiteres Mal in das rohe Fleisch. „Ich habe den Kadaver gerade erst gefunden. Wenn ich richtig informiert bin, dann ist es hierzulande kein Verbrechen, ein Geier zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

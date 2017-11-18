@@ -43,7 +43,7 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Genau? Wenn ich das wüsste, hätte ich bessere Laune. Dass Mestre Verzano vor dem Jahreszeitenwechsel in einem Grab landen wird ist das Einzige, was ich genau weiß.“</DefaultText>
+      <DefaultText>„Genau? Wenn ich das wüsste, hätte ich bessere Laune. Dass Mestre Verzano vor dem Jahreszeitenwechsel in einem Grab landen wird, ist das Einzige, was ich genau weiß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Das ist allerdings wahr. Verzano hat pures Glück, dass zur Zeit niemand versucht, ihn mit Stahl zu bezahlen.“ Sie beißt die Zähne zusammen. „Früher oder später wird es mit seinem Glück vorbei sein.“</DefaultText>
+      <DefaultText>„Das ist allerdings wahr. Verzano hat pures Glück, dass zurzeit niemand versucht, ihn mit Stahl zu bezahlen.“ Sie beißt die Zähne zusammen. „Früher oder später wird es mit seinem Glück vorbei sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,12 +262,12 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Ah. Naja, ich werde in der Botschaft sein, solltest du deine Meinung ändern. Sie liegt südwestlich vom Palast des Ducs. Urfeuer.“ Mit dem letzten Wort leuchten ihre goldenen Augen auf. „Corès.“ Bevor sie sich zum Gehen umdreht, lächelt sie schwach und tippt sich mit ihrem Mittelfinger zweimal auf ihren Daumen.</DefaultText>
+      <DefaultText>„Ah. Na ja, ich werde in der Botschaft sein, solltest du deine Meinung ändern. Sie liegt südwestlich vom Palast des Ducs. Urfeuer.“ Mit dem letzten Wort leuchten ihre goldenen Augen auf. „Corès.“ Bevor sie sich zum Gehen umdreht, lächelt sie schwach und tippt sich mit ihrem Mittelfinger zweimal auf ihren Daumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Gut. Vielleicht kann ich jetzt endlich etwas Wichtigeres tun als Kindermädchen für Kaufleute zu spielen.“ Sie lächelt. „Die Botschaft befindet sich in Urfeuer, südwestlich vom Palast des Ducs.“</DefaultText>
+      <DefaultText>„Gut. Vielleicht kann ich jetzt endlich etwas Wichtigeres tun, als Kindermädchen für Kaufleute zu spielen.“ Sie lächelt. „Die Botschaft befindet sich in Urfeuer, südwestlich vom Palast des Ducs.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -838,7 +838,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>„Ah. Naja, ich werde in der Botschaft sein, solltest du deine Meinung ändern. Sie liegt südwestlich vom Palast des Ducs. Urfeuer.“ Mit dem letzten Wort leuchten ihre goldenen Augen auf. „Corès.“ Bevor sie sich zum Gehen umdreht, lächelt sie schwach und tippt sich mit ihrem Mittelfinger zweimal auf ihren Daumen.</DefaultText>
+      <DefaultText>„Ah. Na ja, ich werde in der Botschaft sein, solltest du deine Meinung ändern. Sie liegt südwestlich vom Palast des Ducs. Urfeuer.“ Mit dem letzten Wort leuchten ihre goldenen Augen auf. „Corès.“ Bevor sie sich zum Gehen umdreht, lächelt sie schwach und tippt sich mit ihrem Mittelfinger zweimal auf ihren Daumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

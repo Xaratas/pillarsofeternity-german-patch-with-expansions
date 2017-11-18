@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Danach ordnete Raedric die Versiegelung des Tempels an. Jahrelang ist er so gewesen&#160;… bis vor Kurzem. Fürst Raedric hofft, dass man uns durch die Zerstörung des Tempels eines lebenden Gottes vergeben wird. Und damit wird auch das Vermächtnis enden, verstehst du?“ Er lächelt schief.</DefaultText>
+      <DefaultText>„Danach ordnete Raedric die Versiegelung des Tempels an. Jahrelang ist er so gewesen&#160;… bis vor kurzem. Fürst Raedric hofft, dass man uns durch die Zerstörung des Tempels eines lebenden Gottes vergeben wird. Und damit wird auch das Vermächtnis enden, verstehst du?“ Er lächelt schief.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Naja, ich habe es versucht. Ich war noch gar nicht weit drin, als ich der Sache schon nicht mehr gewachsen war.“ Wirtan zieht eine Grimasse. „Ich habe schon lange keine Klinge mehr zum Kampf erhoben. Wie sich herausgestellt hat, kann man das auch durchaus verlernen. Du aber siehst so aus, als könntest du dich deiner Haut erwehren.“</DefaultText>
+      <DefaultText>„Na ja, ich habe es versucht. Ich war noch gar nicht weit drin, als ich der Sache schon nicht mehr gewachsen war.“ Wirtan zieht eine Grimasse. „Ich habe schon lange keine Klinge mehr zum Kampf erhoben. Wie sich herausgestellt hat, kann man das auch durchaus verlernen. Du aber siehst so aus, als könntest du dich deiner Haut erwehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,13 +171,13 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Wirtan sieht sich um. „Wahrscheinlich. Seit der Tempel versiegelt wurde, hat sich niemand mehr dort umgesehen. Naja, von mir mal abgesehen, und ich habe nichts angefasst. Alle Wertgegenstände da drin wirst du als Erster sehen. Während du dabei bist, bitte ich dich nur um diesen einen Gefallen.“</DefaultText>
+      <DefaultText>Wirtan sieht sich um. „Wahrscheinlich. Seit der Tempel versiegelt wurde, hat sich niemand mehr dort umgesehen. Na ja, von mir mal abgesehen, und ich habe nichts angefasst. Alle Wertgegenstände da drin wirst du als Erster sehen. Während du dabei bist, bitte ich dich nur um diesen einen Gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Naja, ich habe es versucht. Ich war noch gar nicht weit drin, als ich der Sache schon nicht mehr gewachsen war.“ Wirtan blickt zu dir hinauf. „Ich habe schon lange keine Klinge mehr zum Kampf erhoben. Aber so ein kräftiger Kerl wie du? Du kannst dich deiner Haut erwehren!“</DefaultText>
-      <FemaleText>„Naja, ich habe es versucht. Ich war noch gar nicht weit drin, als ich der Sache schon nicht mehr gewachsen war.“ Wirtan blickt zu dir hinauf. „Ich habe schon lange keine Klinge mehr zum Kampf erhoben. Aber so ein kräftiges Mädel wie du? Du kannst dich deiner Haut erwehren!“</FemaleText>
+      <DefaultText>„Na ja, ich habe es versucht. Ich war noch gar nicht weit drin, als ich der Sache schon nicht mehr gewachsen war.“ Wirtan blickt zu dir hinauf. „Ich habe schon lange keine Klinge mehr zum Kampf erhoben. Aber so ein kräftiger Kerl wie du? Du kannst dich deiner Haut erwehren!“</DefaultText>
+      <FemaleText>„Na ja, ich habe es versucht. Ich war noch gar nicht weit drin, als ich der Sache schon nicht mehr gewachsen war.“ Wirtan blickt zu dir hinauf. „Ich habe schon lange keine Klinge mehr zum Kampf erhoben. Aber so ein kräftiges Mädel wie du? Du kannst dich deiner Haut erwehren!“</FemaleText>
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -186,12 +186,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Wirtan lacht und zuckt gleich vor Schmerzen zusammen, weil dadurch sein Arm in Bewegung gerät. „Ich erzähle dir nur die ganze Geschichte, das ist alles. Ich möchte tiefer in den Tempel hineinkommen, dorthin, wo die Priester lebten. Fürst Raedric ließ sie umbringen&#160;– genau so wie diese armen Bastarde draußen am Baum.“</DefaultText>
+      <DefaultText>Wirtan lacht und zuckt gleich vor Schmerzen zusammen, weil dadurch sein Arm in Bewegung gerät. „Ich erzähle dir nur die ganze Geschichte, das ist alles. Ich möchte tiefer in den Tempel hineinkommen, dorthin, wo die Priester lebten. Fürst Raedric ließ sie umbringen&#160;– genauso wie diese armen Bastarde draußen am Baum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„Bis vor kurzer Zeit ist der Tempel jahrelang versiegelt gewesen. Das wiederum rief mich auf den Plan, und jetzt hoffentlich auch dich.“ Wirtan hält einen Moment inne, um zu Atem zu kommen. „Die Priester&#160;– wenn du ihre Überreste finden könntest&#160;… Naja, vielleicht könnten wir ihnen dann endlich ein ordentliches Begräbnis verschaffen.“</DefaultText>
+      <DefaultText>„Bis vor kurzer Zeit ist der Tempel jahrelang versiegelt gewesen. Das wiederum rief mich auf den Plan, und jetzt hoffentlich auch dich.“ Wirtan hält einen Moment inne, um zu Atem zu kommen. „Die Priester&#160;– wenn du ihre Überreste finden könntest&#160;… Na ja, vielleicht könnten wir ihnen dann endlich ein ordentliches Begräbnis verschaffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,7 +343,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Das habe ich auch schon bemerkt&#160;… Der Tempel ist jahrelang versiegelt gewesen. Sie müssen sich wegen der&#160;… naja, wegen der Nahrungsvorräte hineingewühlt haben. Schlimmeres als Schädlinge solltest du aber nicht vorfinden.“</DefaultText>
+      <DefaultText>„Das habe ich auch schon bemerkt&#160;… Der Tempel ist jahrelang versiegelt gewesen. Sie müssen sich wegen der&#160;… na ja, wegen der Nahrungsvorräte hineingewühlt haben. Schlimmeres als Schädlinge solltest du aber nicht vorfinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,7 +673,7 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>„Ich habe dir gesagt, wie es gelaufen ist.“ sagt Wirtan mit rauer Stimme. „Ich habe dir gesagt, was geschehen ist. Jetzt bist du wohl an der Reihe, eine Entscheidung zu treffen.“</DefaultText>
+      <DefaultText>„Ich habe dir gesagt, wie es gelaufen ist“, sagt Wirtan mit rauer Stimme. „Ich habe dir gesagt, was geschehen ist. Jetzt bist du wohl an der Reihe, eine Entscheidung zu treffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,7 +930,7 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Wirtan lacht düster. „Naja, ich wollte eigentlich ganz schnell und flink hinein und wieder hinaus. Ich füge niemand Schaden zu, aber&#160;… Fürst Raedric hat allen verboten, irgendetwas mit dem Zersplitterten Gott zu tun zu haben. Ihm das zu erklären, wäre ein bisschen&#160;… schwieriger als bei dir.“</DefaultText>
+      <DefaultText>Wirtan lacht düster. „Na ja, ich wollte eigentlich ganz schnell und flink hinein und wieder hinaus. Ich füge niemand Schaden zu, aber&#160;… Fürst Raedric hat allen verboten, irgendetwas mit dem Zersplitterten Gott zu tun zu haben. Ihm das zu erklären, wäre ein bisschen&#160;… schwieriger als bei dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

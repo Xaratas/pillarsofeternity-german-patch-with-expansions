@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Es ist so, wie ich gesagt habe. Der Müller kontrolliert die Getreidepreise. Er behauptet von sich, gerecht zu sein, aber ich weiß es sicher, dass Leute wie Aufra nur die Hälfte von uns zahlen.“ Der Zwerg seufzt. „Und vielleicht sind wir ein bisschen grob zu ihm gewesen. Aber was hätten wir denn tun sollen? Wir können nicht mehr weiterzahlen. Wir werden verhungern, und meinst du etwa, Trumbel würde das dann leid tun?“</DefaultText>
+      <DefaultText>„Es ist so, wie ich gesagt habe. Der Müller kontrolliert die Getreidepreise. Er behauptet von sich, gerecht zu sein, aber ich weiß es sicher, dass Leute wie Aufra nur die Hälfte von uns zahlen.“ Der Zwerg seufzt. „Und vielleicht sind wir ein bisschen grob zu ihm gewesen. Aber was hätten wir denn tun sollen? Wir können nicht mehr weiterzahlen. Wir werden verhungern, und meinst du etwa, Trumbel würde das dann leidtun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Die Wangen des Zwergs zittern vor Wut. „Es geht darum, dass er uns kaum was von dem Weizen abgibt, das wir ihm bringen, und dann zieht er uns noch über den Tisch, wenn wir Getreide kaufen müssen. Es geht um Bauern, die Hunger leiden, während sich ein paar reiche Bastarde an ihrer Ernte bereichern.“</DefaultText>
+      <DefaultText>Die Wangen des Zwergs zittern vor Wut. „Es geht darum, dass er uns kaum was von dem Weizen abgibt, den wir ihm bringen, und dann zieht er uns noch über den Tisch, wenn wir Getreide kaufen müssen. Es geht um Bauern, die Hunger leiden, während sich ein paar reiche Bastarde an ihrer Ernte bereichern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Sweynur schüttelt knapp den Kopf. „Ich habe meine Meinung gesagt, und jetzt werde ich in Frieden mein Met trinken.“</DefaultText>
+      <DefaultText>Sweynur schüttelt knapp den Kopf. „Ich habe meine Meinung gesagt, und jetzt werde ich in Frieden meinen Met trinken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

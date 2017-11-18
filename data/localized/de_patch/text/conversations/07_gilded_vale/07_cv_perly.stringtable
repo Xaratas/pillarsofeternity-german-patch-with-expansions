@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Am Rande deines Sichtfelds kommt Licht auf. Du spürst die Sonne im Rücken und das Gewicht eines Bogens in deiner Hand. Dir wird plötzlich bewusst, dass du den langen weg aus dem Tal gekommen bist, um Hirsche zu jagen. Jetzt stehst du vor einer Höhle, und die Finsternis erstreckt sich weit in sie hinein. Trotzdem geht dein Freund vor dir forsch nach vorne, und sein roter Umhang schlenkert um seine Fersen. Du folgst ihm mit hämmernden Herz in der Brust tiefer in die Höhle hinein.</DefaultText>
+      <DefaultText>Am Rande deines Sichtfelds kommt Licht auf. Du spürst die Sonne im Rücken und das Gewicht eines Bogens in deiner Hand. Dir wird plötzlich bewusst, dass du den langen weg aus dem Tal gekommen bist, um Hirsche zu jagen. Jetzt stehst du vor einer Höhle, und die Finsternis erstreckt sich weit in sie hinein. Trotzdem geht dein Freund vor dir forsch nach vorne, und sein roter Umhang schlenkert um seine Fersen. Du folgst ihm mit hämmerndem Herzen in der Brust tiefer in die Höhle hinein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@ Die Leiche liegt zu deinen Füßen, und der Geist verweilt immer noch. Im Energi
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Die Verwirrung strahlt wellenförmig vom Geist aus. Plötzlich spürst du mächtige Wut, in die sich Triumph mischt. Der Geist scheint durch die Kraft seines eigenen Jubels zu verblassen. Er wird immer schwächer und schwächer, bist du abermals in der Höhle alleine bist.</DefaultText>
+      <DefaultText>Die Verwirrung strahlt wellenförmig vom Geist aus. Plötzlich spürst du mächtige Wut, in die sich Triumph mischt. Der Geist scheint durch die Kraft seines eigenen Jubels zu verblassen. Er wird immer schwächer und schwächer, bis du abermals in der Höhle alleine bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@ Die Leiche liegt zu deinen Füßen, und der Geist verweilt immer noch. Im Energi
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Er ist jetzt genau so tot wie du.“</DefaultText>
+      <DefaultText>„Er ist jetzt genauso tot wie du.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

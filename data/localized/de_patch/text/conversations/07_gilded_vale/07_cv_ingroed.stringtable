@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Das&#160;… das ist unmöglich.“ Nonton starrt dich an. „Wie solltest du das erfahren haben?“ Sein Hand fällt zu seinem Schwertgürtel hinab. „Ich habe keine Spuren hinterlassen.“</DefaultText>
+      <DefaultText>„Das&#160;… das ist unmöglich.“ Nonton starrt dich an. „Wie solltest du das erfahren haben?“ Seine Hand fällt zu seinem Schwertgürtel hinab. „Ich habe keine Spuren hinterlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ingroed erbleicht. Sie wirft eine Hand zur Seite, als ob sie ihr Gleichgewicht halten wollten, und sinkt dann zu Boden. Anstatt zu seufzen, atmet sie kehlig aus. „Du&#160;… du hast alles zunichte gemacht.“</DefaultText>
+      <DefaultText>Ingroed erbleicht. Sie wirft eine Hand zur Seite, als ob sie ihr Gleichgewicht halten wollten, und sinkt dann zu Boden. Anstatt zu seufzen, atmet sie kehlig aus. „Du&#160;… du hast alles zunichtegemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Ja, kann ich mir vorstellen.“ Ingroed lacht. „Wir packen tatsächlich unsere Sachen für eine Reise. Ich wollte Trutzbucht besuchen, und&#160;…“ Sie schaut Nonton an. „Naja, ehrlich gesagt habe ich die Schnauze voll von diesem Dorf.“</DefaultText>
+      <DefaultText>„Ja, kann ich mir vorstellen.“ Ingroed lacht. „Wir packen tatsächlich unsere Sachen für eine Reise. Ich wollte Trutzbucht besuchen, und&#160;…“ Sie schaut Nonton an. „Na ja, ehrlich gesagt habe ich die Schnauze voll von diesem Dorf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Meine Ehemann, und einer seiner Freunde. Sie sind im Talholz auf die Jagd gegangen, und sie hätten wirklich längst zurück sein sollen. Hast du sie wirklich nicht gesehen?“</DefaultText>
+      <DefaultText>„Mein Ehemann, und einer seiner Freunde. Sie sind im Talholz auf die Jagd gegangen, und sie hätten wirklich längst zurück sein sollen. Hast du sie wirklich nicht gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Die Trauer auf ihrem Gesicht wechselt zu stiller Wut. Ihr Stimme zittert. „Du hast mir alles genommen, und jetzt brüstest du dich auch noch damit? Ich werde dafür sorgen, dass du deine gerechte Strafe erhältst.“ Sie zieht ein Messer von ihrer Hüfte und stürzt auf dich zu.</DefaultText>
+      <DefaultText>Die Trauer auf ihrem Gesicht wechselt zu stiller Wut. Ihre Stimme zittert. „Du hast mir alles genommen, und jetzt brüstest du dich auch noch damit? Ich werde dafür sorgen, dass du deine gerechte Strafe erhältst.“ Sie zieht ein Messer von ihrer Hüfte und stürzt auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,8 +241,8 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe ihn vor dem Bär gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</DefaultText>
-      <FemaleText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe sie vor dem Bär gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</FemaleText>
+      <DefaultText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe ihn vor dem Bären gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</DefaultText>
+      <FemaleText>Nonton hustet. „J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich&#160;… habe sie vor dem Bären gewarnt.“ Er neigt seinen Kopf. „Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -286,12 +286,12 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Nonton weicht zurück, deinem Blick aber nicht aus. Einen Augenblick später nickt er mit entschlossener Miene. „Gut. Ich gestehe. Ich habe es getan. Ich habe dafür gesorgt, dass er diese Höhle nie wieder verlässt.“ Sein Hand fällt zu seinem Schwertgürtel hinab. „Und ich würde es wieder tun.“</DefaultText>
+      <DefaultText>Nonton weicht zurück, deinem Blick aber nicht aus. Einen Augenblick später nickt er mit entschlossener Miene. „Gut. Ich gestehe. Ich habe es getan. Ich habe dafür gesorgt, dass er diese Höhle nie wieder verlässt.“ Seine Hand fällt zu seinem Schwertgürtel hinab. „Und ich würde es wieder tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Nonton, warte&#160;–“ Ingroed hebt eine Hand. „Ich weiß nicht, was du in dieser Höhle gesehen hast, aber in Wirklichkeit ist alles ganz anders. Perly&#160;… mein Ehemann&#160;… er war genau so ein Biest wie dieser Bär.“</DefaultText>
+      <DefaultText>„Nonton, warte&#160;–“ Ingroed hebt eine Hand. „Ich weiß nicht, was du in dieser Höhle gesehen hast, aber in Wirklichkeit ist alles ganz anders. Perly&#160;… mein Ehemann&#160;… er war genauso ein Biest wie dieser Bär.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Nonton zögert, dann verdunkeln sich seine Gesichtszüge. „Mein ‚Freund‘. Selbst zu seinen Freunden war er ein grausamer Mann. Du hast ihn nicht gekannt, denn andernfalls würdest du ihn nicht verteidigen.“ Sein Hand fällt zu seinem Schwertgürtel hinab.</DefaultText>
+      <DefaultText>Nonton zögert, dann verdunkeln sich seine Gesichtszüge. „Mein ‚Freund‘. Selbst zu seinen Freunden war er ein grausamer Mann. Du hast ihn nicht gekannt, denn andernfalls würdest du ihn nicht verteidigen.“ Seine Hand fällt zu seinem Schwertgürtel hinab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

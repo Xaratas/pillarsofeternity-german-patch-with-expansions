@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_fulvano_blunderbuss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du bemerkst etwas zwischen dem Adra und Kupfer – ein Objekt aus Holz und Stahl, versteckt hinter dem Ohr des Monuments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Objekt nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du stellst dich auf das Geländer und lehnst dich gegen das Riesenohr. Du streckst deine Hand aus, bis deine Finger das Objekt streifen und schließlich zu greifen bekommen. Du ziehst es heraus und kletterst zurück auf die Plattform, um es zu untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Waffe besteht aus einem kurzen Stahlrohr in einem robusten Schaft. Es scheint eine abgenutzte Donnerbüchse zu sein. Der stählerne Lauf weist zahlreiche Kratzer auf und am Hartholzgriff sind Dellen und Absplitterungen zu erkennen. Die Waffe riecht nach Rauch und Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -13,7 +13,7 @@ Nach einem kurzen Stück wird dein Fortschritt allerdings unterbrochen. Ein gro�
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Der Felsen liegt eng an der Felswand, so dass du auf dieser Seite nicht an ihm vorbei gelangst. Auf der Seite des Abhangs ist jedoch gerade genug Platz, um auf die andere Seite zu gelangen. Der Felsen hat bei der Landung jedoch die Stufen darunter zerschlagen.</DefaultText>
+      <DefaultText>Der Felsen liegt eng an der Felswand, sodass du auf dieser Seite nicht an ihm vorbei gelangst. Auf der Seite des Abhangs ist jedoch gerade genug Platz, um auf die andere Seite zu gelangen. Der Felsen hat bei der Landung jedoch die Stufen darunter zerschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@ Nach einem kurzen Stück wird dein Fortschritt allerdings unterbrochen. Ein gro�
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Ohne zu zögern duckst du dich unter einen kleinen Felsvorsprung. Die Steine schlagen hart auf der Erde auf und springen die Treppe hinab oder fallen in den Abgrund.</DefaultText>
+      <DefaultText>Ohne zu zögern, duckst du dich unter einen kleinen Felsvorsprung. Die Steine schlagen hart auf der Erde auf und springen die Treppe hinab oder fallen in den Abgrund.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

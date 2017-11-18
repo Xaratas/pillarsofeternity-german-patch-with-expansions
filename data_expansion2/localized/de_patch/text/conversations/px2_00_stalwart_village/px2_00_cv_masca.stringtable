@@ -225,7 +225,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Ich habe einen Blick in Meister Engrims Bücher geworfen. Es gibt ein Ritual, mit dem man einen Schmiedehammer verzaubern kann, so dass er einen zu einem besseren Schmied macht!“
+      <DefaultText>„Ich habe einen Blick in Meister Engrims Bücher geworfen. Es gibt ein Ritual, mit dem man einen Schmiedehammer verzaubern kann, sodass er einen zu einem besseren Schmied macht!“
 
 „Ich habe den ersten Teil des Rituals schon abgeschlossen – den Hammer zu schmieden. Leider muss man für die nächsten beiden Teile in den Dyrwald reisen, und Meister Engrim lässt mich gewiss nicht so bald fort.“</DefaultText>
       <FemaleText />
@@ -271,7 +271,7 @@ Sie wendet sich dir zu. „Danke, dass du versucht hast zu helfen. Hier, nimm da
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Oh, schön zu hören. Naja, ich habe nicht vor, wegzugehen.“</DefaultText>
+      <DefaultText>„Oh, schön zu hören. Na ja, ich habe nicht vor, wegzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2426</EntryCount>
+  <EntryCount>2439</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12237,6 +12237,93 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2456</ID>
       <DefaultText>{0} der eingehenden T&#x2060;reffer umgewandelt zu Leichten Treffern (Nur Reflex)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2457</ID>
+      <DefaultText>Telemetrie aktivieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2458</ID>
+      <DefaultText>Wenn aktiviert, werden anonymisierte Nutzungsdaten an die Entwickler übermittelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2459</ID>
+      <DefaultText>Du kannst nun einige einzigartige und seelengebundene Todesfeuer-Gegenstände aus der Fortsetzung hier im Östlichen Abschnitt entdecken. In den Versionshinweisen findest du Details zu jedem Gegenstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2460</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2461</ID>
+      <DefaultText>Eternity 3.07 Update</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2462</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2463</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2464</ID>
+      <DefaultText>[b]Todesfeuer-Gegenstände[/b]
+
+Du kannst nun einige einzigartige und seelengebundene Todesfeuer-Gegenstände aus der Fortsetzung hier im Östlichen Abschnitt entdecken. In den Versionshinweisen findest du Details zu jedem Gegenstand.
+
+[b]Neue Porträts[/b]
+
+In der Charaktererstellung gibt es nun neue Porträts.
+
+[b]Hilf uns, unsere Spiele noch besser zu machen![/b]
+
+Euer Feedback ist entscheidend, damit wir bei Obsidian die bestmöglichen Spiele produzieren können. Indem du uns Daten zu deiner Nutzung von Pillars of Eternity übermittelst, sehen wir, was unseren Spielern am besten gefällt und lieferst uns unschätzbar wichtige Informationen für die Fehlerbehebung in Patches und Updates. Du kannst diese Einstellung im Optionsmenü jederzeit ändern.
+
+Weitere Informationen findest du in der [url=https://www.obsidian.net/privacy-policy]Obsidian Datenschutzrichtlinie[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2465</ID>
+      <DefaultText>Aktivieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2466</ID>
+      <DefaultText>Ablehnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2467</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2468</ID>
+      <DefaultText>Wenn du die Telemetrie aktivierst, kann das Spiel Fehlermeldungen und Nutzungsdaten an die Entwickler übermitteln. Diese Daten werden für die Fehlerbehebung und die Entwicklung künftiger Spiele verwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2469</ID>
+      <DefaultText>Todesfeuer-Gegenstände und neue Porträts
+
+Einzigartige und seelengebundene Todesfeuer-Gegenstände aus der Fortsetzung sind nun hier im Östlichen Abschnitt verfügbar. Außerdem gibt es neue Porträts in der Charaktererstellung.
+
+Hilf uns, noch bessere Spiele zu machen!
+
+Wenn du die Telemetrie aktivierst, hilfst du uns, mehr darüber zu erfahren, wie du das Spiel spielst, indem du den Entwicklern Fehlerberichte und Nutzungsdaten übermittelst. Du kannst diese Einstellung im Optionsmenü jederzeit ändern. Weitere Informationen findest du in der Datenschutzrichtlinie von Obsidian unter:
+https://www.obsidian.net/privacy-policy
+
+Möchtest du die Telemetrie jetzt aktivieren?
+</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

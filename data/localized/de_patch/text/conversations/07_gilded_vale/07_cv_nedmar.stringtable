@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Dieser gebrechliche alte Priester ist über einen Tisch gebeugt und von verstreuten Schriftrollen und Pergament umgeben, deren Inhalt er mit Hilfe eines dicken Monokels überprüft. Als du dich näherst, schaut er mit feuchten Augen auf.</DefaultText>
+      <DefaultText>Dieser gebrechliche alte Priester ist über einen Tisch gebeugt und von verstreuten Schriftrollen und Pergament umgeben, deren Inhalt er mithilfe eines dicken Monokels überprüft. Als du dich näherst, schaut er mit feuchten Augen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Wenn du ihn aber sicher außer Reichweite von Osrya bringt, so verspreche ich dir, dass ich mein Bestes geben werde, um dir zu helfen.“ Er sieht sich vorsichtig im Zimmer um.</DefaultText>
+      <DefaultText>„Wenn du ihn aber sicher außer Reichweite von Osrya bringst, so verspreche ich dir, dass ich mein Bestes geben werde, um dir zu helfen.“ Er sieht sich vorsichtig im Zimmer um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
