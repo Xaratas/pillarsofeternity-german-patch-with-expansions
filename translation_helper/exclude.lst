@@ -6,10 +6,13 @@
 *.gitignore*
 *.gitattributes*
 *exclude.lst*
+*languagetool-commandline.jar*
 *pre-commit*
 *README.md*
 *Readme-Commit-Hook.txt*
 *rollout.sh*
+*saxon9he.jar*
+*stringextract.xsl*
 *stringtable.xsd*
 *xsdv.cmd*
 *xsdv.sh*
