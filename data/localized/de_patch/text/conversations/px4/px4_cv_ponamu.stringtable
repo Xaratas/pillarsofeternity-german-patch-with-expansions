@@ -9,7 +9,9 @@
       <DefaultText>„Nett von dir, dass du mit mir plauderst, Freund aus dem Westen.“
 
 Vor dir steht ein Aumaua mit verfilzten Haaren und zerrissenen Kleidern mit ausgebleichten Farben. Sein Gesicht ist zerfurcht von einem Muster von dünnen Narben, durchkreuzt von größeren Wunden.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nett von dir, dass du mit mir plauderst, Freundin aus dem Westen.“
+
+Vor dir steht ein Aumaua mit verfilzten Haaren und zerrissenen Kleidern mit ausgebleichten Farben. Sein Gesicht ist zerfurcht von einem Muster von dünnen Narben, durchkreuzt von größeren Wunden.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
