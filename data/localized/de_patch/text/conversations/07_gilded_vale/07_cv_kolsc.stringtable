@@ -132,7 +132,7 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>„Ich verstehe es als Segen der Götter, dass ich jemanden gefunden habe, der die Bedeutung von Ehre und Pflicht kennt. Möge Magran dir den Sieg bringen, Freund. Ich wünsche dir Glück.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich verstehe es als Segen der Götter, dass ich jemanden gefunden habe, der die Bedeutung von Ehre und Pflicht kennt. Möge Magran dir den Sieg bringen, Freundin. Ich wünsche dir Glück.“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -167,7 +167,7 @@
     <Entry>
       <ID>62</ID>
       <DefaultText>„Dann mögen dir die Götter den Sieg bringen, Freund. Ich wünsche dir Glück.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Dann mögen dir die Götter den Sieg bringen, Freundin. Ich wünsche dir Glück.“</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -187,7 +187,7 @@
     <Entry>
       <ID>70</ID>
       <DefaultText>„Vergib mir, Freund&#160;– es gibt viel zu tun. Dennoch werden wir nicht vergessen, was du für uns getan hast.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vergib mir, Freundin&#160;– es gibt viel zu tun. Dennoch werden wir nicht vergessen, was du für uns getan hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>73</ID>
@@ -297,7 +297,7 @@
     <Entry>
       <ID>96</ID>
       <DefaultText>„So sei es. Es tut mir leid, Freund, dass ich dich nicht überzeugen konnte. Ich werde dafür sorgen, dass du ein angemessenes Begräbnis erhältst.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„So sei es. Es tut mir leid, Freundin, dass ich dich nicht überzeugen konnte. Ich werde dafür sorgen, dass du ein angemessenes Begräbnis erhältst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
@@ -322,7 +322,7 @@
     <Entry>
       <ID>101</ID>
       <DefaultText>„Ich weiß nicht, warum du auf dieser Straße unterwegs bist, Freund, aber ich sollte dich davor warnen.“ Er gestikuliert mit einer ausladenden Armbewegung den Weg hinauf. „Die Burg in der Ferne gehört nämlich dem Tyrannen, der sich selbst Fürst von Goldtal nennt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich weiß nicht, warum du auf dieser Straße unterwegs bist, Freundin, aber ich sollte dich davor warnen.“ Er gestikuliert mit einer ausladenden Armbewegung den Weg hinauf. „Die Burg in der Ferne gehört nämlich dem Tyrannen, der sich selbst Fürst von Goldtal nennt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>102</ID>
@@ -669,12 +669,12 @@
     <Entry>
       <ID>177</ID>
       <DefaultText>„Ich verstehe es als Segen der Götter, dass ich jemanden gefunden habe, der die Bedeutung von Ehre und Pflicht kennt. Raedrics Festung liegt jenseits des Esternwalds, nicht weit östlich von hier. Möge Magran dir den Sieg bringen, Freund. Ich wünsche dir Glück.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich verstehe es als Segen der Götter, dass ich jemanden gefunden habe, der die Bedeutung von Ehre und Pflicht kennt. Raedrics Festung liegt jenseits des Esternwalds, nicht weit östlich von hier. Möge Magran dir den Sieg bringen, Freundin. Ich wünsche dir Glück.“</FemaleText>
     </Entry>
     <Entry>
       <ID>178</ID>
       <DefaultText>„Dann mögen dir die Götter den Sieg bringen, Freund. Du wirst Raedrics Burg im Osten finden, jenseits des Esternwalds. Ich wünsche dir Glück.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Dann mögen dir die Götter den Sieg bringen, Freundin. Du wirst Raedrics Burg im Osten finden, jenseits des Esternwalds. Ich wünsche dir Glück.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
