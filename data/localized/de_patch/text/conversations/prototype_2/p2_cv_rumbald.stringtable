@@ -201,7 +201,7 @@ Er holt tief Luft und atmet langsam aus. „Nicht dein Fehler. Bitte entschuldig
     <Entry>
       <ID>93</ID>
       <DefaultText>„Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein&#160;… Krawallmacher wie du.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so eine&#160;… Krawallmacherin wie du.“</FemaleText>
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -299,7 +299,9 @@ Er verschwindet im Haus und kommt mit einer Donnerbüchse in den Händen wieder 
       <DefaultText>„Oh, er wird sich von anderen bestimmt nicht unterscheiden. Ein großer, hässlicher Hurensohn mit cholerischem Temperament und einem Hunger, der seinesgleichen sucht. Trygil könnte dir mehr über ihn erzählen. Er behauptet, ihn im Wald gesehen zu haben. Du kannst ihn in seinem Laden direkt neben dem eingestürzten Turm finden.“
 
 „Ich bin mir trotzdem sicher, dass das nichts ist, was ein&#160;… kräftiger Kerl wie du nicht in den Griff bekäme.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Oh, er wird sich von anderen bestimmt nicht unterscheiden. Ein großer, hässlicher Hurensohn mit cholerischem Temperament und einem Hunger, der seinesgleichen sucht. Trygil könnte dir mehr über ihn erzählen. Er behauptet, ihn im Wald gesehen zu haben. Du kannst ihn in seinem Laden direkt neben dem eingestürzten Turm finden.“
+
+„Ich bin mir trotzdem sicher, dass das nichts ist, was ein&#160;… kräftiges Weib wie du nicht in den Griff bekäme.“</FemaleText>
     </Entry>
     <Entry>
       <ID>115</ID>
@@ -330,21 +332,27 @@ Er winkt mit einer Hand. „Im Vergleich zu den Biestern, die man oben in den Le
       <DefaultText>Er mustert dich. „Du bist recht fleißig, seit du hier bist. Vielleicht kannst du mir helfen.“
 
 „Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein&#160;… Krawallmacher wie du.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er mustert dich. „Du bist recht fleißig, seit du hier bist. Vielleicht kannst du mir helfen.“
+
+„Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so eine&#160;… Krawallmacherin wie du.“</FemaleText>
     </Entry>
     <Entry>
       <ID>121</ID>
       <DefaultText>Er mustert dich. „Ich kannte im Krieg des Heiligen einige so zähe Burschen wie dich.“
 
 „Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein&#160;… Krawallmacher wie du.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er mustert dich. „Ich kannte im Krieg des Heiligen einige so zähe Mädels wie dich.“
+
+„Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so eine&#160;… Krawallmacherin wie du.“</FemaleText>
     </Entry>
     <Entry>
       <ID>122</ID>
       <DefaultText>Er mustert dich. „Ich kannte im Krieg des Heiligen einige so zähe Burschen wie dich. Machst du es für Geld oder aus Spaß?“
 
 „Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein&#160;… Krawallmacher wie du.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er mustert dich. „Ich kannte im Krieg des Heiligen einige so zähe Mädels wie dich. Machst du es für Geld oder aus Spaß?“
+
+„Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so eine&#160;… Krawallmacherin wie du.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
