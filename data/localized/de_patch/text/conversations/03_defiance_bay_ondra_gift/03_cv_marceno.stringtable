@@ -217,7 +217,7 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>„Freund, hüte dich vor Kapitän Fortanero! Er wird jetzt so missmutig wie immer sein.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Freundin, hüte dich vor Kapitän Fortanero! Er wird jetzt so missmutig wie immer sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -227,7 +227,7 @@
     <Entry>
       <ID>51</ID>
       <DefaultText>„Mein Freund, du hast mir wahrlich das Leben gerettet. Ich bin dir was schuldig. Hier&#160;– mein Wochenlohn, wie ich versprochen hatte.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Meine Freundin, du hast mir wahrlich das Leben gerettet. Ich bin dir was schuldig. Hier&#160;– mein Wochenlohn, wie ich versprochen hatte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -272,7 +272,7 @@
     <Entry>
       <ID>63</ID>
       <DefaultText>„Aber egal&#160;– mein Freund, du hast mir wahrlich das Leben gerettet! Ich bin dir was schuldig. Hier: mein Wochenlohn, wie ich versprochen hatte.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Aber egal&#160;– meine Freundin, du hast mir wahrlich das Leben gerettet! Ich bin dir was schuldig. Hier: mein Wochenlohn, wie ich versprochen hatte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>
