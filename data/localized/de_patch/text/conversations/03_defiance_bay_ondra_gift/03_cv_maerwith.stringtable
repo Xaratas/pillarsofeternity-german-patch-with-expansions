@@ -141,7 +141,7 @@ Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen 
     <Entry>
       <ID>61</ID>
       <DefaultText>„Ihr Verstand ist voller Schmerz, Wächter&#160;… dem Schmerz eines verlassenen Kindes. Er verschwindet nie.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ihr Verstand ist voller Schmerz, Wächterin&#160;… dem Schmerz eines verlassenen Kindes. Er verschwindet nie.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
