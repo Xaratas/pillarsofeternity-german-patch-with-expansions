@@ -368,12 +368,12 @@ Durance' Stimme geht seltsam nach oben&#160;… zum ersten Mal wirkt es so, als 
     <Entry>
       <ID>80</ID>
       <DefaultText>Durance runzelt die Stirn und wirft dir einen scharfen Blick zu. „Wächter, vielleicht wurden deine Augen von der Wahrheit des Götterhammers geblendet.“ Er schnaubt verächtlich. „Manchmal mag ich mich ja nur wie ein halber Mann fühlen, aber das ist immer noch doppelt so viel wie die meisten anderen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Durance runzelt die Stirn und wirft dir einen scharfen Blick zu. „Wächterin, vielleicht wurden deine Augen von der Wahrheit des Götterhammers geblendet.“ Er schnaubt verächtlich. „Manchmal mag ich mich ja nur wie ein halber Mann fühlen, aber das ist immer noch doppelt so viel wie die meisten anderen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>Durance runzelt die Stirn und wirft dir einen scharfen Blick zu. „Wächter, vielleicht wurden deine Augen vom Licht des Götterhammers geblendet.“ Er schnaubt verächtlich. „Manchmal mag ich mich ja nur wie ein halber Mann fühlen, aber das ist immer noch doppelt so viel wie die meisten anderen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Durance runzelt die Stirn und wirft dir einen scharfen Blick zu. „Wächterin, vielleicht wurden deine Augen vom Licht des Götterhammers geblendet.“ Er schnaubt verächtlich. „Manchmal mag ich mich ja nur wie ein halber Mann fühlen, aber das ist immer noch doppelt so viel wie die meisten anderen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -393,7 +393,7 @@ Durance' Stimme geht seltsam nach oben&#160;… zum ersten Mal wirkt es so, als 
     <Entry>
       <ID>87</ID>
       <DefaultText>Durance knurrt wütend, sein Gesicht ist jetzt fiebrig rot. „Ich muss mir keine weiteren Fragen von dir anhören, Wächter&#160;… und mich ohne meine Erlaubnis zu betrachten, darum habe ich dich auch nicht gebeten. Verschwinde und lass mich in Ruhe!“</DefaultText>
-      <FemaleText />
+      <FemaleText>Durance knurrt wütend, sein Gesicht ist jetzt fiebrig rot. „Ich muss mir keine weiteren Fragen von dir anhören, Wächterin&#160;… und mich ohne meine Erlaubnis zu betrachten, darum habe ich dich auch nicht gebeten. Verschwinde und lass mich in Ruhe!“</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -503,7 +503,7 @@ Zwischen seinen zischenden Flüchen geht Durance mit dem Gesicht nahe an den Sta
     <Entry>
       <ID>134</ID>
       <DefaultText>„Hnh, Wächter, das ist aber kein Rätsel. Zwölf von uns waren vonnöten, um den Götterhammer zu bauen. Hinterher trennte ich mich von ihnen allen, um zu sehen, was Magran mit mir vorhatte. Seitdem habe ich keinen von ihnen wiedergesehen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Hnh, Wächterin, das ist aber kein Rätsel. Zwölf von uns waren vonnöten, um den Götterhammer zu bauen. Hinterher trennte ich mich von ihnen allen, um zu sehen, was Magran mit mir vorhatte. Seitdem habe ich keinen von ihnen wiedergesehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>
@@ -549,7 +549,9 @@ Zwischen seinen zischenden Flüchen geht Durance mit dem Gesicht nahe an den Sta
       <DefaultText>„Die Verrückten versuchen immer, andere von einer Realität zu überzeugen, die nur sie sehen können. Wenn deine Doktrin aber wahr ist, dann bedarf sie keiner Überzeugungsarbeit&#160;– nur dem Öffnen der Augen.“
 
 „Wenn ich dächte, dass es hälfe, würde ich dich reinigen, Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Verrückten versuchen immer, andere von einer Realität zu überzeugen, die nur sie sehen können. Wenn deine Doktrin aber wahr ist, dann bedarf sie keiner Überzeugungsarbeit&#160;– nur dem Öffnen der Augen.“
+
+„Wenn ich dächte, dass es hälfe, würde ich dich reinigen, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
