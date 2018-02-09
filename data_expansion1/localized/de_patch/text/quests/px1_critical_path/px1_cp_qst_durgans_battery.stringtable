@@ -42,7 +42,7 @@
     <Entry>
       <ID>10000</ID>
       <DefaultText>In Caed Nua ist ein Brief eingetroffen, adressiert an den neuen Fürsten. Die Burgvogtin glaubt, er könnte eine interessante Gelegenheit darstellen.</DefaultText>
-      <FemaleText />
+      <FemaleText>In Caed Nua ist ein Brief eingetroffen, adressiert an die neuen Fürstin. Die Burgvogtin glaubt, er könnte eine interessante Gelegenheit darstellen.</FemaleText>
     </Entry>
     <Entry>
       <ID>10001</ID>
