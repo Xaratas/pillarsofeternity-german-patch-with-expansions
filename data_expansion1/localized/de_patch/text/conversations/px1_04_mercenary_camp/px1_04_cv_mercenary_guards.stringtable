@@ -54,7 +54,7 @@ Die Wache mustert dich erneut. Dieses Mal sieht sie besorgt aus.</DefaultText>
     <Entry>
       <ID>11</ID>
       <DefaultText>„Tut mir leid, Fürst. Der Kommandant wird sich sicher gut um Caed Nua kümmern.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Tut mir leid, Fürstin. Der Kommandant wird sich sicher gut um Caed Nua kümmern.“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
