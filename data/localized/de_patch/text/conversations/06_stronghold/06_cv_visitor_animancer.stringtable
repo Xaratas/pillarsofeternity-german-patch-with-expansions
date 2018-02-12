@@ -124,7 +124,7 @@ Geyda tritt höflich ein wenig zur Seite, wo sie euch nicht hören kann.</Defaul
     <Entry>
       <ID>24</ID>
       <DefaultText>„Eine weise Entscheidung, Fürst [Player Name].“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Eine weise Entscheidung, Fürstin [Player Name].“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -258,7 +258,7 @@ Sie beißt sich auf die Lippe. „Jetzt müssen wir diese&#160;… gefährlichen
     <Entry>
       <ID>52</ID>
       <DefaultText>„[Player Name]? Ich könnte Ihre Hilfe brauchen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Fürstin [Player Name]? Ich könnte Ihre Hilfe brauchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>53</ID>
