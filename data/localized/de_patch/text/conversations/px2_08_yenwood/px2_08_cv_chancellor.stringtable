@@ -580,7 +580,7 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     <Entry>
       <ID>119</ID>
       <DefaultText>„Wie dem auch sei, als Rechtsbeamter von Graf Bademar bin ich hier, um Sie in Kenntnis zu setzen, dass Sie zum Thayn des Dyrwalds ernannt wurden und Caed Nua als Ihr Eigentum anerkannt wurde. Jetzt und für alle Zeiten, denn die Festung wird auf Ihre etwaigen Nachkommen übergehen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wie dem auch sei, als Rechtsbeamter von Graf Bademar bin ich hier, um Sie in Kenntnis zu setzen, dass Sie zur Thaynu des Dyrwalds ernannt wurden und Caed Nua als Ihr Eigentum anerkannt wurde. Jetzt und für alle Zeiten, denn die Festung wird auf Ihre etwaigen Nachkommen übergehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>
