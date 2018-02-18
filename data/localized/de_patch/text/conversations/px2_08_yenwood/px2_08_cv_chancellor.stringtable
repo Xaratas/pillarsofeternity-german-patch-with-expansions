@@ -269,7 +269,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     <Entry>
       <ID>53</ID>
       <DefaultText>„Meine Fürsten, bitte! Es gibt keinen Grund für Gewalt!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Mein Fürst, meine Fürstin, bitte! Es gibt keinen Grund für Gewalt!“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
