@@ -327,7 +327,7 @@
     <Entry>
       <ID>69</ID>
       <DefaultText>„Kolsc! Kolsc, er ist zurückgekommen! Raedric hat ihn geschickt!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Kolsc! Kolsc, sie ist zurückgekommen! Raedric hat sie geschickt!“</FemaleText>
     </Entry>
     <Entry>
       <ID>70</ID>
@@ -352,7 +352,7 @@
     <Entry>
       <ID>74</ID>
       <DefaultText>„Kameraden, zu den Waffen! Unter uns befindet sich ein Verräter!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Kameraden, zu den Waffen! Unter uns befindet sich eine Verräterin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>75</ID>
