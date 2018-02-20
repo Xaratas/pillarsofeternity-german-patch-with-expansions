@@ -292,7 +292,7 @@
     <Entry>
       <ID>95</ID>
       <DefaultText>„Ja, ich hätte dich benutzt&#160;– um uns alle zu retten. Anscheinend habe ich eine schlechte Wahl getroffen.“ Er zieht sein Schwert aus der Scheide. „So sei es. Bitte entschuldige, Freund. Wir werden die Rettung von Goldtal ohne dich bewerkstelligen müssen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja, ich hätte dich benutzt&#160;– um uns alle zu retten. Anscheinend habe ich eine schlechte Wahl getroffen.“ Er zieht sein Schwert aus der Scheide. „So sei es. Bitte entschuldige, Freundin. Wir werden die Rettung von Goldtal ohne dich bewerkstelligen müssen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>96</ID>
