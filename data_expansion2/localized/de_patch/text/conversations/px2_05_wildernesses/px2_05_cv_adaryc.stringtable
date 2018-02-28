@@ -21,7 +21,9 @@ Der Kommandant des Eisenflegels ist ein junger, drahtiger Mann. Seine braunen Ha
       <DefaultText>„Ha. Einen Augenblick lang habe ich dir geglaubt, Frau.“ Er tritt gegen das Gitter.
 
 „Du gibst einen düsteren Assassinen ab, Gottähnlicher. Das muss ich dir lassen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ha. Einen Augenblick lang habe ich dir geglaubt, Frau.“ Er tritt gegen das Gitter.
+
+„Du gibst eine düstere Assassine ab, Gottähnliche. Das muss ich dir lassen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
