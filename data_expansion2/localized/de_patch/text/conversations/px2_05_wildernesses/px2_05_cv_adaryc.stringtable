@@ -57,7 +57,7 @@ Adarycs Worte hallen in deinem Verstand wider. Plötzlich beginnen deine Sinne u
     <Entry>
       <ID>14</ID>
       <DefaultText>„Moment, du bist ein Wächter?“</DefaultText>
-      <FemaleText>„Moment, du bist eine Wächterin?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
