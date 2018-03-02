@@ -259,7 +259,7 @@ Du stehst still. Du bist dir dem Kreis von Raubtieren, der dich umgibt, wohl bew
     <Entry>
       <ID>58</ID>
       <DefaultText>„Lasse ihn seinen Feind kennen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Lasse sie ihren Feind kennen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>59</ID>
