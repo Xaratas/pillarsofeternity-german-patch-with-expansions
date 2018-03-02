@@ -30,7 +30,9 @@ Der vailianische Kaufmann tobt vor Zorn. Er läuft in kleinen Kreisen auf und ab
       <DefaultText>Rinatto lächelt, als du dich näherst, seine Arme ausgestreckt, um dich zu begrüßen. „Mein Freund, du bist zurückgekehrt!“
 
 Er klatscht in die Hände und reibt sie eifrig. „Also&#160;… willst du meine besondere Auswahl sehen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Rinatto lächelt, als du dich näherst, seine Arme ausgestreckt, um dich zu begrüßen. „Meine Freundin, du bist zurückgekehrt!“
+
+Er klatscht in die Hände und reibt sie eifrig. „Also&#160;… willst du meine besondere Auswahl sehen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
