@@ -414,12 +414,12 @@
     <Entry>
       <ID>126</ID>
       <DefaultText>„Jetzt haben wir eine Chance, durch das Jahr zu kommen.“ Trumbel grinst breit. „Und alles dank dir. Sichere Reisen, Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Jetzt haben wir eine Chance, durch das Jahr zu kommen.“ Trumbel grinst breit. „Und alles dank dir. Sichere Reisen, Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>„Du hast eine edelmütige Seele, Freund. Und wir werden es dir danken müssen, dass wir es durch das kommende Jahr schaffen. Sichere Reisen, und mögest du die Gunst der Götter finden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du hast eine edelmütige Seele, Freundin. Und wir werden es dir danken müssen, dass wir es durch das kommende Jahr schaffen. Sichere Reisen, und mögest du die Gunst der Götter finden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>128</ID>
