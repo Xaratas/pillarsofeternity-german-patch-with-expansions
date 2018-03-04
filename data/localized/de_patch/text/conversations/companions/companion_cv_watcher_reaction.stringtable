@@ -213,12 +213,12 @@ Sie neigt ihren Kopf zur Seite. „Ich glaubte, meine Reise würde mir leichter 
     <Entry>
       <ID>47</ID>
       <DefaultText>„Ich bin ein Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich bin eine Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>„Ist das deine taktvolle Art mich zu fragen, ob ich ein Wahnsinniger bin?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ist das deine taktvolle Art mich zu fragen, ob ich eine Wahnsinnige bin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
