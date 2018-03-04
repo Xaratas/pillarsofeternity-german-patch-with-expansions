@@ -90,7 +90,9 @@ Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. „Glaube nicht, d
       <DefaultText>Seine Augen schießen in mehrere Richtungen. Er lehnt sich näher zu dir herüber. „Vorsichtig, Freund. Dieses Wort solltest du hier besser nicht benutzen, denn hier wimmelt es förmlich von Raedrics Stiefelleckern.“
 
 „Medien, Beseeler, Wächter&#160;… für die Leute hier ist das alles dasselbe, vor allem für Raedric. Sie kommen ständig mit ihren ‚Heilmitteln‘ in diese Gegend und haben es auf die Verzweifelten abgesehen. Keiner von ihnen ist wirklich der, der er vorgibt zu sein.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Seine Augen schießen in mehrere Richtungen. Er lehnt sich näher zu dir herüber. „Vorsichtig, Freundin. Dieses Wort solltest du hier besser nicht benutzen, denn hier wimmelt es förmlich von Raedrics Stiefelleckern.“
+
+„Medien, Beseeler, Wächter&#160;… für die Leute hier ist das alles dasselbe, vor allem für Raedric. Sie kommen ständig mit ihren ‚Heilmitteln‘ in diese Gegend und haben es auf die Verzweifelten abgesehen. Keiner von ihnen ist wirklich der, der er vorgibt zu sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
