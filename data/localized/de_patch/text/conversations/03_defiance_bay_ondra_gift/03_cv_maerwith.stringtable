@@ -74,7 +74,7 @@ Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen 
     <Entry>
       <ID>30</ID>
       <DefaultText>„Ich hätte dich nicht für einen Lügner gehalten. Nach allem, was ich über dich höre.“ Sie mustert dich mit zusammengekniffenen Augen. „Aber das heißt nicht, dass ich dir glaube.“ Sie neigt sich vor, ihre Stimme ein leises Zischen. „Du erklärst mir lieber ganz schnell, woher du diesen ‚interessanten‘ Gedanken hast.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich hätte dich nicht für eine Lügnerin gehalten. Nach allem, was ich über dich höre.“ Sie mustert dich mit zusammengekniffenen Augen. „Aber das heißt nicht, dass ich dir glaube.“ Sie neigt sich vor, ihre Stimme ein leises Zischen. „Du erklärst mir lieber ganz schnell, woher du diesen ‚interessanten‘ Gedanken hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
