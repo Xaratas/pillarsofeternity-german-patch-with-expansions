@@ -19,7 +19,9 @@
       <DefaultText>„Sei gegrüßt, Freund.“ Als er dich betrachtet, fängt er langsam zu grinsen an. „Ich habe schon von dir gehört. Man sagt, dass du in Trutzbucht ganz schön zu tun hattest.“
 
 Er kommt dir näher. „Ich habe auch viel zu tun, und ich würde meine Aufgabe gerne zu Ende bringen und wieder in die Stadt zurückgehen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sei gegrüßt, Freundin.“ Als er dich betrachtet, fängt er langsam zu grinsen an. „Ich habe schon von dir gehört. Man sagt, dass du in Trutzbucht ganz schön zu tun hattest.“
+
+Er kommt dir näher. „Ich habe auch viel zu tun, und ich würde meine Aufgabe gerne zu Ende bringen und wieder in die Stadt zurückgehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
