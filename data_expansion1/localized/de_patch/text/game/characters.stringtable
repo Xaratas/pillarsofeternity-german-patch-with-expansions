@@ -32,7 +32,7 @@
     <Entry>
       <ID>1465</ID>
       <DefaultText>Holzfäller</DefaultText>
-      <FemaleText />
+      <FemaleText>Holzfällerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1467</ID>
@@ -112,7 +112,7 @@
     <Entry>
       <ID>1502</ID>
       <DefaultText>Fampir-Berserker</DefaultText>
-      <FemaleText />
+      <FemaleText>Fampir-Berserkerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1506</ID>
@@ -222,22 +222,22 @@
     <Entry>
       <ID>1657</ID>
       <DefaultText>Eisenflegel-Meister</DefaultText>
-      <FemaleText />
+      <FemaleText>Eisenflegel-Meisterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1670</ID>
       <DefaultText>Ondriten-Verstandleser</DefaultText>
-      <FemaleText />
+      <FemaleText>Ondriten-Verstandleserin</FemaleText>
     </Entry>
     <Entry>
       <ID>1671</ID>
       <DefaultText>Ondriten-Glaubensbinder</DefaultText>
-      <FemaleText />
+      <FemaleText>Ondriten-Glaubensbinderin</FemaleText>
     </Entry>
     <Entry>
       <ID>1673</ID>
       <DefaultText>Ondriten-Zauberseher</DefaultText>
-      <FemaleText />
+      <FemaleText>Ondriten-Zauberseherin</FemaleText>
     </Entry>
     <Entry>
       <ID>1674</ID>
@@ -377,22 +377,22 @@
     <Entry>
       <ID>1801</ID>
       <DefaultText>Eisenflegel-Soldat</DefaultText>
-      <FemaleText />
+      <FemaleText>Eisenflegel-Soldatin</FemaleText>
     </Entry>
     <Entry>
       <ID>1802</ID>
       <DefaultText>Brigantenmagier</DefaultText>
-      <FemaleText />
+      <FemaleText>Brigantenmagierin</FemaleText>
     </Entry>
     <Entry>
       <ID>1803</ID>
       <DefaultText>Brigantenpriester</DefaultText>
-      <FemaleText />
+      <FemaleText>Brigantenpriesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1804</ID>
       <DefaultText>Weißstein-Plünderer</DefaultText>
-      <FemaleText />
+      <FemaleText>Weißstein-Plünderin</FemaleText>
     </Entry>
     <Entry>
       <ID>1807</ID>
@@ -402,7 +402,7 @@
     <Entry>
       <ID>1808</ID>
       <DefaultText>Sumpfkult-Beschwörer</DefaultText>
-      <FemaleText />
+      <FemaleText>Sumpfkult-Beschwörerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1809</ID>
@@ -437,27 +437,27 @@
     <Entry>
       <ID>1820</ID>
       <DefaultText>Erforscher</DefaultText>
-      <FemaleText />
+      <FemaleText>Erforscherin</FemaleText>
     </Entry>
     <Entry>
       <ID>1821</ID>
       <DefaultText>Fanatischer Ondriten-Kantor</DefaultText>
-      <FemaleText />
+      <FemaleText>Fanatische Ondriten-Kantorin</FemaleText>
     </Entry>
     <Entry>
       <ID>1822</ID>
       <DefaultText>Fanatischer Ondriten-Kämpfer</DefaultText>
-      <FemaleText />
+      <FemaleText>Fanatische Ondriten-Kämpferin</FemaleText>
     </Entry>
     <Entry>
       <ID>1823</ID>
       <DefaultText>Fanatischer Ondriten-Zauberer</DefaultText>
-      <FemaleText />
+      <FemaleText>Fanatische Ondriten-Zauberin</FemaleText>
     </Entry>
     <Entry>
       <ID>1824</ID>
       <DefaultText>Fanatischer Ondriten-Mönch</DefaultText>
-      <FemaleText />
+      <FemaleText>Fanatische Ondriten-Nonne</FemaleText>
     </Entry>
     <Entry>
       <ID>1825</ID>
@@ -467,7 +467,7 @@
     <Entry>
       <ID>1826</ID>
       <DefaultText>Fanatischer Ondriten-Priester</DefaultText>
-      <FemaleText />
+      <FemaleText>Fanatische Ondriten-Priesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1827</ID>
@@ -482,7 +482,7 @@
     <Entry>
       <ID>1830</ID>
       <DefaultText>Weißstein-Bandit</DefaultText>
-      <FemaleText />
+      <FemaleText>Weißstein-Banditin</FemaleText>
     </Entry>
     <Entry>
       <ID>1831</ID>
@@ -566,8 +566,8 @@
     </Entry>
     <Entry>
       <ID>1854</ID>
-      <DefaultText>Dominierter Bergarbeiter</DefaultText>
-      <FemaleText />
+      <DefaultText>Beherrschter Bergarbeiter</DefaultText>
+      <FemaleText>Beherrschte Bergarbeiterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1855</ID>
@@ -597,17 +597,17 @@
     <Entry>
       <ID>1860</ID>
       <DefaultText>Magrans Anhänger – Soldat</DefaultText>
-      <FemaleText />
+      <FemaleText>Magrans Anhänger – Soldatin</FemaleText>
     </Entry>
     <Entry>
       <ID>1861</ID>
       <DefaultText>Magrans Anhänger – Druide</DefaultText>
-      <FemaleText />
+      <FemaleText>Magrans Anhänger – Druidin</FemaleText>
     </Entry>
     <Entry>
       <ID>1862</ID>
       <DefaultText>Magran-Priester</DefaultText>
-      <FemaleText />
+      <FemaleText>Magran-Priesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1864</ID>
@@ -622,17 +622,17 @@
     <Entry>
       <ID>1866</ID>
       <DefaultText>Todesfeuer-Shanty-Sänger</DefaultText>
-      <FemaleText />
+      <FemaleText>Todesfeuer-Shanty-Sängerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1867</ID>
       <DefaultText>Todesfeuer-Illusionist</DefaultText>
-      <FemaleText />
+      <FemaleText>Todesfeuer-Illusionistin</FemaleText>
     </Entry>
     <Entry>
       <ID>1868</ID>
       <DefaultText>Todesfeuer-Dolchstoßer</DefaultText>
-      <FemaleText />
+      <FemaleText>Todesfeuer-Dolchstoßerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1879</ID>
@@ -642,22 +642,22 @@
     <Entry>
       <ID>1881</ID>
       <DefaultText>Düsterer Wächter</DefaultText>
-      <FemaleText />
+      <FemaleText>Düstere Wächterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1882</ID>
       <DefaultText>Düsterer Kommandant</DefaultText>
-      <FemaleText />
+      <FemaleText>Düstere Kommandantin</FemaleText>
     </Entry>
     <Entry>
       <ID>1883</ID>
       <DefaultText>Düsterer Todesschütze</DefaultText>
-      <FemaleText />
+      <FemaleText>Düstere Todesschützin</FemaleText>
     </Entry>
     <Entry>
       <ID>1884</ID>
       <DefaultText>Düsterer Reißer</DefaultText>
-      <FemaleText />
+      <FemaleText>Düstere Reißerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1885</ID>
@@ -686,18 +686,18 @@
     </Entry>
     <Entry>
       <ID>1890</ID>
-      <DefaultText>Dominierter Dieb</DefaultText>
-      <FemaleText />
+      <DefaultText>Beherrschter Dieb</DefaultText>
+      <FemaleText>Beherrschte Diebin</FemaleText>
     </Entry>
     <Entry>
       <ID>1891</ID>
-      <DefaultText>Dominierter Plünderer</DefaultText>
-      <FemaleText />
+      <DefaultText>Beherrschter Plünderer</DefaultText>
+      <FemaleText>Beherrschte Plünderin</FemaleText>
     </Entry>
     <Entry>
       <ID>1893</ID>
       <DefaultText>Bleichelf-Eroberer</DefaultText>
-      <FemaleText />
+      <FemaleText>Bleichelf-Erobererin</FemaleText>
     </Entry>
     <Entry>
       <ID>1897</ID>
