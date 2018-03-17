@@ -52,17 +52,17 @@
     <Entry>
       <ID>1398</ID>
       <DefaultText>Koch</DefaultText>
-      <FemaleText />
+      <FemaleText>Köchin</FemaleText>
     </Entry>
     <Entry>
       <ID>1399</ID>
       <DefaultText>Assistent</DefaultText>
-      <FemaleText />
+      <FemaleText>Assistentin</FemaleText>
     </Entry>
     <Entry>
       <ID>1403</ID>
       <DefaultText>Glücksspieler</DefaultText>
-      <FemaleText />
+      <FemaleText>Glücksspielerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1407</ID>
@@ -107,7 +107,7 @@
     <Entry>
       <ID>1419</ID>
       <DefaultText>Fischerei-Arbeiter</DefaultText>
-      <FemaleText />
+      <FemaleText>Fischerei-Arbeiterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1421</ID>
@@ -137,17 +137,17 @@
     <Entry>
       <ID>1428</ID>
       <DefaultText>Readceranischer Söldner</DefaultText>
-      <FemaleText />
+      <FemaleText>Readceranische Söldnerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1429</ID>
       <DefaultText>Sklavenjäger</DefaultText>
-      <FemaleText />
+      <FemaleText>Sklavenjägerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1430</ID>
       <DefaultText>Readceranischer Schütze</DefaultText>
-      <FemaleText />
+      <FemaleText>Readceranische Schützin</FemaleText>
     </Entry>
     <Entry>
       <ID>1431</ID>
@@ -207,7 +207,7 @@
     <Entry>
       <ID>1442</ID>
       <DefaultText>Batterie-Verteidiger</DefaultText>
-      <FemaleText />
+      <FemaleText>Batterie-Verteidigerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1443</ID>
@@ -297,7 +297,7 @@
     <Entry>
       <ID>1460</ID>
       <DefaultText>Arbeiter</DefaultText>
-      <FemaleText />
+      <FemaleText>Arbeiterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1461</ID>
@@ -322,7 +322,7 @@
     <Entry>
       <ID>1466</ID>
       <DefaultText>Batterie-Verteidiger</DefaultText>
-      <FemaleText />
+      <FemaleText>Batterie-Verteidigerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1468</ID>
@@ -407,22 +407,22 @@
     <Entry>
       <ID>1498</ID>
       <DefaultText>Söldnerpriester</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerpriesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1499</ID>
       <DefaultText>Söldnerzauberer</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerzauberin</FemaleText>
     </Entry>
     <Entry>
       <ID>1500</ID>
       <DefaultText>Söldnerkämpfer</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerkämpferin</FemaleText>
     </Entry>
     <Entry>
       <ID>1501</ID>
       <DefaultText>Fampir-Nahkämpfer</DefaultText>
-      <FemaleText />
+      <FemaleText>Fampir-Nahkämpferin</FemaleText>
     </Entry>
     <Entry>
       <ID>1503</ID>
@@ -432,7 +432,7 @@
     <Entry>
       <ID>1504</ID>
       <DefaultText>Fampir-Verführer</DefaultText>
-      <FemaleText />
+      <FemaleText>Fampir-Verführerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1505</ID>
@@ -457,7 +457,7 @@
     <Entry>
       <ID>1512</ID>
       <DefaultText>Dörfler</DefaultText>
-      <FemaleText />
+      <FemaleText>Dörflerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1518</ID>
@@ -472,22 +472,22 @@
     <Entry>
       <ID>1527</ID>
       <DefaultText>Söldnerhexer</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerhexerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1528</ID>
       <DefaultText>Söldnerkriegsmagier</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerkriegsmagierin</FemaleText>
     </Entry>
     <Entry>
       <ID>1529</ID>
       <DefaultText>Söldnersoldat</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnersoldatin</FemaleText>
     </Entry>
     <Entry>
       <ID>1530</ID>
       <DefaultText>Söldnerpyromant</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerpyromantin</FemaleText>
     </Entry>
     <Entry>
       <ID>1532</ID>
@@ -507,12 +507,12 @@
     <Entry>
       <ID>1537</ID>
       <DefaultText>Söldnerschütze</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerschützin</FemaleText>
     </Entry>
     <Entry>
       <ID>1538</ID>
       <DefaultText>Söldnerkanonier</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerkanonierin</FemaleText>
     </Entry>
     <Entry>
       <ID>1540</ID>
@@ -567,12 +567,12 @@
     <Entry>
       <ID>1550</ID>
       <DefaultText>Batterie-Scharfschütze</DefaultText>
-      <FemaleText />
+      <FemaleText>Batterie-Scharfschützin</FemaleText>
     </Entry>
     <Entry>
       <ID>1551</ID>
       <DefaultText>Batterie-Priester</DefaultText>
-      <FemaleText />
+      <FemaleText>Batterie-Priesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1552</ID>
@@ -602,7 +602,7 @@
     <Entry>
       <ID>1557</ID>
       <DefaultText>Söldner-Sänger</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldner-Sängerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1558</ID>
@@ -662,17 +662,17 @@
     <Entry>
       <ID>1569</ID>
       <DefaultText>Ondras Zauberweber</DefaultText>
-      <FemaleText />
+      <FemaleText>Ondras Zauberweberin</FemaleText>
     </Entry>
     <Entry>
       <ID>1570</ID>
       <DefaultText>Ondras Schwertkämpfer</DefaultText>
-      <FemaleText />
+      <FemaleText>Ondras Schwertkämpferin</FemaleText>
     </Entry>
     <Entry>
       <ID>1571</ID>
       <DefaultText>Ondras Schildkämpfer</DefaultText>
-      <FemaleText />
+      <FemaleText>Ondras Schildkämpferin</FemaleText>
     </Entry>
     <Entry>
       <ID>1572</ID>
@@ -712,22 +712,22 @@
     <Entry>
       <ID>1579</ID>
       <DefaultText>Alt-Dunryd-Verführer</DefaultText>
-      <FemaleText />
+      <FemaleText>Alt-Dunryd-Verführerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1580</ID>
       <DefaultText>Alt-Dunryd-Jungmagier</DefaultText>
-      <FemaleText />
+      <FemaleText>Alt-Dunryd-Jungmagierin</FemaleText>
     </Entry>
     <Entry>
       <ID>1581</ID>
       <DefaultText>Alt-Dunryd-Hexer</DefaultText>
-      <FemaleText />
+      <FemaleText>Alt-Dunryd-Hexe</FemaleText>
     </Entry>
     <Entry>
       <ID>1582</ID>
       <DefaultText>Alt-Dunryd-Nekromant</DefaultText>
-      <FemaleText />
+      <FemaleText>Alt-Dunryd-Nekromantin</FemaleText>
     </Entry>
     <Entry>
       <ID>1583</ID>
@@ -742,12 +742,12 @@
     <Entry>
       <ID>1585</ID>
       <DefaultText>Barbar der Echten Flamme</DefaultText>
-      <FemaleText />
+      <FemaleText>Barbarin der Echten Flamme</FemaleText>
     </Entry>
     <Entry>
       <ID>1586</ID>
       <DefaultText>Druide der Echten Flamme</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidin der Echten Flamme</FemaleText>
     </Entry>
     <Entry>
       <ID>1587</ID>
@@ -757,7 +757,7 @@
     <Entry>
       <ID>1588</ID>
       <DefaultText>Priester der Echten Flamme</DefaultText>
-      <FemaleText />
+      <FemaleText>Priesterin der Echten Flamme</FemaleText>
     </Entry>
     <Entry>
       <ID>1589</ID>
@@ -802,12 +802,12 @@
     <Entry>
       <ID>1597</ID>
       <DefaultText>Stahlrücken-Krieger</DefaultText>
-      <FemaleText />
+      <FemaleText>Stahlrücken-Kriegerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1598</ID>
       <DefaultText>Stahlrücken-Magier</DefaultText>
-      <FemaleText />
+      <FemaleText>Stahlrücken-Magierin</FemaleText>
     </Entry>
     <Entry>
       <ID>1599</ID>
@@ -912,17 +912,17 @@
     <Entry>
       <ID>1620</ID>
       <DefaultText>Fragment von Pargrunen-Krieger</DefaultText>
-      <FemaleText />
+      <FemaleText>Fragment von Pargrunen-Kriegerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1621</ID>
       <DefaultText>Fragment von Pargrunen-Dieb</DefaultText>
-      <FemaleText />
+      <FemaleText>Fragment von Pargrunen-Diebin</FemaleText>
     </Entry>
     <Entry>
       <ID>1622</ID>
       <DefaultText>Fragment von Pargrunen-Zauberer</DefaultText>
-      <FemaleText />
+      <FemaleText>Fragment von Pargrunen-Zauberin</FemaleText>
     </Entry>
     <Entry>
       <ID>1623</ID>
@@ -932,12 +932,12 @@
     <Entry>
       <ID>1624</ID>
       <DefaultText>Fragment von Pargrunen-Kantor</DefaultText>
-      <FemaleText />
+      <FemaleText>Fragment von Pargrunen-Kantorin</FemaleText>
     </Entry>
     <Entry>
       <ID>1625</ID>
       <DefaultText>Betrunkener Orlaner</DefaultText>
-      <FemaleText />
+      <FemaleText>Betrunkene Orlanerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1626</ID>
@@ -987,7 +987,7 @@
     <Entry>
       <ID>1636</ID>
       <DefaultText>Söldnerveteran</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldnerveteranin</FemaleText>
     </Entry>
     <Entry>
       <ID>1637</ID>
@@ -1002,7 +1002,7 @@
     <Entry>
       <ID>1639</ID>
       <DefaultText>Söldner-Sänger</DefaultText>
-      <FemaleText />
+      <FemaleText>Söldner-Sängerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1640</ID>
@@ -1087,17 +1087,17 @@
     <Entry>
       <ID>1656</ID>
       <DefaultText>Eisenflegel-Bogenschütze</DefaultText>
-      <FemaleText />
+      <FemaleText>Eisenflegel-Bogenschützin</FemaleText>
     </Entry>
     <Entry>
       <ID>1658</ID>
       <DefaultText>Eisenflegel-Kanonier</DefaultText>
-      <FemaleText />
+      <FemaleText>Eisenflegel-Kanonierin</FemaleText>
     </Entry>
     <Entry>
       <ID>1659</ID>
       <DefaultText>Eisenflegel-Treuer</DefaultText>
-      <FemaleText />
+      <FemaleText>Eisenflegel-Treue</FemaleText>
     </Entry>
     <Entry>
       <ID>1660</ID>
@@ -1107,7 +1107,7 @@
     <Entry>
       <ID>1661</ID>
       <DefaultText>Eisenflegel-Hexer</DefaultText>
-      <FemaleText />
+      <FemaleText>Eisenflegel-Hexe</FemaleText>
     </Entry>
     <Entry>
       <ID>1662</ID>
@@ -1122,7 +1122,7 @@
     <Entry>
       <ID>1664</ID>
       <DefaultText>Eiswandler-Gewehrschütze</DefaultText>
-      <FemaleText />
+      <FemaleText>Eiswandler-Gewehrschützin</FemaleText>
     </Entry>
     <Entry>
       <ID>1665</ID>
@@ -1141,8 +1141,8 @@
     </Entry>
     <Entry>
       <ID>1668</ID>
-      <DefaultText>Ondriten-Sturmsinger</DefaultText>
-      <FemaleText />
+      <DefaultText>Ondriten-Sturmsänger</DefaultText>
+      <FemaleText>Ondriten-Sturmsängerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1669</ID>
@@ -1162,7 +1162,7 @@
     <Entry>
       <ID>1679</ID>
       <DefaultText>Hundemeister</DefaultText>
-      <FemaleText />
+      <FemaleText>Hundemeisterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1680</ID>
@@ -1217,7 +1217,7 @@
     <Entry>
       <ID>1690</ID>
       <DefaultText>Abydon-Akolyth</DefaultText>
-      <FemaleText />
+      <FemaleText>Abydon-Akolythin</FemaleText>
     </Entry>
     <Entry>
       <ID>1691</ID>
@@ -1227,7 +1227,7 @@
     <Entry>
       <ID>1692</ID>
       <DefaultText>Sumpfkult-Meuchelmörder</DefaultText>
-      <FemaleText />
+      <FemaleText>Sumpfkult-Meuchelmörderin</FemaleText>
     </Entry>
     <Entry>
       <ID>1693</ID>
@@ -1242,7 +1242,7 @@
     <Entry>
       <ID>1695</ID>
       <DefaultText>Arbeiter</DefaultText>
-      <FemaleText />
+      <FemaleText>Arbeiterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1696</ID>
@@ -1252,7 +1252,7 @@
     <Entry>
       <ID>1697</ID>
       <DefaultText>Bergarbeiter</DefaultText>
-      <FemaleText />
+      <FemaleText>Bergarbeiterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1698</ID>
@@ -1292,7 +1292,7 @@
     <Entry>
       <ID>1705</ID>
       <DefaultText>Brigantenschurke</DefaultText>
-      <FemaleText />
+      <FemaleText>Brigantenschurkin</FemaleText>
     </Entry>
     <Entry>
       <ID>1706</ID>
@@ -1312,12 +1312,12 @@
     <Entry>
       <ID>1709</ID>
       <DefaultText>Ebbe-Kämpfer</DefaultText>
-      <FemaleText />
+      <FemaleText>Ebbe-Kämpferin</FemaleText>
     </Entry>
     <Entry>
       <ID>1710</ID>
       <DefaultText>Ebbe-Mönch</DefaultText>
-      <FemaleText />
+      <FemaleText>Ebbe-Nonne</FemaleText>
     </Entry>
     <Entry>
       <ID>1711</ID>
@@ -1327,7 +1327,7 @@
     <Entry>
       <ID>1712</ID>
       <DefaultText>Ebbe-Priester</DefaultText>
-      <FemaleText />
+      <FemaleText>Ebbe-Priesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1713</ID>
@@ -1427,7 +1427,7 @@
     <Entry>
       <ID>1735</ID>
       <DefaultText>Sumpfkult-Akolyth</DefaultText>
-      <FemaleText />
+      <FemaleText>Sumpfkult-Akolythin</FemaleText>
     </Entry>
     <Entry>
       <ID>1736</ID>
@@ -1437,7 +1437,7 @@
     <Entry>
       <ID>1737</ID>
       <DefaultText>Sumpfkult-Kantor</DefaultText>
-      <FemaleText />
+      <FemaleText>Sumpfkult-Kantorin</FemaleText>
     </Entry>
     <Entry>
       <ID>1741</ID>
@@ -1462,7 +1462,7 @@
     <Entry>
       <ID>1745</ID>
       <DefaultText>Brigantenpriester</DefaultText>
-      <FemaleText />
+      <FemaleText>Brigantenpriesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1746</ID>
@@ -1497,7 +1497,7 @@
     <Entry>
       <ID>1763</ID>
       <DefaultText>Verwirrter Bergarbeiter</DefaultText>
-      <FemaleText />
+      <FemaleText>Verwirrte Bergarbeiterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1764</ID>
@@ -1527,7 +1527,7 @@
     <Entry>
       <ID>1771</ID>
       <DefaultText>Weißstein-Brigant</DefaultText>
-      <FemaleText />
+      <FemaleText>Weißstein-Brigantin</FemaleText>
     </Entry>
     <Entry>
       <ID>1772</ID>
@@ -1621,13 +1621,13 @@
     </Entry>
     <Entry>
       <ID>1892</ID>
-      <DefaultText>Dominierter Priester</DefaultText>
-      <FemaleText />
+      <DefaultText>Beherrschter Priester</DefaultText>
+      <FemaleText>Beherrschte Priesterin</FemaleText>
     </Entry>
     <Entry>
       <ID>1894</ID>
       <DefaultText>Bleichelf-Heiler</DefaultText>
-      <FemaleText />
+      <FemaleText>Bleichelf-Heilerin</FemaleText>
     </Entry>
     <Entry>
       <ID>1895</ID>
