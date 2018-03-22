@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{2} fügt {0} {1}&#x2060;schaden zu.</DefaultText>
+      <DefaultText>{2} fügt {0} {1} Schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
