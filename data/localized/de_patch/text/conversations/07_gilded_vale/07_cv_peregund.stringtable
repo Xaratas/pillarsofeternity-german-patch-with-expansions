@@ -9,7 +9,9 @@
       <DefaultText>„Verdammtes Pech“, murmelt die Frau, als sie mit ihrem Fuß in die Erde tritt und dadurch einen Erdklumpen umdreht. Als du dich näherst, zucken ihre Ohren, worauf sie sich umdreht, um dich zu begrüßen.
 
 „Heil, Reisender“, sagt sie, begleitet von einem halbherzigen Winken. „Die Brücke nach Trutzbucht ist unpassierbar. Wenn du dorthin unterwegs bist, musst du dir eine andere Route suchen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Verdammtes Pech“, murmelt die Frau, als sie mit ihrem Fuß in die Erde tritt und dadurch einen Erdklumpen umdreht. Als du dich näherst, zucken ihre Ohren, worauf sie sich umdreht, um dich zu begrüßen.
+
+„Heil, Reisende“, sagt sie, begleitet von einem halbherzigen Winken. „Die Brücke nach Trutzbucht ist unpassierbar. Wenn du dorthin unterwegs bist, musst du dir eine andere Route suchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>

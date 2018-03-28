@@ -62,7 +62,7 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Die verhüllte Gestalt kommt wieder aus dem Schatten und dieses Mal lächelt sie. „Sei gegrüßt, Freund. Möchtest du Geschäfte treiben?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Die verhüllte Gestalt kommt wieder aus dem Schatten und dieses Mal lächelt sie. „Sei gegrüßt, Freundin. Möchtest du Geschäfte treiben?“</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>

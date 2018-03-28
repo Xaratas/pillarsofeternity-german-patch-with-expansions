@@ -111,12 +111,14 @@ Schließlich kommst du in einem Raum zur Ruhe, den du bereits einmal gesehen has
       <DefaultText>Plötzlich wirst du wieder in die Realität gerissen und der einst katatonische Knabe in der Zelle blickt dich unmittelbar an, musternd, berechnend. Es gibt keinen Zweifel mehr, dass es die Seele von Thaos Ix Arkannon ist, die aus der geliehenen Hülle blickt. Die Seele des Mannes, nach dem du suchst.
 
 „Ein Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Plötzlich wirst du wieder in die Realität gerissen und der einst katatonische Knabe in der Zelle blickt dich unmittelbar an, musternd, berechnend. Es gibt keinen Zweifel mehr, dass es die Seele von Thaos Ix Arkannon ist, die aus der geliehenen Hülle blickt. Die Seele des Mannes, nach dem du suchst.
+
+„Eine Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>„Du hast mich zu einem Wächter gemacht. Du musst es rückgängig machen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du hast mich zu einer Wächterin gemacht. Du musst es rückgängig machen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -126,7 +128,7 @@ Schließlich kommst du in einem Raum zur Ruhe, den du bereits einmal gesehen has
     <Entry>
       <ID>43</ID>
       <DefaultText>„Nicht nur ein Wächter. Jemand, der dir deine dünnen Beinchen bricht, wenn du nicht genau tust, was ich dir sage.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nicht nur eine Wächterin. Jemand, der dir deine dünnen Beinchen bricht, wenn du nicht genau tust, was ich dir sage.“</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -147,7 +149,9 @@ Er bringt sich außer Reichweite, indem er mit verblüffender Anmut nach hinten 
       <DefaultText>Plötzlich wirst du wieder in die Realität gerissen und der einst katatonische Knabe in der Zelle blickt dich unmittelbar an, musternd, berechnend. Es gibt keinen Zweifel mehr, dass aus der geliehenen Hülle die Seele des Mannes blickt, der deine Erweckung verursacht hat.
 
 „Ein Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Plötzlich wirst du wieder in die Realität gerissen und der einst katatonische Knabe in der Zelle blickt dich unmittelbar an, musternd, berechnend. Es gibt keinen Zweifel mehr, dass aus der geliehenen Hülle die Seele des Mannes blickt, der deine Erweckung verursacht hat.
+
+„Eine Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>

@@ -88,7 +88,9 @@ Er hält inne. „Ich hatte sie schon mal Kathedrale genannt. Das ist aber nicht
       <DefaultText>„Ihre Finger liegen auf der Landschaft dort wie Kratzspuren auf dem Rücken eines Mannes.“ Durance lässt seine Hand von seiner Wange fallen und führt sie zu seiner anderen Hand am Stab zurück. „Nachdem sie den Boden geheiligt hat, ist der Wald nie mehr nachgewachsen, und kein Samen hat je dort gekeimt.“
 
 „Die geschwärzten Bäume stehen dort noch immer&#160;– wie schwarze Hände, die aus dem Boden greifen.“ Er kichert. „Wächter, sie ist romantischer, als ich es darstelle. Schließlich trägt sie die Handschrift einer Frau.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ihre Finger liegen auf der Landschaft dort wie Kratzspuren auf dem Rücken eines Mannes.“ Durance lässt seine Hand von seiner Wange fallen und führt sie zu seiner anderen Hand am Stab zurück. „Nachdem sie den Boden geheiligt hat, ist der Wald nie mehr nachgewachsen, und kein Samen hat je dort gekeimt.“
+
+„Die geschwärzten Bäume stehen dort noch immer&#160;– wie schwarze Hände, die aus dem Boden greifen.“ Er kichert. „Wächterin, sie ist romantischer, als ich es darstelle. Schließlich trägt sie die Handschrift einer Frau.“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -164,7 +166,7 @@ Durance schließt einen Moment die Augen, als ob er nachdenken würde. „Manche
     <Entry>
       <ID>36</ID>
       <DefaultText>Durance öffnet die Augen und starrt dich an. „Weil ein Zuhause ein verworrenes Durcheinander von Enttäuschungen ist, deshalb. Wächter, mach niemals einen Ort zu deinem Zuhause, lass mich dir diesen Rat geben&#160;– bleib unterwegs. Ein Zuhause ist wie ein Fluch&#160;– es wird dich umbringen, damit du bleibst&#160;…“</DefaultText>
-      <FemaleText />
+      <FemaleText>Durance öffnet die Augen und starrt dich an. „Weil ein Zuhause ein verworrenes Durcheinander von Enttäuschungen ist, deshalb. Wächterin, mach niemals einen Ort zu deinem Zuhause, lass mich dir diesen Rat geben – bleib unterwegs. Ein Zuhause ist wie ein Fluch&#160;– es wird dich umbringen, damit du bleibst&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>

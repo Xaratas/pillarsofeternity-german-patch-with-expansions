@@ -38,7 +38,9 @@ Erschrocken lässt der Soldat dich sofort los und wendet sich zu der Frau um, di
       <DefaultText>„Wenn er ein solch schlechter Meuchelmörder ist, sich am helllichten Tage einem bewaffneten Wachmann zu nähern, habe ich nichts zu befürchten. Ich würde mir anhören, was dieser Mann zu sagen hat.“
 
 Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachtet dich aber mit ärgerlichem Blick von der Seite. Seine Fingerknöchel umschließen den Knauf seines Schwertes so fest, dass sie weiß werden.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenn sie eine solch schlechte Meuchelmörderin ist, sich am helllichten Tage einem bewaffneten Wachmann zu nähern, habe ich nichts zu befürchten. Ich würde mir anhören, was diese Frau zu sagen hat.“
+
+Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachtet dich aber mit ärgerlichem Blick von der Seite. Seine Fingerknöchel umschließen den Knauf seines Schwertes so fest, dass sie weiß werden.</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -240,7 +242,9 @@ Sie blickt gedankenverloren nach unten.
       <DefaultText>Iovara blinzelt nicht. „Ist die Lage dort so verzweifelt? Das hätte ich nie geahnt.“
 
 „Ich hoffe, dein nächster Auftrag ist anregender. Meinen Lehren zu lauschen ist fades Werk für einen Spion.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Iovara blinzelt nicht. „Ist die Lage dort so verzweifelt? Das hätte ich nie geahnt.“
+
+„Ich hoffe, dein nächster Auftrag ist anregender. Meinen Lehren zu lauschen ist fades Werk für eine Spionin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -250,7 +254,7 @@ Sie blickt gedankenverloren nach unten.
     <Entry>
       <ID>44</ID>
       <DefaultText>„Ein von der Inquisition gesandter Meuchelmörder, Herrin. Der es wagt, sich unserem Lager zu nähern.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Eine von der Inquisition gesandte Meuchelmörderin, Herrin. Die es wagt, sich unserem Lager zu nähern.“</FemaleText>
     </Entry>
     <Entry>
       <ID>45</ID>

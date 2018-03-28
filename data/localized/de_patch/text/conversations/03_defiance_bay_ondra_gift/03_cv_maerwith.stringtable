@@ -23,7 +23,7 @@
       <ID>4</ID>
       <DefaultText>„Nein.“ Sie lässt einen Goldzahn aufblitzen. „Sie hat mich verstoßen. Wir waren ärmer als die Fischer, die dort jetzt leben, und als sie erfuhr, dass ich mit gestohlenem Geld Essen auf unseren Tisch gebracht hatte, sagte sie, es wäre eine Gnade der Götter, wenn sie mich nie wieder sehen müsste.“
 
-Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen sollte. Und es war ein hartes Leben, bis ich zum Kapitän aufstieg.“</DefaultText>
+Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen sollte. Und es war ein hartes Leben, bis ich zur Kapitänin aufstieg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,7 +74,7 @@ Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen 
     <Entry>
       <ID>30</ID>
       <DefaultText>„Ich hätte dich nicht für einen Lügner gehalten. Nach allem, was ich über dich höre.“ Sie mustert dich mit zusammengekniffenen Augen. „Aber das heißt nicht, dass ich dir glaube.“ Sie neigt sich vor, ihre Stimme ein leises Zischen. „Du erklärst mir lieber ganz schnell, woher du diesen ‚interessanten‘ Gedanken hast.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich hätte dich nicht für eine Lügnerin gehalten. Nach allem, was ich über dich höre.“ Sie mustert dich mit zusammengekniffenen Augen. „Aber das heißt nicht, dass ich dir glaube.“ Sie neigt sich vor, ihre Stimme ein leises Zischen. „Du erklärst mir lieber ganz schnell, woher du diesen ‚interessanten‘ Gedanken hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -95,7 +95,7 @@ Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen 
       <ID>36</ID>
       <DefaultText>Ein Goldzahn blitzt auf. „Sie hat mich verstoßen. Wir waren ärmer als die Fischer, die dort jetzt leben, und als sie erfuhr, dass ich mit gestohlenem Geld Essen auf unseren Tisch gebracht hatte, sagte sie, es wäre eine Gnade der Götter, wenn sie mich nie wieder sehen müsste.“
 
-Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen sollte. Und es war ein hartes Leben, bis ich zum Kapitän aufstieg.“</DefaultText>
+Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen sollte. Und es war ein hartes Leben, bis ich zur Kapitänin aufstieg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@ Ihre dunklen Augen sind voller Zorn. „Ich wusste nicht, wohin ich sonst gehen 
     <Entry>
       <ID>61</ID>
       <DefaultText>„Ihr Verstand ist voller Schmerz, Wächter&#160;… dem Schmerz eines verlassenen Kindes. Er verschwindet nie.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ihr Verstand ist voller Schmerz, Wächterin&#160;… dem Schmerz eines verlassenen Kindes. Er verschwindet nie.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

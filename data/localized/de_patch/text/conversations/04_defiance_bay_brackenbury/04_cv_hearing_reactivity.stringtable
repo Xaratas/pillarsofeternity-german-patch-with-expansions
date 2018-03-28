@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Ich erkenne dich. Du bist der, der bei der Anhörung gesprochen hat.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Ich erkenne dich. Du bist derjenige, der bei der Anhörung gesprochen hat.“</DefaultText>
+      <FemaleText>„Ich erkenne dich. Du bist diejenige, die bei der Anhörung gesprochen hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -49,7 +49,7 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>Er nickt. „Du musst verschwinden, das hier aussitzen. Viel Glück, Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er nickt. „Du musst verschwinden, das hier aussitzen. Viel Glück, Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>

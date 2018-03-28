@@ -38,7 +38,9 @@ Als Durance einen Blick darauf erhascht, quellen seine Augen förmlich hervor. E
       <DefaultText>Zum ersten Mal scheint sich Durance seines Auftretens bewusst zu werden und seine Wut scheint so schnell zu vergehen, wie sie gekommen ist&#160;… bis du dich zu fragen beginnst, ob er wirklich wütend gewesen ist.
 
 „Hmmh? Das, was du siehst, ist keine Wut. Anscheinend bin ich lediglich das Opfer eines göttlichen Schabernacks. Das wird zwischen ihr und mir bleiben, Wächter, da nur ich ihn zu schätzen weiß.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Zum ersten Mal scheint sich Durance seines Auftretens bewusst zu werden und seine Wut scheint so schnell zu vergehen, wie sie gekommen ist&#160;… bis du dich zu fragen beginnst, ob er wirklich wütend gewesen ist.
+
+„Hmmh? Das, was du siehst, ist keine Wut. Anscheinend bin ich lediglich das Opfer eines göttlichen Schabernacks. Das wird zwischen ihr und mir bleiben, Wächterin, da nur ich ihn zu schätzen weiß.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -53,7 +55,7 @@ Als Durance einen Blick darauf erhascht, quellen seine Augen förmlich hervor. E
     <Entry>
       <ID>9</ID>
       <DefaultText>„Frag mich unterwegs, Wächter. Jetzt, wo mir das bittere Parfüm der Hure noch die Sinne vernebelt, bin ich nicht in der Stimmung dafür.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Frag mich unterwegs, Wächterin. Jetzt, wo mir das bittere Parfüm der Hure noch die Sinne vernebelt, bin ich nicht in der Stimmung dafür.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>

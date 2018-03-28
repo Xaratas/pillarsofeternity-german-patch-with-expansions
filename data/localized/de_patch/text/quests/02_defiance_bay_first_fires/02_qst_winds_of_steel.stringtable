@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Besiege die verbrecherischen Schmiederitter.</DefaultText>
+      <DefaultText>Besiege die abtrünnigen Schmiederitter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@ Kommandant&#160;Clyver bat mich, die Forschungsunterlagen zu einem der Kommandan
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Padebald, ein Mitglied der Dutzenden, hat die Schmelztiegelritter und mich bei der Übergabe überfallen. Die Dutzenden sind darauf aus, die Schmelztiegelritter davon abzuhalten, eine Armee auszuheben.</DefaultText>
+      <DefaultText>Padebald, ein Mitglied der Dutzenden, hat die Schmelztiegelritter und mich bei der Übergabe überfallen. Die Dutzenden sind darauf aus, die Schmelztiegelritter davon abzuhalten, eine Armee von Schmiederittern auszuheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

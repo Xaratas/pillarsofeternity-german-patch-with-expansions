@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>„Schnapp dir einen Krug, mein Freund! Sonst gibt es hier kaum was Sinnvolles zu tun!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Schnapp dir einen Krug, meine Freundin! Sonst gibt es hier kaum was Sinnvolles zu tun!“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>

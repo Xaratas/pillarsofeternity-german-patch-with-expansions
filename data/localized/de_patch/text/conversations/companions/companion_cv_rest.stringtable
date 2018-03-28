@@ -154,7 +154,7 @@ Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furc
     <Entry>
       <ID>30</ID>
       <DefaultText>Sie nickt. „Wächter, ich bewundere deine Übersicht, und ich hoffe, dass ich dir dabei helfen kann, dich auf die bevorstehenden Entscheidungen vorzubereiten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie nickt. „Wächterin, ich bewundere deine Übersicht, und ich hoffe, dass ich dir dabei helfen kann, dich auf die bevorstehenden Entscheidungen vorzubereiten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -169,12 +169,12 @@ Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furc
     <Entry>
       <ID>33</ID>
       <DefaultText>„Vergib mir, Wächter. Ich wollte dich nicht stören.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vergib mir, Wächterin. Ich wollte dich nicht stören.“</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>„Sei vorsichtig, Wächter. Lass nicht zu, dass deine gegenwärtigen Bemühungen von den unbekannten Kapiteln deiner Seele durchkreuzt werden. Du musst deinen Verstand wappnen und Klarheit in deiner Bestimmung finden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sei vorsichtig, Wächterin. Lass nicht zu, dass deine gegenwärtigen Bemühungen von den unbekannten Kapiteln deiner Seele durchkreuzt werden. Du musst deinen Verstand wappnen und Klarheit in deiner Bestimmung finden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>

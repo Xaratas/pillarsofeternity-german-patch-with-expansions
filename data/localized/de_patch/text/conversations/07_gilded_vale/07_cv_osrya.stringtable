@@ -12,12 +12,12 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>„Und wie geht es meinem neuesten Assistenten? Nedmar ist wohl gesundheitlich angeschlagen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Und wie geht es meiner neuesten Assistentin? Nedmar ist wohl gesundheitlich angeschlagen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>„Wie ich sehe, ist mein Held zurückgekehrt. Und wie kann ich dir helfen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wie ich sehe, ist meine Heldin zurückgekehrt. Und wie kann ich dir helfen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -277,7 +277,7 @@
     <Entry>
       <ID>71</ID>
       <DefaultText>„Ah, ja, Raedrics Held. Bitte lass deine Finger von meiner Arbeit.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ah, ja, Raedrics Heldin. Bitte lass deine Finger von meiner Arbeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Du! Weißt du überhaupt, was du mich gekostet hast? Möglicherweise hat man mich im ganzen Dyrwald geächtet! Auf dem ganzen Kontinent!“ Osrya wendet sich dir zu, um dich anzusehen. „Ich so viel ich tragen kann als Bezahlung aus dieser armseligen Burg mitnehmen&#160;– zusammen mit der Zufriedenheit ob deines Todes.“</DefaultText>
+      <DefaultText>„Du! Weißt du überhaupt, was du mich gekostet hast? Möglicherweise hat man mich im ganzen Dyrwald geächtet! Auf dem ganzen Kontinent!“ Osrya wendet sich dir zu, um dich anzusehen. „Ich werde so viel ich tragen kann als Bezahlung aus dieser armseligen Burg mitnehmen&#160;– zusammen mit der Zufriedenheit ob deines Todes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

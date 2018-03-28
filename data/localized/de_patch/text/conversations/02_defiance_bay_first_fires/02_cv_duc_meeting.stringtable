@@ -47,22 +47,22 @@
     <Entry>
       <ID>13</ID>
       <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unser neuer Delegierter von den Dutzenden. Wie kommst du auf Sabotage?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unsere neue Delegierte von den Dutzenden. Wie kommst du auf Sabotage?“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unser neuer Delegierter von den Schmelztiegelrittern. Wie kommst du auf Sabotage?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unsere neue Delegierte von den Schmelztiegelrittern. Wie kommst du auf Sabotage?“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unser neuer Delegierter aus dem Hause&#160;Doemenel. Wie kommst du auf Sabotage?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unsere neue Delegierte aus dem Hause Doemenel. Wie kommst du auf Sabotage?“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unsere neue Ein-Mann-Delegation. Wie kommst du auf Sabotage?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. „Ah, unsere neue Einzeldelegation. Wie kommst du auf Sabotage?“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -127,7 +127,7 @@
     <Entry>
       <ID>29</ID>
       <DefaultText>„Eadric, bist du sicher, dass das DEIN Delegierter ist?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Eadric, bist du sicher, dass das DEINE Delegierte ist?“</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -157,7 +157,7 @@
     <Entry>
       <ID>35</ID>
       <DefaultText>„Du hast seltsame Reisevorlieben, mein Freund. Deine Geschichten werden mit jedem Atemzug größer.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du hast seltsame Reisevorlieben, meine Freundin. Deine Geschichten werden mit jedem Atemzug größer.“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -197,14 +197,16 @@
     <Entry>
       <ID>43</ID>
       <DefaultText>„Ich hörte Gerüchte über einen neuen Delegierten, der an der heutigen Anhörung teilnehmen soll. Ich gebe zu, dass deine Aufrichtigkeit mehr als einmal erwähnt wurde.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich hörte Gerüchte über eine neue Delegierte, die an der heutigen Anhörung teilnehmen soll. Ich gebe zu, dass deine Aufrichtigkeit mehr als einmal erwähnt wurde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>„Ich hörte Gerüchte über einen neuen Delegierten, der an der heutigen Anhörung teilnehmen soll. Man sagte mir, ich müsse mit Drohungen und Einschüchterungen rechnen. Was hier nichts Neues ist, wie du sehen kannst.“
 
 „Nun gut, vielleicht bist du ja so einer.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich hörte Gerüchte über eine neue Delegierte, die an der heutigen Anhörung teilnehmen soll. Man sagte mir, ich müsse mit Drohungen und Einschüchterungen rechnen. Was hier nichts Neues ist, wie du sehen kannst.“
+
+„Nun gut, vielleicht bist du ja so einer.“</FemaleText>
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -328,7 +330,9 @@
       <DefaultText>„Bestien, noch ein Wahnsinniger bei der Anhörung. Haben Sie daran gedacht, Ihr Sanatorium zu verriegeln, bevor sie gegangen sind, Meister&#160;Barrasc?“
 
 Der Raum lacht.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Bestien, noch eine Wahnsinnige bei der Anhörung. Haben Sie daran gedacht, Ihr Sanatorium zu verriegeln, bevor sie gegangen sind, Meister&#160;Barrasc?“
+
+Der Raum lacht.</FemaleText>
     </Entry>
     <Entry>
       <ID>71</ID>
@@ -375,7 +379,9 @@ Der Raum lacht.</DefaultText>
       <DefaultText>Der Duc beugt sich in seinem Thron vor, mit einer Spur Neugier in den Augen. „Du musst wissen, mein Freund, dass der Bleierne Schlüssel Nährboden für kleine Grobiane und spielende Kinder ist.“
 
 „Ich sage ja nicht, dass du ein Lügner bist&#160;– noch nicht. Du solltest aber besser mal damit anfangen, all dem einen Sinn zu geben. Hilf uns, dir zu glauben.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Duc beugt sich in seinem Thron vor, mit einer Spur Neugier in den Augen. „Du musst wissen, meine Freundin, dass der Bleierne Schlüssel Nährboden für kleine Grobiane und spielende Kinder ist.“
+
+„Ich sage ja nicht, dass du eine Lügnerin bist&#160;– noch nicht. Du solltest aber besser mal damit anfangen, all dem einen Sinn zu geben. Hilf uns, dir zu glauben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -530,7 +536,7 @@ Der Raum lacht.</DefaultText>
     <Entry>
       <ID>110</ID>
       <DefaultText>„Wenn du etwas über mich wissen musst, dann das&#160;– ich wurde schon als vieles bezeichnet, aber niemals als Lügner. Ein ehrlicher Zeuge ist das beste Beweisstück, dass du in dieser Angelegenheit hast.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenn du etwas über mich wissen musst, dann das&#160;– ich wurde schon als vieles bezeichnet, aber niemals als Lügnerin. Eine ehrliche Zeugin ist das beste Beweisstück, dass du in dieser Angelegenheit hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>111</ID>
@@ -552,7 +558,9 @@ Der Raum lacht.</DefaultText>
       <DefaultText>„Du hast einen&#160;… unerwarteten Punkt vorgebracht, mein Freund. Ich werde so viel dazu sagen. Es scheint, als gäbe es zu guter Letzt eine neue mögliche Erwägung.“
 
 „Wie hast du das alles erfahren?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du hast einen&#160;… unerwarteten Punkt vorgebracht, meine Freundin. Ich werde so viel dazu sagen. Es scheint, als gäbe es zu guter Letzt eine neue mögliche Erwägung.“
+
+„Wie hast du das alles erfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>115</ID>
@@ -607,7 +615,7 @@ Der Raum lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>„Ich würde den Beseelern weiterhin ihre Arbeit erlauben. Sie untersuchen Fragen, die wir alle verstehen möchten. Wenn wir mehr wüssten, dann hätte diese Krise vielleicht verhütet werden können.“</DefaultText>
+      <DefaultText>„Ich würde den Beseelern weiterhin ihre Arbeit erlauben. Sie untersuchen Fragen, die wir alle verstehen möchten. Wenn wir mehr wüssten, dann hätte diese Krise vielleicht abgewendet werden können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,17 +646,17 @@ Der Raum lacht.</DefaultText>
     <Entry>
       <ID>133</ID>
       <DefaultText>„Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Ich möchte insbesondere unserem neuen Delegierten danken, der mir so viel zu denken gegeben hat und der mich auf einen neuen Feind aufmerksam gemacht hat, den ich zuvor zu erkennen versäumt habe.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Ich möchte insbesondere unserer neuen Delegierten danken, die mir so viel zu denken gegeben hat und die mich auf einen neuen Feind aufmerksam gemacht hat, den ich zuvor zu erkennen versäumt habe.“</FemaleText>
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>„Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Und unserem neuen Delegierten, der uns auf eine neue Möglichkeit aufmerksam gemacht hat, die wir in Augenschein nehmen sollten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Und unserer neuen Delegierten, die uns auf eine neue Möglichkeit aufmerksam gemacht hat, die wir in Augenschein nehmen sollten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>
       <DefaultText>„Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Und unserem neuen Delegierten, der, wenn sonst nichts, diesen letzten Tag etwas interessanter gemacht hat.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Und unserer neuen Delegierten, die, wenn sonst nichts, diesen letzten Tag etwas interessanter gemacht hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>138</ID>
@@ -807,7 +815,7 @@ Ihre Augen leuchten mit einem inneren Licht, ihre Stimme nimmt einen andersweltl
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Die Trauernde Mutter steht über dir, die Augen weit geöffnet und voller Furcht. „Wir sind umgeben von Geistern der Zorn und der Furcht. Wir müssen fliehen.“</DefaultText>
+      <DefaultText>Die Trauernde Mutter steht über dir, die Augen weit geöffnet und voller Furcht. „Wir sind umgeben von Geistern des Zorns und der Furcht. Wir müssen fliehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -825,7 +833,7 @@ Ihre Augen leuchten mit einem inneren Licht, ihre Stimme nimmt einen andersweltl
     <Entry>
       <ID>185</ID>
       <DefaultText>„Die Aussage des Delegierten war sowohl aufklärend als auch richtig, und die Schmelztiegelritter möchten ihm förmlich dafür danken.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Aussage der Delegierten war sowohl aufklärend als auch richtig, und die Schmelztiegelritter möchten ihr förmlich dafür danken.“</FemaleText>
     </Entry>
     <Entry>
       <ID>186</ID>
@@ -835,7 +843,7 @@ Ihre Augen leuchten mit einem inneren Licht, ihre Stimme nimmt einen andersweltl
     <Entry>
       <ID>187</ID>
       <DefaultText>„Weise Worte, die unser neuer Delegierter hier von sich gab. Ich hoffe, dass Sie sie sich zu Herzen nehmen werden, Euer Gnaden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Weise Worte, die unsere neue Delegierte hier von sich gab. Ich hoffe, dass Sie sie sich zu Herzen nehmen werden, Euer Gnaden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>188</ID>

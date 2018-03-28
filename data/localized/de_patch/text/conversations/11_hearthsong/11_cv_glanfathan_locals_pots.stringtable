@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>„Ja? Ich höre, Fremder.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja? Ich höre, Fremde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>

@@ -303,7 +303,7 @@ In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettarti
     <Entry>
       <ID>68</ID>
       <DefaultText>Sie reißt die Hand zurück. Ein stechender Schrei ertönt unter ihrer Kapuze. „Betrüger!“</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie reißt die Hand zurück. Ein stechender Schrei ertönt unter ihrer Kapuze. „Betrügerin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>

@@ -106,7 +106,11 @@ Er wendet sich an die übrigen Mönche: „Meine Brüder, der Erzmärtyrer sende
 Der Mönch wird rot und lächelt zum ersten Mal. „Es freut mich, dass es in dieser Welt noch Anstand gibt.“
 
 Er greift in die Falten seiner Roben. „Hier, deine Ehrlichkeit gehört belohnt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke, Fremde“, sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. „Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht&#160;… als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei.“
+
+Der Mönch wird rot und lächelt zum ersten Mal. „Es freut mich, dass es in dieser Welt noch Anstand gibt.“
+
+Er greift in die Falten seiner Roben. „Hier, deine Ehrlichkeit gehört belohnt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -172,7 +176,9 @@ Er verschränkt die Arme vor der Brust und starrt dich mit hochgezogener Augenbr
       <DefaultText>Der Mönch seufzt, sein Blick fällt zu Boden. „Dann ist sein Auftrag gescheitert“, sagt er leise.
 
 „Ich danke dir, Reisender, dass du uns diese neue Neuigkeit überbracht hast. Wir haben lange auf Nachricht von unserem Bruder gewartet. Zumindest wissen wir nun, was ihm widerfahren ist. Wenn du uns nun bitte allein lässt, meine Brüder und ich haben viel zu besprechen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Mönch seufzt, sein Blick fällt zu Boden. „Dann ist sein Auftrag gescheitert“, sagt er leise.
+
+„Ich danke dir, Reisende, dass du uns diese neue Neuigkeit überbracht hast. Wir haben lange auf Nachricht von unserem Bruder gewartet. Zumindest wissen wir nun, was ihm widerfahren ist. Wenn du uns nun bitte allein lässt, meine Brüder und ich haben viel zu besprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -181,7 +187,11 @@ Er verschränkt die Arme vor der Brust und starrt dich mit hochgezogener Augenbr
 Der Mönch wird rot und lächelt zum ersten Mal. „Es freut mich, dass es in dieser Welt noch Anstand gibt.“
 
 Er greift in die Falten seiner Roben. „Hier, deine Ehrlichkeit gehört belohnt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke, Fremde“, sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. „Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht&#160;… als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei.“
+
+Der Mönch wird rot und lächelt zum ersten Mal. „Es freut mich, dass es in dieser Welt noch Anstand gibt.“
+
+Er greift in die Falten seiner Roben. „Hier, deine Ehrlichkeit gehört belohnt.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

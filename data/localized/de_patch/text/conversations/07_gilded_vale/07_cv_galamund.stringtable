@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>„Äh&#160;… Wollte Sie natürlich nicht beleidigen, mein Herr.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Äh&#160;… Wollte Sie natürlich nicht beleidigen, gnädige Frau.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>

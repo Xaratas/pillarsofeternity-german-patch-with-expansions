@@ -127,7 +127,7 @@
     <Entry>
       <ID>25</ID>
       <DefaultText>„Wir freuen uns auf viele Kreisläufe unter deiner Führung, Oberabt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir freuen uns auf viele Kreisläufe unter deiner Führung, Oberäbtissin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -137,7 +137,7 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>„Wir haben die Kunde vernommen, Oberabt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir haben die Kunde vernommen, Oberäbtissin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>

@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Erzeugt eine giftige physikalische Manifestation der gegenseitigen Antipathie zwischen dem Medium und dem feindlichen Ziel. Feinde, die zwischen die beiden gerät, erleiden Zersetzungsschaden.</DefaultText>
+      <DefaultText>Erzeugt eine giftige physikalische Manifestation der gegenseitigen Antipathie zwischen dem Medium und dem feindlichen Ziel. Feinde, die zwischen die beiden geraten, erleiden Zersetzungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2841,7 +2841,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch jeder im Angriffsbereich erheblichen Stichschaden erleiden und mit hoher Wahrscheinlichkeit ausgeschaltet werden.</DefaultText>
+      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch jeder im Angriffsbereich erheblichen Stichschaden erleidet und mit hoher Wahrscheinlichkeit unterbrochen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

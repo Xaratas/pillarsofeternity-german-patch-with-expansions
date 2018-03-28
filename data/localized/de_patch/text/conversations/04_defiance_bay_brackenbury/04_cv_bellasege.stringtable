@@ -42,7 +42,7 @@ Sie läuft fast in dich hinein. „Eccosi! Nun suche ich so angestrengt in meine
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Aloths Lippen kräuseln sich skeptisch. „Ich weiß nicht.“</DefaultText>
+      <DefaultText>Aloths Lippen kräuseln sich skeptisch. „Ich weiß nicht recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ Sie läuft fast in dich hinein. „Eccosi! Nun suche ich so angestrengt in meine
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Es wird guttun, nach Revua zurückzukehren. Ich hoffe, Fentre Aloth und seinem&#160;… Begleiter geht es gut?“</DefaultText>
+      <DefaultText>„Es wird guttun, nach Revua zurückzukehren. Ich hoffe, Fentre Aloth und seiner&#160;… Begleiterin geht es gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@ Sein Kiefer verkrampft sich und seine Augen zucken unter seinen Lidern.</Default
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Iselmyr, sagt Aloth, warum du erweckt wurdest.“</DefaultText>
+      <DefaultText>„Iselmyr, sage Aloth, warum du erweckt wurdest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,12 +363,12 @@ Sie bedeutet dir mit einer Geste, weiterzumachen, die Feder noch immer in der Ha
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>„Nicht mehr, als ich geb. Frag doch mal, was ich mit seinem ollen Herrn gemacht habe. Wie ich ihn in drei Stücke zerhauen hab, als er uns das letzte Mal angefasst hat.“</DefaultText>
+      <DefaultText>„Nicht mehr, als ich geb. Frag doch mal, was ich mit seinem ollen Herrn gemacht habe. Wie ich ihn an drei Stellen gebrochen hab, als er uns das letzte Mal angefasst hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Ja, und ein Paar geliehen habe ich ihm auch. Frag doch mal, was ich mit seinem ollen Herrn gemacht habe. Wie ich ihn in drei Stücke zerhauen hab, als er uns das letzte Mal angefasst hab.“</DefaultText>
+      <DefaultText>„Ja, und ein Paar geliehen habe ich ihm auch. Frag doch mal, was ich mit seinem ollen Herrn gemacht habe. Wie ich ihn an drei Stellen gebrochen hab, als er uns das letzte Mal angefasst hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -523,7 +523,7 @@ Er hält einen Finger an seine Lippen, seine Augen weit und flehend. „Bitte. I
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Sie springt auf, strahlend. „Gellarde! Wer ist da?“</DefaultText>
+      <DefaultText>Sie springt auf, strahlend. „Gellarde! Wer ist es?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

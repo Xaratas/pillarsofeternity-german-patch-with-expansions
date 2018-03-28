@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Ich untersuche das Bîaŵac-Problem. Also Mächte, die Seelen aus ihren Behältern ‚entwurzeln‘ können. Ich versuche, eine Verteidigung gegen diese Mächte zu entwickeln.“</DefaultText>
+      <DefaultText>„Ich untersuche das Bîaŵac-Problem. Also Mächte, die Seelen aus ihren Gefäßen ‚entwurzeln‘ können. Ich versuche, eine Verteidigung gegen diese Mächte zu entwickeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,8 +123,8 @@ Geyda tritt höflich ein wenig zur Seite, wo sie euch nicht hören kann.</Defaul
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Eine weise Entscheidung, [Player Name].“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Eine weise Entscheidung, Fürst [Player Name].“</DefaultText>
+      <FemaleText>„Eine weise Entscheidung, Fürstin [Player Name].“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -253,12 +253,12 @@ Sie beißt sich auf die Lippe. „Jetzt müssen wir diese&#160;… gefährlichen
     <Entry>
       <ID>51</ID>
       <DefaultText>„Ich habe wohl keine Wahl. Ich brauche Versuchsobjekte. Und ich danke Ihnen für die Geste, mein Fürst! Ich werde diese Gelegenheit nutzen&#160;… sobald ich mir überlegt habe, wie ich die Gefangenen transportiere&#160;…“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich habe wohl keine Wahl. Ich brauche Versuchsobjekte. Und ich danke Ihnen für die Geste, meine Fürstin! Ich werde diese Gelegenheit nutzen&#160;… sobald ich mir überlegt habe, wie ich die Gefangenen transportiere&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„[Player Name]? Ich könnte Ihre Hilfe brauchen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Fürst  [Player Name]? Ich könnte Ihre Hilfe brauchen.“</DefaultText>
+      <FemaleText>„Fürstin [Player Name]? Ich könnte Ihre Hilfe brauchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -267,7 +267,7 @@ Sie beißt sich auf die Lippe. „Jetzt müssen wir diese&#160;… gefährlichen
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„In ganz Erbhügel wimmelt es von Besessenen. Die Bürger von Trutzbucht wären wir dir sicher dankbar, wenn du ihre Zahl etwas ausdünnst.“</DefaultText>
+      <DefaultText>„In ganz Erbhügel wimmelt es von Besessenen. Die Bürger von Trutzbucht wären dir sicher dankbar, wenn du ihre Zahl etwas ausdünnst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

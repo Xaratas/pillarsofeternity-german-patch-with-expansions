@@ -52,7 +52,7 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>„Lügner!“ Der Jungdrache brüllt. „Du willst ihn mit deinen kalten, schmutzigen Pfoten stehlen!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Lügnerin!“ Der Jungdrache brüllt. „Du willst ihn mit deinen kalten, schmutzigen Pfoten stehlen!“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

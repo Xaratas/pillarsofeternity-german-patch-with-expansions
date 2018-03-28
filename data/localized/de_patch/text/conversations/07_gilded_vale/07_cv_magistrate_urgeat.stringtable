@@ -63,7 +63,7 @@ Er mustert dich mit eingesunkenen, leblosen Augen. „Du musst einer der neuen S
     <Entry>
       <ID>18</ID>
       <DefaultText>„Ich sollte dich warnen, Fremder. Hier in Goldtal haben wir einen besonderen Ort für Dissidenten, Scharlatane und jene, die einen Fluch unter uns verbergen würden.“ Er geht zur Seite und neigt seinen Kopf minimal zum deformierten Baum.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich sollte dich warnen, Fremde. Hier in Goldtal haben wir einen besonderen Ort für Dissidenten, Scharlatane und jene, die einen Fluch unter uns verbergen würden.“ Er geht zur Seite und neigt seinen Kopf minimal zum deformierten Baum.</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -112,7 +112,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     <Entry>
       <ID>27</ID>
       <DefaultText>Urgeat gafft dich an. „Du! Du bist derjenige, der Fürst Raedric auf Geheiß dieses schwachsinnigen Verräters ermordet hat!“ Er zieht die Nase hoch. „Sicherlich verstehst du, dass ich deine Anfrage bezüglich Haus und Land jetzt nicht mehr bearbeiten kann&#160;…“</DefaultText>
-      <FemaleText />
+      <FemaleText>Urgeat gafft dich an. „Du! Du bist diejenige, die Fürst Raedric auf Geheiß dieses schwachsinnigen Verräters ermordet hat!“ Er zieht die Nase hoch. „Sicherlich verstehst du, dass ich deine Anfrage bezüglich Haus und Land jetzt nicht mehr bearbeiten kann&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>

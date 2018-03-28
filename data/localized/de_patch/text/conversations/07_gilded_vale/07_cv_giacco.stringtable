@@ -122,7 +122,7 @@
     <Entry>
       <ID>26</ID>
       <DefaultText>„Danke dir, Fremder! Ich muss zurück zur Gabelung&#160;… aber zuerst muss ich wohl etwas essen und mich ausruhen.“ Er zögert. „Wenn du dich in die oberen Stockwerke traust, sagt Nedmar bitte, dass ich noch lebe. Sag ihm&#160;… sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab. Das sollte ihn überzeugen, und vielleicht kann er dir irgendwie helfen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke dir, Fremde! Ich muss zurück zur Gabelung&#160;… aber zuerst muss ich wohl etwas essen und mich ausruhen.“ Er zögert. „Wenn du dich in die oberen Stockwerke traust, sagt Nedmar bitte, dass ich noch lebe. Sag ihm&#160;… sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab. Das sollte ihn überzeugen, und vielleicht kann er dir irgendwie helfen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Irgendwann hat dort wohl jemand gelebt. Heutzutage treffen wir uns manchmal da. Kolsc sagt, der Ort war verlassen, als sie ihn fanden. So, äh, geheim ist das dann doch nicht, oder? Aber ich vermute, es ist weit genug von der Festung entfernt&#160;…“</DefaultText>
+      <DefaultText>„Irgendwann hat hier wohl jemand gelebt. Heutzutage treffen wir uns manchmal hier. Kolsc sagt, der Ort war verlassen, als sie ihn fanden. So, äh, geheim ist das dann doch nicht, oder? Aber ich vermute, es ist weit genug von der Festung entfernt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,7 +237,7 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>„Danke dir, Fremder! Ich muss zurück zur Gabelung&#160;… aber zuerst muss ich wohl etwas essen und mich ausruhen. Sag Nedmar&#160;… na ja, sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab, als ich noch ein Junge war. Und dass ich hoffe, dass es ihm gut geht.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke dir, Fremde! Ich muss zurück zur Gabelung&#160;… aber zuerst muss ich wohl etwas essen und mich ausruhen. Sag Nedmar&#160;… na ja, sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab, als ich noch ein Junge war. Und dass ich hoffe, dass es ihm gut geht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -327,7 +327,7 @@
     <Entry>
       <ID>69</ID>
       <DefaultText>„Kolsc! Kolsc, er ist zurückgekommen! Raedric hat ihn geschickt!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Kolsc! Kolsc, sie ist zurückgekommen! Raedric hat sie geschickt!“</FemaleText>
     </Entry>
     <Entry>
       <ID>70</ID>
@@ -352,7 +352,7 @@
     <Entry>
       <ID>74</ID>
       <DefaultText>„Kameraden, zu den Waffen! Unter uns befindet sich ein Verräter!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Kameraden, zu den Waffen! Unter uns befindet sich eine Verräterin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>75</ID>

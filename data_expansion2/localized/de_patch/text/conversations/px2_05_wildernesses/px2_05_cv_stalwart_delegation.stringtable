@@ -315,7 +315,9 @@ Deine Sicht verschwimmt&#160;… und du stehst in einem kaum beleuchteten Raum. 
       <DefaultText>„Ich glaube nicht, dass er das meint.“
 
 Sie blickt dich an. „Von wem geschickt?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich glaube nicht, dass sie das meint.“
+
+Sie blickt dich an. „Von wem geschickt?“</FemaleText>
     </Entry>
     <Entry>
       <ID>71</ID>

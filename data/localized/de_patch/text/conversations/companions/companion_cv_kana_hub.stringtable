@@ -433,7 +433,7 @@ Kana kichert. „Tut mir leid.“</DefaultText>
     <Entry>
       <ID>92</ID>
       <DefaultText>„Wenigstens hast du mit dieser Burg eine Basis, von der aus du weitersuchen kannst. Und außerdem liegen unter der Herrenhalle noch Geheimnisse verborgen.“ Er grinst eifrig. „Mit dir als Anführer sollte die Erkundung der Endlosen Pfade leichter werden&#160;…“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenigstens hast du mit dieser Burg eine Basis, von der aus du weitersuchen kannst. Und außerdem liegen unter der Herrenhalle noch Geheimnisse verborgen.“ Er grinst eifrig. „Mit dir als Anführerin sollte die Erkundung der Endlosen Pfade leichter werden&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
@@ -1820,7 +1820,7 @@ Kana äugt dich an. „Mir ist aufgefallen, dass sie sich nicht sonderlich für 
     <Entry>
       <ID>380</ID>
       <DefaultText>„Wenigstens hast du mit dieser Burg eine Basis, von der aus du weitersuchen kannst. Und außerdem liegen unter der Burg immer noch Geheimnisse verborgen.“ Er grinst eifrig. „Mit dir als Anführer sollte die Erkundung der Endlosen Pfade leichter werden&#160;…“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenigstens hast du mit dieser Burg eine Basis, von der aus du weitersuchen kannst. Und außerdem liegen unter der Burg immer noch Geheimnisse verborgen.“ Er grinst eifrig. „Mit dir als Anführerin sollte die Erkundung der Endlosen Pfade leichter werden&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>381</ID>

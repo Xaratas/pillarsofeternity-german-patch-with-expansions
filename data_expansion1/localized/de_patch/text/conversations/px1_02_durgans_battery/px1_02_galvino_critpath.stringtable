@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Alles, um einmal eine kurze Pause von deinem endlosen Gerede zu haben.“ Die Stimme hallt aus dem Inneren der Golemfrau wider.</DefaultText>
+      <DefaultText>„Alles, um einmal eine kurze Pause von deinem endlosen Gejammer zu haben.“ Die Stimme hallt aus dem Inneren der Golemfrau wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -592,7 +592,7 @@ Er schlägt mit überraschender Kraft auf seine Werkbank.</DefaultText>
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>„Wo finde ich die Sachen?“</DefaultText>
+      <DefaultText>„Wo finde ich die Gruppe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

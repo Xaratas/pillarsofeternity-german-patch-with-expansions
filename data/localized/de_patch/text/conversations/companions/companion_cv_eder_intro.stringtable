@@ -90,7 +90,9 @@ Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. „Glaube nicht, d
       <DefaultText>Seine Augen schießen in mehrere Richtungen. Er lehnt sich näher zu dir herüber. „Vorsichtig, Freund. Dieses Wort solltest du hier besser nicht benutzen, denn hier wimmelt es förmlich von Raedrics Stiefelleckern.“
 
 „Medien, Beseeler, Wächter&#160;… für die Leute hier ist das alles dasselbe, vor allem für Raedric. Sie kommen ständig mit ihren ‚Heilmitteln‘ in diese Gegend und haben es auf die Verzweifelten abgesehen. Keiner von ihnen ist wirklich der, der er vorgibt zu sein.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Seine Augen schießen in mehrere Richtungen. Er lehnt sich näher zu dir herüber. „Vorsichtig, Freundin. Dieses Wort solltest du hier besser nicht benutzen, denn hier wimmelt es förmlich von Raedrics Stiefelleckern.“
+
+„Medien, Beseeler, Wächter&#160;… für die Leute hier ist das alles dasselbe, vor allem für Raedric. Sie kommen ständig mit ihren ‚Heilmitteln‘ in diese Gegend und haben es auf die Verzweifelten abgesehen. Keiner von ihnen ist wirklich der, der er vorgibt zu sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -236,7 +238,7 @@ Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. „Glaube nicht, d
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Habe mich eingemischt.“</DefaultText>
+      <DefaultText>„Hat sich eingemischt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +260,7 @@ Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. „Glaube nicht, d
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Er zuckt mit den Achseln. „Hat sich den falschen Gott ausgesucht. Darauf läuft es doch hinaus.“
+      <DefaultText>Er zuckt mit den Achseln. „Hab mir den falschen Gott ausgesucht. Darauf läuft es doch hinaus.“
 
 „In Goldtal gab es mal viele Anhänger Eothas'. Dieser Haufen Felsbrocken da drüben war früher mal ein Eothas-Tempel, nur damit du dir eine Vorstellung machen kannst.“</DefaultText>
       <FemaleText />
@@ -359,7 +361,7 @@ Er wirft einen kurzen Blick auf den Baum. „Solange DU nicht die Sehenswürdigk
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Ich suche nach irgendjemandem, mit dem zusammen ich mich besser fühlen kann.“</DefaultText>
+      <DefaultText>„Ich suche nach irgendjemandem, der mir helfen kann, mich besser zu fühlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -398,7 +400,7 @@ Er richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sic
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Ich suche nach jemandem, mit dem zusammen ich mich besser fühlen kann.“</DefaultText>
+      <DefaultText>„Ich suche nach jemandem, der mir helfen kann, mich besser zu fühlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -53,8 +53,8 @@ Die Wache mustert dich erneut. Dieses Mal sieht sie besorgt aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Tut mir leid. Der Kommandant wird sich sicher gut um Caed Nua kümmern.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Tut mir leid, Fürst. Der Kommandant wird sich sicher gut um Caed Nua kümmern.“</DefaultText>
+      <FemaleText>„Tut mir leid, Fürstin. Der Kommandant wird sich sicher gut um Caed Nua kümmern.“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -161,7 +161,7 @@ Die Wache grinst, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosit�
       <ID>38</ID>
       <DefaultText>„Moment&#160;… von dir reden zurzeit alle? Für manche von den Männern bist du ein Vorbild. Keine Gnade, eiskalt&#160;…“
 
-Die Wache lacht, in ihrem spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
+Die Wache lacht, in ihrem Gesicht spiegelt sich jedoch ein Anflug von Nervosität wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

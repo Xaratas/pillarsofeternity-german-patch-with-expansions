@@ -42,7 +42,7 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>„Nur fünfzig Pand für den Helden, der den Pöbel aus dem Geschenk gekehrt hat.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nur fünfzig Pand für die Heldin, die den Pöbel aus dem Geschenk gekehrt hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -76,8 +76,8 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Ich hatte noch nie so viel Spaß mit einem Kunden, seit&#160;… na ja, eigentlich noch nie.“ Sie seufzt. „Nur endlich mehr vom Dyrwald zu sehen, würde mir noch besser gefallen. Ich bin nicht mehr aus Trutzbucht rausgekommen, seit ich ein kleines Mädchen war.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„So viel Spaß mit einem Kunden hatte ich&#160;… na ja, eigentlich noch nie.“ Sie seufzt. „Nur endlich mehr vom Dyrwald zu sehen, würde mir noch besser gefallen. Ich bin nicht mehr aus Trutzbucht rausgekommen, seit ich ein kleines Mädchen war.“</DefaultText>
+      <FemaleText>„So viel Spaß mit einer Kundin hatte ich&#160;… na ja, eigentlich noch nie.“ Sie seufzt. „Nur endlich mehr vom Dyrwald zu sehen, würde mir noch besser gefallen. Ich bin nicht mehr aus Trutzbucht rausgekommen, seit ich ein kleines Mädchen war.“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>

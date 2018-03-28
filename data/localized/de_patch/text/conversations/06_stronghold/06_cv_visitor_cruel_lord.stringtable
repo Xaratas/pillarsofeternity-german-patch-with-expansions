@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest der Bittstellerin, vorzutreten.</DefaultText>
+      <DefaultText>Du rufst deine Verbündeten zusammen und bedeutest dem Bittsteller, vorzutreten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@ Brynwigar tritt einige Schritte beiseite, außer Hörweite.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Mein Burgvogt hat mich wissen lassen, dass Sie einen üblen Ruf haben. Dass sie grausam und gnadenlos sind.“</DefaultText>
+      <DefaultText>„Meine Burgvogtin hat mich wissen lassen, dass Sie einen üblen Ruf haben. Dass sie grausam und gnadenlos sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,10 +305,10 @@ Er verneigt sich und schreitet aus dem Saal.</FemaleText>
       <ID>58</ID>
       <DefaultText>„Ich würde zur Vorsicht raten, mein Fürst. Fürst Brynwigar hat den Ruf, ein Mann von brutalem Gemüt zu sein. Manche würden ihn grausam nennen.“
 
-Du hörst die sanfte Stimme des Burgvogts in deinem Kopf.</DefaultText>
-      <FemaleText>„Ich würde zur Vorsicht raten, meine Fürstin. Fürstin Brynwigar hat den Ruf, ein Mann von brutalem Gemüt zu sein. Manche würden ihn grausam nennen.“
+Du hörst die sanfte Stimme der Burgvogtin in deinem Kopf.</DefaultText>
+      <FemaleText>„Ich würde zur Vorsicht raten, meine Fürstin. Fürst Brynwigar hat den Ruf, ein Mann von brutalem Gemüt zu sein. Manche würden ihn grausam nennen.“
 
-Du hörst die sanfte Stimme des Burgvogts in deinem Kopf.</FemaleText>
+Du hörst die sanfte Stimme der Burgvogtin in deinem Kopf.</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

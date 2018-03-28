@@ -192,7 +192,7 @@
     <Entry>
       <ID>41</ID>
       <DefaultText>Tuatanu nickt ernst. „Vielleicht. Das hoffe ich auch inständig. Die armen Kerle.“ Er seufzt. „Ich werde eh noch mehr Helfer einstellen müssen. Du möchtest dich nicht zufällig in Goldtal niederlassen und es mit Auslieferungen probieren?“ Er zwinkert dir zu. „Vielen Dank für deine Unterstützung, Freund. Gib mir ein bisschen Zeit am Schmiedefeuer, dann kannst du dir eine Waffe aus der nächsten Produktion aussuchen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Tuatanu nickt ernst. „Vielleicht. Das hoffe ich auch inständig. Die armen Kerle.“ Er seufzt. „Ich werde eh noch mehr Helfer einstellen müssen. Du möchtest dich nicht zufällig in Goldtal niederlassen und es mit Auslieferungen probieren?“ Er zwinkert dir zu. „Vielen Dank für deine Unterstützung, Freundin. Gib mir ein bisschen Zeit am Schmiedefeuer, dann kannst du dir eine Waffe aus der nächsten Produktion aussuchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -202,7 +202,7 @@
     <Entry>
       <ID>43</ID>
       <DefaultText>„Vielen Dank für deine Unterstützung, Freund. Gib mir ein bisschen Zeit am Schmiedefeuer, dann kannst du dir eine Waffe aus der nächsten Produktion aussuchen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vielen Dank für deine Unterstützung, Freundin. Gib mir ein bisschen Zeit am Schmiedefeuer, dann kannst du dir eine Waffe aus der nächsten Produktion aussuchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
