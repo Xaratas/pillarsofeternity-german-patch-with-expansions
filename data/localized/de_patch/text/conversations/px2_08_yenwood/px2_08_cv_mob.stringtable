@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Wir wollen Gerechtigkeit! Sie haben uns terrorisiert, und das lassen wir uns nicht länger gefallen.“</DefaultText>
+      <DefaultText>„Wir wollen Gerechtigkeit! Ihr habt uns terrorisiert, und das lassen wir uns nicht länger gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Wir brauchen keine Hilfe, wir wollen einfach nur, dass Sie uns in Frieden lassen! Wir wollen Gerechtigkeit!“</DefaultText>
+      <DefaultText>„Wir brauchen keine Hilfe, wir wollen einfach nur, dass Ihr uns in Frieden lasst! Wir wollen Gerechtigkeit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Sie haben Ihre Männer zu meinem Hof geschickt, um eine ‚Erntesteuer‘ einzutreiben, weil wir angeblich im Rückstand waren.“</DefaultText>
+      <DefaultText>„Ihr habt eure Männer zu meinem Hof geschickt, um eine ‚Erntesteuer‘ einzutreiben, weil wir angeblich im Rückstand waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Sie sagten, sie würden auf Befehl des Fürsten von Caed Nua handeln. Das sind Sie!“</DefaultText>
-      <FemaleText>„Sie sagten, sie würden auf Befehl der Fürstin von Caed Nua handeln. Das sind Sie!“</FemaleText>
+      <DefaultText>„Sie sagten, sie würden auf Befehl des Fürsten von Caed Nua handeln. Das seid Ihr!“</DefaultText>
+      <FemaleText>„Sie sagten, sie würden auf Befehl der Fürstin von Caed Nua handeln. Das seid Ihr!“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Wer waren Sie dann? Es waren keine einfachen Banditen.“</DefaultText>
+      <DefaultText>„Wer waren sie dann? Es waren keine einfachen Banditen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Das wissen wir zu schätzen, aber&#160;… können Sie uns irgendeine Entschädigung bieten? Nur ein wenig, um über die Runden zu kommen, natürlich.“ Er räuspert sich und blickt dich erwartungsvoll an.</DefaultText>
+      <DefaultText>„Das wissen wir zu schätzen, aber&#160;… könnt Ihr uns irgendeine Entschädigung bieten? Nur ein wenig, um über die Runden zu kommen, natürlich.“ Er räuspert sich und blickt dich erwartungsvoll an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
