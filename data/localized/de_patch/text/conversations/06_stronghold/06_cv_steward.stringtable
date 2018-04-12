@@ -454,8 +454,8 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Du fühlst dieselbe wärmende Strömung, eine Art Energie in der Luft. „Dann gehört Sie Ihnen, mein Fürst! Ich kann Ihnen gar nicht sagen, wie froh ich, äh&#160;… wie gut es ist, die Burg wieder in fähigen Händen zu wissen.“</DefaultText>
-      <FemaleText>Du fühlst dieselbe wärmende Strömung, eine Art Energie in der Luft. „Dann gehört Sie Ihnen, meine Fürstin! Ich kann Ihnen gar nicht sagen, wie froh ich, äh&#160;… wie gut es ist, die Burg wieder in fähigen Händen zu wissen.“</FemaleText>
+      <DefaultText>Du fühlst dieselbe wärmende Strömung, eine Art Energie in der Luft. „Dann gehört sie Euch, mein Fürst! Ich kann Euch gar nicht sagen, wie froh ich, äh&#160;… wie gut es ist, die Burg wieder in fähigen Händen zu wissen.“</DefaultText>
+      <FemaleText>Du fühlst dieselbe wärmende Strömung, eine Art Energie in der Luft. „Dann gehört sie Euch, meine Fürstin! Ich kann Euch gar nicht sagen, wie froh ich, äh&#160;… wie gut es ist, die Burg wieder in fähigen Händen zu wissen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>108</ID>
