@@ -426,8 +426,8 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Er scheint mir tatsächlich nicht die Art von Mann zu sein, der ‚nein‘ als Antwort akzeptiert. Ich hoffe, Sie werden sich vorsehen, mein Fürst. Ich weiß nicht, warum Ihnen dieser Mann schaden will, aber er scheint mir ziemlich entschlossen zu sein.“</DefaultText>
-      <FemaleText>„Er scheint mir tatsächlich nicht die Art von Mann zu sein, der ‚nein‘ als Antwort akzeptiert. Ich hoffe, Sie werden sich vorsehen, meine Fürstin. Ich weiß nicht, warum Ihnen dieser Mann schaden will, aber er scheint mir ziemlich entschlossen zu sein.“</FemaleText>
+      <DefaultText>„Er scheint mir tatsächlich nicht die Art von Mann zu sein, der ‚nein‘ als Antwort akzeptiert. Ich hoffe, Ihr werdet Euch vorsehen, mein Fürst. Ich weiß nicht, warum Euch dieser Mann schaden will, aber er scheint mir ziemlich entschlossen zu sein.“</DefaultText>
+      <FemaleText>„Er scheint mir tatsächlich nicht die Art von Mann zu sein, der ‚nein‘ als Antwort akzeptiert. Ich hoffe, Ihr werdet Euch vorsehen, meine Fürstin. Ich weiß nicht, warum Euch dieser Mann schaden will, aber er scheint mir ziemlich entschlossen zu sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
