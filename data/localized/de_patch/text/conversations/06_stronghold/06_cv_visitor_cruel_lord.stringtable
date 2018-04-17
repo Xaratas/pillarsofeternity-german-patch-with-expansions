@@ -116,8 +116,8 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürst [Player Name]! Ich wusste, ich kann mich auf Ihre Vernunft verlassen.“</DefaultText>
-      <FemaleText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürstin [Player Name]! Ich wusste, ich kann mich auf Ihre Vernunft verlassen.“</FemaleText>
+      <DefaultText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Euch, Fürst [Player Name]! Ich wusste, ich kann mich auf Eure Vernunft verlassen.“</DefaultText>
+      <FemaleText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Euch, Fürstin [Player Name]! Ich wusste, ich kann mich auf Eure Vernunft verlassen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
