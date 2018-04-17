@@ -168,8 +168,8 @@ Marschall Forwyn nähert sich. „Sie kommen gerade rechtzeitig. Fürst Gathbins
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>„Wie lautet Ihr Plan, Fürst [Player Name]?“</DefaultText>
-      <FemaleText>„Wie lautet Ihr Plan, Fürstin [Player Name]?“</FemaleText>
+      <DefaultText>„Wie lautet Euer Plan, Fürst [Player Name]?“</DefaultText>
+      <FemaleText>„Wie lautet Euer Plan, Fürstin [Player Name]?“</FemaleText>
     </Entry>
     <Entry>
       <ID>153</ID>
