@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Ich habe viel von Ihnen gehört, Fürst [Player Name]. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen.“</DefaultText>
-      <FemaleText>„Ich habe viel von Ihnen gehört, Fürstin [Player Name]. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen.“</FemaleText>
+      <DefaultText>„Ich habe viel von Euch gehört, Fürst [Player Name]. Ihr wisst offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Euch besprechen.“</DefaultText>
+      <FemaleText>„Ich habe viel von Euch gehört, Fürstin [Player Name]. Ihr wisst offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Euch besprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
