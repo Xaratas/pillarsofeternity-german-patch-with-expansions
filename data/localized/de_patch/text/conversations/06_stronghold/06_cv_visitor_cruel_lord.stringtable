@@ -288,8 +288,8 @@ Er verneigt sich und schreitet aus dem Saal.</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst [Player Name].“</DefaultText>
-      <FemaleText>„Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin [Player Name].“</FemaleText>
+      <DefaultText>„Umso mehr Grund, Euren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst [Player Name].“</DefaultText>
+      <FemaleText>„Umso mehr Grund, Euren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin [Player Name].“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
