@@ -136,7 +136,7 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Ja. Ich habe vor, Sie zu töten. Ich gebe Ihnen zwei Stunden Vorsprung.“</DefaultText>
+      <DefaultText>„Ja. Ich habe vor, Euch zu töten. Ich gebe Euch zwei Stunden Vorsprung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Dabei kann ich Ihnen im Moment nicht helfen.“</DefaultText>
+      <DefaultText>„Dabei kann ich Euch im Moment nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
