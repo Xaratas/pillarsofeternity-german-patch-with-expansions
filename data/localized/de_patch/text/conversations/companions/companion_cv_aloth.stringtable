@@ -47,7 +47,7 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der zweite Mann stößt sein Kinn in Richtung des Elfs. Er stinkt nach saurem Ale. „Na mach schon, sag es nochmal. Ich kann deine Entschuldigung kaum noch erwarten.“</DefaultText>
+      <DefaultText>Der zweite Mann stößt sein Kinn in Richtung des Elfen. Er stinkt nach saurem Ale. „Na mach schon, sag es nochmal. Ich kann deine Entschuldigung kaum noch erwarten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Entsetzen und Angst machen sich schnell auf dem Gesicht des Elfs breit. „Das ist ein Missverständnis. Ich sagte gar nicht&#160;…“ Er legt die Stirn in Falten und schluckt. „…&#160;was ihr da gehört haben wollt.“
+      <DefaultText>Entsetzen und Angst machen sich schnell auf dem Gesicht des Elfen breit. „Das ist ein Missverständnis. Ich sagte gar nicht&#160;…“ Er legt die Stirn in Falten und schluckt. „…&#160;was ihr da gehört haben wollt.“
 
 Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes auf. „Wir haben keinen Grund zum Streiten.“</DefaultText>
       <FemaleText />
@@ -398,7 +398,7 @@ Er blickt dich vorsichtig optimistisch an. „Vielleicht könnte ich mich dir an
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Das Gesicht des Elfs stellt zwar eine vorsichtige Maske der Neutralität dar, aber in seinen Augen lodert die Hoffnung. „Wir sehen uns wieder. Was führt dich zurück nach Goldtal?“</DefaultText>
+      <DefaultText>Das Gesicht des Elfen stellt zwar eine vorsichtige Maske der Neutralität dar, aber in seinen Augen lodert die Hoffnung. „Wir sehen uns wieder. Was führt dich zurück nach Goldtal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
