@@ -268,8 +268,8 @@ Er verneigt sich und schreitet aus dem Saal.</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürst [Player Name]. Ich&#160;…überdenke Ihre Worte auf der Heimreise.“</DefaultText>
-      <FemaleText>„Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürstin [Player Name]. Ich&#160;… überdenke Ihre Worte auf der Heimreise.“</FemaleText>
+      <DefaultText>„Ich gestehe, dass in Euren Worten etwas Wahrheit liegt. Danke für Eure Zeit, Fürst [Player Name]. Ich&#160;…überdenke Eure Worte auf der Heimreise.“</DefaultText>
+      <FemaleText>„Ich gestehe, dass in Euren Worten etwas Wahrheit liegt. Danke für Eure Zeit, Fürstin [Player Name]. Ich&#160;… überdenke Eure Worte auf der Heimreise.“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
