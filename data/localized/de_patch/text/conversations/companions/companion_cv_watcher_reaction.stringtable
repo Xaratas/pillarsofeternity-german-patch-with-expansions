@@ -38,7 +38,7 @@ Sie lässt dich los, geht einen Schritt zurück und betrachtet dich sorgenvoll. 
     <Entry>
       <ID>10</ID>
       <DefaultText>„Ich bin ein Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich bin eine Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
