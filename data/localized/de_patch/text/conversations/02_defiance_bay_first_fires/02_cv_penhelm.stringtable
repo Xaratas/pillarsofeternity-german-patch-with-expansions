@@ -251,7 +251,7 @@ Er blinzelt dich an. „Das ist natürlich eine Lüge.“</DefaultText>
       <ID>119</ID>
       <DefaultText>„Welche Wahrheit? Dass ich vor über einem Jahrhundert irgendein Aedyrer war, der jetzt Staub und Asche ist?“
 
-Seine Hand greift nach dem Schwertknauf. „Ich sage es dir nur noch einmal. Gib das zurück.“</DefaultText>
+Seine Hand greift nach dem Schwertknauf. „Ich sage es dir nur noch einmal. Gib sie zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Seine Hand greift nach dem Schwertknauf. „Ich sage es dir nur noch einmal. Gib
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[Gib Penhelm die eidesstattliche Versicherung.] „Du hast Recht. Nimm es.“</DefaultText>
+      <DefaultText>[Gib Penhelm die eidesstattliche Versicherung.] „Du hast Recht. Nimm sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
