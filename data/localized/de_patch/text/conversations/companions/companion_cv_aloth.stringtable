@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Du siehst vier Personen, die sich bei der Tür zur Schänke versammelt haben. Ihre erregten Stimmen und hackenden Gesten lassen darauf schließen, dass ein Streit kurz vor seinem Höhepunkt steht.
 
-Die erste Gestalt erhebt ihre Hände, um die Situation zu beruhigen. Sein Gesicht wird teilweise von einer Kapuze verborgen, aber Größe und Körperbau lassen auf einen Elf schließen.</DefaultText>
+Die erste Gestalt erhebt ihre Hände, um die Situation zu beruhigen. Sein Gesicht wird teilweise von einer Kapuze verborgen, aber Größe und Körperbau lassen auf einen Elfen schließen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,14 +40,14 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Einer der anderen Männer deutet auf den Elf mit der Kapuze. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Verspottet uns sogar noch, während er in unserem Dorf wohnt. Soviel zum Thema, was diese feinen aedyrischen Manieren wirklich wert sind.“
+      <DefaultText>Einer der anderen Männer deutet auf den Elfen mit der Kapuze. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Verspottet uns sogar noch, während er in unserem Dorf wohnt. Soviel zum Thema, was diese feinen aedyrischen Manieren wirklich wert sind.“
 
 „So eine Behandlung lassen wir uns nicht gefallen. Nicht von Fremden, und von Aedyrern erst recht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der zweite Mann stößt sein Kinn in Richtung des Elfs. Er stinkt nach saurem Ale. „Na mach schon, sag es nochmal. Ich kann deine Entschuldigung kaum noch erwarten.“</DefaultText>
+      <DefaultText>Der zweite Mann stößt sein Kinn in Richtung des Elfen. Er stinkt nach saurem Ale. „Na mach schon, sag es nochmal. Ich kann deine Entschuldigung kaum noch erwarten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,12 +57,12 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Fremden lassen wir uns nicht schlecht behandeln. Von Aedyrern erst recht nicht.“</DefaultText>
+      <DefaultText>Einer der anderen Männer starrt den Elfen mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Fremden lassen wir uns nicht schlecht behandeln. Von Aedyrern erst recht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Fremden nicht anreden, und von Aedyrern erst recht nicht.“</DefaultText>
+      <DefaultText>Einer der anderen Männer starrt den Elfen mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Fremden nicht anreden, und von Aedyrern erst recht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Entsetzen und Angst machen sich schnell auf dem Gesicht des Elfs breit. „Das ist ein Missverständnis. Ich sagte gar nicht&#160;…“ Er legt die Stirn in Falten und schluckt. „…&#160;was ihr da gehört haben wollt.“
+      <DefaultText>Entsetzen und Angst machen sich schnell auf dem Gesicht des Elfen breit. „Das ist ein Missverständnis. Ich sagte gar nicht&#160;…“ Er legt die Stirn in Falten und schluckt. „…&#160;was ihr da gehört haben wollt.“
 
 Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes auf. „Wir haben keinen Grund zum Streiten.“</DefaultText>
       <FemaleText />
@@ -174,7 +174,7 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Sie schauen einander an. Einer der Männer warnt die anderen beiden mit einem Kopfschütteln, bevor er sich dir zuwendet. „Also gut, wir sind fertig hier. Aber der da sollte hier besser auf sich aufpassen, denn wir werden nirgendwo hingehen.“ Mit einem abschließenden bösen Blick auf den Elf dreht er sich zum Gehen um.</DefaultText>
+      <DefaultText>Sie schauen einander an. Einer der Männer warnt die anderen beiden mit einem Kopfschütteln, bevor er sich dir zuwendet. „Also gut, wir sind fertig hier. Aber der da sollte hier besser auf sich aufpassen, denn wir werden nirgendwo hingehen.“ Mit einem abschließenden bösen Blick auf den Elfen dreht er sich zum Gehen um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -398,7 +398,7 @@ Er blickt dich vorsichtig optimistisch an. „Vielleicht könnte ich mich dir an
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Das Gesicht des Elfs stellt zwar eine vorsichtige Maske der Neutralität dar, aber in seinen Augen lodert die Hoffnung. „Wir sehen uns wieder. Was führt dich zurück nach Goldtal?“</DefaultText>
+      <DefaultText>Das Gesicht des Elfen stellt zwar eine vorsichtige Maske der Neutralität dar, aber in seinen Augen lodert die Hoffnung. „Wir sehen uns wieder. Was führt dich zurück nach Goldtal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

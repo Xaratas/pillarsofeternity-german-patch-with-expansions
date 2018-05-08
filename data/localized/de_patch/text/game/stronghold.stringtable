@@ -827,7 +827,7 @@ Nun glauben viele Händler, dass Bonisetta irgendwo gefangen gehalten wird und v
       <ID>146</ID>
       <DefaultText>{0} stieß bei Nachforschungen über Bonisettas Verbleib auf überraschenden Widerstand. Wer sie auch entführt hatte, er wollte ihren Aufenthaltsort um jeden Preis geheim halten.
 
-Auf Geheiß der Gräfin von Spirento versuchten vailianische Kryptographen, die Fragmente von Bonisettas gewebten Botschaften zu entschlüsseln. Ihre Erkenntnisse leiteten sie an {0} weiter. Nach mehreren brutalen Kämpfen gegen gut ausgebildete Söldner erreichte {0} schließlich Bonisettas Gefängnis, ein Webhaus bei Girrara. Das vailianische Textilunternehmen, das sie entführt hatte, wurde sofort aus allen vailianischen Republiken verbannt, ob klein oder groß.
+Auf Geheiß der Gräfin von Spirento versuchten vailianische Kryptografen, die Fragmente von Bonisettas gewebten Botschaften zu entschlüsseln. Ihre Erkenntnisse leiteten sie an {0} weiter. Nach mehreren brutalen Kämpfen gegen gut ausgebildete Söldner erreichte {0} schließlich Bonisettas Gefängnis, ein Webhaus bei Girrara. Das vailianische Textilunternehmen, das sie entführt hatte, wurde sofort aus allen vailianischen Republiken verbannt, ob klein oder groß.
 
 Als Dank für ihre Rettung webte Bonisetta einen verzauberten Umhang, den {0} bei der Reise zurück nach Caed Nua tragen sollte.</DefaultText>
       <FemaleText />
@@ -864,7 +864,7 @@ Als er aufgespürt wurde, widersetzte der Zwerg sich nicht, sondern ließ sich w
 
 Bei einem dreisten Einbruch wurden kürzlich die unzähligen wertvollen Relikte aus der Halle der Schmiede in Ymyrgal geraubt. Dort, wo vorher die Schätze standen, wurden Schnüre platziert, die alle zu einem komplizierten Knoten in der Mitte des Tempels führen. Der Einbrecher hinterließ einen Hinweis in Form eines geschriebenen Gebets an St. Ifen, aber niemand kann das Rätsel lösen.
 
-In ihrer Verzweiflung haben die Priester sich hilfesuchend an Söldner und Abenteurer gewandt.</DefaultText>
+In ihrer Verzweiflung haben die Priester sich Hilfe suchend an Söldner und Abenteurer gewandt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1190,7 +1190,7 @@ Manche fürchten, sie sei für ihre Prahlerei getötet worden. Andere fürchten,
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Eine Beseelerin durch den massiven Fels von Eora zu verfolgen erwies sich als schwierige Aufgabe für {0}. Durch Gespräche mit verschiedenen vailianischen Kartographen und Entdeckern konnte {0} ein gewaltiges Höhlennetzwerk in den Bergen nördlich von Gualfi durchqueren, das entlang mehrerer langer Adraadern verlief.
+      <DefaultText>Eine Beseelerin durch den massiven Fels von Eora zu verfolgen erwies sich als schwierige Aufgabe für {0}. Durch Gespräche mit verschiedenen vailianischen Kartografen und Entdeckern konnte {0} ein gewaltiges Höhlennetzwerk in den Bergen nördlich von Gualfi durchqueren, das entlang mehrerer langer Adraadern verlief.
 
 Die Hilfe von fünf angesehenen Beseelern war nötig, um Accetta zu kontaktieren. Sie antwortete durch aufblitzende Bilder, die sie durch das Adra schickte. Unglücklicherweise lockte das Pulsieren im Adra eine besonders feindselige Gemeinde Vithracks an. {0} und die Beseeler waren gezwungen, sich vorübergehend in einen anderen Teil des Höhlennetzwerks zurückzuziehen.
 

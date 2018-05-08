@@ -65,7 +65,7 @@ Er öffnet den Mund, um einem seiner Männer etwas zu sagen, folgt jedoch dem Bl
       <ID>12</ID>
       <DefaultText>Eine Sekunde lang scheint es, als würde er nichts sagen. Er gibt seine Entschlossenheit jedoch mit einem Seufzen auf.
 
-„Burg&#160;Flottenbrecher. Der Hochrichter hat fast die Hälfte meiner Novizen und noch mehr meiner Justiziare zu einer Burg auf der anderen Seite von Neu-Heomar bestellt.“ In seinen Augen flackert Frust auf. „Es ist nicht meine Aufgabe, die Befehle des Hohen&#160;Gerichts in Frage zu stellen. Doch aus diesem Grund mangelt es uns an Personal. Und wir sind nur ein paar Funken entfernt von der Anarchie.“</DefaultText>
+„Burg&#160;Flottenbrecher. Der Hochrichter hat fast die Hälfte meiner Novizen und noch mehr meiner Justiziare zu einer Burg auf der anderen Seite von Neu-Heomar bestellt.“ In seinen Augen flackert Frust auf. „Es ist nicht meine Aufgabe, die Befehle des Hohen&#160;Gerichts infrage zu stellen. Doch aus diesem Grund mangelt es uns an Personal. Und wir sind nur ein paar Funken entfernt von der Anarchie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +219,7 @@ Er kommt einen Schritt auf dich zu, während seine Offiziere das Ganze weiterhin
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Kann ich irgendwie helfen? Ich weiß mit mir umzugehen.“</DefaultText>
+      <DefaultText>„Kann ich irgendwie helfen? Ich kann auf mich aufpassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

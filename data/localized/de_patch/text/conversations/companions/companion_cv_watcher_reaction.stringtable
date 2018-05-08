@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Sagani schließt zu dir auf. „Bist du in Ordnung? Es wirkte fast so, als hättest du eine Minute lang den Halt verloren.“</DefaultText>
+      <DefaultText>Sagani schließt zu dir auf. „Bist du in Ordnung? Es wirkte fast so, als wärst du eine Minute lang weggetreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@ Sie lässt dich los, geht einen Schritt zurück und betrachtet dich sorgenvoll. 
     <Entry>
       <ID>10</ID>
       <DefaultText>„Ich bin ein Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich bin eine Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -207,7 +207,7 @@ Sie neigt ihren Kopf zur Seite. „Ich glaubte, meine Reise würde mir leichter 
       <ID>46</ID>
       <DefaultText>„Glaub es oder nicht, aber früher hätte ich frohlockt, hätte ich gewusst, dass man mich für eine Reise auswählen würde, um in fernen Landen nach etwas Großartigem zu suchen. Aber selbst diese Gaben haben ihren Preis, nicht wahr?“
 
-„Vergib mir, wenn ich deinen Fähigkeiten gegenüber zuvor etwas&#160;… skeptisch war. Eigentlich habe ich noch nie einen richtigen Wächter gefunden.“</DefaultText>
+„Vergib mir, wenn ich deinen Fähigkeiten gegenüber zuvor etwas&#160;… skeptisch war. Eigentlich bin ich noch nie einem richtigen Wächter begegnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,7 +232,7 @@ Sie neigt ihren Kopf zur Seite. „Ich glaubte, meine Reise würde mir leichter 
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Du schienst dich in einer Art von Trance zu befinden. Du wurdest still, als ob dich der Blitz getroffen hätte, und du begannst, ins Leere zu sprechen&#160;… Ist das ein Leiden? Du musst dich nicht dafür schämen.“</DefaultText>
+      <DefaultText>„Du schienst dich in einer Art von Trance zu befinden. Du wurdest ganz starr, als ob dich der Blitz getroffen hätte, und du begannst, ins Leere zu sprechen&#160;… Ist das ein Leiden? Du musst dich nicht dafür schämen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,7 +307,7 @@ Sie neigt ihren Kopf zur Seite. „Ich glaubte, meine Reise würde mir leichter 
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Fühlt sich so an, wenn ich in den Äther blicke.“</DefaultText>
+      <DefaultText>„So scheint es, wenn ich in den Äther blicke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

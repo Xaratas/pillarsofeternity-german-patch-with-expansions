@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Ein Geist schwebt mitten in der Ruine und sagt Segen und Gebete auf. Selbst als die Geisterform sich verzieht und verdreht, bleibt das Gesicht eines älteren Mannes sowie Roben, die von Reichtum und Status zeugen, erhalten. Er wendet sich dir zu.
+      <DefaultText>Ein Geist schwebt mitten in der Ruine und sagt Segen und Gebete auf. Selbst als die Geisterform sich ändert und verwirbelt, bleibt das Gesicht eines älteren Mannes sowie Roben, die von Reichtum und Status zeugen, erhalten. Er wendet sich dir zu.
 
 „Bist du gekommen, um der Königin, die gewesen war, deinen Respekt zu zollen?“</DefaultText>
       <FemaleText />
@@ -94,7 +94,7 @@ Sein Ausdruck verschwindet in Verwirrung. „Ich würde nichts lieber tun als di
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Der Ausdruck des Geistes wühlt sich auf. „Natürlich akzeptieren das nicht alle. Selbst unter den anderen Göttern wird ihre Autorität in Frage gestellt. Woedica ist aber auch die Göttin der Erinnerung und Vergeltung, und sie vergisst nicht.“
+      <DefaultText>Der Ausdruck des Geistes wühlt sich auf. „Natürlich akzeptieren das nicht alle. Selbst unter den anderen Göttern wird ihre Autorität infrage gestellt. Woedica ist aber auch die Göttin der Erinnerung und Vergeltung, und sie vergisst nicht.“
 
 Der Geist nickt langsam. „Wenn sie ihren Thron wieder einfordert, wird sie sich an jede Kränkung und Übertretung erinnern.“</DefaultText>
       <FemaleText />

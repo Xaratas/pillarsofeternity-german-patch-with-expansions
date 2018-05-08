@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Ich habe viel von Ihnen gehört, Fürst [Player Name]. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen.“</DefaultText>
-      <FemaleText>„Ich habe viel von Ihnen gehört, Fürstin [Player Name]. Sie wissen offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Ihnen besprechen.“</FemaleText>
+      <DefaultText>„Ich habe viel von Euch gehört, Fürst [Player Name]. Ihr wisst offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Euch besprechen.“</DefaultText>
+      <FemaleText>„Ich habe viel von Euch gehört, Fürstin [Player Name]. Ihr wisst offenbar, wie man Ergebnisse erreicht. Ich würde gerne eine Angelegenheit mit Euch besprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Als Herrscher über Caed Nua haben Sie gewiss schon mit vielen Störenfrieden zu tun gehabt. Neidern, die Sie stürzen wollten, in ihr eigenes Leid hinabziehen.“</DefaultText>
-      <FemaleText>„Als Herrscherin über Caed Nua haben Sie gewiss schon mit vielen Störenfrieden zu tun gehabt. Neidern, die Sie stürzen wollten, in ihr eigenes Leid hinabziehen.“</FemaleText>
+      <DefaultText>„Als Herrscher über Caed Nua habt Ihr gewiss schon mit vielen Störenfrieden zu tun gehabt. Neidern, die Euch stürzen wollten, in ihr eigenes Leid hinabziehen.“</DefaultText>
+      <FemaleText>„Als Herrscherin über Caed Nua habt Ihr gewiss schon mit vielen Störenfrieden zu tun gehabt. Neidern, die Euch stürzen wollten, in ihr eigenes Leid hinabziehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Es könnte etwas&#160;… unschön werden. Ich dachte, es wäre besser, Sie zunächst um Rat zu fragen.“</DefaultText>
+      <DefaultText>„Es könnte etwas&#160;… unschön werden. Ich dachte, es wäre besser, Euch zunächst um Rat zu fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„In Gnade liegt Macht, Fürst Brynwigar. Behandeln Sie die Menschen anständig, dann arbeiten sie gerne für Sie.“</DefaultText>
+      <DefaultText>„In Gnade liegt Macht, Fürst Brynwigar. Behandelt Ihr die Menschen anständig, dann arbeiten sie gerne für Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„In diesen Angelegenheiten muss man einen Mittelweg finden. Gewähren Sie ihnen einige Freiheiten, so lange sie weiter arbeiten.“</DefaultText>
+      <DefaultText>„In diesen Angelegenheiten muss man einen Mittelweg finden. Gewährt ihnen einige Freiheiten, so lange sie weiter arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@ Brynwigar tritt einige Schritte beiseite, außer Hörweite.</DefaultText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Sie werben für Gnade? In ihren eigenen Landen wimmelt es von Räubern und Gesetzlosen. Wenn Sie mit härterer Hand regieren würden, hätten Sie diese Sorgen vielleicht nicht.“</DefaultText>
+      <DefaultText>„Ihr werbt für Gnade? In Euren eigenen Landen wimmelt es von Räubern und Gesetzlosen. Wenn Ihr mit härterer Hand regieren würdet, hätten Ihr diese Sorgen vielleicht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@ Brynwigar tritt einige Schritte beiseite, außer Hörweite.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Meine Burgvogtin hat mich wissen lassen, dass Sie einen üblen Ruf haben. Dass sie grausam und gnadenlos sind.“</DefaultText>
+      <DefaultText>„Meine Burgvogtin hat mich wissen lassen, dass Ihr einen üblen Ruf habt. Dass Ihr grausam und gnadenlos seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,49 +94,49 @@ Brynwigar tritt einige Schritte beiseite, außer Hörweite.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Sie sind ein gehässiger, grausamer Mann mit mehr Macht, als er verdient!“</DefaultText>
+      <DefaultText>„Ihr seid ein gehässiger, grausamer Mann mit mehr Macht, als er verdient!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Sie werden dennoch dafür hängen, Brynwigar. Wachen, ergreift ihn!“</DefaultText>
+      <DefaultText>„Ihr werdet dennoch dafür hängen, Brynwigar. Wachen, ergreift ihn!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[700 KP geben.] „Eine Machtdemonstration wird sie zur Vernunft bringen. Hier. Heuern Sie ein paar Söldner an.“</DefaultText>
+      <DefaultText>[700 KP geben.] „Eine Machtdemonstration wird sie zur Vernunft bringen. Hier. Heuert ein paar Söldner an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Sie wagen es, mich zu beleidigen? Sie, ein Emporkömmling, der über eine alte Ruine herrscht? Das werden Sie bereuen!“
+      <DefaultText>„Ihr wagt es, mich zu beleidigen? Ihr, ein Emporkömmling, der über eine alte Ruine herrscht? Das werdet Ihr bereuen!“
 
 Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürst [Player Name]! Ich wusste, ich kann mich auf Ihre Vernunft verlassen.“</DefaultText>
-      <FemaleText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Ihnen, Fürstin [Player Name]! Ich wusste, ich kann mich auf Ihre Vernunft verlassen.“</FemaleText>
+      <DefaultText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Euch, Fürst [Player Name]! Ich wusste, ich kann mich auf Eure Vernunft verlassen.“</DefaultText>
+      <FemaleText>„Wirklich großzügig! Ich werde das Geld sinnvoll einsetzen. Ich danke Euch, Fürstin [Player Name]! Ich wusste, ich kann mich auf Eure Vernunft verlassen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Haben Sie eine Entscheidung getroffen?“</DefaultText>
+      <DefaultText>„Habt Ihr eine Entscheidung getroffen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Lügen] „Ich heiße Ihre brutalen Taktiken nicht gut. Aber ich werde dieses eine Mal darüber hinwegsehen. Und nun gehen Sie.“</DefaultText>
+      <DefaultText>[Lügen] „Ich heiße Eure brutalen Taktiken nicht gut. Aber ich werde dieses eine Mal darüber hinwegsehen. Und nun geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Lügen] „Sie haben meine volle Unterstützung. Gehen Sie diesen Unruhestiftern Gehorsam einprügeln.“</DefaultText>
+      <DefaultText>[Lügen] „Ihr habt meine volle Unterstützung. Kehrt zurück und prügelt Ihr diesen Unruhestiftern Gehorsam ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Ja. Ich habe vor, Sie zu töten. Ich gebe Ihnen zwei Stunden Vorsprung.“</DefaultText>
+      <DefaultText>„Ja. Ich habe vor, Euch zu töten. Ich gebe Euch zwei Stunden Vorsprung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Dabei kann ich Ihnen im Moment nicht helfen.“</DefaultText>
+      <DefaultText>„Dabei kann ich Euch im Moment nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,22 +181,22 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Es ist allgemein bekannt, dass Sie großes Verhandlungsgeschick besitzen. Meine Stärke war das nie.“ Brynwigar seufzt.</DefaultText>
+      <DefaultText>„Es ist allgemein bekannt, dass Ihr großes Verhandlungsgeschick besitzt. Meine Stärke war das nie.“ Brynwigar seufzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Ohne Untertanen herrscht man nur über Felsen und Bäume. Versuchen Sie, ihnen zumindest ein wenig Respekt zu erweisen.“</DefaultText>
+      <DefaultText>„Ohne Untertanen herrscht man nur über Felsen und Bäume. Versucht wenigstens ein wenig Respekt zu zeigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Wenn Sie meine Festung beleidigen wollen, dürfen Sie gehen.“</DefaultText>
+      <DefaultText>„Wenn Ihr meine Festung beleidigen wollt, dürft Ihr gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Sehen Sie es als Prüfung Ihres Verständnisses. Es wäre ratsamer, mit Ihren Untertanen zu sprechen, als mit Gewalt zu reagieren.“</DefaultText>
+      <DefaultText>„Seht es als Prüfung Eures Verständnisses. Es wäre ratsamer, mit Euren Untertanen zu sprechen, als mit Gewalt zu reagieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@ Rot vor Zorn stürmt Brynwigar aus dem Saal.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Ich muss gestehen, dass ich eher auf&#160;… Ressourcen gehofft hatte denn auf Erlaubnis. Aber ich danke Ihnen für die Unterstützung.“
+      <DefaultText>„Ich muss gestehen, dass ich eher auf&#160;… Ressourcen gehofft hatte denn auf Erlaubnis. Aber ich danke Euch für die Unterstützung.“
 
 Brynwigar verneigt sich, offenbar zufriedengestellt, und schreitet aus dem Saal.</DefaultText>
       <FemaleText />
@@ -228,14 +228,14 @@ Brynwigar verneigt sich, offenbar zufriedengestellt, und schreitet aus dem Saal.
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Was?“ Brynwigar macht einen Schritt zurück. „Sie&#160;… Sie doppelzüngige Ratte! Für diese Beleidigung werden Sie zahlen!“
+      <DefaultText>„Was?“ Brynwigar macht einen Schritt zurück. „Sie&#160;… Sie doppelzüngige Ratte! Für diese Beleidigung werdet Ihr zahlen!“
 
 Er vergeudet keine Zeit mehr mit Worten. Brynwigar macht auf dem Absatz kehrt und flieht aus dem Saal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Nun, das ging schnell. Haben Sie eine Entscheidung gefällt?“</DefaultText>
+      <DefaultText>„Nun, das ging schnell. Habt Ihr eine Entscheidung gefällt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,26 +250,26 @@ Er vergeudet keine Zeit mehr mit Worten. Brynwigar macht auf dem Absatz kehrt un
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Wenn Sie darauf bestehen. Mein Fürst.“
+      <DefaultText>„Wenn Ihr darauf besteht. Mein Fürst.“
 
 Brynwigar verneigt sich steif und macht auf dem Absatz kehrt.</DefaultText>
-      <FemaleText>„Wenn Sie darauf bestehen. Meine Fürstin.“
+      <FemaleText>„Wenn Ihr darauf besteht. Meine Fürstin.“
 
 Brynwigar verneigt sich steif und macht auf dem Absatz kehrt.</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Nun, ich danke Ihnen, dass Sie sich die Zeit genommen haben, mit mir zu sprechen, Fürst. Ich werde nach Hause zurückkehren und die Sache überdenken.“
+      <DefaultText>„Nun, ich danke Euch, dass Ihr Euch die Zeit genommen habt, mit mir zu sprechen, Fürst. Ich werde nach Hause zurückkehren und die Sache überdenken.“
 
 Er verneigt sich und schreitet aus dem Saal.</DefaultText>
-      <FemaleText>„Nun, ich danke Ihnen, dass Sie sich die Zeit genommen haben, mit mir zu sprechen, Fürstin. Ich werde nach Hause zurückkehren und die Sache überdenken.“
+      <FemaleText>„Nun, ich danke Euch, dass Ihr Euch die Zeit genommen habt, mit mir zu sprechen, Fürstin. Ich werde nach Hause zurückkehren und die Sache überdenken.“
 
 Er verneigt sich und schreitet aus dem Saal.</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürst [Player Name]. Ich&#160;…überdenke Ihre Worte auf der Heimreise.“</DefaultText>
-      <FemaleText>„Ich gestehe, dass in Ihren Worten etwas Wahrheit liegt. Danke für Ihre Zeit, Fürstin [Player Name]. Ich&#160;… überdenke Ihre Worte auf der Heimreise.“</FemaleText>
+      <DefaultText>„Ich gestehe, dass in Euren Worten etwas Wahrheit liegt. Danke für Eure Zeit, Fürst [Player Name]. Ich&#160;…überdenke Eure Worte auf der Heimreise.“</DefaultText>
+      <FemaleText>„Ich gestehe, dass in Euren Worten etwas Wahrheit liegt. Danke für Eure Zeit, Fürstin [Player Name]. Ich&#160;… überdenke Eure Worte auf der Heimreise.“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -288,17 +288,17 @@ Er verneigt sich und schreitet aus dem Saal.</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst [Player Name].“</DefaultText>
-      <FemaleText>„Umso mehr Grund, Ihren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin [Player Name].“</FemaleText>
+      <DefaultText>„Umso mehr Grund, Euren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürst [Player Name].“</DefaultText>
+      <FemaleText>„Umso mehr Grund, Euren Rat zu schätzen. Das erscheint mir eine vernünftige Lösung. Danke, Fürstin [Player Name].“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Wenn ich einen Moment Ihrer kostbaren Zeit stehlen dürfte?“</DefaultText>
+      <DefaultText>„Wenn ich einen Moment Eurer kostbaren Zeit stehlen dürfte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Es ist ja nicht so, als würde ich sie nicht bezahlen! Jedenfalls fürchte ich, dass Sie nicht nachlassen werden. Die Lage wird nur noch schlimmer, wenn ich ihnen keinen Einhalt gebiete.“</DefaultText>
+      <DefaultText>„Es ist ja nicht so, als würde ich sie nicht bezahlen! Jedenfalls fürchte ich, dass sie nicht nachlassen werden. Die Lage wird nur noch schlimmer, wenn ich ihnen keinen Einhalt gebiete.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

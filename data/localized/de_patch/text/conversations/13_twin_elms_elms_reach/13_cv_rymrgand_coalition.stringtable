@@ -120,7 +120,7 @@ Der Schnee reicht dir nun bis zu den Knien. Deine Beine fühlen sich in den Schn
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Du schlägst nach dem nächsten Elf, der zu einem Schneehaufen zerfällt. Du greifst eine weitere Elfe an, die ebenso leicht fällt. Während du die Elfen um dich herum niederstreckst, hauen ihre Kameraden unbeirrt weiter auf das Eis ein, immer schneller. Doch ihre Bemühungen scheinen weiter vergebens zu sein.
+      <DefaultText>Du schlägst nach dem nächsten Elfen, der zu einem Schneehaufen zerfällt. Du greifst eine weitere Elfe an, die ebenso leicht fällt. Während du die Elfen um dich herum niederstreckst, hauen ihre Kameraden unbeirrt weiter auf das Eis ein, immer schneller. Doch ihre Bemühungen scheinen weiter vergebens zu sein.
 
 Als die letzten Elfen fallen, verstummt das Gebrüll endlich und der Wind lässt nach.</DefaultText>
       <FemaleText />
@@ -140,7 +140,7 @@ Was auch auf der anderen Seite dieser seltsamen Tür liegt, du spürst, wie es d
 
 Ihre Bewegungen aber werden zunehmend langsamer. Sie plagen sich mit mühseligen, schwerfälligen Bewegungen, bis sie schließlich an Ort und Stelle einfrieren, einige mitten im Hieb, andere beim Heben der Picke.
 
-Du berührst den Elf neben dir und er zerfällt zu einem Schneehaufen.</DefaultText>
+Du berührst den Elfen neben dir und er zerfällt zu einem Schneehaufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,7 +164,7 @@ Du berührst den Elf neben dir und er zerfällt zu einem Schneehaufen.</DefaultT
 
 Ein Mann mit einem verkümmerten, abgefrorenen Finger dreht sich um. Er hebt seine verstümmelte Hand und die anderen hören auch mit der Arbeit auf.
 
-Sie bleiben mehrere Sekunden lang regungslos stehen, ehe du erkennst, dass sie eingefroren sind. Du berührst den Elf neben dir und er zerfällt zu einem Schneehaufen.</DefaultText>
+Sie bleiben mehrere Sekunden lang regungslos stehen, ehe du erkennst, dass sie eingefroren sind. Du berührst den Elfen neben dir und er zerfällt zu einem Schneehaufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

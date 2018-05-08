@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Man hat sich bereits um ihn gekümmert.“</DefaultText>
+      <DefaultText>„Er ist bereits erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Ich gehe mit ihr reden.“</DefaultText>
+      <DefaultText>„Ich werde mit ihr reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

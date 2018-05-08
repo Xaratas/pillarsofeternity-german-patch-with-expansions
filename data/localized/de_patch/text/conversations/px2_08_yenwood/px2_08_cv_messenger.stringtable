@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Ich bringe eine Eilbotschaft von Kanzler Warrin aus Trutzbucht. Er bittet Sie, ihn sobald als möglich im Palast des Ducs aufzusuchen.“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Ich bringe eine Eilbotschaft von Kanzler Warrin aus Trutzbucht. Er bittet Sie, ihn sobald als möglich im Palast des Ducs aufzusuchen.“</FemaleText>
+      <DefaultText>„Seid gegrüßt, mein Fürst. Ich bringe Euch eine Eilbotschaft von Kanzler Warrin aus Trutzbucht. Er bittet Euch, ihn sobald als möglich im Palast des Ducs aufzusuchen.“</DefaultText>
+      <FemaleText>„Seid gegrüßt, meine Fürstin. Ich bringe Euch eine Eilbotschaft von Kanzler Warrin aus Trutzbucht. Er bittet Euch, ihn sobald als möglich im Palast des Ducs aufzusuchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Die Familie Gathbin ist anderer Meinung. Da Ihr Anspruch nicht auf Abstammung beruht, ist ein offizielles Urteil vonnöten, um diesen Disput beizulegen.“</DefaultText>
+      <DefaultText>„Die Familie Gathbin ist anderer Meinung. Da Euer Anspruch nicht auf Abstammung beruht, ist ein offizielles Urteil vonnöten, um diesen Disput beizulegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,13 +36,13 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Der Kanzler erwartet Sie in der Halle der Urkunden im Palast des Ducs in Urfeuer.“ Der Bote verneigt sich und schreitet davon.</DefaultText>
+      <DefaultText>„Der Kanzler erwartet Euch in der Halle der Urkunden im Palast des Ducs in Urfeuer.“ Der Bote verneigt sich und schreitet davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Verzeihen Sie die Störung, mein Fürst. Kanzler Warrin erbittet ein dringliches Treffen im Verkohlten Fass in Farnheim.“</DefaultText>
-      <FemaleText>„Verzeihen Sie die Störung, meine Fürstin. Kanzler Warrin erbittet ein dringliches Treffen im Verkohlten Fass in Farnheim.“</FemaleText>
+      <DefaultText>„Verzeiht die Störung, mein Fürst. Kanzler Warrin erbittet ein dringliches Treffen im Verkohlten Fass in Farnheim.“</DefaultText>
+      <FemaleText>„Verzeiht die Störung, meine Fürstin. Kanzler Warrin erbittet ein dringliches Treffen im Verkohlten Fass in Farnheim.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -56,8 +56,8 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Das weiß ich nicht. Bitte verzeihen Sie, mein Fürst. Ich bin lediglich ein einfacher Bote.“</DefaultText>
-      <FemaleText>„Das weiß ich nicht. Bitte verzeihen Sie, meine Fürstin. Ich bin lediglich ein einfacher Bote.“</FemaleText>
+      <DefaultText>„Das weiß ich nicht. Bitte verzeiht, mein Fürst. Ich bin lediglich ein einfacher Bote.“</DefaultText>
+      <FemaleText>„Das weiß ich nicht. Bitte verzeiht, meine Fürstin. Ich bin lediglich ein einfacher Bote.“</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Ihr Anspruch auf Caed Nua wird von der Familie Gathbin angezweifelt. Graf Bademar hat ein Urteil in der Angelegenheit gefällt, aber sowohl Sie als auch Fürst Gathbin müssen anwesend sein.“</DefaultText>
+      <DefaultText>„Euer Anspruch auf Caed Nua wird von der Familie Gathbin angezweifelt. Graf Bademar hat ein Urteil in der Angelegenheit gefällt, aber sowohl Ihr als auch Fürst Gathbin müssen anwesend sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Er ist der Rechtsbeamte von Graf Bademar, dem Fürsten des Griffs. Ich glaube, Sie haben im Palast des Ducs seine Bekanntschaft gemacht.“</DefaultText>
+      <DefaultText>„Er ist der Rechtsbeamte von Graf Bademar, dem Fürsten des Griffs. Ich glaube, Ihr habt im Palast des Ducs seine Bekanntschaft gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Ah, richtig. Sie kommen aus dem Ausland. Bitte verzeihen Sie.“</DefaultText>
+      <DefaultText>„Ah, richtig. Ihr kommt aus dem Ausland. Bitte verzeiht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Kanzler Warrin ist bedeutend besser über solche Dinge informiert. Er kann gewiss alle Ihre Fragen beantworten.“</DefaultText>
+      <DefaultText>„Kanzler Warrin ist bedeutend besser über solche Dinge informiert. Er kann gewiss alle Eure Fragen beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,13 +141,13 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Verzeihen Sie, mein Fürst. Ich bin nur etwas kränklich.“</DefaultText>
-      <FemaleText>„Verzeihen Sie, meine Fürstin. Ich bin nur etwas kränklich.“</FemaleText>
+      <DefaultText>„Verzeiht, mein Fürst. Ich bin nur etwas kränklich.“</DefaultText>
+      <FemaleText>„Verzeiht, meine Fürstin. Ich bin nur etwas kränklich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Die&#160;… Dekorationen vor der Festung sind ein klein wenig furchterregend, mein Fürst. Bitte verzeihen Sie.“</DefaultText>
-      <FemaleText>„Die&#160;… Dekorationen vor der Festung sind ein klein wenig furchterregend, meine Fürstin. Bitte verzeihen Sie.“</FemaleText>
+      <DefaultText>„Die&#160;… Dekorationen vor der Festung sind ein klein wenig furchterregend, mein Fürst. Bitte verzeiht.“</DefaultText>
+      <FemaleText>„Die&#160;… Dekorationen vor der Festung sind ein klein wenig furchterregend, meine Fürstin. Bitte verzeiht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>

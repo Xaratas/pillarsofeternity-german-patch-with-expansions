@@ -226,12 +226,12 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Diese Schatzkammern wurden bereits aufgebrochen.</DefaultText>
+      <DefaultText>Diese Grabgewölbe wurden bereits aufgebrochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Diese Schatzkammer weist schraffierte Klauenspuren auf.</DefaultText>
+      <DefaultText>Diese Gruft weist schraffierte Klauenspuren auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Auf dem Tisch liegt ein Buch voller unverständlicher Kryptographie.</DefaultText>
+      <DefaultText>Auf dem Tisch liegt ein Buch voller unverständlicher Kryptografie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Der Rumpf dieses gestrandeten Bootes ist mit Seepocken verkrustet. Irgendetwas –&#160;vermutlich die gezackten Adrafinger&#160;– haben tiefe Rillen in das Holz gekratzt. Wer auch immer versucht hat, durch sie hindurchzusegeln, muss entweder verzweifelt oder sehr unerfahren gewesen sein.</DefaultText>
+      <DefaultText>Der Rumpf dieses gestrandeten Schiffs ist mit Seepocken verkrustet. Irgendetwas –&#160;vermutlich die gezackten Adrafinger&#160;– haben tiefe Rillen in das Holz gekratzt. Wer auch immer versucht hat, durch sie hindurchzusegeln, muss entweder verzweifelt oder sehr unerfahren gewesen sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -993,7 +993,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Holzschachtel</DefaultText>
+      <DefaultText>Holzkiste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,7 +1078,7 @@ und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Go
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Schatzkammer</DefaultText>
+      <DefaultText>Gruft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2819,7 +2819,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>Diese Karte des Dyrwalds und von Eir&#160;Glanfath scheint älter als die Entdeckung einiger Ruinen im Osten zu sein. Der Kartograph hat sie unterschrieben: „A. Skerrion“.</DefaultText>
+      <DefaultText>Diese Karte des Dyrwalds und von Eir&#160;Glanfath scheint älter als die Entdeckung einiger Ruinen im Osten zu sein. Der Kartograf hat sie unterschrieben: „A. Skerrion“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
