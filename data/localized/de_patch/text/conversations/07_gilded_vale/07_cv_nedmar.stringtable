@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und einer der Wächter bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und einer der Wachen bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</DefaultText>
+      <FemaleText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und eine der Wachen bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
