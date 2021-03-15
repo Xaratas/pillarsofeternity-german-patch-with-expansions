@@ -1,0 +1,16 @@
+# A part-of-speech dictionary that's used additionally to the binary dictionary (*.dict).
+# This does not add words to the spell checker, see hunspell/spelling.txt for that.
+# File Encoding: UTF-8
+# Format: three tab-separated fields: fullform baseform postags
+Pillars of Eternity	Pillars of Eternity	SUB:EIG
+Burgvogtin	Burgvogt	SUB:SIN:FEM
+Ausdauerverlust	Ausdauerverlust	SUB:SIN:MAS:NOM:AKK
+Ausdauerverlusts	Ausdauerverlust	SUB:SIN:MAS:GEN
+Ausdauerverluste	Ausdauerverlust	SUB:SIN:MAS:DAT
+Reservoiren	Reservoir	SUB:PLU:DRT
+zuzustürmen	zustürmen	VER:INF
+Aura	Aura	SUB:SIN:FEM
+Auren	Aura	SUB:PLU:FEM
+Stoikerin	Stoiker	SUB:SIN:FEM
+Nahkampfangriffe	Nahkampfangriff	SUB:PLU:MAS
+Schlüssel	Schlüssel	SUB:AKK:SIN
