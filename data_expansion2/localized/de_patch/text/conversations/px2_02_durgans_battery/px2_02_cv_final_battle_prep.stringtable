@@ -55,7 +55,7 @@ Deryan und Wengra machen einen Schritt zurück und stellen sich kampfbereit gege
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Beregan hat Recht. Ihr wolltet etwas, was ihr nicht verstehen konntet, und das hat Ärger zur Folge gehabt.“</DefaultText>
+      <DefaultText>„Beregan hat recht. Ihr wolltet etwas, was ihr nicht verstehen konntet, und das hat Ärger zur Folge gehabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,12 +213,12 @@ Er blickt dich an und nickt.</DefaultText>
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Deryan hat Recht. Adaryc ist nicht zu trauen, nicht mit einer Armee so nah vor Stalwarts Toren.“</DefaultText>
+      <DefaultText>„Deryan hat recht. Adaryc ist nicht zu trauen, nicht mit einer Armee so nah vor Stalwarts Toren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Adaryc hat Recht. Wir müssen zusammenarbeiten. Was vergangen ist, das zählt jetzt nicht, Deryan.“</DefaultText>
+      <DefaultText>„Adaryc hat recht. Wir müssen zusammenarbeiten. Was vergangen ist, das zählt jetzt nicht, Deryan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -267,7 +267,7 @@ Matronin Beregan taumelt hinter Deryan und Wengra heran, flankiert von zwei krä
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>„Sie hat Recht. Wir müssen gemeinsam kämpfen.“
+      <DefaultText>„Sie hat recht. Wir müssen gemeinsam kämpfen.“
 
 Du erkennst auch Adaryc, der ihnen folgt. Seine Schultern sind steif und er hat die Arme vor sich verschränkt.</DefaultText>
       <FemaleText />
@@ -374,7 +374,7 @@ Nach einer Pause tritt Beregan vor.</DefaultText>
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>„Du hast vielleicht Recht, Beregan, aber das hilft nicht weiter. Vielleicht gehst du lieber.“</DefaultText>
+      <DefaultText>„Du hast vielleicht recht, Beregan, aber das hilft nicht weiter. Vielleicht gehst du lieber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,7 +394,7 @@ Nach einer Pause tritt Beregan vor.</DefaultText>
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>„Du hast wahrscheinlich Recht. Es ist sowieso nichts mehr von Stalwart übrig, wenn wir diese Monster nicht aufhalten.“ Er blickt auf die Stelle hinab, die seine Ferse in den Dreck gegraben hat.</DefaultText>
+      <DefaultText>„Du hast wahrscheinlich recht. Es ist sowieso nichts mehr von Stalwart übrig, wenn wir diese Monster nicht aufhalten.“ Er blickt auf die Stelle hinab, die seine Ferse in den Dreck gegraben hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

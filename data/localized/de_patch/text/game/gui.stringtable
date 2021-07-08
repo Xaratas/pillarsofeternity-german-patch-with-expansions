@@ -9150,7 +9150,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1824</ID>
-      <DefaultText>Abenteurer der Stufe {1} für {0} anwerben?</DefaultText>
+      <DefaultText>Abenteurer der Stufe {0} für {1} anwerben?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

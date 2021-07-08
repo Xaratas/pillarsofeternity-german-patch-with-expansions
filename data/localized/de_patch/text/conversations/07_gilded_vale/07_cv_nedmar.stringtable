@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. „Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass du&#160;… Das heißt, ich fürchtete&#160;…“ Er schüttelt seinen Kopf. „Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt&#160;…“</DefaultText>
+      <DefaultText>Nedmars Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. „Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass du&#160;… Das heißt, ich fürchtete&#160;…“ Er schüttelt seinen Kopf. „Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und einer der Wächter bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und einer der Wachen bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</DefaultText>
+      <FemaleText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und eine der Wachen bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>

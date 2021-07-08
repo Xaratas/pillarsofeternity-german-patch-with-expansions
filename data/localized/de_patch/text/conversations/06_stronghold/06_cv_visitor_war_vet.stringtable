@@ -174,10 +174,10 @@ In Odeynas unlesbarer Miene sind kein Zorn und keine Abscheu zu sehen. Sie neigt
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Ich&#160;…“ Odeyna seufzt. „Ja. Sie haben Recht. Danke, dass Sie sich Zeit genommen haben, Fürst [Player Name].“
+      <DefaultText>„Ich&#160;…“ Odeyna seufzt. „Ja. Sie haben recht. Danke, dass Sie sich Zeit genommen haben, Fürst [Player Name].“
 
 Sie neigt den Kopf und wendet sich zum Gehen.</DefaultText>
-      <FemaleText>„Ich&#160;…“ Odeyna seufzt. „Ja. Sie haben Recht. Danke, dass Sie sich Zeit genommen haben, Fürstin [Player Name].“
+      <FemaleText>„Ich&#160;…“ Odeyna seufzt. „Ja. Sie haben recht. Danke, dass Sie sich Zeit genommen haben, Fürstin [Player Name].“
 
 Sie neigt den Kopf und wendet sich zum Gehen.</FemaleText>
     </Entry>

@@ -50,7 +50,7 @@ Sie verneigt sich leicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Eine ganz andere Art der Magie. Aber du hast Recht. Es gab vor langer Zeit einen Mann namens Llengrath. Und seitdem gab es viele mit diesem Namen.“</DefaultText>
+      <DefaultText>„Eine ganz andere Art der Magie. Aber du hast recht. Es gab vor langer Zeit einen Mann namens Llengrath. Und seitdem gab es viele mit diesem Namen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@ Sie lacht.</DefaultText>
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>„Du hast Recht. Niemand sollte Concelhauts Macht haben.“</DefaultText>
+      <DefaultText>„Du hast recht. Niemand sollte Concelhauts Macht haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
