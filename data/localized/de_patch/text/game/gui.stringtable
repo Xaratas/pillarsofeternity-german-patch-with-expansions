@@ -2331,7 +2331,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Macht repräsentiert die körperliche und geistige Stärke eines Charakters, seine rohe Gewalt sowie seine Fähigkeit, mächtige Magie zu kanalisieren. Während der Interaktionen kann sie zur Einschüchterung und für Akte brutaler Gewalt hilfreich sein. Im Kampf wirkt sie sich auf Schaden und Heilung aus sowie auf die Tapferkeit-Verteidigung aus.</DefaultText>
+      <DefaultText>Macht repräsentiert die körperliche und geistige Stärke eines Charakters, seine rohe Gewalt sowie seine Fähigkeit, mächtige Magie zu kanalisieren. Während der Interaktionen kann sie zur Einschüchterung und für Akte brutaler Gewalt hilfreich sein. Im Kampf wirkt sie sich auf Schaden und Heilung, sowie auf die Tapferkeit-Verteidigung aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
