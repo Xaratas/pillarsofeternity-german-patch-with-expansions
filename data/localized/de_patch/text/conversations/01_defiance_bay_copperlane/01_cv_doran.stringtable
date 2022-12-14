@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Er ist bereits erledigt.“</DefaultText>
+      <DefaultText>„Ich habe mich bereits um ihn gekümmert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Kaenra hat mich von vornherein geschickt.“</DefaultText>
+      <DefaultText>„Kaenra hat mich überhaupt erst hierher geschickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
