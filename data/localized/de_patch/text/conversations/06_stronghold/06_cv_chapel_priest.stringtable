@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Dank Ihnen erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Ihnen die Götter sicherlich wohlgesonnen sein.“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Dank Ihnen erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Ihnen die Götter sicherlich wohlgesonnen sein.“</FemaleText>
+      <DefaultText>„Seid gegrüßt, mein Fürst. Dank Euch erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Euch die Götter sicherlich wohlgesonnen sein.“</DefaultText>
+      <FemaleText>„Seid gegrüßt, meine Fürstin. Dank Euch erstrahlt unsere Kapelle jetzt wieder im früheren Glanz. Dafür werden Euch die Götter sicherlich wohlgesonnen sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Willkommen zurück, mein Fürst. Es geht Ihnen doch hoffentlich gut?“</DefaultText>
-      <FemaleText>„Willkommen zurück, meine Fürstin. Es geht Ihnen doch hoffentlich gut?“</FemaleText>
+      <DefaultText>„Willkommen zurück, mein Fürst. Es geht Euch doch hoffentlich gut?“</DefaultText>
+      <FemaleText>„Willkommen zurück, meine Fürstin. Es geht Euch doch hoffentlich gut?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich habe alle Schriftrollen gesammelt, die ich finden konnte. Vielleicht werden sie Ihnen auf Ihren Reisen nützlich sein.“</DefaultText>
+      <DefaultText>„Ich habe alle Schriftrollen gesammelt, die ich finden konnte. Vielleicht werden sie Euch auf Euren Reisen nützlich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Möge Ihnen der Zwillingsgott seinen Segen geben.“</DefaultText>
+      <DefaultText>„Möge Euch der Zwillingsgott seinen Segen geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Möge Magran Ihnen Stärke für die Prüfungen geben, die Ihnen bevorstehen.“</DefaultText>
+      <DefaultText>„Möge Magran Euch Stärke für die Prüfungen geben, die Euch bevorstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Wenn Ihre Prüfungen schwer auf Ihren Schultern lasten, dann erinnern Sie sich&#160;– das Bildnis wartet. Ihre Zeit wird kommen.“</DefaultText>
+      <DefaultText>„Wenn Eure Prüfungen schwer auf Euren Schultern lasten, dann erinnert Euch daran&#160;– das Bildnis wartet. Eure Zeit wird kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
