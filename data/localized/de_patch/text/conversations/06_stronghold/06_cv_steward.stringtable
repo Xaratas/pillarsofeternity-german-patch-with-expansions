@@ -554,8 +554,8 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>„Ich hoffe, alles ist in Ordnung, mein Fürst? Bitte lasst mich wissen, wenn ich Euch irgendwie behilflich sein kann.“</DefaultText>
-      <FemaleText>„Ich hoffe, alles ist in Ordnung, meine Fürstin? Bitte lasst mich wissen, wenn ich Euch irgendwie behilflich sein kann.“</FemaleText>
+      <DefaultText>„Ich hoffe, alles ist in Ordnung, mein Fürst? Bitte lasst mich es wissen, wenn ich Euch irgendwie behilflich sein kann.“</DefaultText>
+      <FemaleText>„Ich hoffe, alles ist in Ordnung, meine Fürstin? Bitte lasst mich es wissen, wenn ich Euch irgendwie behilflich sein kann.“</FemaleText>
     </Entry>
     <Entry>
       <ID>131</ID>
