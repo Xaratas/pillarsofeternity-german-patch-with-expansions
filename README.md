@@ -1,5 +1,5 @@
 # pillarsofeternity-german-patch-with-expansions
-Fortsetzung der verbesserung der deutschen Übersetzung von pillarsofeternity-german-patch inklusive der Expansion Ordner.
+Fortsetzung der Verbesserung der deutschen Übersetzung von pillarsofeternity-german-patch inklusive der Expansion Ordner.
 
 Details for the Patch:
 https://www.nexusmods.com/pillarsofeternity/mods/6/?
