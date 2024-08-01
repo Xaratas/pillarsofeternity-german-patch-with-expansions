@@ -1,8 +1,8 @@
 # pillarsofeternity-german-patch-with-expansions
-Fortsetzung der verbesserung der deutschen Übersetzung von pillarsofeternity-german-patch inklusive der Expansion Ordner.
+Fortsetzung der Verbesserung der deutschen Übersetzung von pillarsofeternity-german-patch inklusive der Expansion Ordner.
 
 Details for the Patch:
-http://www.nexusmods.com/pillarsofeternity/mods/6/?
+https://www.nexusmods.com/pillarsofeternity/mods/6/?
 
 **Important:**
 If you want to fork this project and make pull requests, use at least a proper git-client.
@@ -11,33 +11,34 @@ The webinterface has this behaviour that it adds an empty newline at the end of 
 Here are a few easy to use clients:
 * Windows
 	* https://desktop.github.com/
-	* http://www.sourcetreeapp.com/
-	* http://www.syntevo.com/smartgit/
+	* https://www.sourcetreeapp.com/
+	* https://www.syntevo.com/smartgit/
 * Mac
 	* https://desktop.github.com/
-	* http://www.sourcetreeapp.com/
-	* http://www.syntevo.com/smartgit/
+	* https://www.sourcetreeapp.com/
+	* https://www.syntevo.com/smartgit/
 * Linux
 	* you really don't know how to use git?
 	* https://wiki.gnome.org/Apps/giggle/
 	* https://wiki.gnome.org/Apps/Gitg/
-	* http://www.syntevo.com/smartgit/
+	* https://www.syntevo.com/smartgit/
 
 Credits:
-- Pho
-- Durlachion
-- Xaratas
-- LordCrash
-- DarkInside
 - Asmodan
 - Aurelio
-- graf wasili
-- coopmine
-- MadOwlkin
-- Cynthel Natal
-- Kirschrose
-- benniii
 - Avantenor
-- Madscientist
-- Xyarvius
+- benniii
+- coopmine
+- Cynthel Natal
+- DarkInside
+- Durlachion
+- graf wasili
+- Kirschrose
 - Kornstab
+- LordCrash
+- MadOwlkin
+- Madscientist
+- MystikReasons
+- Pho
+- Xaratas
+- Xyarvius

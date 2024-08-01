@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Ich warte auf Ihre Entscheidung, mein Fürst.“</DefaultText>
-      <FemaleText>„Ich warte auf Ihre Entscheidung, meine Fürstin.“</FemaleText>
+      <DefaultText>„Ich warte auf Eure Entscheidung, mein Fürst.“</DefaultText>
+      <FemaleText>„Ich warte auf Eure Entscheidung, meine Fürstin.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

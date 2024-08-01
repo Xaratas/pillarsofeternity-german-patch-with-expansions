@@ -20,7 +20,7 @@ Er mustert dich mit eingesunkenen, leblosen Augen. „Du musst einer der neuen S
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Urgeat legt die Stirn krumm in Falten. „Ich fürchte, ich kann dir nicht dabei helfen, hier eine Bleibe zu finden. Fürst Raedrics Sohn wurde als Hohlgeburt eingestuft, was die Umstände noch gespannter macht als zuvor.“</DefaultText>
+      <DefaultText>Urgeat runzelt die Stirn. „Ich fürchte, ich kann dir nicht dabei helfen, hier eine Bleibe zu finden. Fürst Raedrics Sohn wird als Hohlgeburt erachtet, was die Lage noch angespannter macht als zuvor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,16 +233,16 @@ Er hebt seine leeren Hände. „In Wirklichkeit weiß es niemand sicher. Da sie 
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Fürst Raedric hat es auf sich selbst genommen, Goldtal vom Fluch zu säubern. Seine Maßnahmen sind streng, aber notwendig gewesen.“
+      <DefaultText>„Fürst Raedric hat es selbst auf sich genommen, Goldtal vom Fluch zu befreien. Seine Maßnahmen waren hart, aber notwendig.“
 
 „Jetzt, da seine eigene Ehefrau schwanger ist, sorgt er noch sorgfältiger dafür, dass keine mit dem Fluch befallene Frau das Dorf betritt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Fürst Raedric hat es auf sich selbst genommen, Goldtal vom Fluch zu säubern. Seine Maßnahmen sind streng, aber notwendig gewesen.“
+      <DefaultText>„Fürst Raedric hat es selbst auf sich genommen, Goldtal vom Fluch zu befreien. Seine Maßnahmen waren hart, aber notwendig.“
 
-„Falls die Glocken irgendwelche Rückschlüsse zulassen, das ist es unglücklicherweise vielleicht nicht genug gewesen.“</DefaultText>
+„Leider waren sie vielleicht nicht ausreichend, sofern die Glocken ein Anzeichen dafür sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

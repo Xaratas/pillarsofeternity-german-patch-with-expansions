@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Deine Gruppe besteht immer aus deinem Charakter und bis zu fünf zusätzlichen Gefährten oder Abenteurern. Solange die Karawane vor den glanfathanischen Ruinen kampiert, hat Odema dir Calisca zur Seite gestellt, damit sie dir hilft. Calisca ist Kämpferin, eine Klasse, deren Stärkung vor allem in der Verteidigung in Nahkämpfen liegen. Nutze ihre Fähigkeiten, um deine eigenen zu ergänzen.</DefaultText>
+      <DefaultText>Deine Gruppe besteht immer aus deinem Charakter und bis zu fünf zusätzlichen Gefährten oder Abenteurern. Solange die Karawane vor den glanfathanischen Ruinen kampiert, hat Odema dir Calisca zur Seite gestellt, damit sie dir hilft. Calisca ist eine Kämpferin, eine Klasse, die sich vor allem durch Verteidigung im Nahkampf auszeichnet. Nutze ihre Fähigkeiten, um deine eigenen zu ergänzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen/ihren Auswahlkreis oder sein/ihr Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht&#160;– beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
+      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen Auswahlkreis, sein Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht&#160;– beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

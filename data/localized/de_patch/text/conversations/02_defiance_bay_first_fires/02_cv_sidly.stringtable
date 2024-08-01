@@ -57,7 +57,7 @@ Sie lehnt sich etwas vor. „Hier arbeiten der Duc und seine höchsten Berater, 
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Aber wenn du die offizielle Version möchtest&#160;…“ Sie räuspert sich und gestikuliert im Gegenuhrzeigersinn durch die Herrenhalle. „Wir haben einen Schrein, der Magran gewidmet ist, offizielle Unterlagen und Räumlichkeiten für öffentliche Anhörungen und Ratsversammlungen.“</DefaultText>
+      <DefaultText>„Aber wenn du die offizielle Version möchtest&#160;…“ Sie räuspert sich und gestikuliert gegen den Uhrzeigersinn durch die Herrenhalle. „Wir haben einen Schrein, der Magran gewidmet ist, offizielle Unterlagen und Räumlichkeiten für öffentliche Anhörungen und Ratsversammlungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@ Sie gähnt. „Der schlimmste Tag meines Lebens.“</DefaultText>
       <ID>21</ID>
       <DefaultText>„Oh ja. Duc Aevar trifft sich seit Wochen mit einigen der wichtigsten Anführer der Stadt. Sie überlegen, wie sie mit dem Vermächtnis umgehen sollen.“
 
-„Aber die ganze Angelegenheit ist ein großes Geheimnis. Ich wollte mich in der Mittagspause einmal in die Galerie setzen, wurde aber sofort fortgeschickt.“ Sie zieht die Nase hoch. „Aber es dreht sich viel um die Beseelung, es hat also einen guten Grund, warum sie sich hinter geschlossenen Türen treffen.“</DefaultText>
+„Aber die ganze Angelegenheit ist ein großes Geheimnis. Ich wollte mich in der Mittagspause einmal in die Galerie setzen, wurde aber sofort fortgeschickt.“ Sie schnaubt. „Aber es dreht sich viel um die Beseelung, es hat also einen guten Grund, warum sie sich hinter geschlossenen Türen treffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@ Sie gähnt. „Der schlimmste Tag meines Lebens.“</DefaultText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Sie hebt eine Augenbraue. „Du kommst wirklich frisch aus der Karawane. Hohlgeburten sind Kinder, die ohne Seele geboren werden. Die meisten leben nicht sehr lange&#160;– die übrigen haben meist eine Art Behandlung von den Beseelern erhalten.“</DefaultText>
+      <DefaultText>Sie hebt eine Augenbraue. „Du bist wirklich nicht von hier. Hohlgeburten sind Kinder, die ohne Seele geboren werden. Die meisten leben nicht sehr lange&#160;– die übrigen haben meist eine Art Behandlung von den Beseelern erhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,7 +155,7 @@ Sie gähnt. „Der schlimmste Tag meines Lebens.“</DefaultText>
       <ID>36</ID>
       <DefaultText>Sie lacht. „Wo soll ich anfangen? Traditionalisten glauben, sie sei ein Verbrechen an den Göttern. Natürlich ist es riskant, in Seelen herumzustochern, aber die fortschrittlicheren Elemente glauben, das sei unsere einzige Chance, wieder für gesunde Geburten zu sorgen.“
 
-„Und es hilft nicht, dass die Beseelungsforschung oft alte engwithanische Relikte verwendet, die ‚illegal‘ aus Ruinen in Eir Glanfath geplündert wurden&#160;…“ Sie zuckt plötzlich mit ihren Zeige- und Mittelfingern.</DefaultText>
+„Und es hilft nicht, dass die Beseelungsforschung oft alte engwithanische Relikte verwendet, die ‚illegal‘ aus Ruinen in Eir Glanfath geplündert wurden&#160;…“ Sie macht eine schnelle, zuckende Bewegung mit ihrem Zeige- und Mittelfinger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

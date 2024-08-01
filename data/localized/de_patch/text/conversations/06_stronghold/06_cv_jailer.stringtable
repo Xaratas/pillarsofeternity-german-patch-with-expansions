@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Meine Aufgabe ist die Aufsicht über Ihre Kerkerzellen. Wenn Sie auf Ihren Reisen Gefangene nehmen, dann werde ich mich so um sie kümmern, wie Sie es für richtig halten.“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Meine Aufgabe ist die Aufsicht über Ihre Kerkerzellen. Wenn Sie auf Ihren Reisen Gefangene nehmen, dann werde ich mich so um sie kümmern, wie Sie es für richtig halten.“</FemaleText>
+      <DefaultText>„Seid gegrüßt, mein Fürst. Meine Aufgabe ist die Aufsicht über Eure Kerkerzellen. Wenn Ihr auf Euren Reisen Gefangene nehmt, dann werde ich mich so um sie kümmern, wie Ihr es für richtig haltet.“</DefaultText>
+      <FemaleText>„Seid gegrüßt, meine Fürstin. Meine Aufgabe ist die Aufsicht über Eure Kerkerzellen. Wenn Ihr auf Euren Reisen Gefangene nehmt, dann werde ich mich so um sie kümmern, wie Ihr es für richtig haltet.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Momentan ist der Kerker leer, aber&#160;… das werden Sie sicherlich schon bald ändern!“</DefaultText>
+      <DefaultText>„Momentan ist der Kerker leer, aber&#160;… das werdet Ihr sicherlich schon bald ändern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Haben Sie irgendwelche Anweisungen für mich? Was soll mit diesen Gefangenen geschehen?“</DefaultText>
+      <DefaultText>„Habt Ihr irgendwelche Anweisungen für mich? Was soll mit diesen Gefangenen geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,8 +76,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Mein Fürst, diese&#160;… Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</DefaultText>
-      <FemaleText>„Meine Fürstin, diese&#160;… Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</FemaleText>
+      <DefaultText>„Mein Fürst, diese&#160;… Kreatur, Kestorik, die Euch ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</DefaultText>
+      <FemaleText>„Meine Fürstin, diese&#160;… Kreatur, Kestorik, die Euch ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -101,8 +101,8 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Seien Sie gegrüßt, mein Fürst! Ein kleiner Kerkerbesuch, was?“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, meine Fürstin! Ein kleiner Kerkerbesuch, was?“</FemaleText>
+      <DefaultText>„Seid gegrüßt, mein Fürst! Ein kleiner Kerkerbesuch, was?“</DefaultText>
+      <FemaleText>„Seid gegrüßt, meine Fürstin! Ein kleiner Kerkerbesuch, was?“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Wie Sie wünschen!“</DefaultText>
+      <DefaultText>„Wie Ihr wünscht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Nun, wenn Sie sicher sind&#160;… Stückchen abschneiden hat mir noch nie gefallen&#160;…“</DefaultText>
+      <DefaultText>„Nun, wenn Ihr sicher seid&#160;… Stückchen abschneiden hat mir noch nie gefallen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,8 +186,8 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Wenn&#160;… wenn Sie sicher sind, mein Fürst.“</DefaultText>
-      <FemaleText>„Wenn&#160;… wenn Sie sicher sind, meine Fürstin.“</FemaleText>
+      <DefaultText>„Wenn&#160;… wenn Ihr sicher seid, mein Fürst.“</DefaultText>
+      <FemaleText>„Wenn&#160;… wenn Ihr sicher seid, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2439</EntryCount>
+  <EntryCount>2445</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2331,7 +2331,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Macht repräsentiert die körperliche und geistige Stärke eines Charakters, seine rohe Gewalt sowie seine Fähigkeit, mächtige Magie zu kanalisieren. Während der Interaktionen kann sie zur Einschüchterung und für Akte brutaler Gewalt hilfreich sein. Im Kampf wirkt sie sich auf Schaden und Heilung aus sowie auf die Tapferkeit-Verteidigung aus.</DefaultText>
+      <DefaultText>Macht repräsentiert die körperliche und geistige Stärke eines Charakters, seine rohe Gewalt sowie seine Fähigkeit, mächtige Magie zu kanalisieren. Während der Interaktionen kann sie zur Einschüchterung und für Akte brutaler Gewalt hilfreich sein. Im Kampf wirkt sie sich auf Schaden, Heilung sowie auf die Tapferkeit-Verteidigung aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12323,7 +12323,37 @@ Wenn du die Telemetrie aktivierst, hilfst du uns, mehr darüber zu erfahren, wie
 https://www.obsidian.net/privacy-policy
 
 Möchtest du die Telemetrie jetzt aktivieren?
-</DefaultText>
+      </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2470</ID>
+      <DefaultText>Inhalt von Royal Edition wird kopiert. Bitte warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2471</ID>
+      <DefaultText>Möchtest du den zusätzlichen Inhalt von Royal Edition kopieren?</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2472</ID>
+      <DefaultText>Kopieren abgeschlossen</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2473</ID>
+      <DefaultText>Kopieren fehlgeschlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2474</ID>
+      <DefaultText>Royal Edition installieren</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2475</ID>
+      <DefaultText>Royal Edition</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

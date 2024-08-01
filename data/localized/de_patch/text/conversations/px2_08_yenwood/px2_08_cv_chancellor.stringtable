@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Danke, dass Sie gekommen sind, [Player Name]. Ich versuche seit einiger Zeit, Sie aufzuspüren.“</DefaultText>
+      <DefaultText>„Danke, dass Ihr gekommen seid, [Player Name]. Ich versuche seit einiger Zeit, Euch aufzuspüren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Kommen Sie zum Punkt.“</DefaultText>
+      <DefaultText>„Kommt zum Punkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Die Rechtmäßigkeit Ihres Anspruchs auf Caed Nua wird angezweifelt. Graf Bademar hat eine Entscheidung in der Angelegenheit verkündet.“</DefaultText>
+      <DefaultText>„Die Rechtmäßigkeit Eures Anspruchs auf Caed Nua wird angezweifelt. Graf Bademar hat eine Entscheidung in der Angelegenheit verkündet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Es wird sich alles zeigen, sobald Fürst Gathbin eintrifft. Haben Sie vielleicht Fragen an mich, während wir warten?“</DefaultText>
+      <DefaultText>„Es wird sich alles zeigen, sobald Fürst Gathbin eintrifft. Habt Ihr vielleicht Fragen an mich, während wir warten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Was wissen Sie über Gathbin?“</DefaultText>
+      <DefaultText>„Was wisst Ihr über Gathbin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Erzählen Sie mir mehr über Rännig Gathbin.“</DefaultText>
+      <DefaultText>„Erzählt mir mehr über Rännig Gathbin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Wissen Sie, wie Graf Bademar entschieden hat?“</DefaultText>
+      <DefaultText>„Wisst Ihr, wie Graf Bademar entschieden hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Seien Sie sich nicht so sicher, dass Caed Nua Ihnen gehört. Der Graf könnte zu meinen Gunsten entscheiden.“</DefaultText>
+      <DefaultText>„Seid Euch nicht so sicher, dass Caed Nua Euch gehört. Der Graf könnte zu meinen Gunsten entscheiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,13 +113,13 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Nun, ich kann nicht sagen, dass Gathbins Reaktion vollkommen unerwartet war. Ich fürchte, Sie haben sich ohne Ihr eigenes Zutun einen mächtigen Feind gemacht.“</DefaultText>
+      <DefaultText>„Nun, ich kann nicht sagen, dass Gathbins Reaktion vollkommen unerwartet war. Ich fürchte, Ihr habt Euch ohne Euer eigenes Zutun einen mächtigen Feind gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Bitte verzeihen Sie, aber es sind düstere Zeiten. Unsere Angelegenheit muss warten, bis diese Aufstände ein Ende genommen haben, Fürst!“</DefaultText>
-      <FemaleText>„Bitte verzeihen Sie, aber es sind düstere Zeiten. Unsere Angelegenheit muss warten, bis diese Aufstände ein Ende genommen haben, Fürstin!“</FemaleText>
+      <DefaultText>„Bitte verzeiht, aber es sind düstere Zeiten. Unsere Angelegenheit muss warten, bis diese Aufstände ein Ende genommen haben, Fürst!“</DefaultText>
+      <FemaleText>„Bitte verzeiht, aber es sind düstere Zeiten. Unsere Angelegenheit muss warten, bis diese Aufstände ein Ende genommen haben, Fürstin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -138,12 +138,12 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Ich hoffe, Sie haben recht.“ Warrin lächelt dünn.</DefaultText>
+      <DefaultText>„Ich hoffe, Ihr habt recht.“ Warrin lächelt dünn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Wie dem auch sei, Caed Nua gehört nun offiziell Ihnen, nachdem Fürst Gathbin das Urteil des Grafen zurückgewiesen hat.“ Er überreicht dir ein dunkelblaues Zepter, das aussieht, als wäre es vollständig aus Saphir geschnitzt worden. „Hier&#160;… das gehörte einem der früheren Fürsten von Caed Nua. Rechtmäßig gehört es nun Ihnen.“</DefaultText>
+      <DefaultText>„Wie dem auch sei, Caed Nua gehört nun offiziell Euch, nachdem Fürst Gathbin das Urteil des Grafen zurückgewiesen hat.“ Er überreicht dir ein dunkelblaues Zepter, das aussieht, als wäre es vollständig aus Saphir geschnitzt worden. „Hier&#160;… das gehörte einem der früheren Fürsten von Caed Nua. Rechtmäßig gehört es nun Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,8 +178,8 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Ich weiß nicht, aus welchen fernen Landen Sie kommen, aber Ihr Titel hat im Dyrwald wenig Gewicht. Kanzler, verlesen Sie das Urteil. Ich verliere meine Geduld mit diesem Narren von Hinterwäldler.“</DefaultText>
-      <FemaleText>„Ich weiß nicht, aus welchen fernen Landen Sie kommen, aber Ihr Titel hat im Dyrwald wenig Gewicht. Kanzler, verlesen Sie das Urteil. Ich verliere meine Geduld mit dieser närrischen Hinterwäldlerin.“</FemaleText>
+      <DefaultText>„Ich weiß nicht, aus welchen fernen Landen Ihr kommt, aber Euer Titel hat im Dyrwald wenig Gewicht. Kanzler, verlest das Urteil. Ich verliere meine Geduld mit diesem Narren von Hinterwäldler.“</DefaultText>
+      <FemaleText>„Ich weiß nicht, aus welchen fernen Landen Ihr kommt, aber Euer Titel hat im Dyrwald wenig Gewicht. Kanzler, verlest das Urteil. Ich verliere meine Geduld mit dieser närrischen Hinterwäldlerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -208,7 +208,7 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Auf gar keinen Fall.“ Gathbin verschränkt die Arme und runzelt trotzig die Stirn.</DefaultText>
+      <DefaultText>„Auf gar keinen Fall.“ Gathbin verschränkt die Arme, ein trotziger Gesichtsausdruck liegt auf seinem Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,22 +248,22 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Mein Fürst. Ich schlage vor, dass Sie sich beruhigen. Augenblicklich.“ Der Ton des Marschalls ist ruhig, aber seine Hand ruht am Griff seines Schwertes.</DefaultText>
+      <DefaultText>„Mein Fürst. Ich schlage vor, dass Ihr Euch beruhigt. Augenblicklich.“ Der Ton des Marschalls ist ruhig, aber seine Hand ruht am Griff seines Schwertes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Nehmen Sie Ihre Hände von mir, Sie&#160;… Sie Bauernflegel!“ Gathbin reißt seinen Arm los und tritt einen Schritt zurück.</DefaultText>
-      <FemaleText>„Nehmen Sie Ihre Hände von mir, Sie&#160;… Sie Bauerngör!“ Gathbin reißt seinen Arm los und tritt einen Schritt zurück.</FemaleText>
+      <DefaultText>„Nimm deine Hände von mir, du&#160;… du Bauernflegel!“ Gathbin reißt seinen Arm los und tritt einen Schritt zurück.</DefaultText>
+      <FemaleText>„Nimm deine Hände von mir, du&#160;… du Bauerngör!“ Gathbin reißt seinen Arm los und tritt einen Schritt zurück.</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Wie KÖNNEN Sie es wagen, mir einen Befehl zu erteilen!“ Gathbin wirbelt zu dir herum.</DefaultText>
+      <DefaultText>„Wie KANNST du es wagen, mir einen Befehl zu erteilen!“ Gathbin wirbelt zu dir herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Ich werde mir holen, was mir gehört. Verlassen Sie sich darauf! Kommen Sie, Hauptmann Emery&#160;… wir gehen.“</DefaultText>
+      <DefaultText>„Ich werde mir holen, was mir gehört. Verlass dich darauf! Kommt, Hauptmann Emery&#160;… wir gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,8 +303,8 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Es war mir ein Vergnügen, Sie endlich kennenzulernen, mein Fürst.“ Warrin verneigt sich. „Vielleicht begegnen wir uns unter angenehmeren Umständen wieder.“</DefaultText>
-      <FemaleText>„Es war mir ein Vergnügen, Sie endlich kennenzulernen, meine Fürstin.“ Warrin verneigt sich. „Vielleicht begegnen wir uns unter angenehmeren Umständen wieder.“</FemaleText>
+      <DefaultText>„Es war mir ein Vergnügen, Euch endlich kennenzulernen, mein Fürst.“ Warrin verneigt sich. „Vielleicht begegnen wir uns unter angenehmeren Umständen wieder.“</DefaultText>
+      <FemaleText>„Es war mir ein Vergnügen, Euch endlich kennenzulernen, meine Fürstin.“ Warrin verneigt sich. „Vielleicht begegnen wir uns unter angenehmeren Umständen wieder.“</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -313,27 +313,27 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Bitte laden Sie Fürst Gathbin ein, mit mir in den Hallen von Caed Nua ein Festmahl zu feiern. Es gibt keinen Grund, warum wir Feinde sein sollten.“</DefaultText>
+      <DefaultText>„Bitte ladet Fürst Gathbin ein, mit mir in den Hallen von Caed Nua ein Festmahl zu feiern. Es gibt keinen Grund, warum wir Feinde sein sollten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Einfaltspinsel! Ich hoffe, Sie haben Ihre Zeit als Besetzer meines Landes genossen. Wenn Sie mich weiter provozieren, hänge ich sie von der höchsten Mauer auf Caed Nua, sobald diese Angelegenheit geklärt ist. Kanzler, verlesen Sie das Urteil des Grafen.“</DefaultText>
-      <FemaleText>„Närrin! Ich hoffe, Sie haben Ihre Zeit als Besetzerin meines Landes genossen. Wenn Sie mich weiter provozieren, hänge ich sie von der höchsten Mauer auf Caed Nua, sobald diese Angelegenheit geklärt ist. Kanzler, verlesen Sie das Urteil des Grafen.“</FemaleText>
+      <DefaultText>„Einfaltspinsel! Ich hoffe, du hast deine Zeit als Besetzer meines Landes genossen. Wenn du mich weiter provozierst, hänge ich dich an der höchsten Mauer von Caed Nua auf, sobald diese Angelegenheit geklärt ist. Kanzler, verlest das Urteil des Grafen.“</DefaultText>
+      <FemaleText>„Närrin! Ich hoffe, du hast deine Zeit als Besetzerin meines Landes genossen. Wenn du mich weiter provozierst, hänge ich dich an der höchsten Mauer von Caed Nua auf, sobald diese Angelegenheit geklärt ist. Kanzler, verlest das Urteil des Grafen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Fürst [Player Name]! Ich hatte mich schon gefragt, wann Sie eintreffen würden.“</DefaultText>
-      <FemaleText>„Fürstin [Player Name]! Ich hatte mich schon gefragt, wann Sie eintreffen würden.“</FemaleText>
+      <DefaultText>„Fürst [Player Name]! Ich hatte mich schon gefragt, wann Ihr eintreffen würdet.“</DefaultText>
+      <FemaleText>„Fürstin [Player Name]! Ich hatte mich schon gefragt, wann Ihr eintreffen würdet.“</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Sie haben einen Brief gesandt.“</DefaultText>
+      <DefaultText>„Ihr habt einen Brief gesandt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Stellen Sie das Bier weg, alter Mann&#160;… Sie haben mich herzitiert!“</DefaultText>
+      <DefaultText>„Stellt das Bier weg, alter Mann&#160;… Ihr habt mich herzitiert!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,11 +343,11 @@ Eine Elfin mit kurz geschnittenen Haaren, in eine dunkle, glänzende Plattenrüs
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„Nein, das habe ich nicht. Ich habe einen Brief erhalten. Von Ihnen.“
+      <DefaultText>„Nein, das habe ich nicht. Ich habe einen Brief erhalten. Von Euch.“
 
 Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
 
-„Soweit ich weiß, hat sich an der Rechtmäßigkeit Ihres Besitzes von Caed Nua nichts geändert.“</DefaultText>
+„Soweit ich weiß, hat sich an der Rechtmäßigkeit Eures Besitzes von Caed Nua nichts geändert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,37 +372,37 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Graf Bademar hat entschieden, die Aktivitäten von Fürst Gathbin im Auge zu behalten. Gathbin hat in letzter Zeit viele Männer angeheuert. Wir wissen jedoch nicht, zu welchem Zweck. Ich würde Ihnen raten, auf Caed Nua zusätzliche Sicherheitsvorkehrungen zu treffen. Möglicherweise will er Spione oder Saboteure in Ihre Festung einschleusen.“</DefaultText>
+      <DefaultText>„Graf Bademar hat entschieden, die Aktivitäten von Fürst Gathbin im Auge zu behalten. Gathbin hat in letzter Zeit viele Männer angeheuert. Wir wissen jedoch nicht, zu welchem Zweck. Ich würde Euch raten, auf Caed Nua zusätzliche Sicherheitsvorkehrungen zu treffen. Möglicherweise will er Spione oder Saboteure in Eure Festung einschleusen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Sprechen Sie weiter.“</DefaultText>
+      <DefaultText>„Sprecht weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Seien Sie auf der Hut, [Player Name]. Ich glaube nicht, dass Fürst Gathbin so einfach aufgibt.“ Er leert den Rest seines Bieres und nickt dir knapp zu, ehe er sich zur Tür begibt.</DefaultText>
+      <DefaultText>„Seid auf der Hut, [Player Name]. Ich glaube nicht, dass Fürst Gathbin so einfach aufgibt.“ Er leert den Rest seines Bieres und nickt dir knapp zu, ehe er sich zur Tür begibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Was verschweigen Sie mir?“</DefaultText>
+      <DefaultText>„Was verschweigt Ihr mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Seien Sie gegrüßt, Straßenwächter. Ihr Ruf eilt Ihnen voraus. Ich muss zugeben, Sie haben innerhalb des Adels für einiges an Aufruhr gesorgt, indem Sie Caed Nua für sich gefordert haben. Die meisten wissen noch immer nicht recht, was sie von Ihnen halten sollen.“</DefaultText>
-      <FemaleText>„Seien Sie gegrüßt, Straßenwächterin. Ihr Ruf eilt Ihnen voraus. Ich muss zugeben, Sie haben innerhalb des Adels für einiges an Aufruhr gesorgt, indem Sie Caed Nua für sich gefordert haben. Die meisten wissen noch immer nicht recht, was sie von Ihnen halten sollen.“</FemaleText>
+      <DefaultText>„Seid gegrüßt, Straßenwächter. Euer Ruf eilt Euch voraus. Ich muss zugeben, Ihr habt innerhalb des Adels für einiges an Aufruhr gesorgt, indem Ihr Caed Nua für Euch gefordert habt. Die meisten wissen noch immer nicht recht, was sie von Euch halten sollen.“</DefaultText>
+      <FemaleText>„Seid gegrüßt, Straßenwächterin. Euer Ruf eilt Euch voraus. Ich muss zugeben, Ihr habt innerhalb des Adels für einiges an Aufruhr gesorgt, indem Ihr Caed Nua für Euch gefordert habt. Die meisten wissen noch immer nicht recht, was sie von Euch halten sollen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Leben Sie wohl, [Player Name].“ Der Marschall nickt Ihnen zu und geht.</DefaultText>
+      <DefaultText>„Lebt wohl, [Player Name].“ Der Marschall nickt dir zu und geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Erzählen Sie mir von Graf Bademar.“</DefaultText>
+      <DefaultText>„Erzählt mir von Graf Bademar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -427,17 +427,17 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Ihre Kooperation ist notiert und ich danke Ihnen.“</DefaultText>
+      <DefaultText>„Eure Kooperation wird gebührend zur Kenntnis genommen und sehr geschätzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>„Gäbe es keinen anderen, der einen Anspruch erhebt, hätten Sie recht. Leider ist das nicht der Fall.“</DefaultText>
+      <DefaultText>„Gäbe es keinen anderen, der einen Anspruch erhebt, hättet Ihr recht. Leider ist das nicht der Fall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Ich fürchte, durch Drohungen können Sie Ihrer Besetzung Caed Nuas keine Rechtmäßigkeit verleihen. Das kann nur der Graf.“</DefaultText>
+      <DefaultText>„Ich fürchte, durch Drohungen könnt Ihr Eurer Besetzung Caed Nuas keine Rechtmäßigkeit verleihen. Das kann nur der Graf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,7 +457,7 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Erzählen Sie mir mehr über den Griff.“</DefaultText>
+      <DefaultText>„Erzählt mir mehr über den Griff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -482,17 +482,17 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Das ist er&#160;… äh, war er. Aber Fürst Raedric war ein Thayn, ein Titel, der unter dem eines Grafen steht. Wenn Ihr Anspruch auf Caed Nua bestätigt wird, werden Sie wohl bald diesen Titel tragen.“</DefaultText>
+      <DefaultText>„Das ist er&#160;… äh, war er. Aber Fürst Raedric war ein Thayn, ein Titel, der unter dem eines Grafen steht. Wenn Euer Anspruch auf Caed Nua bestätigt wird, werdet Ihr wohl bald diesen Titel tragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>„Das ist er. Aber Fürst Raedric ist ein Thayn, ein Titel, der unter dem eines Grafen steht. Wenn Ihr Anspruch auf Caed Nua bestätigt wird, werden Sie wohl bald diesen Titel tragen.“</DefaultText>
+      <DefaultText>„Das ist er. Aber Fürst Raedric ist ein Thayn, ein Titel, der unter dem eines Grafen steht. Wenn Euer Anspruch auf Caed Nua bestätigt wird, werdet Ihr wohl bald diesen Titel tragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Was den aktuellen Bademar angeht, einen besseren Mann kenne ich nicht. Es ist eine Ehre, ihm zu dienen.“</DefaultText>
+      <DefaultText>„Was den aktuellen Bademar angeht, ich kenne keinen besseren Mann als ihn. Es ist eine Ehre, ihm zu dienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,7 +507,7 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>„Nach allem, was ich höre, waren Sie daran nicht unbeteiligt, nicht wahr? Was Ihre Frage angeht, Fürst Kolsc ist ein Thayn, ein Titel, der unter dem eines Grafen steht. Wenn Ihr Anspruch auf Caed Nua bestätigt wird, werden Sie wohl bald diesen Titel tragen.“</DefaultText>
+      <DefaultText>„Nach allem, was ich höre, wart Ihr daran nicht unbeteiligt, nicht wahr? Was Eure Frage angeht, Fürst Kolsc ist ein Thayn, ein Titel, der unter dem eines Grafen steht. Wenn Euer Anspruch auf Caed Nua bestätigt wird, werdet Ihr wohl bald diesen Titel tragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,12 +527,12 @@ Der Kanzler stellt seinen Humpen Bier ab und blickt dich verwundert an.
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Die Summe ist recht angemessen und eine Grundvoraussetzung dafür, dass Sie Ihr Land zurückerhalten. Wenn Sie mich einfach aussprechen lassen würden&#160;…“</DefaultText>
+      <DefaultText>„Die Summe ist recht angemessen und eine Grundvoraussetzung dafür, dass Ihr Euer Land zurückerhalten. Wenn Ihr mich einfach aussprechen lassen würdet&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>„Ich habe eine Botschaft, die Sie diesem Hurensohn schicken können!“ Gathbin hebt die offene Hand und der Kanzler schreckt vor ihm zurück, die Arme zur Verteidigung erhoben.</DefaultText>
+      <DefaultText>„Ich habe eine Botschaft, die Ihr diesem Hurensohn schicken können!“ Gathbin hebt die offene Hand und der Kanzler schreckt vor ihm zurück, die Arme zur Verteidigung erhoben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,8 +579,8 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Wie dem auch sei, als Rechtsbeamter von Graf Bademar bin ich hier, um Sie in Kenntnis zu setzen, dass Sie zum Thayn des Dyrwalds ernannt wurden und Caed Nua als Ihr Eigentum anerkannt wurde. Jetzt und für alle Zeiten, denn die Festung wird auf Ihre etwaigen Nachkommen übergehen.“</DefaultText>
-      <FemaleText>„Wie dem auch sei, als Rechtsbeamter von Graf Bademar bin ich hier, um Sie in Kenntnis zu setzen, dass Sie zur Thaynu des Dyrwalds ernannt wurden und Caed Nua als Ihr Eigentum anerkannt wurde. Jetzt und für alle Zeiten, denn die Festung wird auf Ihre etwaigen Nachkommen übergehen.“</FemaleText>
+      <DefaultText>„Wie dem auch sei, als Rechtsbeamter von Graf Bademar bin ich hier, um Euch in Kenntnis zu setzen, dass Ihr zum Thayn des Dyrwalds ernannt wurdet und Caed Nua als Euer Eigentum anerkannt wurde. Jetzt und für alle Zeiten, denn die Festung wird auf Eure etwaigen Nachkommen übergehen.“</DefaultText>
+      <FemaleText>„Wie dem auch sei, als Rechtsbeamter von Graf Bademar bin ich hier, um Euch in Kenntnis zu setzen, dass Ihr zur Thaynu des Dyrwalds ernannt wurdet und Caed Nua als Euer Eigentum anerkannt wurde. Jetzt und für alle Zeiten, denn die Festung wird auf Eure etwaigen Nachkommen übergehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>
@@ -599,7 +599,7 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Sagen Sie Graf Bademar, dass ich für seine Hilfe dankbar bin. Ich sorge dafür, dass seine Steuern regelmäßig eingetrieben werden.“</DefaultText>
+      <DefaultText>„Sagt Graf Bademar, dass ich für seine Hilfe dankbar bin. Ich sorge dafür, dass seine Steuern regelmäßig eingetrieben werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,13 +609,13 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>„Dann scheint meine Arbeit getan. Besuchen Sie gerne den Palast, wenn&#160;-“ Er tritt mit einem nassen Schmatzen auf einen Haufen Gedärme, als er sich zum Gehen wendet. „Vielleicht komme ich lieber sie besuchen. Ja, ja. Vielleicht in einem Jahr&#160;… oder drei.“</DefaultText>
+      <DefaultText>„Dann scheint meine Arbeit getan. Besucht gerne den Palast, wenn&#160;-“ Er tritt mit einem nassen Schmatzen auf einen Haufen Gedärme, als er sich zum Gehen wendet. „Vielleicht komme ich lieber Euch besuchen. Ja, ja. Vielleicht in einem Jahr&#160;… oder drei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>„Fürst [Player Name], es war mir eine Ehre, Ihnen zu dienen. Ich begebe mich zurück nach Geirans Griff, der Graf hat dort dringende Aufgaben für mich, fürchte ich.“</DefaultText>
-      <FemaleText>„Fürstin [Player Name], es war mir eine Ehre, Ihnen zu dienen. Ich begebe mich zurück nach Geirans Griff, der Graf hat dort dringende Aufgaben für mich, fürchte ich.“</FemaleText>
+      <DefaultText>„Fürst [Player Name], es war mir eine Ehre, Euch zu dienen. Ich begebe mich zurück nach Geirans Griff, der Graf hat dort dringende Aufgaben für mich, fürchte ich.“</DefaultText>
+      <FemaleText>„Fürstin [Player Name], es war mir eine Ehre, Euch zu dienen. Ich begebe mich zurück nach Geirans Griff, der Graf hat dort dringende Aufgaben für mich, fürchte ich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
@@ -634,8 +634,8 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>„Und wo ist dieser Betrüger? Zeigen Sie mir den Narren, der glaubt, er könne MEIN Land stehlen?! Wo ist dieser Abschaum von niederer Herkunft?“</DefaultText>
-      <FemaleText>„Und wo ist diese Betrügerin? Zeigen Sie mir die Närrin, die glaubt, sie könne MEIN Land stehlen?! Wo ist dieser Abschaum von niederer Herkunft?“</FemaleText>
+      <DefaultText>„Und wo ist dieser Betrüger? Zeigt mir den Narren, der glaubt, er könne MEIN Land stehlen?! Wo ist dieser Abschaum von niederer Herkunft?“</DefaultText>
+      <FemaleText>„Und wo ist diese Betrügerin? Zeigt mir die Närrin, die glaubt, sie könne MEIN Land stehlen?! Wo ist dieser Abschaum von niederer Herkunft?“</FemaleText>
     </Entry>
     <Entry>
       <ID>134</ID>
@@ -654,7 +654,7 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>„Nun, da Ihr Rechtsanspruch bestätigt wurde, wird natürlich erwartet, dass Sie einen kleinen Teil aller eingetriebenen Steuern an Ihren rechtmäßigen Herrn weitergeben, Graf Bademar.“</DefaultText>
+      <DefaultText>„Nun, da Euer Rechtsanspruch bestätigt wurde, wird natürlich erwartet, dass Ihr einen kleinen Teil aller eingetriebenen Steuern an Euren rechtmäßigen Herrn weitergeben, Graf Bademar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,8 +664,8 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Ich verstehe. Ich versichere Ihnen, dass der Graf nicht glücklich über diese Entscheidung sein wird, aber ich werde Ihre Wünsche dennoch übermitteln, Fürst [Player Name].“</DefaultText>
-      <FemaleText>„Ich verstehe. Ich versichere Ihnen, dass der Graf nicht glücklich über diese Entscheidung sein wird, aber ich werde Ihre Wünsche dennoch übermitteln, Fürstin [Player Name].“</FemaleText>
+      <DefaultText>„Ich verstehe. Ich versichere Euch, dass der Graf nicht glücklich über diese Entscheidung sein wird, aber ich werde Eure Wünsche dennoch übermitteln, Fürst [Player Name].“</DefaultText>
+      <FemaleText>„Ich verstehe. Ich versichere Euch, dass der Graf nicht glücklich über diese Entscheidung sein wird, aber ich werde Eure Wünsche dennoch übermitteln, Fürstin [Player Name].“</FemaleText>
     </Entry>
     <Entry>
       <ID>141</ID>
@@ -674,17 +674,17 @@ Die Elfin senkt ihre Pistole, zuckt grinsend die Schultern und folgt ihrem Arbei
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Derjenige, der im Auftrag des Grafen von Yenwald über Caed Nua herrscht, wird traditionell Straßenwächter genannt. Ihre Stellung mag noch nicht vollständig offiziell sein, aber der Titel ist eine angemessene Anrede.“ Der Marschall nickt und lächelt.</DefaultText>
-      <FemaleText>„Diejenige, die im Auftrag des Grafen von Yenwald über Caed Nua herrscht, wird traditionell Straßenwächterin genannt. Ihre Stellung mag noch nicht vollständig offiziell sein, aber der Titel ist eine angemessene Anrede.“ Der Marschall nickt und lächelt.</FemaleText>
+      <DefaultText>„Derjenige, der im Auftrag des Grafen von Yenwald über Caed Nua herrscht, wird traditionell Straßenwächter genannt. Eure Stellung mag noch nicht vollständig offiziell sein, aber der Titel ist eine angemessene Anrede.“ Der Marschall nickt und lächelt.</DefaultText>
+      <FemaleText>„Diejenige, die im Auftrag des Grafen von Yenwald über Caed Nua herrscht, wird traditionell Straßenwächterin genannt. Eure Stellung mag noch nicht vollständig offiziell sein, aber der Titel ist eine angemessene Anrede.“ Der Marschall nickt und lächelt.</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Die Klinge, die Sie tragen, wurde sogar vom allerersten Straßenwächter geschmiedet.“ Er deutet auf das Schwert an deiner Seite. „Die Legende besagt, dass das Flüstern des Yenwalds nur von jenen gefunden wird, die dazu bestimmt sind, über Caed Nua zu herrschen.“</DefaultText>
+      <DefaultText>„Die Klinge, die Ihr tragt, wurde sogar vom allerersten Straßenwächter geschmiedet.“ Er deutet auf das Schwert an deiner Seite. „Die Legende besagt, dass das Flüstern des Yenwalds nur von jenen gefunden wird, die dazu bestimmt sind, über Caed Nua zu herrschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Sollten Sie sich jemals so weit im Norden wiederfinden, besuchen Sie mich. Ich würde gerne bei einem Humpen oder zwei Kriegserlebnisse austauschen.“ Er ergreift kurz deine Hand, schüttelt sie mit festem Griff und macht dann auf dem Absatz kehrt.</DefaultText>
+      <DefaultText>„Solltet Ihr Euch jemals so weit im Norden wiederfinden, besucht mich. Ich würde gerne bei einem Humpen oder zwei Kriegserlebnisse austauschen.“ Er ergreift kurz deine Hand, schüttelt sie mit festem Griff und macht dann auf dem Absatz kehrt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

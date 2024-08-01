@@ -33,7 +33,7 @@
       <ID>6</ID>
       <DefaultText>Calisca nimmt ihre Umgebung in sich auf. „Ist schon viel Zeit vergangen, seit ich das letzte Mal so war. Aber gefallen hat es mir immer.“
 
-„Fürst Raedrics Angebot&#160;… es bringt ein Mädchen zum Nachdenken, das muss ich ihm zugestehen. Und Du? Willst du dich hier wie alle anderen niederlassen?“</DefaultText>
+„Fürst Raedrics Angebot&#160;… es bringt ein Mädchen zum Nachdenken, das muss ich ihm zugestehen. Und du? Willst du dich hier wie alle anderen niederlassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,14 +67,14 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Ich habe sie schon eine Ewigkeit nicht mehr gesehen&#160;– ich hatte in Ixamitl zu tun.“
+      <DefaultText>„Ich habe sie seit Ewigkeiten nicht mehr gesehen - ich arbeitete als Fremdenführerin in Ixamitl.“
 
-„Und dennoch: Ich würde alles für sie tun, weil sie&#160;… nun, sie ist eine viel bessere Frau als ich. Deswegen bin ich jetzt hier und wir werden sehen.“</DefaultText>
+„Aber ich würde alles für sie machen, sie ist&#160;… nun, sie ist ein wesentlich besserer Mensch als ich. Darum bin ich hier und wir werden sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Ich habe schon früher mit Odema gearbeitet. Normalerweise führt er keine Karawanen auf dieser Route, er tut es nur mir zuliebe.“</DefaultText>
+      <DefaultText>„Ich habe schon früher mit Odema gearbeitet. Normalerweise führt er keine Karawanen auf dieser Route, er macht es nur mir zuliebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

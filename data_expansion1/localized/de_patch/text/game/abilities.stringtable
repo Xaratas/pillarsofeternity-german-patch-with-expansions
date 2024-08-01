@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Zauberer setzen Arkaner Schleier und/oder Zauberbuch-Slam ein, sobald sie im Nahkampf angriffsgebunden werden. Wenn Pro-Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Spiegelbild und Llengraths verlegtes Bild ein. Ansonsten bleibt er aber auf Distanz und setzt Standardangriffe ein.</DefaultText>
+      <DefaultText>Zauberer setzen Arkaner Schleier und/oder Zauberbuch-Schlag ein, sobald sie im Nahkampf angriffsgebunden werden. Wenn Pro-Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Spiegelbild und Llengraths verlegtes Bild ein. Ansonsten bleibt er aber auf Distanz und setzt Standardangriffe ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

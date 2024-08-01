@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Eine Dyrwald-Frau steht vor ihrem Herd und summt leise eine Melodie vor sich hin&#160;– oder vielleicht auch ihrem ungeborenen Kind, denn sie ist ganz eindeutig schwanger. Als du eintrittst, dreht sie dir leicht den Kopf zu.</DefaultText>
+      <DefaultText>Eine dyrwäldische Frau steht vor ihrem Herd und summt leise eine Melodie vor sich hin&#160;– oder vielleicht auch ihrem ungeborenen Kind, denn sie ist ganz eindeutig schwanger. Als du eintrittst, dreht sie dir leicht den Kopf zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Und dann gäbe es da noch den Schwarzen Hund, ein Stückchen weiter südlich von hier&#160;…“ Sie seufzt und verstummt. „Ich muss zugeben, dass ich nicht mehr viel ausgehe, weil dieser&#160;… fürchterliche Baum da draußen ist. Es ist nicht mehr so, wie es früher war. Aber ich nirgendwo sonst hingehen.“</DefaultText>
+      <DefaultText>„Und dann gäbe es da noch den Schwarzen Hund, ein Stückchen weiter südlich von hier&#160;…“ Sie seufzt und verstummt. „Ich muss zugeben, dass ich nicht mehr viel ausgehe, weil dieser&#160;… fürchterliche Baum da draußen ist. Es ist nicht mehr so, wie es früher war. Aber ich kann nirgendwo sonst hingehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,7 +568,7 @@ Sie streckt ihre Hand nach Aufra aus, berührt sie aber nicht. „Wenn wir wenig
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Dir Karawane wurde angegriffen. Uns gelang die Flucht, Calisca aber geriet in einen Bîaŵac.“</DefaultText>
+      <DefaultText>„Die Karawane wurde angegriffen. Uns gelang die Flucht, Calisca aber geriet in einen Bîaŵac.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

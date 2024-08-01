@@ -288,7 +288,7 @@ Er sieht dich verloren und mit hängenden Augenlidern an. „Kein Schlaf. Kein S
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Maerwalds Stimme wird rau und erscheint an einem anderen Ort in Zeit und Raum zu sein, wo er mit einer unsichtbaren Person spricht.</DefaultText>
+      <DefaultText>Maerwalds Stimme wird rau und er scheint an einem anderen Ort in Raum und Zeit zu sein, wo er mit einer unsichtbaren Person spricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,7 +438,7 @@ Er sieht neben sich, als ob jemand in seiner Nähe stünde. „Anzünden.“</De
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Nein. Immer da. Immer in Erinnerung. Kann nicht vergessen. Das Gesehene ist nicht ungesehen machen.“</DefaultText>
+      <DefaultText>„Nein. Immer da. Immer in Erinnerung. Kann nicht vergessen. Das Gesehene nicht ungesehen machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -480,7 +480,7 @@ Er sieht neben sich, als ob jemand in seiner Nähe stünde. „Anzünden.“</De
       <ID>90</ID>
       <DefaultText>„Geheimnisse. Geheimnisse und Täuschungen und Ränke. Wer kennt ihre Antworten? Sie nicht. Sie nicht.“
 
-„Habe sie früher schon verärgert. Hass auf Wächter. Hass und Angst. Wir sehen viel, bedrohen Geheimnisse.“</DefaultText>
+„Habe sie früher schon verärgert. Hass der Wächter. Hass und Angst. Wir sehen viel, bedrohen Geheimnisse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -614,7 +614,7 @@ Du bewegst dich nun nach unten, weg von dem Ort, wo du stehst. Du siehst feuchtk
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Ein Bild aber bleibt in deiner Wahrnehmung haften: Ein kreisrunder Raum mit deinem der Sonne nachgebildeten Steintisch, in einem Gebiet, das von Rüstungen bewacht wird, die sich mit eigenem Willen bewegen. Er liegt ganz tief, nicht weit vom äußersten Tiefpunkt entfernt. In diesem Raum befindet sich eine Tür, die sich nur den schärfsten Augen offenbart, und dahinter liegt etwas Schillerndes, etwas Mächtiges&#160;…
+      <DefaultText>Ein Bild aber bleibt in deiner Wahrnehmung haften: Ein kreisrunder Raum mit einem, der Sonne nachgebildeten, Steintisch, in einem Bereich, welcher von Rüstungen bewacht wird, die sich mit eigenem Willen bewegen. Er liegt ganz tief, nicht weit vom äußersten Tiefpunkt entfernt. In diesem Raum befindet sich eine Tür, die sich nur den schärfsten Augen offenbart, und dahinter liegt etwas Schillerndes, etwas Mächtiges&#160;…
 
 Als das Bild verschwindet, befindest du dich wieder in Caed Nua. Maerwalds Seele ist verschwunden.</DefaultText>
       <FemaleText />
@@ -633,7 +633,7 @@ Als das Bild verschwindet, befindest du dich wieder in Caed Nua. Maerwalds Seele
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Der Bleierne Schlüssel? Es scheint, als hätten wir einen gemeinsamen Feind, [Player Name]. Meuchelmörder und Wächter-Wecker gleichermaßen&#160;… Sie sind vielbeschäftigt.“</DefaultText>
+      <DefaultText>„Der Bleierne Schlüssel? Es scheint, als hätten wir einen gemeinsamen Feind, [Player Name]. Meuchelmörder und Wächter-Erwecker gleichermaßen&#160;… Sie sind vielbeschäftigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
