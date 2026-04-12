@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2445</EntryCount>
+  <EntryCount>2494</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12231,8 +12231,8 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2455</ID>
-      <DefaultText>{0} der T&#x2060;reffer umgewandelt zu Kritischen Treffern mit Einhand-Nahkampfwaffen</DefaultText>
-      <FemaleText />
+      <DefaultText>{0} der T&#x2060;reffer werden mit einhändigen Nahkampfwaffen in Kritische Treffer umgewandelt</DefaultText>
+	  <FemaleText />
     </Entry>
     <Entry>
       <ID>2456</ID>
@@ -12256,7 +12256,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2460</ID>
-      <DefaultText />
+      <DefaultText>Datenschutzerklärung von Obsidian</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12271,7 +12271,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2463</ID>
-      <DefaultText />
+      <DefaultText>Wenn du uns die Telemetriedaten zu deinen Spieldurchläufen übermittelst, hilfst du uns dabei, unsere kommenden Spiele weiter zu verbessern. Du kannst diese Einstellung auch im Menü „Optionen“ ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12328,32 +12328,277 @@ Möchtest du die Telemetrie jetzt aktivieren?
     </Entry>
     <Entry>
       <ID>2470</ID>
-      <DefaultText>Inhalt von Royal Edition wird kopiert. Bitte warten.</DefaultText>
+      <DefaultText>Dein Zug</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>2471</ID>
-      <DefaultText>Möchtest du den zusätzlichen Inhalt von Royal Edition kopieren?</DefaultText>
+      <DefaultText>Zug des Feindes</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>2472</ID>
-      <DefaultText>Kopieren abgeschlossen</DefaultText>
+      <DefaultText>Zug des Verbündeten</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>2473</ID>
-      <DefaultText>Kopieren fehlgeschlagen</DefaultText>
+      <DefaultText>{0} • {1} Initiative</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2474</ID>
-      <DefaultText>Royal Edition installieren</DefaultText>
+      <DefaultText>Kampfbeginn</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>2475</ID>
-      <DefaultText>Royal Edition</DefaultText>
+      <DefaultText>Zug beenden</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2476</ID>
+      <DefaultText>Warten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2477</ID>
+      <DefaultText>Verfügbare Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2478</ID>
+      <DefaultText>Verfügbare Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2479</ID>
+      <DefaultText>Kampfgeschwindigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2480</ID>
+      <DefaultText>„Zug nach Aktion beenden“ umschalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2481</ID>
+      <DefaultText>Zug verzögern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2482</ID>
+      <DefaultText>{0} Zug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2483</ID>
+      <DefaultText>{0} Züge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2484</ID>
+      <DefaultText>Rnd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2485</ID>
+      <DefaultText>Runde {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2486</ID>
+      <DefaultText>{0} pro Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2487</ID>
+      <DefaultText>Auf Gruppenmitglied fokussieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2488</ID>
+      <DefaultText>Auf Feind fokussieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2489</ID>
+      <DefaultText>Auf Verbündeten fokussieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2490</ID>
+      <DefaultText>Richte die Kamera auf Gruppenmitglieder, wenn sie an der Reihe sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2491</ID>
+      <DefaultText>Richte die Kamera auf Feinde, wenn sie an der Reihe sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2492</ID>
+      <DefaultText>Richte die Kamera auf Verbündete, wenn sie an der Reihe sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2493</ID>
+      <DefaultText>Rundenbasierter Modus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2494</ID>
+      <DefaultText>Der rundenbasierte Modus stellt eine alternative Spielvariante dar, bei der die Charaktere in jeder Kampfrunde nacheinander an der Reihe sind. Empfohlen für Spieler, die rundenbasierte Spiele mögen. Im Kampf kann nicht zum rundenbasierten Modus gewechselt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2495</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2497</ID>
+      <DefaultText>Extrem hoch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2498</ID>
+      <DefaultText>Sehr hoch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2499</ID>
+      <DefaultText>Hoch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2500</ID>
+      <DefaultText>Durchschnitt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2501</ID>
+      <DefaultText>Niedrig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2502</ID>
+      <DefaultText>Initiative: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2503</ID>
+      <DefaultText>Aktionstyp: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2504</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2505</ID>
+      <DefaultText>Frei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2506</ID>
+      <DefaultText>Zauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2507</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2508</ID>
+      <DefaultText>Im Kampf kann nicht in den rundenbasierten Modus gewechselt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2509</ID>
+      <DefaultText>Aktuelle Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2510</ID>
+      <DefaultText>Nächste Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2511</ID>
+      <DefaultText>Keine Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2512</ID>
+      <DefaultText>Im Kampf kann der Heimlichkeitsmodus nicht aktiviert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2513</ID>
+      <DefaultText>Nicht dein Zug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2514</ID>
+      <DefaultText>Genutzte Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2515</ID>
+      <DefaultText>Smart-Kamera nutzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2516</ID>
+      <DefaultText>Die Smart-Kamera richtet sich automatisch auf deine Gruppe und die Kämpfe aus, während du die Kamera weiterhin frei schwenken und bewegen kannst. Wenn du diese Option deaktivierst, kehrt die Kamera zum herkömmlichen Steuerungsstil von Pillars of Eternity zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2517</ID>
+      <DefaultText>{0} Rüstungs-Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2518</ID>
+      <DefaultText>{0} Einzelwaffen-Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2519</ID>
+      <DefaultText>{0} Bewegungs-Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2520</ID>
+      <DefaultText>Kampfgeschwindigkeit erhöhen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2521</ID>
+      <DefaultText>Kampfgeschwindigkeit senken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2522</ID>
+      <DefaultText>Rundenbasierten Modus umschalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2524</ID>
+      <DefaultText>{0} Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2525</ID>
+      <DefaultText>{0} Runden</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

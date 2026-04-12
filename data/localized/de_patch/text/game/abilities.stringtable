@@ -2416,7 +2416,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Der Priester schleudert ein heiliges Feuer auf den Feind, das seinen Schutz aufhebt und sein Schicksal beschleunigt. Fügt fünf Sekunden lang kontinuierlich Brandschaden zu und beschleunigt den Zähler für alle zuträglichen Effekte auf dem Ziel (mit Ausnahme von Heilen) sowie aller kontinuierlichen Schadenseffekte. Springt auf bis zu zwei weitere Feinde in der Nähe über.</DefaultText>
+	  <DefaultText>Der Priester schleudert ein heiliges Feuer auf den Feind, das seinen Schutz aufhebt und sein Schicksal beschleunigt. Fügt für kurze Zeit kontinuierlich Verbrennungsschaden zu und beschleunigt den Zähler für alle zuträglichen Effekte auf dem Ziel (mit Ausnahme von Heilen) sowie aller kontinuierlichen Schadenseffekte. Springt auf bis zu zwei weitere Feinde in der Nähe über.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4436,7 +4436,7 @@
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>Die reine Seele des Paladins widersteht allen einwirkenden Kräften, wodurch er einen Bonus auf die Verteidigung gegen Gift und Krankheit sowie auf die Effekte Bezaubert, Beherrscht, Verängstigt und Verschreckt erhält&#160;– die Wirkungsdauer dieser Effekte wird auch um 5 Sekunden verringert.</DefaultText>
+      <DefaultText>Die reine Seele des Paladins widersteht allen einwirkenden Kräften, wodurch er einen Bonus auf die Verteidigung gegen Gift und Krankheit sowie auf die Effekte Bezaubert, Beherrscht, Verängstigt und Verschreckt erhält&#160;– die Wirkungsdauer dieser Effekte wird ebenfalls verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7320,8 +7320,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1481</ID>
-      <DefaultText>Feinde, die diese Wand durchdringen oder darin stehen, verlieren Zeit von allen zeitlich begrenzten positiven Statuseffekten, mit denen sie belegt sind. Für jede verlorene Sekunde gewinnt der Zauberer Zeit für seine eigenen positiven Statuseffekte.</DefaultText>
-      <FemaleText />
+	  <DefaultText>Gegner, die diese Wand durchqueren oder sich in ihr aufhalten, haben die verbleibende Dauer ihrer positiven Statuseffekte verkürzt. Für jeden Anteil an Dauer, der einem Effekt eines Gegners entzogen wird, erhalten die positiven Effekte des Zauberers eine gleichwertige Verlängerung ihrer Dauer.</DefaultText>
     </Entry>
     <Entry>
       <ID>1482</ID>

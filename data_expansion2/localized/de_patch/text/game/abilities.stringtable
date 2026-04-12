@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>1481</ID>
-      <DefaultText>Feinde, die diese Wand durchdringen oder darin stehen, verlieren Zeit von allen zeitlich begrenzten positiven Statuseffekten, mit denen sie belegt sind. Für jede verlorene Sekunde gewinnt der Zauberer Zeit für seine eigenen positiven Statuseffekte.</DefaultText>
+	  <DefaultText>Gegner, die diese Wand durchqueren oder sich in ihr aufhalten, haben die verbleibende Dauer ihrer positiven Statuseffekte verkürzt. Für jeden Anteil an Dauer, der einem Effekt eines Gegners entzogen wird, erhalten die positiven Effekte des Zauberers eine gleichwertige Verlängerung ihrer Dauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

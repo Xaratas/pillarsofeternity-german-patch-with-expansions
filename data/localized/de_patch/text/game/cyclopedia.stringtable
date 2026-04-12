@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>338</EntryCount>
+  <EntryCount>341</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -765,7 +765,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein Kritischer Treffer ist jeder Angriffswurf über 100. Ein Kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50&#160;%. Ein Kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50&#160;%.</DefaultText>
+      <DefaultText>Ein Kritischer Treffer ist jeder Angriffswurf höher oder gleich [Crit Min Roll]. Ein Kritischer Treffer, der Schaden verursacht, erhöht den insgesamt verursachten Schaden um 50&#160;%. Ein Kritischer Treffer bei Effekten mit einer Dauer (typischerweise Zustände wie „Erkrankt“ oder „Gelähmt“) verlängert die Dauer um 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -775,8 +775,8 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 16 und 50. Ein Leichter Treffer verringert Schaden und Dauer um 50&#160;%.</DefaultText>
-      <FemaleText />
+      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen [Graze Min Roll] und [Graze Max Roll]. Ein Leichter Treffer verringert den Schaden und die Dauer um 50&#160;%.</DefaultText>
+	  <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
@@ -785,8 +785,8 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Ein Treffer ist jeder Angriffswurf zwischen 51 und 100. Wenn ein Angriff einen Treffer verursacht, richtet dieser Treffer normalen Schaden an und hat eine normale Dauer.</DefaultText>
-      <FemaleText />
+      <DefaultText>Ein Treffer ist jeder Angriffswurf zwischen [Hit Min Roll] und [Hit Max Roll]. Wenn ein Angriff einen Treffer erzielt, verursacht er den üblichen Schaden und hat die übliche Dauer.</DefaultText>
+	  <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
@@ -845,11 +845,11 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Alle Angriffe in Pillars of Eternity vergleichen den Genauigkeitswert des Angreifers mit einer von vier Verteidigungen des Ziels: Abwehr (direkte Nah- und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift oder Krankheit), Reflexe (Wirkungsbereichangriffe) und Wille (mentale Angriffe).
+      <DefaultText>Bei allen Angriffen in Pillars of Eternity wird der Genauigkeitswert des Angreifers mit einer der vier Verteidigungsarten verglichen: Abwehr (direkte Nah- und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift und Krankheit), Reflexe (Wirkungsbereichangriffe) und Wille (mentale Angriffe). 
 
-Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschläge, 16–50 = Leichte Treffer, 51–100 = T&#x2060;reffer, ab 100 = Kritische Treffer.
+Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Kleiner oder gleich [Miss Max Roll] = Fehlschlag, [Graze Min Roll]–[Graze Max Roll] = Leichte Treffer, [Hit Min Roll]–[Hit Max Roll] = T&#x2060;reffer, größer als [Hit Max Roll] = Kritischer Treffer. 
 
-In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
+In einem ausgewogenen Angriffs- und Verteidigungsszenario enden die meisten Angriffe als Treffer oder Leichte Treffer. Wenn die Genauigkeit höher ist als die Verteidigung, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung höher ist als die Genauigkeit, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -859,7 +859,7 @@ In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angrif
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Ein Fehlschlag ist jeder Angriffswurf von 15 oder weniger. Ein Fehlschlag verursacht keinen Schaden, keine Statuseffekte und keine Wirkungen.</DefaultText>
+      <DefaultText>Ein Fehlschlag ist ein Angriffswurf kleiner oder gleich [Miss Max Roll]. Ein Fehlschlag verursacht keinen Schaden und führt zu keinen Statuseffekten oder Wirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1873,6 +1873,35 @@ Mondspinnen sind berüchtigt dafür, symbiotische Beziehungen mit anderen, meist
     <Entry>
       <ID>342</ID>
       <DefaultText>Sumpffledermäuse unterscheiden sich von den Artverwandten Skuldr und Skuldrak durch mehrere physiologische Merkmale. Am auffälligsten ist wohl, dass Sumpffledermäuse ihre jugendliche Morphologie auch dann beibehalten, wenn sie ausgewachsen sind. Dadurch sind Sumpffledermäuse flugfähig, ihre Beute ist jedoch auf Lebewesen beschränkt, die sie allein erlegen können. Zu diesem Zweck sind sie mit Drüsen ausgestattet, über die sie Gift auf ihre Beute spucken können. Sumpffledermäuse ziehen im Gegensatz zu ihren größeren Artverwandten ihre Brut nicht gemeinschaftlich auf. Meist sind sie in kleinen Schwärmen zu finden, die sich regelmäßig um Nahrung, Partner und Reviere streiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>345</ID>
+      <DefaultText>Rundenbasierter Modus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Zauberaktion
+
+Im rundenbasierten Modus verbraucht eine Zauberaktion den Aktionspunkt des Charakters. Der Charakter fängt sofort an, die Fähigkeit zu wirken. Er beendet das Wirken der Fähigkeit später in derselben Runde.
+
+Freie Aktion
+
+Im rundenbasierten Modus verbraucht eine freie Aktion keinen Aktionspunkt des Charakters. Ein Charakter kann in seinem Zug zusätzlich zu einer Standard- oder Zauberaktion beliebig viele freie Aktionen ausführen.
+
+Initiative
+
+Im rundenbasierten Modus bestimmt die Initiative, wer in der Zugreihenfolge zuerst handelt. Charaktere mit niedrigeren Initiativwerten handeln vor anderen Charakteren und schließen Zauber schneller ab.
+
+Standardaktion
+
+Im rundenbasierten Modus sind Standardaktionen die häufigste Art von Aktion. Eine Standardaktion verbraucht den Aktionspunkt des Charakters für diesen Zug und wird sofort ausgeführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Im rundenbasierten Modus bestimmt die Initiative, wer in der Zugreihenfolge als Erster an der Reihe ist. Charaktere mit niedrigerer Initiative handeln vor anderen Charakteren und schließen Zauber schneller ab.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
